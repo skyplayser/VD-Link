@@ -20,10 +20,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/skyplayser/VD-Link/releases/latest/download/VD-Link-macos-arm64.dmg"><img alt="Download für Mac mit Apple-Chip" src="https://img.shields.io/badge/Mac%20·%20Apple--Chip-Download-FF5C93?style=for-the-badge&logo=apple&logoColor=white&labelColor=151821"></a>
-  <a href="https://github.com/skyplayser/VD-Link/releases/latest/download/VD-Link-macos-x64.dmg"><img alt="Download für Mac mit Intel" src="https://img.shields.io/badge/Mac%20·%20Intel-Download-FF5C93?style=for-the-badge&logo=apple&logoColor=white&labelColor=151821"></a>
-  <a href="https://github.com/skyplayser/VD-Link/releases/latest/download/VD-Link-windows.exe"><img alt="Download für Windows" src="https://img.shields.io/badge/Windows%2010%20·%2011-Download-FF5C93?style=for-the-badge&logo=windows&logoColor=white&labelColor=151821"></a>
-  <br><sub>Erster Start: <a href="docs/INSTALLATION.md">kurze Installationsanleitung</a> – die App ist noch nicht bei Apple/Microsoft signiert.</sub>
+  <a href="https://github.com/skyplayser/Link-Suite/releases/latest/download/Link-Suite-macos-arm64.dmg"><img alt="Link-Suite für Mac mit Apple-Chip laden" src="https://img.shields.io/badge/Mac%20·%20Apple--Chip-Download-FF5C93?style=for-the-badge&logo=apple&logoColor=white&labelColor=151821"></a>
+  <a href="https://github.com/skyplayser/Link-Suite/releases/latest/download/Link-Suite-macos-intel.dmg"><img alt="Link-Suite für Mac mit Intel laden" src="https://img.shields.io/badge/Mac%20·%20Intel-Download-FF5C93?style=for-the-badge&logo=apple&logoColor=white&labelColor=151821"></a>
+  <a href="https://github.com/skyplayser/Link-Suite/releases/latest/download/Link-Suite-windows.exe"><img alt="Link-Suite für Windows laden" src="https://img.shields.io/badge/Windows%2010%20·%2011-Download-FF5C93?style=for-the-badge&logo=windows&logoColor=white&labelColor=151821"></a>
+  <br><sub>VD-Link wird über den Launcher <a href="https://skyplayser.github.io/Link-Suite/">Link-Suite</a> installiert und aktualisiert – zusammen mit LJ-Link, VJ-Link und den anderen Programmen der Suite.</sub>
 </p>
 
 <p align="center">
@@ -118,7 +118,7 @@ Drei fertige Szenarien – **Club**, **Großraumdisko** und **Festival mit Tag/N
 
 ## 🚀 In drei Schritten zur Show
 
-1. **Installieren** – Datei oben laden und öffnen ([Anleitung](docs/INSTALLATION.md)). Ohne Pult läuft sofort eine Demo-Show.
+1. **Installieren** – den Launcher [Link-Suite](https://skyplayser.github.io/Link-Suite/) laden und dort VD-Link installieren. Ohne Pult läuft sofort eine Demo-Show.
 2. **Patchen** – im Pult die Geräte so patchen, wie VD-Link sie unter **PATCH** zeigt (oder die CSV-Liste importieren).
 3. **Senden** – Art-Net oder sACN an die IP-Adresse von VD-Link (steht auf dem Startbildschirm und unter **VERBINDEN**). Pult auf demselben Rechner: sACN oder Art-Net-Unicast an `127.0.0.1`.
 
