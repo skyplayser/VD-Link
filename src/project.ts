@@ -87,6 +87,8 @@ export interface AppSettings {
   fpsCap: 60 | 0;
   /** Start animation: like the Link-Suite (suite.json → intro), or the own value of VD-Link. */
   intro?: 'suite' | 'on' | 'off';
+  /** „Nicht mehr zeigen“ on the Link-Suite launcher hint of the start screen. */
+  hideLauncherHint?: boolean;
 }
 
 const APP_KEY = 'vdlink.app';

@@ -2,6 +2,7 @@
 
 ## 0.2.0 – in Arbeit
 
+- Startbildschirm: kleine Karte „Link-Suite laden“, wenn der Launcher Link-Suite nicht installiert ist (gemeinsamer Baustein aus dem Suite-Launcher). Die Prüfung ist lokal, ins Netz geht erst der Klick auf „Link-Suite laden“ (öffnet die Suite-Seite im Browser). „Nicht mehr zeigen“ merkt sich VD-Link; keine Karte bei offenem Projekt
 - Startanimation der Link-Suite (gemeinsamer Baustein aus dem Suite-Launcher): alle Programme fächern aus dem Suite-Zeichen auf, VD-Link fliegt auf sein Logo im Startbildschirm, die Kacheln blenden ein (≤ 2,5 s). Überspringen mit Taste oder Klick, „Bewegung reduzieren“ wird beachtet, einmal je Programmstart, nicht nach einem Absturz und nicht über der 3D-Ansicht. Schalter: Einstellungen → Oberfläche → Startanimation (Wie die Suite / An / Aus)
 - Leistung: 3D-Ansicht, Builder und Vorschau pausieren, solange das Fenster minimiert oder ausgeblendet ist
 - Leistung: 3D-Ansicht auf 60 fps begrenzt (einstellbar: Einstellungen → Darstellung → Bildrate), Builder 60 fps, Bibliotheks-Vorschau 30 fps – vorher wurde auf 165-Hz-Monitoren mit voller Bildschirmrate gerendert, was z. B. VJ-Link Grafikleistung genommen hat

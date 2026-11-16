@@ -53,6 +53,7 @@ if (!window.vd) {
       projectRecent: async () => [],
       userFixtures: async () => [],
       projectPending: async () => null,
+      suiteLauncher: async () => null,
       fileOpen: async () => null,
       projectOpen: async () => null,
       fileSave: async () => null,
@@ -540,6 +541,7 @@ else if (params.get('project') === 'demo') {
   const ct = params.get('camtarget')?.split(',').map(Number);
   if (cp?.length === 3 && ct?.length === 3) (viz as Viz | null)?.setCameraRaw(cp as [number, number, number], ct as [number, number, number]);
 } else {
+  if (introOn) start.introWait = new Promise((r) => addEventListener('linksuite-intro-done', r, { once: true }));
   await start.show(!introOn);
   clearTimeout(introGuard);
   // Development: ?intro=1&introspeed=0.1 (slow motion), &introreduced=1 (reduced motion),

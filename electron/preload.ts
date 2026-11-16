@@ -71,6 +71,11 @@ const api = {
   projectClearRecent: () => ipcRenderer.invoke('project:clearRecent'),
   /** Start animation: allowed = first load of this app start (main process decides); suite = suite.json → intro. */
   introInfo: () => ipcRenderer.invoke('intro:info') as Promise<{ allowed: boolean; suite: boolean | null }>,
+  /** Link-Suite launcher installed? (local check in the main process; null = unknown/unsupported) */
+  suiteLauncher: () => ipcRenderer.invoke('suite:launcher') as Promise<{ installed: boolean; version?: string } | null>,
+  onSuiteLauncher: (cb: (l: { installed: boolean; version?: string } | null) => void) => ipcRenderer.on('suite:launcher', (_e, l) => cb(l)),
+  /** Opens the Link-Suite download page (fixed address in the main process). */
+  openLauncherPage: () => ipcRenderer.invoke('suite:launcher-page') as Promise<void>,
   projectPending: () => ipcRenderer.invoke('project:pending') as Promise<string | null>,
   projectState: (st: { path: string | null; dirty: boolean; data: unknown }) => ipcRenderer.send('project:state', st),
   setLang: (l: 'de' | 'en') => ipcRenderer.invoke('app:lang', l),

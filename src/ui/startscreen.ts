@@ -8,14 +8,26 @@ import type { Ctx } from './ctx.ts';
 import { el, icon, logoSlots, seg } from './dom.ts';
 import { getLang, LANGS, setLang, t } from './i18n.ts';
 import { defaultImages, playProgramIntro } from './intro/program-intro.js';
+import { showLauncherHint } from './suite/launcher-hint.js';
+import './suite/launcher-hint.css';
 
 export const REPO = 'skyplayser/VD-Link';
 
 export class StartScreen {
   private root = el('div', 'start');
   private netBox = el('div', 'start-net');
+  /** Link-Suite launcher hint: result of the main process, the open card, and what it waits for. */
+  private launcher: { installed: boolean } | null = null;
+  private launcherAsked = false;
+  private hint: { el: HTMLElement | null; update(l: { installed: boolean } | null): void } | null = null;
+  /** Set by main before the first show when the start animation plays: the hint fades in after it. */
+  introWait: Promise<unknown> | true = true;
 
   constructor(private ctx: Ctx) {
+    window.vd.onSuiteLauncher?.((l) => {
+      this.launcher = l;
+      this.hint?.update(l);
+    });
     this.root.hidden = true;
     this.root.setAttribute('role', 'dialog');
     this.root.setAttribute('aria-label', 'VD-Link Start');
@@ -178,13 +190,51 @@ export class StartScreen {
     love.title = 'instagram.com/nextphilm';
     love.onclick = () => window.vd.openUrl('https://www.instagram.com/nextphilm/');
     const extra = el('div', 'start-extra');
-    extra.append(langBox, upd, love);
+    const slot = el('div', 'lsh-slot');
+    extra.append(langBox, upd, slot, love);
+    await this.launcherHint(slot);
     right.append(extra);
     card.append(left, right);
 
     const foot = el('div', 'start-foot');
     foot.append(el('span', 'muted small', t('start.hint')), el('span', 'muted small', t('start.foot', { v: this.ctx.version() })));
     r.append(card, foot);
+  }
+
+  /**
+   * Small card „Link-Suite laden“ when the Link-Suite launcher is not installed (shared module
+   * from the Suite-Launcher). Never over an open project / the 3D view, never in automated runs
+   * (unless ?hint=1); after the start animation on the first show, right away afterwards.
+   */
+  private async launcherHint(slot: HTMLElement) {
+    const q = new URLSearchParams(location.search);
+    if (!this.launcherAsked) {
+      this.launcherAsked = true;
+      this.launcher = await window.vd.suiteLauncher().catch(() => null);
+    }
+    // Development: ?hint=1&launcher=missing|installed to check both cases.
+    const force = q.get('launcher');
+    const launcher = force === 'missing' ? { installed: false } : force === 'installed' ? { installed: true } : this.launcher;
+    const after = this.introWait;
+    this.introWait = true;
+    this.hint = showLauncherHint({
+      host: slot,
+      launcher,
+      iconSrc: './suite/icons/link-suite-icon.svg',
+      lang: getLang() === 'en' ? 'en' : 'de',
+      hidden: !!this.ctx.app.hideLauncherHint,
+      allowed: !this.ctx.project() && ([...q.keys()].length === 0 || q.get('hint') === '1'),
+      compact: true,
+      after,
+      onGet: () => void window.vd.openLauncherPage(),
+      onHide: () => {
+        this.ctx.app.hideLauncherHint = true;
+        this.ctx.saveApp();
+      },
+    });
+    if (q.size) console.log(`[vd] launcher ${JSON.stringify(launcher)} card=${!!this.hint.el}`);
+    // Development: ?hintclick=hide clicks „Nicht mehr zeigen“ after 4 s (test of the flag).
+    if (q.get('hintclick') === 'hide') setTimeout(() => slot.querySelector<HTMLButtonElement>('.lsh-hide')?.click(), 4000);
   }
 
   private async checkUpdate(box: HTMLElement) {

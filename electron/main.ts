@@ -12,6 +12,7 @@ import { ArtNetReceiver } from './dmx/artnet.ts';
 import { SacnReceiver } from './dmx/sacn.ts';
 import { DmxMerger } from './dmx/merger.ts';
 import { buildMenu } from './menu.ts';
+import { detectLauncher, type LauncherInfo } from './suite/launcher-detect.ts';
 import { clearRecent, kindOf, listRecent, listUserFixtures, openDialog, openFileDialog, readFile, readProject, removeUserFixture, saveFile, saveProject, storeUserFixture, type FileKind } from './projects.ts';
 
 const UNIVERSES = 32;
@@ -265,6 +266,14 @@ ipcMain.handle('intro:info', () => {
   introAsked = true;
   return { allowed, suite: suiteIntro() };
 });
+// Link-Suite launcher hint (shared module from the Suite-Launcher, src/ui/suite/): is the
+// launcher installed? Checked locally (fixed paths, Spotlight/registry only as fallback), no
+// network. The window only gets installed/version, never the path.
+let launcher: LauncherInfo | null = null;
+const launcherForUi = (l: LauncherInfo | null) => (l && l.via !== 'unsupported' ? { installed: l.installed, version: l.version } : null);
+ipcMain.handle('suite:launcher', async () => launcherForUi(launcher ?? (launcher = await detectLauncher().catch(() => null))));
+// Fixed address, never taken from the window.
+ipcMain.handle('suite:launcher-page', () => shell.openExternal('https://skyplayser.github.io/Link-Suite/'));
 ipcMain.handle('app:info', () => ({ version: app.getVersion(), platform: process.platform, arch: process.arch }));
 
 ipcMain.handle('net:info', () => {
@@ -424,6 +433,11 @@ function createWindow() {
   const vis = (v: boolean) => () => win?.webContents.send('win:visible', v);
   win.on('minimize', vis(false));
   win.on('hide', vis(false));
+  // Back in the window (e.g. Link-Suite just installed) → check again, the hint disappears.
+  win.on('focus', async () => {
+    launcher = await detectLauncher({ search: false }).catch(() => launcher);
+    win?.webContents.send('suite:launcher', launcherForUi(launcher));
+  });
   win.on('restore', vis(true));
   win.on('show', vis(true));
 }
@@ -445,6 +459,7 @@ app.whenReady().then(() => {
     if (src) callback({ video: src });
     else callback(null);
   });
+  void detectLauncher().then((l) => (launcher = l), () => {});
   crashedLastRun = existsSync(runningLock());
   try {
     writeFileSync(runningLock(), String(process.pid));
