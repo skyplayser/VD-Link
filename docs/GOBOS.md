@@ -42,7 +42,7 @@ Achtung: In QLC+-Dateien sind „White“, „Solid“ und „None“ teils als 
 
 ### Auswertung der Gobo-Namen (OFL MIT, QLC+ Apache-2.0)
 
-Ausgewertet wurden `vendor-src/ofl/fixtures` und `vendor-src/qlcplus/resources/fixtures`. Das Skript lag nur im Scratchpad und ist nicht Teil des Repos.
+Ausgewertet wurden `vendor-src/ofl/fixtures` und `vendor-src/qlcplus/resources/fixtures`. 
 
 - **OFL:** 127 Goboräder in 109 Geräten mit Wheels. Häufigste Gobo-Anzahl pro Rad: 7 (49 Räder), 6 (17), 9 (14), 8 (12), 5/10/14 (je 5). Rund drei Viertel der Gobo-Slots (727) haben **keinen Namen**. Benannte Slots: Stars/Star (6), Gobo N, Bubbles, Flower(s), Triangle, Lines, Diamonds, Shattered, Splash, Swirl, Tunnel, Leaves … OFL-`resource`-Verweise: `10-circles`, `biohazard` (je 5), `glass-raindrops-on-window` (4), `3-fold-swirl`, `rose-petal`, `triangle-hexagon-pattern`, `dot-spiral` (je 3).
 - **QLC+:** 6205 Gobo-Capabilities. Fast alle heißen „Gobo N“, „Gobo N shake“ oder „Shaking Gobo N“. Nur wenige sind benannt, etwa Star (8), Triangle (8), Spot, Wave, Circle, Snowflake, Breakup, Dots, Bars oder Circles.

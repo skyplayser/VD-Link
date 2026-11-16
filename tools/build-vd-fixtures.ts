@@ -174,7 +174,7 @@ writeFileSync(
   `# Eigene Fixture-Definitionen (VD-Link, EPL-2.0)\n\n` +
     `${defs.length} Lampen, davon ${verified} mit geprüfter Kanalbelegung. Erzeugt mit \`npm run vd-fixtures\` aus\n\n` +
     `- den Steckbriefen in \`tools/vd-fixtures/catalog-*.ts\` (${catDefs.length} Lampen) und\n` +
-    `- den Steckbriefen der Fixture-Recherche in \`docs/fixture-research/modes/\` (${resDefs.length} Lampen, Methode und Quellen: \`docs/fixture-research/modes/README.md\`).\n\n` +
+    `- den Steckbriefen der Fixture-Recherche in \`docs/fixture-research/modes/\` (${resDefs.length} Lampen, Methode und Quellen: \`docs/fixture-research/README.md\`).\n\n` +
     `**Geprüft = nein** heißt: Kanalzahl und Funktionen stammen aus den Herstellerangaben (bei Shop-Daten aus den Produkttexten), die Reihenfolge der Kanäle folgt dem typischen Schema dieser Lampenart. Vor einer echten Show mit dem Handbuch vergleichen (in der Bibliothek steht dazu ein Hinweis). **Geprüft = ja** heißt: Kanalfolge und Wertebereiche wurden aus dem DMX-Protokoll des Herstellers übertragen.\n\n` +
     `## Übersicht\n\n` +
     `- **Kataloge** (\`tools/vd-fixtures/\`): ${catDefs.length} Lampen (${manCount(catDefs)})\n` +

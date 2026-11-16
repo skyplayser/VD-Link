@@ -11,5 +11,4 @@ public/fixtures/
 .tmp-vd-fixtures.mjs
 # local tooling and material that is not part of the project
 .claude/
-docs/referenz/demo-club/
-docs/logo-entwuerfe/lj-link/
+docs/intern/

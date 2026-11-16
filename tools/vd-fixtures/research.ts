@@ -17,7 +17,7 @@ const SKIP = new Set(['missing-data.json', 'possible-duplicates.json']);
 
 const norm = (x: string) => x.toLowerCase().replace(/[^a-z0-9]/g, '');
 
-/** Research group per research file (docs/fixture-research/README-gruppeN.md). */
+/** Research group per research file (docs/fixture-research/groups.json: file → group 1–4). */
 export const GROUPS: Record<number, string> = {
   1: 'Gruppe 1 · High-End, Touring & Theater',
   2: 'Gruppe 2 · Mittelklasse, Verleih & Club',
@@ -25,12 +25,8 @@ export const GROUPS: Record<number, string> = {
   4: 'Gruppe 4 · China OEM/ODM & Eigenmarken',
 };
 function groupOfFile(): Map<string, number> {
-  const m = new Map<string, number>();
-  for (const g of [1, 2, 3, 4]) {
-    const txt = readFileSync(path.join(DIR, `README-gruppe${g}.md`), 'utf8');
-    for (const x of txt.matchAll(/`([a-z0-9-]+\.json)`/g)) if (!m.has(x[1])) m.set(x[1], g);
-  }
-  return m;
+  const g: Record<string, number> = JSON.parse(readFileSync(path.join(DIR, 'groups.json'), 'utf8'));
+  return new Map(Object.entries(g));
 }
 
 interface ModelHint {
@@ -43,7 +39,7 @@ interface ModelHint {
 
 /** Spec kinds that only name a category – an own shape from models.json fits better. */
 const GENERIC: Kind[] = ['effect', 'multihead', 'tiltbar', 'beam', 'matrixhead', 'lasermh', 'ufo'];
-/** Moving heads: research sizes are whole-fixture sizes, not head sizes (see modes/README.md). */
+/** Moving heads: research sizes are whole-fixture sizes, not head sizes . */
 const NO_SIZE: Kind[] = ['beam', 'spot', 'hybrid', 'profile', 'wash', 'beeeye', 'matrixhead', 'lasermh', 'multihead', 'dot', 'arms', 'spider', 'scanner'];
 
 export interface ResearchSpec {

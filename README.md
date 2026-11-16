@@ -1,41 +1,162 @@
-<h1 align="center">
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-for-dark.png">
-    <img src="assets/logo-for-light.png" alt="VD-Link" width="360">
+    <source media="(prefers-color-scheme: dark)" srcset="docs/brand/vd-logo-dark.svg">
+    <img src="docs/brand/vd-logo-light.svg" alt="VD-Link" width="420">
   </picture>
-</h1>
+</p>
 
-3D-Lichtvisualisierer für Art-Net und sACN. Dein Lichtpult steuert eine virtuelle Location – Club, Großraumdisko oder Festival – und du siehst die Show, bevor sie hängt. Schwesterprojekt von [VJ-Link](https://skyplayser.github.io/VJ-LINK/) und [LJ-Link](https://github.com/skyplayser/LJ-Link). „VD“ steht für **Virtual-Demo**.
+<h3 align="center">Sieh deine Lichtshow, bevor sie hängt.</h3>
 
-> Stand: **Beta 0.1.0**. Läuft auf macOS (Apple Silicon) und ist für Windows 10/11 vorbereitet; vieles hat noch keine echte Bühnentechnik gesehen.
+<p align="center">
+  Freier 3D-Lichtvisualisierer für Art-Net und sACN. Dein Pult steuert eine virtuelle Location –<br>
+  Club, Großraumdisko, Festival oder dein eigener Nachbau – mit Lichtkegeln, Gobos, Pixeln und Videowänden.
+</p>
 
-![Großraumdisko](docs/screenshots/disco.png)
+<p align="center">
+  <a href="https://github.com/skyplayser/VD-Link/releases/latest"><img alt="Version" src="https://img.shields.io/github/v/release/skyplayser/VD-Link?include_prereleases&style=for-the-badge&label=Version&color=FF5C93&labelColor=151821"></a>
+  <a href="https://github.com/skyplayser/VD-Link/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/skyplayser/VD-Link/total?style=for-the-badge&label=Downloads&color=22C8F0&labelColor=151821"></a>
+  <img alt="macOS und Windows" src="https://img.shields.io/badge/macOS%20%C2%B7%20Windows-DCE1EA?style=for-the-badge&labelColor=151821&color=2A2F3D">
+  <a href="LICENSE"><img alt="Lizenz EPL-2.0" src="https://img.shields.io/badge/Lizenz-EPL--2.0-8A5CFF?style=for-the-badge&labelColor=151821"></a>
+</p>
 
-| | |
-|---|---|
-| ![Startbildschirm](docs/screenshots/start.png) | ![Festival bei Nacht](docs/screenshots/festival-nacht.png) |
-| ![Festival bei Tag](docs/screenshots/festival-tag.png) | ![Fixture-Bibliothek](docs/screenshots/bibliothek.png) |
+<p align="center">
+  <a href="https://github.com/skyplayser/VD-Link/releases/latest/download/VD-Link-macos-arm64.dmg"><img alt="Download für Mac mit Apple-Chip" src="https://img.shields.io/badge/Mac%20·%20Apple--Chip-Download-FF5C93?style=for-the-badge&logo=apple&logoColor=white&labelColor=151821"></a>
+  <a href="https://github.com/skyplayser/VD-Link/releases/latest/download/VD-Link-macos-x64.dmg"><img alt="Download für Mac mit Intel" src="https://img.shields.io/badge/Mac%20·%20Intel-Download-FF5C93?style=for-the-badge&logo=apple&logoColor=white&labelColor=151821"></a>
+  <a href="https://github.com/skyplayser/VD-Link/releases/latest/download/VD-Link-windows.exe"><img alt="Download für Windows" src="https://img.shields.io/badge/Windows%2010%20·%2011-Download-FF5C93?style=for-the-badge&logo=windows&logoColor=white&labelColor=151821"></a>
+  <br><sub>Erster Start: <a href="docs/INSTALLATION.md">kurze Installationsanleitung</a> – die App ist noch nicht bei Apple/Microsoft signiert.</sub>
+</p>
 
-## Was schon läuft
+<p align="center">
+  <img src="docs/screenshots/disco.png" alt="VD-Link: Großraumdisko mit Moving Heads, Haze und drei Videowänden" width="100%">
+</p>
 
-| Bereich | Stand |
-|---|---|
-| Ansicht | WebGPU (Rückfall WebGL2): Moving Heads mit Lichtkegeln im Haze, Gobos auf Boden, Wänden und Publikum, Prisma, Zoom, Strobe, Farbe, Glühen. Kameras Publikum, DJ, Totale, Seite, frei drehbar. Qualität Niedrig/Mittel/Hoch |
-| Szenarien | **Club** (eine Videowand hinter dem DJ, 50 Köpfe), **Großraumdisko** (drei Videowände, 86 Köpfe), **Festival** (Bühne mit Dach, IMAG-Wände, Delay-Tower, Tag/Nacht, 64 Köpfe) |
-| Pult | Art-Net 4 mit ArtPoll (Pulte finden VD-Link als Node) und sACN (Multicast, Unicast, Priorität). Mehrere Quellen werden zusammengeführt (höchste Priorität, sonst HTP). Universe-Zählung einstellbar. Getestet mit eigenem Testsender |
-| Bibliothek | Über 6.000 Geräte: aus der [Open Fixture Library](https://open-fixture-library.org) (MIT) und von [QLC+](https://www.qlcplus.org) (Apache-2.0) sowie rund 3.800 eigene Definitionen nach Herstellerangaben (EPL-2.0, Liste in [`docs/FIXTURES-VD.md`](docs/FIXTURES-VD.md)), auch UKing, YUER, Betopper, Shehds, Lixada. Kombinierte China-Kanäle („Aus / Dimmer / Strobe / Offen“) werden verstanden |
-| Patch | Automatisch, lückenlos ab Universe 1, mit Live-Farbe je Gerät. Patchliste als CSV für Daslight, MA, QLC+ |
-| Videowände | Jede Wand kann ein **virtueller Monitor** sein (macOS): VJ-Link gibt im Vollbild darauf aus, VD-Link zeigt das Bild auf der Wand. Sonst Testbild oder ein echter Bildschirm |
-| Baukasten | **Location-Builder**: Clubs und Festivals grob nachbauen (Raum/Gelände, Einrichtung, Traversen, Videowände, Lampen, Publikum) und als `.vdloc` speichern. **Fixture-Builder**: fehlende Lampen selbst anlegen (`.vdfix`). Projekte (`.vdlink`) enthalten Location und eigene Lampen |
-| Demo-Show | Ohne Pult läuft eine Demo-Show (Fächer, Ballyhoo mit Gobos, Strobe-Hit, Prisma-Welle) – über denselben DMX-Weg wie ein Pult |
-| Oberfläche | Startbildschirm wie VJ-Link (vor der 3D-Ansicht), Projektdateien `.vdlink` mit „Zuletzt geöffnet“, Einstellungen, Tabs ANSICHT, PATCH, BIBLIOTHEK, VIDEOWÄNDE, VERBINDEN, Deutsch und Englisch |
-| grandMA2 | Assistent für MA auf einem zweiten Rechner oder MA2 onPC auf demselben Windows-Rechner, mit Live-Prüfung (ArtPoll, ankommende Universes) und Befehlszeile. MA2 onPC braucht MA-Hardware (Wing/Node), damit es Art-Net/sACN ausgibt |
+> **Beta.** Entwickelt und getestet auf macOS mit Apple-Chip. Die Installer für Intel-Macs und Windows 10/11 werden mitgebaut, sind aber noch wenig getestet – und vieles hat noch keine echte Bühnentechnik gesehen. Rückmeldungen sind sehr willkommen.
 
-## Noch offen
+---
 
-Eigener 3D-Editor für Szenarien, Fixture-Editor, weitere Gerätetypen (PAR, Bars/Pixel, Strobe, Blinder, Laser), virtuelle Monitore unter Windows ([Virtual-Display-Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver), MIT), Syphon/Spout, Anbindung an LJ-Link (LJ-Link führt, VD-Link folgt – in Abstimmung), MVR/GDTF-Import, Signierung. Messungen auf MacBook Pro M2 und Gaming-Laptops ab 2018 stehen aus. Konzept: [`docs/KONZEPT.md`](docs/KONZEPT.md), Messwerte: [`docs/SPIKE-ERGEBNIS.md`](docs/SPIKE-ERGEBNIS.md).
+## ✨ Was VD-Link kann
 
-## Starten
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎛️ Jedes Pult
+Art-Net 4 mit ArtPoll – Pulte finden VD-Link als Node – und sACN mit Multicast, Unicast und Priorität. grandMA2/3, ChamSys, Avolites, Hog, Onyx, Eos, Daslight, QLC+ … Mehrere Quellen werden zusammengeführt. Ein Assistent führt Schritt für Schritt durch **grandMA2**.
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 Licht, das wie Licht aussieht
+WebGPU mit Lichtkegeln im Haze, Gobos auf Boden, Wänden und Publikum, Prisma, Zoom, Strobe und Glühen. **Washer** sind breit und weich, **Beams** schmal und hart – automatisch aus den Gerätedaten erkannt. Auf 60 fps begrenzt, damit daneben noch Luft für VJ-Link bleibt.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 📚 Über 6 000 Geräte
+Aus der [Open Fixture Library](https://open-fixture-library.org) und von [QLC+](https://www.qlcplus.org), dazu rund **3 800 eigene Definitionen** – von Robe, Martin und Claypaky bis UKing, YUER, Betopper und Shehds. Nach Hersteller sortiert, mit **Live-3D-Vorschau** jeder Lampe.
+
+</td>
+<td valign="top">
+
+### 🟥 Jedes Pixel einzeln
+LED-Zellen, Linsen und Halo-Ringe leuchten einzeln – Pixel-Bars, Bee-Eyes, Blinder und Matrix-Moving-Heads wie der UKing ZQ06133 mit 36 RGB-Pixeln plus 36 Warmweiß-Linsen. Eigene 3D-Modelle je Bauform: Moving Head, Bar, PAR, Scanner, Derby, GigBar …
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🏗️ Eigene Location bauen
+Der **Location-Builder** baut Clubs und Festivals nach: Wände, Podeste, runde Bühnen, Traversen (auch Kreis und Bogen), Videowände, Publikum. Lampen per Drag &amp; Drop auf die Traverse ziehen – sie rasten ein. Speichern als `.vdloc`.
+
+</td>
+<td valign="top">
+
+### 📺 Videowände mit VJ-Link
+Jede Wand kann ein **virtueller Monitor** sein: [VJ-Link](https://skyplayser.github.io/VJ-LINK/) gibt im Vollbild darauf aus, VD-Link zeigt das Bild auf der Wand (macOS). Mehrere Wände teilen sich einen HDMI-Ausgang – wie echte LED-Prozessoren.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🧰 Fehlt eine Lampe?
+Der **Fixture-Builder** legt sie an oder passt eine Bibliotheks-Lampe an: Modi, Kanäle, 16 bit, Bereiche, Vorlagen und DMX-Test mit Vorschau. Projekte (`.vdlink`) nehmen Location und eigene Lampen mit – sie laufen auf jedem Rechner.
+
+</td>
+<td valign="top">
+
+### 🎉 Ohne Pult loslegen
+Drei fertige Szenarien – **Club**, **Großraumdisko** und **Festival mit Tag/Nacht** – plus eine Demo-Show mit Fächer, Ballyhoo, Strobe-Hit und Prisma-Welle. Patch automatisch, Patchliste als CSV für MA, Daslight und QLC+.
+
+</td>
+</tr>
+</table>
+
+## 🎬 Bilder
+
+<table>
+<tr>
+<td width="50%"><img src="docs/screenshots/festival-nacht.png" alt="Festival bei Nacht"><br><sub><b>Festival bei Nacht</b> – Bühne mit Dach, IMAG-Wände, Delay-Tower</sub></td>
+<td width="50%"><img src="docs/screenshots/festival-tag.png" alt="Festival bei Tag"><br><sub><b>Festival bei Tag</b> – gleiche Show, Umschalter Tag/Nacht</sub></td>
+</tr>
+<tr>
+<td><img src="docs/screenshots/start.png" alt="Startbildschirm"><br><sub><b>Startbildschirm</b> – Projekte, Vorlagen, Builder und Einstellungen</sub></td>
+<td><img src="docs/screenshots/club.png" alt="Club"><br><sub><b>Club</b> – eine Videowand hinter dem DJ</sub></td>
+</tr>
+<tr>
+<td><img src="docs/screenshots/bibliothek.png" alt="Bibliothek"><br><sub><b>Bibliothek</b> – 6 084 Geräte von 221 Herstellern, Live-Vorschau</sub></td>
+<td><img src="docs/screenshots/builder.png" alt="Location-Builder"><br><sub><b>Location-Builder</b> – Raum und Technik getrennt bearbeiten</sub></td>
+</tr>
+<tr>
+<td><img src="docs/screenshots/fixtures/showroom.png" alt="Fixture-Showroom"><br><sub><b>Fixture-Showroom</b> – Washer, Spots, Beams, Bars und Blinder nebeneinander</sub></td>
+<td><img src="docs/screenshots/patch.png" alt="Patch"><br><sub><b>Patch</b> – automatisch, mit Live-Farbe je Gerät</sub></td>
+</tr>
+</table>
+
+## 🚀 In drei Schritten zur Show
+
+1. **Installieren** – Datei oben laden und öffnen ([Anleitung](docs/INSTALLATION.md)). Ohne Pult läuft sofort eine Demo-Show.
+2. **Patchen** – im Pult die Geräte so patchen, wie VD-Link sie unter **PATCH** zeigt (oder die CSV-Liste importieren).
+3. **Senden** – Art-Net oder sACN an die IP-Adresse von VD-Link (steht auf dem Startbildschirm und unter **VERBINDEN**). Pult auf demselben Rechner: sACN oder Art-Net-Unicast an `127.0.0.1`.
+
+<details>
+<summary>Universes verrutscht? Videowand mit VJ-Link?</summary>
+
+- **Universes:** Art-Net zählt ab 0, sACN ab 1 – unter **VERBINDEN** lässt sich die Zählung anpassen.
+- **Videowand:** **VIDEOWÄNDE → Virtuellen Monitor erzeugen**, dann in VJ-Link unter **AUSGABE** den Bildschirm „VD-Link Wall …“ wählen. macOS fragt beim ersten Mal nach der Freigabe „Bildschirmaufnahme“.
+
+</details>
+
+## 🧩 Teil der Link-Suite
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/brand/suite-logo-dark.svg">
+    <img src="docs/brand/suite-logo-light.svg" alt="Link-Suite" width="300">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/intro.gif" alt="Startanimation: alle Programme der Link-Suite fächern auf, VD-Link landet auf seinem Startbildschirm" width="760">
+</p>
+
+VD-Link gehört zur **[Link-Suite](https://skyplayser.github.io/Link-Suite/)** – Programme für Licht, Video und Show, die zusammenpassen: [LJ-Link](https://github.com/skyplayser/LJ-Link) bringt Takt und Tempo an die Pulte, [VJ-Link](https://skyplayser.github.io/VJ-LINK/) spielt die Visuals, VD-Link zeigt, wie alles zusammen aussieht. Der Launcher Link-Suite installiert und aktualisiert alle mit einem Klick.
+
+## 🗺️ Als Nächstes
+
+- [ ] Virtuelle Monitore unter Windows ([Virtual-Display-Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver), MIT)
+- [ ] Syphon (macOS) und Spout (Windows)
+- [ ] MVR- und GDTF-Import
+- [ ] Signierte Installer für macOS und Windows
+- [ ] Messungen auf Gaming-Laptops ab 2018
+
+## 🛠️ Selbst bauen
+
+<details>
+<summary>Entwickeln, Aufbau und Technik</summary>
 
 Voraussetzung: Node.js 22 oder neuer.
 
@@ -46,50 +167,35 @@ npm run build:native    # nur macOS: Helfer für virtuelle Monitore
 npm start
 ```
 
-Entwickeln mit Hot-Reload: `npm run dev`. Prüfen: `npm run check`.
-
-DMX ohne Pult testen:
-
-```bash
-npm run dmx-sender -- --proto artnet --target 127.0.0.1
-npm run dmx-sender -- --proto sacn --scenario disco
-```
-
-Installer bauen: `npm run dist:mac` bzw. `npm run dist:win`. Ein Tag `v*` baut über GitHub Actions die Installer für macOS (Apple-Chip und Intel) und Windows und veröffentlicht sie als Release. Installieren: [`docs/INSTALLATION.md`](docs/INSTALLATION.md).
-
-## Pult verbinden
-
-1. Im Pult die Geräte so patchen, wie es VD-Link unter **PATCH** zeigt (oder die CSV-Liste nutzen).
-2. Art-Net oder sACN an die IP-Adresse von VD-Link senden (steht auf dem Startbildschirm und unter **VERBINDEN**).
-3. Pult und VD-Link auf demselben Rechner: sACN oder Art-Net-Unicast an `127.0.0.1`.
-4. Falls die Universes verrutscht sind: unter **VERBINDEN** die Universe-Zählung anpassen (Art-Net zählt ab 0, sACN ab 1).
-
-Videowand mit VJ-Link: **VIDEOWÄNDE → Virtuellen Monitor erzeugen**, in VJ-Link unter **AUSGABE** den Bildschirm „VD-Link Wall …“ wählen. macOS fragt beim ersten Mal nach der Freigabe „Bildschirmaufnahme“.
-
-## Aufbau
+Hot-Reload: `npm run dev` · Prüfen: `npm run check` · Installer: `npm run dist:mac` bzw. `npm run dist:win` · DMX ohne Pult: `npm run dmx-sender -- --proto sacn --scenario disco`
 
 ```
-electron/        Main-Prozess: Art-Net/sACN-Empfang, Merge, virtuelle Monitore, Fenster
+electron/        Hauptprozess: Art-Net/sACN-Empfang, Merge, virtuelle Monitore, Fenster
 src/shared/      Fixture-Format, DMX-Codec (DMX ↔ Look), Szenarien, Patch, Demo-Show
-src/render/      Three.js/TSL: instanzierte Lichtkegel, Licht auf Flächen, Gobos, Videowände, Location
-src/ui/          Startbildschirm, Tabs, Texte (DE/EN)
+src/render/      three.js/TSL: Lichtkegel, Licht auf Flächen, Gobos, Videowände, Location, Lampen-Modelle
+src/builder/     Location-Builder
+src/ui/          Startbildschirm, Tabs, Bibliothek, Fixture-Builder, Texte (DE/EN)
 native/macos/    vd-display-helper: virtueller Monitor (CGVirtualDisplay)
-tools/           Fixture-Import (OFL + QLC+), eigene Fixtures (`vd-fixtures/`, `research/`), DMX-Testsender
-docs/            Konzept, Spike-Ergebnis, Screenshots
+tools/           Fixture-Import (OFL + QLC+), eigene Fixtures (vd-fixtures/), DMX-Testsender
+docs/            Installation, Gobos, Fixture-Recherche, Bilder
 ```
 
-## Technik-Entscheidung
+**Technik:** Electron, TypeScript und three.js (WebGPU mit Rückfall auf WebGL2, Shader in TSL). Alle Lichtkegel entstehen in einem Draw-Call, Licht auf Flächen berechnet ein eigener Shader statt hunderter echter Lichtquellen, der Haze kommt aus einer vorberechneten 3D-Rauschtextur – so bleibt es auf Laptops flüssig.
 
-Electron mit TypeScript und Three.js (WebGPU mit Rückfall auf WebGL2, Shader in TSL). Gründe: nur Bausteine mit freizügigen Lizenzen, läuft auf macOS und Windows, gleiche Basis wie VJ-Link. Damit es auf Laptops flüssig bleibt, werden alle Lichtkegel in einem Draw-Call gezeichnet, Licht auf Flächen über einen eigenen Shader berechnet statt mit hunderten echten Lichtquellen, und der Haze kommt aus einer vorberechneten 3D-Rauschtextur.
+**Eigene Lampen:** [`docs/FIXTURES-VD.md`](docs/FIXTURES-VD.md) listet alle eigenen Definitionen mit Quelle; wie sie entstehen, steht in [`docs/fixture-research/`](docs/fixture-research/README.md). Gobos: [`docs/GOBOS.md`](docs/GOBOS.md).
 
-## Sicherheit im Live-Betrieb
+</details>
 
-VD-Link zeigt nur an, es steuert nichts. Strobe-Effekte in der Vorschau können trotzdem schnell blitzen – Vorsicht bei fotosensitiver Epilepsie. Art-Net und sACN haben keine Anmeldung (Branchenstandard): Show-Netz und Gäste-WLAN trennen.
+## 🤝 Mitmachen
 
-Der virtuelle Monitor unter macOS nutzt eine nicht öffentliche Schnittstelle von macOS (wie DeskPad und BetterDisplay). Sie funktioniert, kann sich aber mit macOS-Updates ändern.
+Fehler gefunden oder fehlt eine Lampe? [Issue anlegen](https://github.com/skyplayser/VD-Link/issues/new/choose) – es gibt Vorlagen für Fehler und für fehlende oder falsche Fixtures. Mehr in [`CONTRIBUTING.md`](CONTRIBUTING.md). Neue Versionen und Show-Clips zuerst auf Instagram: [@nextphilm](https://www.instagram.com/nextphilm/).
 
-## Lizenz
+## 🛡️ Sicherheit im Live-Betrieb
 
-Eclipse Public License 2.0, siehe `LICENSE`. Drittanbieter-Bausteine und ihre Lizenzen: [`THIRD_PARTY.md`](THIRD_PARTY.md), Fixture-Daten: `public/fixtures/NOTICE.md` (wird von `npm run fixtures` erzeugt).
+VD-Link zeigt nur an, es steuert nichts. Strobe-Effekte in der Vorschau können trotzdem schnell blitzen – Vorsicht bei fotosensitiver Epilepsie. Art-Net und sACN haben keine Anmeldung (Branchenstandard): Show-Netz und Gäste-WLAN trennen. Der virtuelle Monitor unter macOS nutzt eine nicht öffentliche Schnittstelle (wie DeskPad und BetterDisplay); sie kann sich mit macOS-Updates ändern.
 
-Art-Net™ Designed by and Copyright Artistic Licence Holdings Ltd. VD-Link ist ein unabhängiges Projekt und kein offizielles Produkt der genannten Hersteller; alle Marken gehören ihren Inhabern.
+## 📜 Lizenz
+
+[Eclipse Public License 2.0](LICENSE) · Drittanbieter-Bausteine: [`THIRD_PARTY.md`](THIRD_PARTY.md) · Fixture-Daten: Open Fixture Library (MIT) und QLC+ (Apache-2.0), Lizenztexte in `public/fixtures/NOTICE.md` (wird von `npm run fixtures` erzeugt).
+
+<sub>Art-Net™ Designed by and Copyright Artistic Licence Holdings Ltd. VD-Link ist ein unabhängiges Projekt und kein offizielles Produkt der genannten Hersteller; alle Marken gehören ihren Inhabern. © 2026 Philipp Spruck / NEXTPHILM</sub>

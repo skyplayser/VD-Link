@@ -94,6 +94,11 @@ export class StartScreen {
   /** Live part (network, incoming DMX), called ~1×/s while visible. */
   async tick() {
     if (this.root.hidden) return;
+    // Development: ?noip=1 hides the network box (screenshots for the README without real addresses).
+    if (new URLSearchParams(location.search).get('noip') === '1') {
+      this.netBox.hidden = true;
+      return;
+    }
     const ips = await window.vd.netInfo().catch(() => []);
     const st = this.ctx.dmxStatus();
     this.netBox.replaceChildren(el('h3', '', t('start.net')));

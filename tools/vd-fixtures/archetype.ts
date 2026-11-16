@@ -15,7 +15,7 @@ export type Kind =
   | 'par' | 'cob' | 'bar' | 'matrix' | 'tiltbar' | 'retro' | 'blinder' | 'strobe'
   | 'laser' | 'lasermh' | 'ufo' | 'multihead' | 'spider' | 'panel' | 'tube'
   | 'fresnel' | 'pc' | 'ellipsoidal' | 'par64' | 'flood' | 'follow' | 'effect'
-  // Own 3D shapes (see docs/3D-MODELLE.md): mirror scanner, bar with single heads,
+  // Own 3D shapes: mirror scanner, bar with single heads,
   // multi-arm effect, derby/moonflower, ball effect, ball head (MagicDot), lamps on a T-bar.
   | 'scanner' | 'multibar' | 'arms' | 'derby' | 'ball' | 'dot' | 'gigbar';
 
