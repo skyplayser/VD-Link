@@ -83,5 +83,6 @@ jobs:
           TAG: ${{ github.event.inputs.tag || github.ref_name }}
         run: |
           ls -la out
-          gh release view "$TAG" >/dev/null 2>&1 || gh release create "$TAG" --target "$GITHUB_SHA" --title "VD-Link $TAG" --notes-file docs/INSTALLATION.md
+          NOTES=docs/release-notes/$TAG.md; [ -f "$NOTES" ] || NOTES=docs/INSTALLATION.md
+          gh release view "$TAG" >/dev/null 2>&1 || gh release create "$TAG" --target "$GITHUB_SHA" --title "VD-Link $TAG" --notes-file "$NOTES"
           gh release upload "$TAG" out/* --clobber
