@@ -1,0 +1,4481 @@
+[
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC Ultra Performance",
+  "kind": "profile",
+  "light": "1150 W LED Engine (84 x 20 W weiß)",
+  "beamDeg": [
+   8,
+   54
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "channels": [
+   48,
+   58
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:5+5",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   312,
+   864,
+   660
+  ],
+  "weightKg": 44,
+  "url": "https://www.martin.com/en/products/mac-ultra-performance",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "vd:martin/mac-ultra-performance",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC Ultra Wash",
+  "kind": "wash",
+  "light": "1150 W LED Engine weiß 5800 K",
+  "beamDeg": [
+   6.8,
+   47.5
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "channels": [
+   29
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "frost",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   312,
+   848,
+   642
+  ],
+  "weightKg": 39,
+  "url": "https://www.martin.com/en/products/mac-ultra-wash",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Hyper-Zoom 1:10, nativ 6,8-47,5°"
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC Viper XIP",
+  "kind": "profile",
+  "light": "760 W LED Engine (55 x 20 W weiß)",
+  "beamDeg": [
+   5.7,
+   54
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "channels": [
+   54,
+   64,
+   70
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "gobo-rot:7+7",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   479,
+   758,
+   595
+  ],
+  "weightKg": 37,
+  "url": "https://www.martin.com/en/products/mac-viper-xip",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC Encore Two",
+  "kind": "profile",
+  "light": "55 x 18 W weiß (High CRI)",
+  "beamDeg": [
+   5,
+   54
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "channels": [
+   52,
+   62,
+   68
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "gobo-rot:7",
+   "gobo-static:11",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   479,
+   758,
+   596
+  ],
+  "weightKg": 36,
+  "url": "https://www.martin.com/en/products/mac-encore-two",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC Encore Performance CLD",
+  "kind": "profile",
+  "light": "LED weiß 6000 K",
+  "beamDeg": [
+   12,
+   48
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "channels": [
+   38
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:5",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   480,
+   740,
+   452
+  ],
+  "weightKg": 31,
+  "url": "https://www.martin.com/en/products/mac-encore-performance-cld",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:martin/mac-encore-performance",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC Encore Performance WRM",
+  "kind": "profile",
+  "light": "LED weiß 3000 K",
+  "beamDeg": [
+   12,
+   48
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "channels": [
+   38
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "gobo-rot:5",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   480,
+   740,
+   452
+  ],
+  "weightKg": 31,
+  "url": "https://www.martin.com/en/products/mac-encore-performance-wrm",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:martin/mac-encore-performance",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC Encore Wash CLD",
+  "kind": "wash",
+  "light": "LED weiß 6000 K",
+  "beamDeg": [
+   14,
+   60
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "channels": [
+   24
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "iris",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   480,
+   755,
+   452
+  ],
+  "weightKg": 28.5,
+  "url": "https://www.martin.com/en/products/mac-encore-wash-cld",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC Encore Wash WRM",
+  "kind": "wash",
+  "light": "LED weiß 3000 K",
+  "beamDeg": [
+   14,
+   60
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "channels": [
+   24
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "iris",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   480,
+   755,
+   452
+  ],
+  "weightKg": 28.5,
+  "url": "https://www.martin.com/en/products/mac-encore-wash-wrm",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "ERA 150 Wash",
+  "kind": "wash",
+  "light": "7 x 40 W RGBW",
+  "beamDeg": [
+   4.2,
+   58
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   18
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   176,
+   356,
+   276
+  ],
+  "weightKg": 7.3,
+  "url": "https://www.martin.com/en/products/era-150-wash",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:martin/era-150-wash",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "ERA 300 Profile",
+  "kind": "profile",
+  "light": "260 W LED weiß",
+  "beamDeg": [
+   13,
+   28
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   21
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "gobo-rot:7",
+   "gobo-static:9",
+   "prism",
+   "iris",
+   "zoom",
+   "focus",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   217,
+   564,
+   375
+  ],
+  "weightKg": 17,
+  "url": "https://www.martin.com/en/products/era-300-profile",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:martin/era-300-profile",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "ERA 400 Performance CLD",
+  "kind": "profile",
+  "light": "300 W LED weiß (kalt)",
+  "beamDeg": [
+   10,
+   30
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   30
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "gobo-rot:7",
+   "gobo-static:9",
+   "prism",
+   "iris",
+   "zoom",
+   "focus",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   237,
+   632,
+   379
+  ],
+  "weightKg": 22.5,
+  "url": "https://www.martin.com/en/products/era-400-performance-cld",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:martin/era-400-performance",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "ERA 400 Performance WRM",
+  "kind": "profile",
+  "light": "300 W LED weiß (warm)",
+  "beamDeg": [
+   10,
+   30
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   30
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "gobo-rot:7",
+   "gobo-static:9",
+   "prism",
+   "iris",
+   "zoom",
+   "focus",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   237,
+   632,
+   379
+  ],
+  "weightKg": 22.5,
+  "url": "https://www.martin.com/en/products/era-400-performance-wrm",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:martin/era-400-performance",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "ERA 600 Performance",
+  "kind": "profile",
+  "light": "550 W LED weiß 6500 K",
+  "beamDeg": [
+   6,
+   45
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   41
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:7",
+   "gobo-static:8",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   290,
+   734,
+   544
+  ],
+  "weightKg": 32.3,
+  "url": "https://www.martin.com/en/products/era-600-performance",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "ERA 600 Profile",
+  "kind": "spot",
+  "light": "550 W LED weiß 6500 K",
+  "beamDeg": [
+   6,
+   45
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   35
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:7+7",
+   "gobo-static:8",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   290,
+   734,
+   544
+  ],
+  "weightKg": 31.3,
+  "url": "https://www.martin.com/en/products/era-600-profile",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "vd:martin/era-600-profile",
+  "notes": "Profile ohne Framing (zwei rot. Goboräder lt. Herstellerseite 14 rot. Gobos)"
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "ERA 700 Performance IP",
+  "kind": "profile",
+  "light": "680 W LED Engine",
+  "beamDeg": [
+   5.4,
+   44
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   42,
+   54
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:7",
+   "gobo-static:8",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   314,
+   759,
+   542
+  ],
+  "weightKg": 39.7,
+  "url": "https://www.martin.com/en/products/era-700-performance-ip",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "ERA 800 Performance",
+  "kind": "profile",
+  "light": "800 W LED weiß 6500 K",
+  "beamDeg": [
+   7,
+   56
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   42
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:6",
+   "gobo-static:7",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   290,
+   802,
+   608
+  ],
+  "weightKg": 41,
+  "url": "https://www.martin.com/en/products/era-800-performance",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "ERA 800 Profile",
+  "kind": "spot",
+  "light": "800 W LED weiß 6500 K",
+  "beamDeg": [
+   7,
+   56
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   36
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:6+6",
+   "gobo-static:7",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   290,
+   802,
+   608
+  ],
+  "weightKg": 40,
+  "url": "https://www.martin.com/en/products/era-800-profile",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC One",
+  "kind": "wash",
+  "light": "1 x 120 W RGBL + 24 x 0,25 W RGB Backlight",
+  "beamDeg": [
+   4,
+   27
+  ],
+  "pan": 540,
+  "tilt": 225,
+  "channels": [
+   20,
+   36,
+   108
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": "24 RGB-LEDs Backlight",
+  "pixels": null,
+  "sizeMm": [
+   226,
+   297,
+   220
+  ],
+  "weightKg": 4.4,
+  "url": "https://www.martin.com/en/products/mac-one",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "vd:martin/mac-one",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC One Beam",
+  "kind": "beam",
+  "light": "1 x 20 W laser-gestützte Lichtquelle + 24 x 0,25 W RGB Backlight",
+  "beamDeg": [
+   0.8,
+   0.8
+  ],
+  "pan": 540,
+  "tilt": 225,
+  "channels": [
+   19,
+   35,
+   107
+  ],
+  "features": [
+   "colorwheel",
+   "pixel"
+  ],
+  "ring": "24 RGB-LEDs Backlight",
+  "pixels": null,
+  "sizeMm": [
+   226,
+   303,
+   233
+  ],
+  "weightKg": 5,
+  "url": "https://www.martin.com/en/products/mac-one-beam",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC Aura PXL",
+  "kind": "wash",
+  "light": "RGBW Beam-LEDs + 141 x 0,3 W RGB Aura",
+  "beamDeg": [
+   6,
+   59
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "channels": [
+   17,
+   32,
+   89,
+   512
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": "141 RGB-Aura-LEDs (Hintergrundbeleuchtung)",
+  "pixels": null,
+  "sizeMm": [
+   410,
+   516,
+   216
+  ],
+  "weightKg": 15.6,
+  "url": "https://www.martin.com/en/products/mac-aura-pxl",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "vd:martin/mac-aura-pxl",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC Aura Raven XIP",
+  "kind": "wash",
+  "light": "RGBL LED Engine + RGB Aura",
+  "beamDeg": [
+   6,
+   51
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "channels": [
+   22,
+   38,
+   149,
+   266
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   528,
+   588,
+   241
+  ],
+  "weightKg": 28.8,
+  "url": "https://www.martin.com/en/products/mac-aura-raven-xip",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP-Version, BeamShaper"
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC Aura XIP",
+  "kind": "wash",
+  "light": "RGBW LEDs + 12 RGBW Aura-Filamente",
+  "beamDeg": [
+   6.3,
+   35.3
+  ],
+  "pan": 540,
+  "tilt": 220,
+  "channels": [
+   20,
+   36,
+   57,
+   93,
+   14,
+   25
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": "12 RGBW Aura-Filamente",
+  "pixels": null,
+  "sizeMm": [
+   338,
+   387,
+   205
+  ],
+  "weightKg": 8.95,
+  "url": "https://www.martin.com/en/products/mac-aura-xip",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:martin/mac-aura-xip",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC Aura XB",
+  "kind": "wash",
+  "light": "19 x 15 W RGBW + 30 x 0,3 W RGB Aura",
+  "beamDeg": [
+   9,
+   41.7
+  ],
+  "pan": 540,
+  "tilt": 232,
+  "channels": [
+   14,
+   25
+  ],
+  "features": [
+   "cto",
+   "zoom"
+  ],
+  "ring": "30 RGB-Aura-LEDs",
+  "pixels": null,
+  "sizeMm": [
+   302,
+   360,
+   163
+  ],
+  "weightKg": 6.5,
+  "url": "https://www.martin.com/en/products/mac-aura-xb",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "vd:martin/mac-aura-xb",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC Aura",
+  "kind": "wash",
+  "light": "19 x 10 W RGBW + Aura-Backlight (Sekundärlinse)",
+  "beamDeg": [
+   11,
+   58
+  ],
+  "pan": 540,
+  "tilt": 232,
+  "channels": [
+   14,
+   25
+  ],
+  "features": [
+   "cto",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   302,
+   360,
+   302
+  ],
+  "weightKg": 5.6,
+  "url": "https://www.martin.com/en/products/mac-aura",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:martin/mac-aura",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC Quantum Wash",
+  "kind": "wash",
+  "light": "50 x 15 W RGBW",
+  "beamDeg": [
+   11,
+   53
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   33,
+   17
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   431,
+   511,
+   452
+  ],
+  "weightKg": 21,
+  "url": "https://www.martin.com/en/products/mac-quantum-wash",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "vd:martin/mac-quantum-wash",
+  "notes": "rotierende Frontlinse, Ringsteuerung"
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC Quantum Profile",
+  "kind": "profile",
+  "light": "475 W LED Engine",
+  "beamDeg": [
+   12,
+   36
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "channels": [
+   19,
+   27
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "gobo-rot:6",
+   "gobo-static:10",
+   "prism",
+   "iris",
+   "zoom",
+   "focus",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   431,
+   642,
+   452
+  ],
+  "weightKg": 23.2,
+  "url": "https://www.martin.com/en/products/mac-quantum-profile",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:martin/mac-quantum-profile",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC Allure Profile",
+  "kind": "spot",
+  "light": "7 x 60 W RGBW (7 Pixel)",
+  "beamDeg": [
+   12,
+   36
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "channels": [
+   32,
+   68
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-rot:6",
+   "prism",
+   "iris",
+   "zoom",
+   "focus",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "7 Pixel (Hex)",
+  "sizeMm": [
+   410,
+   609,
+   385
+  ],
+  "weightKg": 17.6,
+  "url": "https://www.martin.com/en/products/mac-allure-profile",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "vd:martin/mac-allure-profile",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC Allure Wash PC",
+  "kind": "wash",
+  "light": "7 x 60 W RGBW (7 Pixel)",
+  "beamDeg": [
+   12,
+   36
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "channels": [
+   28,
+   64
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "7 Pixel (Hex)",
+  "sizeMm": [
+   410,
+   609,
+   385
+  ],
+  "weightKg": 17.6,
+  "url": "https://www.martin.com/en/products/mac-allure-wash-pc",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC Axiom Hybrid",
+  "kind": "hybrid",
+  "light": "Osram Sirius HRI 440 W",
+  "beamDeg": [
+   2,
+   44
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   23
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "gobo-rot:9",
+   "gobo-static:16",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   414,
+   616,
+   399
+  ],
+  "weightKg": 24.8,
+  "url": "https://www.martin.com/en/products/mac-axiom-hybrid",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "ofl:martin/mac-axiom-hybrid",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC Viper Profile",
+  "kind": "spot",
+  "light": "1000 W Entladungslampe (Osram Lok-it! 1000/PS)",
+  "beamDeg": [
+   10,
+   44
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "channels": [
+   26,
+   34
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:5+5",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   472,
+   731,
+   566
+  ],
+  "weightKg": 37.2,
+  "url": "https://www.martin.com/en/products/mac-viper-profile",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "vd:martin/mac-viper-profile",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC Viper Performance",
+  "kind": "profile",
+  "light": "1000 W Entladungslampe",
+  "beamDeg": [
+   10,
+   44
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "channels": [
+   32,
+   40
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:5",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   472,
+   731,
+   472
+  ],
+  "weightKg": 37.9,
+  "url": "https://www.martin.com/en/products/mac-viper-performance",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:martin/mac-viper-performance",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC Viper AirFX",
+  "kind": "beam",
+  "light": "1000 W Entladungslampe",
+  "beamDeg": [
+   11,
+   58
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "channels": [
+   20,
+   28
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:5",
+   "gobo-static:7",
+   "frost",
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   473,
+   732,
+   472
+  ],
+  "weightKg": 35.7,
+  "url": "https://www.martin.com/en/products/mac-viper-airfx",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:martin/mac-viper-airfx",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC Viper Beam",
+  "kind": "beam",
+  "light": "1000 W Entladungslampe",
+  "beamDeg": [
+   7.5,
+   31
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "channels": [
+   20,
+   28
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:5",
+   "gobo-static:7",
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   473,
+   866,
+   701
+  ],
+  "weightKg": 37.6,
+  "url": "https://www.martin.com/en/products/mac-viper-beam",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC Viper Quadray",
+  "kind": "effect",
+  "light": "1000 W Entladungslampe",
+  "beamDeg": [
+   12.5,
+   51
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "channels": [
+   20,
+   28
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:5",
+   "gobo-static:7",
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   473,
+   732,
+   566
+  ],
+  "weightKg": 36.1,
+  "url": "https://www.martin.com/en/products/mac-viper-quadray",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC Viper Wash",
+  "kind": "wash",
+  "light": "1000 W Entladungslampe",
+  "beamDeg": [
+   13.5,
+   59
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "channels": [
+   18,
+   24
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   473,
+   732,
+   472
+  ],
+  "weightKg": 33,
+  "url": "https://www.martin.com/en/products/mac-viper-wash",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Bibliothek enthält nur MAC Viper Wash (DX) (ofl:martin/mac-viper-wash)"
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC Viper Wash DX",
+  "kind": "wash",
+  "light": "1000 W Entladungslampe",
+  "beamDeg": [
+   13.5,
+   59
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "channels": [
+   18,
+   24
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "iris",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   473,
+   732,
+   472
+  ],
+  "weightKg": 34.1,
+  "url": "https://www.martin.com/en/products/mac-viper-wash-dx",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:martin/mac-viper-wash",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC III Profile",
+  "kind": "spot",
+  "light": "1500 W Entladungslampe",
+  "beamDeg": [
+   11.5,
+   55
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "channels": [
+   27,
+   30
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:5+5",
+   "prism",
+   "iris",
+   "zoom",
+   "focus",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   536,
+   936,
+   712
+  ],
+  "weightKg": 53.5,
+  "url": "https://www.martin.com/en/products/mac-iii-profile",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "vd:martin/mac-iii-profile",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC III Performance",
+  "kind": "profile",
+  "light": "1500 W Entladungslampe",
+  "beamDeg": [
+   11.5,
+   55
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "channels": [
+   33,
+   40
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:5",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   536,
+   936,
+   712
+  ],
+  "weightKg": 56.5,
+  "url": "https://www.martin.com/en/products/mac-iii-performance",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC III Wash",
+  "kind": "wash",
+  "light": "1500 W Entladungslampe",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 268,
+  "channels": [
+   21
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   536,
+   936,
+   712
+  ],
+  "weightKg": 53.5,
+  "url": "https://www.martin.com/en/products/mac-iii-wash",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC III AirFX",
+  "kind": "beam",
+  "light": "1500 W Entladungslampe",
+  "beamDeg": [
+   10,
+   47
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "channels": [
+   22
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "frost",
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   536,
+   936,
+   712
+  ],
+  "weightKg": 54.9,
+  "url": "https://www.martin.com/en/products/mac-iii-airfx",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC III Quadray",
+  "kind": "effect",
+  "light": "1500 W Entladungslampe",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 268,
+  "channels": [
+   22
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   536,
+   936,
+   712
+  ],
+  "weightKg": 55.3,
+  "url": "https://www.martin.com/en/products/mac-iii-quadray",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC 2000 Profile",
+  "kind": "spot",
+  "light": "1200 W Entladungslampe (MSR Gold 1200)",
+  "beamDeg": [
+   10,
+   28
+  ],
+  "pan": 540,
+  "tilt": 267,
+  "channels": [
+   20,
+   24
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "gobo-rot:5+5",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   490,
+   743,
+   408
+  ],
+  "weightKg": 38,
+  "url": "https://www.martin.com/en/products/mac-2000-profile",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC 2000 Profile II",
+  "kind": "spot",
+  "light": "1200 W Entladungslampe",
+  "beamDeg": [
+   14,
+   35
+  ],
+  "pan": 540,
+  "tilt": 267,
+  "channels": [
+   20,
+   24
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "gobo-rot:5+5",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   490,
+   743,
+   408
+  ],
+  "weightKg": 45,
+  "url": "https://www.martin.com/en/products/mac-2000-profile-ii",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:martin/mac-2000-profile-ii",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC 2000 Performance II",
+  "kind": "profile",
+  "light": "1200 W Entladungslampe",
+  "beamDeg": [
+   12,
+   31
+  ],
+  "pan": 540,
+  "tilt": 267,
+  "channels": [
+   28,
+   31
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "gobo-rot:5",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   490,
+   743,
+   408
+  ],
+  "weightKg": 39.5,
+  "url": "https://www.martin.com/en/products/mac-2000-performance-ii",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:martin/mac-2000-performance-ii",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC 2000 Wash",
+  "kind": "wash",
+  "light": "1200 W Entladungslampe",
+  "beamDeg": [
+   12.5,
+   95
+  ],
+  "pan": 540,
+  "tilt": 267,
+  "channels": [
+   19,
+   21
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   490,
+   750,
+   408
+  ],
+  "weightKg": 34,
+  "url": "https://www.martin.com/en/products/mac-2000-wash",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:martin/mac-2000-wash",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC 2000 Wash XB",
+  "kind": "wash",
+  "light": "1500 W Entladungslampe",
+  "beamDeg": [
+   12.5,
+   35
+  ],
+  "pan": 540,
+  "tilt": 267,
+  "channels": [
+   19,
+   21
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   490,
+   750,
+   408
+  ],
+  "weightKg": 38,
+  "url": "https://www.martin.com/en/products/mac-2000-wash-xb",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC 2000 Beam XB",
+  "kind": "beam",
+  "light": "1500 W Entladungslampe",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "cmy",
+   "colorwheel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.martin.com/en/products/mac-2000-beam-xb",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC TW1",
+  "kind": "wash",
+  "light": "1200 W Halogen (Tungsten)",
+  "beamDeg": [
+   14.5,
+   27
+  ],
+  "pan": 540,
+  "tilt": 242,
+  "channels": [
+   14,
+   20
+  ],
+  "features": [
+   "cmy",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   362,
+   709,
+   454
+  ],
+  "weightKg": 26.8,
+  "url": "https://www.martin.com/en/products/mac-tw1",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC 700 Profile",
+  "kind": "spot",
+  "light": "700 W Entladungslampe",
+  "beamDeg": [
+   16,
+   30
+  ],
+  "pan": 540,
+  "tilt": 246,
+  "channels": [
+   23,
+   31
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "gobo-rot:6",
+   "gobo-static:9",
+   "prism",
+   "iris",
+   "zoom",
+   "focus",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   365,
+   636,
+   450
+  ],
+  "weightKg": 34.5,
+  "url": "https://www.martin.com/en/products/mac-700-profile",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:martin/mac-700-profile",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC 700 Wash",
+  "kind": "wash",
+  "light": "700 W Entladungslampe",
+  "beamDeg": [
+   12.5,
+   66
+  ],
+  "pan": 540,
+  "tilt": 246,
+  "channels": [
+   16,
+   23
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "frost",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   365,
+   656,
+   450
+  ],
+  "weightKg": 32,
+  "url": "https://www.martin.com/en/products/mac-700-wash",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:martin/mac-700-wash",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC 550",
+  "kind": "spot",
+  "light": "400 W Entladungslampe",
+  "beamDeg": [
+   14,
+   30
+  ],
+  "pan": 540,
+  "tilt": 246,
+  "channels": [
+   21,
+   27
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-rot:6",
+   "gobo-static:9",
+   "prism",
+   "iris",
+   "zoom",
+   "focus",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   365,
+   636,
+   450
+  ],
+  "weightKg": 31,
+  "url": "https://www.martin.com/en/products/mac-550",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC 575 Krypton",
+  "kind": "spot",
+  "light": "575 W Entladungslampe",
+  "beamDeg": [
+   16,
+   31
+  ],
+  "pan": 540,
+  "tilt": 246,
+  "channels": [
+   19,
+   25
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-rot:6",
+   "gobo-static:9",
+   "prism",
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   365,
+   636,
+   450
+  ],
+  "weightKg": 37.8,
+  "url": "https://www.martin.com/en/products/mac-575-krypton",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC 600",
+  "kind": "wash",
+  "light": "575 W Entladungslampe",
+  "beamDeg": [
+   18,
+   18
+  ],
+  "pan": 440,
+  "tilt": 306,
+  "channels": [
+   10,
+   12,
+   14
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "frost"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   481,
+   652,
+   356
+  ],
+  "weightKg": 31.5,
+  "url": "https://www.martin.com/en/products/mac-600",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:martin/mac-600",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC 600 E NT",
+  "kind": "wash",
+  "light": "575 W Entladungslampe",
+  "beamDeg": [
+   18,
+   18
+  ],
+  "pan": 440,
+  "tilt": 306,
+  "channels": [
+   11,
+   13,
+   15
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "frost"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   481,
+   652,
+   356
+  ],
+  "weightKg": 25.4,
+  "url": "https://www.martin.com/en/products/mac-600-e-nt",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:martin/mac-600-nt",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC 500",
+  "kind": "spot",
+  "light": "575 W Entladungslampe (MSR 575/2)",
+  "beamDeg": null,
+  "pan": 440,
+  "tilt": 306,
+  "channels": [],
+  "features": [
+   "colorwheel",
+   "gobo-rot:6",
+   "gobo-static:9",
+   "prism",
+   "frost",
+   "iris",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.martin.com/en/products/mac-500",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:martin/mac500",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC 250 Krypton",
+  "kind": "spot",
+  "light": "250 W Entladungslampe",
+  "beamDeg": [
+   20,
+   20
+  ],
+  "pan": 540,
+  "tilt": 257,
+  "channels": [
+   14,
+   17
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-rot:7",
+   "prism",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   315,
+   538,
+   375
+  ],
+  "weightKg": 22.4,
+  "url": "https://www.martin.com/en/products/mac-250-krypton",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:martin/mac-250-krypton",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC 250 Entour",
+  "kind": "spot",
+  "light": "250 W Entladungslampe",
+  "beamDeg": [
+   14.5,
+   14.5
+  ],
+  "pan": 540,
+  "tilt": 257,
+  "channels": [
+   15,
+   18
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-rot:7",
+   "gobo-static:10",
+   "prism",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   315,
+   538,
+   375
+  ],
+  "weightKg": 22.4,
+  "url": "https://www.martin.com/en/products/mac-250-entour",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:martin/mac250-entour",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC 250 Beam",
+  "kind": "beam",
+  "light": "250 W Entladungslampe",
+  "beamDeg": [
+   3,
+   8
+  ],
+  "pan": 540,
+  "tilt": 257,
+  "channels": [
+   13,
+   19
+  ],
+  "features": [
+   "cmy",
+   "frost"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   315,
+   606,
+   375
+  ],
+  "weightKg": 22.9,
+  "url": "https://www.martin.com/en/products/mac-250-beam",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:martin/mac-250-beam",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC 250 Wash",
+  "kind": "wash",
+  "light": "250 W Entladungslampe",
+  "beamDeg": [
+   19,
+   19
+  ],
+  "pan": 540,
+  "tilt": 257,
+  "channels": [
+   13,
+   19
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "frost"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   315,
+   538,
+   375
+  ],
+  "weightKg": 22.9,
+  "url": "https://www.martin.com/en/products/mac-250-wash",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:martin/mac-250-wash",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC 250+",
+  "kind": "spot",
+  "light": "250 W Entladungslampe (MSD 250/2)",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 289,
+  "channels": [],
+  "features": [
+   "colorwheel",
+   "gobo-rot"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.martin.com/en/products/mac-250-plus",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:martin/mac250",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC 350 Entour",
+  "kind": "spot",
+  "light": "LED weiß",
+  "beamDeg": [
+   25,
+   25
+  ],
+  "pan": 630,
+  "tilt": 300,
+  "channels": [
+   14,
+   17
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-rot:6",
+   "iris",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   220,
+   454,
+   377
+  ],
+  "weightKg": 16.6,
+  "url": "https://www.martin.com/en/products/mac-350-entour",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:martin/mac-350-entour",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC 301 Wash",
+  "kind": "wash",
+  "light": "LED",
+  "beamDeg": [
+   13,
+   35
+  ],
+  "pan": 430,
+  "tilt": 300,
+  "channels": [
+   12,
+   15,
+   16,
+   19
+  ],
+  "features": [
+   "colorwheel",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   320,
+   388,
+   200
+  ],
+  "weightKg": 8.9,
+  "url": "https://www.martin.com/en/products/mac-301-wash",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:martin/mac-301-wash",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC 101",
+  "kind": "wash",
+  "light": "Cree XP-E RGB-LEDs",
+  "beamDeg": [
+   13,
+   13
+  ],
+  "pan": 540,
+  "tilt": 240,
+  "channels": [
+   8,
+   12
+  ],
+  "features": [
+   "colorwheel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   241,
+   304,
+   241
+  ],
+  "weightKg": 3.7,
+  "url": "https://www.martin.com/en/products/mac-101",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:martin/mac-101",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC 101 CT",
+  "kind": "wash",
+  "light": "Cree XP-E LEDs variabel weiß",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 240,
+  "channels": [
+   10
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   241,
+   304,
+   241
+  ],
+  "weightKg": 3.7,
+  "url": "https://www.martin.com/en/products/mac-101-ct",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC 401 Dual RGB Zoom",
+  "kind": "wash",
+  "light": "36 Osram RGB-LEDs (beidseitig)",
+  "beamDeg": [
+   20,
+   50
+  ],
+  "pan": 630,
+  "tilt": 300,
+  "channels": [
+   13,
+   17,
+   21,
+   25,
+   33
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   505,
+   527,
+   221
+  ],
+  "weightKg": 21,
+  "url": "https://www.martin.com/en/products/mac-401-dual-rgb-zoom",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:martin/mac-401-dual-rgb-zoom",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MAC 401 Dual CT Zoom",
+  "kind": "wash",
+  "light": "36 x 10 W warm-/kaltweiß",
+  "beamDeg": [
+   20,
+   50
+  ],
+  "pan": 630,
+  "tilt": 300,
+  "channels": [
+   13,
+   17,
+   21,
+   25,
+   33
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   505,
+   527,
+   221
+  ],
+  "weightKg": 21,
+  "url": "https://www.martin.com/en/products/mac-401-dual-ct-zoom",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:martin/mac-401-dual-ct-zoom",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "smartMAC",
+  "kind": "spot",
+  "light": "150 W Entladungslampe",
+  "beamDeg": [
+   25,
+   25
+  ],
+  "pan": 600,
+  "tilt": 257,
+  "channels": [
+   12,
+   15
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-rot:6",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   352,
+   454,
+   387
+  ],
+  "weightKg": 21,
+  "url": "https://www.martin.com/en/products/smartmac",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:martin/smartmac",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MiniMAC Profile",
+  "kind": "spot",
+  "light": "150 W Entladungslampe",
+  "beamDeg": [
+   17,
+   17
+  ],
+  "pan": 270,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "gobo-rot:7",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.martin.com/en/products/minimac-profile",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:martin/minimac-profile",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MiniMAC Wash",
+  "kind": "wash",
+  "light": "150 W Entladungslampe",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   4,
+   8
+  ],
+  "features": [
+   "colorwheel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   316,
+   415,
+   390
+  ],
+  "weightKg": 11.6,
+  "url": "https://www.martin.com/en/products/minimac-wash",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:martin/minimac-wash",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MiniMAC Maestro",
+  "kind": "spot",
+  "light": "150 W Halogen-Metalldampf",
+  "beamDeg": [
+   19,
+   19
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   6,
+   8,
+   9,
+   11
+  ],
+  "features": [
+   "gobo-rot:4",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   316,
+   415,
+   390
+  ],
+  "weightKg": 14,
+  "url": "https://www.martin.com/en/products/minimac-maestro",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:martin/minimac-maestro",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "PAL 1200",
+  "kind": "spot",
+  "light": "1200 W Entladungslampe (MSR 1200)",
+  "beamDeg": null,
+  "pan": 287,
+  "tilt": 85,
+  "channels": [],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "frost",
+   "zoom",
+   "focus",
+   "gobo-rot"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.martin.com/en/products/pal-1200",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "RoboScan Pro 918",
+  "kind": "scanner",
+  "light": "575 W Entladungslampe",
+  "beamDeg": null,
+  "pan": 180,
+  "tilt": 72,
+  "channels": [],
+  "features": [
+   "colorwheel",
+   "gobo-rot:6",
+   "gobo-static:9",
+   "prism",
+   "frost",
+   "iris",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.martin.com/en/products/roboscan-pro-918",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:martin/roboscan-pro-918",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MX-10 Extreme",
+  "kind": "scanner",
+  "light": "250 W Entladungslampe",
+  "beamDeg": [
+   18,
+   18
+  ],
+  "pan": 230,
+  "tilt": 75,
+  "channels": [
+   13
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-rot:8",
+   "prism",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   340,
+   315,
+   735
+  ],
+  "weightKg": 22,
+  "url": "https://www.martin.com/en/products/mx-10-extreme",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:martin/mx-10-extreme",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "CX-10 Extreme",
+  "kind": "scanner",
+  "light": "250 W Entladungslampe",
+  "beamDeg": [
+   32,
+   32
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   10
+  ],
+  "features": [
+   "colorwheel",
+   "frost",
+   "focus",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   340,
+   326,
+   412
+  ],
+  "weightKg": 19,
+  "url": "https://www.martin.com/en/products/cx-10-extreme",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:martin/cx-10-extreme",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "MX-1",
+  "kind": "scanner",
+  "light": "250 W Halogen MR16",
+  "beamDeg": null,
+  "pan": 230,
+  "tilt": null,
+  "channels": [
+   1,
+   6,
+   7
+  ],
+  "features": [
+   "gobo-static:18",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   269,
+   263,
+   537
+  ],
+  "weightKg": 6,
+  "url": "https://www.martin.com/en/products/mx-1",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:martin/mx-1",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "RUSH MH 1 Profile Plus",
+  "kind": "spot",
+  "light": "180 W LED weiß",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   17
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-rot:7",
+   "gobo-static:8",
+   "prism",
+   "iris",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   328,
+   588,
+   418
+  ],
+  "weightKg": 18,
+  "url": "https://www.martin.com/en/products/rush-mh-1-profile-plus",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "RUSH MH 1 Profile",
+  "kind": "spot",
+  "light": "180 W LED weiß",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   17
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-rot:7",
+   "gobo-static:8",
+   "prism",
+   "iris",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   328,
+   588,
+   418
+  ],
+  "weightKg": 18,
+  "url": "https://www.martin.com/en/products/rush-mh-1-profile",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:martin/rush-mh1-profile",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "RUSH MH 2 Wash",
+  "kind": "wash",
+  "light": "7 x 10 W RGBW",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 180,
+  "channels": [
+   12
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   156,
+   305,
+   258
+  ],
+  "weightKg": 5.7,
+  "url": "https://www.martin.com/en/products/rush-mh-2-wash",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "ofl:martin/rush-mh-2-wash",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "RUSH MH 3 Beam",
+  "kind": "beam",
+  "light": "Philips MSD Platinum 5R",
+  "beamDeg": [
+   1,
+   3.8
+  ],
+  "pan": 540,
+  "tilt": 220,
+  "channels": [
+   19
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-static:17",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   321,
+   489,
+   418
+  ],
+  "weightKg": 20.5,
+  "url": "https://www.martin.com/en/products/rush-mh-3-beam",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "ofl:martin/rush-mh-3-beam",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "RUSH MH 4 Beam",
+  "kind": "beam",
+  "light": "Osram HRI 132 W",
+  "beamDeg": [
+   3,
+   3
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   13
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-static:17",
+   "prism",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   255,
+   481,
+   319
+  ],
+  "weightKg": 14,
+  "url": "https://www.martin.com/en/products/rush-mh-4-beam",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "RUSH MH 5 Profile",
+  "kind": "spot",
+  "light": "75 W LED weiß",
+  "beamDeg": [
+   16,
+   16
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   16
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-rot:6",
+   "gobo-static:7",
+   "prism",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   187,
+   416,
+   290
+  ],
+  "weightKg": 9,
+  "url": "https://www.martin.com/en/products/rush-mh-5-profile",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "ofl:martin/rush-mh-5-profile",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "RUSH MH 6 Wash",
+  "kind": "wash",
+  "light": "12 x 10 W RGBW",
+  "beamDeg": [
+   10,
+   60
+  ],
+  "pan": 540,
+  "tilt": 200,
+  "channels": [
+   14
+  ],
+  "features": [
+   "frost",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   189,
+   360,
+   290
+  ],
+  "weightKg": 7.1,
+  "url": "https://www.martin.com/en/products/rush-mh-6-wash",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:martin/rush-mh6-wash",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "RUSH MH 6 Wash CT",
+  "kind": "wash",
+  "light": "12 x 10 W WW/CW",
+  "beamDeg": [
+   10,
+   60
+  ],
+  "pan": 540,
+  "tilt": 200,
+  "channels": [
+   14
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   189,
+   360,
+   290
+  ],
+  "weightKg": 7.1,
+  "url": "https://www.martin.com/en/products/rush-mh-6-wash-ct",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "RUSH MH 7 Hybrid",
+  "kind": "hybrid",
+  "light": "Philips MSD Platinum 11R 250 W",
+  "beamDeg": [
+   2.2,
+   24
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "channels": [
+   21
+  ],
+  "features": [
+   "cto",
+   "colorwheel",
+   "gobo-rot:8",
+   "gobo-static:12",
+   "prism",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   408,
+   644,
+   301
+  ],
+  "weightKg": 24,
+  "url": "https://www.martin.com/en/products/rush-mh-7-hybrid",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "ofl:martin/rush-mh-7-hybrid",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "RUSH MH 8 Mini Profile",
+  "kind": "spot",
+  "light": "18 W LED weiß",
+  "beamDeg": [
+   14,
+   14
+  ],
+  "pan": 540,
+  "tilt": 230,
+  "channels": [
+   10
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-static:8",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   237,
+   327,
+   157
+  ],
+  "weightKg": 4.5,
+  "url": "https://www.martin.com/en/products/rush-mh-8-mini-profile",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "RUSH MH 10 Beam FX",
+  "kind": "beam",
+  "light": "60 W RGBW (Osram) + Pixel-Effekte",
+  "beamDeg": [
+   4.4,
+   4.4
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   24,
+   93
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   188,
+   325,
+   275
+  ],
+  "weightKg": 7.5,
+  "url": "https://www.martin.com/en/products/rush-mh-10-beam-fx",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "RUSH MH 11 Beam",
+  "kind": "beam",
+  "light": "Philips MSD Platinum 11R 250 W",
+  "beamDeg": [
+   2.6,
+   2.6
+  ],
+  "pan": 660,
+  "tilt": 250,
+  "channels": [
+   18
+  ],
+  "features": [
+   "cto",
+   "colorwheel",
+   "gobo-rot:8",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   305,
+   581,
+   364
+  ],
+  "weightKg": 19.5,
+  "url": "https://www.martin.com/en/products/rush-mh-11-beam",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "RUSH Scanner 1 LED",
+  "kind": "scanner",
+  "light": "90 W LED weiß",
+  "beamDeg": null,
+  "pan": 170,
+  "tilt": 75,
+  "channels": [
+   16
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-rot:6",
+   "gobo-static:7",
+   "prism",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   303,
+   193,
+   588
+  ],
+  "weightKg": 9.6,
+  "url": "https://www.martin.com/en/products/rush-scanner-1-led",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "ofl:martin/rush-scanner-1-led",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "RUSH Multibeam 2",
+  "kind": "effect",
+  "light": "10 x 10 W RGBW (Cree XM-L)",
+  "beamDeg": [
+   8,
+   8
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   44
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   248,
+   164,
+   473
+  ],
+  "weightKg": 9.5,
+  "url": "https://www.martin.com/en/products/rush-multibeam-2",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "RUSH PAR 1 RGBW",
+  "kind": "par",
+  "light": "7 x 10 W RGBW",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   7
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   195,
+   293,
+   260
+  ],
+  "weightKg": 3.6,
+  "url": "https://www.martin.com/en/products/rush-par-1-rgbw",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:martin/rush-par-1-rgbw",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "RUSH PAR 2 RGBW Zoom",
+  "kind": "par",
+  "light": "12 x 10 W RGBW",
+  "beamDeg": [
+   10,
+   60
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   9
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   287,
+   329,
+   266
+  ],
+  "weightKg": 5.5,
+  "url": "https://www.martin.com/en/products/rush-par-2-rgbw-zoom",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "ofl:martin/rush-par-2-rgbw-zoom",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "RUSH PAR 2 CT Zoom",
+  "kind": "par",
+  "light": "12 x 10 W kalt-/warmweiß",
+  "beamDeg": [
+   10,
+   60
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   7
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   287,
+   329,
+   266
+  ],
+  "weightKg": 5.5,
+  "url": "https://www.martin.com/en/products/rush-par-2-ct-zoom",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "RUSH PAR 3 RGB",
+  "kind": "par",
+  "light": "RGB-LEDs",
+  "beamDeg": [
+   106,
+   106
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   9
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   265,
+   165,
+   250
+  ],
+  "weightKg": 4,
+  "url": "https://www.martin.com/en/products/rush-par-3-rgb",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "RUSH PAR 4 UV",
+  "kind": "par",
+  "light": "UV-LEDs",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   312,
+   207,
+   327
+  ],
+  "weightKg": 4,
+  "url": "https://www.martin.com/en/products/rush-par-4-uv",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "RUSH Pin 1 CW",
+  "kind": "par",
+  "light": "10 W Cree kaltweiß",
+  "beamDeg": [
+   7,
+   7
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   159,
+   184,
+   142
+  ],
+  "weightKg": 1.1,
+  "url": "https://www.martin.com/en/products/rush-pin-1-cw",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Pinspot, 7° oder 11°"
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "RUSH Batten 1 Hex",
+  "kind": "bar",
+  "light": "12 x RGBAW+UV (6-in-1)",
+  "beamDeg": [
+   25,
+   32
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   13,
+   80
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "12 Zellen linear",
+  "sizeMm": [
+   100,
+   200,
+   900
+  ],
+  "weightKg": 8,
+  "url": "https://www.martin.com/en/products/rush-batten-1-hex",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "RUSH Blinder 1 WW",
+  "kind": "blinder",
+  "light": "2x2 x 100 W COB warmweiß",
+  "beamDeg": [
+   70,
+   70
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   4,
+   8
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": "2x2",
+  "sizeMm": [
+   441,
+   177,
+   400
+  ],
+  "weightKg": 5,
+  "url": "https://www.martin.com/en/products/rush-blinder-1-ww",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "RUSH Strobe 1 5x5",
+  "kind": "strobe",
+  "light": "25 x 5 W kaltweiß",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   25,
+   29
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "5x5 Matrix",
+  "sizeMm": [
+   101,
+   500,
+   500
+  ],
+  "weightKg": 9.5,
+  "url": "https://www.martin.com/en/products/rush-strobe-1-5x5",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "RUSH Strobe CWL",
+  "kind": "strobe",
+  "light": "99 x 3 W kaltweiß",
+  "beamDeg": [
+   87,
+   87
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   4
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   140,
+   226,
+   505
+  ],
+  "weightKg": 4,
+  "url": "https://www.martin.com/en/products/rush-strobe-cwl",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "RUSH DC 1 Aqua",
+  "kind": "effect",
+  "light": "75 W LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4
+  ],
+  "features": [
+   "colorwheel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   342,
+   143,
+   276
+  ],
+  "weightKg": 4.1,
+  "url": "https://www.martin.com/en/products/rush-dc-1-aqua",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Wassereffekt-Projektor"
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "RUSH Gobo Projector 1",
+  "kind": "effect",
+  "light": "20 W LED",
+  "beamDeg": [
+   17,
+   17
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "gobo-static:1",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   135,
+   152,
+   215
+  ],
+  "weightKg": 2,
+  "url": "https://www.martin.com/en/products/rush-gobo-projector-1",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "Atomic 3000 LED",
+  "kind": "strobe",
+  "light": "228 x Cree XP-L weiß (Beam) + RGB Aura",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   14,
+   3
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": "RGB-Aura-Fläche hinter Reflektor",
+  "pixels": null,
+  "sizeMm": [
+   425,
+   240,
+   245
+  ],
+  "weightKg": 7.8,
+  "url": "https://www.martin.com/en/products/atomic-3000-led",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:martin/atomic-3000-led",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "Atomic 3000 DMX",
+  "kind": "strobe",
+  "light": "3000 W Xenon-Blitzröhre",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   4
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   245,
+   240,
+   425
+  ],
+  "weightKg": 7.5,
+  "url": "https://www.martin.com/en/products/atomic-3000-dmx",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:martin/atomic-3000",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "VDO Atomic Bold",
+  "kind": "strobe",
+  "light": "LED weiß + RGB Aura (P3-fähig)",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   4,
+   10,
+   27,
+   243
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   288,
+   288,
+   161
+  ],
+  "weightKg": 9.32,
+  "url": "https://www.martin.com/en/products/vdo-atomic-bold",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "VDO Atomic Dot CLD",
+  "kind": "strobe",
+  "light": "LED kaltweiß + RGB Aura",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   4,
+   19,
+   64
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   130,
+   134,
+   146
+  ],
+  "weightKg": 2.2,
+  "url": "https://www.martin.com/en/products/vdo-atomic-dot-cld",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "VDO Atomic Dot WRM",
+  "kind": "strobe",
+  "light": "LED warmweiß + RGB Aura",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   4,
+   19,
+   64
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   130,
+   134,
+   146
+  ],
+  "weightKg": 2.2,
+  "url": "https://www.martin.com/en/products/vdo-atomic-dot-wrm",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "VDO Sceptron 10",
+  "kind": "bar",
+  "light": "RGB-LEDs linear (320 mm / 1000 mm Varianten)",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   10,
+   13,
+   22,
+   103,
+   307
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   27,
+   28,
+   1000
+  ],
+  "weightKg": 0.4,
+  "url": "https://www.martin.com/en/products/vdo-sceptron-10",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "VDO Sceptron 20",
+  "kind": "bar",
+  "light": "RGB-LEDs linear",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   10,
+   13,
+   22,
+   55,
+   157
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   27,
+   28,
+   1000
+  ],
+  "weightKg": 0.4,
+  "url": "https://www.martin.com/en/products/vdo-sceptron-20",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "VDO Sceptron 40",
+  "kind": "bar",
+  "light": "RGB-LEDs linear",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   10,
+   13,
+   22,
+   31,
+   82
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   27,
+   28,
+   1000
+  ],
+  "weightKg": 0.4,
+  "url": "https://www.martin.com/en/products/vdo-sceptron-40",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "VDO Fatron 20",
+  "kind": "bar",
+  "light": "RGB-LEDs linear (320 mm / 1000 mm Varianten)",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   10,
+   19,
+   37,
+   55,
+   157
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   80,
+   28,
+   1000
+  ],
+  "weightKg": 0.85,
+  "url": "https://www.martin.com/en/products/vdo-fatron-20",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "VDO Dotron",
+  "kind": "effect",
+  "light": "RGB-Punktpixel",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   10
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 0.3,
+  "url": "https://www.martin.com/en/products/vdo-dotron",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "VC-Strip",
+  "kind": "bar",
+  "light": "RGB-LEDs",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   24,
+   48
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   20,
+   18,
+   400
+  ],
+  "weightKg": null,
+  "url": "https://www.martin.com/en/products/vc-strip",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "vd:martin/vc-strip",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "VC-Dot 1",
+  "kind": "effect",
+  "light": "RGB-LED Punkt",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   28,
+   23,
+   11
+  ],
+  "weightKg": 1.3,
+  "url": "https://www.martin.com/en/products/vc-dot-1",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "VC-Dot 4",
+  "kind": "effect",
+  "light": "RGB-LED Punkt (4 LEDs)",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   36,
+   30,
+   13
+  ],
+  "weightKg": 1.8,
+  "url": "https://www.martin.com/en/products/vc-dot-4",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "VC-Dot 9",
+  "kind": "effect",
+  "light": "RGB-LED Punkt (9 LEDs)",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   48,
+   40,
+   13
+  ],
+  "weightKg": 1.8,
+  "url": "https://www.martin.com/en/products/vc-dot-9",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "vd:martin/vc-dot-9",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "VC-Grid 15",
+  "kind": "matrix",
+  "light": "RGB 16x16 Pixel",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   192
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "16x16",
+  "sizeMm": [
+   240,
+   15,
+   240
+  ],
+  "weightKg": null,
+  "url": "https://www.martin.com/en/products/vc-grid-15",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "VC-Grid 30",
+  "kind": "matrix",
+  "light": "RGB-Pixelgitter",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   192
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   240,
+   15,
+   240
+  ],
+  "weightKg": null,
+  "url": "https://www.martin.com/en/products/vc-grid-30",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "Stagebar 2",
+  "kind": "bar",
+  "light": "Cree XP-E RGB",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   30
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   190,
+   105,
+   420
+  ],
+  "weightKg": 5.5,
+  "url": "https://www.martin.com/en/products/stagebar-2",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "Stagebar 54",
+  "kind": "bar",
+  "light": "54 x Luxeon K2 RGB",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   30
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   190,
+   105,
+   420
+  ],
+  "weightKg": 5.5,
+  "url": "https://www.martin.com/en/products/stagebar-54",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:martin/stagebar-54l",
+  "notes": "Varianten 54L/54S in Bibliothek"
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "ELP CL",
+  "kind": "ellipsoidal",
+  "light": "91 x RGBAL Luxeon Rebel",
+  "beamDeg": [
+   15,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   10,
+   17
+  ],
+  "features": [
+   "framing",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   259,
+   254,
+   648
+  ],
+  "weightKg": 7.7,
+  "url": "https://www.martin.com/en/products/elp-cl",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:martin/elp-cl-profile",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "ELP CL IP",
+  "kind": "ellipsoidal",
+  "light": "91 x RGBAL Luxeon Rebel",
+  "beamDeg": [
+   15,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   10,
+   17
+  ],
+  "features": [
+   "framing",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   255,
+   255,
+   644
+  ],
+  "weightKg": 12.2,
+  "url": "https://www.martin.com/en/products/elp-cl-ip",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "ELP WW",
+  "kind": "ellipsoidal",
+  "light": "91 x 3 W warmweiß",
+  "beamDeg": [
+   15,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   4
+  ],
+  "features": [
+   "framing",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   259,
+   254,
+   648
+  ],
+  "weightKg": 7.7,
+  "url": "https://www.martin.com/en/products/elp-ww",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "ELP WW IP",
+  "kind": "ellipsoidal",
+  "light": "91 x 3 W warmweiß",
+  "beamDeg": [
+   15,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   4
+  ],
+  "features": [
+   "framing",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   255,
+   255,
+   644
+  ],
+  "weightKg": 11,
+  "url": "https://www.martin.com/en/products/elp-ww-ip",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "ELP PAR",
+  "kind": "par",
+  "light": "7 x 40 W RGBW",
+  "beamDeg": [
+   4.2,
+   58
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   14
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   287,
+   401,
+   312
+  ],
+  "weightKg": 7.8,
+  "url": "https://www.martin.com/en/products/elp-par",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:martin/elp-par",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "ELP PAR IP",
+  "kind": "par",
+  "light": "7 x 40 W RGBW",
+  "beamDeg": [
+   4.4,
+   33.3
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   14
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   285,
+   398,
+   315
+  ],
+  "weightKg": 9.1,
+  "url": "https://www.martin.com/en/products/elp-par-ip",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "ELP Manet 8f",
+  "kind": "fresnel",
+  "light": "500 W RGBALC COB",
+  "beamDeg": [
+   9,
+   50
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   11,
+   17
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   372,
+   499,
+   405
+  ],
+  "weightKg": 14,
+  "url": "https://www.martin.com/en/products/elp-manet-8f",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "THRILL Compact PAR 64 LED",
+  "kind": "par",
+  "light": "5 x 12 W RGBWA+UV",
+  "beamDeg": [
+   18,
+   18
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   9
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   127,
+   266,
+   262
+  ],
+  "weightKg": 2.1,
+  "url": "https://www.martin.com/en/products/thrill-compact-par-64-led",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "THRILL Compact PAR Mini LED",
+  "kind": "par",
+  "light": "7 x 3 W RGB",
+  "beamDeg": [
+   25,
+   25
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   6
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   115,
+   229,
+   229
+  ],
+  "weightKg": 1.3,
+  "url": "https://www.martin.com/en/products/thrill-compact-par-mini-led",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "THRILL Mini Profile",
+  "kind": "spot",
+  "light": "18 W LED weiß",
+  "beamDeg": [
+   14,
+   14
+  ],
+  "pan": 540,
+  "tilt": 230,
+  "channels": [
+   10
+  ],
+  "features": [
+   "gobo-static:8",
+   "colorwheel",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   155,
+   338,
+   237
+  ],
+  "weightKg": 4.3,
+  "url": "https://www.martin.com/en/products/thrill-mini-profile",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:martin/thrill-mini-profile",
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "THRILL Multi-FX LED",
+  "kind": "effect",
+  "light": "Multibeam 5 x 3 W RGBWA + Strobe",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   16
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   234,
+   246,
+   246
+  ],
+  "weightKg": 4.5,
+  "url": "https://www.martin.com/en/products/thrill-multi-fx-led",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "Exterior 1200 Wash",
+  "kind": "flood",
+  "light": "1200 W Metallhalogen",
+  "beamDeg": [
+   8,
+   16
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   8
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   448,
+   620,
+   860
+  ],
+  "weightKg": 68,
+  "url": "https://www.martin.com/en/products/exterior-1200-wash",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Outdoor-Fluter"
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "Extube",
+  "kind": "tube",
+  "light": "LED neutralweiß",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   4,
+   12,
+   16
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   89,
+   90,
+   300
+  ],
+  "weightKg": 1.5,
+  "url": "https://www.martin.com/en/products/extube",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Martin Professional",
+  "model": "Tripix Wash",
+  "kind": "bar",
+  "light": "RGB 3-in-1 LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   4
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   335,
+   213,
+   66
+  ],
+  "weightKg": 4.4,
+  "url": "https://www.martin.com/en/products/tripix-wash",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ }
+]

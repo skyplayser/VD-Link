@@ -1,0 +1,761 @@
+[
+ {
+  "man": "SGM",
+  "key": "q-7-w",
+  "model": "Q-7 W",
+  "kind": "strobe",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   156,
+   156
+  ],
+  "ch": [
+   1,
+   4,
+   6,
+   8
+  ],
+  "size": [
+   497,
+   268,
+   122
+  ],
+  "url": "https://www.sgmlighting.com/products/q%C2%B77-w",
+  "note": "Steckbrief aus Herstellerangaben (sgmlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "SGM",
+  "key": "q-2-w",
+  "model": "Q-2 W",
+  "kind": "strobe",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   152,
+   152
+  ],
+  "ch": [
+   1,
+   3,
+   6,
+   12,
+   14,
+   24
+  ],
+  "size": [
+   334,
+   223,
+   105
+  ],
+  "url": "https://www.sgmlighting.com/products/q%C2%B72-w",
+  "note": "Steckbrief aus Herstellerangaben (sgmlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "SGM",
+  "key": "q-10",
+  "model": "Q-10",
+  "kind": "strobe",
+  "deg": [
+   146,
+   146
+  ],
+  "ch": [
+   6,
+   8,
+   10,
+   27,
+   30
+  ],
+  "size": [
+   702,
+   402,
+   206
+  ],
+  "url": "https://www.sgmlighting.com/products/q%C2%B710",
+  "note": "Steckbrief aus Herstellerangaben (sgmlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "SGM",
+  "key": "p-1",
+  "model": "P-1",
+  "kind": "flood",
+  "deg": [
+   22,
+   22
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   9,
+   11,
+   16
+  ],
+  "size": [
+   334,
+   255,
+   119
+  ],
+  "url": "https://www.sgmlighting.com/products/p%C2%B71",
+  "note": "Steckbrief aus Herstellerangaben (sgmlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "SGM",
+  "key": "p-2",
+  "model": "P-2",
+  "kind": "flood",
+  "deg": [
+   77,
+   77
+  ],
+  "ch": [
+   3,
+   6,
+   9,
+   12,
+   15,
+   22
+  ],
+  "size": [
+   334,
+   223,
+   105
+  ],
+  "url": "https://www.sgmlighting.com/products/p%C2%B72",
+  "note": "Steckbrief aus Herstellerangaben (sgmlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "SGM",
+  "key": "p-5-w",
+  "model": "P-5 W",
+  "kind": "flood",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   54,
+   54
+  ],
+  "ch": [
+   1,
+   2
+  ],
+  "size": [
+   497,
+   268,
+   122
+  ],
+  "url": "https://www.sgmlighting.com/products/p%C2%B75-w",
+  "note": "Steckbrief aus Herstellerangaben (sgmlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "SGM",
+  "key": "p-5-tw",
+  "model": "P-5 TW",
+  "kind": "flood",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   79,
+   79
+  ],
+  "ch": [
+   2,
+   4,
+   6,
+   8
+  ],
+  "size": [
+   497,
+   268,
+   122
+  ],
+  "url": "https://www.sgmlighting.com/products/p%C2%B75-tw",
+  "note": "Steckbrief aus Herstellerangaben (sgmlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "SGM",
+  "key": "p-10",
+  "model": "P-10",
+  "kind": "flood",
+  "deg": [
+   22,
+   22
+  ],
+  "ch": [
+   4,
+   6,
+   8,
+   9,
+   10,
+   21,
+   27,
+   30,
+   32,
+   35,
+   52
+  ],
+  "size": [
+   702,
+   402,
+   206
+  ],
+  "url": "https://www.sgmlighting.com/products/p%C2%B710",
+  "note": "Steckbrief aus Herstellerangaben (sgmlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "SGM",
+  "key": "i-2-rgbw",
+  "model": "i-2 RGBW",
+  "kind": "bar",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   17,
+   17
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   8
+  ],
+  "size": [
+   334,
+   223,
+   105
+  ],
+  "url": "https://www.sgmlighting.com/products/i%C2%B72-rgbw",
+  "note": "Steckbrief aus Herstellerangaben (sgmlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "SGM",
+  "key": "i-5-rgbw",
+  "model": "i-5 RGBW",
+  "kind": "bar",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   17,
+   17
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   8,
+   9,
+   10
+  ],
+  "size": [
+   497,
+   268,
+   122
+  ],
+  "url": "https://www.sgmlighting.com/products/i%C2%B75-rgbw",
+  "note": "Steckbrief aus Herstellerangaben (sgmlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "SGM",
+  "key": "i-6",
+  "model": "i-6",
+  "kind": "bar",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   4.2,
+   4.2
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   8,
+   10,
+   22
+  ],
+  "size": [
+   497,
+   166,
+   305
+  ],
+  "url": "https://www.sgmlighting.com/products/i%C2%B76",
+  "note": "Steckbrief aus Herstellerangaben (sgmlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "SGM",
+  "key": "s-4",
+  "model": "S-4",
+  "kind": "fresnel",
+  "deg": [
+   9,
+   76
+  ],
+  "ch": [
+   13
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   147,
+   422,
+   210
+  ],
+  "url": "https://www.sgmlighting.com/products/s%C2%B74",
+  "note": "Steckbrief aus Herstellerangaben (sgmlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "SGM",
+  "key": "x-5",
+  "model": "X-5",
+  "kind": "strobe",
+  "ch": [
+   1,
+   3,
+   4,
+   6,
+   7
+  ],
+  "size": [
+   500,
+   270,
+   90
+  ],
+  "url": "https://www.sgmlighting.com/products/x%C2%B75",
+  "note": "Steckbrief aus Herstellerangaben (sgmlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "SGM",
+  "key": "xc-5",
+  "model": "XC-5",
+  "kind": "strobe",
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   1,
+   3,
+   4,
+   6,
+   7
+  ],
+  "size": [
+   500,
+   270,
+   90
+  ],
+  "url": "https://www.sgmlighting.com/products/xc%C2%B75",
+  "note": "Steckbrief aus Herstellerangaben (sgmlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "SGM",
+  "key": "p-3-wash",
+  "model": "P-3 Wash",
+  "kind": "flood",
+  "deg": [
+   10,
+   10
+  ],
+  "ch": [
+   3,
+   31
+  ],
+  "size": [
+   290,
+   252,
+   124
+  ],
+  "url": "https://www.sgmlighting.com/products/p-3-wash",
+  "note": "Steckbrief aus Herstellerangaben (sgmlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "SGM",
+  "key": "p-3-vision",
+  "model": "P-3 Vision",
+  "kind": "flood",
+  "deg": [
+   10,
+   10
+  ],
+  "ch": [
+   7,
+   128
+  ],
+  "size": [
+   290,
+   252,
+   124
+  ],
+  "url": "https://www.sgmlighting.com/products/p-3-vision",
+  "note": "Steckbrief aus Herstellerangaben (sgmlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "SGM",
+  "key": "sixpack",
+  "model": "SixPack",
+  "kind": "tiltbar",
+  "leds": [
+   6,
+   "rgba"
+  ],
+  "deg": [
+   32,
+   32
+  ],
+  "tilt": 110,
+  "ch": [
+   6,
+   7,
+   18,
+   22,
+   24,
+   28,
+   48,
+   53
+  ],
+  "pixelFrom": 24,
+  "feat": [
+   "pro"
+  ],
+  "url": "https://www.sgmlighting.com/products/sixpack",
+  "note": "Steckbrief aus Herstellerangaben (sgmlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "SGM",
+  "key": "touring-vpl-305-20",
+  "model": "Touring VPL 305-20",
+  "kind": "bar",
+  "deg": [
+   151,
+   151
+  ],
+  "ch": [
+   1,
+   3,
+   6,
+   12,
+   24,
+   48,
+   96
+  ],
+  "size": [
+   298,
+   52,
+   38
+  ],
+  "url": "https://www.sgmlighting.com/products/touring-vpl-305-20",
+  "note": "Steckbrief aus Herstellerangaben (sgmlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "SGM",
+  "key": "touring-vpl-610-20",
+  "model": "Touring VPL 610-20",
+  "kind": "bar",
+  "deg": [
+   151,
+   151
+  ],
+  "ch": [
+   3,
+   6,
+   12,
+   24,
+   48,
+   96,
+   192
+  ],
+  "size": [
+   602,
+   52,
+   38
+  ],
+  "url": "https://www.sgmlighting.com/products/touring-vpl-610-20",
+  "note": "Steckbrief aus Herstellerangaben (sgmlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "SGM",
+  "key": "touring-vpl-1220-20",
+  "model": "Touring VPL 1220-20",
+  "kind": "bar",
+  "deg": [
+   151,
+   151
+  ],
+  "ch": [
+   3,
+   6,
+   12,
+   24,
+   48,
+   96,
+   192,
+   384
+  ],
+  "size": [
+   1212,
+   52,
+   38
+  ],
+  "url": "https://www.sgmlighting.com/products/touring-vpl-1220-20",
+  "note": "Steckbrief aus Herstellerangaben (sgmlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "SGM",
+  "key": "g-7-spot",
+  "model": "G-7 Spot",
+  "kind": "spot",
+  "deg": [
+   6,
+   39
+  ],
+  "pan": 620,
+  "tilt": 240,
+  "ch": [
+   22,
+   29
+  ],
+  "feat": [
+   "pro",
+   "gobo:14",
+   "gobor",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.sgmlighting.com/products/g%C2%B77-spot",
+  "note": "Steckbrief aus Herstellerangaben (sgmlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "SGM",
+  "key": "g-7-beast",
+  "model": "G-7 Beast",
+  "kind": "beam",
+  "pan": 620,
+  "tilt": 185,
+  "ch": [
+   18,
+   22,
+   29,
+   35
+  ],
+  "feat": [
+   "pro",
+   "gobo:14",
+   "prism"
+  ],
+  "url": "https://www.sgmlighting.com/products/g%C2%B77-beast",
+  "note": "Steckbrief aus Herstellerangaben (sgmlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "SGM",
+  "key": "g-spot",
+  "model": "G-Spot",
+  "kind": "spot",
+  "deg": [
+   8,
+   43
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   24,
+   30
+  ],
+  "feat": [
+   "pro",
+   "gobo:14",
+   "gobor",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.sgmlighting.com/products/g%C2%B7spot",
+  "note": "Steckbrief aus Herstellerangaben (sgmlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "SGM",
+  "key": "g-profile-turbo",
+  "model": "G-Profile Turbo",
+  "kind": "profile",
+  "deg": [
+   8,
+   43
+  ],
+  "tilt": 270,
+  "ch": [
+   31,
+   32,
+   46,
+   47
+  ],
+  "feat": [
+   "pro",
+   "gobo:14",
+   "gobor",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.sgmlighting.com/products/g%C2%B7profile-turbo",
+  "note": "Steckbrief aus Herstellerangaben (sgmlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "SGM",
+  "key": "g-wash",
+  "model": "G-Wash",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   9,
+   73
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16,
+   19
+  ],
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.sgmlighting.com/products/g%C2%B7wash",
+  "note": "Steckbrief aus Herstellerangaben (sgmlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "SGM",
+  "key": "g-4-wash",
+  "model": "G-4 Wash",
+  "kind": "wash",
+  "deg": [
+   9,
+   76
+  ],
+  "pan": 360,
+  "tilt": 220,
+  "ch": [
+   18
+  ],
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.sgmlighting.com/products/g%C2%B74-wash",
+  "note": "Steckbrief aus Herstellerangaben (sgmlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "SGM",
+  "key": "g-4-wash-beam",
+  "model": "G-4 Wash Beam",
+  "kind": "wash",
+  "deg": [
+   4.8,
+   34
+  ],
+  "pan": 360,
+  "tilt": 220,
+  "ch": [
+   18
+  ],
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.sgmlighting.com/products/g%C2%B74-wash-beam",
+  "note": "Steckbrief aus Herstellerangaben (sgmlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "SGM",
+  "key": "g-1-wash",
+  "model": "G-1 Wash",
+  "kind": "wash",
+  "deg": [
+   8,
+   8
+  ],
+  "pan": 360,
+  "tilt": 240,
+  "ch": [
+   13
+  ],
+  "feat": [
+   "pro"
+  ],
+  "url": "https://www.sgmlighting.com/products/g%C2%B71-wash",
+  "note": "Steckbrief aus Herstellerangaben (sgmlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "SGM",
+  "key": "g-1-beam",
+  "model": "G-1 Beam",
+  "kind": "beam",
+  "deg": [
+   0.3,
+   0.3
+  ],
+  "pan": 360,
+  "tilt": 240,
+  "ch": [
+   12
+  ],
+  "feat": [
+   "pro"
+  ],
+  "url": "https://www.sgmlighting.com/products/g%C2%B71-beam",
+  "note": "Steckbrief aus Herstellerangaben (sgmlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

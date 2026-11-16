@@ -1,0 +1,989 @@
+[
+ {
+  "man": "Claypaky",
+  "key": "arolla-aqua-hp",
+  "model": "Arolla Aqua HP",
+  "kind": "profile",
+  "deg": [
+   3.5,
+   55
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   43
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:14",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.claypaky.it/products/arolla-aqua-hp/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "arolla-aqua",
+  "model": "Arolla Aqua",
+  "kind": "profile",
+  "deg": [
+   5.5,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   38,
+   41
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:14",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.claypaky.it/products/arolla-aqua/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "arolla-aqua-lt",
+  "model": "Arolla Aqua LT",
+  "kind": "profile",
+  "deg": [
+   4,
+   52
+  ],
+  "pan": 540,
+  "tilt": 266,
+  "ch": [
+   38,
+   41
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:14",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.claypaky.it/products/arolla-aqua-lt/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "arolla-aqua-m-lt",
+  "model": "Arolla Aqua M-LT",
+  "kind": "profile",
+  "deg": [
+   3.5,
+   53.5
+  ],
+  "ch": [
+   44,
+   54
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:14",
+   "gobor",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.claypaky.it/products/arolla-aqua-m-lt/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "arolla-aqua-s-lt",
+  "model": "Arolla Aqua S-LT",
+  "kind": "profile",
+  "deg": [
+   3.8,
+   47.2
+  ],
+  "ch": [
+   44,
+   54
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:14",
+   "gobor",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.claypaky.it/products/arolla-aqua-s-lt/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "arolla-aqua-wash-hc",
+  "model": "Arolla Aqua Wash HC",
+  "kind": "wash",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   6.4,
+   58
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   30
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://www.claypaky.it/products/arolla-aqua-wash-hc/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "axcor-spot-400",
+  "model": "Axcor Spot 400",
+  "kind": "spot",
+  "deg": [
+   5.4,
+   57.3
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   28
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:14",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://www.claypaky.it/products/axcor-spot400/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "sinfonya-profile-600",
+  "model": "Sinfonya Profile 600",
+  "kind": "profile",
+  "deg": [
+   5,
+   60
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   43,
+   49,
+   58
+  ],
+  "feat": [
+   "pro",
+   "cto",
+   "gobo:14",
+   "gobor",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.claypaky.it/products/sinfonya-profile-600/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "rhapsodya",
+  "model": "Rhapsodya",
+  "kind": "profile",
+  "deg": [
+   6.2,
+   63.3
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   48,
+   55,
+   63
+  ],
+  "feat": [
+   "pro",
+   "cto",
+   "gobo:14",
+   "gobor",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.claypaky.it/products/rhapsodya/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "ultimo-hybrid",
+  "model": "Ultimo Hybrid",
+  "kind": "hybrid",
+  "deg": [
+   2,
+   29
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   43
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:14",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.claypaky.it/products/ultimo-hybrid/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "ultimo-sharpy",
+  "model": "Ultimo Sharpy",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "tilt": 275,
+  "ch": [
+   16,
+   27
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "gobo:14",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.claypaky.it/products/ultimo-sharpy/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "ultimo-skybeam",
+  "model": "Ultimo Skybeam",
+  "kind": "beam",
+  "deg": [
+   1.3,
+   1.3
+  ],
+  "pan": 540,
+  "tilt": 266,
+  "ch": [
+   25
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:14",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.claypaky.it/products/ultimo-skybeam/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "sharpy-plus-aqua",
+  "model": "Sharpy Plus Aqua",
+  "kind": "hybrid",
+  "deg": [
+   3,
+   36
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   31
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:14",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.claypaky.it/products/sharpy-plus-aqua/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "xtylos-aqua",
+  "model": "Xtylos Aqua",
+  "kind": "beam",
+  "deg": [
+   1,
+   7
+  ],
+  "pan": 540,
+  "tilt": 248,
+  "ch": [
+   31
+  ],
+  "feat": [
+   "pro",
+   "cto",
+   "gobo:14",
+   "gobor",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.claypaky.it/products/xtylos-aqua/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "mini-xtylos",
+  "model": "Mini Xtylos",
+  "kind": "beam",
+  "deg": [
+   1,
+   4
+  ],
+  "tilt": 265,
+  "ch": [
+   27
+  ],
+  "feat": [
+   "pro",
+   "cto",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.claypaky.it/products/mini-xtylos/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "b-eye-k30",
+  "model": "B-Eye K30",
+  "kind": "beeeye",
+  "leds": [
+   37,
+   "rgbl"
+  ],
+  "deg": [
+   3.7,
+   54.5
+  ],
+  "pan": 540,
+  "tilt": 230,
+  "ch": [
+   47,
+   148
+  ],
+  "pixelFrom": 148,
+  "feat": [
+   "pro",
+   "cto",
+   "zoom"
+  ],
+  "url": "https://www.claypaky.it/products/b-eye-k30/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "b-eye-k30-fx",
+  "model": "B-Eye K30 FX",
+  "kind": "beeeye",
+  "leds": [
+   37,
+   "rgbl"
+  ],
+  "deg": [
+   3.7,
+   57
+  ],
+  "pan": 540,
+  "tilt": 230,
+  "ch": [
+   38,
+   54
+  ],
+  "feat": [
+   "pro",
+   "cto",
+   "zoom"
+  ],
+  "url": "https://www.claypaky.it/products/b-eye-k30-fx/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "b-eye-12",
+  "model": "B-Eye 12",
+  "kind": "beeeye",
+  "leds": [
+   12,
+   "rgbl"
+  ],
+  "deg": [
+   3.8,
+   51.1
+  ],
+  "ch": [
+   30,
+   47,
+   48
+  ],
+  "pixelFrom": 48,
+  "feat": [
+   "pro",
+   "cto",
+   "zoom"
+  ],
+  "url": "https://www.claypaky.it/products/b-eye-12/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "b-eye-7",
+  "model": "B-Eye 7",
+  "kind": "beeeye",
+  "leds": [
+   7,
+   "rgbl"
+  ],
+  "deg": [
+   4,
+   45.4
+  ],
+  "ch": [
+   28,
+   30,
+   47
+  ],
+  "pixelFrom": 28,
+  "feat": [
+   "pro",
+   "cto",
+   "zoom"
+  ],
+  "url": "https://www.claypaky.it/products/b-eye-7/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "hy-b-eye-k15-aqua",
+  "model": "HY B-Eye K15 Aqua",
+  "kind": "beeeye",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   4.7,
+   46
+  ],
+  "pan": 540,
+  "tilt": 248,
+  "ch": [
+   21,
+   22,
+   35,
+   36,
+   37
+  ],
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.claypaky.it/products/hy-b-eye-k15-aqua/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "k-eye-k10-hcr",
+  "model": "K-Eye K10 HCR",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   6,
+   50
+  ],
+  "pan": 540,
+  "tilt": 210,
+  "ch": [
+   19,
+   32
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://www.claypaky.it/products/k-eye-k10-hcr/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "k-eye-k20-hcr",
+  "model": "K-Eye K20 HCR",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   6,
+   50
+  ],
+  "pan": 540,
+  "tilt": 210,
+  "ch": [
+   27,
+   31
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://www.claypaky.it/products/k-eye-k20-hcr/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "midi-b-fx",
+  "model": "Midi-B FX",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   50
+  ],
+  "pan": 540,
+  "tilt": 220,
+  "ch": [
+   70
+  ],
+  "pixelFrom": 70,
+  "feat": [
+   "pro",
+   "cto",
+   "zoom"
+  ],
+  "url": "https://www.claypaky.it/products/midi-b-fx/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "mini-b-aqua-px",
+  "model": "Mini-B Aqua PX",
+  "kind": "wash",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   55
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "ch": [
+   8,
+   16,
+   45
+  ],
+  "pixelFrom": 45,
+  "feat": [
+   "pro",
+   "cto",
+   "zoom"
+  ],
+  "url": "https://www.claypaky.it/products/mini-b-aqua-px/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "mini-b-sparky-aqua",
+  "model": "Mini-B Sparky Aqua",
+  "kind": "wash",
+  "leds": [
+   64,
+   "rgbw"
+  ],
+  "pan": 540,
+  "tilt": 220,
+  "ch": [
+   14,
+   18,
+   28,
+   30,
+   36
+  ],
+  "feat": [
+   "pro",
+   "cto",
+   "zoom"
+  ],
+  "url": "https://www.claypaky.it/products/mini-b-sparky-aqua/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "mini-b-parled-aqua",
+  "model": "Mini-B ParLED Aqua",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   53
+  ],
+  "ch": [
+   25
+  ],
+  "feat": [
+   "cto",
+   "zoom"
+  ],
+  "size": [
+   281,
+   345,
+   367
+  ],
+  "url": "https://www.claypaky.it/products/minib-parled-aqua/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "volero-cube",
+  "model": "Volero Cube",
+  "kind": "matrixhead",
+  "leds": [
+   4,
+   "rgbw"
+  ],
+  "grid": [
+   2,
+   2
+  ],
+  "deg": [
+   2.5,
+   43.8
+  ],
+  "pan": 540,
+  "tilt": 194,
+  "ch": [
+   22,
+   41,
+   45
+  ],
+  "pixelFrom": 22,
+  "feat": [
+   "pro",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.claypaky.it/products/volero-cube/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "volero-twins",
+  "model": "Volero Twins",
+  "kind": "matrixhead",
+  "leds": [
+   8,
+   "rgbw"
+  ],
+  "deg": [
+   5.2,
+   46.7
+  ],
+  "tilt": 194,
+  "ch": [
+   25,
+   43,
+   50
+  ],
+  "pixelFrom": 43,
+  "feat": [
+   "pro",
+   "cto",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.claypaky.it/products/volero-twins/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "tambora-stormy",
+  "model": "Tambora Stormy",
+  "kind": "strobe",
+  "leds": [
+   27,
+   "rgbw"
+  ],
+  "deg": [
+   108.9,
+   108.9
+  ],
+  "ch": [
+   10,
+   26,
+   32
+  ],
+  "feat": [
+   "cto"
+  ],
+  "size": [
+   497,
+   180,
+   186
+  ],
+  "url": "https://www.claypaky.it/products/tambora-stormy/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "tambora-rays",
+  "model": "Tambora Rays",
+  "kind": "matrix",
+  "leds": [
+   27,
+   "rgbw"
+  ],
+  "deg": [
+   13.7,
+   13.7
+  ],
+  "ch": [
+   10,
+   26,
+   32
+  ],
+  "feat": [
+   "cto",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   497,
+   180,
+   186
+  ],
+  "url": "https://www.claypaky.it/products/tambora-rays/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "tambora-glare",
+  "model": "Tambora Glare",
+  "kind": "blinder",
+  "leds": [
+   10,
+   "rgba"
+  ],
+  "ch": [
+   19,
+   41,
+   52
+  ],
+  "pixelFrom": 41,
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   1000,
+   198,
+   106
+  ],
+  "url": "https://www.claypaky.it/products/tambora-glare/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "tambora-stormy-linear",
+  "model": "Tambora Stormy Linear",
+  "kind": "strobe",
+  "leds": [
+   5,
+   "rgb"
+  ],
+  "ch": [
+   16,
+   36,
+   48
+  ],
+  "pixelFrom": 16,
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   1000,
+   198,
+   106
+  ],
+  "url": "https://www.claypaky.it/products/tambora-stormy-linear/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Claypaky",
+  "key": "tambora-linear-60",
+  "model": "Tambora Linear 60",
+  "kind": "bar",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "ch": [
+   9,
+   13,
+   31,
+   33,
+   39
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   600,
+   74,
+   172
+  ],
+  "url": "https://www.claypaky.it/products/tambora-linear-60/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

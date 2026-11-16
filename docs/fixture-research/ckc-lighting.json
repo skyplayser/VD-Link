@@ -1,0 +1,7391 @@
+[
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Proxima Hybrid",
+    "kind": "hybrid",
+    "light": "500W laser",
+    "beamDeg": [
+      0.9,
+      17.3
+    ],
+    "pan": "infinite",
+    "tilt": 270,
+    "channels": [
+      29,
+      36
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "animation",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      423,
+      286,
+      688
+    ],
+    "weightKg": 33,
+    "url": "https://www.ckclighting.com/item/220.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Laser 3 in 1. IP66 Laser-BSW 500 W, Endlos-Pan, Frontlinse 180 mm. Endlos-Pan."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "MP5X",
+    "kind": "beam",
+    "light": "200W CW LED",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": "infinite",
+    "tilt": "infinite",
+    "channels": [
+      23,
+      28
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      364,
+      241,
+      593
+    ],
+    "weightKg": 21,
+    "url": "https://www.ckclighting.com/item/221.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: LED Beam. Endlos-Pan. Leistung 360 W."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Wash Z500",
+    "kind": "wash",
+    "light": "500W RGBAL LED",
+    "beamDeg": [
+      9,
+      48
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      18,
+      25
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      408,
+      256,
+      590
+    ],
+    "weightKg": 20.1,
+    "url": "https://www.ckclighting.com/item/222.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Movin Wash."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "EV Block IP",
+    "kind": "strobe",
+    "light": "800 x 0.5W RGB LED",
+    "beamDeg": [
+      66,
+      66
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      14,
+      32,
+      37,
+      47,
+      77,
+      126,
+      137
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      417,
+      154,
+      262
+    ],
+    "weightKg": 8.9,
+    "url": "https://www.ckclighting.com/item/223.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: EV Strobe."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "UV S100 IP",
+    "kind": "flood",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      3
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      440,
+      148,
+      267
+    ],
+    "weightKg": 8.4,
+    "url": "https://www.ckclighting.com/item/224.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: UV Wash."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Rotor",
+    "kind": "effect",
+    "light": "RGB + UV LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5,
+      12,
+      33,
+      119
+    ],
+    "features": [
+      "blades",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      709,
+      95,
+      706
+    ],
+    "weightKg": 18.2,
+    "url": "https://www.ckclighting.com/item/225.html",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: EOL product. Eingestellt; Effektleuchte (Rotor)."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "CYC X",
+    "kind": "flood",
+    "light": "160 ×3.5W RGBLA LED",
+    "beamDeg": [
+      66,
+      66
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      4,
+      2,
+      11,
+      16,
+      13,
+      20,
+      19,
+      32,
+      31,
+      56
+    ],
+    "features": [
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      957,
+      206,
+      85
+    ],
+    "weightKg": 7.9,
+    "url": "https://www.ckclighting.com/item/226.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: CYC."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "W1000",
+    "kind": "par",
+    "light": null,
+    "beamDeg": [
+      14,
+      14
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      8,
+      14,
+      32
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      663,
+      235,
+      600
+    ],
+    "weightKg": 32.5,
+    "url": "https://www.ckclighting.com/item/227.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Fixed angle."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Fresnel 350TW",
+    "kind": "fresnel",
+    "light": "500W RGBLA LED",
+    "beamDeg": [
+      12,
+      66
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      7,
+      10,
+      12,
+      15,
+      19
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      329,
+      383,
+      455
+    ],
+    "weightKg": 12.2,
+    "url": "https://www.ckclighting.com/item/228.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Tunable white / Full color."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Gobo Projector 1000",
+    "kind": "effect",
+    "light": "800W CW LED",
+    "beamDeg": [
+      6,
+      53
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      32,
+      47
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "animation",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      552,
+      291,
+      720
+    ],
+    "weightKg": 35,
+    "url": "https://www.ckclighting.com/item/229.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Image Projector."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "ARC W1000",
+    "kind": "flood",
+    "light": "100 × 20W RGBL LED",
+    "beamDeg": [
+      11,
+      11
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      8,
+      16,
+      1,
+      2
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      663,
+      235,
+      600
+    ],
+    "weightKg": 28.4,
+    "url": "https://www.ckclighting.com/item/230.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Natural heat dissipation."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "ARC Par 18 IP",
+    "kind": "flood",
+    "light": "18 × 20W RGBL LED Beam angle：11°/ 25°/ 40°",
+    "beamDeg": [
+      11,
+      11
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      8,
+      16
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      291,
+      173,
+      269
+    ],
+    "weightKg": 7,
+    "url": "https://www.ckclighting.com/item/231.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Natural heat dissipation."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Wash ZP480",
+    "kind": "wash",
+    "light": "480W RGBAL LED",
+    "beamDeg": [
+      9,
+      47
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      27,
+      31,
+      39
+    ],
+    "features": [
+      "frost",
+      "blades",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      397,
+      265,
+      744
+    ],
+    "weightKg": 27,
+    "url": "https://www.ckclighting.com/item/232.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Moving Wash Framing."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "IP Flood 150FC",
+    "kind": "flood",
+    "light": "150W RGB LED Beam angle：51°",
+    "beamDeg": [
+      51,
+      51
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3,
+      4,
+      1,
+      2,
+      6
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      332,
+      195,
+      311
+    ],
+    "weightKg": 8,
+    "url": "https://www.ckclighting.com/item/233.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Floodlight."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Profile 500FC IP",
+    "kind": "ellipsoidal",
+    "light": "500W RGBAL LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      4,
+      6,
+      9,
+      10,
+      11,
+      13,
+      15,
+      19
+    ],
+    "features": [
+      "gobo",
+      "zoom",
+      "blades",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      314,
+      689,
+      480
+    ],
+    "weightKg": 10,
+    "url": "https://www.ckclighting.com/item/234.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Full-spectrum LED."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "ZB Par 7",
+    "kind": "wash",
+    "light": "7 × 60W RGBL LED",
+    "beamDeg": [
+      5,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5,
+      1,
+      6,
+      12,
+      13,
+      16,
+      18
+    ],
+    "features": [
+      "zoom",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      306,
+      322,
+      345
+    ],
+    "weightKg": 8.2,
+    "url": "https://www.ckclighting.com/item/235.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Zoom Wash."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "V15 Pro",
+    "kind": "profile",
+    "light": "1400W CW LED",
+    "beamDeg": [
+      5,
+      53
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      38,
+      54
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      448,
+      331,
+      800
+    ],
+    "weightKg": 42.6,
+    "url": "https://www.ckclighting.com/item/236.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: CRI 95 LED."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "V15",
+    "kind": "profile",
+    "light": "1400W CW LED Output：56000 Lm（CRI:72）",
+    "beamDeg": [
+      5,
+      53
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      38,
+      54
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      448,
+      331,
+      800
+    ],
+    "weightKg": 42.8,
+    "url": "https://www.ckclighting.com/item/237.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: H-Bright LED."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "AK M Blast",
+    "kind": "strobe",
+    "light": "1224 x 1.5W RGB LED",
+    "beamDeg": [
+      112,
+      112
+    ],
+    "pan": null,
+    "tilt": 180,
+    "channels": [
+      24,
+      55,
+      91,
+      133,
+      140,
+      180,
+      177,
+      99
+    ],
+    "features": [
+      "IP65",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      420,
+      210,
+      395
+    ],
+    "weightKg": 17.5,
+    "url": "https://www.ckclighting.com/item/238.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: AK Strobe."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Proxima X",
+    "kind": "beam",
+    "light": "260W laser",
+    "beamDeg": null,
+    "pan": "infinite",
+    "tilt": "infinite",
+    "channels": [
+      23,
+      28
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      362,
+      276,
+      541
+    ],
+    "weightKg": 22.2,
+    "url": "https://www.ckclighting.com/item/239.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Laser Beam. Endlos-Pan. Leistung 400 W."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "VH20",
+    "kind": "hybrid",
+    "light": null,
+    "beamDeg": [
+      1.9,
+      26
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      27,
+      32
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      397,
+      265,
+      683
+    ],
+    "weightKg": 28.4,
+    "url": "https://www.ckclighting.com/item/240.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: HID  3 in 1."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "CYC M",
+    "kind": "flood",
+    "light": "80 ×3.5W RGBLA LED",
+    "beamDeg": [
+      59,
+      59
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      4,
+      2,
+      11,
+      16,
+      13,
+      20,
+      19,
+      32
+    ],
+    "features": [
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      500,
+      206,
+      85
+    ],
+    "weightKg": 4.3,
+    "url": "https://www.ckclighting.com/item/241.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: CYC."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "FC Profile 400",
+    "kind": "ellipsoidal",
+    "light": "300W RGBLA LED",
+    "beamDeg": [
+      6,
+      50
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      5,
+      10,
+      2,
+      12,
+      17,
+      21
+    ],
+    "features": [
+      "gobo",
+      "zoom",
+      "blades",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      395,
+      638,
+      466
+    ],
+    "weightKg": 15.9,
+    "url": "https://www.ckclighting.com/item/242.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Full-spectrum LED."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Par Z19 IP",
+    "kind": "par",
+    "light": "19 × 15W RGBWA + UV LED (Optional 15W CW + WW LED)",
+    "beamDeg": [
+      11,
+      53
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      7,
+      9,
+      10,
+      14
+    ],
+    "features": [
+      "zoom",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      365,
+      305,
+      396
+    ],
+    "weightKg": 12,
+    "url": "https://www.ckclighting.com/item/243.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Zoom angle."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Gobo Projector 500FC",
+    "kind": "effect",
+    "light": "480W RGBAL LED",
+    "beamDeg": [
+      7,
+      50
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      32,
+      34,
+      49,
+      53
+    ],
+    "features": [
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      353,
+      663,
+      460
+    ],
+    "weightKg": 33.5,
+    "url": "https://www.ckclighting.com/item/244.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Image Projector."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "IP Flood 100WW",
+    "kind": "flood",
+    "light": "100W LED Beam angle：60°",
+    "beamDeg": [
+      60,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      332,
+      196,
+      326
+    ],
+    "weightKg": 9.2,
+    "url": "https://www.ckclighting.com/item/245.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Floodlight."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "ARC W700",
+    "kind": "flood",
+    "light": "50 × 20W RGBL LED（Optional：RGBW/RGBA/CW/CW+WW）",
+    "beamDeg": [
+      11,
+      11
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      8,
+      16,
+      1,
+      2
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      536,
+      148,
+      352
+    ],
+    "weightKg": 16.9,
+    "url": "https://www.ckclighting.com/item/246.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Natural heat dissipation."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "ARC Par 12 IP",
+    "kind": "flood",
+    "light": "12 × 20W RGBL LED",
+    "beamDeg": [
+      11,
+      11
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2,
+      4,
+      5,
+      6,
+      8
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      254,
+      173,
+      240
+    ],
+    "weightKg": 5.5,
+    "url": "https://www.ckclighting.com/item/247.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Natural heat dissipation."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "V4 Wash",
+    "kind": "wash",
+    "light": "380W CW LED",
+    "beamDeg": [
+      8,
+      38
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      28,
+      36
+    ],
+    "features": [
+      "colorwheel",
+      "frost",
+      "blades",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      397,
+      265,
+      639
+    ],
+    "weightKg": 24.4,
+    "url": "https://www.ckclighting.com/item/248.html",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: EOL product."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "MP5T",
+    "kind": "beam",
+    "light": "200W CW LED",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": "infinite",
+    "tilt": "infinite",
+    "channels": [
+      20,
+      22
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      364,
+      241,
+      593
+    ],
+    "weightKg": 20.4,
+    "url": "https://www.ckclighting.com/item/249.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: LED Beam. Endlos-Pan. Leistung 360 W."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "V15 IP",
+    "kind": "profile",
+    "light": "1400W CW LED",
+    "beamDeg": [
+      6,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      36,
+      52
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "animation",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      503,
+      360,
+      827
+    ],
+    "weightKg": 52.3,
+    "url": "https://www.ckclighting.com/item/250.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: H-Bright LED BSW/F."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "ZB19X IP",
+    "kind": "wash",
+    "light": "19 × 60W RGBW LED",
+    "beamDeg": [
+      4,
+      60
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      17,
+      21,
+      93
+    ],
+    "features": [
+      "zoom",
+      "IP65",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      433,
+      310,
+      545
+    ],
+    "weightKg": 27.6,
+    "url": "https://www.ckclighting.com/item/251.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Movin Wash."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "V10",
+    "kind": "profile",
+    "light": "1000W CW LED",
+    "beamDeg": [
+      6,
+      52
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      36,
+      52
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      428,
+      304,
+      804
+    ],
+    "weightKg": 40,
+    "url": "https://www.ckclighting.com/item/252.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: H-Bright LED."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "V10 Pro",
+    "kind": "profile",
+    "light": "1000W CW LED",
+    "beamDeg": [
+      6,
+      52
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      36,
+      52
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      428,
+      304,
+      804
+    ],
+    "weightKg": 40,
+    "url": "https://www.ckclighting.com/item/253.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: CRI 95 LED."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "VH10",
+    "kind": "hybrid",
+    "light": null,
+    "beamDeg": [
+      1.8,
+      21
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      28,
+      33
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      397,
+      266,
+      629
+    ],
+    "weightKg": 25.2,
+    "url": "https://www.ckclighting.com/item/254.html",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: EOL product. HID-Hybrid."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Wash Z350",
+    "kind": "wash",
+    "light": "350W RGBW LED",
+    "beamDeg": [
+      12,
+      53
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      15,
+      16,
+      17,
+      19
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      414,
+      294,
+      662
+    ],
+    "weightKg": 17.7,
+    "url": "https://www.ckclighting.com/item/255.html",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: EOL product."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "AK Blast",
+    "kind": "strobe",
+    "light": "1120 x 1.5W RGB LED",
+    "beamDeg": [
+      68,
+      68
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      15,
+      50,
+      158
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      425,
+      262,
+      175
+    ],
+    "weightKg": 11.4,
+    "url": "https://www.ckclighting.com/item/256.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: AK Strobe."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "UV F100 IP",
+    "kind": "flood",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2,
+      3,
+      6
+    ],
+    "features": [
+      "zoom",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      440,
+      147,
+      267
+    ],
+    "weightKg": 8.4,
+    "url": "https://www.ckclighting.com/item/257.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: UV Wash."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Legend",
+    "kind": "retro",
+    "light": "OSRAM 350W + RGB LED",
+    "beamDeg": [
+      59,
+      59
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5,
+      6,
+      7
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      478,
+      274,
+      425
+    ],
+    "weightKg": 5.2,
+    "url": "https://www.ckclighting.com/item/258.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Other. Retro-Optik-Scheinwerfer (Kategorie „Other“)."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "W700",
+    "kind": "par",
+    "light": null,
+    "beamDeg": [
+      14,
+      14
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3,
+      4,
+      1,
+      8,
+      10,
+      16,
+      80,
+      82,
+      88,
+      2,
+      38
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      543,
+      164,
+      352
+    ],
+    "weightKg": 15,
+    "url": "https://www.ckclighting.com/item/259.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Fixed angle."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "FC Profile 300",
+    "kind": "ellipsoidal",
+    "light": "300W RGBWAL LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3,
+      6,
+      7,
+      9,
+      12
+    ],
+    "features": [
+      "gobo",
+      "blades",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      302,
+      683,
+      456
+    ],
+    "weightKg": 9.1,
+    "url": "https://www.ckclighting.com/item/260.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Full-spectrum LED."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Fresnel 180TW",
+    "kind": "fresnel",
+    "light": "180W RGBALC LED",
+    "beamDeg": [
+      13,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      3,
+      2,
+      6,
+      11,
+      13
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      318,
+      301,
+      368
+    ],
+    "weightKg": 7.5,
+    "url": "https://www.ckclighting.com/item/261.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Tunable white / Full color."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "EV Stick IP",
+    "kind": "strobe",
+    "light": "448 x 1.5W RGB LED",
+    "beamDeg": [
+      79,
+      79
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      11,
+      16,
+      14,
+      32,
+      34,
+      39,
+      75,
+      112,
+      123
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1000,
+      127,
+      154
+    ],
+    "weightKg": 9.3,
+    "url": "https://www.ckclighting.com/item/262.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: EV Strobe."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "PAR Z180 IP",
+    "kind": "par",
+    "light": "180W RGBW LED",
+    "beamDeg": [
+      11,
+      57
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      6,
+      9,
+      14
+    ],
+    "features": [
+      "zoom",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      333,
+      259,
+      389
+    ],
+    "weightKg": 8.4,
+    "url": "https://www.ckclighting.com/item/263.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Zoom angle."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Mini Profile 50",
+    "kind": "ellipsoidal",
+    "light": "40W WW LED (optional：3200K/4000K/5600K LED)",
+    "beamDeg": [
+      15,
+      30
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2,
+      3,
+      6
+    ],
+    "features": [
+      "gobo",
+      "zoom",
+      "blades",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      144,
+      383,
+      276
+    ],
+    "weightKg": 2.65,
+    "url": "https://www.ckclighting.com/item/265.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: White LED."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Profile 300",
+    "kind": "ellipsoidal",
+    "light": "300W WW LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      3,
+      4
+    ],
+    "features": [
+      "blades",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      302,
+      683,
+      456
+    ],
+    "weightKg": 9.1,
+    "url": "https://www.ckclighting.com/item/266.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: White LED."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "V8",
+    "kind": "profile",
+    "light": "800W CW LED",
+    "beamDeg": [
+      6,
+      52
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      36,
+      52
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      424,
+      306,
+      803
+    ],
+    "weightKg": 40,
+    "url": "https://www.ckclighting.com/item/267.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: H-Bright LED."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Fresnel 150TW",
+    "kind": "fresnel",
+    "light": "180W RGBLA LED",
+    "beamDeg": [
+      10,
+      48
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      6,
+      11,
+      18,
+      9,
+      14
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      344,
+      274,
+      398
+    ],
+    "weightKg": 7.3,
+    "url": "https://www.ckclighting.com/item/268.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Tunable white / Full color."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "EV Block",
+    "kind": "strobe",
+    "light": "800 x 0.5W RGB LED",
+    "beamDeg": [
+      67,
+      67
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      14,
+      32,
+      37,
+      47,
+      77,
+      126,
+      137
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      417,
+      139,
+      261
+    ],
+    "weightKg": 6.9,
+    "url": "https://www.ckclighting.com/item/269.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: EV Strobe."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "ZB Par 12s",
+    "kind": "par",
+    "light": "12 × 20W RGBL LED",
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      6,
+      9,
+      10,
+      12,
+      15,
+      18
+    ],
+    "features": [
+      "zoom",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      316,
+      222,
+      367
+    ],
+    "weightKg": 7.8,
+    "url": "https://www.ckclighting.com/item/270.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Zoom angle."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Gobo Projector 400",
+    "kind": "effect",
+    "light": "400W CW LED",
+    "beamDeg": [
+      7,
+      50
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      29,
+      49
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "animation",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      351,
+      604,
+      460
+    ],
+    "weightKg": 30.8,
+    "url": "https://www.ckclighting.com/item/271.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Image Projector."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "IP Flood 60FC",
+    "kind": "flood",
+    "light": "60W RGB LED Beam angle：61°",
+    "beamDeg": [
+      61,
+      61
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3,
+      4,
+      1,
+      2,
+      6
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      202,
+      122,
+      189
+    ],
+    "weightKg": 3.2,
+    "url": "https://www.ckclighting.com/item/272.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Floodlight."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "ARC W350",
+    "kind": "flood",
+    "light": "24 × 20W RGBL LED",
+    "beamDeg": [
+      11,
+      11
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      8,
+      14,
+      16
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      443,
+      148,
+      286
+    ],
+    "weightKg": 10.1,
+    "url": "https://www.ckclighting.com/item/273.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Natural heat dissipation."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "ARC Par 7 IP",
+    "kind": "flood",
+    "light": "7 × 20W RGBL LED",
+    "beamDeg": [
+      11,
+      11
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2,
+      4,
+      5,
+      6,
+      8
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      216,
+      157,
+      202
+    ],
+    "weightKg": 3.5,
+    "url": "https://www.ckclighting.com/item/274.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Natural heat dissipation."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "VH5",
+    "kind": "hybrid",
+    "light": "OSRAM 420W Lamp",
+    "beamDeg": [
+      1.8,
+      20
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      19,
+      24
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      397,
+      265,
+      608
+    ],
+    "weightKg": 21.9,
+    "url": "https://www.ckclighting.com/item/275.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: HID  3 in 1."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "P10",
+    "kind": "profile",
+    "light": "1000W CW LED",
+    "beamDeg": [
+      6,
+      52
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      36,
+      52
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      428,
+      304,
+      803
+    ],
+    "weightKg": 40,
+    "url": "https://www.ckclighting.com/item/276.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: CRI 95 LED."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "PAR Z180",
+    "kind": "par",
+    "light": "180W RGBW LED",
+    "beamDeg": [
+      8,
+      50
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      2,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      13
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      316,
+      310,
+      400
+    ],
+    "weightKg": 7.9,
+    "url": "https://www.ckclighting.com/item/277.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Zoom angle."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "FC Profile 200",
+    "kind": "ellipsoidal",
+    "light": "250W RGBAL LED",
+    "beamDeg": [
+      26,
+      50
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      15,
+      19
+    ],
+    "features": [
+      "blades",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      264,
+      472,
+      394
+    ],
+    "weightKg": 6.9,
+    "url": "https://www.ckclighting.com/item/278.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Full-spectrum LED."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "V8 IP",
+    "kind": "profile",
+    "light": "800W CW LED",
+    "beamDeg": [
+      6,
+      53
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      36,
+      52
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "animation",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      503,
+      360,
+      819
+    ],
+    "weightKg": 49.7,
+    "url": "https://www.ckclighting.com/item/279.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: H-Bright LED BSW/F."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "V8 Pro",
+    "kind": "profile",
+    "light": "800W CW LED",
+    "beamDeg": [
+      6,
+      52
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      36,
+      52
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      424,
+      306,
+      803
+    ],
+    "weightKg": 40,
+    "url": "https://www.ckclighting.com/item/280.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: CRI 95 LED."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "MP5W",
+    "kind": "beam",
+    "light": "80W CW LED",
+    "beamDeg": [
+      3,
+      3
+    ],
+    "pan": "infinite",
+    "tilt": "infinite",
+    "channels": [
+      17,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      282,
+      196,
+      455
+    ],
+    "weightKg": 12,
+    "url": "https://www.ckclighting.com/item/281.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: LED Beam. Endlos-Pan. Leistung 202 W."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Wash Z120",
+    "kind": "wash",
+    "light": "120W RGBW LED",
+    "beamDeg": [
+      7,
+      55
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      15,
+      16,
+      17,
+      19
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      338,
+      229,
+      533
+    ],
+    "weightKg": 10,
+    "url": "https://www.ckclighting.com/item/282.html",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: EOL product."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "AK Storm Bar",
+    "kind": "strobe",
+    "light": "960 x 0.5W RGB LED",
+    "beamDeg": [
+      77,
+      77
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      15,
+      80,
+      137
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1007,
+      180,
+      190
+    ],
+    "weightKg": 10,
+    "url": "https://www.ckclighting.com/item/283.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: AK Strobe."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "UV Par 100 IP",
+    "kind": "flood",
+    "light": "32 × 3W UV LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      4
+    ],
+    "features": [
+      "zoom",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      155,
+      275,
+      326
+    ],
+    "weightKg": 5.1,
+    "url": "https://www.ckclighting.com/item/284.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: UV Wash."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Vintage",
+    "kind": "retro",
+    "light": "OSRAM 575W+RGB LED",
+    "beamDeg": [
+      77,
+      77
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5,
+      6,
+      7
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      677,
+      362,
+      658
+    ],
+    "weightKg": 14.1,
+    "url": "https://www.ckclighting.com/item/285.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Other. Retro-/Vintage-Optik-Leuchte (Kategorie „Other“)."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "W350",
+    "kind": "par",
+    "light": null,
+    "beamDeg": [
+      15,
+      15
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3,
+      4,
+      8,
+      10,
+      16,
+      48,
+      50,
+      56
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      450,
+      148,
+      267
+    ],
+    "weightKg": 9.5,
+    "url": "https://www.ckclighting.com/item/286.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Fixed angle."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "FC Mini Profile 50",
+    "kind": "ellipsoidal",
+    "light": "16 × 3.5W RGBWLA LED",
+    "beamDeg": [
+      15,
+      30
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2,
+      4,
+      5,
+      6,
+      13,
+      14,
+      16
+    ],
+    "features": [
+      "gobo",
+      "zoom",
+      "blades",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      144,
+      383,
+      276
+    ],
+    "weightKg": 2.65,
+    "url": "https://www.ckclighting.com/item/287.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Full-spectrum LED."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Fresnel 80TW",
+    "kind": "fresnel",
+    "light": "150W RGBLA LED",
+    "beamDeg": [
+      11,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      6,
+      11,
+      18,
+      9,
+      14
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      201,
+      272,
+      303
+    ],
+    "weightKg": 3.8,
+    "url": "https://www.ckclighting.com/item/288.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Tunable white / Full color."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Gobo Projector 380",
+    "kind": "effect",
+    "light": "380W CW LED",
+    "beamDeg": [
+      7,
+      40
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      30
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "zoom",
+      "animation",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      442,
+      230,
+      530
+    ],
+    "weightKg": 19,
+    "url": "https://www.ckclighting.com/item/289.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Image Projector."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "IP Flood 50WW",
+    "kind": "flood",
+    "light": "50W WW LED Beam angle：60°",
+    "beamDeg": [
+      60,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      3
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      202,
+      122,
+      189
+    ],
+    "weightKg": 3.2,
+    "url": "https://www.ckclighting.com/item/290.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Floodlight."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "ARC W100",
+    "kind": "flood",
+    "light": "9 × 20W RGBL LED",
+    "beamDeg": [
+      11,
+      11
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      8,
+      14
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      222,
+      138,
+      248
+    ],
+    "weightKg": 4.4,
+    "url": "https://www.ckclighting.com/item/291.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Natural heat dissipation."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "MP5",
+    "kind": "beam",
+    "light": "50W RGB LED",
+    "beamDeg": [
+      3,
+      3
+    ],
+    "pan": "infinite",
+    "tilt": "infinite",
+    "channels": [
+      19,
+      22,
+      25
+    ],
+    "features": [
+      "gobo",
+      "prism",
+      "frost",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      282,
+      196,
+      455
+    ],
+    "weightKg": 11.5,
+    "url": "https://www.ckclighting.com/item/292.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: LED Beam. Endlos-Pan. Leistung 108 W."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "V6 IP",
+    "kind": "profile",
+    "light": "600W CW LED",
+    "beamDeg": [
+      6,
+      44
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      36,
+      50,
+      57
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "animation",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      433,
+      310,
+      720
+    ],
+    "weightKg": 38.4,
+    "url": "https://www.ckclighting.com/item/293.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: H-Bright LED BSW/F."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "V6",
+    "kind": "profile",
+    "light": "600W CW LED",
+    "beamDeg": [
+      9,
+      46
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      33,
+      38,
+      43
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      397,
+      286,
+      752
+    ],
+    "weightKg": 31,
+    "url": "https://www.ckclighting.com/item/294.html",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: EOL product."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Wash ZB19",
+    "kind": "wash",
+    "light": "19 × 40W RGBW LED",
+    "beamDeg": [
+      4,
+      60
+    ],
+    "pan": 540,
+    "tilt": 250,
+    "channels": [
+      17,
+      21,
+      93
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      380,
+      289,
+      475
+    ],
+    "weightKg": 19,
+    "url": "https://www.ckclighting.com/item/295.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Movin Wash."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "EV Stick",
+    "kind": "strobe",
+    "light": "448 x 1.5W RGB LED",
+    "beamDeg": [
+      74,
+      74
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      11,
+      16,
+      14,
+      32,
+      34,
+      39,
+      75,
+      112,
+      123
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1000,
+      127,
+      128
+    ],
+    "weightKg": 6.6,
+    "url": "https://www.ckclighting.com/item/296.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: EV Strobe."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "UV P50 IP",
+    "kind": "flood",
+    "light": "16 × 2W UV LED",
+    "beamDeg": [
+      50,
+      50
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      3,
+      6
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      196,
+      151,
+      294
+    ],
+    "weightKg": 3.4,
+    "url": "https://www.ckclighting.com/item/297.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: UV Wash."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "UV P40 IP",
+    "kind": "flood",
+    "light": "12 × 3W UV LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      3,
+      6
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      209,
+      150,
+      247
+    ],
+    "weightKg": 2.7,
+    "url": "https://www.ckclighting.com/item/298.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: UV Wash."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "W100",
+    "kind": "par",
+    "light": "9 × 15W RGBW LED",
+    "beamDeg": [
+      14,
+      14
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3,
+      4,
+      1,
+      8,
+      10,
+      16,
+      24,
+      26,
+      32,
+      2,
+      17
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      223,
+      138,
+      248
+    ],
+    "weightKg": 4.6,
+    "url": "https://www.ckclighting.com/item/299.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Fixed angle."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Mini Profile 40",
+    "kind": "ellipsoidal",
+    "light": "40W WW LED (optional:3200K/4000K/5600K)",
+    "beamDeg": [
+      15,
+      30
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      4
+    ],
+    "features": [
+      "gobo",
+      "blades"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      142,
+      317,
+      227
+    ],
+    "weightKg": 1.23,
+    "url": "https://www.ckclighting.com/item/300.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: White LED."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Fresnel 60FC",
+    "kind": "fresnel",
+    "light": "60W RGBW LED",
+    "beamDeg": [
+      13,
+      53
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5,
+      7
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      195,
+      242,
+      251
+    ],
+    "weightKg": 3.6,
+    "url": "https://www.ckclighting.com/item/301.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Tunable white / Full color."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "V4",
+    "kind": "profile",
+    "light": "350W CW LED",
+    "beamDeg": [
+      3,
+      53
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      38,
+      52
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      362,
+      233,
+      637
+    ],
+    "weightKg": 22,
+    "url": "https://www.ckclighting.com/item/303.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: H-Bright LED. LED-BSW."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Gobo Projector 200",
+    "kind": "effect",
+    "light": "200W CW LED",
+    "beamDeg": [
+      11,
+      22
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      12
+    ],
+    "features": [
+      "gobo",
+      "prism",
+      "zoom",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      387,
+      198,
+      394
+    ],
+    "weightKg": 12,
+    "url": "https://www.ckclighting.com/item/304.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Image Projector."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "L Par 12",
+    "kind": "par",
+    "light": "12 × 20W RGBL LED",
+    "beamDeg": [
+      10,
+      10
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      7,
+      8,
+      10,
+      13
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      300,
+      196,
+      298
+    ],
+    "weightKg": 5.5,
+    "url": "https://www.ckclighting.com/item/305.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Fixed angle."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "L Par 18",
+    "kind": "par",
+    "light": "18 × 20W RGBL LED",
+    "beamDeg": [
+      10,
+      10
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      7,
+      8,
+      10,
+      13,
+      16
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      338,
+      198,
+      328
+    ],
+    "weightKg": 7.1,
+    "url": "https://www.ckclighting.com/item/306.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Fixed angle."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "ARC Par 1 IP",
+    "kind": "flood",
+    "light": "20W RGBWA+UV LED",
+    "beamDeg": [
+      9,
+      9
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      6,
+      12,
+      18
+    ],
+    "features": [
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      165,
+      87,
+      158
+    ],
+    "weightKg": 0.9,
+    "url": "https://www.ckclighting.com/item/307.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Natural heat dissipation."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Tourist M5",
+    "kind": "profile",
+    "light": "500W CW LED",
+    "beamDeg": [
+      3.5,
+      53
+    ],
+    "pan": "infinite",
+    "tilt": 270,
+    "channels": [
+      38,
+      56
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "animation",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      398,
+      281,
+      667
+    ],
+    "weightKg": 30,
+    "url": "https://www.ckclighting.com/item/308.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: H-Bright LED BSW/F. Endlos-Pan."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "V6 Pro",
+    "kind": "profile",
+    "light": "600W CW LED",
+    "beamDeg": [
+      9,
+      46
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      33,
+      38,
+      43
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      397,
+      286,
+      752
+    ],
+    "weightKg": 31,
+    "url": "https://www.ckclighting.com/item/309.html",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: EOL product."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Wash ZB7",
+    "kind": "wash",
+    "light": "7 × 40W RGBW LED",
+    "beamDeg": [
+      4,
+      54
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      17,
+      21,
+      45
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      292,
+      184,
+      375
+    ],
+    "weightKg": 6.9,
+    "url": "https://www.ckclighting.com/item/310.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Movin Wash."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "UV P20 IP",
+    "kind": "flood",
+    "light": "7 × 3W UV LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      145,
+      73,
+      143
+    ],
+    "weightKg": 0.9,
+    "url": "https://www.ckclighting.com/item/311.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: UV Wash."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Fresnel 350",
+    "kind": "fresnel",
+    "light": "350W WW LED",
+    "beamDeg": [
+      11,
+      68
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2,
+      3,
+      4,
+      6
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      329,
+      383,
+      455
+    ],
+    "weightKg": 11.5,
+    "url": "https://www.ckclighting.com/item/312.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Fixed color temperature."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "IP PixBar 100",
+    "kind": "bar",
+    "light": "60 × 3.5W RGBAL LED",
+    "beamDeg": [
+      29,
+      29
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3,
+      1,
+      2,
+      4,
+      5,
+      9,
+      10,
+      12,
+      22,
+      25,
+      27,
+      32
+    ],
+    "features": [
+      "IP65",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      498,
+      178,
+      247
+    ],
+    "weightKg": 9.8,
+    "url": "https://www.ckclighting.com/item/313.html",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: EOL product."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "L Par 5",
+    "kind": "par",
+    "light": "5 × 20W RGBL LED",
+    "beamDeg": [
+      10,
+      10
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      7,
+      8,
+      10,
+      13,
+      16
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      213,
+      144,
+      258
+    ],
+    "weightKg": 2.4,
+    "url": "https://www.ckclighting.com/item/314.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Fixed angle."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "V4s",
+    "kind": "hybrid",
+    "light": "380W CW LED",
+    "beamDeg": [
+      7,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      24,
+      29,
+      34
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      397,
+      265,
+      639
+    ],
+    "weightKg": 23.5,
+    "url": "https://www.ckclighting.com/item/315.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: H-Bright LED. LED-BSW."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "SP4",
+    "kind": "profile",
+    "light": "400W CW LED",
+    "beamDeg": [
+      7,
+      46
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      36,
+      40,
+      51
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      400,
+      261,
+      666
+    ],
+    "weightKg": 27,
+    "url": "https://www.ckclighting.com/item/317.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: H-Bright LED."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "FC Par 7",
+    "kind": "flood",
+    "light": "7 × 20W RGBAL+UV LED",
+    "beamDeg": [
+      14,
+      14
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      3,
+      9,
+      6,
+      7,
+      8,
+      11,
+      12,
+      14,
+      20
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      258,
+      188,
+      230
+    ],
+    "weightKg": 4,
+    "url": "https://www.ckclighting.com/item/318.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Natural heat dissipation."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Fresnel 400DW",
+    "kind": "fresnel",
+    "light": "350W WW+CW LED",
+    "beamDeg": [
+      10,
+      63
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      340,
+      378,
+      399
+    ],
+    "weightKg": 9,
+    "url": "https://www.ckclighting.com/item/319.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Fixed color temperature."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "FC Par 14",
+    "kind": "flood",
+    "light": "14 × 20W RGBAL+UV LED",
+    "beamDeg": [
+      13,
+      13
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      3,
+      9,
+      6,
+      7,
+      8,
+      11,
+      12,
+      14,
+      20
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      344,
+      260,
+      247
+    ],
+    "weightKg": 7.5,
+    "url": "https://www.ckclighting.com/item/320.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Natural heat dissipation."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Gobo Projector 100",
+    "kind": "effect",
+    "light": "90W CW LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      6
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      286,
+      126,
+      340
+    ],
+    "weightKg": 6.8,
+    "url": "https://www.ckclighting.com/item/321.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Image Projector. Statischer Gobo-Projektor."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "UV P10 IP",
+    "kind": "par",
+    "light": "3W UV LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      62,
+      90,
+      75
+    ],
+    "weightKg": 0.35,
+    "url": "https://www.ckclighting.com/item/322.html",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: EOL product. UV-Par."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "UV B30 IP",
+    "kind": "flood",
+    "light": "10 × 3W UV LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      591,
+      100,
+      104
+    ],
+    "weightKg": 2.2,
+    "url": "https://www.ckclighting.com/item/323.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: UV Wash."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "FlatPar 1812",
+    "kind": "par",
+    "light": "18 × 12W RGBWA+UV LED",
+    "beamDeg": [
+      20,
+      20
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      6,
+      7,
+      8,
+      12
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      365,
+      125,
+      296
+    ],
+    "weightKg": 8,
+    "url": "https://www.ckclighting.com/item/324.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Fixed angle."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "PixBar 1212",
+    "kind": "bar",
+    "light": "12 × 12W RGBWA+UV LED",
+    "beamDeg": [
+      47,
+      47
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      6,
+      7,
+      11,
+      13,
+      36,
+      72,
+      75,
+      79
+    ],
+    "features": [
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      900,
+      70,
+      201
+    ],
+    "weightKg": 6.2,
+    "url": "https://www.ckclighting.com/item/325.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Colorful lines."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Fresnel 100DW",
+    "kind": "fresnel",
+    "light": "100W WW+CW LED",
+    "beamDeg": [
+      11,
+      67
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      338,
+      309,
+      392
+    ],
+    "weightKg": 6.2,
+    "url": "https://www.ckclighting.com/item/326.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Fixed color temperature."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Fresnel 250",
+    "kind": "fresnel",
+    "light": "250W WW LED",
+    "beamDeg": [
+      13,
+      45
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      414,
+      336,
+      399
+    ],
+    "weightKg": 8.4,
+    "url": "https://www.ckclighting.com/item/327.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Fixed color temperature."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Fresnel 150",
+    "kind": "fresnel",
+    "light": "150W WW LED",
+    "beamDeg": [
+      18,
+      52
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      344,
+      274,
+      398
+    ],
+    "weightKg": 6.9,
+    "url": "https://www.ckclighting.com/item/328.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Fixed color temperature."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "IP PixBar 200",
+    "kind": "bar",
+    "light": "120 × 3.5W RGBAL LED",
+    "beamDeg": [
+      33,
+      33
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3,
+      1,
+      2,
+      4,
+      5,
+      9,
+      10,
+      12,
+      37,
+      50,
+      52,
+      57
+    ],
+    "features": [
+      "IP65",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      946,
+      178,
+      247
+    ],
+    "weightKg": 17.2,
+    "url": "https://www.ckclighting.com/item/329.html",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: EOL product."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "IP FlatPar 712",
+    "kind": "par",
+    "light": "7 × 12W RGBWA+UV LED",
+    "beamDeg": [
+      23,
+      23
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      6,
+      7,
+      8,
+      12
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      257,
+      158,
+      222
+    ],
+    "weightKg": 4.4,
+    "url": "https://www.ckclighting.com/item/330.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Fixed angle."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "IP FlatPar 1212",
+    "kind": "par",
+    "light": "12 × 12W RGBWA+UV LED",
+    "beamDeg": [
+      22,
+      22
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      6,
+      7,
+      8,
+      12
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      313,
+      157,
+      254
+    ],
+    "weightKg": 5.7,
+    "url": "https://www.ckclighting.com/item/331.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Fixed angle."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "IP FlatPar 1812",
+    "kind": "par",
+    "light": "18 × 12W RGBWA+UV LED",
+    "beamDeg": [
+      22,
+      22
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      6,
+      7,
+      8,
+      12
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      365,
+      157,
+      296
+    ],
+    "weightKg": 8.5,
+    "url": "https://www.ckclighting.com/item/332.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Fixed angle."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "PinSpot 40IP",
+    "kind": "par",
+    "light": "40W RGBA LED（Optional：RGBW / WW / CW）",
+    "beamDeg": [
+      4,
+      4
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      6,
+      7
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      135,
+      160,
+      152
+    ],
+    "weightKg": 1.9,
+    "url": "https://www.ckclighting.com/item/333.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Fixed angle. Pinspot 4°."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "V3 BSW",
+    "kind": "hybrid",
+    "light": "300W CW LED",
+    "beamDeg": [
+      4,
+      38
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      25,
+      30
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      362,
+      233,
+      602
+    ],
+    "weightKg": 20.8,
+    "url": "https://www.ckclighting.com/item/334.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: H-Bright LED. LED-BSW."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "UV 36",
+    "kind": "flood",
+    "light": "12 × 3W UV LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      3
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      295,
+      180,
+      187
+    ],
+    "weightKg": 2.2,
+    "url": "https://www.ckclighting.com/item/335.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: UV Wash."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "IP PixBar 1212",
+    "kind": "bar",
+    "light": "12 × 12W RGBWA+UV LED",
+    "beamDeg": [
+      58,
+      58
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      6,
+      7,
+      11,
+      13,
+      36,
+      72,
+      75,
+      79
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      852,
+      144,
+      171
+    ],
+    "weightKg": 8.5,
+    "url": "https://www.ckclighting.com/item/336.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Colorful LED lines."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "FlatPar 1212",
+    "kind": "par",
+    "light": "12 × 12W RGBWA+UV LED",
+    "beamDeg": [
+      22,
+      22
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      6,
+      7,
+      8,
+      12
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      313,
+      125,
+      254
+    ],
+    "weightKg": 5,
+    "url": "https://www.ckclighting.com/item/337.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Fixed angle."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "FlatPar 712",
+    "kind": "par",
+    "light": "7 × 12W RGBWA+UV LED",
+    "beamDeg": [
+      23,
+      23
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      6,
+      7,
+      8,
+      12
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      257,
+      125,
+      222
+    ],
+    "weightKg": 3.4,
+    "url": "https://www.ckclighting.com/item/338.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Fixed angle."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Pinspot 40",
+    "kind": "par",
+    "light": "40W RGBW LED（Optional：WW / CW）",
+    "beamDeg": [
+      4,
+      4
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      4,
+      6,
+      7
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      184,
+      182,
+      233
+    ],
+    "weightKg": 2.1,
+    "url": "https://www.ckclighting.com/item/339.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Fixed angle. Pinspot 4°."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "PixBar 1204",
+    "kind": "bar",
+    "light": "12 × 3W RGBW LED",
+    "beamDeg": [
+      34,
+      34
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3,
+      4,
+      6,
+      8,
+      10
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      479,
+      56,
+      100
+    ],
+    "weightKg": 2,
+    "url": "https://www.ckclighting.com/item/340.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Colorful lines."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "PixBar 2404",
+    "kind": "bar",
+    "light": "24 × 4W RGBW LED",
+    "beamDeg": [
+      34,
+      34
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3,
+      4,
+      6,
+      8,
+      10,
+      16,
+      20
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      961,
+      56,
+      98
+    ],
+    "weightKg": 3.4,
+    "url": "https://www.ckclighting.com/item/341.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Colorful lines."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Fresnel 50",
+    "kind": "fresnel",
+    "light": "57W WW LED",
+    "beamDeg": [
+      16,
+      45
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      195,
+      242,
+      251
+    ],
+    "weightKg": 3.6,
+    "url": "https://www.ckclighting.com/item/342.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Fixed color temperature."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Fresnel 100",
+    "kind": "fresnel",
+    "light": "100W WW LED",
+    "beamDeg": [
+      12,
+      57
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      3
+    ],
+    "features": [
+      "zoom",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      338,
+      309,
+      392
+    ],
+    "weightKg": 6.2,
+    "url": "https://www.ckclighting.com/item/343.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Fixed color temperature."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Fresnel 60",
+    "kind": "fresnel",
+    "light": "60W WW LED",
+    "beamDeg": [
+      14,
+      47
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      210,
+      272,
+      303
+    ],
+    "weightKg": 4,
+    "url": "https://www.ckclighting.com/item/344.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Fixed color temperature."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "P500 FC IP",
+    "kind": "par",
+    "light": "500W RGBAL LED",
+    "beamDeg": [
+      11,
+      11
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      6,
+      9,
+      11,
+      14,
+      15,
+      18,
+      19
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      304,
+      357,
+      453
+    ],
+    "weightKg": 7.3,
+    "url": "https://www.ckclighting.com/item/345.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Fixed angle."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "P500 FC",
+    "kind": "par",
+    "light": "500W RGBAL LED",
+    "beamDeg": [
+      13,
+      13
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      6,
+      11,
+      18,
+      9,
+      14
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      278,
+      354,
+      394
+    ],
+    "weightKg": 7,
+    "url": "https://www.ckclighting.com/item/346.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Fixed angle."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "P250 WW",
+    "kind": "par",
+    "light": "250W WW LED",
+    "beamDeg": [
+      13,
+      13
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      5
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      278,
+      354,
+      394
+    ],
+    "weightKg": 7,
+    "url": "https://www.ckclighting.com/item/347.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Fixed angle."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "IP PixBar 1205",
+    "kind": "bar",
+    "light": "12 × 4W RGBW LED",
+    "beamDeg": [
+      10,
+      10
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3,
+      4,
+      7,
+      8,
+      10
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      483,
+      56,
+      115
+    ],
+    "weightKg": 3,
+    "url": "https://www.ckclighting.com/item/348.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Colorful lines."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "IP PixBar 2405",
+    "kind": "bar",
+    "light": "24 × 4W RGBW LED",
+    "beamDeg": [
+      10,
+      10
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3,
+      4,
+      7,
+      8,
+      10,
+      16,
+      20
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      963,
+      56,
+      115
+    ],
+    "weightKg": 6,
+    "url": "https://www.ckclighting.com/item/349.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Colorful lines."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "UV 36B",
+    "kind": "flood",
+    "light": "12 × 3W UV LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1067,
+      89,
+      87
+    ],
+    "weightKg": 2.3,
+    "url": "https://www.ckclighting.com/item/350.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: UV Wash."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "P200 FC IP",
+    "kind": "par",
+    "light": "150W RGBAL LED",
+    "beamDeg": [
+      11,
+      11
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      4,
+      6,
+      9,
+      10,
+      12,
+      15,
+      20
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      259,
+      275,
+      312
+    ],
+    "weightKg": 5.4,
+    "url": "https://www.ckclighting.com/item/351.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Fixed angle."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "VH5B IP",
+    "kind": "beam",
+    "light": "OSRAM 420W Lamp",
+    "beamDeg": [
+      1.3,
+      1.3
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      21,
+      26
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      433,
+      310,
+      734
+    ],
+    "weightKg": 37,
+    "url": "https://www.ckclighting.com/item/352.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: HID Beam."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "VH5 IP",
+    "kind": "hybrid",
+    "light": "OSRAM 420W Lamp",
+    "beamDeg": [
+      1.5,
+      18
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      27,
+      30
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "IP65",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      417,
+      290,
+      741
+    ],
+    "weightKg": 31.6,
+    "url": "https://www.ckclighting.com/item/353.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: HID 3 in 1."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Tourist M9",
+    "kind": "profile",
+    "light": "1500W CW LED",
+    "beamDeg": [
+      6,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      38,
+      54
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "animation",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      450,
+      316,
+      819
+    ],
+    "weightKg": 43.6,
+    "url": "https://www.ckclighting.com/item/354.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: CRI 95/72 LED BSWF."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Proxima IP",
+    "kind": "beam",
+    "light": "260W laser Beam angle：0.8°",
+    "beamDeg": [
+      0.8,
+      0.8
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      22,
+      30
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      433,
+      314,
+      710
+    ],
+    "weightKg": 38.7,
+    "url": "https://www.ckclighting.com/item/355.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Laser Beam."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "V20",
+    "kind": "profile",
+    "light": "1400W CW LED",
+    "beamDeg": [
+      5,
+      53
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      38,
+      54
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      448,
+      331,
+      813
+    ],
+    "weightKg": 45.5,
+    "url": "https://www.ckclighting.com/item/356.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: CRI 95/72 LED."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "PixBar 1515",
+    "kind": "bar",
+    "light": "15 × 15W RGBW LED",
+    "beamDeg": [
+      17,
+      17
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      7,
+      8,
+      11,
+      14,
+      60,
+      63,
+      67,
+      70,
+      120
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      915,
+      147,
+      147
+    ],
+    "weightKg": 8.9,
+    "url": "https://www.ckclighting.com/item/357.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Colorful lines."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "IP H2O 400",
+    "kind": "effect",
+    "light": "400W CW LED",
+    "beamDeg": [
+      14,
+      52
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      10,
+      12
+    ],
+    "features": [
+      "colorwheel",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      351,
+      604,
+      460
+    ],
+    "weightKg": 22,
+    "url": "https://www.ckclighting.com/item/359.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Water marking effect."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "IP H2O 200",
+    "kind": "effect",
+    "light": "200W CW LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5
+    ],
+    "features": [
+      "colorwheel",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      286,
+      301,
+      208
+    ],
+    "weightKg": 6.1,
+    "url": "https://www.ckclighting.com/item/360.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Water marking effect."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "IP H2O 100",
+    "kind": "effect",
+    "light": "90W CW LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5
+    ],
+    "features": [
+      "colorwheel",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      286,
+      301,
+      208
+    ],
+    "weightKg": 6.1,
+    "url": "https://www.ckclighting.com/item/361.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Water marking effect."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "TS6",
+    "kind": "profile",
+    "light": "500W RGBAL LED",
+    "beamDeg": [
+      7,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      41,
+      57,
+      39,
+      53
+    ],
+    "features": [
+      "cmy",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      462,
+      306,
+      783
+    ],
+    "weightKg": 36.6,
+    "url": "https://www.ckclighting.com/item/362.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Full color LED."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Marvel S2P",
+    "kind": "spot",
+    "light": "200W CW LED",
+    "beamDeg": [
+      12,
+      22
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      19,
+      21,
+      25
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      279,
+      183,
+      457
+    ],
+    "weightKg": 11,
+    "url": "https://www.ckclighting.com/item/363.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: H-Bright LED."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "S3",
+    "kind": "spot",
+    "light": "300W CW LED",
+    "beamDeg": [
+      10,
+      30
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      21,
+      25,
+      29
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      360,
+      234,
+      560
+    ],
+    "weightKg": 19.7,
+    "url": "https://www.ckclighting.com/item/364.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: H-Bright LED."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "IP PixBar 24 WWDC",
+    "kind": "bar",
+    "light": "24 × 3W WW LED",
+    "beamDeg": [
+      52,
+      52
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1000,
+      46,
+      78
+    ],
+    "weightKg": 2.8,
+    "url": "https://www.ckclighting.com/item/366.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: White LED lines."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "IP PixBar 30 WW",
+    "kind": "bar",
+    "light": "12 × 3W RGBL LED",
+    "beamDeg": [
+      33,
+      33
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      5
+    ],
+    "features": [
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      500,
+      46,
+      109
+    ],
+    "weightKg": 2.2,
+    "url": "https://www.ckclighting.com/item/367.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: White LED lines."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "IP PixBar 50 WW",
+    "kind": "bar",
+    "light": "24 × 3W WW LED",
+    "beamDeg": [
+      54,
+      54
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5,
+      8
+    ],
+    "features": [
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1000,
+      46,
+      110
+    ],
+    "weightKg": 4.1,
+    "url": "https://www.ckclighting.com/item/368.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: White LED lines."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "IP PixBar 30",
+    "kind": "bar",
+    "light": "12 × 4W RGBL LED",
+    "beamDeg": [
+      33,
+      33
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      14,
+      16
+    ],
+    "features": [
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      500,
+      46,
+      109
+    ],
+    "weightKg": 2.2,
+    "url": "https://www.ckclighting.com/item/369.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Colorful lines."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "IP PixBar 50",
+    "kind": "bar",
+    "light": "24 × 4W RGBL LED",
+    "beamDeg": [
+      54,
+      54
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      14,
+      32
+    ],
+    "features": [
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1000,
+      46,
+      110
+    ],
+    "weightKg": 3.9,
+    "url": "https://www.ckclighting.com/item/370.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Colorful lines."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "V9",
+    "kind": "profile",
+    "light": "800W RGBAL LED",
+    "beamDeg": [
+      6,
+      52
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      37,
+      39,
+      57
+    ],
+    "features": [
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      446,
+      331,
+      788
+    ],
+    "weightKg": 41.4,
+    "url": "https://www.ckclighting.com/item/371.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Full color LED."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "V3",
+    "kind": "profile",
+    "light": "300W RGBAL LED",
+    "beamDeg": [
+      8,
+      46
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      36,
+      38,
+      54
+    ],
+    "features": [
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      397,
+      286,
+      738
+    ],
+    "weightKg": 29.5,
+    "url": "https://www.ckclighting.com/item/372.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Full color LED."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Nonabeam",
+    "kind": "bar",
+    "light": "9 × 60W WW+CW LED + RGB LED",
+    "beamDeg": [
+      14,
+      14
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5,
+      18,
+      34,
+      50
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      580,
+      137,
+      233
+    ],
+    "weightKg": 13.1,
+    "url": "https://www.ckclighting.com/item/373.html",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: EOL product. Leiste mit 9 Beam-Zellen."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "M160",
+    "kind": "beam",
+    "light": "60W RGBW LED",
+    "beamDeg": [
+      4,
+      4
+    ],
+    "pan": "infinite",
+    "tilt": "infinite",
+    "channels": [
+      16,
+      18,
+      20
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      235,
+      186,
+      304
+    ],
+    "weightKg": 5.2,
+    "url": "https://www.ckclighting.com/item/374.html",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: EOL product. Mini-Beam mit Endlos-Pan/Tilt. Endlos-Pan. Leistung 108 W."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Sunstrip 12",
+    "kind": "retro",
+    "light": "12 × 10W WW+CW+A LED",
+    "beamDeg": [
+      53,
+      53
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      10,
+      12,
+      15,
+      20,
+      36,
+      41,
+      45,
+      72
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      900,
+      147,
+      201
+    ],
+    "weightKg": 5.7,
+    "url": "https://www.ckclighting.com/item/375.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: White LED lines. Retro-Strip (Glühlampen-Optik) mit 12 Zellen."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Proxima Tiny",
+    "kind": "beam",
+    "light": "100W laser",
+    "beamDeg": [
+      1,
+      1
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      21,
+      26
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      359,
+      239,
+      504
+    ],
+    "weightKg": 19.2,
+    "url": "https://www.ckclighting.com/item/376.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Laser Beam. Leistung 220 W."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Tourist M7",
+    "kind": "profile",
+    "light": "1000W CW LED",
+    "beamDeg": [
+      3.5,
+      52
+    ],
+    "pan": "infinite",
+    "tilt": 270,
+    "channels": [
+      41,
+      57
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "animation",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      466,
+      285,
+      745
+    ],
+    "weightKg": 36.9,
+    "url": "https://www.ckclighting.com/item/377.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: CRI 95/72 LED BSWF. Endlos-Pan."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Tourist M3",
+    "kind": "profile",
+    "light": "400W CW LED",
+    "beamDeg": [
+      3,
+      53
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      38,
+      52
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "animation",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      395,
+      255,
+      634
+    ],
+    "weightKg": 24.1,
+    "url": "https://www.ckclighting.com/item/378.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: H-Bright LED BSW/F."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Par Z60 IP",
+    "kind": "wash",
+    "light": "60W RGBW LED",
+    "beamDeg": [
+      7,
+      46
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      2,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      13
+    ],
+    "features": [
+      "zoom",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      263,
+      174,
+      342
+    ],
+    "weightKg": 4.4,
+    "url": "https://www.ckclighting.com/item/379.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Zoom Wash."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Soft Panel 300DW",
+    "kind": "panel",
+    "light": "WW+CW LED",
+    "beamDeg": [
+      61,
+      61
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      8,
+      9
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      530,
+      141,
+      415
+    ],
+    "weightKg": 13,
+    "url": "https://www.ckclighting.com/item/381.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: White color LED."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "FC Pendant 300",
+    "kind": "flood",
+    "light": "72 × 3.5W RGBWL LED",
+    "beamDeg": [
+      20,
+      20
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      4,
+      5,
+      10,
+      2,
+      17,
+      9
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      197,
+      197,
+      400
+    ],
+    "weightKg": 7.3,
+    "url": "https://www.ckclighting.com/item/382.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Pandant."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Pendant 300",
+    "kind": "flood",
+    "light": "180W CW LED",
+    "beamDeg": [
+      20,
+      20
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      4
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      197,
+      197,
+      400
+    ],
+    "weightKg": 7.3,
+    "url": "https://www.ckclighting.com/item/383.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Pandant."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Fresnel 20TD",
+    "kind": "fresnel",
+    "light": "17W WW+A LED Field angle：39° /51°",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      186,
+      143,
+      211
+    ],
+    "weightKg": 2,
+    "url": "https://www.ckclighting.com/item/384.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Triac dimming."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Fresnel 50TD",
+    "kind": "fresnel",
+    "light": "50W WW LED Zoom angle：16 ° ~ 45°",
+    "beamDeg": [
+      16,
+      45
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      242,
+      195,
+      251
+    ],
+    "weightKg": 3.6,
+    "url": "https://www.ckclighting.com/item/385.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Triac dimming."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Fresnel 100TD",
+    "kind": "fresnel",
+    "light": "100W WW LED Zoom angle：13 ~ 56°",
+    "beamDeg": [
+      13,
+      56
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      330,
+      309,
+      392
+    ],
+    "weightKg": 6.2,
+    "url": "https://www.ckclighting.com/item/386.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Triac dimming."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Mini Blinder",
+    "kind": "blinder",
+    "light": "84 × 3.5W RGBWAL LED",
+    "beamDeg": [
+      46,
+      46
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      14,
+      21,
+      10,
+      15
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      264,
+      170,
+      301
+    ],
+    "weightKg": 4.3,
+    "url": "https://www.ckclighting.com/item/387.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Single Blinder. Einzel-Blinder."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "IP PixBar 12 WWDC",
+    "kind": "bar",
+    "light": "12 × 3W WW LED",
+    "beamDeg": [
+      31,
+      31
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      500,
+      46,
+      78
+    ],
+    "weightKg": 1.55,
+    "url": "https://www.ckclighting.com/item/388.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: White LED lines."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Nonabeam Move",
+    "kind": "tiltbar",
+    "light": "9 × 60W WW+CW LED + RGB LED",
+    "beamDeg": [
+      14,
+      14
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      5,
+      18,
+      34,
+      50
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      736,
+      233,
+      490
+    ],
+    "weightKg": 28.9,
+    "url": "https://www.ckclighting.com/item/389.html",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: EOL product. Bewegliche Leiste mit 9 Beam-Zellen (Pan/Tilt)."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Y840",
+    "kind": "tiltbar",
+    "light": "8 × 40W RGBW LED",
+    "beamDeg": [
+      4,
+      37
+    ],
+    "pan": null,
+    "tilt": 210,
+    "channels": [
+      16,
+      18,
+      46
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      535,
+      150,
+      291
+    ],
+    "weightKg": 12,
+    "url": "https://www.ckclighting.com/item/390.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Moving Effect. Motorisierte Tilt-Bar ~0,5 m (Tilt 210°), Zoom 4-37°."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Y1640",
+    "kind": "tiltbar",
+    "light": "16 × 40W RGBW LED",
+    "beamDeg": [
+      4,
+      48
+    ],
+    "pan": null,
+    "tilt": 270,
+    "channels": [
+      16,
+      18,
+      78
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1062,
+      150,
+      291
+    ],
+    "weightKg": 23.5,
+    "url": "https://www.ckclighting.com/item/391.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Moving Effect. Motorisierte Tilt-Bar ~1 m (Tilt 270°), Zoom 4-48°."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "P10+",
+    "kind": "profile",
+    "light": "1000W CW LED",
+    "beamDeg": [
+      6,
+      52
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      36,
+      52
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      428,
+      304,
+      804
+    ],
+    "weightKg": 41,
+    "url": "https://www.ckclighting.com/item/392.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: CRI 95/72 LED."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Qdot 16 IP DTW",
+    "kind": "matrix",
+    "light": "16 × 40W WW+A LED",
+    "beamDeg": [
+      22,
+      22
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      7,
+      13,
+      16,
+      32,
+      37,
+      64
+    ],
+    "features": [
+      "IP65",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      440,
+      440,
+      205
+    ],
+    "weightKg": 17.2,
+    "url": "https://www.ckclighting.com/item/394.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Multiple Blinder. Multi-Blinder-Matrix 4x4 (Dim-to-Warm), IP."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Qdot 16 IP",
+    "kind": "matrix",
+    "light": "16 × 30W RGBA LED",
+    "beamDeg": [
+      55,
+      55
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3,
+      4,
+      7,
+      1,
+      2,
+      6,
+      8,
+      11,
+      12,
+      48,
+      64,
+      72,
+      128
+    ],
+    "features": [
+      "IP65",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      440,
+      440,
+      205
+    ],
+    "weightKg": 14.5,
+    "url": "https://www.ckclighting.com/item/395.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Multiple Blinder. Multi-Blinder-Matrix 4x4 = 16 Zellen, IP."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "IP Blinder DTW4",
+    "kind": "blinder",
+    "light": "4 × 175W WW+A LED",
+    "beamDeg": [
+      67,
+      67
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      9,
+      13
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      400,
+      252,
+      410
+    ],
+    "weightKg": 12,
+    "url": "https://www.ckclighting.com/item/396.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Multiple Blinder."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "IP Blinder DTW2",
+    "kind": "blinder",
+    "light": "2 × 175W WW+A LED",
+    "beamDeg": [
+      65,
+      65
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      9
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      400,
+      255,
+      245
+    ],
+    "weightKg": 7,
+    "url": "https://www.ckclighting.com/item/397.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Multiple Blinder."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Blinder WW4",
+    "kind": "blinder",
+    "light": "4 × 100W WW LED",
+    "beamDeg": [
+      66,
+      66
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      9
+    ],
+    "features": [
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      400,
+      174,
+      441
+    ],
+    "weightKg": 9.5,
+    "url": "https://www.ckclighting.com/item/398.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Multiple Blinder."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Blinder WW2",
+    "kind": "blinder",
+    "light": "2 × 100W WW LED",
+    "beamDeg": [
+      52,
+      52
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      447,
+      146,
+      253
+    ],
+    "weightKg": 4.6,
+    "url": "https://www.ckclighting.com/item/399.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Multiple Blinder."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Pinspot 15",
+    "kind": "par",
+    "light": "15W WW LED(Optional：RGBW / CW)",
+    "beamDeg": [
+      4,
+      4
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      4,
+      6,
+      7
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      135,
+      172,
+      203
+    ],
+    "weightKg": 1.4,
+    "url": "https://www.ckclighting.com/item/400.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Fixed angle. Pinspot 4°."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Soft Panel 600TW",
+    "kind": "profile",
+    "light": "720W RGBWLC(Red, Green, Blue, White, Lime, Cyan) LED",
+    "beamDeg": [
+      67,
+      67
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      1,
+      2,
+      6,
+      7,
+      12,
+      14,
+      23,
+      24,
+      48,
+      58,
+      96
+    ],
+    "features": [
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      860,
+      156,
+      427
+    ],
+    "weightKg": 15.3,
+    "url": "https://www.ckclighting.com/item/401.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Full color LED."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Soft Panel 300TW",
+    "kind": "profile",
+    "light": "360W RGBWLC(Red, Green, Blue, White, Lime, Cyan) LED",
+    "beamDeg": [
+      64,
+      64
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3,
+      4,
+      6,
+      8,
+      14
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      530,
+      141,
+      415
+    ],
+    "weightKg": 13,
+    "url": "https://www.ckclighting.com/item/402.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Full color LED."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Soft Panel 400DW",
+    "kind": "panel",
+    "light": "WW+CW LED",
+    "beamDeg": [
+      68,
+      68
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      8
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      860,
+      156,
+      427
+    ],
+    "weightKg": 15,
+    "url": "https://www.ckclighting.com/item/403.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: White color LED."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "V15 Pro IP",
+    "kind": "profile",
+    "light": "1400W CW LED",
+    "beamDeg": [
+      6,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      36,
+      52
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "animation",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      503,
+      360,
+      827
+    ],
+    "weightKg": 52.3,
+    "url": "https://www.ckclighting.com/item/404.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: CRI 95 LED/BSWF."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "V20 IP",
+    "kind": "profile",
+    "light": "1400W CW LED",
+    "beamDeg": [
+      6,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      38,
+      54
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "animation",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      503,
+      360,
+      827
+    ],
+    "weightKg": 52.8,
+    "url": "https://www.ckclighting.com/item/405.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: CRI 95/72 LED BSWF."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "V4s IP",
+    "kind": "hybrid",
+    "light": "320W CW LED",
+    "beamDeg": [
+      7,
+      40
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      24,
+      29,
+      36
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "animation",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      406,
+      290,
+      610
+    ],
+    "weightKg": 27.7,
+    "url": "https://www.ckclighting.com/item/406.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: H-Bright LED BSW/F. IP LED-BSW."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "V2s IP",
+    "kind": "hybrid",
+    "light": "200W CW LED",
+    "beamDeg": [
+      12,
+      23
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      17,
+      20,
+      22
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      359,
+      239,
+      489
+    ],
+    "weightKg": 17.2,
+    "url": "https://www.ckclighting.com/item/407.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: H-Bright LED BSW/F. IP LED-BSW."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "ZB7X IP",
+    "kind": "wash",
+    "light": "7 × 60W RGBW LED",
+    "beamDeg": [
+      4,
+      54
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      17,
+      21,
+      45
+    ],
+    "features": [
+      "zoom",
+      "IP65",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      358,
+      239,
+      465
+    ],
+    "weightKg": 16,
+    "url": "https://www.ckclighting.com/item/408.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Movin Wash."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "L Par 7",
+    "kind": "par",
+    "light": "7 × 20W RGBL LED",
+    "beamDeg": [
+      10,
+      10
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      7,
+      8,
+      10,
+      13,
+      16
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      258,
+      176,
+      264
+    ],
+    "weightKg": 3.5,
+    "url": "https://www.ckclighting.com/item/410.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Fixed angle."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "FC Pendant 200",
+    "kind": "flood",
+    "light": "72×3.5W RGBWL LED",
+    "beamDeg": [
+      36,
+      36
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      4,
+      5,
+      10,
+      17,
+      9
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      197,
+      197,
+      299
+    ],
+    "weightKg": 5.2,
+    "url": "https://www.ckclighting.com/item/411.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Pandant."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Follow Wo",
+    "kind": "follow",
+    "light": "1800W CW LED (High CRI + High Output) Output：61000 Lm（High Brightness）",
+    "beamDeg": [
+      3.5,
+      18
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      7,
+      8
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "frost",
+      "iris",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      511,
+      1024,
+      576
+    ],
+    "weightKg": 46.6,
+    "url": "https://www.ckclighting.com/item/412.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Follow Spot. LED-Verfolger, Zoom 3,5-18°."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "EvoWash Pro",
+    "kind": "wash",
+    "light": "12 × 60W RGBL LED",
+    "beamDeg": [
+      4,
+      60
+    ],
+    "pan": "infinite",
+    "tilt": "infinite",
+    "channels": [
+      21,
+      25,
+      69
+    ],
+    "features": [
+      "zoom",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      370,
+      249,
+      445
+    ],
+    "weightKg": 15.9,
+    "url": "https://www.ckclighting.com/item/413.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Movin Wash. Endlos-Pan."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "EvoWash Air",
+    "kind": "wash",
+    "light": null,
+    "beamDeg": [
+      4,
+      55
+    ],
+    "pan": "infinite",
+    "tilt": "infinite",
+    "channels": [
+      21,
+      25,
+      37
+    ],
+    "features": [
+      "zoom",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      298,
+      205,
+      362
+    ],
+    "weightKg": 8.6,
+    "url": "https://www.ckclighting.com/item/414.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Movin Wash. Endlos-Pan."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Wash Z300",
+    "kind": "wash",
+    "light": "250W RGBAL LED",
+    "beamDeg": [
+      7,
+      56
+    ],
+    "pan": 540,
+    "tilt": 240,
+    "channels": [
+      19,
+      24,
+      20,
+      18
+    ],
+    "features": [
+      "cmy",
+      "zoom",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      327,
+      208,
+      493
+    ],
+    "weightKg": 11.3,
+    "url": "https://www.ckclighting.com/item/415.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Movin Wash."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Tourist M6",
+    "kind": "profile",
+    "light": "600W CW LED",
+    "beamDeg": [
+      2,
+      52
+    ],
+    "pan": "infinite",
+    "tilt": 270,
+    "channels": [
+      43,
+      58
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "animation",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      434,
+      281,
+      684
+    ],
+    "weightKg": 31.7,
+    "url": "https://www.ckclighting.com/item/416.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: CRI 95/72 LED BSWF. Endlos-Pan."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Evo Linebar 72",
+    "kind": "bar",
+    "light": "24 × 100W RGBAL LED",
+    "beamDeg": [
+      83,
+      83
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      9,
+      16,
+      21,
+      15,
+      154,
+      274
+    ],
+    "features": [
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1806,
+      184,
+      239
+    ],
+    "weightKg": 27.5,
+    "url": "https://www.ckclighting.com/item/417.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Colorful lines."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Evo Linebar 48",
+    "kind": "bar",
+    "light": "16 × 100W RGBAL LED",
+    "beamDeg": [
+      62,
+      62
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      9,
+      16,
+      21,
+      15,
+      108,
+      186
+    ],
+    "features": [
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1211,
+      184,
+      239
+    ],
+    "weightKg": 19.5,
+    "url": "https://www.ckclighting.com/item/418.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Colorful lines."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Evo Linebar 12",
+    "kind": "bar",
+    "light": "4 × 100W RGBAL LED",
+    "beamDeg": [
+      24,
+      24
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      9,
+      16,
+      21,
+      15,
+      34,
+      54
+    ],
+    "features": [
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      321,
+      184,
+      239
+    ],
+    "weightKg": 6.5,
+    "url": "https://www.ckclighting.com/item/419.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Colorful lines."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "FC Halonel Plus",
+    "kind": "fresnel",
+    "light": "500W RGBLA LED",
+    "beamDeg": [
+      8,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      8,
+      14,
+      20,
+      16
+    ],
+    "features": [
+      "cmy",
+      "zoom",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      302,
+      448,
+      538
+    ],
+    "weightKg": 13.6,
+    "url": "https://www.ckclighting.com/item/420.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Tunable white / Full color."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "FC Halonel Pro",
+    "kind": "fresnel",
+    "light": "250W RGBLA LED",
+    "beamDeg": [
+      8,
+      48
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      8,
+      14,
+      20,
+      16
+    ],
+    "features": [
+      "cmy",
+      "zoom",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      256,
+      404,
+      498
+    ],
+    "weightKg": 10.6,
+    "url": "https://www.ckclighting.com/item/421.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Tunable white / Full color."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Footslim X",
+    "kind": "bar",
+    "light": "240 ×0.3W RGBLA LED",
+    "beamDeg": [
+      68,
+      68
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      8,
+      14,
+      12,
+      1,
+      2,
+      13,
+      29
+    ],
+    "features": [
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1000,
+      73,
+      47
+    ],
+    "weightKg": 3.3,
+    "url": "https://www.ckclighting.com/item/422.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Footslim."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Footslim M",
+    "kind": "bar",
+    "light": "120 ×0.3W RGBLA LED",
+    "beamDeg": [
+      56,
+      56
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      8,
+      14,
+      12,
+      1,
+      2,
+      13,
+      19
+    ],
+    "features": [
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      500,
+      73,
+      47
+    ],
+    "weightKg": 1.8,
+    "url": "https://www.ckclighting.com/item/423.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Footslim."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Evo T Double",
+    "kind": "tiltbar",
+    "light": "16 × 60W RGBL LED + 32×10W CW LED",
+    "beamDeg": [
+      3,
+      54
+    ],
+    "pan": null,
+    "tilt": 210,
+    "channels": [
+      24,
+      33,
+      121
+    ],
+    "features": [
+      "zoom",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1004,
+      140,
+      337
+    ],
+    "weightKg": 24.7,
+    "url": "https://www.ckclighting.com/item/424.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Moving Effect. Motorisierte Tilt-Bar 1 m (Tilt 210°)."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Evo T Single",
+    "kind": "tiltbar",
+    "light": "8 × 60W RGBL LED + 16×10W CW LED",
+    "beamDeg": [
+      3,
+      46
+    ],
+    "pan": null,
+    "tilt": 210,
+    "channels": [
+      22,
+      29,
+      69
+    ],
+    "features": [
+      "zoom",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      502,
+      140,
+      337
+    ],
+    "weightKg": 13.5,
+    "url": "https://www.ckclighting.com/item/425.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Moving Effect. Motorisierte Tilt-Bar 0,5 m (Tilt 210°)."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "EvoWash Plus",
+    "kind": "wash",
+    "light": "37 × 60W RGBL LED",
+    "beamDeg": [
+      4,
+      52
+    ],
+    "pan": "infinite",
+    "tilt": "infinite",
+    "channels": [
+      21,
+      25,
+      169
+    ],
+    "features": [
+      "zoom",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      546,
+      388,
+      530
+    ],
+    "weightKg": 35.4,
+    "url": "https://www.ckclighting.com/item/432.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Movin Wash. Endlos-Pan."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "M Trio",
+    "kind": "hybrid",
+    "light": "OSRAM 520W Lamp",
+    "beamDeg": [
+      1.8,
+      24
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      31,
+      36
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "animation",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      434,
+      281,
+      724
+    ],
+    "weightKg": 31.2,
+    "url": "https://www.ckclighting.com/item/437.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: HID 3 in 1."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "Proxima Compact",
+    "kind": "hybrid",
+    "light": "400W laser",
+    "beamDeg": [
+      0.9,
+      25
+    ],
+    "pan": "infinite",
+    "tilt": 270,
+    "channels": [
+      30,
+      37
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "animation",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      395,
+      255,
+      655
+    ],
+    "weightKg": 26,
+    "url": "https://www.ckclighting.com/item/440.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Laser 3 in 1. Laser-BSW, Endlos-Pan. Endlos-Pan."
+  },
+  {
+    "manufacturer": "CKC Lighting",
+    "model": "PixBar 1515 IP",
+    "kind": "bar",
+    "light": "15 × 20W RGBL LED",
+    "beamDeg": [
+      26,
+      26
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      7,
+      8,
+      11,
+      14,
+      60,
+      63,
+      67,
+      70,
+      120
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      914,
+      152,
+      166
+    ],
+    "weightKg": 9.1,
+    "url": "https://www.ckclighting.com/item/441.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kategorie laut Hersteller: Colorful lines."
+  }
+]

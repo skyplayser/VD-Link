@@ -1,0 +1,303 @@
+[
+ {
+  "man": "Futurelight",
+  "key": "dmh-190-hybrid-moving-head-spot-beam",
+  "model": "DMH-190 Hybrid Moving-Head Spot/Beam",
+  "kind": "hybrid",
+  "deg": [
+   1,
+   32
+  ],
+  "pan": 540,
+  "tilt": 255,
+  "ch": [
+   17,
+   21
+  ],
+  "feat": [
+   "cto",
+   "gobo:8",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.steinigke.de/mpn51841974-futurelight-dmh-190-hybrid-moving-head-spot-beam.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Futurelight",
+  "key": "dmh-380-hybrid-cmy-moving-head-spot-beam",
+  "model": "DMH-380 Hybrid CMY Moving-Head Spot/Beam",
+  "kind": "hybrid",
+  "deg": [
+   1,
+   50
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "ch": [
+   26,
+   30
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:8",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.steinigke.de/mpn51841985-futurelight-dmh-380-hybrid-cmy-moving-head-spot-beam.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Futurelight",
+  "key": "dmh-640-profile-cmy-moving-head-spot",
+  "model": "DMH-640 Profile CMY Moving-Head Spot",
+  "kind": "profile",
+  "deg": [
+   10,
+   47
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "ch": [
+   33,
+   35,
+   39
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.steinigke.de/mpn51841990-futurelight-dmh-640-profile-cmy-moving-head-spot.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Futurelight",
+  "key": "eye-1940-qcl-zoom-led-moving-head-wash",
+  "model": "EYE-1940 QCL Zoom LED Moving-Head Wash",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   1,
+   42
+  ],
+  "pan": 540,
+  "tilt": 230,
+  "ch": [
+   18,
+   25,
+   30,
+   37,
+   49,
+   94,
+   101,
+   113
+  ],
+  "pixelFrom": 94,
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.steinigke.de/mpn51841302-futurelight-eye-1940-qcl-zoom-led-moving-head-wash.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Futurelight",
+  "key": "eye-740-mk2-qcl-zoom-led-moving-head-wash",
+  "model": "EYE-740 MK2 QCL Zoom LED Moving-Head Wash",
+  "kind": "wash",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   1,
+   48
+  ],
+  "pan": 540,
+  "tilt": 210,
+  "ch": [
+   18,
+   25,
+   26,
+   33,
+   37,
+   45,
+   46,
+   53,
+   65
+  ],
+  "pixelFrom": 33,
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.steinigke.de/mpn51841303-futurelight-eye-740-mk2-qcl-zoom-led-moving-head-wash.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Futurelight",
+  "key": "ip-plb-420-moving-head-beam",
+  "model": "IP PLB-420 Moving-Head Beam",
+  "kind": "beam",
+  "deg": [
+   1,
+   1
+  ],
+  "pan": 540,
+  "tilt": 265,
+  "ch": [
+   18
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "focus"
+  ],
+  "url": "https://www.steinigke.de/mpn51838830-futurelight-ip-plb-420-moving-head-beam.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Futurelight",
+  "key": "ip-plh-420-moving-head-spot-beam",
+  "model": "IP PLH-420 Moving-Head Spot/Beam",
+  "kind": "hybrid",
+  "deg": [
+   1,
+   25
+  ],
+  "pan": 540,
+  "tilt": 265,
+  "ch": [
+   23
+  ],
+  "feat": [
+   "gobo:9",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.steinigke.de/mpn51838800-futurelight-ip-plh-420-moving-head-spot-beam.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Futurelight",
+  "key": "pro-slim-strobe-smd-840-cw",
+  "model": "PRO Slim Strobe SMD 840 CW",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "cw"
+  ],
+  "ch": [
+   2,
+   3,
+   5,
+   7,
+   17,
+   23
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   345,
+   305,
+   145
+  ],
+  "url": "https://www.steinigke.de/mpn51842710-futurelight-pro-slim-strobe-smd-840-cw.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Futurelight",
+  "key": "pro-slim-strobe-smd-840-ww",
+  "model": "PRO Slim Strobe SMD 840 WW",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "ww"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   2,
+   3,
+   5,
+   7,
+   17,
+   23
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   345,
+   305,
+   145
+  ],
+  "url": "https://www.steinigke.de/mpn51842715-futurelight-pro-slim-strobe-smd-840-ww.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Futurelight",
+  "key": "profile-200-20-45",
+  "model": "Profile 200, 20-45°",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   20,
+   45
+  ],
+  "ch": [
+   1,
+   2
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   645,
+   276,
+   277
+  ],
+  "url": "https://www.steinigke.de/mpn51840915-futurelight-profile-200-20-45.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

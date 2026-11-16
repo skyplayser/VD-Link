@@ -1,0 +1,5146 @@
+[
+  {
+    "manufacturer": "ACME",
+    "model": "AECO 15",
+    "kind": "profile",
+    "light": "1500W LED engine",
+    "beamDeg": [
+      5,
+      52
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      22,
+      29,
+      31,
+      38
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:8+7",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      412,
+      308,
+      770
+    ],
+    "weightKg": 43,
+    "url": "https://en.acmelighting.com/item/AECO-15",
+    "manualUrl": "https://en.acmelighting.com/upload/other/20251209/2d894d97686c7ae92effdac49ee7eac7.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Profil-Moving-Head 1500 W, CMY+CTO, Framing-Shutter, Animationsrad. Leistung 1555 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "AECO 30 IP",
+    "kind": "profile",
+    "light": "1800W LED engine",
+    "beamDeg": [
+      4,
+      48
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      23,
+      32,
+      34,
+      43
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:6",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      465,
+      365,
+      830
+    ],
+    "weightKg": 52.5,
+    "url": "https://en.acmelighting.com/item/AECO-30-IP",
+    "manualUrl": "https://en.acmelighting.com/upload/attachFile/202611/3fd653f3x1a0f6248bd4x50a4.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 LED-Profil 1800 W. Leistung 2265 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "AECO 5",
+    "kind": "profile",
+    "light": "450W LED engine",
+    "beamDeg": [
+      6.5,
+      54
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      33,
+      24,
+      28
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "gobo:8+7",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      350,
+      252,
+      692
+    ],
+    "weightKg": 26.5,
+    "url": "https://en.acmelighting.com/item/AECO-5",
+    "manualUrl": "https://en.acmelighting.com/upload/other/20241117/c1c9055523c8cbb978bf6abf74c8b553.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Profil 450 W, kompakt. Leistung 670 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "ARES IP",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": [
+      1.3,
+      1.3
+    ],
+    "pan": 540,
+    "tilt": 260,
+    "channels": [
+      24
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:10+3",
+      "prism",
+      "frost",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      380,
+      284,
+      659
+    ],
+    "weightKg": 31,
+    "url": "https://en.acmelighting.com/item/ARES-IP",
+    "manualUrl": "https://en.acmelighting.com/upload/other/20251225/c8380016e1a10a0860b6a2501fa553b5.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode XP 500 BEAM IP. Entladungslampen-Beam (Lampe laut Code XP 500 BEAM IP), IP-geschützt; Lampentyp nicht im Spec-Text erfasst. Leistung 615 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "ARES",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": [
+      1.3,
+      1.3
+    ],
+    "pan": 540,
+    "tilt": 260,
+    "channels": [
+      21,
+      17
+    ],
+    "features": [
+      "cto",
+      "colorwheel",
+      "gobo:10",
+      "prism",
+      "frost",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      350,
+      223,
+      668
+    ],
+    "weightKg": 28,
+    "url": "https://en.acmelighting.com/item/ARES",
+    "manualUrl": "https://en.acmelighting.com/upload/other/20250410/7246d4a664a3d5c86bf8010e5d6bcfd9.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode XP 500 BEAM. Entladungslampen-Beam (XP 500 BEAM). Leistung 570 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "AUTOLUX",
+    "kind": "wash",
+    "light": "600W LED engine",
+    "beamDeg": [
+      11,
+      42
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      25
+    ],
+    "features": [
+      "cto",
+      "colorwheel",
+      "frost",
+      "zoom",
+      "blades"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      376,
+      236,
+      592
+    ],
+    "weightKg": 22,
+    "url": "https://en.acmelighting.com/item/AUTOLUX",
+    "manualUrl": "https://en.acmelighting.com/upload/attachFile/202608/36e7a002x19ff34be9caxx2f6d.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode AUTO 600. LED-Wash-Moving-Head 600 W weiß mit Farbrad, CTO, Framing. Leistung 865 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "BEAMONE PRO",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      25
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:10",
+      "prism",
+      "frost",
+      "focus",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 22.5,
+    "url": "https://en.acmelighting.com/item/BEAMONE-PRO",
+    "manualUrl": "https://en.acmelighting.com/upload/attachFile/202611/3fd653f3x1a0f6248bd4x51d.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode XP 300 BEAM IP. Entladungslampen-Beam (XP 300 BEAM IP). Leistung 405 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "BLINDER LINE 10 IP",
+    "kind": "blinder",
+    "light": "10 x 150W RGBAW LEDs",
+    "beamDeg": [
+      23,
+      23
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      14,
+      55
+    ],
+    "features": [
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "1x10",
+    "sizeMm": [
+      1000,
+      103,
+      158.5
+    ],
+    "weightKg": 13.6,
+    "url": "https://en.acmelighting.com/item/BLINDER-LINE-10-IP",
+    "manualUrl": "https://en.acmelighting.com/upload/other/20250614/54f0310ffd3d48968db5b08b15c50462.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode BLB 10 IP. Lineare Blinder-Leiste 1 m, 10 x 150 W RGBAW, je Zelle einzeln steuerbar, IP66. Leistung 600 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "BLINDER LINE 5 IP",
+    "kind": "blinder",
+    "light": "5 x150W RGBAW LEDs",
+    "beamDeg": [
+      23,
+      23
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      14,
+      30
+    ],
+    "features": [
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "1x5",
+    "sizeMm": [
+      500,
+      103.3,
+      160.3
+    ],
+    "weightKg": 7.7,
+    "url": "https://en.acmelighting.com/item/BLINDER-LINE-5-IP",
+    "manualUrl": "https://en.acmelighting.com/upload/other/20260121/681269db976c749123f6bd2b39914f54.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode BLB 5 IP. Lineare Blinder-Leiste 0,5 m, 5 x 150 W RGBAW, IP66. Leistung 350 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "COMET",
+    "kind": "follow",
+    "light": "1800W LED engine",
+    "beamDeg": [
+      5,
+      15
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      7
+    ],
+    "features": [
+      "colorwheel",
+      "frost",
+      "iris",
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      493,
+      1052,
+      369
+    ],
+    "weightKg": 51,
+    "url": "https://en.acmelighting.com/item/COMET",
+    "manualUrl": "https://en.acmelighting.com/upload/attachFile/202611/3fd653f3x1a0f6248bd4x4986.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode XA 2000 FS. LED-Verfolger 1800 W, Zoom 5-15°, Farbrad/CT-Rad/Minus-Green. Leistung 2180 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "COOLIE 186",
+    "kind": "par",
+    "light": "18 x 6W RGBW LED",
+    "beamDeg": [
+      18,
+      18
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      5,
+      8,
+      10
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      172,
+      113,
+      200
+    ],
+    "weightKg": 2.2,
+    "url": "https://en.acmelighting.com/item/COOLIE-186",
+    "manualUrl": "https://en.acmelighting.com/Uploads/download/file_material/17084347784d81c04da61cfc4b.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode BW 186. Kompakter LED-Flachpar 18 x 6 W RGBW. Leistung 55 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "CYCLONE",
+    "kind": "effect",
+    "light": "Beam/Wash: 1 x 150W RGBL LED (main light)",
+    "beamDeg": [
+      4,
+      30
+    ],
+    "pan": "infinite",
+    "tilt": 220,
+    "channels": [
+      27,
+      50,
+      58
+    ],
+    "features": [
+      "cto",
+      "focus",
+      "pixel",
+      "artnet",
+      "rdm",
+      "ring"
+    ],
+    "ring": "Pixel-Ring um zentrale Linse",
+    "pixels": null,
+    "sizeMm": [
+      235,
+      192,
+      363
+    ],
+    "weightKg": 8.5,
+    "url": "https://en.acmelighting.com/item/CYCLONE",
+    "manualUrl": "https://en.acmelighting.com/upload/attachFile/202608/36e7a002x19ff34be9caxx1d3c.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode CM 150 IP. Moving Head mit Endlos-Pan, Tilt 220° plus Roll-Achse 60°; zentraler 150 W RGBL Beam/Wash mit Kaleidoskop-Effekt, umgeben von Pixel-Ring (RGB-Ring). Leistung 260 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "ELLIPSOIDAL 300 WW",
+    "kind": "ellipsoidal",
+    "light": "1 x 280W Warm White LED",
+    "beamDeg": [
+      5,
+      5
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2
+    ],
+    "features": [
+      "gobo",
+      "blades"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      276,
+      712,
+      524
+    ],
+    "weightKg": 10,
+    "url": "https://en.acmelighting.com/item/ELLIPSOIDAL-300-WW",
+    "manualUrl": "https://en.acmelighting.com/Uploads/download/file_material/1686129581717d64bf5d02a737.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode E-300 WW. LED-Ellipsoid/Profilscheinwerfer 280 W warmweiß, Shutter, Gobo-Halter; Linsentubus wechselbar (5° laut Spec, weitere Tuben optional). Leistung 335 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "ELLIPSOIDAL 40 DMX WW",
+    "kind": "ellipsoidal",
+    "light": "1 x 36W WW LED",
+    "beamDeg": [
+      19,
+      19
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      158,
+      273,
+      100
+    ],
+    "weightKg": 2,
+    "url": "https://en.acmelighting.com/item/ELLIPSOIDAL-40-DMX-WW",
+    "manualUrl": "https://en.acmelighting.com/Uploads/download/file_material/16048892052030c8d4e4774342.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode E-40D WW. Mini-LED-Ellipsoid 36 W WW mit DMX. Leistung 32 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "GEIST BSWF",
+    "kind": "profile",
+    "light": "450W white LED engine",
+    "beamDeg": [
+      6.5,
+      54
+    ],
+    "pan": 540,
+    "tilt": 260,
+    "channels": [
+      25,
+      29,
+      34
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:8+7",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "blades",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      364,
+      250,
+      658
+    ],
+    "weightKg": 24.5,
+    "url": "https://en.acmelighting.com/item/GEIST-BSWF",
+    "manualUrl": "https://en.acmelighting.com/upload/other/20250409/ac39988eab4345ec1b2547c1fa289a8e.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode XA-500 BSWF. LED BSWF-Hybrid/Profil 450 W. Leistung 670 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "GEMINI",
+    "kind": "tiltbar",
+    "light": "Beam: 5 x 60W RGBW LED",
+    "beamDeg": [
+      2.8,
+      31
+    ],
+    "pan": "infinite",
+    "tilt": "infinite",
+    "channels": [
+      58,
+      25,
+      23,
+      35,
+      27,
+      70,
+      55
+    ],
+    "features": [
+      "iris",
+      "zoom",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "1x5 Zellen (Front)",
+    "sizeMm": [
+      130,
+      500,
+      420
+    ],
+    "weightKg": 19.5,
+    "url": "https://en.acmelighting.com/item/GEMINI",
+    "manualUrl": "https://en.acmelighting.com/upload/other/20251215/d83e2eea538e2e3c61bc0fd151c93163.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode CM 560Z. Zweiseitige Bar mit Endlos-Pan/Tilt: Vorderseite 5 x 60 W RGBW Zellen mit Zoom 2,8-31°, Rückseite Strobe-Feld mit 36 kaltweißen LEDs. Leistung 1240 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "HUE 6 IP",
+    "kind": "profile",
+    "light": "600W RGBAL LED engine",
+    "beamDeg": [
+      6,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      43,
+      45,
+      46,
+      50
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:7",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      380,
+      284,
+      658
+    ],
+    "weightKg": 32,
+    "url": "https://en.acmelighting.com/item/HUE-6-IP",
+    "manualUrl": "https://en.acmelighting.com/upload/attachFile/202608/656463e1x19fb1ec59e9xx791e.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP-Profil mit Mehrchip-RGBAL-Engine 600 W (Farbmischung additiv statt CMY-Filter laut Spec CMY-Emulation), Framing. Leistung 820 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "HUELINE 16 IP",
+    "kind": "bar",
+    "light": "16 x 25W RGBWAC+UV LEDs",
+    "beamDeg": [
+      21,
+      49
+    ],
+    "pan": null,
+    "tilt": 90,
+    "channels": [
+      16,
+      18,
+      133,
+      136
+    ],
+    "features": [
+      "cto",
+      "frost",
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "1x16",
+    "sizeMm": [
+      998,
+      78,
+      130
+    ],
+    "weightKg": 8,
+    "url": "https://en.acmelighting.com/item/HUELINE-16-IP",
+    "manualUrl": "https://en.acmelighting.com/upload/attachFile/202607/656463e1x19efddb3039x138a.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode HL 16 IP. LED-Bar 1 m, 16 x 25 W RGBWAC+UV, je Zelle steuerbarer elektrischer Frost (Smart Glass), Zoom 21-49°; Tilt 90° nur mit Bodenstativ (manuell). Leistung 190 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "HYPERZONE",
+    "kind": "wash",
+    "light": "7 x 150W RGBL LEDs",
+    "beamDeg": [
+      3,
+      32
+    ],
+    "pan": 540,
+    "tilt": 210,
+    "channels": [
+      19,
+      20,
+      21,
+      41,
+      42,
+      43
+    ],
+    "features": [
+      "cto",
+      "zoom",
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "7 LEDs (Hex)",
+    "sizeMm": [
+      380,
+      318,
+      500
+    ],
+    "weightKg": 26.4,
+    "url": "https://en.acmelighting.com/item/HYPERZONE",
+    "manualUrl": "https://en.acmelighting.com/upload/attachFile/202611/3fd653f3x1a0f6248bd4x6f82.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode CM 7 IP. LED-Wash/Beam-Moving-Head 7 x 150 W RGBL, Pixelsteuerung je LED, IP-geschützt. Leistung 1370 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "LIGHTNING X",
+    "kind": "strobe",
+    "light": "Wash: 240 x 12W RGBW LEDs",
+    "beamDeg": [
+      2.6,
+      2.6
+    ],
+    "pan": null,
+    "tilt": 185,
+    "channels": [
+      31,
+      43,
+      100,
+      230
+    ],
+    "features": [
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "30 RGBW-Zonen + 2x5 Strobe-Zonen",
+    "sizeMm": [
+      500,
+      180,
+      327
+    ],
+    "weightKg": 19,
+    "url": "https://en.acmelighting.com/item/LIGHTNING-X",
+    "manualUrl": "https://en.acmelighting.com/upload/attachFile/202506/37268afcx1973b603a9axx43c9.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode STROBE 7 IP. Hybrid Strobe/Beam/Wash/Strip-Leiste mit motorischem Tilt 185°: 30 x 10 W CW Beam-LEDs, 240 x 12 W RGBW in 30 Zonen, zwei Strobe-Linien (80 x 21 W CW, je 5 Zonen), Strip-Linien oben/unten. Leistung 1135 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "LIGHTNING",
+    "kind": "strobe",
+    "light": "240 x 12W RGBW LED (30 controllable RGBW LED sections)",
+    "beamDeg": [
+      102,
+      102
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      10,
+      17,
+      24,
+      21,
+      26,
+      36,
+      41,
+      61,
+      150,
+      158
+    ],
+    "features": [
+      "frost",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "30 Sektionen",
+    "sizeMm": [
+      483,
+      212,
+      224
+    ],
+    "weightKg": 13.3,
+    "url": "https://en.acmelighting.com/item/LIGHTNING",
+    "manualUrl": "https://en.acmelighting.com/Uploads/download/file_material/171101994319e72923abb447b1.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode STROBE 6 IP. IP66 Strobe/Wash, 240 x 12 W RGBW in 30 Sektionen, Smart-Glass-Frost. Leistung 1610 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "LINEFORCE 10 IP",
+    "kind": "bar",
+    "light": "10 x 120W RGBWAC+UV LEDs",
+    "beamDeg": [
+      14,
+      57
+    ],
+    "pan": null,
+    "tilt": 90,
+    "channels": [
+      10,
+      12,
+      16,
+      18,
+      19,
+      21,
+      79,
+      82
+    ],
+    "features": [
+      "cto",
+      "frost",
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "1x10",
+    "sizeMm": [
+      1000,
+      100,
+      162
+    ],
+    "weightKg": 13.6,
+    "url": "https://en.acmelighting.com/item/LINEFORCE-10-IP",
+    "manualUrl": "https://en.acmelighting.com/upload/attachFile/202608/656463e1x19fb1ec59e9xx4f92.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode CYC 10 IP. Zyklorama/Wash-Leiste 1 m, 10 x 120 W RGBWAC+UV, Zoom, elektrischer Frost; Tilt 90° manuell (Bodenstativ). Leistung 625 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "LINEFORCE 5 IP",
+    "kind": "bar",
+    "light": "5 x 120W RGBWAC+UV LEDs",
+    "beamDeg": [
+      14,
+      55
+    ],
+    "pan": null,
+    "tilt": 90,
+    "channels": [
+      10,
+      12,
+      16,
+      18,
+      19,
+      21,
+      44,
+      47
+    ],
+    "features": [
+      "cto",
+      "frost",
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "1x5",
+    "sizeMm": [
+      500,
+      100,
+      162
+    ],
+    "weightKg": 8.6,
+    "url": "https://en.acmelighting.com/item/LINEFORCE-5-IP",
+    "manualUrl": "https://en.acmelighting.com/upload/attachFile/202608/656463e1x19fb1ec59e9xx4f89.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode CYC 5 IP. Zyklorama/Wash-Leiste 0,5 m, 5 x 120 W RGBWAC+UV. Leistung 325 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "LYRA BW",
+    "kind": "beam",
+    "light": "1000W LED engine",
+    "beamDeg": [
+      4.5,
+      40
+    ],
+    "pan": 540,
+    "tilt": 260,
+    "channels": [
+      30,
+      18
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "frost",
+      "blades"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      412,
+      330,
+      743
+    ],
+    "weightKg": 42.5,
+    "url": "https://en.acmelighting.com/item/LYRA-BW",
+    "manualUrl": "https://en.acmelighting.com/upload/other/20250614/118b7b29ec1b5ca27bfdca8475686ed3.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode XA 1000 BW IP. IP66 Beam/Wash 1000 W LED (BW). Leistung 1455 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "LYRA",
+    "kind": "profile",
+    "light": "1000W 8000K White LED Engine",
+    "beamDeg": [
+      6,
+      50
+    ],
+    "pan": 540,
+    "tilt": 260,
+    "channels": [
+      22,
+      30,
+      31,
+      39,
+      40
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:9+7",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      412,
+      330,
+      719
+    ],
+    "weightKg": 42,
+    "url": "https://en.acmelighting.com/item/LYRA",
+    "manualUrl": "https://en.acmelighting.com/upload/other/20250329/9aa9be9107376e5bf26a522d30b4421e.pdf",
+    "status": "aktuell",
+    "inLibrary": "vd:acme/lyra",
+    "notes": "Modellcode XA 1000 BSWF IP. IP66 LED-Profil 1000 W, 4 Shutter-Blades rotierbar ±60°. Leistung 1190 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "MANA HYBRID",
+    "kind": "hybrid",
+    "light": "600W LED Engine",
+    "beamDeg": [
+      2,
+      45
+    ],
+    "pan": 540,
+    "tilt": 260,
+    "channels": [
+      24,
+      30
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:13+8",
+      "prism",
+      "frost",
+      "zoom",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      380,
+      284,
+      658
+    ],
+    "weightKg": 30.5,
+    "url": "https://en.acmelighting.com/item/MANA-HYBRID",
+    "manualUrl": "https://en.acmelighting.com/upload/other/20250409/19c52f95be40988283567505852212b1.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode XA 600 BSW IP. IP66 BSW-Hybrid 600 W LED. Leistung 910 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "MANA PROFILE",
+    "kind": "profile",
+    "light": "600W LED engine",
+    "beamDeg": [
+      3.5,
+      45
+    ],
+    "pan": 540,
+    "tilt": 260,
+    "channels": [
+      22,
+      30,
+      31,
+      40
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:9+8",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      380,
+      284,
+      658
+    ],
+    "weightKg": 32.5,
+    "url": "https://en.acmelighting.com/item/MANA-PROFILE",
+    "manualUrl": "https://en.acmelighting.com/upload/attachFile/202607/656463e1x19efddb3039x1178.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode XA 600 BSWF IP. IP66 BSWF-Profil 600 W LED. Leistung 910 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "NEOZONE",
+    "kind": "wash",
+    "light": "Osram 19 x 40W RGBW LED",
+    "beamDeg": [
+      3.5,
+      28.5
+    ],
+    "pan": 540,
+    "tilt": 220,
+    "channels": [
+      17,
+      21,
+      86,
+      10
+    ],
+    "features": [
+      "cto",
+      "zoom",
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "19 LEDs (Hex)",
+    "sizeMm": [
+      390,
+      223,
+      496
+    ],
+    "weightKg": 20,
+    "url": "https://en.acmelighting.com/item/NEOZONE",
+    "manualUrl": "https://en.acmelighting.com/upload/attachFile/202607/656463e1x19efddb3039x2e6c.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode CM 800Z. LED-Wash-Moving-Head 19 x 40 W RGBW, Pixelsteuerung, Zoom 1:8. Leistung 960 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "NOVA BEAM",
+    "kind": "beam",
+    "light": "300W LED engine",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      18
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:7",
+      "prism",
+      "frost",
+      "focus",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      309,
+      206,
+      520
+    ],
+    "weightKg": 17.2,
+    "url": "https://en.acmelighting.com/item/NOVA-BEAM",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode XA 300 BEAM. LED-Beam 300 W. Leistung 425 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "OXYGEN",
+    "kind": "wash",
+    "light": "OSRAM 7x40W RGBW LED",
+    "beamDeg": [
+      4.5,
+      36.5
+    ],
+    "pan": 540,
+    "tilt": 230,
+    "channels": [
+      17,
+      37
+    ],
+    "features": [
+      "cto",
+      "zoom",
+      "pixel"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      170,
+      216,
+      345
+    ],
+    "weightKg": 6.3,
+    "url": "https://en.acmelighting.com/item/OXYGEN",
+    "manualUrl": "https://en.acmelighting.com/upload/other/20251114/80d373338373f8105c58485fea5d99db.pdf",
+    "status": "aktuell",
+    "inLibrary": "qlc:acme/oxygen",
+    "notes": "Modellcode CM 400Z. Kompakter LED-Wash 7 x 40 W RGBW mit Zoom. Leistung 335 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "PASODOBLE",
+    "kind": "par",
+    "light": "12 x 8W RGBW LED module",
+    "beamDeg": [
+      16,
+      16
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      5,
+      8,
+      10
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      257,
+      88,
+      239
+    ],
+    "weightKg": 3,
+    "url": "https://en.acmelighting.com/item/PASODOBLE",
+    "manualUrl": "https://en.acmelighting.com/Uploads/download/file_material/1639529683e46a46412b575acf.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode PAR 12. LED-Par 12 x 8 W RGBW. Leistung 85 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "PHOTON HYBRID 500",
+    "kind": "hybrid",
+    "light": "350W white laser source",
+    "beamDeg": [
+      0.9,
+      22
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      28,
+      31
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:21+11",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 32.5,
+    "url": "https://en.acmelighting.com/item/PHOTON-HYBRID-500",
+    "manualUrl": "https://en.acmelighting.com/upload/attachFile/202607/656463e1x19efddb3039xx24b5.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode XL 500 BSW IP. Laser-Phosphor-Hybrid (350 W weiße Laserquelle), BSW, Beam ab 0,9°. Leistung 660 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "PIXEL LINE IP 500",
+    "kind": "strobe",
+    "light": "336 x 0.5W RGB LEDs (divided into 16 controllable sections)",
+    "beamDeg": [
+      102,
+      102
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      8,
+      10,
+      16,
+      18,
+      22,
+      26,
+      34,
+      37,
+      38,
+      39,
+      56,
+      62,
+      63,
+      68,
+      69
+    ],
+    "features": [
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "1x16 Sektionen",
+    "sizeMm": [
+      500,
+      113,
+      124
+    ],
+    "weightKg": 5.1,
+    "url": "https://en.acmelighting.com/item/PIXEL-LINE-IP-500",
+    "manualUrl": "https://en.acmelighting.com/upload/other/20260129/ede817aff78919b9fa189b405c5ec2b9.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode STROBE 1 IP. LED-Strobe/Pixel-Leiste 0,5 m, 336 x 0,5 W RGB in 16 Sektionen, Smart-Glass-Frost. Leistung 875 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "PIXEL LINE IP",
+    "kind": "strobe",
+    "light": "672 x 0.5W RGB LEDs (can be divided into 32 controllable sections)",
+    "beamDeg": [
+      101,
+      101
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      7,
+      15,
+      17,
+      21,
+      33,
+      39,
+      65,
+      68,
+      69,
+      70,
+      112,
+      117,
+      119,
+      125
+    ],
+    "features": [
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "bis 1x32 Sektionen",
+    "sizeMm": [
+      1000,
+      90,
+      124
+    ],
+    "weightKg": 7.3,
+    "url": "https://en.acmelighting.com/item/PIXEL-LINE-IP",
+    "manualUrl": "https://en.acmelighting.com/upload/attachFile/202607/656463e1x19efddb3039x3ab7.pdf",
+    "status": "aktuell",
+    "inLibrary": "qlc:acme/pixel-line-ip",
+    "notes": "Modellcode STROBE 3 IP. LED-Strobe/Pixel-Leiste 1 m, 672 x 0,5 W RGB in bis zu 32 Sektionen, Smart-Glass-Frost, IP. Leistung 420 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "PIXEL LINE SLIM 500",
+    "kind": "bar",
+    "light": "24 x 1.2W RGB/WW/CW LEDs",
+    "beamDeg": [
+      66,
+      66
+    ],
+    "pan": null,
+    "tilt": 180,
+    "channels": [
+      14,
+      19,
+      24,
+      29,
+      39,
+      49,
+      69,
+      124,
+      129
+    ],
+    "features": [
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "1x24",
+    "sizeMm": [
+      500,
+      82,
+      42
+    ],
+    "weightKg": 1.6,
+    "url": "https://en.acmelighting.com/item/PIXEL-LINE-SLIM-500",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode SL 50 IP. Flache Pixel-Leiste 0,5 m, 24 x 1,2 W RGB/WW/CW, Tilt 180° (Bügel). Leistung 30 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "PIXEL LINE SLIM",
+    "kind": "bar",
+    "light": "48 x 1.2W RGB/WW/CW LEDs",
+    "beamDeg": [
+      74,
+      74
+    ],
+    "pan": null,
+    "tilt": 180,
+    "channels": [
+      14,
+      19,
+      24,
+      29,
+      39,
+      49,
+      69,
+      89,
+      129,
+      244,
+      249
+    ],
+    "features": [
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "1x48",
+    "sizeMm": [
+      1000,
+      82,
+      45
+    ],
+    "weightKg": 2.2,
+    "url": "https://en.acmelighting.com/item/PIXEL-LINE-SLIM",
+    "manualUrl": "https://en.acmelighting.com/upload/attachFile/202610/3fd653f3x1a0f6248bd4x8a2.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode SL 100 IP. Flache Pixel-Leiste 1 m, 48 x 1,2 W RGB/WW/CW. Leistung 50 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "PULSAR PLUS S2",
+    "kind": "effect",
+    "light": "Beam/Wash: 4 x 150W RGBL LEDs",
+    "beamDeg": [
+      3.5,
+      24
+    ],
+    "pan": "infinite",
+    "tilt": null,
+    "channels": [
+      43,
+      153,
+      163,
+      195
+    ],
+    "features": [
+      "cto",
+      "zoom",
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "4 Front-LEDs + Rückseiten-Pixel",
+    "sizeMm": [
+      310,
+      228,
+      496
+    ],
+    "weightKg": 20.5,
+    "url": "https://en.acmelighting.com/item/PULSAR-PLUS-S2",
+    "manualUrl": "https://en.acmelighting.com/upload/attachFile/202609/36e7a002x19ff34be9cax1191.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode CM S2 IP. Zweiseitiger Moving Head (Endlos-Pan/Tilt), IP66: Vorderseite 4 x 150 W RGBL mit Zoom 3,5-24°, Rückseite Strobe/Pixel-Feld. Leistung 1200 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "PULSAR S2",
+    "kind": "effect",
+    "light": "Beam/Wash: 4 x 60W RGBW LEDs",
+    "beamDeg": [
+      2.5,
+      28
+    ],
+    "pan": "infinite",
+    "tilt": null,
+    "channels": [
+      21,
+      24,
+      39,
+      97
+    ],
+    "features": [
+      "cto",
+      "zoom",
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "4 Front-LEDs + Rückseiten-Pixel",
+    "sizeMm": [
+      237,
+      176,
+      383
+    ],
+    "weightKg": 11,
+    "url": "https://en.acmelighting.com/item/PULSAR-S2",
+    "manualUrl": "https://en.acmelighting.com/upload/other/20250814/8fe331e2998cf6ef37ac1962644a4a03.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode CM S2. Zweiseitiger Moving Head mit Endlos-Pan/Tilt: Vorderseite 4 x 60 W RGBW mit Zoom 2,5-28°, Rückseite Strobe/Pixel-Feld. Leistung 600 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "SAGITTA IP",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16,
+      19,
+      20
+    ],
+    "features": [
+      "cto",
+      "colorwheel",
+      "gobo:10",
+      "prism",
+      "frost",
+      "focus",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      357,
+      274,
+      616
+    ],
+    "weightKg": 24,
+    "url": "https://en.acmelighting.com/item/SAGITTA-IP",
+    "manualUrl": "https://en.acmelighting.com/upload/attachFile/202607/656463e1x19efddb3039x2e09.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode XP 400 BEAM IP. IP-Entladungslampen-Beam (XP 400 BEAM IP). Leistung 570 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "SANA BEAM",
+    "kind": "beam",
+    "light": "330W LED engine",
+    "beamDeg": [
+      1.9,
+      8
+    ],
+    "pan": "infinite",
+    "tilt": null,
+    "channels": [
+      16,
+      27,
+      29
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:17",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      332,
+      256,
+      567
+    ],
+    "weightKg": 23.8,
+    "url": "https://en.acmelighting.com/item/SANA-BEAM",
+    "manualUrl": "https://en.acmelighting.com/upload/other/20260506/58a480bffc64eec547f06ccc7f22d2e6.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode XA 300 BEAM IP. IP LED-Beam 330 W mit Endlos-Pan/Tilt, CMY. Leistung 465 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "SANA PROFILE",
+    "kind": "profile",
+    "light": "330W LED engine",
+    "beamDeg": [
+      3.9,
+      50
+    ],
+    "pan": "infinite",
+    "tilt": null,
+    "channels": [
+      27,
+      36,
+      45
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:9+7",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      336,
+      256,
+      582
+    ],
+    "weightKg": 26,
+    "url": "https://en.acmelighting.com/item/SANA-PROFILE",
+    "manualUrl": "https://en.acmelighting.com/upload/attachFile/202609/36e7a002x19ff34be9cax1056.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode XA 300 BSWF IP. IP LED-Profil 330 W mit Endlos-Pan/Tilt, Framing. Leistung 570 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "SANDANE FROST",
+    "kind": "par",
+    "light": "55 x 6W RGBL LED",
+    "beamDeg": [
+      18,
+      18
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      11,
+      9,
+      8,
+      7,
+      6
+    ],
+    "features": [
+      "frost"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      266,
+      158,
+      320
+    ],
+    "weightKg": 5,
+    "url": "https://en.acmelighting.com/item/SANDANE-FROST",
+    "manualUrl": "https://en.acmelighting.com/upload/other/20260121/279bde145c60d17fb44092bc23bb53ac.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode PAR 54 IP EF. IP-Par 55 x 6 W RGBL mit Frost-Effekt. Leistung 215 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "SKYTRK",
+    "kind": "lasermh",
+    "light": "850W RGB full-color laser engine",
+    "beamDeg": [
+      0.5,
+      0.5
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      23
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "prism",
+      "focus",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      465,
+      365,
+      854
+    ],
+    "weightKg": 59.5,
+    "url": "https://en.acmelighting.com/item/SKYTRK",
+    "manualUrl": "https://en.acmelighting.com/upload/other/20260613/7d845051f21353e21529d470640a3831.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode XL 850 BEAM IP. Vollfarb-RGB-Laser-Searchlight-Moving-Head 850 W, 300-mm-Frontlinse, 0,5°-Beam. Leistung 1525 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "SOLAR WIND",
+    "kind": "hybrid",
+    "light": "500W LED engine",
+    "beamDeg": [
+      3,
+      50
+    ],
+    "pan": 540,
+    "tilt": 260,
+    "channels": [
+      30,
+      24
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:13+7",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      364,
+      252,
+      648
+    ],
+    "weightKg": 25.5,
+    "url": "https://en.acmelighting.com/item/SOLAR-WIND",
+    "manualUrl": "https://en.acmelighting.com/upload/other/20250410/480af7b382b218d5865a7b9ee7d93cae.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode XA 500 BSW. BSW-Hybrid 500 W LED. Leistung 665 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "STAGE PAR 100 COLOUR IP",
+    "kind": "par",
+    "light": "1x 120W RGBA LED module",
+    "beamDeg": [
+      7,
+      7
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      6,
+      7,
+      8
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      283,
+      256,
+      564
+    ],
+    "weightKg": 4.5,
+    "url": "https://en.acmelighting.com/item/STAGE-PAR-100-COLOUR-IP",
+    "manualUrl": "https://en.acmelighting.com/Uploads/download/file_material/16549119533fb480d0e387b539.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode LED-PAR100 RGBA IP. LED-Theater-Par 120 W RGBA, IP. Leistung 110 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "STAGE PAR 100 IP CW",
+    "kind": "par",
+    "light": "1x 100W CW LED module",
+    "beamDeg": [
+      9,
+      9
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      3
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      283,
+      256,
+      564
+    ],
+    "weightKg": 4.5,
+    "url": "https://en.acmelighting.com/item/STAGE-PAR-100-IP-CW",
+    "manualUrl": "https://en.acmelighting.com/upload/attachFile/202503/x3b0203eax194fcc03af4xx44ec.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode LED-PAR100 CW IP. LED-Theater-Par 100 W kaltweiß, IP. Leistung 108 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "STAGE PAR 100 IP WW",
+    "kind": "par",
+    "light": "1x 100W WW LED module",
+    "beamDeg": [
+      9,
+      9
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      3
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      283,
+      256,
+      564
+    ],
+    "weightKg": 4.5,
+    "url": "https://en.acmelighting.com/item/STAGE-PAR-100-IP-WW",
+    "manualUrl": "https://en.acmelighting.com/upload/attachFile/202503/x3b0203eax194fcc03af4xx44ec.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode LED-PAR100 WW IP. LED-Theater-Par 100 W warmweiß, IP. Leistung 108 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "STAGE PAR 400 ZOOM IP",
+    "kind": "par",
+    "light": "7x30W RGBW LED",
+    "beamDeg": [
+      6,
+      38
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5,
+      7,
+      9
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      318,
+      295,
+      316
+    ],
+    "weightKg": 8.5,
+    "url": "https://en.acmelighting.com/item/STAGE-PAR-400-ZOOM-IP",
+    "manualUrl": "https://en.acmelighting.com/Uploads/download/file_material/161093415953fcbfd046b22913.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode MP-400Z IP. Zoom-Par 7 x 30 W RGBW, IP. Leistung 250 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "SUPER DOTLINE",
+    "kind": "tiltbar",
+    "light": "Main Light Section:10 x 60W RGBW LEDs",
+    "beamDeg": [
+      2.8,
+      31
+    ],
+    "pan": null,
+    "tilt": 202,
+    "channels": [
+      17,
+      27,
+      99,
+      108,
+      168,
+      21
+    ],
+    "features": [
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "1x10 Beam-Zellen + Strip",
+    "sizeMm": [
+      1000,
+      290,
+      120
+    ],
+    "weightKg": 24,
+    "url": "https://en.acmelighting.com/item/SUPER-DOTLINE",
+    "manualUrl": "https://en.acmelighting.com/upload/attachFile/202503/x3561825ex19563a65f70xx62b3.pdf",
+    "status": "aktuell",
+    "inLibrary": "qlc:acme/super-dotline",
+    "notes": "Modellcode TB 1060. Motorisierte Tilt-Bar 1 m (Tilt 202°): 10 x 60 W RGBW Beam-Zellen mit Zoom 2,8-31° plus Strip-Sektion 96 x 3 W CW, 96 x 3 W WW, 96 x 0,5 W RGB. Mode 8+100/8+160 = DMX+Art-Net-Pixel. Leistung 1155 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "SUPERNOVA LT",
+    "kind": "profile",
+    "light": "1800W LED engine",
+    "beamDeg": [
+      3.6,
+      52.5
+    ],
+    "pan": 540,
+    "tilt": 246,
+    "channels": [
+      23,
+      32,
+      35,
+      44
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:5+6",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      465,
+      365,
+      893
+    ],
+    "weightKg": 64.5,
+    "url": "https://en.acmelighting.com/item/SUPERNOVA-LT",
+    "manualUrl": "https://en.acmelighting.com/upload/other/20260815/1dd8843c30dd1d52fd037b670fbde7f8.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode XA 2000 BSWF IP LT. IP66 BSWF-Profil 1800 W, LT-Version (langer Throw). Leistung 2200 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "SUPERNOVA",
+    "kind": "profile",
+    "light": "1800W LED engine",
+    "beamDeg": [
+      4,
+      48
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      23,
+      32,
+      34,
+      43
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:6",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      465,
+      365,
+      830
+    ],
+    "weightKg": 52.5,
+    "url": "https://en.acmelighting.com/item/SUPERNOVA",
+    "manualUrl": "https://en.acmelighting.com/upload/attachFile/202508/x3b9d25e4x19820db97ccxx49ee.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode XA 2000 BSWF IP. IP66 BSWF-Profil 1800 W LED. Leistung 2265 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "TANGO",
+    "kind": "par",
+    "light": "7 x 15W RGBW LED",
+    "beamDeg": [
+      6,
+      6
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      5,
+      8,
+      10
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      197,
+      206,
+      104
+    ],
+    "weightKg": 1.6,
+    "url": "https://en.acmelighting.com/item/TANGO",
+    "manualUrl": "https://en.acmelighting.com/Uploads/download/file_material/1639530496fa00d477f6a05163.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode PAR 7. LED-Par 7 x 15 W RGBW. Leistung 55 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "THEATRE SPOT 300 WW",
+    "kind": "pc",
+    "light": "1 x 300W WW LED",
+    "beamDeg": [
+      15,
+      53
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2,
+      3
+    ],
+    "features": [
+      "zoom",
+      "focus",
+      "artnet"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      278,
+      473,
+      264
+    ],
+    "weightKg": 10,
+    "url": "https://en.acmelighting.com/item/THEATRE-SPOT-300-WW",
+    "manualUrl": "https://en.acmelighting.com/Uploads/download/file_material/16057780899e19236f4e276d4b.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode TS-300 WW. LED-Theaterscheinwerfer (Zoom-Spot) 300 W WW, motorisch Zoom/Fokus laut Spec. Leistung 400 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "THEATRE SPOT 500 CW",
+    "kind": "fresnel",
+    "light": "450W CW LED engine",
+    "beamDeg": [
+      14,
+      74
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      6
+    ],
+    "features": [
+      "zoom",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      320,
+      569,
+      462
+    ],
+    "weightKg": 13.2,
+    "url": "https://en.acmelighting.com/item/THEATRE-SPOT-500-CW",
+    "manualUrl": "https://en.acmelighting.com/Uploads/download/file_material/171447625958d693b3e1f02ade.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode TS 500 CW. LED-Theaterscheinwerfer 450 W CW mit Zoom 14-74°. Leistung 460 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "THEATRE SPOT 500 RGBWW",
+    "kind": "fresnel",
+    "light": "600W RGBWW LED engine",
+    "beamDeg": [
+      14,
+      64
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      10,
+      12
+    ],
+    "features": [
+      "zoom",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      320,
+      569,
+      462
+    ],
+    "weightKg": 13.2,
+    "url": "https://en.acmelighting.com/item/THEATRE-SPOT-500-RGBWW",
+    "manualUrl": "https://en.acmelighting.com/Uploads/download/file_material/1714476327ef88d57a692c7301.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode TS 500 RGBWW. LED-Theaterscheinwerfer 600 W RGBWW mit Zoom 14-64°. Leistung 445 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "THEATRE SPOT 500 WW",
+    "kind": "fresnel",
+    "light": "450W WW LED engine",
+    "beamDeg": [
+      14,
+      74
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      6
+    ],
+    "features": [
+      "zoom",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      320,
+      569,
+      462
+    ],
+    "weightKg": 13.2,
+    "url": "https://en.acmelighting.com/item/THEATRE-SPOT-500-WW",
+    "manualUrl": "https://en.acmelighting.com/Uploads/download/file_material/171447625958d693b3e1f02ade.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode TS 500 WW. LED-Theaterscheinwerfer 450 W WW mit Zoom 14-74°. Leistung 460 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "THETA",
+    "kind": "effect",
+    "light": "Beam: 200W CW LED",
+    "beamDeg": [
+      4,
+      51
+    ],
+    "pan": 540,
+    "tilt": 215,
+    "channels": [
+      19,
+      27,
+      29,
+      139,
+      141
+    ],
+    "features": [
+      "cto",
+      "colorwheel",
+      "gobo:6",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "artnet",
+      "rdm",
+      "ring"
+    ],
+    "ring": "Ring aus 30 x 40 W RGBW um zentralen Beam",
+    "pixels": null,
+    "sizeMm": [
+      454,
+      341,
+      590
+    ],
+    "weightKg": 34,
+    "url": "https://en.acmelighting.com/item/THETA",
+    "manualUrl": "https://en.acmelighting.com/upload/other/20250409/51808f89472c4c22ca605b90ec89a33e.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode CM 1000ZF. Beam/Wash-Moving-Head: zentraler 200 W CW Beam mit Farbrad, statischem Goboard, 8/16-fach Prisma; umgeben von Ring aus 30 x 40 W RGBW Wash-LEDs. Leistung 1600 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "THUNDER IP",
+    "kind": "blinder",
+    "light": "1188 x 0.8W RGBW LED (divided into 3 individually controllable LED zones)",
+    "beamDeg": [
+      110,
+      110
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      8,
+      9,
+      16
+    ],
+    "features": [
+      "cto"
+    ],
+    "ring": null,
+    "pixels": "3 Zonen",
+    "sizeMm": [
+      503,
+      183,
+      318
+    ],
+    "weightKg": 10,
+    "url": "https://en.acmelighting.com/item/THUNDER-IP",
+    "manualUrl": "https://en.acmelighting.com/upload/attachFile/202609/36e7a002x19ff34be9cax1078.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode BL 200 CP IP. Flächen-Blinder/Strobe 1188 x 0,8 W RGBW in 3 Zonen, IP. Leistung 860 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "THUNDERBOLT",
+    "kind": "strobe",
+    "light": "144 x 15W RGBW LEDs (12 individually controllable LED zones)",
+    "beamDeg": [
+      22,
+      22
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      8,
+      9,
+      52
+    ],
+    "features": [
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "12 Segmente",
+    "sizeMm": [
+      623,
+      133,
+      397
+    ],
+    "weightKg": 17,
+    "url": "https://en.acmelighting.com/item/THUNDERBOLT",
+    "manualUrl": "https://en.acmelighting.com/Uploads/download/file_material/1699603729fa5861f66c10dcb2.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode LP-14410. RGBW-Strobe 144 x 15 W in 12 Segmenten, 22°. Leistung 1580 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "TORNADO",
+    "kind": "multihead",
+    "light": "Main Light: 5 x 120W RGBL LEDs",
+    "beamDeg": [
+      3,
+      30
+    ],
+    "pan": 59,
+    "tilt": 221,
+    "channels": [
+      41,
+      71,
+      75,
+      85,
+      170
+    ],
+    "features": [
+      "cto",
+      "focus",
+      "artnet",
+      "rdm",
+      "ring"
+    ],
+    "ring": "umlaufender RGB-Pixel-Ring 120 x 0,5 W",
+    "pixels": "1x5 Köpfe",
+    "sizeMm": [
+      1000,
+      192,
+      350
+    ],
+    "weightKg": 30,
+    "url": "https://en.acmelighting.com/item/TORNADO",
+    "manualUrl": "https://en.acmelighting.com/upload/other/20261007/a77e19e9282c6aec69a311100c31005d.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode TB 5 IP. Leiste 1 m mit 5 einzeln Pan(59°)/Tilt(221°)-beweglichen Köpfen, je 120 W RGBL mit Zoom 3-30°, plus Pixel-Ring aus 120 x 0,5 W RGB um die Leuchte, IP. Leistung 935 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "TV LIGHT PANEL 1000 WW",
+    "kind": "panel",
+    "light": "Light source : 240pcs WW LED",
+    "beamDeg": [
+      113,
+      113
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      3
+    ],
+    "features": [
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      151,
+      661,
+      301
+    ],
+    "weightKg": 8,
+    "url": "https://en.acmelighting.com/item/TV-LIGHT-PANEL-1000-WW",
+    "manualUrl": "https://en.acmelighting.com/Uploads/download/file_material/1632995493a1eae27853e40945.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode LP-F1000 WW. LED-Flächenleuchte 240 LEDs WW. Leistung 100 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "TV LIGHT PANEL 3000",
+    "kind": "panel",
+    "light": "336 x 2.5W RGB LED",
+    "beamDeg": [
+      110,
+      110
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      10,
+      28
+    ],
+    "features": [
+      "cto",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      668,
+      149,
+      492
+    ],
+    "weightKg": 12,
+    "url": "https://en.acmelighting.com/item/TV-LIGHT-PANEL-3000",
+    "manualUrl": "https://en.acmelighting.com/upload/other/20250418/4291859201f495210e0001e81daa7267.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode LP F3000. LED-Flächenleuchte 336 x 2,5 W RGB (Spec), CTO. Leistung 455 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "ULTRA BLINDER IP",
+    "kind": "blinder",
+    "light": "2 x 260W RGBA+WW LEDs",
+    "beamDeg": [
+      49,
+      49
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      4,
+      6,
+      7,
+      9,
+      10,
+      11,
+      14,
+      16
+    ],
+    "features": [
+      "cto"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      400,
+      201,
+      263
+    ],
+    "weightKg": 8.2,
+    "url": "https://en.acmelighting.com/item/ULTRA-BLINDER-IP",
+    "manualUrl": "https://en.acmelighting.com/upload/attachFile/202607/656463e1x19efddb3039x1329.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode BL 200 IP. 2-Zellen-Blinder 2 x 260 W RGBA+WW, IP. Leistung 235 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "ULTRA PAR IP",
+    "kind": "par",
+    "light": "260W RGBA+WW LED",
+    "beamDeg": [
+      50,
+      50
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      4,
+      6,
+      7,
+      9,
+      11
+    ],
+    "features": [
+      "cto"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      234,
+      251,
+      307
+    ],
+    "weightKg": 3.5,
+    "url": "https://en.acmelighting.com/item/ULTRA-PAR-IP",
+    "manualUrl": "https://en.acmelighting.com/upload/attachFile/202607/656463e1x19efddb3039xx1a61.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode BL 100 IP. Blinder/Par 1 x 260 W RGBA+WW, IP. Leistung 120 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "VOLTKA",
+    "kind": "strobe",
+    "light": "1000 x 0.3W 5050RGB LEDs (divided into 50 controllable zones)",
+    "beamDeg": [
+      116,
+      116
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5,
+      12,
+      35,
+      150
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": "50 Zonen",
+    "sizeMm": [
+      410,
+      120,
+      253
+    ],
+    "weightKg": 4,
+    "url": "https://en.acmelighting.com/item/VOLTKA",
+    "manualUrl": "https://en.acmelighting.com/upload/other/20260319/9138cd73b123b993d24b50b41d04fd78.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode STROBE 1. RGB-Strobe-Panel 1000 x 0,3 W in 50 Zonen. Leistung 275 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "WILLOW 200",
+    "kind": "hybrid",
+    "light": "150W LED engine",
+    "beamDeg": [
+      9.5,
+      9.5
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      17
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:6",
+      "prism",
+      "frost",
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      286,
+      166,
+      424
+    ],
+    "weightKg": 9,
+    "url": "https://en.acmelighting.com/item/WILLOW-200",
+    "manualUrl": "https://en.acmelighting.com/upload/attachFile/202508/x3b9d25e4x19820db97ccxxd28.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode BSW 200. Kompakter BSW 150 W LED; Beam 9,5°/13°, Wash 17°. Leistung 220 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "WILLOW 500",
+    "kind": "hybrid",
+    "light": "400W LED engine",
+    "beamDeg": [
+      1,
+      1
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      18
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:9+7",
+      "prism",
+      "frost",
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      350,
+      234,
+      531
+    ],
+    "weightKg": 17.5,
+    "url": "https://en.acmelighting.com/item/WILLOW-500",
+    "manualUrl": "https://en.acmelighting.com/Uploads/download/file_material/1650424222543d9f7256bebd34.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode BSW 500. BSW 400 W LED. Leistung 460 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "ZEUS",
+    "kind": "hybrid",
+    "light": "PHILIPS MSD Silver 420W/2 LL",
+    "beamDeg": [
+      1.6,
+      27
+    ],
+    "pan": 540,
+    "tilt": 265,
+    "channels": [
+      20,
+      28
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:16+9",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      379,
+      284,
+      659
+    ],
+    "weightKg": 30,
+    "url": "https://en.acmelighting.com/item/ZEUS",
+    "manualUrl": "https://en.acmelighting.com/upload/other/20260506/9538bdadfd459725081d6b2c458eb9d2.pdf",
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellcode XP 500 BSW IP. BSW-Hybrid mit Entladungslampe Philips MSD Silver 420W/2. Leistung 655 W."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "SABER BEAM FX",
+    "kind": "beam",
+    "light": "Light Sources: OSRAM SIRIUS HRI 371W",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      14,
+      17
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:1+16",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      344,
+      435,
+      584
+    ],
+    "weightKg": 21,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=120",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode XP-380 BEAM.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "SOLAR FLARE",
+    "kind": "profile",
+    "light": null,
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      20,
+      25,
+      29,
+      34
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:1+6+1",
+      "zoom",
+      "blades",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      465,
+      352,
+      889
+    ],
+    "weightKg": 44.6,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=1809",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode XA-1000 BSWF.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "DOTLINE360",
+    "kind": "tiltbar",
+    "light": "Light Source: 12x30W RGBW LED",
+    "beamDeg": [
+      3.5,
+      38
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      57,
+      14,
+      9
+    ],
+    "features": [
+      "zoom",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      278,
+      1000,
+      113
+    ],
+    "weightKg": 17,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=1812",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": "qlc:acme/dotline360",
+    "notes": "Modellcode TB-1230 QW. Tilt-Bar 12 x 30 W RGBW (Vorgänger der SUPER DOTLINE). Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "SPARTAN HYBRID C",
+    "kind": "hybrid",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      20,
+      21,
+      24,
+      28
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=1826",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode XP-470 BSW.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "RAYZOR HYBRID",
+    "kind": "hybrid",
+    "light": "Light source: 1 x 90W LED",
+    "beamDeg": [
+      15,
+      28
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      17,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:1+6+1",
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      255,
+      312,
+      453
+    ],
+    "weightKg": 12.2,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=1829",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode XA-100 BSW.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "SABER PERFORMANCE II",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      15,
+      17
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:1+12",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      344,
+      435,
+      585
+    ],
+    "weightKg": 22.2,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=1830",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode XP-16R BEAM II.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "TRACK 40 WW",
+    "kind": "ellipsoidal",
+    "light": "Light source: 1x36W warm white LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "gobo"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      128,
+      273,
+      100
+    ],
+    "weightKg": 1.3,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=196&id=1836",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode E-40T WW.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "COLOR BAR 16FC",
+    "kind": "bar",
+    "light": "16x8W RGBW LED",
+    "beamDeg": [
+      45,
+      45
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      3,
+      4,
+      7,
+      8,
+      16,
+      32,
+      67
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=1841",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode CB-16FC.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "PHOTO BAR",
+    "kind": "tube",
+    "light": "12pcs warm white LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      536,
+      69,
+      85
+    ],
+    "weightKg": 1.3,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=196&id=1842",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode LED-SY40VW EP. Foto-/Video-Lichtstab 12 WW + 12 CW LEDs. Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "COLOR PAR 54",
+    "kind": "par",
+    "light": "Light Source: 54 x 3W R/G/B LED",
+    "beamDeg": [
+      24,
+      24
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3,
+      5,
+      6
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      268,
+      400,
+      362
+    ],
+    "weightKg": 2.6,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=1844",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode CP-54S.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "COLOR PAR 36",
+    "kind": "par",
+    "light": "36 x 3W R/G/B LED",
+    "beamDeg": [
+      17,
+      17
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3,
+      5,
+      6
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      400,
+      268,
+      362
+    ],
+    "weightKg": 2.4,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=1845",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode CP-36S.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "GLAMOUR 350Z III",
+    "kind": "wash",
+    "light": "Light source: 7 x 40W RGBW LED",
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": 540,
+    "tilt": 225,
+    "channels": [
+      11,
+      14,
+      15
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      183,
+      310,
+      412
+    ],
+    "weightKg": 11,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=1846",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode CM-350Z III.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "ELLIPSOIDAL",
+    "kind": "ellipsoidal",
+    "light": "1x200W cool/warm white LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      712,
+      276,
+      245
+    ],
+    "weightKg": 10,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=196&id=1852",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode E-200 WW/CW.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "THEATRE LED COLOUR FLOOD",
+    "kind": "flood",
+    "light": "1x150W RGBW LED",
+    "beamDeg": [
+      90,
+      90
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      9
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      315,
+      295,
+      275
+    ],
+    "weightKg": 6.2,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=196&id=1853",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode CYC-200FC.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "SAPPHIRE",
+    "kind": "laser",
+    "light": "Light source: 5W RGB semiconductor laser module",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      17
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      370,
+      317,
+      193
+    ],
+    "weightKg": 12.5,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=1854",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode LS-1005 RGB.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "LP-324ADB CW/WW/VW",
+    "kind": "panel",
+    "light": "24pcs cool white LED",
+    "beamDeg": [
+      10,
+      10
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      324
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      317,
+      220,
+      222
+    ],
+    "weightKg": 6.2,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=196&id=1855",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "THEATRE LED FLOOD CW",
+    "kind": "flood",
+    "light": "1x150W cool white LED",
+    "beamDeg": [
+      90,
+      90
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2,
+      3
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      315,
+      295,
+      275
+    ],
+    "weightKg": 6.2,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=196&id=1856",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode CYC-200 CW.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "INFINITY MATRIX",
+    "kind": "matrix",
+    "light": "36pcs WW LED",
+    "beamDeg": [
+      6,
+      6
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3,
+      4,
+      36,
+      40
+    ],
+    "features": [
+      "artnet"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=1865",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode LED-MTX36. LED-Matrix 6x6 = 36 warmweiße LEDs (Retro/Matrix-Blinder-Look), Pixelsteuerung 36/40 Kanäle. Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "GLORY WASH 1000",
+    "kind": "wash",
+    "light": "Osram Lok-it HTI 1000W/PS",
+    "beamDeg": [
+      10,
+      70
+    ],
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      16,
+      21
+    ],
+    "features": [
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=1866",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode XP-1000WZ. Wash mit Osram Lok-it HTI 1000 W. Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "WHACK BEAM SPOT",
+    "kind": "hybrid",
+    "light": "YODN MSD280 R10/ OSRAM SIRIUS HRI 280W",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      15,
+      21
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=20",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode XP-280 BS. Beam/Spot mit 280-W-Entladungslampe. Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "ULTRA STROBE",
+    "kind": "strobe",
+    "light": "99pcs CW LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=2086",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode LED-ST1000. Strobe 99 x CW LEDs. Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "PAGEANT 200Z II",
+    "kind": "wash",
+    "light": "12 x 10W OSRAM OSTAR RGBW LEDs",
+    "beamDeg": [
+      10,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      263.3,
+      183,
+      340.4
+    ],
+    "weightKg": 7.5,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=2123",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode CM-200Z II.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "STAGE PANEL 1080",
+    "kind": "panel",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      515,
+      225,
+      142
+    ],
+    "weightKg": 8.9,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=2128",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode LP-1080.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "SABER FRESNEL",
+    "kind": "fresnel",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      415,
+      343,
+      487
+    ],
+    "weightKg": 18.7,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=2129",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode XP-5R BEAM F.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "THEATRE SPOT 100 CW",
+    "kind": "fresnel",
+    "light": "1 x 100W cool/warm white LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2
+    ],
+    "features": [
+      "artnet"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      429,
+      377,
+      283
+    ],
+    "weightKg": 15.8,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=196&id=2163",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode LP-TS100 CW.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "STAGE PAR 300 ZOOM II",
+    "kind": "par",
+    "light": "19 x 15W RGBW LED",
+    "beamDeg": [
+      10,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5,
+      6,
+      8
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=2165",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode MP-300Z II.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "SABER",
+    "kind": "beam",
+    "light": "Control Modes：DMX512,Wireless control(Optional)",
+    "beamDeg": [
+      1,
+      1
+    ],
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      16,
+      19,
+      20
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      435,
+      343,
+      524
+    ],
+    "weightKg": 19,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=2166",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode XP-5R BEAM.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "DOTLINE180",
+    "kind": "tiltbar",
+    "light": "Light Source: 6 x 30W RGBW LED",
+    "beamDeg": [
+      3.5,
+      38
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      14,
+      32
+    ],
+    "features": [
+      "zoom",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      241,
+      500,
+      160
+    ],
+    "weightKg": 9.5,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=2174",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": "qlc:acme/dotline180",
+    "notes": "Modellcode TB-630 QW. Tilt-Bar 6 x 30 W RGBW. Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "GLAMOUR 700Z RGBY",
+    "kind": "wash",
+    "light": "19 x 30W RGBW LED/ 19 x 30W RGBY LED",
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      14,
+      16,
+      26
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=2177",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode CM-700Z RGBY.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "SABER BEAM SPOT",
+    "kind": "hybrid",
+    "light": "Light source: Osram Sirius HRI 330W",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 250,
+    "channels": [
+      17,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:1+6+1",
+      "frost"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      344,
+      435,
+      575
+    ],
+    "weightKg": 20,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=2178",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode XP-330 BS. Beam/Spot mit Osram Sirius HRI 330 W. Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "COOLIE 545",
+    "kind": "par",
+    "light": "Light source: 54 x 3W RGBW LED",
+    "beamDeg": [
+      19,
+      19
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      5,
+      7
+    ],
+    "features": [
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      302,
+      230,
+      350
+    ],
+    "weightKg": 9,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=2180",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode BW-545.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "SOLAR IMPULSE",
+    "kind": "profile",
+    "light": "Light Source: 1000W LED Engine",
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      29,
+      34
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:6",
+      "zoom",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      465,
+      352,
+      836
+    ],
+    "weightKg": 44.6,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=2637",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode XA-1200 BSWF.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "CHIRON",
+    "kind": "beam",
+    "light": "OSRAM SIRIUS HRI 370W LL",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      14,
+      17
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:16",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      434,
+      344,
+      606
+    ],
+    "weightKg": 21.2,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=3087",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode XP-380 BEAM II.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "THEATRE LED FLOOD WW",
+    "kind": "flood",
+    "light": "1x150W warm white LED",
+    "beamDeg": [
+      90,
+      90
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2,
+      3
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      315,
+      295,
+      275
+    ],
+    "weightKg": 6.2,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=196&id=3120",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode CYC-200 WW.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "ELLIPSOIDAL 10",
+    "kind": "ellipsoidal",
+    "light": "1 x 12W warm white LED",
+    "beamDeg": [
+      19,
+      19
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=196&id=3123",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode E-10 WW.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "PAGEANT 300ZR II",
+    "kind": "wash",
+    "light": "Light source: 19x15W RGBW LED",
+    "beamDeg": [
+      10,
+      60
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      14,
+      26,
+      30
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      183,
+      310,
+      393
+    ],
+    "weightKg": 9,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=3213",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode CM-300ZR II.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "TRACK 40 CW",
+    "kind": "ellipsoidal",
+    "light": "Light source: 1x36W cool white LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "gobo"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      128,
+      273,
+      100
+    ],
+    "weightKg": 1.3,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=196&id=3257",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode E-40T CW.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "SUPER GEIST FRAMING",
+    "kind": "profile",
+    "light": "Light Source: 1x600W LED",
+    "beamDeg": [
+      7,
+      42
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      30,
+      32
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:6+8",
+      "zoom",
+      "blades",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      335,
+      454,
+      816
+    ],
+    "weightKg": 39.5,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=334",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode XA-600 FRAMING.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "ENERGY SPOT",
+    "kind": "spot",
+    "light": "1x300W LED",
+    "beamDeg": [
+      7,
+      31
+    ],
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      19,
+      22
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      430,
+      254,
+      674
+    ],
+    "weightKg": 21,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=335",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode XA-400 SPOT.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "SOLARIS",
+    "kind": "effect",
+    "light": "Light Source: 36x15W RGBW LED + 49x0.06W CW LED",
+    "beamDeg": [
+      6,
+      6
+    ],
+    "pan": "infinite",
+    "tilt": "infinite",
+    "channels": [
+      21,
+      166,
+      206
+    ],
+    "features": [
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      466,
+      246,
+      575
+    ],
+    "weightKg": 20,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=336",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode CM-S6. Moving Head mit Endlos-Pan/Tilt, 36 x 15 W RGBW plus 49 kaltweiße Effekt-LEDs (Mehrfunktions-Effekt). Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "INFINITY MATRIX HEX",
+    "kind": "matrix",
+    "light": "36pcs (6in1) LED",
+    "beamDeg": [
+      45,
+      45
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3,
+      4,
+      36
+    ],
+    "features": [
+      "artnet"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=340",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode LED-MTX36 HEX. Hex-Matrix 36 x 6in1-LEDs, pixelsteuerbar. Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "LASER BAR RGB",
+    "kind": "laser",
+    "light": "Light source: 6x 1W RGB semiconductor laser diodes",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5,
+      20
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      249,
+      915,
+      226
+    ],
+    "weightKg": 13.8,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=345",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode LS-608 RGB.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "DIAMONDS",
+    "kind": "laser",
+    "light": "Light source: 10W RGB semiconductor laser module",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      17
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      370,
+      317,
+      193
+    ],
+    "weightKg": 12.5,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=346",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode LS-1010 RGB.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "PORTABLE PHOTO BAR",
+    "kind": "tube",
+    "light": "12pcs cool white LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 1.5,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=196&id=356",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode LED-SY40VW. Akku-/Foto-Lichtstab Ø56 x 600 mm, 12 WW + 12 CW. Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "SABER MINI",
+    "kind": "beam",
+    "light": "Light Sources: Osram Sirius HRI 100W",
+    "beamDeg": [
+      3,
+      3
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      12
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:1+15"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      225,
+      279,
+      401
+    ],
+    "weightKg": 9,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=357",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode AE-610 BEAM.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "LED-BR30",
+    "kind": "effect",
+    "light": "4 x 3W LED (1R+1B+1W+1UV)",
+    "beamDeg": [
+      8,
+      8
+    ],
+    "pan": "infinite",
+    "tilt": "infinite",
+    "channels": [
+      9
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      331,
+      170,
+      233
+    ],
+    "weightKg": 3.2,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=358",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Mini-Moving-Head 4 x 3 W (R, B, W, UV) mit Endlos-Pan/Tilt. Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "PAGEANT 600Z II",
+    "kind": "wash",
+    "light": "Light Source: 37x15W RGBW LED",
+    "beamDeg": [
+      10,
+      60
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      14,
+      26
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      246,
+      430,
+      512
+    ],
+    "weightKg": 19.5,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=3632",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode CM-600Z II.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "GLAMOUR 700Z",
+    "kind": "wash",
+    "light": "Light source: 19 x 30W RGBW LED",
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      15,
+      17,
+      27
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      430,
+      335,
+      541
+    ],
+    "weightKg": 22,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=3639",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode CM-700Z.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "WHACK 231",
+    "kind": "beam",
+    "light": "Light Sources: OSRAM SIRIUS HRI 231W",
+    "beamDeg": [
+      1,
+      1
+    ],
+    "pan": 540,
+    "tilt": 250,
+    "channels": [
+      15,
+      16,
+      19,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:1+17"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      325,
+      394,
+      500
+    ],
+    "weightKg": 18,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=370",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode XP-231 BEAM.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "WHACK",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": [
+      1,
+      1
+    ],
+    "pan": 540,
+    "tilt": 250,
+    "channels": [
+      15,
+      16,
+      19,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:1+17"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      325,
+      394,
+      500
+    ],
+    "weightKg": 18,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=372",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode XP-5R BEAM II.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "SPARTAN HYBRID",
+    "kind": "hybrid",
+    "light": null,
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      24,
+      27,
+      30,
+      34
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:7+18",
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      400,
+      335,
+      667
+    ],
+    "weightKg": 28.5,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=373",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode XP-20R BSW.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "GLORY PROFILE T",
+    "kind": "profile",
+    "light": null,
+    "beamDeg": [
+      9,
+      61
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      21,
+      24,
+      26,
+      28,
+      34
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:5+4",
+      "zoom",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      429,
+      454,
+      811
+    ],
+    "weightKg": 39.2,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=378",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode XP-1000SZ T. Profil mit Entladungslampe (XP-1000SZ T). Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "GEIST SPOT",
+    "kind": "spot",
+    "light": "1 x 440W LED",
+    "beamDeg": [
+      14,
+      35
+    ],
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      20,
+      22
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=385",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode XA-500 SPOT.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "GEIST FRAMING",
+    "kind": "profile",
+    "light": "1 x 440W LED",
+    "beamDeg": [
+      14,
+      35
+    ],
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      29,
+      31
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=386",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode XA-500 FRAMING.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "CETUS",
+    "kind": "beam",
+    "light": "Light Source: OSRAM SIRIUS HRI 370W LL",
+    "beamDeg": [
+      2.5,
+      2.5
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16,
+      18
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:10",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      402,
+      330,
+      628
+    ],
+    "weightKg": 30,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=3867",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode XP-380 BEAM IP.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "ENERGY HYBRID",
+    "kind": "hybrid",
+    "light": "Light source: 1 x 300W LED",
+    "beamDeg": [
+      12,
+      23
+    ],
+    "pan": 540,
+    "tilt": 240,
+    "channels": [
+      16,
+      19
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:1+7+1",
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      344,
+      435,
+      560
+    ],
+    "weightKg": 20,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=387",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode XA-400 BSW.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "STAGE PAR 600 ZOOM IP",
+    "kind": "par",
+    "light": "Light Source: 22x40W RGBW LED",
+    "beamDeg": [
+      7,
+      35
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5,
+      7,
+      9
+    ],
+    "features": [
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      370,
+      425,
+      370
+    ],
+    "weightKg": 15.4,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=3875",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode MP-600Z IP.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "TOUR PIXEL BAR 1010 II",
+    "kind": "bar",
+    "light": "10x 15W RGBW LED",
+    "beamDeg": [
+      10,
+      10
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      5,
+      7,
+      40
+    ],
+    "features": [
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      104,
+      953,
+      112
+    ],
+    "weightKg": 10,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=3884",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode TB-1010QW II.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "COOLIE 14FC",
+    "kind": "par",
+    "light": "Light source: 14 x 15W RGBW LED",
+    "beamDeg": [
+      13.5,
+      13.5
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      5,
+      7
+    ],
+    "features": [
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      301,
+      230,
+      350
+    ],
+    "weightKg": 9,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=3888",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode BW-14 FC II.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "FARANDOLE",
+    "kind": "bar",
+    "light": "Light source: 18 x 8W RGBW LED",
+    "beamDeg": [
+      16,
+      16
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      6,
+      9
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      144,
+      990,
+      150
+    ],
+    "weightKg": 4.6,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=3957",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode AM-BAR.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "GLAMOUR 350Z",
+    "kind": "wash",
+    "light": "Light source: 7x30W RGBW LED",
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      11,
+      15
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      212,
+      325,
+      409
+    ],
+    "weightKg": 11,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=4649",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode CM-350Z.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "10W LED COLOR SPOT",
+    "kind": "pc",
+    "light": "Light Source: 1 x 10W quad-color LED 50000 hrs rated",
+    "beamDeg": [
+      9,
+      9
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3,
+      4
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      156,
+      187,
+      115
+    ],
+    "weightKg": 2,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=4650",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode LED-PS10D RGBW.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "LED WAVE 100",
+    "kind": "flood",
+    "light": "Light Source: 1x100W white LED",
+    "beamDeg": [
+      44,
+      44
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3
+    ],
+    "features": [
+      "colorwheel"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      271,
+      309,
+      210
+    ],
+    "weightKg": 5.2,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=4651",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode LED-WAV-100W.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "ASTRO DMX RGBW",
+    "kind": "par",
+    "light": "Light Source: 1x10W CREE Quad-Color LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      210,
+      210,
+      179
+    ],
+    "weightKg": 1.8,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=4652",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode LED-256D RGBW II.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "PAGEANT 300",
+    "kind": "wash",
+    "light": "s: 19 x 10W OSRAM OSTAR RGBW LED",
+    "beamDeg": [
+      10,
+      60
+    ],
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      14
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      325,
+      188,
+      396
+    ],
+    "weightKg": 9.2,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=4662",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode CM-300ZS.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "THUNDER",
+    "kind": "blinder",
+    "light": "Light Source: 1188x 0.8W RGBW LED",
+    "beamDeg": [
+      110,
+      110
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      503,
+      183,
+      318
+    ],
+    "weightKg": 10.5,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=4706",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode BL-200 CP.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "TOUR PIXEL BAR 1010 II T",
+    "kind": "bar",
+    "light": "Light Source: 10x 15W RGBW LED",
+    "beamDeg": [
+      10,
+      10
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      104,
+      953,
+      112
+    ],
+    "weightKg": null,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=4709",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode TB-1010QW II Tour.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "THEATRE SPOT 100 WW",
+    "kind": "fresnel",
+    "light": "1 x 100W cool/warm white LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2
+    ],
+    "features": [
+      "artnet"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      429,
+      377,
+      283
+    ],
+    "weightKg": 15.8,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=196&id=5278",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode LP-TS100 WW.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "DAVY",
+    "kind": "fresnel",
+    "light": "Light source: 1 x 198W warm white LED module",
+    "beamDeg": [
+      30,
+      30
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      3
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      217.5,
+      269.5,
+      159
+    ],
+    "weightKg": 5.3,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=263&id=5415",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode DL-200D.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "THUNDER ROAR",
+    "kind": "blinder",
+    "light": "Light source: 48pcs 15W RGBW LED",
+    "beamDeg": [
+      16,
+      16
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5,
+      10,
+      8,
+      9,
+      68
+    ],
+    "features": [
+      "pixel",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      503,
+      183,
+      318
+    ],
+    "weightKg": 10.5,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=5435",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode BL-200 CS.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "AECO 10",
+    "kind": "profile",
+    "light": "Light Sources: Powerful 1000W LED engine",
+    "beamDeg": [
+      5,
+      52
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      35,
+      26,
+      29,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:1+7+1",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      308,
+      412,
+      770
+    ],
+    "weightKg": 43.2,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=196&id=5558",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "THUNDER BREAKER",
+    "kind": "blinder",
+    "light": "Light source: 576pcs 0.8W RGBW LED",
+    "beamDeg": [
+      110,
+      110
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      183,
+      503,
+      318
+    ],
+    "weightKg": 10.5,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=5589",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode BL-200 VS.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "AECO 8",
+    "kind": "profile",
+    "light": "Light Sources: 750W LED engine",
+    "beamDeg": [
+      7,
+      45
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      33,
+      28
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:1+6",
+      "zoom",
+      "blades",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      352,
+      465,
+      793
+    ],
+    "weightKg": 42,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=196&id=5786",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "STAGE PAR ZOOM COLOUR",
+    "kind": "par",
+    "light": "1x60W RGBL LED",
+    "beamDeg": [
+      2.2,
+      21
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      13,
+      19,
+      42
+    ],
+    "features": [
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      238,
+      150,
+      368
+    ],
+    "weightKg": 4.6,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=5857",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode BL-100Z RGBL.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "SANDANE",
+    "kind": "par",
+    "light": "Light Source: 54 x 6W RGBW LED",
+    "beamDeg": [
+      19,
+      19
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      10,
+      8,
+      6,
+      5,
+      4
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      272,
+      128,
+      300
+    ],
+    "weightKg": 5.5,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=5871",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode PAR 54 IP.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "PIXEL 100/PIXEL POWER 8",
+    "kind": "effect",
+    "light": "Light Source: 1x80W RGBL + 24x5050 RGBW LED",
+    "beamDeg": [
+      2.7,
+      21
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      19,
+      103,
+      152
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": "Pixel-Ring 24 x 5050 RGBW",
+    "pixels": null,
+    "sizeMm": [
+      182,
+      174,
+      254
+    ],
+    "weightKg": 1.9,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=5890",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Kleiner Moving Head 80 W RGBL mit Ring aus 24 x 5050 RGBW-Pixeln (PIXEL 100 / PIXEL POWER 8). Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "ANDROMEDA",
+    "kind": "hybrid",
+    "light": null,
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      26,
+      19
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:16",
+      "zoom",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      402,
+      308,
+      725
+    ],
+    "weightKg": 30.5,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=5991",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode XP 480 BSW.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "HYGIEA",
+    "kind": "beam",
+    "light": "Light Sources: Osram Sirius HRI 100W",
+    "beamDeg": [
+      3,
+      3
+    ],
+    "pan": 540,
+    "tilt": "infinite",
+    "channels": [
+      12,
+      14
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:1+15",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      194,
+      268,
+      401
+    ],
+    "weightKg": 10,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=6007",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode XP 100 BEAM.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "DOTUS",
+    "kind": "beam",
+    "light": "Light Source: 20W RGBA LED",
+    "beamDeg": [
+      4,
+      4
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      7
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      70,
+      124,
+      229
+    ],
+    "weightKg": 0.7,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=263&id=6012",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode BEAM 15.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "AQUARIUS",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      13,
+      18
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:1+16",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      356,
+      240,
+      616
+    ],
+    "weightKg": 20.5,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=6025",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode XP 320 BEAM IP.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "SHAKAN",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      12,
+      15
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      336,
+      240,
+      507
+    ],
+    "weightKg": 14.9,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=6552",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode BEAM 300.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  },
+  {
+    "manufacturer": "ACME",
+    "model": "BONZAI 200",
+    "kind": "beam",
+    "light": "Light Source: 90W LED",
+    "beamDeg": [
+      1.7,
+      1.7
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      18
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      343,
+      203,
+      474
+    ],
+    "weightKg": 13,
+    "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=9461",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Modellcode BEAM 200.  Aus ACME-Liste \"Discontinued\"; Werte automatisch aus Spec-Text gelesen."
+  }
+]

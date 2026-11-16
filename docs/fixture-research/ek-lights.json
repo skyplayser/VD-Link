@@ -1,0 +1,3194 @@
+[
+  {
+    "manufacturer": "EK",
+    "model": "Alligator",
+    "kind": "tiltbar",
+    "light": "Front: 420W RGBW LEDs for main beam/wash cells;280W WW+CW LEDs for two strobe strips;Back: 700W RGBW LEDs",
+    "beamDeg": [
+      3,
+      37
+    ],
+    "pan": "infinite",
+    "tilt": null,
+    "channels": [
+      26,
+      50,
+      84,
+      98
+    ],
+    "features": [
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      713,
+      244,
+      451
+    ],
+    "weightKg": 27.1,
+    "url": "https://www.eklights.com/products/alligator/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Bar-Fixture mit Endlos-Pan laut Spec: Front 420 W RGBW Beam/Wash-Zellen (Zoom 3-37°) plus weitere Sektion (280 W, siehe Seite); Pixelsteuerung. Tilt nicht angegeben."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "Apollo 6PACK",
+    "kind": "par",
+    "light": "40W RGBW LED",
+    "beamDeg": [
+      11,
+      11
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      6,
+      10
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      202,
+      145,
+      138
+    ],
+    "weightKg": 3.7,
+    "url": "https://www.eklights.com/products/apollo/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "AURORA XGP 200",
+    "kind": "effect",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      12,
+      14
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      450,
+      334,
+      272
+    ],
+    "weightKg": 20,
+    "url": "https://www.eklights.com/products/aurora-xgp-200/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Outdoor-LED-Gobo-Projektor 200 W-Klasse."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "AURORA XGP 70",
+    "kind": "effect",
+    "light": "70W LED",
+    "beamDeg": [
+      15,
+      44
+    ],
+    "pan": 300,
+    "tilt": null,
+    "channels": [
+      8,
+      14
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:7",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      245,
+      250.3,
+      257.5
+    ],
+    "weightKg": 9.45,
+    "url": "https://www.eklights.com/products/aurora-xgp-70/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Statischer Gobo-Projektor 70 W, Zoom 15-44°."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "AURORA XGP 750P",
+    "kind": "effect",
+    "light": "630W LED engine",
+    "beamDeg": [
+      6,
+      50
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      28
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      514.5,
+      324,
+      249
+    ],
+    "weightKg": 24.5,
+    "url": "https://www.eklights.com/products/aurora-xgp-750p/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 LED-Bildprojektor 630 W mit Framing (P)."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "AURORA XGP 750S",
+    "kind": "effect",
+    "light": "630W LED",
+    "beamDeg": [
+      6,
+      50
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      22
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "focus",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      514.5,
+      324,
+      249
+    ],
+    "weightKg": 24,
+    "url": "https://www.eklights.com/products/aurora-xgp-750s/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Bildprojektor 630 W (S)."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "Billy The Kid",
+    "kind": "beam",
+    "light": "420W 6700K CW lamp",
+    "beamDeg": [
+      1.3,
+      1.3
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      19
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "gobo",
+      "prism",
+      "frost",
+      "iris"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      263,
+      455,
+      703
+    ],
+    "weightKg": 32,
+    "url": "https://www.eklights.com/products/billy-the-kid/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP Beam mit 420 W Entladungslampe."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "Blinder II C",
+    "kind": "blinder",
+    "light": null,
+    "beamDeg": [
+      59,
+      59
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      5,
+      7,
+      10,
+      2,
+      12,
+      13,
+      15,
+      28
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      415,
+      94,
+      232
+    ],
+    "weightKg": 3.6,
+    "url": "https://www.eklights.com/products/blinder-ii-c/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "Blinder II IP",
+    "kind": "blinder",
+    "light": "147W 2800K COB LEDs",
+    "beamDeg": null,
+    "pan": 360,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      8
+    ],
+    "features": [
+      "pixel",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      432,
+      100,
+      230
+    ],
+    "weightKg": 7,
+    "url": "https://www.eklights.com/products/blinder-ii-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "Collider Bar IP",
+    "kind": "strobe",
+    "light": "960W RGBW LED",
+    "beamDeg": [
+      110,
+      110
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      8,
+      11,
+      15,
+      60,
+      62,
+      67,
+      120,
+      2
+    ],
+    "features": [
+      "IP65",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1000,
+      83,
+      232
+    ],
+    "weightKg": 6.93,
+    "url": "https://www.eklights.com/products/collider-bar-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 Strobe/Pixel-Leiste 1 m, 960 W RGBW."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "Collider FC",
+    "kind": "strobe",
+    "light": "1728W RGBW LED",
+    "beamDeg": [
+      98,
+      98
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "pixel",
+      "IP65",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      468,
+      179,
+      268
+    ],
+    "weightKg": 15,
+    "url": "https://www.eklights.com/products/collider-fc/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 RGBW-Strobe-Panel 1728 W, Pixelsteuerung."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "Color Keep One",
+    "kind": "par",
+    "light": "100W RGBW LED",
+    "beamDeg": [
+      15,
+      15
+    ],
+    "pan": 120,
+    "tilt": 116,
+    "channels": [
+      4,
+      8
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      251,
+      205,
+      286
+    ],
+    "weightKg": 5.3,
+    "url": "https://www.eklights.com/products/color-keep-one/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "Color Keep Two",
+    "kind": "par",
+    "light": "60W RGBW LEDs",
+    "beamDeg": [
+      0,
+      120
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      8
+    ],
+    "features": [
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      203,
+      160,
+      238
+    ],
+    "weightKg": 4,
+    "url": "https://www.eklights.com/products/color-keep-two/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "Color Line IB36",
+    "kind": "bar",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://www.eklights.com/products/color-line-ib36/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "Color Line PB120",
+    "kind": "bar",
+    "light": "120W RGBW LED",
+    "beamDeg": [
+      13,
+      13
+    ],
+    "pan": null,
+    "tilt": 180,
+    "channels": [
+      4,
+      6,
+      11
+    ],
+    "features": [
+      "IP66"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1000,
+      60,
+      104
+    ],
+    "weightKg": 4.86,
+    "url": "https://www.eklights.com/products/color-line-pb120/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 LED-Bar 1 m 120 W RGBW, Tilt 180° (Bügel)."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "Color Line PB72",
+    "kind": "bar",
+    "light": "63W RGBW LED",
+    "beamDeg": [
+      8,
+      8
+    ],
+    "pan": null,
+    "tilt": 180,
+    "channels": [
+      4,
+      6,
+      10
+    ],
+    "features": [
+      "IP66"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1000,
+      60,
+      104
+    ],
+    "weightKg": 4.86,
+    "url": "https://www.eklights.com/products/color-line-pb72/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 LED-Bar 1 m 63 W RGBW, Tilt 180° (Bügel)."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "Color Ranger Q48A",
+    "kind": "flood",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://www.eklights.com/products/color-ranger-q48a/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "Color Ranger Q48E",
+    "kind": "flood",
+    "light": "48 x 10 W",
+    "beamDeg": [
+      8,
+      8
+    ],
+    "pan": null,
+    "tilt": 150,
+    "channels": [
+      4,
+      6,
+      10,
+      16
+    ],
+    "features": [
+      "colorwheel",
+      "zoom",
+      "pixel",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      530,
+      93,
+      314
+    ],
+    "weightKg": 13,
+    "url": "https://www.eklights.com/products/color-ranger-q48e/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "Color Ranger Q96A",
+    "kind": "flood",
+    "light": "960W 3200K RGBW LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": 180,
+    "channels": [
+      4,
+      5,
+      7,
+      9,
+      11,
+      2,
+      13,
+      15,
+      16,
+      21,
+      32
+    ],
+    "features": [
+      "pixel"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      663,
+      220,
+      512
+    ],
+    "weightKg": 26,
+    "url": "https://www.eklights.com/products/color-ranger-q96a/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "Cyber Beam",
+    "kind": "beam",
+    "light": "50W 7200K LED",
+    "beamDeg": [
+      2.2,
+      2.2
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      14
+    ],
+    "features": [
+      "prism",
+      "frost",
+      "iris"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      264,
+      176,
+      366
+    ],
+    "weightKg": 7,
+    "url": "https://www.eklights.com/products/cyber-beam/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 78 W."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "Diamondback",
+    "kind": "tiltbar",
+    "light": "1100W RGBW+CW+WW LED",
+    "beamDeg": [
+      3,
+      34
+    ],
+    "pan": null,
+    "tilt": 205,
+    "channels": [
+      14,
+      32,
+      88,
+      91,
+      118,
+      119
+    ],
+    "features": [
+      "zoom",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1000,
+      110,
+      284.5
+    ],
+    "weightKg": 20.3,
+    "url": "https://www.eklights.com/products/diamondback/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Motorisierte Tilt-Bar 1 m (Tilt 205°), 1100 W RGBW+CW+WW, Zoom 3-34°."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "EC12",
+    "kind": "wash",
+    "light": "12x50W RGBWW LED",
+    "beamDeg": [
+      3.8,
+      48
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      17,
+      36,
+      35,
+      61,
+      84,
+      83
+    ],
+    "features": [
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      429,
+      277,
+      504
+    ],
+    "weightKg": 20,
+    "url": "https://www.eklights.com/products/ec12/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Wash 12 x 50 W RGBWW, Pixel."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "EC60",
+    "kind": "wash",
+    "light": "61x50W RGBWW LED",
+    "beamDeg": [
+      3.8,
+      50
+    ],
+    "pan": 540,
+    "tilt": 210,
+    "channels": [
+      16,
+      31,
+      34,
+      255,
+      278
+    ],
+    "features": [
+      "prism",
+      "frost",
+      "iris",
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      679,
+      398,
+      681
+    ],
+    "weightKg": 59.8,
+    "url": "https://www.eklights.com/products/ec60/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Großer LED-Wash 61 x 50 W RGBWW, Pixel."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "EC7 Par IP",
+    "kind": "par",
+    "light": "7x50W RGBWW LED",
+    "beamDeg": [
+      4.3,
+      51
+    ],
+    "pan": null,
+    "tilt": 360,
+    "channels": null,
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      376.3,
+      303.6,
+      282.5
+    ],
+    "weightKg": 6.6,
+    "url": "https://www.eklights.com/products/ec7-par-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP Zoom-Par 7 x 50 W RGBWW (Beam/Wash)."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "EC7",
+    "kind": "wash",
+    "light": "7x50W RGBWW LED",
+    "beamDeg": [
+      3.5,
+      51
+    ],
+    "pan": 540,
+    "tilt": 247,
+    "channels": [
+      18,
+      37,
+      36,
+      42,
+      65,
+      64
+    ],
+    "features": [
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      323,
+      207,
+      381
+    ],
+    "weightKg": 9.7,
+    "url": "https://www.eklights.com/products/ec7/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Wash 7 x 50 W RGBWW, Pixel."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "EFRESNEL VW",
+    "kind": "fresnel",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://www.eklights.com/products/efresnel-vw/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "EPAR INFINITI VW",
+    "kind": "par",
+    "light": null,
+    "beamDeg": [
+      41,
+      99
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      6,
+      10
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      450,
+      316,
+      208
+    ],
+    "weightKg": 5.65,
+    "url": "https://www.eklights.com/products/epar-infiniti-vw/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "EPAR MULTI CW",
+    "kind": "par",
+    "light": "5600K COB LED",
+    "beamDeg": [
+      12,
+      12
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      3,
+      6
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      450,
+      316,
+      208
+    ],
+    "weightKg": 5.6,
+    "url": "https://www.eklights.com/products/epar-multi-cw/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "EPAR MULTI WW",
+    "kind": "par",
+    "light": "3200K COB LED",
+    "beamDeg": [
+      10,
+      10
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      3,
+      6
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      450,
+      316,
+      208
+    ],
+    "weightKg": 5.4,
+    "url": "https://www.eklights.com/products/epar-multi-ww/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "EPROFILE HP",
+    "kind": "ellipsoidal",
+    "light": "200W LED",
+    "beamDeg": [
+      15,
+      30
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      5
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      625,
+      285,
+      487
+    ],
+    "weightKg": 7.1,
+    "url": "https://www.eklights.com/products/eprofile-hp/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "EPROFILE MZ 30 FC",
+    "kind": "ellipsoidal",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://www.eklights.com/products/eprofile-mz-30-fc/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "EPROFILE MZ 30 WW",
+    "kind": "ellipsoidal",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://www.eklights.com/products/eprofile-mz-30-ww/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "EProfile VW 500",
+    "kind": "ellipsoidal",
+    "light": "380W RGBAL LED",
+    "beamDeg": [
+      15,
+      30
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      4,
+      5,
+      7,
+      11,
+      13,
+      113,
+      217
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      596,
+      288,
+      551
+    ],
+    "weightKg": 8,
+    "url": "https://www.eklights.com/products/eprofile-vw-500/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "H1 IP",
+    "kind": "hybrid",
+    "light": "480W discharge lamp",
+    "beamDeg": [
+      1.8,
+      27.5
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      32
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "gobo",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "animation"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      429,
+      270,
+      648.5
+    ],
+    "weightKg": 27.8,
+    "url": "https://www.eklights.com/products/h1-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP BSW-Hybrid mit 480 W Entladungslampe."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "H1",
+    "kind": "hybrid",
+    "light": "Philips 480W 6500K HID lamp",
+    "beamDeg": [
+      2.1,
+      29
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      31
+    ],
+    "features": [
+      "cmy",
+      "gobo",
+      "prism",
+      "frost",
+      "iris"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      400,
+      277,
+      651
+    ],
+    "weightKg": 25,
+    "url": "https://www.eklights.com/products/h1/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "BSW-Hybrid mit Philips 480 W HID."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "H360",
+    "kind": "hybrid",
+    "light": "360W CW LED",
+    "beamDeg": [
+      3.4,
+      37.7
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      21
+    ],
+    "features": [
+      "gobo:7+12",
+      "prism",
+      "frost",
+      "iris",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      355,
+      257,
+      643
+    ],
+    "weightKg": 22,
+    "url": "https://www.eklights.com/products/h360/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "K Max HP",
+    "kind": "profile",
+    "light": "1200W 6000K white LED",
+    "beamDeg": [
+      6,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      34
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:1+1",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "animation"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      440,
+      320,
+      795.5
+    ],
+    "weightKg": 40,
+    "url": "https://www.eklights.com/products/k-max-hp/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "K Max HR",
+    "kind": "profile",
+    "light": "1200W 6000K white LED",
+    "beamDeg": [
+      6,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      34
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:1+1",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "animation"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      440,
+      320,
+      795.5
+    ],
+    "weightKg": 40,
+    "url": "https://www.eklights.com/products/k-max-hr/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "K Smart P",
+    "kind": "profile",
+    "light": "600W 6000K LED engine",
+    "beamDeg": [
+      6,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      33
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "animation"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      355,
+      257,
+      593
+    ],
+    "weightKg": 24,
+    "url": "https://www.eklights.com/products/k-smart-p/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "K Smart S",
+    "kind": "spot",
+    "light": "600W 6000K LED",
+    "beamDeg": [
+      6,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      25
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "animation"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      355,
+      257,
+      593
+    ],
+    "weightKg": 24,
+    "url": "https://www.eklights.com/products/k-smart-s/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "K35",
+    "kind": "profile",
+    "light": "900W 6000K LED en",
+    "beamDeg": [
+      6,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      39,
+      41
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      439,
+      316,
+      745
+    ],
+    "weightKg": 38,
+    "url": "https://www.eklights.com/products/k35/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "K65 IP",
+    "kind": "profile",
+    "light": "1000W LED engine",
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      39,
+      41
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "focus",
+      "blades",
+      "animation"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      390,
+      330,
+      762
+    ],
+    "weightKg": 38.5,
+    "url": "https://www.eklights.com/products/k65/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "KX 100+",
+    "kind": "profile",
+    "light": "1500W CW+RGB LED engine (patented)",
+    "beamDeg": [
+      4.8,
+      48
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      34,
+      36
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "animation"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      469,
+      335,
+      868
+    ],
+    "weightKg": 47,
+    "url": "https://www.eklights.com/products/kx-100-2/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "LITEPARPRO 7QX IP",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://www.eklights.com/products/liteparpro-7qx-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "LT15",
+    "kind": "profile",
+    "light": "1500W LED engine",
+    "beamDeg": [
+      3.7,
+      52
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      40
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:7",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      479,
+      300,
+      792
+    ],
+    "weightKg": 41.8,
+    "url": "https://www.eklights.com/products/lt15/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "LT6",
+    "kind": "profile",
+    "light": "600W LED",
+    "beamDeg": [
+      3.3,
+      52
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      38
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:7+9",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      429,
+      270,
+      661
+    ],
+    "weightKg": 29.3,
+    "url": "https://www.eklights.com/products/lt6/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "MC10",
+    "kind": "profile",
+    "light": "1000W Full Spectrum LED module",
+    "beamDeg": [
+      5.2,
+      52
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      51,
+      43,
+      45
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:6+6",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      464,
+      308,
+      764
+    ],
+    "weightKg": 34,
+    "url": "https://www.eklights.com/products/mc10/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "MC15",
+    "kind": "profile",
+    "light": "1500W Full Spectrum LED module",
+    "beamDeg": [
+      4.4,
+      52
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      50,
+      42,
+      44
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:6+6",
+      "prism",
+      "frost",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      517,
+      365,
+      856
+    ],
+    "weightKg": 47.8,
+    "url": "https://www.eklights.com/products/mc15/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "MC15FS",
+    "kind": "profile",
+    "light": "1500W Full Spectrum LED module",
+    "beamDeg": [
+      4.4,
+      51.5
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      50,
+      42,
+      44
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:6+6",
+      "prism",
+      "frost",
+      "zoom",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      517,
+      365,
+      856
+    ],
+    "weightKg": 50.5,
+    "url": "https://www.eklights.com/products/mc15fs/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "MC6",
+    "kind": "profile",
+    "light": "650W Full Spectrum LED module",
+    "beamDeg": [
+      6,
+      51
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      49,
+      43,
+      41
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      418,
+      656,
+      288
+    ],
+    "weightKg": 27,
+    "url": "https://www.eklights.com/products/mc6/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "Power Pixel Q50",
+    "kind": "bar",
+    "light": "120W RGBW LED",
+    "beamDeg": [
+      134,
+      134
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      4,
+      6,
+      8,
+      2,
+      10,
+      11,
+      13,
+      14,
+      20,
+      26,
+      40,
+      46,
+      100,
+      106,
+      200,
+      206
+    ],
+    "features": [
+      "gobo:7+12",
+      "focus",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1000,
+      90,
+      103.8
+    ],
+    "weightKg": 3.4,
+    "url": "https://www.eklights.com/products/power-pixel-q50/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Pixel-Leiste 1 m, 120 W RGBW; Abstrahlung 134°; viele Pixelmodi."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "R2 Beam Wash",
+    "kind": "wash",
+    "light": "760W RGBWW LED",
+    "beamDeg": [
+      4,
+      60
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16,
+      43,
+      86
+    ],
+    "features": [
+      "prism",
+      "frost",
+      "iris",
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      419,
+      277,
+      510
+    ],
+    "weightKg": 20,
+    "url": "https://www.eklights.com/products/r2-beam-wash/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "R3 Beam Wash",
+    "kind": "wash",
+    "light": "280W RGBW LED",
+    "beamDeg": [
+      4,
+      57
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      249,
+      183,
+      355
+    ],
+    "weightKg": 6.6,
+    "url": "https://www.eklights.com/products/r3/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": "qlc:ek/r3-wash",
+    "notes": "Vermutlich identisch mit Bibliothekseintrag \"R3 Wash\" (gleiche Kanalmodi 16/20)."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "Radiant 3000+",
+    "kind": "strobe",
+    "light": "2500W RGBW 4-in-1 LED",
+    "beamDeg": [
+      118.4,
+      118.4
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      12
+    ],
+    "features": [
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      440,
+      180.2,
+      218.5
+    ],
+    "weightKg": 9.5,
+    "url": "https://www.eklights.com/products/radiant-3000-2/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "RGBW-Strobe 2500 W (Plus-Version)."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "Radiant 3000",
+    "kind": "strobe",
+    "light": "3600W RGBW 4-in-1 LED",
+    "beamDeg": [
+      112,
+      112
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      12
+    ],
+    "features": [
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      440,
+      180.2,
+      218.5
+    ],
+    "weightKg": 9.4,
+    "url": "https://www.eklights.com/products/radiant-3000/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "RGBW-Strobe 3600 W, Pixelsteuerung."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "Radiant Bar 1000",
+    "kind": "strobe",
+    "light": "1260W RGBWW 4-in-1 LED",
+    "beamDeg": [
+      135,
+      135
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      5,
+      192,
+      12,
+      40,
+      72,
+      104,
+      200
+    ],
+    "features": [
+      "pixel",
+      "IP66",
+      "artnet"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1000,
+      100,
+      130
+    ],
+    "weightKg": 8,
+    "url": "https://www.eklights.com/products/radiant-bar-1000/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 Strobe/Pixel-Bar 1 m, 1260 W RGBWW."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "Ratel",
+    "kind": "beam",
+    "light": "Osram SIRIUS HRI 380W,7800K",
+    "beamDeg": [
+      3.4,
+      37.7
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      18
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      324,
+      220,
+      564
+    ],
+    "weightKg": 17.4,
+    "url": "https://www.eklights.com/products/ratel/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Beam/Spot mit Osram Sirius HRI 380 W."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "Shark",
+    "kind": "hybrid",
+    "light": "360W CW LED",
+    "beamDeg": [
+      3.4,
+      37.7
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      21
+    ],
+    "features": [
+      "gobo:7+12",
+      "prism",
+      "frost",
+      "iris",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      355,
+      257,
+      643
+    ],
+    "weightKg": 22,
+    "url": "https://www.eklights.com/products/shark/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "EK",
+    "model": "Terminator",
+    "kind": "hybrid",
+    "light": "660W 6800K arc lamp",
+    "beamDeg": [
+      1.68,
+      27
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      32
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "focus",
+      "animation"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      447,
+      322,
+      820
+    ],
+    "weightKg": 34.5,
+    "url": "https://www.eklights.com/products/terminator/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "BSWF-Hybrid mit 660 W Entladungslampe."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "12QP-C LED PAR",
+    "kind": "par",
+    "light": "80W RGBW LED",
+    "beamDeg": [
+      31,
+      31
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      9
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      253,
+      290,
+      101
+    ],
+    "weightKg": 3.3,
+    "url": "https://www.eklights.com/cn/products/12qp-c/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "Color Line OB36",
+    "kind": "bar",
+    "light": "28W RGBW LED",
+    "beamDeg": [
+      12,
+      12
+    ],
+    "pan": null,
+    "tilt": 180,
+    "channels": [
+      4,
+      6,
+      11
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1000,
+      48,
+      67
+    ],
+    "weightKg": 2.58,
+    "url": "https://www.eklights.com/cn/products/color-line-ob36/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "Color Ranger Q15A",
+    "kind": "flood",
+    "light": "150W RGBW LED",
+    "beamDeg": [
+      0,
+      130
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      8
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      307,
+      83,
+      258
+    ],
+    "weightKg": 6,
+    "url": "https://www.eklights.com/cn/products/color-ranger-q15a/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "Color Ranger Q27A",
+    "kind": "flood",
+    "light": "270W RGBW LED",
+    "beamDeg": [
+      8,
+      8
+    ],
+    "pan": null,
+    "tilt": 130,
+    "channels": [
+      4,
+      8
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      454,
+      153,
+      258
+    ],
+    "weightKg": 9,
+    "url": "https://www.eklights.com/cn/products/color-ranger-q27a/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "Color Ranger Q27E",
+    "kind": "flood",
+    "light": "270W RGBW LED",
+    "beamDeg": [
+      8,
+      8
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      6,
+      10,
+      12
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      454,
+      269,
+      95
+    ],
+    "weightKg": 9,
+    "url": "https://www.eklights.com/cn/products/color-ranger-q27e/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "CYC1000",
+    "kind": "bar",
+    "light": "370W RGBW LED",
+    "beamDeg": [
+      37,
+      81
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      10,
+      15,
+      17
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1000,
+      123,
+      147.6
+    ],
+    "weightKg": 9.3,
+    "url": "https://www.eklights.com/cn/products/cyc1000/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "CYC500",
+    "kind": "bar",
+    "light": "190W RGBW LED",
+    "beamDeg": [
+      40,
+      80
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      10,
+      15,
+      17
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      500,
+      147.6,
+      117
+    ],
+    "weightKg": 5.7,
+    "url": "https://www.eklights.com/cn/products/cyc500/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "DLM 7X7",
+    "kind": "matrix",
+    "light": "RGBW:380W+WW:320W；LED",
+    "beamDeg": [
+      2.5,
+      2.5
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      5,
+      7,
+      10,
+      12,
+      13,
+      16,
+      252
+    ],
+    "features": [
+      "pixel"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      500,
+      500,
+      123
+    ],
+    "weightKg": 15.1,
+    "url": "https://www.eklights.com/cn/products/dlm-7x7/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Doppel-Matrix 7x7 (500 x 500 mm), pixelsteuerbar (China-Seite). Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "EFRESNEL CW 500 LED",
+    "kind": "fresnel",
+    "light": "400W kaltweiß LED",
+    "beamDeg": [
+      15,
+      62
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      3,
+      5
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      455,
+      421,
+      537
+    ],
+    "weightKg": 15.1,
+    "url": "https://www.eklights.com/cn/products/efresnel-cw-500/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "EFRESNEL CW 5600K",
+    "kind": "fresnel",
+    "light": "200W LED",
+    "beamDeg": [
+      16,
+      65
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      5
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      343,
+      297,
+      439
+    ],
+    "weightKg": 7.3,
+    "url": "https://www.eklights.com/cn/products/efresnel-cw/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "EFRESNEL VW 500 LED",
+    "kind": "fresnel",
+    "light": "400W LED",
+    "beamDeg": [
+      16,
+      74
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2,
+      5,
+      7,
+      9,
+      13,
+      16,
+      19
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      541,
+      421,
+      537
+    ],
+    "weightKg": 15.8,
+    "url": "https://www.eklights.com/cn/products/efresnel-vw-500/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "EFRESNEL WW 500 LED",
+    "kind": "fresnel",
+    "light": "400W WW LED",
+    "beamDeg": [
+      14,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      3,
+      5
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      455,
+      421,
+      537
+    ],
+    "weightKg": 15.1,
+    "url": "https://www.eklights.com/cn/products/efresnel-ww-500/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "EFRESNEL WW LED",
+    "kind": "fresnel",
+    "light": "200W LED",
+    "beamDeg": [
+      16,
+      65
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      5
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      343,
+      297,
+      439
+    ],
+    "weightKg": 7.3,
+    "url": "https://www.eklights.com/cn/products/efresnel-ww/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "EPAR ULTRA UV LED UV PAR",
+    "kind": "par",
+    "light": "365nm UV COB LED",
+    "beamDeg": [
+      36,
+      36
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      3,
+      6
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      450,
+      316,
+      208
+    ],
+    "weightKg": 5.5,
+    "url": "https://www.eklights.com/cn/products/epar-ultra-uv/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "EPROFILE FC LED",
+    "kind": "ellipsoidal",
+    "light": "250W RGBAL LED",
+    "beamDeg": [
+      19,
+      19
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5,
+      7,
+      10,
+      12,
+      13,
+      15
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      655,
+      342,
+      526
+    ],
+    "weightKg": 9.26,
+    "url": "https://www.eklights.com/cn/products/eprofile-fc/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "FF1",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://www.eklights.com/cn/products/ff1/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "Jin Gu Bang",
+    "kind": "tube",
+    "light": "28W LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      14,
+      64,
+      67
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1543,
+      73,
+      73
+    ],
+    "weightKg": 4.1,
+    "url": "https://www.eklights.com/cn/products/jin-gu-bang/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Akku-LED-Stab (Wireless), 1543 mm (China-Seite). Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "K1",
+    "kind": "profile",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://www.eklights.com/cn/products/k1/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "K2 LED",
+    "kind": "profile",
+    "light": "540W 6500K LED",
+    "beamDeg": [
+      6,
+      48
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      33,
+      34
+    ],
+    "features": [
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      411.8,
+      277.4,
+      707.1
+    ],
+    "weightKg": 32,
+    "url": "https://www.eklights.com/cn/products/k2/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "K4 Beam",
+    "kind": "beam",
+    "light": "110W 6300K LED",
+    "beamDeg": [
+      2.3,
+      2.3
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      11,
+      12
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      313,
+      220,
+      425
+    ],
+    "weightKg": 13,
+    "url": "https://www.eklights.com/cn/products/k4-beam/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "K4 Spot LED",
+    "kind": "spot",
+    "light": "150W LED",
+    "beamDeg": [
+      20,
+      20
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      12,
+      14
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      317,
+      220,
+      442
+    ],
+    "weightKg": 13.69,
+    "url": "https://www.eklights.com/cn/products/k4-spot/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "MC10 PRO",
+    "kind": "profile",
+    "light": "1000W 6-Farben-Vollspektrum-LED-Modul",
+    "beamDeg": [
+      5.2,
+      52
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      52,
+      46,
+      44,
+      41
+    ],
+    "features": [
+      "cto",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      464,
+      308,
+      764
+    ],
+    "weightKg": 34,
+    "url": "https://www.eklights.com/cn/products/mc10-pro/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "MC6 PRO",
+    "kind": "profile",
+    "light": "650W 6-Farben-Vollspektrum-LED-Modul",
+    "beamDeg": [
+      6,
+      51
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      48,
+      42,
+      40
+    ],
+    "features": [
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      418,
+      674,
+      288
+    ],
+    "weightKg": 27,
+    "url": "https://www.eklights.com/cn/products/mc6-pro/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "MC6X",
+    "kind": "profile",
+    "light": "650W 6-Farben-Vollspektrum-LED-Modul",
+    "beamDeg": [
+      6,
+      51
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      47,
+      41,
+      39
+    ],
+    "features": [
+      "cto",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      418,
+      674,
+      288
+    ],
+    "weightKg": 26,
+    "url": "https://www.eklights.com/cn/products/mc6x/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "MCXX",
+    "kind": "profile",
+    "light": "1800W 6-Farben-Vollspektrum-LED-Modul",
+    "beamDeg": [
+      3.6,
+      52
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      50,
+      49,
+      44,
+      42
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      875,
+      312,
+      365
+    ],
+    "weightKg": 57,
+    "url": "https://www.eklights.com/cn/products/mcxx/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "ORB 300",
+    "kind": "blinder",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://www.eklights.com/cn/products/orb-300/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "ORCA",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://www.eklights.com/cn/products/orca/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "Ru Lai",
+    "kind": "hybrid",
+    "light": "295W 6800K Entladungslampe",
+    "beamDeg": [
+      1.9,
+      14.3
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      23
+    ],
+    "features": [
+      "gobo",
+      "prism",
+      "frost",
+      "iris"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      323,
+      220,
+      575
+    ],
+    "weightKg": 17,
+    "url": "https://www.eklights.com/cn/products/ru-lai/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "S240 LED RGBW",
+    "kind": "effect",
+    "light": "95W RGBW LED",
+    "beamDeg": [
+      360,
+      360
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      14,
+      28,
+      31
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      100,
+      100,
+      263
+    ],
+    "weightKg": 1.78,
+    "url": "https://www.eklights.com/cn/products/s240/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "SOFT LIGHT 250 LED",
+    "kind": "panel",
+    "light": null,
+    "beamDeg": [
+      110,
+      110
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      10,
+      15,
+      17
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      529,
+      144,
+      547
+    ],
+    "weightKg": 15,
+    "url": "https://www.eklights.com/cn/products/soft-light-250/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "SOFT LIGHT LED",
+    "kind": "panel",
+    "light": "625W RGBW LED",
+    "beamDeg": [
+      100,
+      100
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      10,
+      15,
+      17
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      819,
+      144,
+      547
+    ],
+    "weightKg": 15.4,
+    "url": "https://www.eklights.com/cn/products/soft-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "SWORD FISH",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://www.eklights.com/cn/products/swordfish/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "TIGER",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://www.eklights.com/cn/products/tiger/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  },
+  {
+    "manufacturer": "EK",
+    "model": "Wu Kong",
+    "kind": "beam",
+    "light": "295W 8000K Entladungslampe",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      18
+    ],
+    "features": [
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      313,
+      220,
+      501
+    ],
+    "weightKg": 15,
+    "url": "https://www.eklights.com/cn/products/wu-kong/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur auf chinesischer EK-Seite gelistet; Werte aus chinesischem Spec-Text."
+  }
+]

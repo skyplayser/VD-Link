@@ -1,0 +1,3142 @@
+[
+ {
+  "man": "Elation",
+  "key": "proteus-brutus",
+  "model": "Proteus Brutus",
+  "kind": "wash",
+  "deg": [
+   4.5,
+   45
+  ],
+  "pan": 540,
+  "tilt": 266,
+  "ch": [
+   25,
+   34,
+   36,
+   56
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.elationlighting.com/products/proteus-brutus",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "proteus-brutus-fs",
+  "model": "Proteus Brutus FS",
+  "kind": "follow",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   3,
+   35
+  ],
+  "ch": [
+   27,
+   36
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "iris",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   370,
+   825,
+   468
+  ],
+  "url": "https://www.elationlighting.com/products/proteus-brutus-fs",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "proteus-atlas",
+  "model": "Proteus Atlas",
+  "kind": "beam",
+  "deg": [
+   0.6,
+   8.5
+  ],
+  "pan": 360,
+  "tilt": 250,
+  "ch": [
+   30,
+   41
+  ],
+  "feat": [
+   "pro",
+   "gobo:14",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.elationlighting.com/products/proteus-atlas",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "proteus-hybrid-max",
+  "model": "Proteus Hybrid Max",
+  "kind": "hybrid",
+  "deg": [
+   2,
+   45
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "ch": [
+   32,
+   43
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:14",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.elationlighting.com/products/proteus-hybrid-max",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "proteus-rayzor-1960",
+  "model": "Proteus Rayzor 1960",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   5,
+   55
+  ],
+  "pan": 360,
+  "tilt": 360,
+  "ch": [
+   25,
+   100,
+   176
+  ],
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.elationlighting.com/products/proteus-rayzor-1960",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "proteus-rayzor-blade-s",
+  "model": "Proteus Rayzor Blade S",
+  "kind": "tiltbar",
+  "leds": [
+   6,
+   "rgbw"
+  ],
+  "deg": [
+   6,
+   45
+  ],
+  "tilt": 192,
+  "ch": [
+   28,
+   50,
+   66,
+   72,
+   82,
+   106
+  ],
+  "pixelFrom": 28,
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.elationlighting.com/products/proteus-rayzor-blade-s",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "proteus-rayzor-blade-l",
+  "model": "Proteus Rayzor Blade L",
+  "kind": "tiltbar",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "deg": [
+   6,
+   45
+  ],
+  "tilt": 192,
+  "ch": [
+   28,
+   76,
+   108,
+   120,
+   140,
+   188
+  ],
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.elationlighting.com/products/proteus-rayzor-blade-l",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "artiste-mondrian",
+  "model": "Artiste Mondrian",
+  "kind": "profile",
+  "deg": [
+   3,
+   45
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "ch": [
+   42,
+   68
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:14",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.elationlighting.com/products/artiste-mondrian",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "artiste-monet",
+  "model": "Artiste Monet",
+  "kind": "profile",
+  "deg": [
+   6.8,
+   55
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "ch": [
+   40,
+   67
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:14",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.elationlighting.com/products/artiste-monet",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "artiste-rembrandt",
+  "model": "Artiste Rembrandt",
+  "kind": "wash",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   11,
+   55
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "ch": [
+   35,
+   59
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.elationlighting.com/products/artiste-rembrandt",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "paragon-s",
+  "model": "Paragon S",
+  "kind": "profile",
+  "deg": [
+   5,
+   50
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "ch": [
+   41,
+   64
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:14",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.elationlighting.com/products/paragon-s",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "paragon-m",
+  "model": "Paragon M",
+  "kind": "profile",
+  "deg": [
+   4.5,
+   52
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "ch": [
+   43,
+   65
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:14",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.elationlighting.com/products/paragon-m",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "paragon-lt",
+  "model": "Paragon LT",
+  "kind": "profile",
+  "deg": [
+   3.7,
+   48
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "ch": [
+   44,
+   47,
+   67,
+   73
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:14",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.elationlighting.com/products/paragon-lt",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "rebel-wash-12",
+  "model": "Rebel Wash 12",
+  "kind": "wash",
+  "leds": [
+   12,
+   "rgbl"
+  ],
+  "deg": [
+   5,
+   40
+  ],
+  "ch": [
+   21,
+   28,
+   68
+  ],
+  "pixelFrom": 68,
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.elationlighting.com/products/rebel-wash-12",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "rebel-line-8",
+  "model": "Rebel Line 8",
+  "kind": "tiltbar",
+  "leds": [
+   8,
+   "rgbl"
+  ],
+  "deg": [
+   4,
+   35
+  ],
+  "tilt": 210,
+  "ch": [
+   22,
+   30,
+   70
+  ],
+  "pixelFrom": 30,
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.elationlighting.com/products/rebel-line-8",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "rebel-line-16",
+  "model": "Rebel Line 16",
+  "kind": "tiltbar",
+  "leds": [
+   16,
+   "rgbl"
+  ],
+  "deg": [
+   4,
+   35
+  ],
+  "tilt": 210,
+  "ch": [
+   22,
+   24,
+   30,
+   31,
+   70,
+   122
+  ],
+  "pixelFrom": 70,
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.elationlighting.com/products/rebel-line-16",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "fuze-max-profile",
+  "model": "Fuze Max Profile",
+  "kind": "profile",
+  "deg": [
+   7,
+   53
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "ch": [
+   38,
+   40,
+   57,
+   61
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:14",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.elationlighting.com/products/fuze-max-profile",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "fuze-max-spot",
+  "model": "Fuze Max Spot",
+  "kind": "spot",
+  "deg": [
+   7,
+   53
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "ch": [
+   32,
+   34,
+   40,
+   44
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:14",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.elationlighting.com/products/fuze-max-spot",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "fuze-profile",
+  "model": "Fuze Profile",
+  "kind": "profile",
+  "deg": [
+   7,
+   42
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   36,
+   38,
+   55,
+   59
+  ],
+  "feat": [
+   "pro",
+   "cto",
+   "gobo:14",
+   "gobor",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.elationlighting.com/products/fuze-profile",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "fuze-profile-2",
+  "model": "Fuze Profile+",
+  "kind": "profile",
+  "deg": [
+   4,
+   54
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   38,
+   40,
+   55,
+   59
+  ],
+  "feat": [
+   "pro",
+   "cto",
+   "gobo:14",
+   "gobor",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.elationlighting.com/products/fuze-profile-1",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "fuze-spot",
+  "model": "Fuze Spot",
+  "kind": "spot",
+  "deg": [
+   7,
+   42
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   29,
+   31,
+   37,
+   41
+  ],
+  "feat": [
+   "pro",
+   "cto",
+   "gobo:14",
+   "gobor",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.elationlighting.com/products/fuze-spot",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "fuze-sfx",
+  "model": "Fuze SFX",
+  "kind": "hybrid",
+  "deg": [
+   4.5,
+   38
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   31
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "gobo:14",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.elationlighting.com/products/fuze-sfx",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "fuze-wash-fr",
+  "model": "Fuze Wash FR",
+  "kind": "wash",
+  "deg": [
+   9,
+   60
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   27,
+   29,
+   43,
+   47
+  ],
+  "feat": [
+   "pro",
+   "cto",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.elationlighting.com/products/fuze-wash-fr",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "fuze-wash-z120",
+  "model": "Fuze Wash Z120",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   7,
+   55
+  ],
+  "ch": [
+   19
+  ],
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.elationlighting.com/products/fuze-wash-z120",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "smarty-max",
+  "model": "Smarty Max",
+  "kind": "hybrid",
+  "deg": [
+   2,
+   20
+  ],
+  "pan": 540,
+  "tilt": 248,
+  "ch": [
+   27,
+   44
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "gobo:14",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.elationlighting.com/products/smarty-max",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "fuze-par-z120-ip",
+  "model": "Fuze Par Z120 IP",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   7,
+   55
+  ],
+  "ch": [
+   13
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   357,
+   359,
+   284
+  ],
+  "url": "https://www.elationlighting.com/products/fuze-par-z120-ip",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "kl-core-ip",
+  "model": "KL Core IP",
+  "kind": "ellipsoidal",
+  "deg": [
+   36,
+   50
+  ],
+  "ch": [
+   1,
+   4,
+   5,
+   6,
+   9,
+   10,
+   11,
+   13,
+   15,
+   19
+  ],
+  "feat": [
+   "zoom",
+   "blades"
+  ],
+  "size": [
+   292,
+   230,
+   398
+  ],
+  "url": "https://www.elationlighting.com/products/kl-core-ip",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "kl-profile-fc",
+  "model": "KL Profile FC",
+  "kind": "ellipsoidal",
+  "deg": [
+   6,
+   50
+  ],
+  "ch": [
+   1,
+   5,
+   10,
+   12,
+   17,
+   21
+  ],
+  "feat": [
+   "zoom",
+   "blades"
+  ],
+  "size": [
+   395,
+   638,
+   345
+  ],
+  "url": "https://www.elationlighting.com/products/kl-profile-fc",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "kl-profile-compact",
+  "model": "KL Profile Compact",
+  "kind": "ellipsoidal",
+  "deg": [
+   25,
+   50
+  ],
+  "ch": [
+   1,
+   3,
+   5,
+   6,
+   7,
+   9,
+   10,
+   11,
+   15,
+   19
+  ],
+  "feat": [
+   "zoom",
+   "blades"
+  ],
+  "size": [
+   262,
+   256,
+   472
+  ],
+  "url": "https://www.elationlighting.com/products/kl-profile-compact",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "kl-spot-ip",
+  "model": "KL Spot IP",
+  "kind": "ellipsoidal",
+  "deg": [
+   7,
+   50
+  ],
+  "ch": [
+   22,
+   24,
+   28,
+   32,
+   34,
+   46,
+   50
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom",
+   "blades"
+  ],
+  "size": [
+   446,
+   559,
+   242
+  ],
+  "url": "https://www.elationlighting.com/products/kl-spot-ip",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "kl-fresnel-4",
+  "model": "KL Fresnel 4",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   14,
+   30
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   201,
+   289,
+   345
+  ],
+  "url": "https://www.elationlighting.com/products/kl-fresnel-4",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "kl-fresnel-4-cw",
+  "model": "KL Fresnel 4 CW",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   14,
+   33
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   201,
+   289,
+   251
+  ],
+  "url": "https://www.elationlighting.com/products/kl-fresnel-4-cw",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "kl-fresnel-4-fc",
+  "model": "KL Fresnel 4 FC",
+  "kind": "fresnel",
+  "deg": [
+   10,
+   45
+  ],
+  "ch": [
+   1,
+   2,
+   6,
+   9,
+   11,
+   14,
+   15,
+   18,
+   19
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   313,
+   223,
+   190
+  ],
+  "url": "https://www.elationlighting.com/products/kl-fresnel-4-fc",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "kl-fresnel-6",
+  "model": "KL Fresnel 6",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   15,
+   38
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   273,
+   393,
+   498
+  ],
+  "url": "https://www.elationlighting.com/products/kl-fresnel-6",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "kl-fresnel-6-cw",
+  "model": "KL Fresnel 6 CW",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   16,
+   39
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   273,
+   393,
+   344
+  ],
+  "url": "https://www.elationlighting.com/products/kl-fresnel-6-cw",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "kl-fresnel-6-ip",
+  "model": "KL Fresnel 6 IP",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   8,
+   60
+  ],
+  "ch": [
+   1,
+   5,
+   7,
+   10,
+   11,
+   12,
+   14,
+   16,
+   20
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   256,
+   302,
+   404
+  ],
+  "url": "https://www.elationlighting.com/products/kl-fresnel-6-ip",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "kl-fresnel-8",
+  "model": "KL Fresnel 8",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   11,
+   57
+  ],
+  "ch": [
+   2,
+   3,
+   6,
+   7
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   328,
+   456,
+   608
+  ],
+  "url": "https://www.elationlighting.com/products/kl-fresnel-8",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "kl-fresnel-8-cw",
+  "model": "KL Fresnel 8 CW",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   11,
+   56
+  ],
+  "ch": [
+   2,
+   3,
+   6,
+   7
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   328,
+   456,
+   445
+  ],
+  "url": "https://www.elationlighting.com/products/kl-fresnel-8-cw",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "kl-fresnel-8-fc",
+  "model": "KL Fresnel 8 FC",
+  "kind": "fresnel",
+  "deg": [
+   10,
+   50
+  ],
+  "ch": [
+   1,
+   5,
+   7,
+   10,
+   11,
+   12,
+   14,
+   15,
+   16,
+   19,
+   20
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   326,
+   455,
+   382
+  ],
+  "url": "https://www.elationlighting.com/products/kl-fresnel-8-fc",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "kl-fresnel-8-ip",
+  "model": "KL Fresnel 8 IP",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   8,
+   60
+  ],
+  "ch": [
+   1,
+   5,
+   7,
+   10,
+   11,
+   12,
+   14,
+   16,
+   20
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   309,
+   345,
+   448
+  ],
+  "url": "https://www.elationlighting.com/products/kl-fresnel-8-ip",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "kl-par-fc-ip",
+  "model": "KL Par FC IP",
+  "kind": "par",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "ch": [
+   1,
+   6,
+   9,
+   11,
+   14,
+   15,
+   18,
+   19
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   304,
+   453,
+   217
+  ],
+  "url": "https://www.elationlighting.com/products/kl-par-fc-ip",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "kl-par-ip-compact",
+  "model": "KL Par IP Compact",
+  "kind": "par",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "ch": [
+   1,
+   4,
+   5,
+   6,
+   9,
+   10,
+   11,
+   15,
+   19
+  ],
+  "size": [
+   257,
+   183,
+   183
+  ],
+  "url": "https://www.elationlighting.com/products/kl-par-ip-compact",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "kl-cyc-s",
+  "model": "KL Cyc S",
+  "kind": "flood",
+  "deg": [
+   12,
+   75
+  ],
+  "ch": [
+   1,
+   4,
+   11,
+   12,
+   13,
+   16,
+   19,
+   20,
+   32
+  ],
+  "size": [
+   207,
+   85,
+   505
+  ],
+  "url": "https://www.elationlighting.com/products/kl-cyc-s",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "kl-cyc-l",
+  "model": "KL Cyc L",
+  "kind": "flood",
+  "deg": [
+   25,
+   75
+  ],
+  "ch": [
+   1,
+   4,
+   11,
+   12,
+   13,
+   16,
+   19,
+   20,
+   31,
+   32,
+   56
+  ],
+  "size": [
+   206,
+   85,
+   962
+  ],
+  "url": "https://www.elationlighting.com/products/kl-cyc-l",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "cw-profile-hp",
+  "model": "CW Profile HP",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "ch": [
+   4
+  ],
+  "feat": [
+   "blades"
+  ],
+  "size": [
+   310,
+   398,
+   618
+  ],
+  "url": "https://www.elationlighting.com/products/cw-profile-hp",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "ww-profile-hp",
+  "model": "WW Profile HP",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "ch": [
+   4
+  ],
+  "feat": [
+   "blades"
+  ],
+  "size": [
+   310,
+   398,
+   618
+  ],
+  "url": "https://www.elationlighting.com/products/ww-profile-hp",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "cw-profile-hp-ip",
+  "model": "CW Profile HP IP",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "ch": [
+   1,
+   3,
+   6,
+   8
+  ],
+  "feat": [
+   "blades"
+  ],
+  "size": [
+   554,
+   460,
+   300
+  ],
+  "url": "https://www.elationlighting.com/products/cw-profile-hp-ip",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "chorus-line-8",
+  "model": "Chorus Line 8",
+  "kind": "tiltbar",
+  "leds": [
+   8,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   40
+  ],
+  "ch": [
+   46
+  ],
+  "pixelFrom": 46,
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.elationlighting.com/products/chorus-line-8",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "six-bar-s",
+  "model": "SIX+ Bar S",
+  "kind": "bar",
+  "leds": [
+   6,
+   "rgbal"
+  ],
+  "deg": [
+   60,
+   60
+  ],
+  "ch": [
+   1,
+   3,
+   6,
+   9,
+   13,
+   16,
+   22,
+   34,
+   36,
+   46,
+   82
+  ],
+  "pixelFrom": 34,
+  "size": [
+   501,
+   206,
+   176
+  ],
+  "url": "https://www.elationlighting.com/products/six-bar-s",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "six-bar-l",
+  "model": "SIX+ Bar L",
+  "kind": "bar",
+  "leds": [
+   12,
+   "rgbal"
+  ],
+  "deg": [
+   60,
+   60
+  ],
+  "ch": [
+   1,
+   3,
+   6,
+   9,
+   13,
+   16,
+   22,
+   34,
+   44,
+   58,
+   72,
+   82,
+   154
+  ],
+  "pixelFrom": 72,
+  "size": [
+   1000,
+   206,
+   176
+  ],
+  "url": "https://www.elationlighting.com/products/six-bar-l",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "six-par-s",
+  "model": "SIX+ Par S",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbal"
+  ],
+  "deg": [
+   12,
+   12
+  ],
+  "ch": [
+   1,
+   3,
+   6,
+   9,
+   11,
+   14,
+   20
+  ],
+  "size": [
+   247,
+   230,
+   188
+  ],
+  "url": "https://www.elationlighting.com/products/six-par-s",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "six-par-l",
+  "model": "SIX+ Par L",
+  "kind": "par",
+  "leds": [
+   14,
+   "rgbal"
+  ],
+  "deg": [
+   12,
+   12
+  ],
+  "ch": [
+   1,
+   3,
+   6,
+   9,
+   11,
+   20
+  ],
+  "size": [
+   342,
+   246,
+   260
+  ],
+  "url": "https://www.elationlighting.com/products/six-par-l",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 14 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "six-panel",
+  "model": "SIX+ Panel",
+  "kind": "panel",
+  "leds": [
+   40,
+   "rgbal"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   1,
+   3,
+   4,
+   6,
+   9,
+   12,
+   16,
+   19,
+   21,
+   25,
+   27,
+   30,
+   39,
+   43,
+   60,
+   73,
+   75,
+   135
+  ],
+  "pixelFrom": 135,
+  "size": [
+   509,
+   392,
+   239
+  ],
+  "url": "https://www.elationlighting.com/products/six-panel",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "sixbar-500",
+  "model": "SixBar 500",
+  "kind": "bar",
+  "leds": [
+   6,
+   "rgbwauv"
+  ],
+  "deg": [
+   30,
+   30
+  ],
+  "ch": [
+   6,
+   7,
+   11,
+   13,
+   18,
+   36,
+   39,
+   43
+  ],
+  "pixelFrom": 36,
+  "size": [
+   450,
+   206,
+   155
+  ],
+  "url": "https://www.elationlighting.com/products/sixbar-500",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "sixbar-1000-ip",
+  "model": "SixBar 1000 IP",
+  "kind": "bar",
+  "leds": [
+   12,
+   "rgbwauv"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   6,
+   7,
+   11,
+   13,
+   36,
+   72,
+   75,
+   79
+  ],
+  "pixelFrom": 72,
+  "size": [
+   853,
+   141,
+   120
+  ],
+  "url": "https://www.elationlighting.com/products/sixbar-1000-ip",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "limelight-par-s",
+  "model": "Limelight Par S",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbl"
+  ],
+  "deg": [
+   5,
+   42
+  ],
+  "ch": [
+   4,
+   12,
+   13,
+   15,
+   17,
+   25
+  ],
+  "pixelFrom": 25,
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   224,
+   423,
+   317
+  ],
+  "url": "https://www.elationlighting.com/products/limelight-par-s",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "limelight-par-l",
+  "model": "Limelight Par L",
+  "kind": "par",
+  "leds": [
+   12,
+   "rgbl"
+  ],
+  "deg": [
+   5,
+   40
+  ],
+  "ch": [
+   4,
+   13,
+   15,
+   17,
+   25
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   248,
+   451,
+   341
+  ],
+  "url": "https://www.elationlighting.com/products/limelight-par-l",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 12 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "volt-par-s",
+  "model": "Volt+ Par S",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   32,
+   32
+  ],
+  "ch": [
+   1,
+   3,
+   6,
+   9,
+   11,
+   14,
+   20
+  ],
+  "size": [
+   156,
+   198,
+   156
+  ],
+  "url": "https://www.elationlighting.com/products/volt-par-s",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "volt-par-l",
+  "model": "Volt+ Par L",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   28,
+   28
+  ],
+  "ch": [
+   1,
+   3,
+   6,
+   9,
+   11,
+   14,
+   20
+  ],
+  "size": [
+   206,
+   236,
+   206
+  ],
+  "url": "https://www.elationlighting.com/products/volt-par-l",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "volt-bar-s",
+  "model": "Volt+ Bar S",
+  "kind": "bar",
+  "leds": [
+   6,
+   "rgbal"
+  ],
+  "deg": [
+   60,
+   60
+  ],
+  "ch": [
+   1,
+   3,
+   6,
+   9,
+   14,
+   17,
+   23,
+   35,
+   36,
+   47,
+   83
+  ],
+  "pixelFrom": 35,
+  "size": [
+   501,
+   226,
+   129
+  ],
+  "url": "https://www.elationlighting.com/products/volt-bar-s",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "s-l-i-acl",
+  "model": "SŌL I ACL",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   4,
+   41
+  ],
+  "ch": [
+   1,
+   4,
+   5,
+   6,
+   7,
+   9,
+   12,
+   14,
+   17,
+   21
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   114,
+   114,
+   294
+  ],
+  "url": "https://www.elationlighting.com/products/sol-i-acl",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "s-l-i-blinder",
+  "model": "SŌL I Blinder",
+  "kind": "blinder",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   95,
+   95
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   6,
+   7,
+   10,
+   13,
+   15,
+   21
+  ],
+  "size": [
+   185,
+   114,
+   114
+  ],
+  "url": "https://www.elationlighting.com/products/sol-i-blinder",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "s-l-ii-blinder",
+  "model": "SŌL II Blinder",
+  "kind": "blinder",
+  "leds": [
+   2,
+   "rgbal"
+  ],
+  "deg": [
+   95,
+   95
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   10,
+   12,
+   16,
+   22,
+   25,
+   37
+  ],
+  "pixelFrom": 10,
+  "size": [
+   420,
+   261,
+   236
+  ],
+  "url": "https://www.elationlighting.com/products/sol-ii-blinder",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "s-l-i-strobe",
+  "model": "SŌL I Strobe",
+  "kind": "strobe",
+  "leds": [
+   8,
+   "cw"
+  ],
+  "deg": [
+   108,
+   108
+  ],
+  "ch": [
+   4,
+   12,
+   23,
+   40,
+   57,
+   80
+  ],
+  "pixelFrom": 12,
+  "size": [
+   195,
+   170,
+   170
+  ],
+  "url": "https://www.elationlighting.com/products/sol-i-strobe",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "paladin-panel",
+  "model": "Paladin Panel",
+  "kind": "blinder",
+  "leds": [
+   50,
+   "rgbw"
+  ],
+  "deg": [
+   25.2,
+   25.2
+  ],
+  "ch": [
+   88
+  ],
+  "size": [
+   531,
+   348,
+   148
+  ],
+  "url": "https://www.elationlighting.com/products/paladin-panel",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "paladin-brick",
+  "model": "Paladin Brick",
+  "kind": "blinder",
+  "leds": [
+   24,
+   "rgbw"
+  ],
+  "deg": [
+   25.3,
+   25.3
+  ],
+  "ch": [
+   56
+  ],
+  "size": [
+   438,
+   286,
+   147
+  ],
+  "url": "https://www.elationlighting.com/products/paladin-brick",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "paladin-cube",
+  "model": "Paladin Cube",
+  "kind": "blinder",
+  "leds": [
+   9,
+   "rgbw"
+  ],
+  "grid": [
+   3,
+   3
+  ],
+  "deg": [
+   30,
+   30
+  ],
+  "ch": [
+   32
+  ],
+  "pixelFrom": 32,
+  "url": "https://www.elationlighting.com/products/paladin-cube",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "cuepix-16ip-dtw",
+  "model": "CUEPIX 16IP DTW",
+  "kind": "blinder",
+  "grid": [
+   4,
+   4
+  ],
+  "deg": [
+   22.6,
+   22.6
+  ],
+  "ch": [
+   64
+  ],
+  "size": [
+   440,
+   440,
+   207
+  ],
+  "url": "https://www.elationlighting.com/products/cuepix-16ip-dtw",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "pulse-panel",
+  "model": "Pulse Panel",
+  "kind": "strobe",
+  "leds": [
+   24,
+   "rgb"
+  ],
+  "deg": [
+   112,
+   112
+  ],
+  "ch": [
+   3,
+   12,
+   22,
+   45,
+   60,
+   88,
+   156,
+   170,
+   178
+  ],
+  "pixelFrom": 88,
+  "size": [
+   420,
+   299,
+   210
+  ],
+  "url": "https://www.elationlighting.com/products/pulse-panel",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "pulse-panel-fx",
+  "model": "Pulse Panel FX",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "deg": [
+   112,
+   112
+  ],
+  "ch": [
+   8,
+   16,
+   27,
+   50,
+   62,
+   65,
+   90,
+   93,
+   156,
+   161,
+   175,
+   183
+  ],
+  "size": [
+   420,
+   396,
+   210
+  ],
+  "url": "https://www.elationlighting.com/products/pulse-panel-fx",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "pulse-bar-s",
+  "model": "Pulse Bar S",
+  "kind": "strobe",
+  "leds": [
+   20,
+   "rgb"
+  ],
+  "ch": [
+   3,
+   11,
+   22,
+   34,
+   52,
+   77,
+   110,
+   124,
+   132
+  ],
+  "pixelFrom": 77,
+  "size": [
+   501,
+   206,
+   200
+  ],
+  "url": "https://www.elationlighting.com/products/pulse-bar-s",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "pulse-bar-l",
+  "model": "Pulse Bar L",
+  "kind": "strobe",
+  "leds": [
+   40,
+   "rgb"
+  ],
+  "ch": [
+   3,
+   11,
+   22,
+   52,
+   92,
+   132,
+   220,
+   234,
+   242
+  ],
+  "pixelFrom": 132,
+  "size": [
+   1000,
+   205,
+   176
+  ],
+  "url": "https://www.elationlighting.com/products/pulse-bar-l",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "tvl-panel-dw",
+  "model": "TVL Panel DW",
+  "kind": "panel",
+  "ch": [
+   7
+  ],
+  "size": [
+   872,
+   691,
+   321
+  ],
+  "url": "https://www.elationlighting.com/products/tvl-panel-dw",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "artiste-davinci",
+  "model": "Artiste DaVinci",
+  "kind": "spot",
+  "deg": [
+   6,
+   48
+  ],
+  "pan": 540,
+  "tilt": 255,
+  "ch": [
+   40
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:14",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.elationlighting.com/products/artiste-davinci",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "artiste-van-gogh",
+  "model": "Artiste Van Gogh",
+  "kind": "wash",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   11,
+   66
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "ch": [
+   22,
+   36
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "zoom"
+  ],
+  "url": "https://www.elationlighting.com/products/artiste-van-gogh",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "proteus-smarty-hybrid",
+  "model": "Proteus Smarty Hybrid",
+  "kind": "hybrid",
+  "deg": [
+   1,
+   18
+  ],
+  "pan": 540,
+  "tilt": 262,
+  "ch": [
+   20,
+   34
+  ],
+  "feat": [
+   "pro",
+   "gobo:14",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.elationlighting.com/products/proteus-smarty-hybrid",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "satura-profile",
+  "model": "Satura Profile",
+  "kind": "profile",
+  "deg": [
+   11,
+   38
+  ],
+  "ch": [
+   33,
+   35,
+   54
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:14",
+   "gobor",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.elationlighting.com/products/satura-profile",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "satura-spot-led-pro",
+  "model": "Satura Spot LED Pro",
+  "kind": "spot",
+  "deg": [
+   14,
+   32
+  ],
+  "ch": [
+   22,
+   24,
+   32
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "gobo:14",
+   "gobor",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.elationlighting.com/products/satura-spot-led-pro",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 3 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "fuze-wash-575",
+  "model": "Fuze Wash 575",
+  "kind": "wash",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   11,
+   40
+  ],
+  "ch": [
+   11
+  ],
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.elationlighting.com/products/fuze-wash-575",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "fuze-profile-cw",
+  "model": "Fuze Profile CW",
+  "kind": "profile",
+  "deg": [
+   9,
+   43
+  ],
+  "ch": [
+   26,
+   40
+  ],
+  "feat": [
+   "pro",
+   "gobo:14",
+   "gobor",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.elationlighting.com/products/fuze-profile-cw",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "platinum-flx",
+  "model": "Platinum FLX",
+  "kind": "hybrid",
+  "deg": [
+   1.8,
+   18
+  ],
+  "ch": [
+   24,
+   26,
+   37
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "gobo:14",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.elationlighting.com/products/platinum-flx",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 3 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "platinum-sbx",
+  "model": "Platinum SBX",
+  "kind": "hybrid",
+  "deg": [
+   3,
+   18
+  ],
+  "ch": [
+   16,
+   18,
+   25
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "gobo:14",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.elationlighting.com/products/platinum-sbx",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 3 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "platinum-bx",
+  "model": "Platinum BX",
+  "kind": "beam",
+  "ch": [
+   14,
+   16,
+   22
+  ],
+  "feat": [
+   "pro",
+   "gobo:14",
+   "prism",
+   "frost"
+  ],
+  "url": "https://www.elationlighting.com/products/platinum-bx",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 3 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "platinum-beam-5r-extreme",
+  "model": "Platinum Beam 5R Extreme",
+  "kind": "beam",
+  "pan": 540,
+  "tilt": 630,
+  "ch": [
+   12,
+   14,
+   18
+  ],
+  "feat": [
+   "pro",
+   "gobo:14",
+   "prism",
+   "frost"
+  ],
+  "url": "https://www.elationlighting.com/products/platinum-beam-5r-extreme",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 3 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "platinum-wash-16r-pro",
+  "model": "Platinum Wash 16R Pro",
+  "kind": "wash",
+  "deg": [
+   3,
+   14
+  ],
+  "ch": [
+   17,
+   19,
+   26
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "zoom"
+  ],
+  "url": "https://www.elationlighting.com/products/platinum-wash-16r-pro",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 3 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "platinum-profile-35-pro",
+  "model": "Platinum Profile 35 Pro",
+  "kind": "profile",
+  "deg": [
+   8,
+   50
+  ],
+  "ch": [
+   36,
+   38,
+   59
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:14",
+   "gobor",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.elationlighting.com/products/platinum-profile-35-pro",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "platinum-spot-35-pro",
+  "model": "Platinum Spot 35 Pro",
+  "kind": "spot",
+  "deg": [
+   8,
+   50
+  ],
+  "ch": [
+   27,
+   29,
+   41
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:14",
+   "gobor",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.elationlighting.com/products/platinum-spot-35-pro",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 3 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "platinum-spot-led-pro-ii",
+  "model": "Platinum Spot LED Pro II",
+  "kind": "spot",
+  "deg": [
+   15,
+   33
+  ],
+  "ch": [
+   15,
+   17,
+   22
+  ],
+  "feat": [
+   "pro",
+   "gobo:14",
+   "gobor",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.elationlighting.com/products/platinum-spot-led-pro-ii",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 3 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "rayzor-q12-zoom",
+  "model": "Rayzor Q12 Zoom",
+  "kind": "wash",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "deg": [
+   13,
+   29
+  ],
+  "ch": [
+   17,
+   20,
+   28
+  ],
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.elationlighting.com/products/rayzor-q12-zoom",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 3 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "rayzor-360z",
+  "model": "Rayzor 360Z",
+  "kind": "wash",
+  "leds": [
+   3,
+   "rgbw"
+  ],
+  "deg": [
+   8,
+   77
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   20,
+   26,
+   32
+  ],
+  "pixelFrom": 20,
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.elationlighting.com/products/rayzor-360z",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 3 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "rayzor-beam-2r",
+  "model": "Rayzor Beam 2R",
+  "kind": "beam",
+  "pan": 540,
+  "tilt": 630,
+  "ch": [
+   10,
+   12,
+   16
+  ],
+  "feat": [
+   "pro",
+   "gobo:14",
+   "prism"
+  ],
+  "url": "https://www.elationlighting.com/products/rayzor-beam-2r",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 3 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "sniper-pro",
+  "model": "Sniper Pro",
+  "kind": "effect",
+  "ch": [
+   2,
+   25,
+   27
+  ],
+  "feat": [
+   "gobo:8",
+   "prism"
+  ],
+  "size": [
+   353,
+   351,
+   408
+  ],
+  "url": "https://www.elationlighting.com/products/sniper-pro",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "acl-360-bar",
+  "model": "ACL 360 Bar",
+  "kind": "tiltbar",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "ch": [
+   17,
+   19,
+   43
+  ],
+  "pixelFrom": 43,
+  "feat": [
+   "pro"
+  ],
+  "url": "https://www.elationlighting.com/products/acl-360-bar",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 3 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "acl-360-matrix",
+  "model": "ACL 360 Matrix",
+  "kind": "matrixhead",
+  "leds": [
+   25,
+   "rgbw"
+  ],
+  "ch": [
+   17,
+   19,
+   115
+  ],
+  "pixelFrom": 115,
+  "feat": [
+   "pro"
+  ],
+  "url": "https://www.elationlighting.com/products/acl-360-matrix",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 3 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "acl-360i",
+  "model": "ACL 360i",
+  "kind": "beam",
+  "ch": [
+   16,
+   18,
+   20
+  ],
+  "feat": [
+   "pro"
+  ],
+  "url": "https://www.elationlighting.com/products/acl-360i",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 3 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "zcl-360-bar",
+  "model": "ZCL 360 Bar",
+  "kind": "tiltbar",
+  "leds": [
+   5,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   44
+  ],
+  "ch": [
+   37
+  ],
+  "pixelFrom": 37,
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.elationlighting.com/products/zcl-360-bar",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "cuepix-panel",
+  "model": "CUEPIX Panel",
+  "kind": "blinder",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   60,
+   60
+  ],
+  "ch": [
+   3,
+   6,
+   7,
+   75,
+   79
+  ],
+  "size": [
+   650,
+   630,
+   130
+  ],
+  "url": "https://www.elationlighting.com/products/cuepix-panel",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "cuepix-16ip",
+  "model": "CUEPIX 16IP",
+  "kind": "blinder",
+  "leds": [
+   16,
+   "rgba"
+  ],
+  "grid": [
+   4,
+   4
+  ],
+  "deg": [
+   62,
+   62
+  ],
+  "ch": [
+   128
+  ],
+  "size": [
+   440,
+   440,
+   206
+  ],
+  "url": "https://www.elationlighting.com/products/cuepix-16ip",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "protron-3k-color",
+  "model": "Protron 3K Color",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "rgbw"
+  ],
+  "deg": [
+   63,
+   63
+  ],
+  "ch": [
+   3,
+   4,
+   5,
+   7,
+   8
+  ],
+  "size": [
+   506,
+   357,
+   150
+  ],
+  "url": "https://www.elationlighting.com/products/protron-3k-color-led-strobe",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "protron-eclypse",
+  "model": "Protron Eclypse",
+  "kind": "strobe",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   31,
+   31
+  ],
+  "ch": [
+   24
+  ],
+  "size": [
+   633,
+   365,
+   178
+  ],
+  "url": "https://www.elationlighting.com/products/protron-eclypse",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "zw37",
+  "model": "ZW37",
+  "kind": "wash",
+  "leds": [
+   37,
+   "rgbw"
+  ],
+  "deg": [
+   10,
+   60
+  ],
+  "pan": 540,
+  "tilt": 220,
+  "ch": [
+   14,
+   22,
+   42
+  ],
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.elationlighting.com/products/zw37",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 3 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "arena-zoom-q7ip",
+  "model": "Arena Zoom Q7IP",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   7,
+   40
+  ],
+  "ch": [
+   12
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   245,
+   197,
+   316
+  ],
+  "url": "https://www.elationlighting.com/products/arena-zoom-q7ip",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "dtw-bar-1000",
+  "model": "DTW Bar 1000",
+  "kind": "bar",
+  "leds": [
+   12,
+   "wwcw"
+  ],
+  "deg": [
+   20,
+   20
+  ],
+  "ch": [
+   72
+  ],
+  "size": [
+   900,
+   206,
+   155
+  ],
+  "url": "https://www.elationlighting.com/products/dtw-bar-1000",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "dw-profile",
+  "model": "DW Profile",
+  "kind": "ellipsoidal",
+  "deg": [
+   17,
+   27
+  ],
+  "ch": [
+   2,
+   3,
+   7,
+   8
+  ],
+  "feat": [
+   "blades"
+  ],
+  "size": [
+   325,
+   458,
+   764
+  ],
+  "url": "https://www.elationlighting.com/products/dw-profile",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "ww-profile",
+  "model": "WW Profile",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "ch": [
+   1,
+   4
+  ],
+  "feat": [
+   "blades"
+  ],
+  "size": [
+   310,
+   398,
+   618
+  ],
+  "url": "https://www.elationlighting.com/products/ww-profile",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Elation",
+  "key": "tvl-softlight-dw",
+  "model": "TVL Softlight DW",
+  "kind": "panel",
+  "ch": [
+   7
+  ],
+  "size": [
+   673,
+   425,
+   315
+  ],
+  "url": "https://www.elationlighting.com/products/tvl-softlight-dw",
+  "note": "Steckbrief aus Herstellerangaben (elationlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

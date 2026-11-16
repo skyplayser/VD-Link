@@ -1,0 +1,1481 @@
+[
+ {
+  "manufacturer": "SGM",
+  "model": "Q-8",
+  "kind": "strobe",
+  "light": "880 x RGB + 880 x weiß 5700 K (Panel) + 52 x weiß 7000 K (2 Blinder-Linien)",
+  "beamDeg": [
+   107,
+   140
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   10,
+   12,
+   27,
+   34,
+   36,
+   41,
+   52
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "Panel + 2 lineare Blinder (je 8 Segmente)",
+  "sizeMm": [
+   520,
+   320,
+   166
+  ],
+  "weightKg": 13.5,
+  "url": "https://www.sgmlighting.com/products/q%C2%B78",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "vd:sgm/q-8",
+  "notes": "IP66, DualSource Strobe/Flood/Blinder"
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "Q-7",
+  "kind": "strobe",
+  "light": "RGBW-LEDs (IP65)",
+  "beamDeg": [
+   146,
+   146
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   4,
+   6,
+   8,
+   9,
+   10
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   497,
+   268,
+   122
+  ],
+  "weightKg": 8.1,
+  "url": "https://www.sgmlighting.com/products/q%C2%B77",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "vd:sgm/q-7",
+  "notes": null
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "Q-7 W",
+  "kind": "strobe",
+  "light": "LED weiß (IP65)",
+  "beamDeg": [
+   156,
+   156
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   4,
+   6,
+   8
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   497,
+   268,
+   122
+  ],
+  "weightKg": 8.1,
+  "url": "https://www.sgmlighting.com/products/q%C2%B77-w",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "Q-2",
+  "kind": "strobe",
+  "light": "RGBW-LEDs (IP65)",
+  "beamDeg": [
+   154,
+   154
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   6,
+   9,
+   12,
+   15,
+   22
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   334,
+   223,
+   105
+  ],
+  "weightKg": 6,
+  "url": "https://www.sgmlighting.com/products/q%C2%B72",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "vd:sgm/q-2",
+  "notes": null
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "Q-2 W",
+  "kind": "strobe",
+  "light": "LED weiß (IP65)",
+  "beamDeg": [
+   152,
+   152
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   6,
+   12,
+   14,
+   24
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   334,
+   223,
+   105
+  ],
+  "weightKg": 6,
+  "url": "https://www.sgmlighting.com/products/q%C2%B72-w",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "Q-10",
+  "kind": "strobe",
+  "light": null,
+  "beamDeg": [
+   146,
+   146
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   8,
+   10,
+   27,
+   30
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   702,
+   402,
+   206
+  ],
+  "weightKg": 19.8,
+  "url": "https://www.sgmlighting.com/products/q%C2%B710",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "P-1",
+  "kind": "flood",
+  "light": "RGBW (Akkubetrieb)",
+  "beamDeg": [
+   22,
+   22
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   4,
+   6,
+   9,
+   11,
+   16
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   334,
+   255,
+   119
+  ],
+  "weightKg": 5.7,
+  "url": "https://www.sgmlighting.com/products/p%C2%B71",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65, Akku"
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "P-2",
+  "kind": "flood",
+  "light": "RGBW (IP65)",
+  "beamDeg": [
+   77,
+   77
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   6,
+   9,
+   12,
+   15,
+   22
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   334,
+   223,
+   105
+  ],
+  "weightKg": 6.1,
+  "url": "https://www.sgmlighting.com/products/p%C2%B72",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Linsenkits 15°/21°/43°"
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "P-5",
+  "kind": "flood",
+  "light": "RGBW (IP65)",
+  "beamDeg": [
+   76,
+   76
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   4,
+   6,
+   8,
+   9,
+   10
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   497,
+   268,
+   122
+  ],
+  "weightKg": 8.9,
+  "url": "https://www.sgmlighting.com/products/p%C2%B75",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "ofl:sgm/p-5",
+  "notes": "Linsenkits 15°/21°/43°"
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "P-5 W",
+  "kind": "flood",
+  "light": "LED weiß (IP65)",
+  "beamDeg": [
+   54,
+   54
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   497,
+   268,
+   122
+  ],
+  "weightKg": 8.9,
+  "url": "https://www.sgmlighting.com/products/p%C2%B75-w",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "P-5 TW",
+  "kind": "flood",
+  "light": "LED variabel weiß (IP65)",
+  "beamDeg": [
+   79,
+   79
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   4,
+   6,
+   8
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   497,
+   268,
+   122
+  ],
+  "weightKg": 8.9,
+  "url": "https://www.sgmlighting.com/products/p%C2%B75-tw",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "P-6",
+  "kind": "flood",
+  "light": null,
+  "beamDeg": [
+   20,
+   20
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   6,
+   8,
+   9,
+   10,
+   18,
+   21,
+   24,
+   26,
+   27,
+   40
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   508,
+   320,
+   166
+  ],
+  "weightKg": 14.5,
+  "url": "https://www.sgmlighting.com/products/p%C2%B76",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "vd:sgm/p-6",
+  "notes": "IP66"
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "P-10",
+  "kind": "flood",
+  "light": null,
+  "beamDeg": [
+   22,
+   22
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   6,
+   8,
+   9,
+   10,
+   21,
+   27,
+   30,
+   32,
+   35,
+   52
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   702,
+   402,
+   206
+  ],
+  "weightKg": 20.9,
+  "url": "https://www.sgmlighting.com/products/p%C2%B710",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP66"
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "i-2 RGBW",
+  "kind": "bar",
+  "light": "RGBW (IP65)",
+  "beamDeg": [
+   17,
+   17
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   4,
+   6,
+   8
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   334,
+   223,
+   105
+  ],
+  "weightKg": 6.1,
+  "url": "https://www.sgmlighting.com/products/i%C2%B72-rgbw",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Wall-Washer/Linear"
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "i-5 RGBW",
+  "kind": "bar",
+  "light": "RGBW (IP65)",
+  "beamDeg": [
+   17,
+   17
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   4,
+   6,
+   8,
+   9,
+   10
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   497,
+   268,
+   122
+  ],
+  "weightKg": 8.9,
+  "url": "https://www.sgmlighting.com/products/i%C2%B75-rgbw",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "i-6",
+  "kind": "bar",
+  "light": "RGBW (IP66)",
+  "beamDeg": [
+   4.2,
+   4.2
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   4,
+   6,
+   8,
+   10,
+   22
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   497,
+   166,
+   305
+  ],
+  "weightKg": 15,
+  "url": "https://www.sgmlighting.com/products/i%C2%B76",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "i-6 White",
+  "kind": "bar",
+  "light": "LED weiß 5400 K",
+  "beamDeg": [
+   4.2,
+   4.2
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   497,
+   166,
+   305
+  ],
+  "weightKg": 15,
+  "url": "https://www.sgmlighting.com/products/i%C2%B76-white",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "S-4",
+  "kind": "fresnel",
+  "light": null,
+  "beamDeg": [
+   9,
+   76
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   13
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   147,
+   422,
+   210
+  ],
+  "weightKg": 6.95,
+  "url": "https://www.sgmlighting.com/products/s%C2%B74",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65 Fresnel"
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "Palco 3 Wash",
+  "kind": "wash",
+  "light": null,
+  "beamDeg": [
+   23,
+   23
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   356,
+   268,
+   183
+  ],
+  "weightKg": 7.5,
+  "url": "https://www.sgmlighting.com/products/palco-3-wash",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "statischer IP-Wash (Theater/TV)"
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "Palco 6 Wash",
+  "kind": "wash",
+  "light": null,
+  "beamDeg": [
+   24,
+   24
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   498,
+   318,
+   232
+  ],
+  "weightKg": 13,
+  "url": "https://www.sgmlighting.com/products/palco-6-wash",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "Palco 12 Wash",
+  "kind": "wash",
+  "light": null,
+  "beamDeg": [
+   27,
+   27
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   642,
+   326,
+   165
+  ],
+  "weightKg": 24,
+  "url": "https://www.sgmlighting.com/products/palco-12-wash",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "Palco Z-FX",
+  "kind": "wash",
+  "light": null,
+  "beamDeg": [
+   3,
+   55
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   491,
+   310,
+   218
+  ],
+  "weightKg": 21.7,
+  "url": "https://www.sgmlighting.com/products/palco-z-fx",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "X-5",
+  "kind": "strobe",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   4,
+   6,
+   7
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   500,
+   270,
+   90
+  ],
+  "weightKg": 6.7,
+  "url": "https://www.sgmlighting.com/products/x%C2%B75",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "XC-5",
+  "kind": "strobe",
+  "light": null,
+  "beamDeg": [
+   120,
+   120
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   4,
+   6,
+   7
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   500,
+   270,
+   90
+  ],
+  "weightKg": 6.7,
+  "url": "https://www.sgmlighting.com/products/xc%C2%B75",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65, Farbe"
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "P-3 Wash",
+  "kind": "flood",
+  "light": null,
+  "beamDeg": [
+   10,
+   10
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   31
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   290,
+   252,
+   124
+  ],
+  "weightKg": 8.1,
+  "url": "https://www.sgmlighting.com/products/p-3-wash",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "P-3 Vision",
+  "kind": "flood",
+  "light": null,
+  "beamDeg": [
+   10,
+   10
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   7,
+   128
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   290,
+   252,
+   124
+  ],
+  "weightKg": 8.3,
+  "url": "https://www.sgmlighting.com/products/p-3-vision",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "SixPack",
+  "kind": "tiltbar",
+  "light": "6 x RGBA (einzeln steuerbar)",
+  "beamDeg": [
+   32,
+   32
+  ],
+  "pan": null,
+  "tilt": 110,
+  "channels": [
+   6,
+   7,
+   18,
+   22,
+   24,
+   28,
+   48,
+   53
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "6 linear",
+  "sizeMm": [
+   750,
+   107,
+   175
+  ],
+  "weightKg": 11,
+  "url": "https://www.sgmlighting.com/products/sixpack",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "Touring VPL 305-20",
+  "kind": "bar",
+  "light": null,
+  "beamDeg": [
+   151,
+   151
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   6,
+   12,
+   24,
+   48,
+   96
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   298,
+   52,
+   38
+  ],
+  "weightKg": 0.95,
+  "url": "https://www.sgmlighting.com/products/touring-vpl-305-20",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Video-Pixel-Linie 0,3 m"
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "Touring VPL 610-20",
+  "kind": "bar",
+  "light": null,
+  "beamDeg": [
+   151,
+   151
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   6,
+   12,
+   24,
+   48,
+   96,
+   192
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   602,
+   52,
+   38
+  ],
+  "weightKg": 1.25,
+  "url": "https://www.sgmlighting.com/products/touring-vpl-610-20",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Video-Pixel-Linie 0,6 m"
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "Touring VPL 1220-20",
+  "kind": "bar",
+  "light": null,
+  "beamDeg": [
+   151,
+   151
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   6,
+   12,
+   24,
+   48,
+   96,
+   192,
+   384
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1212,
+   52,
+   38
+  ],
+  "weightKg": 2,
+  "url": "https://www.sgmlighting.com/products/touring-vpl-1220-20",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Video-Pixel-Linie 1,2 m"
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "Genio Beam",
+  "kind": "beam",
+  "light": null,
+  "beamDeg": [
+   2,
+   33
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   231,
+   353,
+   231
+  ],
+  "weightKg": 8.15,
+  "url": "https://www.sgmlighting.com/products/genio-beam",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Akku-Effekt"
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "Genio PixelBar",
+  "kind": "bar",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   90,
+   129
+  ],
+  "weightKg": 8.5,
+  "url": "https://www.sgmlighting.com/products/genio-pixelbar",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "Genio BlinderDot",
+  "kind": "blinder",
+  "light": null,
+  "beamDeg": [
+   90,
+   90
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   160,
+   213,
+   160
+  ],
+  "weightKg": 3.5,
+  "url": "https://www.sgmlighting.com/products/genio-blinderdot",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "G-7 Spot",
+  "kind": "spot",
+  "light": "LED weiß 6500 K",
+  "beamDeg": [
+   6,
+   39
+  ],
+  "pan": 620,
+  "tilt": 240,
+  "channels": [
+   22,
+   29
+  ],
+  "features": [
+   "gobo-rot",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   433,
+   622,
+   370
+  ],
+  "weightKg": 27,
+  "url": "https://www.sgmlighting.com/products/g%C2%B77-spot",
+  "manualUrl": null,
+  "status": null,
+  "inLibrary": null,
+  "notes": "IP66"
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "G-7 Beast",
+  "kind": "beam",
+  "light": null,
+  "beamDeg": null,
+  "pan": 620,
+  "tilt": 185,
+  "channels": [
+   18,
+   22,
+   29,
+   35
+  ],
+  "features": [
+   "gobo-static",
+   "prism"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   370,
+   604,
+   432
+  ],
+  "weightKg": 30,
+  "url": "https://www.sgmlighting.com/products/g%C2%B77-beast",
+  "manualUrl": null,
+  "status": null,
+  "inLibrary": null,
+  "notes": "IP66"
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "G-Spot",
+  "kind": "spot",
+  "light": "RGB High-Power LED (IP65)",
+  "beamDeg": [
+   8,
+   43
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   24,
+   30
+  ],
+  "features": [
+   "gobo-rot",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   470,
+   805,
+   492
+  ],
+  "weightKg": 52,
+  "url": "https://www.sgmlighting.com/products/g%C2%B7spot",
+  "manualUrl": null,
+  "status": null,
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "G-Profile",
+  "kind": "profile",
+  "light": "RGB High-Power LED (IP65)",
+  "beamDeg": [
+   8,
+   43
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   31,
+   46
+  ],
+  "features": [
+   "gobo-rot",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   470,
+   805,
+   492
+  ],
+  "weightKg": 52,
+  "url": "https://www.sgmlighting.com/products/g%C2%B7profile",
+  "manualUrl": null,
+  "status": null,
+  "inLibrary": "qlc:sgm/g-profile",
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "G-Profile Turbo",
+  "kind": "profile",
+  "light": "RLB LED (Rot/Lime/Blau, IP65)",
+  "beamDeg": [
+   8,
+   43
+  ],
+  "pan": null,
+  "tilt": 270,
+  "channels": [
+   31,
+   32,
+   46,
+   47
+  ],
+  "features": [
+   "gobo-rot",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   470,
+   805,
+   492
+  ],
+  "weightKg": 52,
+  "url": "https://www.sgmlighting.com/products/g%C2%B7profile-turbo",
+  "manualUrl": null,
+  "status": null,
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "G-Wash",
+  "kind": "wash",
+  "light": "RGB Fresnel-LED (IP65)",
+  "beamDeg": [
+   9,
+   73
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   16,
+   19
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   585,
+   821,
+   492
+  ],
+  "weightKg": 49,
+  "url": "https://www.sgmlighting.com/products/g%C2%B7wash",
+  "manualUrl": null,
+  "status": null,
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "G-4 Wash",
+  "kind": "wash",
+  "light": null,
+  "beamDeg": [
+   9,
+   76
+  ],
+  "pan": 360,
+  "tilt": 220,
+  "channels": [
+   18
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   219,
+   465,
+   255
+  ],
+  "weightKg": 10,
+  "url": "https://www.sgmlighting.com/products/g%C2%B74-wash",
+  "manualUrl": null,
+  "status": null,
+  "inLibrary": null,
+  "notes": "IP66"
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "G-4 Wash Beam",
+  "kind": "wash",
+  "light": null,
+  "beamDeg": [
+   4.8,
+   34
+  ],
+  "pan": 360,
+  "tilt": 220,
+  "channels": [
+   18
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   219,
+   537,
+   255
+  ],
+  "weightKg": 10,
+  "url": "https://www.sgmlighting.com/products/g%C2%B74-wash-beam",
+  "manualUrl": null,
+  "status": null,
+  "inLibrary": null,
+  "notes": "IP66"
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "G-1 Wash",
+  "kind": "wash",
+  "light": null,
+  "beamDeg": [
+   8,
+   8
+  ],
+  "pan": 360,
+  "tilt": 240,
+  "channels": [
+   13
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   219,
+   382,
+   255
+  ],
+  "weightKg": 8.9,
+  "url": "https://www.sgmlighting.com/products/g%C2%B71-wash",
+  "manualUrl": null,
+  "status": null,
+  "inLibrary": null,
+  "notes": "Akku-Moving-Head"
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "G-1 Beam",
+  "kind": "beam",
+  "light": null,
+  "beamDeg": [
+   0.3,
+   0.3
+  ],
+  "pan": 360,
+  "tilt": 240,
+  "channels": [
+   12
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   219,
+   382,
+   255
+  ],
+  "weightKg": 8.9,
+  "url": "https://www.sgmlighting.com/products/g%C2%B71-beam",
+  "manualUrl": null,
+  "status": null,
+  "inLibrary": null,
+  "notes": "Akku-Moving-Head"
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "Idea Spot 700",
+  "kind": "spot",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "colorwheel",
+   "gobo-rot",
+   "prism",
+   "iris",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:sgm/idea-spot-700",
+  "notes": null
+ },
+ {
+  "manufacturer": "SGM",
+  "model": "Giotto Spot 400 CMY",
+  "kind": "spot",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "cmy",
+   "gobo-rot",
+   "prism",
+   "iris",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:sgm/giotto-spot-400-cmy",
+  "notes": null
+ }
+]

@@ -1,0 +1,5536 @@
+[
+ {
+  "manufacturer": "JB Systems",
+  "model": "ACCU COLOR-BLACK",
+  "kind": "par",
+  "light": "LED, Amber, RGBWA, 60 W Aufnahme",
+  "beamDeg": [
+   22.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   10
+  ],
+  "features": [
+   "battery/wireless"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   167,
+   138,
+   185
+  ],
+  "weightKg": 4.14,
+  "url": "https://jb-systems.eu/accu-color-black",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1764323141.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "ACCU COLOR-WHITE",
+  "kind": "par",
+  "light": "LED, Amber, RGBWA, 60 W Aufnahme",
+  "beamDeg": [
+   22.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   10
+  ],
+  "features": [
+   "battery/wireless"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   167,
+   138,
+   185
+  ],
+  "weightKg": 4.14,
+  "url": "https://jb-systems.eu/accu-color",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1764323141.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "ACCU DECOLITE IP",
+  "kind": "par",
+  "light": "LED, RGBW, 15 W Aufnahme",
+  "beamDeg": [
+   10.0,
+   10.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   10
+  ],
+  "features": [
+   "battery/wireless",
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   172,
+   138,
+   62
+  ],
+  "weightKg": 1.61,
+  "url": "https://jb-systems.eu/accu-decolite-ip",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1764326389.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "ACCU DECOLITE IP BALL 25CM",
+  "kind": "effect",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "battery/wireless",
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 0.61,
+  "url": "https://jb-systems.eu/accu-decolite-ip-ball-25cm",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "ACCU DECOLITE IP TUBE 100CM",
+  "kind": "tube",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "battery/wireless"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 0.42,
+  "url": "https://jb-systems.eu/accu-decolite-ip-tube-100cm",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "ACCU DECOLITE IP TUBE 150CM",
+  "kind": "tube",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "battery/wireless"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 0.63,
+  "url": "https://jb-systems.eu/accu-decolite-ip-tube-150cm",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "ACCU DECOLITE IP TUBE 50CM",
+  "kind": "tube",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "battery/wireless"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 0.25,
+  "url": "https://jb-systems.eu/accu-decolite-ip-tube-50cm",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "ACCU MINI-PAR 12TC Mk2",
+  "kind": "par",
+  "light": "LED, RGB, 10 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   5
+  ],
+  "features": [
+   "battery/wireless"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   150,
+   160,
+   90
+  ],
+  "weightKg": 0.6,
+  "url": "https://jb-systems.eu/accu-mini-par-12tc-mk2",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1668008535.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "ACCU-COMPACT",
+  "kind": "par",
+  "light": "LED, Amber, RGBWA, 60 W Aufnahme",
+  "beamDeg": [
+   25.0,
+   40.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   10
+  ],
+  "features": [
+   "battery/wireless",
+   "frost"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   165,
+   138,
+   129
+  ],
+  "weightKg": 2.0,
+  "url": "https://jb-systems.eu/accu-compact",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1764326944.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "ACCU-LIGHTBAR",
+  "kind": "bar",
+  "light": "LED, White, 25 W Aufnahme",
+  "beamDeg": [
+   9.0,
+   9.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "battery/wireless",
+   "frost"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   360,
+   170,
+   70
+  ],
+  "weightKg": 1.78,
+  "url": "https://jb-systems.eu/accu-lightbar",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1634905376.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "ALIEN",
+  "kind": "effect",
+  "light": "LED, Red, Green, Blue, White, UV, Amber, 70 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   28
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   340,
+   310,
+   190
+  ],
+  "weightKg": 3.12,
+  "url": "https://jb-systems.eu/alien",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1622621386.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "CAM-LITE 200",
+  "kind": "ellipsoidal",
+  "light": "LED, White cold, White warm, 210 W Aufnahme",
+  "beamDeg": [
+   110.0,
+   110.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   4
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   550,
+   270,
+   125
+  ],
+  "weightKg": 9.0,
+  "url": "https://jb-systems.eu/cam-lite-200",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1634281337.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "CAM-SPOT 30TW",
+  "kind": "par",
+  "light": "COB, White cold, White warm, 35 W Aufnahme",
+  "beamDeg": [
+   30.0,
+   30.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   191,
+   133,
+   261
+  ],
+  "weightKg": 2.46,
+  "url": "https://jb-systems.eu/cam-spot-30tw",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1645523684.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "CAM-SPOT 50TW",
+  "kind": "par",
+  "light": "LED, White cold, White warm, 52 W Aufnahme",
+  "beamDeg": [
+   14.0,
+   22.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   4
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   196,
+   289,
+   199
+  ],
+  "weightKg": 2.7,
+  "url": "https://jb-systems.eu/cam-spot-50tw",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1669883192.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "CHALLENGER BEAM",
+  "kind": "beam",
+  "light": "LED, 285 W Aufnahme",
+  "beamDeg": [
+   3.0,
+   3.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   27
+  ],
+  "features": [
+   "focus",
+   "frost",
+   "gobos-fixed:13",
+   "prism"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   330,
+   245,
+   453
+  ],
+  "weightKg": 14.5,
+  "url": "https://jb-systems.eu/challenger-beam",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1757081502.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "CHALLENGER WASH",
+  "kind": "wash",
+  "light": "LED, RGBW, 320 W Aufnahme",
+  "beamDeg": [
+   5.0,
+   60.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   43
+  ],
+  "features": [
+   "pixel-control",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   292,
+   244,
+   417
+  ],
+  "weightKg": 10.0,
+  "url": "https://jb-systems.eu/challenger-wash",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1701244763.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "CLUBSPOT",
+  "kind": "spot",
+  "light": "LED, 60 W Aufnahme",
+  "beamDeg": [
+   12.0,
+   12.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   11
+  ],
+  "features": [
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   285,
+   205,
+   167
+  ],
+  "weightKg": 3.33,
+  "url": "https://jb-systems.eu/clubspot",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1542708931.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "CLUBWASH 2",
+  "kind": "wash",
+  "light": "LED, UV, Amber, RGBWA+UV, 160 W Aufnahme",
+  "beamDeg": [
+   25.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   15
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   260,
+   165,
+   205
+  ],
+  "weightKg": 3.41,
+  "url": "https://jb-systems.eu/clubwash-2",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1575456587.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "CLUBWASH MINI",
+  "kind": "wash",
+  "light": "LED, UV, Amber, RGBWA+UV, 60 W Aufnahme",
+  "beamDeg": [
+   25.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   15
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   139,
+   183,
+   143
+  ],
+  "weightKg": 1.61,
+  "url": "https://jb-systems.eu/clubwash-mini",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1575461289.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "DELUSION",
+  "kind": "effect",
+  "light": "LED, 122 W Aufnahme",
+  "beamDeg": [
+   80.0,
+   80.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   7
+  ],
+  "features": [
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   308,
+   186,
+   199
+  ],
+  "weightKg": 3.8,
+  "url": "https://jb-systems.eu/delusion",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1676633423.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "EXPLORER SPOT",
+  "kind": "spot",
+  "light": "LED, 150 W Aufnahme",
+  "beamDeg": [
+   11.0,
+   17.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   18
+  ],
+  "features": [
+   "focus",
+   "gobos-rot:6",
+   "prism",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   235,
+   166,
+   374
+  ],
+  "weightKg": 7.7,
+  "url": "https://jb-systems.eu/explorer-spot",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1697531682.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "EZ-SPOT15 OUTDOOR RGBW",
+  "kind": "par",
+  "light": "LED, RGBW, 15 W Aufnahme",
+  "beamDeg": [
+   10.0,
+   10.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   152,
+   133,
+   90
+  ],
+  "weightKg": 1.31,
+  "url": "https://jb-systems.eu/ez-spot15-outdoor",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1516635603.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "EZ-SPOT15 WW OUTDOOR",
+  "kind": "par",
+  "light": "LED, White warm, 15 W Aufnahme",
+  "beamDeg": [
+   10.0,
+   10.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 1.31,
+  "url": "https://jb-systems.eu/ez-spot15-ww-outdoor",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1525100830.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "HEXAGON 3D",
+  "kind": "par",
+  "light": "LED, RGB, 50 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   9
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   404,
+   352,
+   97
+  ],
+  "weightKg": 3.72,
+  "url": "https://jb-systems.eu/hexagon-3d",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1539939947.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "INTRUDER",
+  "kind": "wash",
+  "light": "LED, RGBW, 280 W Aufnahme",
+  "beamDeg": [
+   5.0,
+   30.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   7,
+   21
+  ],
+  "features": [
+   "focus",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   172,
+   250,
+   340
+  ],
+  "weightKg": 6.0,
+  "url": "https://jb-systems.eu/intruder",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1731499302.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "INVADER",
+  "kind": "effect",
+  "light": "LED, Red, Green, Blue, White, 66 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   9
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   240,
+   220,
+   110
+  ],
+  "weightKg": 3.75,
+  "url": "https://jb-systems.eu/invader",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1704961800.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "KINETIC",
+  "kind": "effect",
+  "light": "LED, RGBW, 80 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   21
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   220,
+   220,
+   170
+  ],
+  "weightKg": 2.35,
+  "url": "https://jb-systems.eu/kinetic",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1760697845.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED GLOBE",
+  "kind": "effect",
+  "light": "LED, RGBW, 60 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   19
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   400,
+   400,
+   510
+  ],
+  "weightKg": 4.23,
+  "url": "https://jb-systems.eu/led-globe",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1537792646.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED PAR12-6in1",
+  "kind": "par",
+  "light": "LED, Red, Green, Blue, UV, Amber, Lime, RGBAL, 107 W Aufnahme",
+  "beamDeg": [
+   17.0,
+   17.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   9
+  ],
+  "features": [
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   340,
+   270,
+   220
+  ],
+  "weightKg": 3.47,
+  "url": "https://jb-systems.eu/led-par12-6in1",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1728052925.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED PAR64FC ZOOM",
+  "kind": "par",
+  "light": "COB, Lime, RGBL, 154 W Aufnahme",
+  "beamDeg": [
+   9.0,
+   30.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   7
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   470,
+   270,
+   220
+  ],
+  "weightKg": 3.41,
+  "url": "https://jb-systems.eu/led-par64fc-zoom",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1730127461.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED PLANO 6in1",
+  "kind": "effect",
+  "light": "LED, UV, Amber, RGBWA, RGBWA+UV, 50 W Aufnahme",
+  "beamDeg": [
+   30.0,
+   30.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   9
+  ],
+  "features": [
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   210,
+   130,
+   230
+  ],
+  "weightKg": 2.83,
+  "url": "https://jb-systems.eu/led-plano-6in1",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1504175243.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED PLANO 7FC-BLACK",
+  "kind": "effect",
+  "light": "LED, RGBW, 38 W Aufnahme",
+  "beamDeg": [
+   30.0,
+   30.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   7
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   210,
+   120,
+   220
+  ],
+  "weightKg": 2.35,
+  "url": "https://jb-systems.eu/led-plano-7fc-black",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1483696636.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED PLANO 7FC-WHITE",
+  "kind": "effect",
+  "light": "LED, RGBW, 38 W Aufnahme",
+  "beamDeg": [
+   30.0,
+   30.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   7
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   210,
+   120,
+   220
+  ],
+  "weightKg": 2.35,
+  "url": "https://jb-systems.eu/led-plano-7fc-white",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1483696636.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED PLANO12-6in1",
+  "kind": "effect",
+  "light": "LED, UV, Amber, Lime, RGBAL, 107 W Aufnahme",
+  "beamDeg": [
+   17.0,
+   17.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   9
+  ],
+  "features": [
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   310,
+   285,
+   115
+  ],
+  "weightKg": 3.6,
+  "url": "https://jb-systems.eu/led-plano12-6in1",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1760708082.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED PLANO5-6in1",
+  "kind": "effect",
+  "light": "LED, UV, Amber, Lime, RGBAL, 50 W Aufnahme",
+  "beamDeg": [
+   17.0,
+   17.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   9
+  ],
+  "features": [
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   265,
+   245,
+   115
+  ],
+  "weightKg": 2.7,
+  "url": "https://jb-systems.eu/led-plano5-6in1",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1760698140.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED UV-BAR 18",
+  "kind": "bar",
+  "light": "LED, UV, 60 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1040,
+   60,
+   90
+  ],
+  "weightKg": 1.1,
+  "url": "https://jb-systems.eu/led-uv-bar-18",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1594294838.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED UV-BAR 9",
+  "kind": "bar",
+  "light": "LED, UV, 30 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   545,
+   60,
+   90
+  ],
+  "weightKg": 0.7,
+  "url": "https://jb-systems.eu/led-uv-bar-9",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1575530763.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED VIRTUAL FLAME",
+  "kind": null,
+  "light": "LED, Red, 16.5 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 3.55,
+  "url": "https://jb-systems.eu/led-virtual-flame",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "MINI-PAR 12TC Mk2",
+  "kind": "par",
+  "light": "LED, RGB, 10 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   5
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   150,
+   160,
+   90
+  ],
+  "weightKg": 0.4,
+  "url": "https://jb-systems.eu/mini-par-12tc-mk2",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1668008535.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "MINI-PAR COB Mk2",
+  "kind": "cob",
+  "light": "COB, RGB, 22 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   5
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   150,
+   160,
+   90
+  ],
+  "weightKg": 0.4,
+  "url": "https://jb-systems.eu/mini-par-cob-mk2",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1668008535.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "PAR16/black GU10 socket",
+  "kind": "par",
+  "light": "LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 0.27,
+  "url": "https://jb-systems.eu/par16-black-gu10-socket",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "PAR16/Silver GU10 socket",
+  "kind": "par",
+  "light": "LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 0.27,
+  "url": "https://jb-systems.eu/par16-silver-gu10-socket",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "PAR30/black",
+  "kind": "par",
+  "light": "LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 0.5,
+  "url": "https://jb-systems.eu/par30-black",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "PAR30/silver",
+  "kind": "par",
+  "light": "LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 0.5,
+  "url": "https://jb-systems.eu/par30-silver",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "PARTY BAR",
+  "kind": "bar",
+  "light": "LED, Red, Green, Blue, White cold, RGB, 48 W Aufnahme",
+  "beamDeg": [
+   15.0,
+   15.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   27
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1185,
+   386,
+   110
+  ],
+  "weightKg": 8.35,
+  "url": "https://jb-systems.eu/party-bar",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1463663771.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "PARTY DERBY",
+  "kind": "effect",
+  "light": "LED, RGBW, 28 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   5
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   190,
+   258,
+   182
+  ],
+  "weightKg": 1.72,
+  "url": "https://jb-systems.eu/party-derby",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1450430558.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "PARTY SPOT",
+  "kind": "par",
+  "light": "LED, RGBW, 60 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   8
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   190,
+   190,
+   140
+  ],
+  "weightKg": 1.48,
+  "url": "https://jb-systems.eu/party-spot",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1475570254.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "PIXBAR 12TC",
+  "kind": "bar",
+  "light": "LED, RGB, 50 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   41
+  ],
+  "features": [
+   "pixel-control"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   140,
+   80
+  ],
+  "weightKg": 3.8,
+  "url": "https://jb-systems.eu/pixbar-12tc",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1760708780.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "PIXEL PIPE",
+  "kind": "effect",
+  "light": "LED, RGB, 12 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   24
+  ],
+  "features": [
+   "pixel-control"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 1.24,
+  "url": "https://jb-systems.eu/pixel-pipe",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1539937517.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "PIXELTUBE",
+  "kind": "tube",
+  "light": "LED, RGB, 60 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   266
+  ],
+  "features": [
+   "pixel-control"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   975,
+   60,
+   133
+  ],
+  "weightKg": 2.3,
+  "url": "https://jb-systems.eu/pixeltube",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1790860701.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "POWERBALL COLOR",
+  "kind": "effect",
+  "light": "LED, RGBW",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   10
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   243,
+   243,
+   266
+  ],
+  "weightKg": 4.65,
+  "url": "https://jb-systems.eu/powerball-color",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1717673163.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "POWERBALL WHITE",
+  "kind": "effect",
+  "light": "LED, White, White cold, White warm",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   10
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   243,
+   243,
+   266
+  ],
+  "weightKg": 4.65,
+  "url": "https://jb-systems.eu/powerball-white",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1717673103.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "QUADRA MOVE",
+  "kind": "spot",
+  "light": "LED, RGBW, 200 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   56
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   260,
+   90
+  ],
+  "weightKg": 11.0,
+  "url": "https://jb-systems.eu/quadra-move",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1760709194.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "RAVE BAR",
+  "kind": "bar",
+  "light": "LED, White cold, White warm, RGB, 100 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   37
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   67,
+   122
+  ],
+  "weightKg": 3.86,
+  "url": "https://jb-systems.eu/rave-bar",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1571904536.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "RAVE SPOT",
+  "kind": "par",
+  "light": "LED, UV, RGB, 78 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   22
+  ],
+  "features": [
+   "battery/wireless"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   280,
+   275,
+   76
+  ],
+  "weightKg": 1.81,
+  "url": "https://jb-systems.eu/rave-spot",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1507106854.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "ROTOGOBO OUTDOOR",
+  "kind": "effect",
+  "light": "LED, White cold, 105 W Aufnahme",
+  "beamDeg": [
+   20.4,
+   20.4
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "focus",
+   "gobo",
+   "gobos-fixed:1",
+   "gobos-rot:1",
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   240,
+   160,
+   200
+  ],
+  "weightKg": 3.0,
+  "url": "https://jb-systems.eu/rotogobo-outdoor",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1739193658.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "ROTOGOBO ZOOM",
+  "kind": "effect",
+  "light": "LED, White cold, 56 W Aufnahme",
+  "beamDeg": [
+   20.0,
+   34.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   4
+  ],
+  "features": [
+   "focus",
+   "gobo",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   500,
+   150,
+   100
+  ],
+  "weightKg": 2.77,
+  "url": "https://jb-systems.eu/rotogobo-zoom",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1653308632.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "SPACE-4 Mk2 LASER",
+  "kind": "laser",
+  "light": "Green, 12 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   8
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   170,
+   150,
+   80
+  ],
+  "weightKg": 1.22,
+  "url": "https://jb-systems.eu/space-4-mk2-laser",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1621239905.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "SPYDER-RGB LASER",
+  "kind": "laser",
+  "light": "Red, Green, Blue, RGB, 30 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   10
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   216,
+   140,
+   110
+  ],
+  "weightKg": 2.35,
+  "url": "https://jb-systems.eu/spyder-rgb-laser",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1634551746.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "STRIKER",
+  "kind": "wash",
+  "light": "LED, RGBW, 95 W Aufnahme",
+  "beamDeg": [
+   10.0,
+   10.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   19
+  ],
+  "features": [
+   "battery/wireless",
+   "focus",
+   "gobos-fixed:7"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   150,
+   230,
+   330
+  ],
+  "weightKg": 4.53,
+  "url": "https://jb-systems.eu/striker",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1480581478.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "SUNBAR COMBI Mk2",
+  "kind": "bar",
+  "light": "LED, White warm, RGB, 180 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   17
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   140,
+   85
+  ],
+  "weightKg": 3.8,
+  "url": "https://jb-systems.eu/sunbar-combi-mk2",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1690987219.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "SUNBAR WHITE Mk2",
+  "kind": "bar",
+  "light": "LED, White, White warm, 31 W Aufnahme",
+  "beamDeg": [
+   7.0,
+   7.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   16
+  ],
+  "features": [
+   "pixel-control"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   170,
+   50
+  ],
+  "weightKg": 3.4,
+  "url": "https://jb-systems.eu/sunbar-white-mk2",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1740473378.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "UFO X1",
+  "kind": "ufo",
+  "light": "LED, RGBW, 240 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   16
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   265,
+   207,
+   338
+  ],
+  "weightKg": 5.8,
+  "url": "https://jb-systems.eu/ufo",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1760092793.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "UFO X4",
+  "kind": "ufo",
+  "light": "LED, RGB, RGBW, 120 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   25
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   265,
+   207,
+   360
+  ],
+  "weightKg": 5.8,
+  "url": "https://jb-systems.eu/ufo-x4",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1760093979.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "USB DERBY",
+  "kind": "effect",
+  "light": "LED, RGBW, 10 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   140,
+   130,
+   170
+  ],
+  "weightKg": 0.37,
+  "url": "https://jb-systems.eu/usb-derby",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1602239414.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "USB LASER",
+  "kind": "laser",
+  "light": "Red, Green, 5 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   110,
+   90,
+   90
+  ],
+  "weightKg": 0.26,
+  "url": "https://jb-systems.eu/usb-laser",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1605530374.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "USB PAR",
+  "kind": "par",
+  "light": "LED, RGBW, 14 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   160,
+   50,
+   170
+  ],
+  "weightKg": 0.34,
+  "url": "https://jb-systems.eu/usb-par",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1602667722.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "VANTA BEAM",
+  "kind": "beam",
+  "light": "LED, White cold, 320 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   21
+  ],
+  "features": [
+   "focus",
+   "frost",
+   "gobos-fixed:13",
+   "ip65",
+   "prism"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   535,
+   222,
+   319
+  ],
+  "weightKg": 15.7,
+  "url": "https://jb-systems.eu/vanta-beam",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1781088892.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "VANTA SPOT",
+  "kind": "par",
+  "light": "LED, White, 320 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   20
+  ],
+  "features": [
+   "focus",
+   "frost",
+   "gobos-fixed:8",
+   "gobos-rot:8",
+   "ip65",
+   "prism",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   553,
+   222,
+   319
+  ],
+  "weightKg": 15.0,
+  "url": "https://jb-systems.eu/vanta-spot",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1781169269.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "VECTOR SCAN",
+  "kind": "effect",
+  "light": "LED, 130 W Aufnahme",
+  "beamDeg": [
+   18.0,
+   18.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   14
+  ],
+  "features": [
+   "colorwheel",
+   "focus",
+   "gobo",
+   "gobos-rot:7",
+   "prism"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   251,
+   142,
+   378
+  ],
+  "weightKg": 5.5,
+  "url": "https://jb-systems.eu/vector-scan",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1760709610.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "ACCU DECOLITE",
+  "kind": "effect",
+  "light": "LED, RGBW, 15 W Aufnahme",
+  "beamDeg": [
+   10.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   10
+  ],
+  "features": [
+   "battery/wireless"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   168,
+   138,
+   62
+  ],
+  "weightKg": 1.61,
+  "url": "https://jb-systems.eu/accu-decolite",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1510661248.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "ACCU MINI-PAR 12TC",
+  "kind": "par",
+  "light": "LED, RGB, 10 W Aufnahme",
+  "beamDeg": [
+   17.0,
+   17.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   6
+  ],
+  "features": [
+   "battery/wireless"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   150,
+   160,
+   90
+  ],
+  "weightKg": 0.43,
+  "url": "https://jb-systems.eu/accu-mini-par-12tc",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1632745082.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "ANDROMEDA DMX",
+  "kind": null,
+  "light": "LED, Red, Green, Blue, 10 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   244,
+   272,
+   154
+  ],
+  "weightKg": 3.4,
+  "url": "https://jb-systems.eu/andromeda-dmx",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418227502.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "APOLLO DMX",
+  "kind": null,
+  "light": "LED, Red, Green, Blue, 15 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   363,
+   322,
+   111
+  ],
+  "weightKg": 5.3,
+  "url": "https://jb-systems.eu/apollo-dmx",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1463662129.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "ATOM",
+  "kind": null,
+  "light": "LED, Red, Green, Blue, White, 13 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 1.39,
+  "url": "https://jb-systems.eu/atom",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418227983.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "BEAM TWISTER",
+  "kind": "effect",
+  "light": "LED, RGBW, 50 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   350,
+   352,
+   203
+  ],
+  "weightKg": 3.3,
+  "url": "https://jb-systems.eu/beam-twister",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1507110533.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "BLACK LIGHT TL-40 PRO",
+  "kind": null,
+  "light": "UV, UV, 36 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1260,
+   130,
+   95
+  ],
+  "weightKg": 3.0,
+  "url": "https://jb-systems.eu/black-light-tl-40-pro",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1436863258.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "CLUBWASH",
+  "kind": "wash",
+  "light": "LED, UV, RGBWA, RGBWA+UV, 90 W Aufnahme",
+  "beamDeg": [
+   25.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   15
+  ],
+  "features": [
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   240,
+   170,
+   177
+  ],
+  "weightKg": 2.99,
+  "url": "https://jb-systems.eu/clubwash",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1529416403.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "CYCLOPE",
+  "kind": "bar",
+  "light": "LED, Red, Green, Blue, White, 50 W Aufnahme",
+  "beamDeg": [
+   54.0,
+   54.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   300,
+   308,
+   280
+  ],
+  "weightKg": 5.53,
+  "url": "https://jb-systems.eu/cyclope",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1437564836.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "DYNABARREL",
+  "kind": "effect",
+  "light": "LED, RGBW, 31 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   9
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   331,
+   170,
+   200
+  ],
+  "weightKg": 2.95,
+  "url": "https://jb-systems.eu/dynabarrel",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1463576781.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "FL 1800 Geni Strobe",
+  "kind": "strobe",
+  "light": "LED, White, 2700 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   460,
+   125,
+   220
+  ],
+  "weightKg": 4.0,
+  "url": "https://jb-systems.eu/fl-1800-geni-strobe",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1437637742.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "FL 1800/D Geni DMX strobe",
+  "kind": "strobe",
+  "light": "LED, White",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   460,
+   125,
+   220
+  ],
+  "weightKg": 4.22,
+  "url": "https://jb-systems.eu/fl-1800-d-geni-dmx-strobe",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1437638697.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "FL-150P",
+  "kind": null,
+  "light": "LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 1.83,
+  "url": "https://jb-systems.eu/fl-150p",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "FSP-1000",
+  "kind": "follow",
+  "light": "Halogen, Red, Green, Blue, White, White cold, 1000 W Aufnahme",
+  "beamDeg": [
+   13.0,
+   19.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "gobos-fixed:1"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   693,
+   346,
+   170
+  ],
+  "weightKg": 14.0,
+  "url": "https://jb-systems.eu/fsp-1000",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418222048.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "GALAXY",
+  "kind": null,
+  "light": "LED, Red, Green, Blue, White, 30 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   344,
+   350,
+   152
+  ],
+  "weightKg": 5.57,
+  "url": "https://jb-systems.eu/galaxy",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418227887.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "GENIUS 2",
+  "kind": null,
+  "light": "LED, Red, Green, Blue, 16 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   296,
+   271,
+   140
+  ],
+  "weightKg": 4.52,
+  "url": "https://jb-systems.eu/genius-2",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418227805.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "iCOLOR 4",
+  "kind": null,
+  "light": "LED, Red, Green, Blue, 500 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   450,
+   270,
+   175
+  ],
+  "weightKg": 7.41,
+  "url": "https://jb-systems.eu/icolor-4",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418229703.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "iMove 5S (ELC 250W/24V incl.)",
+  "kind": "spot",
+  "light": "LED, Red, Green, Blue, White, 250 W Aufnahme",
+  "beamDeg": [
+   16.0,
+   16.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5
+  ],
+  "features": [
+   "gobos-rot:15"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   290,
+   330,
+   380
+  ],
+  "weightKg": 14.5,
+  "url": "https://jb-systems.eu/imove-5s-elc-250w-24v-incl",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1437572496.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "iROCK 7S",
+  "kind": "effect",
+  "light": "Discharge, Red, Green, Blue, White",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   7
+  ],
+  "features": [
+   "gobos-rot:7"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   70,
+   34,
+   25
+  ],
+  "weightKg": 13.04,
+  "url": "https://jb-systems.eu/irock-7s",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418227333.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LASERBURST III",
+  "kind": "laser",
+  "light": "Red, Green, 25 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   11
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   280,
+   180,
+   175
+  ],
+  "weightKg": 2.4,
+  "url": "https://jb-systems.eu/laserburst-iii",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418228376.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED AQUA",
+  "kind": "effect",
+  "light": "LED, Red, Green, Blue, White, 43.3 W Aufnahme",
+  "beamDeg": [
+   60.0,
+   60.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   255,
+   245,
+   196
+  ],
+  "weightKg": 3.4,
+  "url": "https://jb-systems.eu/led-aqua",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED BARREL",
+  "kind": "effect",
+  "light": "LED, Red, Green, Blue",
+  "beamDeg": [
+   180.0,
+   180.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   430,
+   230,
+   210
+  ],
+  "weightKg": 3.13,
+  "url": "https://jb-systems.eu/led-barrel",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED CLUBHEAD",
+  "kind": "spot",
+  "light": "LED, Red, Green, Blue, White, 70 W Aufnahme",
+  "beamDeg": [
+   17.0,
+   17.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   7
+  ],
+  "features": [
+   "gobos-rot:6"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   248,
+   228,
+   329
+  ],
+  "weightKg": 5.3,
+  "url": "https://jb-systems.eu/led-clubhead",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1436879962.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED CLUBSCAN",
+  "kind": "effect",
+  "light": "LED, Red, Green, Blue, 52 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5
+  ],
+  "features": [
+   "gobos-fixed:8"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   196,
+   168,
+   338
+  ],
+  "weightKg": 3.4,
+  "url": "https://jb-systems.eu/led-clubscan",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1436945958.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED CROSSFIRE",
+  "kind": "effect",
+  "light": "LED, Red, Green, Blue, White, 40 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   457,
+   433,
+   286
+  ],
+  "weightKg": 9.0,
+  "url": "https://jb-systems.eu/led-crossfire",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418227856.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED DEVIL II",
+  "kind": null,
+  "light": "LED, Red, Green, Blue, 10 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   172,
+   215,
+   195
+  ],
+  "weightKg": 3.3,
+  "url": "https://jb-systems.eu/led-devil-ii",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1437569507.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED DEVIL III",
+  "kind": "effect",
+  "light": "LED, Red, Green, Blue, White, 23 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   172,
+   215,
+   195
+  ],
+  "weightKg": 3.3,
+  "url": "https://jb-systems.eu/led-devil-iii",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1463662514.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED DIAMOND",
+  "kind": null,
+  "light": "LED, Red, Green, Blue, 25 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 1.07,
+  "url": "https://jb-systems.eu/led-diamond",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418228036.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED DISCO BALL",
+  "kind": "effect",
+  "light": "LED, Red, Green, Blue, 3 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   210,
+   210,
+   179
+  ],
+  "weightKg": 1.1,
+  "url": "https://jb-systems.eu/led-disco-ball",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED GROUND WASH",
+  "kind": "flood",
+  "light": "LED, Red, Green, Blue, 9 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 0.68,
+  "url": "https://jb-systems.eu/led-ground-wash",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418231567.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED ILLUSION",
+  "kind": null,
+  "light": "LED, Red, Green, Blue, 6.5 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   328,
+   456,
+   216
+  ],
+  "weightKg": 1.84,
+  "url": "https://jb-systems.eu/led-illusion",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418228081.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED KAOS",
+  "kind": null,
+  "light": "LED, Red, Green, Blue, White, 10 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   286,
+   165,
+   134
+  ],
+  "weightKg": 0.74,
+  "url": "https://jb-systems.eu/led-kaos",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418228159.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED LIGHTBAR 4TC",
+  "kind": "bar",
+  "light": "LED, Red, Green, Blue, 68 W Aufnahme",
+  "beamDeg": [
+   15.0,
+   15.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   16
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1060,
+   253,
+   92
+  ],
+  "weightKg": 6.5,
+  "url": "https://jb-systems.eu/led-lightbar-4tc",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1437654206.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED MARVEL",
+  "kind": "effect",
+  "light": "LED, Red, Green, Blue, 12 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   21
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   68,
+   390,
+   43
+  ],
+  "weightKg": 0.6,
+  "url": "https://jb-systems.eu/led-marvel",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1436770866.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED MICROSCAN II",
+  "kind": "effect",
+  "light": "LED, Red, Green, Blue, 10 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5
+  ],
+  "features": [
+   "gobos-fixed:8",
+   "gobos-rot:8"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   333,
+   156,
+   177
+  ],
+  "weightKg": 3.57,
+  "url": "https://jb-systems.eu/led-microscan-ii",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1437656622.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED MINI FLASH",
+  "kind": "strobe",
+  "light": "LED, White",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 0.22,
+  "url": "https://jb-systems.eu/led-mini-flash",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED MOON",
+  "kind": "effect",
+  "light": "LED, Red, Green, Blue, White, 10 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   28
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   195,
+   165,
+   134
+  ],
+  "weightKg": 0.64,
+  "url": "https://jb-systems.eu/led-moon",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418228131.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED Nano Beam / Blue",
+  "kind": "panel",
+  "light": "LED, Blue, 1.7 W Aufnahme",
+  "beamDeg": [
+   10.0,
+   10.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 0.2,
+  "url": "https://jb-systems.eu/led-nano-beam-blue",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418232010.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED Nano Beam / Cool White",
+  "kind": "panel",
+  "light": "LED, White cold",
+  "beamDeg": [
+   10.0,
+   10.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 0.2,
+  "url": "https://jb-systems.eu/led-nano-beam-cool-white",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1436358188.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED Nano Beam / Warm White",
+  "kind": null,
+  "light": "LED, White warm, 1.7 W Aufnahme",
+  "beamDeg": [
+   10.0,
+   10.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 0.2,
+  "url": "https://jb-systems.eu/led-nano-beam-warm-white",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED Nano Wash / Blue",
+  "kind": "flood",
+  "light": "LED, Blue, 0.5 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 0.2,
+  "url": "https://jb-systems.eu/led-nano-wash-blue",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418231959.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED Nano Wash / Cool White",
+  "kind": "flood",
+  "light": "LED, White cold, 0.5 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 0.2,
+  "url": "https://jb-systems.eu/led-nano-wash-cool-white",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1436359011.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED Nano Wash / RGB",
+  "kind": "flood",
+  "light": "LED, Red, Green, Blue, 1.5 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 0.2,
+  "url": "https://jb-systems.eu/led-nano-wash-rgb",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1437557352.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED OCTO PANEL",
+  "kind": "panel",
+  "light": "LED, Red, Green, Blue, 55 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   27
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   160,
+   20,
+   10
+  ],
+  "weightKg": 7.0,
+  "url": "https://jb-systems.eu/led-octo-panel",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418231886.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED PAR64/Black",
+  "kind": "par",
+  "light": "LED, Red, Green, Blue, 28 W Aufnahme",
+  "beamDeg": [
+   15.0,
+   15.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   191,
+   216,
+   205
+  ],
+  "weightKg": 2.83,
+  "url": "https://jb-systems.eu/led-par64-black",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418231400.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED PAR64/Silver",
+  "kind": "par",
+  "light": "LED, Red, Green, Blue",
+  "beamDeg": [
+   15.0,
+   15.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   191,
+   216,
+   205
+  ],
+  "weightKg": 2.7,
+  "url": "https://jb-systems.eu/led-par64-silver",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418231379.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED PINSPOT",
+  "kind": "par",
+  "light": "LED, White, 8 W Aufnahme",
+  "beamDeg": [
+   6.0,
+   11.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   104,
+   78,
+   55
+  ],
+  "weightKg": 0.44,
+  "url": "https://jb-systems.eu/led-pinspot",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418231428.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED POLICE LIGHT BLUE",
+  "kind": null,
+  "light": "LED, Blue",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 0.86,
+  "url": "https://jb-systems.eu/led-police-light-blue",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1647942813.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED POLICE LIGHT RED",
+  "kind": null,
+  "light": "LED, Red",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 0.86,
+  "url": "https://jb-systems.eu/led-police-light-red",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1647942813.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED PULSAR",
+  "kind": "effect",
+  "light": "LED, Red, Green, Blue, White, 26 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   331,
+   135,
+   170
+  ],
+  "weightKg": 3.0,
+  "url": "https://jb-systems.eu/led-pulsar",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1436433657.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED PYRAMID",
+  "kind": null,
+  "light": "LED, Red, Green, Blue, 12 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   306,
+   326,
+   130
+  ],
+  "weightKg": 3.72,
+  "url": "https://jb-systems.eu/led-pyramid",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1437571650.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED QUADRA BEAM",
+  "kind": "par",
+  "light": "LED, Red, Green, Blue, 11 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   965,
+   190,
+   82
+  ],
+  "weightKg": 6.5,
+  "url": "https://jb-systems.eu/led-quadra-beam",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418227722.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED QUADRO PANEL",
+  "kind": "panel",
+  "light": "LED, Red, Green, Blue, 32 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   16
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   500,
+   500,
+   101
+  ],
+  "weightKg": 5.86,
+  "url": "https://jb-systems.eu/led-quadro-panel",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1437547706.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED RAINBOW",
+  "kind": "effect",
+  "light": "LED, Red, Green, Blue, 39 W Aufnahme",
+  "beamDeg": [
+   9.0,
+   9.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   22
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   424,
+   251,
+   65
+  ],
+  "weightKg": 3.44,
+  "url": "https://jb-systems.eu/led-rainbow",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1463662768.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED RAVE",
+  "kind": null,
+  "light": "LED, Red, Green, Blue, White cold, 20 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1
+  ],
+  "features": [
+   "gobos-fixed:15",
+   "gobos-rot:15"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   247,
+   218,
+   162
+  ],
+  "weightKg": 3.39,
+  "url": "https://jb-systems.eu/led-rave",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418227779.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED ROTOGOBO",
+  "kind": "effect",
+  "light": "LED, White, 70 W Aufnahme",
+  "beamDeg": [
+   18.0,
+   18.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "gobo"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   236,
+   234,
+   206
+  ],
+  "weightKg": 3.4,
+  "url": "https://jb-systems.eu/led-rotogobo",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1436348526.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED SEAWAVE 100W",
+  "kind": "effect",
+  "light": "LED, 105 W Aufnahme",
+  "beamDeg": [
+   29.0,
+   44.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   309,
+   271,
+   210
+  ],
+  "weightKg": 6.2,
+  "url": "https://jb-systems.eu/led-seawave-100w",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1465472265.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED SEAWAVE 50W",
+  "kind": null,
+  "light": "LED, Red, Green, Blue, White, 80 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   279,
+   226,
+   191
+  ],
+  "weightKg": 3.78,
+  "url": "https://jb-systems.eu/led-seawave-50w",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418229926.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED SIXLIGHT",
+  "kind": null,
+  "light": "LED, Red, Green, Blue",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   365,
+   347,
+   182
+  ],
+  "weightKg": 2.1,
+  "url": "https://jb-systems.eu/led-sixlight",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1463662828.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED SPIDER",
+  "kind": "spider",
+  "light": "LED, Red, Green, Blue, 13 W Aufnahme",
+  "beamDeg": [
+   65.0,
+   65.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   213,
+   165,
+   170
+  ],
+  "weightKg": 0.82,
+  "url": "https://jb-systems.eu/led-spider",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1436778512.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED SPINNER",
+  "kind": "effect",
+  "light": "LED, Red, Green, Blue, White, 150 W Aufnahme",
+  "beamDeg": [
+   17.0,
+   17.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   8
+  ],
+  "features": [
+   "gobos-fixed:8"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   472,
+   208,
+   264
+  ],
+  "weightKg": 7.32,
+  "url": "https://jb-systems.eu/led-spinner",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1436947352.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED STROBE",
+  "kind": "strobe",
+  "light": "LED, White, 5 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   154,
+   164,
+   132
+  ],
+  "weightKg": 0.58,
+  "url": "https://jb-systems.eu/led-strobe",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418230691.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED UV-BAR",
+  "kind": "bar",
+  "light": "LED, UV, 40 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3
+  ],
+  "features": [
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1050,
+   95,
+   90
+  ],
+  "weightKg": 2.72,
+  "url": "https://jb-systems.eu/led-uv-bar",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1485793300.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED UV9",
+  "kind": "par",
+  "light": "LED, UV, 11.5 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   228,
+   198,
+   50
+  ],
+  "weightKg": 1.03,
+  "url": "https://jb-systems.eu/led-uv9",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1463662911.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED VICTORYSCAN",
+  "kind": "effect",
+  "light": "LED, Red, Green, Blue, White, 105 W Aufnahme",
+  "beamDeg": [
+   17.0,
+   17.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   8
+  ],
+  "features": [
+   "gobos-fixed:8"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   472,
+   208,
+   264
+  ],
+  "weightKg": 7.32,
+  "url": "https://jb-systems.eu/led-victoryscan",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418227387.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED VICTORYSCAN Mk2",
+  "kind": "effect",
+  "light": "LED, Red, Green, Blue, White, 105 W Aufnahme",
+  "beamDeg": [
+   17.0,
+   17.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   8
+  ],
+  "features": [
+   "gobos-fixed:9"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   472,
+   264,
+   208
+  ],
+  "weightKg": 7.32,
+  "url": "https://jb-systems.eu/led-victoryscan-mk2",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1481127313.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED WASH",
+  "kind": "flood",
+  "light": "LED, Red, Green, Blue",
+  "beamDeg": [
+   40.0,
+   40.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 1.0,
+  "url": "https://jb-systems.eu/led-wash",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1437552073.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED WATERWAVE",
+  "kind": "effect",
+  "light": "LED, Red, Green, Blue, 20 W Aufnahme",
+  "beamDeg": [
+   60.0,
+   60.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   223,
+   181,
+   157
+  ],
+  "weightKg": 3.55,
+  "url": "https://jb-systems.eu/led-waterwave",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418229750.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LEDBALL INDOOR",
+  "kind": "effect",
+  "light": "LED, Red, Green, Blue",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 1.5,
+  "url": "https://jb-systems.eu/ledball-indoor",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1437549573.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LEDFLOWER DMX",
+  "kind": "effect",
+  "light": "LED, Red, Green, Blue, White",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   236,
+   141,
+   203
+  ],
+  "weightKg": 1.61,
+  "url": "https://jb-systems.eu/ledflower-dmx",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1436436870.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LEDPIPE RGB 230V",
+  "kind": "tube",
+  "light": "LED, Red, Green, Blue, 18 W Aufnahme",
+  "beamDeg": [
+   120.0,
+   120.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   62,
+   100
+  ],
+  "weightKg": 1.6,
+  "url": "https://jb-systems.eu/ledpipe-rgb-230v",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418231849.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LIGHTSPLASH II",
+  "kind": null,
+  "light": "LED, Red, Green, Blue, 12 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   260,
+   230,
+   210
+  ],
+  "weightKg": 3.0,
+  "url": "https://jb-systems.eu/lightsplash-ii",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418227452.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LYNX II",
+  "kind": null,
+  "light": "LED, Red, Green, Blue, White, 55 W Aufnahme",
+  "beamDeg": [
+   14.0,
+   14.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "gobos-fixed:8",
+   "gobos-rot:8"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   228,
+   248,
+   330
+  ],
+  "weightKg": 5.5,
+  "url": "https://jb-systems.eu/lynx-ii",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1437652701.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "MAGIC LED",
+  "kind": null,
+  "light": "LED, Red, Green, Blue, White, 34 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   296,
+   271,
+   140
+  ],
+  "weightKg": 4.25,
+  "url": "https://jb-systems.eu/magic-led",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1437574380.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "MATRIX LED",
+  "kind": "matrix",
+  "light": "LED, Red, Green, Blue, White, 36 W Aufnahme",
+  "beamDeg": [
+   54.0,
+   54.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   256
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   242,
+   270,
+   215
+  ],
+  "weightKg": 4.0,
+  "url": "https://jb-systems.eu/matrix-led",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418227749.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "MINI-PAR 12TC",
+  "kind": "par",
+  "light": "LED, RGB, 10 W Aufnahme",
+  "beamDeg": [
+   17.0,
+   17.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   5
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   150,
+   160,
+   90
+  ],
+  "weightKg": 0.4,
+  "url": "https://jb-systems.eu/mini-par-12tc",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1610361644.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "MINIFLASH",
+  "kind": "strobe",
+  "light": "LED, White, 20 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 0.25,
+  "url": "https://jb-systems.eu/miniflash",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "MULTIBEAM LASER",
+  "kind": "laser",
+  "light": "Red, Green, Blue, 65 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   10
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   537,
+   268,
+   170
+  ],
+  "weightKg": 5.0,
+  "url": "https://jb-systems.eu/multibeam-laser",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1621239368.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "MYSTERY LED",
+  "kind": null,
+  "light": "LED, Red, Green, Blue, White, 34 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   296,
+   271,
+   140
+  ],
+  "weightKg": 4.2,
+  "url": "https://jb-systems.eu/mystery-led",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1437575106.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "ORION",
+  "kind": "effect",
+  "light": "LED, Red, Green, Blue, White, 30 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   7
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   475,
+   290,
+   160
+  ],
+  "weightKg": 5.3,
+  "url": "https://jb-systems.eu/orion",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1463663709.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "PAR20/black",
+  "kind": "par",
+  "light": "LED, 30 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 0.4,
+  "url": "https://jb-systems.eu/par20-black",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "PAR20/silver",
+  "kind": "par",
+  "light": "LED, 30 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 0.5,
+  "url": "https://jb-systems.eu/par20-silver",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "PAR46/black",
+  "kind": "par",
+  "light": "LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 1.0,
+  "url": "https://jb-systems.eu/par46-black",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "PAR46/silver",
+  "kind": "par",
+  "light": "LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 1.0,
+  "url": "https://jb-systems.eu/par46-silver",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "PAR56 PRO/Silver",
+  "kind": "par",
+  "light": "LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 1.75,
+  "url": "https://jb-systems.eu/par56-pro-silver",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "PAR64 PRO/Black",
+  "kind": "par64",
+  "light": "Halogen, White, 500 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 2.23,
+  "url": "https://jb-systems.eu/par64-pro-black",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "PAR64 PRO/Silver",
+  "kind": "par64",
+  "light": "Halogen, White, 500 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 2.03,
+  "url": "https://jb-systems.eu/par64-pro-silver",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "PARTY BEAMS",
+  "kind": "par",
+  "light": "LED, Red, Green, Blue, 30 W Aufnahme",
+  "beamDeg": [
+   7.0,
+   7.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   14
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   605,
+   184,
+   268
+  ],
+  "weightKg": 3.41,
+  "url": "https://jb-systems.eu/party-beams",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1450193212.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "PINSPOT/Black",
+  "kind": "par",
+  "light": "LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 1.16,
+  "url": "https://jb-systems.eu/pinspot-black",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "PINSPOT/Silver",
+  "kind": "par",
+  "light": "Halogen, White, 30 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 1.25,
+  "url": "https://jb-systems.eu/pinspot-silver",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "PLANO SPOT",
+  "kind": "par",
+  "light": "LED, Red, Green, Blue, 28 W Aufnahme",
+  "beamDeg": [
+   15.0,
+   15.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   252,
+   272,
+   67
+  ],
+  "weightKg": 2.23,
+  "url": "https://jb-systems.eu/plano-spot",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1463663893.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "POLAR Laser",
+  "kind": "laser",
+  "light": "LED, Red, Green, Blue, 15 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   257,
+   176,
+   193
+  ],
+  "weightKg": 2.0,
+  "url": "https://jb-systems.eu/polar-laser",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418228426.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "PROTON",
+  "kind": "effect",
+  "light": "LED, Red, Green, Blue, White, 3.5 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   154,
+   164,
+   132
+  ],
+  "weightKg": 0.58,
+  "url": "https://jb-systems.eu/proton",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418227669.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "PUBLISPOT",
+  "kind": "par",
+  "light": "Discharge, White, 43 W Aufnahme",
+  "beamDeg": [
+   16.0,
+   16.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   120,
+   80,
+   165
+  ],
+  "weightKg": 1.2,
+  "url": "https://jb-systems.eu/publispot",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1436351365.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "RADIANT LASER",
+  "kind": "laser",
+  "light": "None, Green, Blue, 30 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   10
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   250,
+   240,
+   190
+  ],
+  "weightKg": 2.92,
+  "url": "https://jb-systems.eu/radiant-laser",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1621413900.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "RETRO-PAR20 RGBW",
+  "kind": "retro",
+  "light": "LED, RGBW, 15 W Aufnahme",
+  "beamDeg": [
+   10.0,
+   10.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   198,
+   112,
+   100
+  ],
+  "weightKg": 0.65,
+  "url": "https://jb-systems.eu/retro-par20-rgbw",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1516634845.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "RS-40",
+  "kind": null,
+  "light": "3600 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   90,
+   240,
+   110
+  ],
+  "weightKg": 1.5,
+  "url": "https://jb-systems.eu/rs-40",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418207223.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "SIRIUS",
+  "kind": null,
+  "light": "LED, Red, Green, Blue, White, 95 W Aufnahme",
+  "beamDeg": [
+   15.0,
+   15.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   11
+  ],
+  "features": [
+   "gobos-fixed:6",
+   "gobos-rot:6"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   287,
+   247,
+   420
+  ],
+  "weightKg": 9.88,
+  "url": "https://jb-systems.eu/sirius",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418227356.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "SMOOTH SCAN-3 Laser",
+  "kind": "laser",
+  "light": "Red, Green, 13 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   17
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   190,
+   170,
+   80
+  ],
+  "weightKg": 1.61,
+  "url": "https://jb-systems.eu/smooth-scan-3-laser",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418228614.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "SMOOTH SCAN-3 Mk2 LASER",
+  "kind": "laser",
+  "light": "Red, Green, 13 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   17
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   190,
+   170,
+   80
+  ],
+  "weightKg": 1.5,
+  "url": "https://jb-systems.eu/smooth-scan-3-mk2-laser",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1621240513.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "SMOOTH SCAN-BLUE Laser",
+  "kind": "laser",
+  "light": "Blue, 13 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   17
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   190,
+   170,
+   80
+  ],
+  "weightKg": 1.61,
+  "url": "https://jb-systems.eu/smooth-scan-blue-laser",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1436854254.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "SPACE-3 Mk2 Laser",
+  "kind": "laser",
+  "light": "Green",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   8
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   200,
+   240,
+   90
+  ],
+  "weightKg": 1.3,
+  "url": "https://jb-systems.eu/space-3-mk2-laser",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1437633494.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "SUNBAR COMBI",
+  "kind": "bar",
+  "light": "LED, White warm, RGB, 180 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   17
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   140,
+   85
+  ],
+  "weightKg": 3.8,
+  "url": "https://jb-systems.eu/sunbar-combi",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1572290807.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "SUNBAR WHITE",
+  "kind": "bar",
+  "light": "LED, White, White warm, 36 W Aufnahme",
+  "beamDeg": [
+   7.0,
+   7.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   15
+  ],
+  "features": [
+   "pixel-control"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   170,
+   50
+  ],
+  "weightKg": 3.4,
+  "url": "https://jb-systems.eu/sunbar-white",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1563346429.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "SUPER ATLAS",
+  "kind": "effect",
+  "light": "LED, Red, Green, Blue, White, 20 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   141,
+   224,
+   203
+  ],
+  "weightKg": 1.4,
+  "url": "https://jb-systems.eu/super-atlas",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418228201.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "SUPER BOOGIE",
+  "kind": "effect",
+  "light": "LED, Red, Green, Blue, White, 35 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   246,
+   230,
+   164
+  ],
+  "weightKg": 2.6,
+  "url": "https://jb-systems.eu/super-boogie",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418228234.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "SUPER LED RAINBOW",
+  "kind": "effect",
+  "light": "LED, Red, Green, Blue, White, 80.6 W Aufnahme",
+  "beamDeg": [
+   9.0,
+   9.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   28
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 4.18,
+  "url": "https://jb-systems.eu/super-led-rainbow",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1507110114.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "SUPER ORION",
+  "kind": null,
+  "light": "LED, Red, Green, Blue, White, 67 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   430,
+   256,
+   172
+  ],
+  "weightKg": 4.1,
+  "url": "https://jb-systems.eu/super-orion",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418228257.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "SUPER QUADRA BEAM",
+  "kind": "par",
+  "light": "LED, Red, Green, Blue, White, 66 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   830,
+   171,
+   202
+  ],
+  "weightKg": 5.0,
+  "url": "https://jb-systems.eu/super-quadra-beam",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418228289.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "SUPERSOLAR II",
+  "kind": "effect",
+  "light": "LED, Red, Green, Blue, White, 27 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   210,
+   210,
+   179
+  ],
+  "weightKg": 2.7,
+  "url": "https://jb-systems.eu/supersolar-ii",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1436448916.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "TAURUS",
+  "kind": "effect",
+  "light": "LED, Red, Green, Blue, White, 12 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   28
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   246,
+   320,
+   192
+  ],
+  "weightKg": 2.5,
+  "url": "https://jb-systems.eu/taurus",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1436451983.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "THEATERSPOT 1000 Watt",
+  "kind": "par",
+  "light": "Halogen, White, 1000 W Aufnahme",
+  "beamDeg": [
+   10.0,
+   60.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   370,
+   250,
+   370
+  ],
+  "weightKg": 5.8,
+  "url": "https://jb-systems.eu/theaterspot-1000-watt",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418219737.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "THEATERSPOT 500 Watt",
+  "kind": "par",
+  "light": "Halogen, White warm, 500 W Aufnahme",
+  "beamDeg": [
+   10.0,
+   60.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   320,
+   220,
+   320
+  ],
+  "weightKg": 4.38,
+  "url": "https://jb-systems.eu/theaterspot-500-watt",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418219711.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "TWIN EFFECT Laser Mk2",
+  "kind": "laser",
+  "light": "Red, Green, 30 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   10
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   240,
+   250,
+   198
+  ],
+  "weightKg": 3.3,
+  "url": "https://jb-systems.eu/twin-effect-laser-mk2",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "TWINBEAM COLOR Laser Mk2",
+  "kind": "laser",
+  "light": "Red, Green",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   9
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   260,
+   300,
+   100
+  ],
+  "weightKg": 4.46,
+  "url": "https://jb-systems.eu/twinbeam-color-laser-mk2",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418228404.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "TWINBEAM COLOR Laser Mk3",
+  "kind": "laser",
+  "light": "Red, Green",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   9
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   260,
+   300,
+   100
+  ],
+  "weightKg": 4.46,
+  "url": "https://jb-systems.eu/twinbeam-color-laser-mk3",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1436858540.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "USB MUSHROOM",
+  "kind": "effect",
+  "light": "LED, RGBW, 10 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   140,
+   150,
+   180
+  ],
+  "weightKg": 0.45,
+  "url": "https://jb-systems.eu/usb-mushroom",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1602673874.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "USB QUANTUM LASER",
+  "kind": "laser",
+  "light": "Red, Blue, 5 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   110,
+   90,
+   90
+  ],
+  "weightKg": 0.26,
+  "url": "https://jb-systems.eu/usb-quantum-laser",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1634726226.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "UV-400",
+  "kind": "par",
+  "light": "UV, UV, 400 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 11.5,
+  "url": "https://jb-systems.eu/uv-400",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1465472757.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "WIZARD 4",
+  "kind": null,
+  "light": "LED, Red, Green, Blue, 16 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   296,
+   271,
+   140
+  ],
+  "weightKg": 4.43,
+  "url": "https://jb-systems.eu/wizard-4",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1437630882.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "µ-PHOTON Laser",
+  "kind": "laser",
+  "light": "Green, Blue, 5.7 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   117,
+   92,
+   46
+  ],
+  "weightKg": 0.64,
+  "url": "https://jb-systems.eu/photon-laser",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1522066596.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "µ-QUANTUM Laser",
+  "kind": "laser",
+  "light": "Red, Blue, 5.7 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   117,
+   92,
+   46
+  ],
+  "weightKg": 0.64,
+  "url": "https://jb-systems.eu/quantum-laser",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1522066596.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "µ-QUASAR Laser",
+  "kind": "laser",
+  "light": "Red, Green, 5.7 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   117,
+   92,
+   46
+  ],
+  "weightKg": 0.64,
+  "url": "https://jb-systems.eu/quasar-laser",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1535440248.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "µ-STAR Laser",
+  "kind": "laser",
+  "light": "Red, Green, 5.7 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   117,
+   92,
+   46
+  ],
+  "weightKg": 0.63,
+  "url": "https://jb-systems.eu/star-laser",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1522066596.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "CHALLENGER BSW",
+  "kind": "beam",
+  "light": "COB, 189 W Aufnahme",
+  "beamDeg": [
+   10.0,
+   17.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   20
+  ],
+  "features": [
+   "focus",
+   "gobos-fixed:7",
+   "gobos-rot:6",
+   "prism",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   452,
+   290,
+   256
+  ],
+  "weightKg": 12.32,
+  "url": "https://jb-systems.eu/challenger-bsw",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1757082260.pdf",
+  "status": "current",
+  "inLibrary": "qlc:jb-systems/challenger-bsw",
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "COB-4BAR",
+  "kind": "bar",
+  "light": "COB, White, RGB, 120 W Aufnahme",
+  "beamDeg": [
+   15.0,
+   100.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   18
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   82,
+   320
+  ],
+  "weightKg": 11.0,
+  "url": "https://jb-systems.eu/cob-4bar",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1493714873.pdf",
+  "status": "current",
+  "inLibrary": "qlc:jb-systems/cob-4bar",
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "COB-PLANO",
+  "kind": "effect",
+  "light": "COB, RGB, 40 W Aufnahme",
+  "beamDeg": [
+   15.0,
+   100.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   6
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   202,
+   120,
+   224
+  ],
+  "weightKg": 2.14,
+  "url": "https://jb-systems.eu/cob-plano",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1475569658.pdf",
+  "status": "current",
+  "inLibrary": "qlc:jb-systems/cob-plano",
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LED DIAMOND II",
+  "kind": "effect",
+  "light": "LED, 24 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   6
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   190,
+   190,
+   175
+  ],
+  "weightKg": 0.42,
+  "url": "https://jb-systems.eu/led-diamond-ii",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1753350401.pdf",
+  "status": "current",
+  "inLibrary": "qlc:jb-systems/led-diamond-ii",
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "LOUNGE LASER DMX",
+  "kind": "laser",
+  "light": "Red, Green, Blue, 15 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   7
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   233,
+   165,
+   200
+  ],
+  "weightKg": 1.9,
+  "url": "https://jb-systems.eu/lounge-laser-dmx",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418228489.pdf",
+  "status": "current",
+  "inLibrary": "qlc:jb-systems/lounge-laser-dmx",
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "DYNAMO 250",
+  "kind": null,
+  "light": "Red, Green, Blue",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4
+  ],
+  "features": [
+   "gobos-fixed:10",
+   "gobos-rot:10"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   385,
+   170,
+   120
+  ],
+  "weightKg": 4.0,
+  "url": "https://jb-systems.eu/dynamo-250",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1463576863.pdf",
+  "status": "legacy",
+  "inLibrary": "qlc:jb-systems/dynamo-250",
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "DYNASPOT",
+  "kind": "par",
+  "light": "LED, Red, Green, Blue, White, 37 W Aufnahme",
+  "beamDeg": [
+   12.0,
+   12.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   10
+  ],
+  "features": [
+   "gobos-fixed:6"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   170,
+   170,
+   200
+  ],
+  "weightKg": 2.96,
+  "url": "https://jb-systems.eu/dynaspot",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1478607083.pdf",
+  "status": "legacy",
+  "inLibrary": "qlc:jb-systems/dynaspot",
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "MINI-PAR 12RGBW",
+  "kind": "par",
+  "light": "LED, RGBW, 10 W Aufnahme",
+  "beamDeg": [
+   13.0,
+   13.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   6
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   150,
+   160,
+   90
+  ],
+  "weightKg": 0.4,
+  "url": "https://jb-systems.eu/mini-par-12rgbw",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1610019384.pdf",
+  "status": "legacy",
+  "inLibrary": "qlc:jb-systems/mini-par-12rgbw",
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "PLANOSPOT 7TC",
+  "kind": "par",
+  "light": "LED, Red, Green, Blue, White, 28.5 W Aufnahme",
+  "beamDeg": [
+   25.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   270,
+   212,
+   80
+  ],
+  "weightKg": 2.74,
+  "url": "https://jb-systems.eu/planospot-7tc",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1436945905.pdf",
+  "status": "legacy",
+  "inLibrary": "qlc:jb-systems/plano-spot-7tc",
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "SPACE-4 Laser",
+  "kind": "laser",
+  "light": "Green, 12 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   8
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   145,
+   160,
+   80
+  ],
+  "weightKg": 1.48,
+  "url": "https://jb-systems.eu/space-4-laser",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418228752.pdf",
+  "status": "legacy",
+  "inLibrary": "qlc:jb-systems/space-4-laser",
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "SUPERSOLAR RGBW",
+  "kind": null,
+  "light": "LED, Red, Green, Blue, White, 27 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   210,
+   210,
+   179
+  ],
+  "weightKg": 2.7,
+  "url": "https://jb-systems.eu/supersolar-rgbw",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1418227833.pdf",
+  "status": "legacy",
+  "inLibrary": "qlc:jb-systems/super-solar-rgbw",
+  "notes": null
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "SUPERSOLAR WHITE",
+  "kind": "effect",
+  "light": "LED, White, 27 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   210,
+   210,
+   179
+  ],
+  "weightKg": 2.7,
+  "url": "https://jb-systems.eu/supersolar-white",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1436449934.pdf",
+  "status": "legacy",
+  "inLibrary": "qlc:jb-systems/super-solar-white",
+  "notes": "Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "JB Systems",
+  "model": "THE WINNER II",
+  "kind": "effect",
+  "light": "Halogen, Red, Green, Blue, White, 250 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5
+  ],
+  "features": [
+   "gobos-fixed:15"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   500,
+   200,
+   155
+  ],
+  "weightKg": 11.0,
+  "url": "https://jb-systems.eu/the-winner-ii",
+  "manualUrl": "https://cdn.beglec.com/media/custom/upload/File-1437657685.pdf",
+  "status": "legacy",
+  "inLibrary": "qlc:jb-systems/the-winner-ii",
+  "notes": "Typ aus Kurzbeschreibung abgeleitet"
+ }
+]

@@ -1,0 +1,2090 @@
+[
+ {
+  "man": "JCLight",
+  "key": "300w-led-ellipsoidal-profile-spotlight-sirius",
+  "model": "300W LED Ellipsoidal Profile Spotlight Sirius",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "wwcw"
+  ],
+  "deg": [
+   5,
+   5
+  ],
+  "ch": [
+   2,
+   4
+  ],
+  "size": [
+   710,
+   340,
+   270
+  ],
+  "url": "https://jclight.com/products/300w-led-ellipsoidal-profile-spotlight-sirius-jc-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "waterproof-10w-20w-30w-moving-head-animation-laser-light",
+  "model": "Waterproof 10W 20W 30W Moving Head Animation Laser Light",
+  "kind": "lasermh",
+  "deg": [
+   60,
+   60
+  ],
+  "ch": [
+   27
+  ],
+  "url": "https://jclight.com/products/2-3-5w-full-color-amination-moving-head-laser-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "6pcs-rotating-round-retro-stage-light",
+  "model": "6PCS Rotating Round Retro Stage Light",
+  "kind": "matrix",
+  "leds": [
+   6,
+   "rgb"
+  ],
+  "ch": [
+   24,
+   34,
+   64
+  ],
+  "pixelFrom": 24,
+  "size": [
+   1350,
+   400,
+   330
+  ],
+  "url": "https://jclight.com/products/6pcs-rotating-round-retro-stage-light-jc-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "7pcs-3in1-retro-stage-light-with-auxiliary-light",
+  "model": "7PCS 3in1 Retro Stage Light With Auxiliary Light",
+  "kind": "matrix",
+  "leds": [
+   7,
+   "rgb"
+  ],
+  "ch": [
+   21,
+   64
+  ],
+  "pixelFrom": 21,
+  "size": [
+   836,
+   770,
+   135
+  ],
+  "url": "https://jclight.com/products/7pcs-3in1-retro-stage-light-with-auxiliary-light-jc-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "480w-beam-moving-head-light-with-gobo-effects",
+  "model": "480W Beam Moving Head Light With Gobo Effects",
+  "kind": "beam",
+  "deg": [
+   2.2,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   34,
+   39
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:10",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://jclight.com/products/jc-light-mega-pointe-480w-beam-moving-head-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "7pcs-waterproof-led-wash-moving-head-light",
+  "model": "7PCS Waterproof LED Wash Moving Head Light",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   5,
+   5
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   30,
+   42,
+   58
+  ],
+  "feat": [
+   "cto",
+   "zoom"
+  ],
+  "url": "https://jclight.com/products/jc-light-waterproof-7pcs-bee-eye-wash-moving-head-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "5-4-beam-laser-dj-light-effect-fixture",
+  "model": "5+4 Beam Laser DJ Light Effect Fixture",
+  "kind": "laser",
+  "deg": [
+   3,
+   5
+  ],
+  "ch": [
+   23
+  ],
+  "size": [
+   800,
+   90,
+   150
+  ],
+  "url": "https://jclight.com/products/54-beam-laser-dj-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "10-eyes-led-beam-moving-head-light",
+  "model": "10 Eyes LED Beam Moving Head Light",
+  "kind": "beam",
+  "ch": [
+   5,
+   7,
+   14,
+   18,
+   42,
+   54
+  ],
+  "url": "https://jclight.com/products/10-eyes-beam-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "8-eyes-led-beam-moving-head-bar-light",
+  "model": "8 Eyes LED Beam Moving Head Bar Light",
+  "kind": "tiltbar",
+  "leds": [
+   8,
+   "rgbw"
+  ],
+  "ch": [
+   9,
+   38
+  ],
+  "pixelFrom": 38,
+  "url": "https://jclight.com/products/8-eyes-beam-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "6-eyes-full-color-animation-laser-light",
+  "model": "6 Eyes Full Color Animation Laser Light",
+  "kind": "laser",
+  "deg": [
+   20,
+   20
+  ],
+  "ch": [
+   12,
+   62
+  ],
+  "feat": [
+   "anim"
+  ],
+  "size": [
+   1100,
+   340,
+   290
+  ],
+  "url": "https://jclight.com/products/6-eyes-full-color-animation-laser-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "24-eyes-matrix-laser-light-effect-fixture",
+  "model": "24 Eyes Matrix Laser Light Effect Fixture",
+  "kind": "laser",
+  "ch": [
+   12,
+   35
+  ],
+  "size": [
+   1000,
+   320,
+   130
+  ],
+  "url": "https://jclight.com/products/24-eyes-matrix-laser-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "8-eyes-laser-moving-head-bar-light",
+  "model": "8 Eyes Laser Moving Head Bar Light",
+  "kind": "lasermh",
+  "deg": [
+   180,
+   180
+  ],
+  "ch": [
+   14,
+   16
+  ],
+  "url": "https://jclight.com/products/8-eyes-laser-bar-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "8-8-beam-laser-moving-head-light",
+  "model": "8+8 Beam Laser Moving Head Light",
+  "kind": "lasermh",
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   23
+  ],
+  "url": "https://jclight.com/products/88-beam-laser-dj-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "8-eyes-skynet-laser-moving-head-light",
+  "model": "8 EYES SKYNET LASER MOVING HEAD LIGHT",
+  "kind": "lasermh",
+  "ch": [
+   23
+  ],
+  "url": "https://jclight.com/products/8-eyes-skynet-laser-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "6-heads-3in1-dot-matrix-led-laser-light",
+  "model": "6 HEADS 3IN1 DOT MATRIX LED LASER LIGHT",
+  "kind": "laser",
+  "ch": [
+   31,
+   59
+  ],
+  "feat": [
+   "anim",
+   "zoom"
+  ],
+  "size": [
+   850,
+   90,
+   320
+  ],
+  "url": "https://jclight.com/products/six-heads-3in1-dot-matrix-laser-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "5-16-laser-dot-matrix-light",
+  "model": "5+16 Laser Dot Matrix Light",
+  "kind": "laser",
+  "ch": [
+   12,
+   35
+  ],
+  "feat": [
+   "anim"
+  ],
+  "size": [
+   840,
+   90,
+   250
+  ],
+  "url": "https://jclight.com/products/516-laser-dot-matrix-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "6-eyes-laser-moving-head-light",
+  "model": "6 Eyes Laser Moving Head Light",
+  "kind": "lasermh",
+  "ch": [
+   19
+  ],
+  "url": "https://jclight.com/products/6-eyes-moving-head-laser-light-i8-1",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "1000w-8-8-strobe-light-with-led-effects",
+  "model": "1000W 8+8 Strobe Light With LED Effects",
+  "kind": "strobe",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   4,
+   12,
+   32
+  ],
+  "size": [
+   500,
+   275,
+   140
+  ],
+  "url": "https://jclight.com/products/1000w-88-strobe-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "1000w-strobe-light-for-stage-lighting",
+  "model": "1000W Strobe Light For Stage Lighting",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "ch": [
+   4,
+   6,
+   9,
+   12,
+   32,
+   44
+  ],
+  "size": [
+   500,
+   275,
+   140
+  ],
+  "url": "https://jclight.com/products/1000w-strobe-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "led-strobe-panel-moving-head-light",
+  "model": "LED Strobe Panel Moving Head Light",
+  "kind": "strobe",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   1,
+   18
+  ],
+  "size": [
+   340,
+   310,
+   310
+  ],
+  "url": "https://jclight.com/products/led-strobe-panel-moving-head-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 154, 162 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "5pcs-3in1-led-matrix-light",
+  "model": "5PCS 3in1 LED Matrix Light",
+  "kind": "matrix",
+  "leds": [
+   5,
+   "rgb"
+  ],
+  "ch": [
+   8,
+   20
+  ],
+  "pixelFrom": 20,
+  "size": [
+   575,
+   115,
+   115
+  ],
+  "url": "https://jclight.com/products/5pcs-3in1-led-matrix-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "36pcs-gold-led-matrix-light",
+  "model": "36PCS Gold LED Matrix Light",
+  "kind": "matrix",
+  "leds": [
+   36,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   4
+  ],
+  "ch": [
+   10,
+   40,
+   108,
+   118
+  ],
+  "pixelFrom": 108,
+  "size": [
+   500,
+   500,
+   100
+  ],
+  "url": "https://jclight.com/products/36pcs-gold-led-matrix-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "14pcs-led-wash-dot-matrix-light",
+  "model": "14PCS LED Wash Dot Matrix Light",
+  "kind": "matrix",
+  "leds": [
+   14,
+   "rgb"
+  ],
+  "ch": [
+   6,
+   8,
+   12,
+   60
+  ],
+  "pixelFrom": 60,
+  "size": [
+   1000,
+   72,
+   120
+  ],
+  "url": "https://jclight.com/products/14pcs-led-wash-dot-matrix-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "7pcs-retro-stage-light-for-events",
+  "model": "7PCS Retro Stage Light For Events",
+  "kind": "matrix",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "ch": [
+   8
+  ],
+  "size": [
+   800,
+   720,
+   180
+  ],
+  "url": "https://jclight.com/products/7pcs-retro-stage-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "rotating-maple-leaf-retro-stage-light",
+  "model": "Rotating Maple Leaf Retro Stage Light",
+  "kind": "matrix",
+  "leds": [
+   36,
+   "rgbw"
+  ],
+  "ch": [
+   15,
+   20,
+   26
+  ],
+  "size": [
+   490,
+   450,
+   230
+  ],
+  "url": "https://jclight.com/products/360w-retro-stage-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "36pcs-led-matrix-background-light",
+  "model": "36PCS LED Matrix Background Light",
+  "kind": "matrix",
+  "leds": [
+   36,
+   "rgbw"
+  ],
+  "deg": [
+   2,
+   2
+  ],
+  "ch": [
+   4,
+   11,
+   17,
+   44,
+   144,
+   147
+  ],
+  "pixelFrom": 144,
+  "size": [
+   500,
+   500,
+   152
+  ],
+  "url": "https://jclight.com/products/36pcs-led-matrix-background-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "25pcs-led-matrix-light-for-stage-effects",
+  "model": "25PCS LED Matrix Light For Stage Effects",
+  "kind": "matrix",
+  "leds": [
+   25,
+   "rgb"
+  ],
+  "deg": [
+   60,
+   60
+  ],
+  "ch": [
+   8,
+   75,
+   80
+  ],
+  "pixelFrom": 75,
+  "size": [
+   580,
+   580,
+   150
+  ],
+  "url": "https://jclight.com/products/25pcs-led-matrix-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "6-line-retro-stage-lighting",
+  "model": "6 Line Retro Stage Lighting",
+  "kind": "matrix",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "ch": [
+   4,
+   12,
+   24
+  ],
+  "size": [
+   1140,
+   320,
+   200
+  ],
+  "url": "https://jclight.com/products/kinetic-beam-ring-light-copy",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "12pcs-60w-led-beam-zoom-moving-head-light",
+  "model": "12PCS 60W LED Beam Zoom Moving Head Light",
+  "kind": "beam",
+  "deg": [
+   4.3,
+   11
+  ],
+  "ch": [
+   20,
+   53
+  ],
+  "url": "https://jclight.com/products/12pic-60w-led-beam-zoom-moving-head-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 101, 155, 169, 179 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "12-14pcs-3in1-led-matrix-light",
+  "model": "12/14PCS 3in1 LED Matrix Light",
+  "kind": "matrix",
+  "leds": [
+   14,
+   "rgb"
+  ],
+  "deg": [
+   4,
+   4
+  ],
+  "ch": [
+   5,
+   7,
+   13,
+   73,
+   75,
+   86
+  ],
+  "size": [
+   1000,
+   80,
+   150
+  ],
+  "url": "https://jclight.com/products/12-14pcs-3in1-led-matrix-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "mini-7pcs-retro-stage-light",
+  "model": "MINI 7PCS RETRO STAGE LIGHT",
+  "kind": "matrix",
+  "leds": [
+   63,
+   "rgb"
+  ],
+  "ch": [
+   8,
+   32
+  ],
+  "size": [
+   560,
+   500,
+   100
+  ],
+  "url": "https://jclight.com/products/mini-7pcs-retro-stage-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "waterproof-dmx-follow-spot-light-the-smurfs",
+  "model": "WATERPROOF DMX FOLLOW SPOT LIGHT (THE SMURFS)",
+  "kind": "follow",
+  "deg": [
+   5,
+   18
+  ],
+  "ch": [
+   5
+  ],
+  "feat": [
+   "cto",
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   1080,
+   520,
+   430
+  ],
+  "url": "https://jclight.com/products/waterproof-led-follow-spot-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. 1 weitere Shop-Listings mit gleichen Daten zusammengefasst.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "cob-zoom-led-moving-head-light",
+  "model": "COB ZOOM LED MOVING HEAD LIGHT",
+  "kind": "cob",
+  "ch": [
+   10
+  ],
+  "feat": [
+   "cto",
+   "focus"
+  ],
+  "size": [
+   450,
+   300,
+   240
+  ],
+  "url": "https://jclight.com/products/cob-zoom-led-moving-head-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "led-leko-profile-spotlight",
+  "model": "LED LEKO PROFILE SPOTLIGHT",
+  "kind": "ellipsoidal",
+  "deg": [
+   19,
+   19
+  ],
+  "ch": [
+   2,
+   4,
+   9
+  ],
+  "size": [
+   340,
+   270,
+   710
+  ],
+  "url": "https://jclight.com/products/led-leko-profile-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "4-eyes-audience-blinder-light",
+  "model": "4 EYES AUDIENCE BLINDER LIGHT",
+  "kind": "blinder",
+  "leds": [
+   4,
+   "ww"
+  ],
+  "deg": [
+   60,
+   60
+  ],
+  "ch": [
+   2,
+   4,
+   12
+  ],
+  "pixelFrom": 4,
+  "size": [
+   390,
+   360,
+   210
+  ],
+  "url": "https://jclight.com/products/4-eyes-audience-light-e9-e10",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "2-eyes-audience-blinders-light",
+  "model": "2 EYES AUDIENCE BLINDERS LIGHT",
+  "kind": "blinder",
+  "leds": [
+   2,
+   "ww"
+  ],
+  "deg": [
+   60,
+   60
+  ],
+  "ch": [
+   2,
+   4,
+   8
+  ],
+  "pixelFrom": 2,
+  "size": [
+   370,
+   190,
+   180
+  ],
+  "url": "https://jclight.com/products/2-eyes-audience-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "cob-zoom-led-moving-head-light-2",
+  "model": "COB ZOOM LED MOVING HEAD LIGHT",
+  "kind": "cob",
+  "leds": [
+   1,
+   "white"
+  ],
+  "ch": [
+   12
+  ],
+  "feat": [
+   "cto",
+   "focus"
+  ],
+  "size": [
+   450,
+   300,
+   240
+  ],
+  "url": "https://jclight.com/products/cob-zoom-led-moving-head-light-2",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "4-eyes-cob-moving-head-light",
+  "model": "4 EYES COB MOVING HEAD LIGHT",
+  "kind": "cob",
+  "deg": [
+   45,
+   45
+  ],
+  "ch": [
+   9,
+   16
+  ],
+  "size": [
+   280,
+   200,
+   400
+  ],
+  "url": "https://jclight.com/products/4-eyes-cob-moving-head-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "led-tricolor-panel-studio-soft-light",
+  "model": "LED TRICOLOR PANEL STUDIO SOFT LIGHT",
+  "kind": "panel",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "ch": [
+   4
+  ],
+  "size": [
+   390,
+   360,
+   210
+  ],
+  "url": "https://jclight.com/products/led-tricolor-panel-studio-soft-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "300w-focus-cob-profile-light",
+  "model": "300W FOCUS COB PROFILE LIGHT",
+  "kind": "cob",
+  "deg": [
+   15,
+   60
+  ],
+  "ch": [
+   3,
+   4
+  ],
+  "feat": [
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   210,
+   300,
+   440
+  ],
+  "url": "https://jclight.com/products/300w-focus-cob-profile-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "400w-led-fresnel-zoom-spotlight",
+  "model": "400W LED FRESNEL ZOOM SPOTLIGHT",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   15,
+   60
+  ],
+  "ch": [
+   2
+  ],
+  "feat": [
+   "focus"
+  ],
+  "size": [
+   520,
+   220,
+   420
+  ],
+  "url": "https://jclight.com/products/400w-led-fresnel-zoom-spotlight",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "680s-super-beam-light",
+  "model": "680S SUPER BEAM LIGHT",
+  "kind": "beam",
+  "tilt": 540,
+  "ch": [
+   16
+  ],
+  "feat": [
+   "cto",
+   "gobo:14",
+   "prism",
+   "focus"
+  ],
+  "url": "https://jclight.com/products/680s-super-beam-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. 2 weitere Shop-Listings mit gleichen Daten zusammengefasst.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "440w-460w-beam-light",
+  "model": "440W/460W BEAM LIGHT",
+  "kind": "beam",
+  "tilt": 540,
+  "ch": [
+   16,
+   20
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://jclight.com/products/440w-460w-beam-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. 1 weitere Shop-Listings mit gleichen Daten zusammengefasst.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "300-330-350-380w-led-beam-moving-head-light",
+  "model": "300/330/350/380W LED BEAM MOVING HEAD LIGHT",
+  "kind": "beam",
+  "ch": [
+   13
+  ],
+  "feat": [
+   "gobo:8",
+   "prism"
+  ],
+  "url": "https://jclight.com/products/300-330-350-380w-led-beam-moving-head-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "260w-295w-beam-light-with-led-ring-the-silver-fox",
+  "model": "260W/295W BEAM LIGHT WITH LED RING(THE SILVER FOX)",
+  "kind": "beam",
+  "pan": 540,
+  "ch": [
+   16,
+   20
+  ],
+  "feat": [
+   "gobo:17",
+   "prism",
+   "focus"
+  ],
+  "url": "https://jclight.com/products/260w-295w-beam-light-with-led-ring",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. 1 weitere Shop-Listings mit gleichen Daten zusammengefasst.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "580s-beam-light-yangwang",
+  "model": "580S BEAM LIGHT (YANGWANG)",
+  "kind": "beam",
+  "tilt": 540,
+  "ch": [
+   16,
+   20
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "focus"
+  ],
+  "url": "https://jclight.com/products/480w-beam-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. 3 weitere Shop-Listings mit gleichen Daten zusammengefasst.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "mini-230w-beam-light-a4",
+  "model": "MINI 230W BEAM LIGHT – A4",
+  "kind": "beam",
+  "pan": 540,
+  "ch": [
+   14
+  ],
+  "feat": [
+   "gobo:14",
+   "prism"
+  ],
+  "url": "https://jclight.com/products/mini-230w-beam-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "251w-beam-light-rhino",
+  "model": "251W BEAM LIGHT(RHINO)",
+  "kind": "beam",
+  "deg": [
+   15,
+   60
+  ],
+  "pan": 540,
+  "ch": [
+   16,
+   20
+  ],
+  "feat": [
+   "gobo:17",
+   "prism",
+   "focus"
+  ],
+  "url": "https://jclight.com/products/251w-beam-lightrhino",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "18r-380w-beam-light-with-ring-the-wolf-warriors",
+  "model": "18R 380W BEAM LIGHT WITH RING(THE WOLF WARRIORS)",
+  "kind": "beam",
+  "deg": [
+   1.8,
+   1.8
+  ],
+  "ch": [
+   16,
+   20
+  ],
+  "feat": [
+   "gobo:13",
+   "prism",
+   "focus"
+  ],
+  "url": "https://jclight.com/products/18r-380w-beam-light-with-ringthe-wolf-warriors",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. 1 weitere Shop-Listings mit gleichen Daten zusammengefasst.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "7r-230w-beam-light-the-wolf-king",
+  "model": "7R 230W BEAM LIGHT(THE WOLF KING)",
+  "kind": "beam",
+  "pan": 540,
+  "ch": [
+   16
+  ],
+  "feat": [
+   "gobo:17",
+   "prism"
+  ],
+  "url": "https://jclight.com/products/7r-230w-beam-light-the-wolf-king",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "upgraded-led-3in1-spot-moving-head-light-junno",
+  "model": "UPGRADED LED 3IN1 SPOT MOVING HEAD LIGHT(JUNNO)",
+  "kind": "hybrid",
+  "deg": [
+   7,
+   42
+  ],
+  "tilt": 540,
+  "ch": [
+   21
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:8",
+   "gobor",
+   "gobo2",
+   "prism",
+   "focus"
+  ],
+  "url": "https://jclight.com/products/upgraded-led-3in1-spot-moving-head-lightjunno",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "led-3in1-spot-moving-head-light-light-weight",
+  "model": "LED 3IN1 SPOT MOVING HEAD LIGHT (LIGHT WEIGHT)",
+  "kind": "hybrid",
+  "deg": [
+   4,
+   35
+  ],
+  "tilt": 540,
+  "ch": [
+   26
+  ],
+  "feat": [
+   "cmy",
+   "gobo:7",
+   "prism",
+   "zoom"
+  ],
+  "url": "https://jclight.com/products/led-3in1-spot-moving-head-light-light-weight",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "380-480w-beam-light-weight",
+  "model": "380/480W BEAM(LIGHT WEIGHT)",
+  "kind": "beam",
+  "pan": 540,
+  "tilt": 540,
+  "ch": [
+   16
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:11",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://jclight.com/products/380-480w-beam-lightlight-weight",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "18r-380w-beam-light-the-smurfs",
+  "model": "18R 380W BEAM LIGHT (THE SMURFS)",
+  "kind": "beam",
+  "pan": 540,
+  "ch": [
+   20,
+   24
+  ],
+  "feat": [
+   "gobo:17",
+   "prism",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://jclight.com/products/18r-380w-beam-light-the-smurfs",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "beam-moving-head-295-light",
+  "model": "Beam Moving Head 295 Light",
+  "kind": "beam",
+  "tilt": 540,
+  "ch": [
+   16
+  ],
+  "feat": [
+   "gobo:13",
+   "prism",
+   "focus"
+  ],
+  "url": "https://jclight.com/products/295w-beam-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "led-4in1-cutting-moving-head-light-light-weight",
+  "model": "LED 4IN1 CUTTING MOVING HEAD LIGHT (LIGHT WEIGHT)",
+  "kind": "profile",
+  "deg": [
+   4.5,
+   35
+  ],
+  "tilt": 540,
+  "ch": [
+   22,
+   26
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:8",
+   "gobor",
+   "gobo2",
+   "prism",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://jclight.com/products/led-4in1-cutting-moving-head-light-light-weight",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "waterproof-wireless-battery-dmx-led-par-light-d37-3",
+  "model": "WATERPROOF WIRELESS BATTERY DMX LED PAR LIGHT D37-3",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbwauv"
+  ],
+  "ch": [
+   6,
+   10
+  ],
+  "size": [
+   360,
+   290,
+   300
+  ],
+  "url": "https://jclight.com/products/waterproof-wireless-battery-dmx-led-par-light-d37-3",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "waterproof-wireless-battery-18-led-wall-washer",
+  "model": "WATERPROOF WIRELESS BATTERY 18 LED WALL WASHER",
+  "kind": "bar",
+  "leds": [
+   1,
+   "rgbwauv"
+  ],
+  "ch": [
+   6,
+   10
+  ],
+  "size": [
+   250,
+   240,
+   130
+  ],
+  "url": "https://jclight.com/products/waterproof-wireless-battery-18-led-wall-washer",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "waterproof-480-550-680-800w-beam-light-aluminum-alloy-sl",
+  "model": "WATERPROOF 480/550/680/800W BEAM LIGHT(ALUMINUM ALLOY SLIVER DRAGON)",
+  "kind": "beam",
+  "deg": [
+   1.8,
+   1.8
+  ],
+  "ch": [
+   16,
+   20
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "focus"
+  ],
+  "url": "https://jclight.com/products/waterproof-480-550-680-800w-beam-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. 3 weitere Shop-Listings mit gleichen Daten zusammengefasst.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "waterproof-230-260-350-380w-beam-light",
+  "model": "WATERPROOF 230/260/350/380W BEAM LIGHT",
+  "kind": "beam",
+  "tilt": 540,
+  "ch": [
+   16,
+   20
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "prism",
+   "focus"
+  ],
+  "url": "https://jclight.com/products/waterproof-230-260-350-380w-beam-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. 1 weitere Shop-Listings mit gleichen Daten zusammengefasst.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "waterproof-380w-beam-light-with-led-ring-light-weight",
+  "model": "WATERPROOF 380W BEAM LIGHT WITH LED RING(LIGHT WEIGHT)",
+  "kind": "beam",
+  "deg": [
+   2.8,
+   38
+  ],
+  "tilt": 540,
+  "ch": [
+   16,
+   20
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "focus"
+  ],
+  "url": "https://jclight.com/products/waterproof-380w-beam-light-with-led-ringlight-weight",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "waterproof-laser-beam-moving-head-light-light-weight",
+  "model": "WATERPROOF LASER BEAM MOVING HEAD LIGHT(LIGHT WEIGHT)",
+  "kind": "lasermh",
+  "deg": [
+   2,
+   2
+  ],
+  "ch": [
+   16,
+   20
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "focus"
+  ],
+  "url": "https://jclight.com/products/waterproof-laser-beam-moving-head-lightlight-weight",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "waterproof-5x60w-led-zoom-matrix-light-with-auxiliary-li",
+  "model": "WATERPROOF 5x60W LED ZOOM MATRIX LIGHT WITH AUXILIARY LIGHT(PHOENIX",
+  "kind": "matrix",
+  "leds": [
+   5,
+   "rgbw"
+  ],
+  "deg": [
+   3,
+   25
+  ],
+  "ch": [
+   17,
+   27,
+   55,
+   58,
+   88,
+   90
+  ],
+  "pixelFrom": 27,
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   500,
+   159,
+   404
+  ],
+  "url": "https://jclight.com/products/waterproof-5x60w-led-zoom-matrix-light-with-auxiliary-lightphoenix-dance",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "waterproof-48pcs-led-city-color-wash-light",
+  "model": "WATERPROOF 48PCS LED CITY COLOR WASH LIGHT",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   8,
+   12
+  ],
+  "size": [
+   580,
+   470,
+   535
+  ],
+  "url": "https://jclight.com/products/waterproof-48pcs-led-city-color-wash-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "200w-bee-eye-moving-head-light",
+  "model": "200W BEE EYE MOVING HEAD LIGHT",
+  "kind": "beeeye",
+  "leds": [
+   4,
+   "rgbw"
+  ],
+  "pan": 540,
+  "ch": [
+   18
+  ],
+  "pixelFrom": 18,
+  "feat": [
+   "focus"
+  ],
+  "url": "https://jclight.com/products/200w-bee-eye-moving-head-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "waterproof-3in1-spot-moving-head-light-neptune",
+  "model": "Waterproof 3in1 Spot moving head light (Neptune)",
+  "kind": "hybrid",
+  "deg": [
+   2.8,
+   38
+  ],
+  "ch": [
+   17
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "zoom"
+  ],
+  "url": "https://jclight.com/products/waterproof-3in1-spot-moving-head-light-neptune",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "12-segment-strobe-moving-head-light",
+  "model": "12 segment strobe moving head light",
+  "kind": "strobe",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   4,
+   11,
+   32,
+   39
+  ],
+  "size": [
+   500,
+   110,
+   300
+  ],
+  "url": "https://jclight.com/products/12-segment-strobe-moving-head-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "1000w-waterproof-strobe-light",
+  "model": "1000w Waterproof strobe light",
+  "kind": "strobe",
+  "ch": [
+   11,
+   15,
+   59,
+   71
+  ],
+  "size": [
+   480,
+   350,
+   140
+  ],
+  "url": "https://jclight.com/products/1000w-waterproof-strobe-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "led-3in1-cmy-cto-moving-head-junno",
+  "model": "LED 3in1 CMY+CTO moving head (Junno)",
+  "kind": "hybrid",
+  "deg": [
+   2.5,
+   2.5
+  ],
+  "ch": [
+   24,
+   32
+  ],
+  "feat": [
+   "gobo:12",
+   "prism",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://jclight.com/products/led-3in1-cmy-cto-moving-head-junno",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "upgraded-led-3in1-spot-moving-head-light-junno-2",
+  "model": "Upgraded LED 3in1 spot moving head Light (Junno)",
+  "kind": "hybrid",
+  "deg": [
+   8,
+   38
+  ],
+  "tilt": 540,
+  "ch": [
+   21
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:11",
+   "gobor",
+   "gobo2",
+   "prism",
+   "focus"
+  ],
+  "url": "https://jclight.com/products/upgraded-led-3in1-spot-moving-head-light-junno",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "480w-3in1-spot-moving-head-light-optimus-prime",
+  "model": "480w 3in1 Spot Moving Head Light (Optimus Prime)",
+  "kind": "hybrid",
+  "deg": [
+   8,
+   38
+  ],
+  "tilt": 540,
+  "ch": [
+   24
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:11",
+   "prism",
+   "zoom"
+  ],
+  "url": "https://jclight.com/products/480w-3in1-spot-moving-head-light-optimus-prime",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "led-computer-cut-moving-head-light",
+  "model": "LED Computer Cut moving head Light",
+  "kind": "profile",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   40,
+   42,
+   65
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:7",
+   "prism",
+   "focus"
+  ],
+  "url": "https://jclight.com/products/led-computer-cut-moving-head-light-3",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. 1 weitere Shop-Listings mit gleichen Daten zusammengefasst.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "waterproof-led-computer-cut-moving-head-light",
+  "model": "Waterproof LED Computer Cut moving head Light",
+  "kind": "profile",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   35,
+   44
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:8",
+   "anim",
+   "prism",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://jclight.com/products/waterproof-led-computer-cut-moving-head-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "waterproof-led-computer-cut-moving-head-light-2",
+  "model": "Waterproof LED Computer Cut moving head Light",
+  "kind": "profile",
+  "ch": [
+   34
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "focus"
+  ],
+  "url": "https://jclight.com/products/led-computer-cut-moving-head-light-copy",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "led-computer-cut-moving-head-light-2",
+  "model": "LED Computer Cut Moving Head Light",
+  "kind": "profile",
+  "deg": [
+   5,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   34,
+   42
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://jclight.com/products/led-computer-cut-moving-head-light-2",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "580s-beam-light-yangwang-2",
+  "model": "580S beam light (Yangwang)",
+  "kind": "beam",
+  "tilt": 540,
+  "ch": [
+   16,
+   20
+  ],
+  "feat": [
+   "gobo:14",
+   "prism"
+  ],
+  "url": "https://jclight.com/products/680s-beam-light-yangwang-copy",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. 1 weitere Shop-Listings mit gleichen Daten zusammengefasst.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "waterproof-7pcs-led-bee-eyes-moving-head-light-wasp",
+  "model": "Waterproof 7pcs LED Bee Eyes Moving Head Light (Wasp)",
+  "kind": "beeeye",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   6,
+   40
+  ],
+  "pan": 540,
+  "ch": [
+   17
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://jclight.com/products/waterproof-7pcs-led-bee-eyes-moving-head-light-wasp",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "19x40w-bee-eye-moving-head-light-with-pixel-strip",
+  "model": "19X40w Bee eye Moving head Light with pixel strip",
+  "kind": "beeeye",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   22,
+   26,
+   36,
+   78
+  ],
+  "pixelFrom": 78,
+  "feat": [
+   "cto",
+   "focus"
+  ],
+  "url": "https://jclight.com/products/19pcs-bee-eye-moving-head-light-copy",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 4 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "19pcs-bee-eye-moving-head-light",
+  "model": "19pcs Bee eye Moving head Light",
+  "kind": "beeeye",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   60
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   18
+  ],
+  "feat": [
+   "zoom",
+   "focus"
+  ],
+  "url": "https://jclight.com/products/19pcs-bee-eye-moving-head-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. 1 weitere Shop-Listings mit gleichen Daten zusammengefasst.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "waterproof-200w-led-ellipsoidal-profile-light",
+  "model": "Waterproof 200w LED Ellipsoidal Profile light",
+  "kind": "ellipsoidal",
+  "deg": [
+   5,
+   5
+  ],
+  "ch": [
+   2,
+   4,
+   9
+  ],
+  "feat": [
+   "focus"
+  ],
+  "size": [
+   340,
+   270,
+   710
+  ],
+  "url": "https://jclight.com/products/waterproof-200w-led-ellipsoidal-profile-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "300w-led-ellipsoidal-profile-light",
+  "model": "300w LED Ellipsoidal Profile light",
+  "kind": "ellipsoidal",
+  "deg": [
+   15,
+   40
+  ],
+  "ch": [
+   2
+  ],
+  "feat": [
+   "focus"
+  ],
+  "size": [
+   303,
+   243,
+   765
+  ],
+  "url": "https://jclight.com/products/300w-led-ellipsoidal-profile-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "3in1-spot-moving-head-light-holy-bird",
+  "model": "3in1 Spot Moving Head Light (Holy bird)",
+  "kind": "hybrid",
+  "tilt": 540,
+  "ch": [
+   26,
+   35
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "prism",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://jclight.com/products/3in1-spot-moving-head-light-holy-bird",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "200w-led-spot-moving-head-light",
+  "model": "200w LED Spot moving head light",
+  "kind": "spot",
+  "pan": 540,
+  "ch": [
+   13
+  ],
+  "feat": [
+   "gobo:14",
+   "prism"
+  ],
+  "url": "https://jclight.com/products/200w-led-spot-moving-head-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "12x60w-led-beam-zoom-moving-head-light-with-auxiliary-li",
+  "model": "12x60w LED beam zoom moving head light with auxiliary light",
+  "kind": "beam",
+  "ch": [
+   29,
+   62
+  ],
+  "url": "https://jclight.com/products/37x40w-bee-eye-moving-head-light-wasp-copy",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 170, 254, 308, 332 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "37x40w-bee-eye-moving-head-light-wasp",
+  "model": "37x40W Bee eye moving head light (Wasp)",
+  "kind": "beeeye",
+  "leds": [
+   37,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   60
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   18
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://jclight.com/products/37x40w-bee-eye-moving-head-light-wasp",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "200w-cob-surface-light-sirius",
+  "model": "200W COB surface light (Sirius)",
+  "kind": "cob",
+  "leds": [
+   1,
+   "wwcw"
+  ],
+  "ch": [
+   6
+  ],
+  "size": [
+   280,
+   210,
+   300
+  ],
+  "url": "https://jclight.com/products/200w-cob-surface-light-sirius",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "24pcs-waterproof-led-par-light-whale-shark",
+  "model": "24pcs Waterproof LED Par light (Whale Shark)",
+  "kind": "par",
+  "leds": [
+   24,
+   "rgbwauv"
+  ],
+  "deg": [
+   45,
+   45
+  ],
+  "ch": [
+   8
+  ],
+  "size": [
+   280,
+   210,
+   300
+  ],
+  "url": "https://jclight.com/products/24pcs-led-par-light-thor-copy",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "18pcs-waterproof-led-par-light-whale-shark",
+  "model": "18pcs Waterproof LED Par light (Whale Shark)",
+  "kind": "par",
+  "leds": [
+   18,
+   "rgbwauv"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   8
+  ],
+  "size": [
+   290,
+   210,
+   320
+  ],
+  "url": "https://jclight.com/products/18pcs-led-par-light-thor-copy",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "27pcs-led-par-light-thor",
+  "model": "27pcs LED Par light (Thor)",
+  "kind": "par",
+  "leds": [
+   27,
+   "rgbw"
+  ],
+  "deg": [
+   45,
+   45
+  ],
+  "ch": [
+   7,
+   12
+  ],
+  "size": [
+   280,
+   210,
+   300
+  ],
+  "url": "https://jclight.com/products/27pcs-led-par-light-thor",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "19pcs-led-par-light-thor",
+  "model": "19pcs LED Par light (Thor)",
+  "kind": "par",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   45,
+   45
+  ],
+  "ch": [
+   7,
+   12
+  ],
+  "size": [
+   280,
+   210,
+   300
+  ],
+  "url": "https://jclight.com/products/19pcs-led-par-light-thor",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "24pcs-led-par-light-thor",
+  "model": "24pcs LED Par light (Thor)",
+  "kind": "par",
+  "leds": [
+   24,
+   "rgbwauv"
+  ],
+  "deg": [
+   45,
+   45
+  ],
+  "ch": [
+   7,
+   12
+  ],
+  "size": [
+   280,
+   210,
+   300
+  ],
+  "url": "https://jclight.com/products/24pcs-led-par-light-thor",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JCLight",
+  "key": "18pcs-led-par-light-thor",
+  "model": "18pcs LED Par light (Thor)",
+  "kind": "par",
+  "leds": [
+   18,
+   "rgbwauv"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   7,
+   12
+  ],
+  "size": [
+   290,
+   210,
+   320
+  ],
+  "url": "https://jclight.com/products/18pcs-led-par-light-new-upgraded",
+  "note": "Steckbrief aus Shop-Text (automatisch) (jclight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

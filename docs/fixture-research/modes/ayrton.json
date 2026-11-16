@@ -1,0 +1,742 @@
+[
+ {
+  "man": "Ayrton",
+  "key": "veloce-profile",
+  "model": "Veloce Profile",
+  "kind": "profile",
+  "deg": [
+   4,
+   52
+  ],
+  "ch": [
+   44,
+   67
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.ayrton.eu/produit/veloce-profile/",
+  "note": "Steckbrief aus Herstellerangaben (ayrton.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Ayrton",
+  "key": "veloce-wash",
+  "model": "Veloce Wash",
+  "kind": "wash",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   4,
+   57
+  ],
+  "ch": [
+   60
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.ayrton.eu/produit/veloce-wash/",
+  "note": "Steckbrief aus Herstellerangaben (ayrton.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Ayrton",
+  "key": "rivale-wash",
+  "model": "Rivale Wash",
+  "kind": "wash",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   4,
+   57
+  ],
+  "ch": [
+   60
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.ayrton.eu/produit/rivale-wash/",
+  "note": "Steckbrief aus Herstellerangaben (ayrton.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Ayrton",
+  "key": "stradale-profile",
+  "model": "Stradale Profile",
+  "kind": "profile",
+  "deg": [
+   4,
+   52
+  ],
+  "ch": [
+   42,
+   65
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:14",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.ayrton.eu/produit/stradale-profile/",
+  "note": "Steckbrief aus Herstellerangaben (ayrton.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Ayrton",
+  "key": "eaglestrike",
+  "model": "EagleStrike",
+  "kind": "profile",
+  "deg": [
+   2.9,
+   43
+  ],
+  "tilt": 270,
+  "ch": [
+   44,
+   66
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:5",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.ayrton.eu/produit/eaglestrike/",
+  "note": "Steckbrief aus Herstellerangaben (ayrton.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Ayrton",
+  "key": "naja",
+  "model": "Naja",
+  "kind": "beam",
+  "ch": [
+   49
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:12",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.ayrton.eu/produit/naja/",
+  "note": "Steckbrief aus Herstellerangaben (ayrton.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Ayrton",
+  "key": "mamba",
+  "model": "Mamba",
+  "kind": "beam",
+  "deg": [
+   0.7,
+   15
+  ],
+  "ch": [
+   47
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "gobo:12",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://www.ayrton.eu/produit/mamba/",
+  "note": "Steckbrief aus Herstellerangaben (ayrton.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Ayrton",
+  "key": "rawbeam-350",
+  "model": "Rawbeam 350",
+  "kind": "beam",
+  "deg": [
+   1.1,
+   45
+  ],
+  "ch": [
+   43
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:10",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.ayrton.eu/produit/rawbeam-350/",
+  "note": "Steckbrief aus Herstellerangaben (ayrton.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Ayrton",
+  "key": "karif-lt",
+  "model": "Karif LT",
+  "kind": "beam",
+  "deg": [
+   2.8,
+   47
+  ],
+  "tilt": 263,
+  "ch": [
+   32,
+   46
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:9",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://www.ayrton.eu/produit/karif-lt/",
+  "note": "Steckbrief aus Herstellerangaben (ayrton.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Ayrton",
+  "key": "perseo-beam",
+  "model": "Perseo Beam",
+  "kind": "beam",
+  "deg": [
+   2,
+   42
+  ],
+  "tilt": 263,
+  "ch": [
+   29,
+   42
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:9",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://www.ayrton.eu/produit/perseo-beam/",
+  "note": "Steckbrief aus Herstellerangaben (ayrton.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Ayrton",
+  "key": "domino-profile",
+  "model": "Domino Profile",
+  "kind": "profile",
+  "deg": [
+   6,
+   60
+  ],
+  "pan": 540,
+  "tilt": 263,
+  "ch": [
+   44,
+   66
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.ayrton.eu/produit/domino-profile/",
+  "note": "Steckbrief aus Herstellerangaben (ayrton.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Ayrton",
+  "key": "domino-wash",
+  "model": "Domino Wash",
+  "kind": "wash",
+  "deg": [
+   6.2,
+   75
+  ],
+  "pan": 540,
+  "tilt": 262,
+  "ch": [
+   37,
+   61
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:7",
+   "gobor",
+   "anim",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.ayrton.eu/produit/domino-wash/",
+  "note": "Steckbrief aus Herstellerangaben (ayrton.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Ayrton",
+  "key": "hurac-n-profile",
+  "model": "Huracán Profile",
+  "kind": "profile",
+  "deg": [
+   6,
+   60
+  ],
+  "pan": 540,
+  "tilt": 262,
+  "ch": [
+   44,
+   70
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:7",
+   "gobor",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.ayrton.eu/produit/huracan-profile/",
+  "note": "Steckbrief aus Herstellerangaben (ayrton.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Ayrton",
+  "key": "hurac-n-wash",
+  "model": "Huracán Wash",
+  "kind": "wash",
+  "pan": 540,
+  "tilt": 260,
+  "ch": [
+   39,
+   61
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:7",
+   "gobor",
+   "anim",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.ayrton.eu/produit/huracan-wash/",
+  "note": "Steckbrief aus Herstellerangaben (ayrton.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Ayrton",
+  "key": "merak",
+  "model": "Merak",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "pan": 540,
+  "tilt": 263,
+  "ch": [
+   18,
+   28
+  ],
+  "feat": [
+   "pro",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.ayrton.eu/produit/merak/",
+  "note": "Steckbrief aus Herstellerangaben (ayrton.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Ayrton",
+  "key": "argo-6-wash",
+  "model": "Argo 6 Wash",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   56
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   26,
+   67
+  ],
+  "pixelFrom": 67,
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.ayrton.eu/produit/argo-6-wash/",
+  "note": "Steckbrief aus Herstellerangaben (ayrton.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Ayrton",
+  "key": "argo-6-fx",
+  "model": "Argo 6 FX",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   56
+  ],
+  "ch": [
+   26,
+   127
+  ],
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.ayrton.eu/produit/argo-6-fx/",
+  "note": "Steckbrief aus Herstellerangaben (ayrton.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Ayrton",
+  "key": "zonda-3-wash",
+  "model": "Zonda 3 Wash",
+  "kind": "wash",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "pan": 540,
+  "tilt": 265,
+  "ch": [
+   26,
+   46
+  ],
+  "pixelFrom": 46,
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.ayrton.eu/produit/zonda-3-wash/",
+  "note": "Steckbrief aus Herstellerangaben (ayrton.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Ayrton",
+  "key": "zonda-3-fx",
+  "model": "Zonda 3 FX",
+  "kind": "wash",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   56
+  ],
+  "ch": [
+   26,
+   79
+  ],
+  "pixelFrom": 26,
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.ayrton.eu/produit/zonda-3-fx/",
+  "note": "Steckbrief aus Herstellerangaben (ayrton.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Ayrton",
+  "key": "zonda-9-wash",
+  "model": "Zonda 9 Wash",
+  "kind": "wash",
+  "leds": [
+   37,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   56
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   26,
+   54
+  ],
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.ayrton.eu/produit/zonda-9-wash/",
+  "note": "Steckbrief aus Herstellerangaben (ayrton.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Ayrton",
+  "key": "nando-502-wash",
+  "model": "Nando 502 Wash",
+  "kind": "wash",
+  "leds": [
+   12,
+   "rgbl"
+  ],
+  "deg": [
+   3.5,
+   53
+  ],
+  "pan": 540,
+  "tilt": 232,
+  "ch": [
+   26,
+   86
+  ],
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.ayrton.eu/produit/nando-502-wash/",
+  "note": "Steckbrief aus Herstellerangaben (ayrton.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Ayrton",
+  "key": "nando-1202",
+  "model": "Nando 1202",
+  "kind": "wash",
+  "leds": [
+   28,
+   "rgbl"
+  ],
+  "deg": [
+   3.5,
+   53
+  ],
+  "pan": 540,
+  "tilt": 225,
+  "ch": [
+   26,
+   150
+  ],
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.ayrton.eu/produit/nando-1202/",
+  "note": "Steckbrief aus Herstellerangaben (ayrton.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Ayrton",
+  "key": "wildsun-k9-wash",
+  "model": "WildSun K9 Wash",
+  "kind": "wash",
+  "deg": [
+   10,
+   60
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   14,
+   30
+  ],
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.ayrton.eu/produit/wildsun-k9-wash/",
+  "note": "Steckbrief aus Herstellerangaben (ayrton.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Ayrton",
+  "key": "wildbeam-r",
+  "model": "WildBeam-R",
+  "kind": "beam",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   42
+  ],
+  "feat": [
+   "pro"
+  ],
+  "url": "https://www.ayrton.eu/produit/wildbeam-r/",
+  "note": "Steckbrief aus Herstellerangaben (ayrton.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Ayrton",
+  "key": "magicpanel-fx",
+  "model": "MagicPanel FX",
+  "kind": "matrixhead",
+  "leds": [
+   25,
+   "rgbw"
+  ],
+  "grid": [
+   5,
+   5
+  ],
+  "deg": [
+   3.6,
+   53
+  ],
+  "ch": [
+   19,
+   118
+  ],
+  "pixelFrom": 118,
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.ayrton.eu/produit/magicpanel-fx/",
+  "note": "Steckbrief aus Herstellerangaben (ayrton.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Ayrton",
+  "key": "magicdot-neo",
+  "model": "MagicDot Neo",
+  "kind": "beam",
+  "deg": [
+   3,
+   30
+  ],
+  "ch": [
+   35
+  ],
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.ayrton.eu/produit/magicdot-neo/",
+  "note": "Steckbrief aus Herstellerangaben (ayrton.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Ayrton",
+  "key": "magicblade-neo",
+  "model": "MagicBlade Neo",
+  "kind": "multihead",
+  "leds": [
+   5,
+   "rgbl"
+  ],
+  "deg": [
+   3,
+   30
+  ],
+  "ch": [
+   175,
+   184
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.ayrton.eu/produit/magicblade-neo/",
+  "note": "Steckbrief aus Herstellerangaben (ayrton.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

@@ -1,0 +1,1912 @@
+[
+ {
+  "manufacturer": "OPPSK",
+  "model": "200W 6-in-1 LED DJ GigBar Moving Head Light System",
+  "kind": "multihead",
+  "light": "Beam Light：2*4PC 3w leds (rgbw) • Wash Par Light： 2*6 4W RGBW 4in1 • Magic Ball：2* RGW magic ball & green cyan yellow pattern • Ring: 6*14pcs 5050 RGB 3in1 • La",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   12,
+   30
+  ],
+  "features": [
+   "laser",
+   "strobe-leds",
+   "ring"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://oppsk.com/products/200w-6-in-1-led-dj-gigbar-moving-head-light-system",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 200W; Aufbau: Stativ-Bar mit 2 Mini-Moving-Heads (je 4×3W RGBW), 2 PAR (je 6×4W RGBW), 2 Magic-Balls, 6 RGB-Ringe à 14 SMD, Laser rot/grün, 5×10W Amber-Strobe; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "Outdoor 6LED RGBWAUV 6in1 Battery Powered Par Light",
+  "kind": "par",
+  "light": "6x6W RGBWAUV 6in1 LED",
+  "beamDeg": [
+   25.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   8,
+   10,
+   11
+  ],
+  "features": [
+   "focus",
+   "battery",
+   "ip65",
+   "app",
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   200,
+   110,
+   120
+  ],
+  "weightKg": 1.55,
+  "url": "https://oppsk.com/products/outdoor-6led-rgbwauv-6in1-battery-powered-par-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 36W; IP65; SKU: HYT-032-6RBW; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "24x6W RGBWAUV 6in1 Outdoor LED Wall Wash Light Bar",
+  "kind": "bar",
+  "light": "24pcs*6W RGBWAUV 6IN1 LED",
+  "beamDeg": [
+   25.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   8,
+   11,
+   144,
+   149
+  ],
+  "features": [
+   "pixel",
+   "rdm",
+   "ip65",
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1060,
+   110,
+   200
+  ],
+  "weightKg": null,
+  "url": "https://oppsk.com/products/24x6w-rgbwauv-6in1-wall-wash-light-bar-with-remote",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 150W; IP65; Varianten: 1 Piece; 2 Pieces; SKU: OK-0132-WP24WL, OK-0132-WP24WL-2; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "60W Battery Powered LED Spot Moving Head Light",
+  "kind": "spot",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": 540,
+  "channels": [
+   10,
+   12
+  ],
+  "features": [
+   "gobo:8",
+   "ring",
+   "battery"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   290,
+   205,
+   230
+  ],
+  "weightKg": 3.8,
+  "url": "https://oppsk.com/products/battery-powered-led-moving-head",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 60W; Varianten: 1 Piece; SKU: OK-0135-30BMHR; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "Multi-effect LED Hybrid Moving Head Light",
+  "kind": "hybrid",
+  "light": "11 × 3W single-color LEDs 4 × 4W RGB LEDs 1 × 100mW red starry light 1 × 50mW green starry light 4 × 5W strobe LEDs 2 × 11-piece light strips",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   22
+  ],
+  "features": [
+   "strobe-leds"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   260,
+   200,
+   200
+  ],
+  "weightKg": 1.6,
+  "url": "https://oppsk.com/products/multi-effect-led-hybrid-moving-head-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 60W; SKU: HYT-031-SPN-S53; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "RGBA 4n1 LED Wash Light Bar with Remote",
+  "kind": "bar",
+  "light": "24pcs*4W RGBA 4IN1 LED",
+  "beamDeg": [
+   25.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   12,
+   32
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   65,
+   85
+  ],
+  "weightKg": 2.0,
+  "url": "https://oppsk.com/products/rgba-4n1-led-wash-light-bar-with-remote",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 96W; SKU: LA-100-24WLRGBA-R-1; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "DJ Lighting System with Strobe Light Par light Disco Ball",
+  "kind": "multihead",
+  "light": "LED PAR : 2×4PCS ×10W RGBW LEDs • LED Magic Ball : 2×4PCS ×10W RGBW LEDs • RGB+W pixel Bar : 96pcs 5050 RGB 3IN1 LEDs + 48×1W White LEDs",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   12,
+   29,
+   33,
+   46
+  ],
+  "features": [
+   "strobe-leds",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://oppsk.com/products/dj-lighting-system-with-strobe-light-bar-par-light-disco-ball",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 150W; SKU: LA-113-3IN1-S-1; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "800W RGB+W+A LED DJ Strobe Light Panel",
+  "kind": "strobe",
+  "light": "648PCS 5050 RGB LED, 288PCS 2835 White LED, 144PCS 2835 Cool White + Amber LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   18,
+   268
+  ],
+  "features": [
+   "strobe-leds"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   480,
+   130,
+   265
+  ],
+  "weightKg": 4.8,
+  "url": "https://oppsk.com/products/800w-rgb-w-a-led-dj-strobe-light-panel",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 800W; SKU: HYT-030-500ST; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "100W LED Retro Stage Moving Head Light",
+  "kind": "retro",
+  "light": "4Pcs x 20W Golden LED + 42Pcs 5050 RGB SMD LED + 20W 5050 RGBW Magic Ball LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   13,
+   17,
+   26,
+   29,
+   36
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   380,
+   340,
+   180
+  ],
+  "weightKg": 2.7,
+  "url": "https://oppsk.com/products/100w-4-leaf-led-retro-stage-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 100W; SKU: OK-0133-4LRetro; Aufbau: Moving Head im Retro-Stil, 4×20W Gold-LED, 42 RGB-SMD, 20W RGBW Magic-Ball; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "200W LED Hybrid Moving Head Effect Light with 8 Arms",
+  "kind": "multihead",
+  "light": "• LED arm beam: 8 pcs * 10W RGBW • Bee eye light : 4 pcs * 10W RGBW • Ring: 34 pcs * 0.2 W 5050 RGB • White strobe: 2 PCS * 10W • Amber strobe: 4 PCS * 10W • La",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   28
+  ],
+  "features": [
+   "laser",
+   "strobe-leds",
+   "ring"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   320,
+   320,
+   210
+  ],
+  "weightKg": 3.5,
+  "url": "https://oppsk.com/products/200w-led-hybrid-moving-head-effect-light-with-8-arms",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 200W; SKU: HY-011-BE8; Aufbau: 8 bewegliche Beam-Arme (8×10W RGBW) um zentrales Bee-Eye (4×10W RGBW), dazu Laser und Strobe-LEDs (Shop-Angabe); Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "6x50W Retro Stage Light with Stand",
+  "kind": "retro",
+  "light": "6PCS*50W warm white COB LEDs",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   8,
+   28
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1175,
+   200,
+   200
+  ],
+  "weightKg": 6.2,
+  "url": "https://oppsk.com/products/6x50w-retro-stage-light-with-stand",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 260W; Varianten: 1 Piece; SKU: OK-SD-0605; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "200W LED Moving Head Beam Light with RGB Ring",
+  "kind": "beam",
+  "light": "150W COB LED, 48 PCS SMD5050 RGB 3IN1 LED Ring",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   16
+  ],
+  "features": [
+   "gobo:14",
+   "prism:18",
+   "colorwheel:1",
+   "frost",
+   "ring",
+   "pixel",
+   "rdm"
+  ],
+  "ring": "48 LEDs (aus Text)",
+  "pixels": null,
+  "sizeMm": [
+   260,
+   200,
+   360
+  ],
+  "weightKg": 7.5,
+  "url": "https://oppsk.com/products/200w-led-moving-head-beam-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 200W; Varianten: 1 Piece; SKU: OK-SD-0602; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "19×15W Zoomable Moving Head Wash Light with LED Ring",
+  "kind": "wash",
+  "light": "19pcs × 15W RGBW 4in1 LED",
+  "beamDeg": [
+   8.0,
+   50.0
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   17,
+   25
+  ],
+  "features": [
+   "zoom",
+   "ring"
+  ],
+  "ring": "48 LEDs (aus Text)",
+  "pixels": null,
+  "sizeMm": [
+   320,
+   190,
+   390
+  ],
+  "weightKg": 7.8,
+  "url": "https://oppsk.com/products/19-15w-zoomable-moving-head-wash-light-with-led-ring",
+  "manualUrl": "https://cdn.shopify.com/s/files/1/0241/9579/2960/files/OK-MHW19-R.pdf",
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 300W; Varianten: 1 Piece; SKU: OK-SD-0601; Hersteller-Modellnr. OK-MHW19-R; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "360° RGB LED Pixel Tube Light Bar- Battery Powered",
+  "kind": "tube",
+  "light": "120pcs 5050 RGB 3in1 LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   8,
+   60,
+   65
+  ],
+  "features": [
+   "pixel",
+   "battery"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   115,
+   115,
+   1120
+  ],
+  "weightKg": 2.0,
+  "url": "https://oppsk.com/products/360-rgb-led-pixel-tube-light-bar-battery-powered",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 60W; Varianten: 2 Pieces; 4 Pieces; SKU: HYT-028-120PXB-2, HYT-028-120PXB-4; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "150W LED Hybrid Moving Head Effect Light with 6 Arms",
+  "kind": "multihead",
+  "light": "6 CREE 10W RGBW LED, 4PCS 3W monochrome LED, 100 mW red laser, 50 mW green laser, 2PCS 10W white strobe, 2PCS 10W Amber strobe, 38 PCS magic light bands",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   25
+  ],
+  "features": [
+   "laser",
+   "strobe-leds"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   310,
+   310,
+   230
+  ],
+  "weightKg": 2.5,
+  "url": "https://oppsk.com/products/150w-led-hybrid-moving-head-effect-light-with-6-arms",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 150W; SKU: LA-115-MB6; Aufbau: 6 Beam-Arme (6×10W RGBW CREE) + Laser (rot/grün) + Strobe/Pattern-LEDs; Maße 310×310×230 mm laut Shop; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "80W Mini Moving Head Beam Spot Light with Ring",
+  "kind": "spot",
+  "light": "80W white light",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   14
+  ],
+  "features": [
+   "gobo",
+   "prism:3",
+   "focus",
+   "rainbow",
+   "ring"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   245,
+   165,
+   320
+  ],
+  "weightKg": 3.9,
+  "url": "https://oppsk.com/products/80w-mini-led-moving-head-beam-light-with-ring",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 100W; Varianten: 2Pieces; 4 Pieces; SKU: OK-XS618-2, OK-XS618-4; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "150W LED Versatile Moving Head Light with 6 Arms",
+  "kind": "multihead",
+  "light": "6 CREE 10W RGBW lights, 1pcs15W RGBW lights, 100mW red laser, 50mW green laser, 2pcs10W white strobe lights, 2pcs10W amber strobe lights Control mode: DMX512, m",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   26
+  ],
+  "features": [
+   "laser",
+   "strobe-leds"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   310,
+   310,
+   230
+  ],
+  "weightKg": 2.5,
+  "url": "https://oppsk.com/products/150w-led-versatile-moving-head-light-with-6-arms",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 150W; SKU: YS-084-CK6; Aufbau: 6 Beam-Arme (6×10W RGBW CREE) + Laser (rot/grün) + Strobe/Pattern-LEDs; Maße 310×310×230 mm laut Shop; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "100W RGBW 4in1 LED Par Light with RGB Rings",
+  "kind": "par",
+  "light": "14PCS 4IN1 RGBW LED & 140 PCS RGB 3IN1 LED Ring",
+  "beamDeg": [
+   25.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   8
+  ],
+  "features": [
+   "ring"
+  ],
+  "ring": "140 LEDs (aus Text)",
+  "pixels": null,
+  "sizeMm": [
+   250,
+   205,
+   75
+  ],
+  "weightKg": 0.9,
+  "url": "https://oppsk.com/products/100w-rgbw-4in1-led-par-light-with-rgb-rings",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 100W; Varianten: 2 Piece; 4 Pieces; 8 Pieces; SKU: OK-0129-14PBLED, OK-0129-14PBLED-4, OK-0129-14PBLED-8; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "18LED RGBW 4in1 Par Light with RGB Ring",
+  "kind": "par",
+  "light": "18x8W RGBW LEDs & 35 x 0.3w SMD5050 LEDs",
+  "beamDeg": [
+   25.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   10
+  ],
+  "features": [
+   "ring"
+  ],
+  "ring": "35 LEDs (aus Text)",
+  "pixels": null,
+  "sizeMm": [
+   250,
+   205,
+   60
+  ],
+  "weightKg": 1.2,
+  "url": "https://oppsk.com/products/18led-rgbw-4in1-par-light-with-rgb-ring",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 180W; Varianten: 2 Piece; 4 Pieces; 8 Pieces; SKU: LA-112-18RGBW-S-2, LA-112-18RGBW-S-4, LA-112-18RGBW-S-8; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "80W RGBWA 5in1 IP65 Outdoor Waterproof Wide Angle COB LED Par Light",
+  "kind": "cob",
+  "light": "80W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 3.0,
+  "url": "https://oppsk.com/products/80w-rgbwa-5in1-ip65-mini-dj-stage-lighting-outdoor-waterproof-wide-angle-cob-led-par-light-for-event-party-wedding",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 80W; IP65; Varianten: 1 Piece; 4 Pieces; SKU: OK-PL-16, OK-PL-16-4; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "6-Pack, 24x4W RGBA 4in1 Indoor LED Wall Washer Light",
+  "kind": "bar",
+  "light": "24x4W RGBA 4in1 LED",
+  "beamDeg": [
+   40.0,
+   40.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   6,
+   9
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1020,
+   650,
+   650
+  ],
+  "weightKg": 2.5,
+  "url": "https://oppsk.com/products/6-pack-oppsk-24x4w-rgba-4in1-indoor-led-wall-washer-light-for-wedding-uplighting-40-us-warehouse",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026) – Set-Angebot",
+  "inLibrary": null,
+  "notes": "Leistung 96W; SKU: OK-24WL-1; nur als Set/Mehrfachpack gelistet; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "60LED APP Control LED Pixel Bar with Stand",
+  "kind": "bar",
+  "light": "60ps RGB 3in1 LED",
+  "beamDeg": [
+   90.0,
+   90.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel",
+   "app"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   33,
+   28
+  ],
+  "weightKg": 1.1,
+  "url": "https://oppsk.com/products/60led-app-control-led-pixel-bar-with-stand",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 30W; Varianten: 2 Pieces; SKU: YS-078-60APP2-3; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "500W Vintage Effect Light Bar with Blinder Effect and Color Chasing",
+  "kind": "retro",
+  "light": "7 x 40W 1800K (Amber) LEDs + 528 x RGB (0.5W, 5050 SMD) LEDs",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   100,
+   131
+  ],
+  "weightKg": 5.3,
+  "url": "https://oppsk.com/products/500w-vintage-effect-light-bar-with-blinder-effect-and-color-chasing",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 300W; Varianten: 1 Piece; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "LED Hybrid Moving Head Beam Laser Strobe Effect Light",
+  "kind": "matrixhead",
+  "light": "250W White LED COB3.7pcs*12W RGBW 4in1 LED, 108pcs RGB 3in1 5050 LED, 50mW red laser, 50mW green laser, 50mW blue laser, 3*10W white strobe",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   19,
+   25
+  ],
+  "features": [
+   "laser",
+   "strobe-leds"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   265,
+   207,
+   360
+  ],
+  "weightKg": null,
+  "url": "https://oppsk.com/products/led-hybrid-moving-head-beam-laser-strobe-effect-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 120W; Varianten: 2Pieces; 4 Pieces; SKU: OK-CY15-2, OK-CY15-4; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "120W RGBW 4in1 LED Wash Light Bar-Individual Control",
+  "kind": "bar",
+  "light": "18pcs RGBW 4IN1 LED",
+  "beamDeg": [
+   20.0,
+   20.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   8,
+   26,
+   72
+  ],
+  "features": [
+   "focus",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   55,
+   115
+  ],
+  "weightKg": 3.6,
+  "url": "https://oppsk.com/products/120w-rgbw-4in1-led-wash-light-bar-individual-control",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 120W; Varianten: 1 Piece; 2 Pieces; 6 Pieces; SKU: LA-098-18WLIC-1, LA-098-18WLIC-2, LA-098-18WLIC-6; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "150W RGB+W LED DJ Strobe Light Panel",
+  "kind": "strobe",
+  "light": "256pcs 5050 RGB 3IN1 LED, 128pcs 3030 White LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   16,
+   112
+  ],
+  "features": [
+   "strobe-leds",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   380,
+   115,
+   225
+  ],
+  "weightKg": 2.4,
+  "url": "https://oppsk.com/products/150w-rgb-w-led-dj-strobe-light-panel",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 150W; Varianten: 1 Piece; 2 Pieces; 6 Pieces; SKU: HYT-027-384PST-1, HYT-027-384PST-2, HYT-027-384PST-6; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "120W RGBW 4in1 LED Wash Light Bar with RGB Strips",
+  "kind": "bar",
+  "light": "120W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://oppsk.com/products/120w-rgbw-4in1-led-wash-light-bar-with-rgb-strips",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Varianten: 1 Piece; 2 Pieces; 6 Pieces; SKU: YS-080-24WL-S, YS-080-24WL-S-2, YS-080-24WL-S-6; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "360° RGB LED Pixel Tube Light Bar",
+  "kind": "tube",
+  "light": "120pcs 5050 RGB 3in1 LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   8,
+   60,
+   65
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   115,
+   115,
+   1120
+  ],
+  "weightKg": 2.0,
+  "url": "https://oppsk.com/products/360-rgb-led-pixel-tube-light-bar",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 60W; Varianten: 2 Pieces; 4 Pieces; SKU: HYT-025-120PX2, HYT-025-120PX4; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "120W RGBWA LED DJ Strobe Light Panel",
+  "kind": "strobe",
+  "light": "288pcs 5050 RGB 3IN1 LED, 48pcs 3030 W+A LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   12,
+   70
+  ],
+  "features": [
+   "strobe-leds"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   430,
+   80,
+   100
+  ],
+  "weightKg": 1.3,
+  "url": "https://oppsk.com/products/120w-rgb-w-a-led-dj-strobe-light-panel",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 120W; Varianten: 1 Piece; 2 Pieces; 6 Pieces; SKU: LA-110-336STR-RGBWA, LA-110-336STR-RGBWA-2, LA-110-336STR-RGBWA-6; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "60LED RGB 3in1 Par Light",
+  "kind": "par",
+  "light": "60x1.5W RGB 3in1 LED",
+  "beamDeg": [
+   25.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   235,
+   227,
+   185
+  ],
+  "weightKg": 1.0,
+  "url": "https://oppsk.com/products/60led-rgb-3in1-par-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 90W; Varianten: 2 Set; 4 Sets; 8 Sets; SKU: YS-077-60NPL-2, YS-077-60NPL-4, YS-077-60NPL-8; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "90W Battery Powered RGB 3in1 LED Pixel Light Bar with Stand",
+  "kind": "bar",
+  "light": "90W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel",
+   "battery"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://oppsk.com/products/90w-battery-powered-rgb-3in1-led-pixel-light-bar",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Varianten: 1 Piece; 2 Pieces; 6 Pieces; SKU: HY-009-192PX, HY-009-192PX-2, HY-009-192PX-6; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "Battery Powered Pixel Control DJ Light Bar - 100W, Warm White & RGB 3n1 LED",
+  "kind": "bar",
+  "light": "12x5W warm white LED+156x0.5W white LED+72x0.2W 5050 RGB LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   14,
+   63
+  ],
+  "features": [
+   "pixel",
+   "battery"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://oppsk.com/products/battery-powered-pixel-control-dj-light-bar-100w",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 100W; IP22; Varianten: 1 Piece; 2 Pieces; 4 Pieces; SKU: LA-101-12WLB-1, LA-101-12WLB-2, LA-101-12WLB-4; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "DJ Effect Light bar-448LED RGBWA Pixel Light",
+  "kind": "bar",
+  "light": "224 x 5050 RGB 3IN1 SMD LEDs + 112 x 2835 Amber LEDs + 112 x 2835 Cool White SMD LEDs",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   7,
+   13,
+   82,
+   130,
+   135
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   55,
+   95
+  ],
+  "weightKg": 2.2,
+  "url": "https://oppsk.com/products/dj-effect-light-bar-448led-rgbwa-pixel-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 240W; IP22; Varianten: 1 Piece; 2 Pieces; 4 Pieces; SKU: OK-0125-448RGBWA, OK-0125-448RGBWA-2, OK-0125-448RGBWA-4; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "9LED RGBWAUV 6in1 Battery Powered Par Light",
+  "kind": "par",
+  "light": "9x6W RGBWAUV 6in1 LED",
+  "beamDeg": [
+   25.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   8,
+   10
+  ],
+  "features": [
+   "battery",
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   130,
+   130,
+   180
+  ],
+  "weightKg": 1.5,
+  "url": "https://oppsk.com/products/9led-rgbwauv-6in1-battery-powered-par-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 54W; IP22; Varianten: 2 Pieces; 4 Pieces; SKU: HYT-022-9RB2, HYT-022-9RB2-2; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "24x6W RGBWAUV 6in1 LED Wash Light Bar",
+  "kind": "bar",
+  "light": "24pcs*6W RGBWAUV 6IN1 LED",
+  "beamDeg": [
+   35.0,
+   35.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   8,
+   11,
+   48,
+   52
+  ],
+  "features": [
+   "pixel",
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://oppsk.com/products/24x6w-rgbwauv-6in1-led-wash-light-bar",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 150W; IP22; Varianten: 1 Piece; 2 Pieces; 6 Pieces; SKU: HYT-019-24LED6IN1, HYT-019-24LED6IN1-2, HYT-019-24LED6IN1-6; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "54W 18LED Black Light Bar",
+  "kind": "bar",
+  "light": "18pcs × 3W UV LED",
+  "beamDeg": [
+   120.0,
+   120.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   380,
+   85,
+   105
+  ],
+  "weightKg": null,
+  "url": "https://oppsk.com/products/18led-54w-black-light-bar",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 54W; IP22; Varianten: 1 Piece; 6 Pieces; 8 Pieces; SKU: 640007, 640007-6, 640007-8; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "60W Waterproof Battery PAR Light",
+  "kind": "par",
+  "light": "60W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "battery",
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://oppsk.com/products/waterproof-battery-par-light-4-15w",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "IP65; Varianten: 1 Piece; 4 Pieces; 8 Pieces; SKU: HYT-023-4WPL-1, HYT-023-4WPL-4, HYT-023-4WPL-8; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "108W RGBWAUV LED Wireless PAR Light",
+  "kind": "par",
+  "light": "108W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://oppsk.com/products/108w-rgbwauv-led-wireless-par-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Varianten: 1 Piece; 2 Pieces; 4 Pieces; SKU: OK-114-6RB-1, OK-114-6RB-2, OK-114-6RB-4; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "18LED Black Light Bar",
+  "kind": "bar",
+  "light": "18pcs × 3W UV LED",
+  "beamDeg": [
+   120.0,
+   120.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   960,
+   90,
+   45
+  ],
+  "weightKg": 1.08,
+  "url": "https://oppsk.com/products/black-lights-for-parties-18led-54w-uv-led-glow-in-the-dark-supplies",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 54W; Varianten: 1 Piece; 2 Pieces; 8 Pieces; SKU: LA-011, LA-011-2, LA-011-8; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "720LED RGB+W DJ Strobe Light Bar",
+  "kind": "strobe",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "strobe-leds"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://oppsk.com/products/strobe-light-bar-720led-rgb-w-dj",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Varianten: 1 Piece; 2 Pieces; 4 Pieces; SKU: OK-117-720S, OK-117-720S-2, OK-117-720S-4; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "500W RGB+W LED Strobe Light Panel",
+  "kind": "strobe",
+  "light": "LED RGB: 864*5050 LED RGB3IN1, LED White: 96*5730LED White",
+  "beamDeg": [
+   135.0,
+   135.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   11,
+   32,
+   39
+  ],
+  "features": [
+   "strobe-leds",
+   "rdm"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   400,
+   240,
+   75
+  ],
+  "weightKg": 3.7,
+  "url": "https://oppsk.com/products/strobe-light-panel-500w-rgb-w-led",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 500W; IP22; Varianten: 1 Piece; 2 Pieces; SKU: HYT-006-960SL, HYT-006-960SL-2; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "44LED Waterproof Flood Light with Barn Door",
+  "kind": "flood",
+  "light": "44pcs×15W RGBW",
+  "beamDeg": [
+   45.0,
+   45.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   9
+  ],
+  "features": [
+   "rdm",
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   490,
+   330,
+   125
+  ],
+  "weightKg": 10.7,
+  "url": "https://oppsk.com/products/flood-light-with-barn-door-44led-wateproof",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 600W; IP65; Varianten: 1 Piece; 2 Pieces; SKU: OK-PL-54X, OK-PL-54X-2; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "10×30W Beam Moving Head Light Bar",
+  "kind": "tiltbar",
+  "light": "10pcs 30W RGBW 4IN1 LED",
+  "beamDeg": [
+   3.8,
+   3.8
+  ],
+  "pan": null,
+  "tilt": 150,
+  "channels": [
+   7,
+   13,
+   43
+  ],
+  "features": [
+   "rdm"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   970,
+   165,
+   80
+  ],
+  "weightKg": 6.0,
+  "url": "https://oppsk.com/products/moving-head-light-bar-10-30w-beam",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 300W; Varianten: 1 Piece; 2 Pieces; SKU: SD-0603, SD-0603-2; Aufbau: Tilt-Bar mit 10 einzeln steuerbaren 30W-RGBW-Beam-Linsen in einer Reihe; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "300W Mini LED Beam Wash Moving Head Light",
+  "kind": "beam",
+  "light": "7pcs×40W RGBW 4in1 LED",
+  "beamDeg": [
+   4.0,
+   50.0
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   23,
+   35,
+   51
+  ],
+  "features": [
+   "zoom",
+   "rdm",
+   "infinite-rotation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   330,
+   160,
+   200
+  ],
+  "weightKg": 5.7,
+  "url": "https://oppsk.com/products/moving-head-light-300w-mini-led-beam-wash",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 300W; Varianten: 1 Piece; 2 Pieces; SKU: OK-MH5A, OK-MH5A-2; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "280W Beam Moving Head Light",
+  "kind": "beam",
+  "light": "280W discharge lamp",
+  "beamDeg": [
+   2.0,
+   2.0
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   16,
+   20
+  ],
+  "features": [
+   "gobo:17",
+   "prism:8+24",
+   "colorwheel:14",
+   "frost",
+   "focus",
+   "rainbow",
+   "rdm"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   530,
+   210,
+   320
+  ],
+  "weightKg": 13.5,
+  "url": "https://oppsk.com/products/moving-head-light-280w-beam",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 350W; Varianten: 1 Piece; 2 Pieces; SKU: OK-MH280, OK-MH280-2; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "280W Beam Moving Head Light with LED Ring",
+  "kind": "beam",
+  "light": "280W discharge lamp",
+  "beamDeg": [
+   2.0,
+   2.0
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   18
+  ],
+  "features": [
+   "gobo:17",
+   "prism:8+24",
+   "colorwheel:14",
+   "frost",
+   "focus",
+   "rainbow",
+   "ring",
+   "rdm"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   530,
+   210,
+   320
+  ],
+  "weightKg": 13.5,
+  "url": "https://oppsk.com/products/moving-head-light-with-led-ring-280w-beam",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 350W; Varianten: 1 Piece; 2 Pieces; SKU: OK-MH280-R, OK-MH280-R-2; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "250W Mini Beam Moving Head Light with LED Ring",
+  "kind": "beam",
+  "light": "250W discharge lamp",
+  "beamDeg": [
+   2.0,
+   2.0
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   18
+  ],
+  "features": [
+   "gobo:14",
+   "prism:8+24",
+   "colorwheel:12",
+   "frost",
+   "focus",
+   "rainbow",
+   "ring",
+   "rdm"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   450,
+   250,
+   285
+  ],
+  "weightKg": 11.5,
+  "url": "https://oppsk.com/products/moving-head-light-with-led-ring-250w-mini-beam",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 300W; Varianten: 1 Piece; 2 Pieces; SKU: OK-MH250mini-R, OK-MH250mini-R-2; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "250W Mini Beam Moving Head Light",
+  "kind": "beam",
+  "light": "250W discharge lamp",
+  "beamDeg": [
+   2.0,
+   2.0
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   16,
+   20
+  ],
+  "features": [
+   "gobo:14",
+   "prism:8+24",
+   "colorwheel:12",
+   "frost",
+   "focus",
+   "rainbow",
+   "rdm"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   450,
+   250,
+   285
+  ],
+  "weightKg": 11.5,
+  "url": "https://oppsk.com/products/moving-head-light-250w-mini-beam",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 300W; Varianten: 1 Piece; 2 Pieces; SKU: OK-MH250mini, OK-MH250mini-2; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "250W LED Hybrid Moving Head Light",
+  "kind": "hybrid",
+  "light": "250W White LED COB",
+  "beamDeg": [
+   11.0,
+   27.0
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   18
+  ],
+  "features": [
+   "gobo",
+   "prism:3",
+   "colorwheel:9",
+   "frost",
+   "zoom",
+   "focus",
+   "rainbow"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   550,
+   300,
+   200
+  ],
+  "weightKg": 12.85,
+  "url": "https://oppsk.com/products/moving-head-light-250w-led-hybrid",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 350W; Varianten: 1 Piece; 2 Pieces; SKU: OK-MHLED250, OK-MHLED250-2; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "1-meter LED Stage Wash Light Bar - RGBW 4in1 - 120W",
+  "kind": "bar",
+  "light": "36pcs*3W RGBW 4IN1 Cree LED",
+  "beamDeg": [
+   6.0,
+   6.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   6,
+   9,
+   48,
+   52
+  ],
+  "features": [
+   "frost",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   55,
+   105
+  ],
+  "weightKg": 2.2,
+  "url": "https://oppsk.com/products/1m-led-stage-wash-light-bar",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 120W; Varianten: 1 Piece; 2 Pieces; 6 Pieces; SKU: OK-105-36WL, OK-105-36WL-2, OK-105-36WL-6; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "70W RGBWA 5in1 LED Par Light",
+  "kind": "par",
+  "light": "7pcs*10W RGBWA 5IN1 LED",
+  "beamDeg": [
+   45.0,
+   45.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   9
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   170,
+   170,
+   100
+  ],
+  "weightKg": 1.0,
+  "url": "https://oppsk.com/products/70w-rgbwa-5in1-led-par-light",
+  "manualUrl": "https://cdn.shopify.com/s/files/1/0241/9579/2960/files/OK-032-7R5_User_Guide_202404.pdf",
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 70W; Varianten: 1 Piece; 2 Pieces; 6 Pieces; SKU: OK-032-7R5, OK-032-7R5-2, OK-032-7R5-6; Hersteller-Modellnr. OK-032-7R5; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "DJ Light Bar - 100W, 288LEDs RGB+W",
+  "kind": "bar",
+  "light": "192pcs*0.2W RGB 3IN1 5050 LED, 96*0.5W5730 CW LED",
+  "beamDeg": [
+   120.0,
+   120.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   9,
+   12,
+   32,
+   64
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   65,
+   160
+  ],
+  "weightKg": 2.0,
+  "url": "https://oppsk.com/products/100w-288leds-rgbw-dj-light-bar",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 100W; Varianten: 1 Piece; 2 Pieces; 6 Pieces; SKU: OK-103-288WL, OK-103-288WL-2, OK-103-288WL-6; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "LED Stage Strobe Effect Lights - 120W RGBW, 48 Zones Chasing",
+  "kind": "strobe",
+  "light": "256 x 0.2W 5050RGB LED, 128 x 0.5W 5730W LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "strobe-leds"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 1.9,
+  "url": "https://oppsk.com/products/led-stage-strobe-effect-lights",
+  "manualUrl": "https://cdn.shopify.com/s/files/1/0241/9579/2960/files/HYT-006-384SL_User_Guide_202404.pdf",
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 120W; Varianten: 1 Piece; 2 Pieces; 8 Pieces; SKU: HYT-006-384SL, HYT-006-384SL-2, HYT-006-384SL-8; Hersteller-Modellnr. HYT-006-384SL; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "LED Pixel Light Bar - 224LED, RGB 3n1, Frosted Cover",
+  "kind": "bar",
+  "light": "224pcs*0.2W RGB 3IN1 5050 LED",
+  "beamDeg": [
+   120.0,
+   120.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   5,
+   8,
+   24,
+   48,
+   53
+  ],
+  "features": [
+   "frost",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   65,
+   85
+  ],
+  "weightKg": 2.0,
+  "url": "https://oppsk.com/products/224-led-rgb-led-pixel-light-bar",
+  "manualUrl": "https://cdn.shopify.com/s/files/1/0241/9579/2960/files/OK-062-224WL_User_Guide_202404.pdf",
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 60W; Varianten: 1 Piece; 2 Pieces; 6 Pieces; SKU: OK-062-224WL, OK-062-224WL-2, OK-062-224WL-6; Hersteller-Modellnr. OK-062-224WL; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "LED Aluminum Par Light - 18x6W, RGBWA+UV 6n1",
+  "kind": "par",
+  "light": "18pcs*6W RGBWAUV 6IN1 LED",
+  "beamDeg": [
+   45.0,
+   45.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   10
+  ],
+  "features": [
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   270,
+   230,
+   83
+  ],
+  "weightKg": 2.6,
+  "url": "https://oppsk.com/products/rgbwa-uv-led-aluminum-par-light",
+  "manualUrl": "https://cdn.shopify.com/s/files/1/0241/9579/2960/files/OK-108-18PL_User_Guide_202404.pdf",
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 100W; Varianten: 1 Piece; 2 Pieces; SKU: OK-0123-18SP, OK-0123-18SP-2; Hersteller-Modellnr. OK-108-18PL; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "LED Wash Light Bar - 96W, RGBA 4n1",
+  "kind": "bar",
+  "light": "24pcs*4W RGBA 4IN1 LED",
+  "beamDeg": [
+   45.0,
+   45.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   9,
+   16,
+   30,
+   58
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   65,
+   85
+  ],
+  "weightKg": 2.0,
+  "url": "https://oppsk.com/products/96w-rgba-led-wash-light-bar",
+  "manualUrl": "https://cdn.shopify.com/s/files/1/0241/9579/2960/files/OK-026-24-WLA_User_Guide_202404.pdf",
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 96W; Varianten: 1 Piece; 2 Pieces; 6 Pieces; SKU: OK-026-24-WLA, OK-026-24-WLA-2, OK-026-24-WLA-6; Hersteller-Modellnr. OK-026-24-WLA; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "LED Beam Moving Head Light - Double Balls, 14x10W RGBW 4n1",
+  "kind": "multihead",
+  "light": "14pcs*10W RGBW 4IN1 Cree LED",
+  "beamDeg": [
+   6.0,
+   6.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   9,
+   16
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   300,
+   280,
+   210
+  ],
+  "weightKg": 5.5,
+  "url": "https://oppsk.com/products/rgbw-led-beam-moving-head-light-double-balls",
+  "manualUrl": "https://cdn.shopify.com/s/files/1/0241/9579/2960/files/HYT-015-MHL_User_Guide_202404.pdf",
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 150W; SKU: HYT-015-MHL; Hersteller-Modellnr. HYT-015-MHL; Aufbau: 2 kugelförmige Beam-Köpfe, zusammen 14×10W RGBW; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "LED Zoomable Par Light - 250W, RGBW 4n1",
+  "kind": "par",
+  "light": "19pcs*12W RGBW 4IN1 Cree LED",
+  "beamDeg": [
+   10.0,
+   60.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   10,
+   18
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   280,
+   280,
+   295
+  ],
+  "weightKg": 4.0,
+  "url": "https://oppsk.com/products/250w-rgbw-led-zoomable-par-light",
+  "manualUrl": "https://cdn.shopify.com/s/files/1/0241/9579/2960/files/LA-069-19ZP_User_Guide_202404.pdf",
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 250W; Varianten: 1 Piece; 2 Pieces; SKU: LA-069-19ZP, LA-069-19ZP-2; Hersteller-Modellnr. LA-069-19ZP; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "LED Pixel Bar - 60W, RGB 3n1",
+  "kind": "bar",
+  "light": "144Pcs (12*12Pcs) SMD 5050 3IN1 RGB LEDs",
+  "beamDeg": [
+   90.0,
+   90.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   5,
+   8,
+   36,
+   40
+  ],
+  "features": [
+   "frost",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://oppsk.com/products/60w-rgb-led-pixel-bar",
+  "manualUrl": "https://cdn.shopify.com/s/files/1/0241/9579/2960/files/YS-23-144LED_User_Guide_202404.pdf",
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 60W; Varianten: 1 Piece; 2 Pieces; 6 Pieces; SKU: YS-23-144LED, YS-23-144LED-2, YS-23-144LED-6; Hersteller-Modellnr. YS-23-144LED; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "Pixel Control DJ Light Bar - 100W, Warm White & RGB 3n1 LED",
+  "kind": "bar",
+  "light": "12pcs 5W warm white lamp beads + 156 LED 0.5W 5730 white lamp beads + 96 LED 0.2W 5050 RGB lamp beads",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   12,
+   14,
+   75
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://oppsk.com/products/pixel-control-dj-light-bar",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 100W; SKU: LA-Effect Light Bar; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "Battery-Powered Wireless Par Light - RGBW 4n1 - For Uplighting",
+  "kind": "par",
+  "light": "3pcs*4W RGBW 4IN1 LED",
+  "beamDeg": [
+   35.0,
+   35.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   8
+  ],
+  "features": [
+   "battery"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   170,
+   125,
+   125
+  ],
+  "weightKg": 1.1,
+  "url": "https://oppsk.com/products/battery-powered-wireless-par-light-rgbw-4n1-for-uplighting",
+  "manualUrl": "https://cdn.shopify.com/s/files/1/0241/9579/2960/files/HYT-004-3RB_User_Guide_202404.pdf",
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 20W; Varianten: 1 Piece; 2 Pieces; SKU: HYT-004-3RB, HYT-004-3RB-2; Hersteller-Modellnr. HYT-004-3RB; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "OPPSK",
+  "model": "Outdoor RGBWAUV LED Par Light - 18x18W, 6n1",
+  "kind": "par",
+  "light": "18pcs*6W RGBWAUV 6IN1 LED",
+  "beamDeg": [
+   45.0,
+   45.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   10
+  ],
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   290,
+   260,
+   110
+  ],
+  "weightKg": 3.6,
+  "url": "https://oppsk.com/products/outdoor-led-par-light-6in1-18x18w",
+  "manualUrl": "https://cdn.shopify.com/s/files/1/0241/9579/2960/files/LA-068-18WPL_User_Guide_202404.pdf",
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": null,
+  "notes": "Leistung 100W; IP65; Varianten: 1 Piece; 2 Pieces; SKU: LA-068-18WPL, LA-068-18WPL-2; Hersteller-Modellnr. LA-068-18WPL; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ }
+]

@@ -1,0 +1,2466 @@
+[
+ {
+  "man": "Martin",
+  "key": "mac-ultra-wash",
+  "model": "MAC Ultra Wash",
+  "kind": "wash",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   6.8,
+   47.5
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "ch": [
+   23
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://www.martin.com/en/products/mac-ultra-wash",
+  "note": "Kanalfolge aus dem MAC Ultra Wash User Guide (DMX-Protokoll, ab Firmware 1.0.0): Compact Mode = Basic Mode ohne P3-Mix/FX. Basic Mode nicht erfasst.",
+  "verified": true,
+  "modes": [
+   {
+    "name": "23CH Compact",
+    "channels": [
+     {
+      "name": "Strobe / shutter",
+      "attr": "shutter",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 19,
+        "kind": "closed",
+        "label": "Shutter closed"
+       },
+       {
+        "from": 20,
+        "to": 49,
+        "kind": "open",
+        "label": "Shutter open"
+       },
+       {
+        "from": 50,
+        "to": 200,
+        "kind": "strobe",
+        "label": "Strobe slow - fast"
+       },
+       {
+        "from": 201,
+        "to": 210,
+        "kind": "open",
+        "label": "Shutter open"
+       },
+       {
+        "from": 211,
+        "to": 255,
+        "kind": "strobe",
+        "label": "Random strobe"
+       }
+      ]
+     },
+     {
+      "name": "Dimmer",
+      "attr": "dimmer",
+      "byte": 0
+     },
+     {
+      "name": "Dimmer fine",
+      "attr": "dimmer",
+      "byte": 1
+     },
+     {
+      "name": "Cyan",
+      "attr": "cyan",
+      "byte": 0
+     },
+     {
+      "name": "Cyan fine",
+      "attr": "cyan",
+      "byte": 1
+     },
+     {
+      "name": "Magenta",
+      "attr": "magenta",
+      "byte": 0
+     },
+     {
+      "name": "Magenta fine",
+      "attr": "magenta",
+      "byte": 1
+     },
+     {
+      "name": "Yellow",
+      "attr": "yellow",
+      "byte": 0
+     },
+     {
+      "name": "Yellow fine",
+      "attr": "yellow",
+      "byte": 1
+     },
+     {
+      "name": "CTC",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "CTC fine",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Colour wheel",
+      "attr": "colorWheel",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 0,
+        "kind": "color",
+        "color": "#ffffff",
+        "label": "Open"
+       },
+       {
+        "from": 15,
+        "to": 15,
+        "kind": "color",
+        "color": "#fff4e0",
+        "label": "Color 1 (spectral enhancement)"
+       },
+       {
+        "from": 30,
+        "to": 30,
+        "kind": "color",
+        "color": "#2040ff",
+        "label": "Color 2 (blue)"
+       },
+       {
+        "from": 45,
+        "to": 45,
+        "kind": "color",
+        "color": "#00a030",
+        "label": "Color 3 (deep green)"
+       },
+       {
+        "from": 60,
+        "to": 60,
+        "kind": "color",
+        "color": "#ff8000",
+        "label": "Color 4 (orange)"
+       },
+       {
+        "from": 75,
+        "to": 75,
+        "kind": "color",
+        "color": "#102080",
+        "label": "Color 5 (navy blue)"
+       },
+       {
+        "from": 90,
+        "to": 90,
+        "kind": "color",
+        "color": "#d00010",
+        "label": "Color 6 (deep red)"
+       },
+       {
+        "from": 105,
+        "to": 160,
+        "kind": "color",
+        "color": "#ffffff",
+        "label": "Open"
+       },
+       {
+        "from": 161,
+        "to": 163,
+        "kind": "color",
+        "color": "#fff4e0",
+        "label": "Color 1 (spectral enhancement)"
+       },
+       {
+        "from": 164,
+        "to": 166,
+        "kind": "color",
+        "color": "#2040ff",
+        "label": "Color 2 (blue)"
+       },
+       {
+        "from": 167,
+        "to": 169,
+        "kind": "color",
+        "color": "#00a030",
+        "label": "Color 3 (deep green)"
+       },
+       {
+        "from": 170,
+        "to": 172,
+        "kind": "color",
+        "color": "#ff8000",
+        "label": "Color 4 (orange)"
+       },
+       {
+        "from": 173,
+        "to": 175,
+        "kind": "color",
+        "color": "#102080",
+        "label": "Color 5 (navy blue)"
+       },
+       {
+        "from": 176,
+        "to": 178,
+        "kind": "color",
+        "color": "#d00010",
+        "label": "Color 6 (deep red)"
+       },
+       {
+        "from": 179,
+        "to": 192,
+        "kind": "color",
+        "color": "#ffffff",
+        "label": "Open"
+       },
+       {
+        "from": 193,
+        "to": 243,
+        "kind": "generic",
+        "label": "Continuous rotation"
+       },
+       {
+        "from": 244,
+        "to": 255,
+        "kind": "generic",
+        "label": "Random colours"
+       }
+      ]
+     },
+     {
+      "name": "Frost",
+      "attr": "frost",
+      "byte": 0
+     },
+     {
+      "name": "Iris",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Zoom",
+      "attr": "zoom",
+      "byte": 0
+     },
+     {
+      "name": "Zoom fine",
+      "attr": "zoom",
+      "byte": 1
+     },
+     {
+      "name": "Focus",
+      "attr": "focus",
+      "byte": 0
+     },
+     {
+      "name": "Focus fine",
+      "attr": "focus",
+      "byte": 1
+     },
+     {
+      "name": "Pan",
+      "attr": "pan",
+      "byte": 0
+     },
+     {
+      "name": "Pan fine",
+      "attr": "pan",
+      "byte": 1
+     },
+     {
+      "name": "Tilt",
+      "attr": "tilt",
+      "byte": 0
+     },
+     {
+      "name": "Tilt fine",
+      "attr": "tilt",
+      "byte": 1
+     },
+     {
+      "name": "Control / settings",
+      "attr": "control",
+      "byte": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "man": "Martin",
+  "key": "mac-viper-xip",
+  "model": "MAC Viper XIP",
+  "kind": "profile",
+  "deg": [
+   5.7,
+   54
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "ch": [
+   54,
+   64,
+   70
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.martin.com/en/products/mac-viper-xip",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "mac-encore-two",
+  "model": "MAC Encore Two",
+  "kind": "profile",
+  "deg": [
+   5,
+   54
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "ch": [
+   52,
+   62,
+   68
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.martin.com/en/products/mac-encore-two",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "mac-encore-wash-cld",
+  "model": "MAC Encore Wash CLD",
+  "kind": "wash",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   14,
+   60
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "ch": [
+   24
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "iris",
+   "zoom"
+  ],
+  "url": "https://www.martin.com/en/products/mac-encore-wash-cld",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "mac-encore-wash-wrm",
+  "model": "MAC Encore Wash WRM",
+  "kind": "wash",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   14,
+   60
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "ch": [
+   24
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "iris",
+   "zoom"
+  ],
+  "url": "https://www.martin.com/en/products/mac-encore-wash-wrm",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "era-600-performance",
+  "model": "ERA 600 Performance",
+  "kind": "profile",
+  "deg": [
+   6,
+   45
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "ch": [
+   41
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.martin.com/en/products/era-600-performance",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "era-700-performance-ip",
+  "model": "ERA 700 Performance IP",
+  "kind": "profile",
+  "deg": [
+   5.4,
+   44
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   42,
+   54
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.martin.com/en/products/era-700-performance-ip",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "era-800-performance",
+  "model": "ERA 800 Performance",
+  "kind": "profile",
+  "deg": [
+   7,
+   56
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "ch": [
+   42
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:6",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.martin.com/en/products/era-800-performance",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "era-800-profile",
+  "model": "ERA 800 Profile",
+  "kind": "spot",
+  "deg": [
+   7,
+   56
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "ch": [
+   36
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:6",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.martin.com/en/products/era-800-profile",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "mac-one-beam",
+  "model": "MAC One Beam",
+  "kind": "beam",
+  "ring": [
+   24,
+   "rgb"
+  ],
+  "deg": [
+   0.8,
+   0.8
+  ],
+  "pan": 540,
+  "tilt": 225,
+  "ch": [
+   19,
+   35,
+   107
+  ],
+  "feat": [
+   "pro"
+  ],
+  "url": "https://www.martin.com/en/products/mac-one-beam",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "mac-aura-raven-xip",
+  "model": "MAC Aura Raven XIP",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   6,
+   51
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "ch": [
+   22,
+   38,
+   149,
+   266
+  ],
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.martin.com/en/products/mac-aura-raven-xip",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "mac-allure-wash-pc",
+  "model": "MAC Allure Wash PC",
+  "kind": "wash",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   12,
+   36
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "ch": [
+   28,
+   64
+  ],
+  "pixelFrom": 28,
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.martin.com/en/products/mac-allure-wash-pc",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "mac-viper-beam",
+  "model": "MAC Viper Beam",
+  "kind": "beam",
+  "deg": [
+   7.5,
+   31
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "ch": [
+   20,
+   28
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:5",
+   "gobor",
+   "gobo2",
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.martin.com/en/products/mac-viper-beam",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "mac-viper-quadray",
+  "model": "MAC Viper Quadray",
+  "kind": "effect",
+  "deg": [
+   12.5,
+   51
+  ],
+  "ch": [
+   20,
+   28
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:5",
+   "gobor",
+   "gobo2",
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   473,
+   732,
+   566
+  ],
+  "url": "https://www.martin.com/en/products/mac-viper-quadray",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "mac-viper-wash",
+  "model": "MAC Viper Wash",
+  "kind": "wash",
+  "deg": [
+   13.5,
+   59
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "ch": [
+   18,
+   24
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "zoom"
+  ],
+  "url": "https://www.martin.com/en/products/mac-viper-wash",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "mac-iii-performance",
+  "model": "MAC III Performance",
+  "kind": "profile",
+  "deg": [
+   11.5,
+   55
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "ch": [
+   33,
+   40
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:5",
+   "gobor",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.martin.com/en/products/mac-iii-performance",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "mac-iii-wash",
+  "model": "MAC III Wash",
+  "kind": "wash",
+  "pan": 540,
+  "tilt": 268,
+  "ch": [
+   21
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "zoom"
+  ],
+  "url": "https://www.martin.com/en/products/mac-iii-wash",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "mac-iii-airfx",
+  "model": "MAC III AirFX",
+  "kind": "beam",
+  "deg": [
+   10,
+   47
+  ],
+  "pan": 540,
+  "tilt": 268,
+  "ch": [
+   22
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "iris",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.martin.com/en/products/mac-iii-airfx",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "mac-iii-quadray",
+  "model": "MAC III Quadray",
+  "kind": "effect",
+  "ch": [
+   22
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   536,
+   936,
+   712
+  ],
+  "url": "https://www.martin.com/en/products/mac-iii-quadray",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "mac-2000-profile",
+  "model": "MAC 2000 Profile",
+  "kind": "spot",
+  "deg": [
+   10,
+   28
+  ],
+  "pan": 540,
+  "tilt": 267,
+  "ch": [
+   20,
+   24
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "gobo:5",
+   "gobor",
+   "gobo2",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.martin.com/en/products/mac-2000-profile",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "mac-2000-wash-xb",
+  "model": "MAC 2000 Wash XB",
+  "kind": "wash",
+  "deg": [
+   12.5,
+   35
+  ],
+  "pan": 540,
+  "tilt": 267,
+  "ch": [
+   19,
+   21
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "zoom"
+  ],
+  "url": "https://www.martin.com/en/products/mac-2000-wash-xb",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "mac-tw1",
+  "model": "MAC TW1",
+  "kind": "wash",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   14.5,
+   27
+  ],
+  "pan": 540,
+  "tilt": 242,
+  "ch": [
+   14,
+   20
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "zoom"
+  ],
+  "url": "https://www.martin.com/en/products/mac-tw1",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "mac-550",
+  "model": "MAC 550",
+  "kind": "spot",
+  "deg": [
+   14,
+   30
+  ],
+  "pan": 540,
+  "tilt": 246,
+  "ch": [
+   21,
+   27
+  ],
+  "feat": [
+   "pro",
+   "gobo:6",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.martin.com/en/products/mac-550",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "mac-575-krypton",
+  "model": "MAC 575 Krypton",
+  "kind": "spot",
+  "deg": [
+   16,
+   31
+  ],
+  "pan": 540,
+  "tilt": 246,
+  "ch": [
+   19,
+   25
+  ],
+  "feat": [
+   "pro",
+   "gobo:6",
+   "gobor",
+   "gobo2",
+   "prism",
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.martin.com/en/products/mac-575-krypton",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "mac-101-ct",
+  "model": "MAC 101 CT",
+  "kind": "wash",
+  "leds": [
+   1,
+   "white"
+  ],
+  "pan": 540,
+  "tilt": 240,
+  "ch": [
+   10
+  ],
+  "feat": [
+   "pro"
+  ],
+  "url": "https://www.martin.com/en/products/mac-101-ct",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "rush-mh-1-profile-plus",
+  "model": "RUSH MH 1 Profile Plus",
+  "kind": "spot",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   17
+  ],
+  "feat": [
+   "pro",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "prism",
+   "iris",
+   "focus"
+  ],
+  "url": "https://www.martin.com/en/products/rush-mh-1-profile-plus",
+  "note": "Kanalfolge und Bereiche aus dem RUSH MH 1 Profile Plus User Manual (Kapitel DMX protocol, martin.com).",
+  "verified": true,
+  "modes": [
+   {
+    "name": "17CH",
+    "channels": [
+     {
+      "name": "Pan 0°-540°",
+      "attr": "pan",
+      "byte": 0
+     },
+     {
+      "name": "Pan (fine control)",
+      "attr": "pan",
+      "byte": 1
+     },
+     {
+      "name": "Tilt 0°-270°",
+      "attr": "tilt",
+      "byte": 0
+     },
+     {
+      "name": "Tilt (fine control)",
+      "attr": "tilt",
+      "byte": 1
+     },
+     {
+      "name": "Pan/tilt speed, fast- slow",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Dimmer 0-100%",
+      "attr": "dimmer",
+      "byte": 0
+     },
+     {
+      "name": "Strobe",
+      "attr": "shutter",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 7,
+        "kind": "closed",
+        "label": "Off"
+       },
+       {
+        "from": 8,
+        "to": 15,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 16,
+        "to": 131,
+        "kind": "strobe",
+        "label": "Strobe, slow-fast"
+       },
+       {
+        "from": 132,
+        "to": 139,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 140,
+        "to": 181,
+        "kind": "open",
+        "label": "Fast close, slow open"
+       },
+       {
+        "from": 182,
+        "to": 189,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 190,
+        "to": 231,
+        "kind": "open",
+        "label": "Slow close, fast open"
+       },
+       {
+        "from": 232,
+        "to": 239,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 240,
+        "to": 247,
+        "kind": "strobe",
+        "label": "Random strobe"
+       },
+       {
+        "from": 248,
+        "to": 255,
+        "kind": "open",
+        "label": "Open"
+       }
+      ]
+     },
+     {
+      "name": "Color wheel 1",
+      "attr": "colorWheel",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 7,
+        "kind": "color",
+        "color": "#ffffff",
+        "label": "Color 1 - Open"
+       },
+       {
+        "from": 8,
+        "to": 15,
+        "kind": "color",
+        "color": "#80c0ff",
+        "label": "Color 2 - Light Blue"
+       },
+       {
+        "from": 16,
+        "to": 23,
+        "kind": "color",
+        "color": "#20ff40",
+        "label": "Color 3 - Green"
+       },
+       {
+        "from": 24,
+        "to": 31,
+        "kind": "color",
+        "color": "#ff8000",
+        "label": "Color 4 - Orange"
+       },
+       {
+        "from": 32,
+        "to": 39,
+        "kind": "color",
+        "color": "#ffe000",
+        "label": "Color 5 - Yellow"
+       },
+       {
+        "from": 40,
+        "to": 47,
+        "kind": "color",
+        "color": "#ff20c0",
+        "label": "Color 6 - Magenta"
+       },
+       {
+        "from": 48,
+        "to": 55,
+        "kind": "color",
+        "color": "#1020c0",
+        "label": "Color 7 - Dark blue"
+       },
+       {
+        "from": 56,
+        "to": 63,
+        "kind": "color",
+        "color": "#ff2010",
+        "label": "Color 8 - Red"
+       },
+       {
+        "from": 64,
+        "to": 127,
+        "kind": "generic",
+        "label": "Indexing"
+       },
+       {
+        "from": 128,
+        "to": 189,
+        "kind": "generic",
+        "label": "Clockwise, fast-slow"
+       },
+       {
+        "from": 190,
+        "to": 193,
+        "kind": "generic",
+        "label": "Stop"
+       },
+       {
+        "from": 194,
+        "to": 255,
+        "kind": "generic",
+        "label": "Counter-clockwise, slow-fast"
+       }
+      ]
+     },
+     {
+      "name": "Colour wheel 2",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Gobo wheel 1 (rotating gobos)",
+      "attr": "gobo",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 7,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 8,
+        "to": 15,
+        "kind": "gobo",
+        "gobo": 1,
+        "label": "Gobo 1"
+       },
+       {
+        "from": 16,
+        "to": 23,
+        "kind": "gobo",
+        "gobo": 2,
+        "label": "Gobo 2"
+       },
+       {
+        "from": 24,
+        "to": 31,
+        "kind": "gobo",
+        "gobo": 3,
+        "label": "Gobo 3"
+       },
+       {
+        "from": 32,
+        "to": 39,
+        "kind": "gobo",
+        "gobo": 4,
+        "label": "Gobo 4"
+       },
+       {
+        "from": 40,
+        "to": 47,
+        "kind": "gobo",
+        "gobo": 5,
+        "label": "Gobo 5"
+       },
+       {
+        "from": 48,
+        "to": 55,
+        "kind": "gobo",
+        "gobo": 6,
+        "label": "Gobo 6"
+       },
+       {
+        "from": 56,
+        "to": 63,
+        "kind": "gobo",
+        "gobo": 7,
+        "label": "Gobo 7"
+       },
+       {
+        "from": 64,
+        "to": 73,
+        "kind": "generic",
+        "label": "Gobo 1 shake"
+       },
+       {
+        "from": 74,
+        "to": 82,
+        "kind": "generic",
+        "label": "Gobo 2 shake"
+       },
+       {
+        "from": 83,
+        "to": 91,
+        "kind": "generic",
+        "label": "Gobo 3 shake"
+       },
+       {
+        "from": 92,
+        "to": 100,
+        "kind": "generic",
+        "label": "Gobo 4 shake"
+       },
+       {
+        "from": 101,
+        "to": 109,
+        "kind": "generic",
+        "label": "Gobo 5 shake"
+       },
+       {
+        "from": 110,
+        "to": 118,
+        "kind": "generic",
+        "label": "Gobo 6 shake"
+       },
+       {
+        "from": 119,
+        "to": 127,
+        "kind": "generic",
+        "label": "Gobo 7 shake"
+       },
+       {
+        "from": 128,
+        "to": 189,
+        "kind": "generic",
+        "label": "Wheel rotation, clockwise, fast-slow"
+       },
+       {
+        "from": 190,
+        "to": 193,
+        "kind": "generic",
+        "label": "Stop"
+       },
+       {
+        "from": 194,
+        "to": 255,
+        "kind": "generic",
+        "label": "Wheel rotation, counter clockwise, slow-fast"
+       }
+      ]
+     },
+     {
+      "name": "Gobo rotation (wheel 1)",
+      "attr": "goboRotation",
+      "byte": 0
+     },
+     {
+      "name": "Gobo wheel 2 (fixed gobos)",
+      "attr": "gobo",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 7,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 8,
+        "to": 14,
+        "kind": "gobo",
+        "gobo": 1,
+        "label": "Gobo 1"
+       },
+       {
+        "from": 15,
+        "to": 21,
+        "kind": "gobo",
+        "gobo": 2,
+        "label": "Gobo 2"
+       },
+       {
+        "from": 22,
+        "to": 28,
+        "kind": "gobo",
+        "gobo": 3,
+        "label": "Gobo 3"
+       },
+       {
+        "from": 29,
+        "to": 35,
+        "kind": "gobo",
+        "gobo": 4,
+        "label": "Gobo 4"
+       },
+       {
+        "from": 36,
+        "to": 42,
+        "kind": "gobo",
+        "gobo": 5,
+        "label": "Gobo 5"
+       },
+       {
+        "from": 43,
+        "to": 49,
+        "kind": "gobo",
+        "gobo": 6,
+        "label": "Gobo 6"
+       },
+       {
+        "from": 50,
+        "to": 56,
+        "kind": "gobo",
+        "gobo": 7,
+        "label": "Gobo 7"
+       },
+       {
+        "from": 57,
+        "to": 63,
+        "kind": "gobo",
+        "gobo": 8,
+        "label": "Gobo 8"
+       },
+       {
+        "from": 64,
+        "to": 71,
+        "kind": "generic",
+        "label": "Gobo 1 shake"
+       },
+       {
+        "from": 72,
+        "to": 79,
+        "kind": "generic",
+        "label": "Gobo 2 shake"
+       },
+       {
+        "from": 80,
+        "to": 87,
+        "kind": "generic",
+        "label": "Gobo 3 shake"
+       },
+       {
+        "from": 88,
+        "to": 95,
+        "kind": "generic",
+        "label": "Gobo 4 shake"
+       },
+       {
+        "from": 96,
+        "to": 103,
+        "kind": "generic",
+        "label": "Gobo 5 shake"
+       },
+       {
+        "from": 104,
+        "to": 111,
+        "kind": "generic",
+        "label": "Gobo 6 shake"
+       },
+       {
+        "from": 112,
+        "to": 119,
+        "kind": "generic",
+        "label": "Gobo 7 shake"
+       },
+       {
+        "from": 120,
+        "to": 127,
+        "kind": "generic",
+        "label": "Gobo 8 shake"
+       },
+       {
+        "from": 128,
+        "to": 189,
+        "kind": "generic",
+        "label": "Wheel rotation, counter clockwise, fast-slow"
+       },
+       {
+        "from": 190,
+        "to": 193,
+        "kind": "generic",
+        "label": "Stop"
+       },
+       {
+        "from": 194,
+        "to": 255,
+        "kind": "generic",
+        "label": "Wheel rotation, clockwise, slow-fast"
+       }
+      ]
+     },
+     {
+      "name": "Prism",
+      "attr": "prism",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 127,
+        "kind": "generic",
+        "label": "No effect"
+       },
+       {
+        "from": 128,
+        "to": 255,
+        "kind": "prism",
+        "label": "Prism effect"
+       }
+      ]
+     },
+     {
+      "name": "Prism rotation",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Iris",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Focus, close-distant",
+      "attr": "focus",
+      "byte": 0
+     },
+     {
+      "name": "Settings / fixture control",
+      "attr": "control",
+      "byte": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "man": "Martin",
+  "key": "rush-mh-4-beam",
+  "model": "RUSH MH 4 Beam",
+  "kind": "beam",
+  "deg": [
+   3,
+   3
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   13
+  ],
+  "feat": [
+   "pro",
+   "gobo:17",
+   "prism",
+   "focus"
+  ],
+  "url": "https://www.martin.com/en/products/rush-mh-4-beam",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "rush-mh-6-wash-ct",
+  "model": "RUSH MH 6 Wash CT",
+  "kind": "wash",
+  "leds": [
+   12,
+   "wwcw"
+  ],
+  "deg": [
+   10,
+   60
+  ],
+  "pan": 540,
+  "tilt": 200,
+  "ch": [
+   14
+  ],
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.martin.com/en/products/rush-mh-6-wash-ct",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "rush-mh-8-mini-profile",
+  "model": "RUSH MH 8 Mini Profile",
+  "kind": "spot",
+  "deg": [
+   14,
+   14
+  ],
+  "pan": 540,
+  "tilt": 230,
+  "ch": [
+   10
+  ],
+  "feat": [
+   "pro",
+   "gobo:8",
+   "focus"
+  ],
+  "url": "https://www.martin.com/en/products/rush-mh-8-mini-profile",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "rush-mh-10-beam-fx",
+  "model": "RUSH MH 10 Beam FX",
+  "kind": "beam",
+  "deg": [
+   4.4,
+   4.4
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   24,
+   93
+  ],
+  "feat": [
+   "pro"
+  ],
+  "url": "https://www.martin.com/en/products/rush-mh-10-beam-fx",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "rush-mh-11-beam",
+  "model": "RUSH MH 11 Beam",
+  "kind": "beam",
+  "deg": [
+   2.6,
+   2.6
+  ],
+  "pan": 660,
+  "tilt": 250,
+  "ch": [
+   18
+  ],
+  "feat": [
+   "pro",
+   "cto",
+   "gobo:8",
+   "gobor",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://www.martin.com/en/products/rush-mh-11-beam",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "rush-multibeam-2",
+  "model": "RUSH Multibeam 2",
+  "kind": "effect",
+  "leds": [
+   10,
+   "rgbw"
+  ],
+  "deg": [
+   8,
+   8
+  ],
+  "ch": [
+   44
+  ],
+  "size": [
+   248,
+   164,
+   473
+  ],
+  "url": "https://www.martin.com/en/products/rush-multibeam-2",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "rush-par-2-ct-zoom",
+  "model": "RUSH PAR 2 CT Zoom",
+  "kind": "par",
+  "leds": [
+   12,
+   "ww"
+  ],
+  "deg": [
+   10,
+   60
+  ],
+  "ch": [
+   7
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   287,
+   329,
+   266
+  ],
+  "url": "https://www.martin.com/en/products/rush-par-2-ct-zoom",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "rush-par-3-rgb",
+  "model": "RUSH PAR 3 RGB",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   106,
+   106
+  ],
+  "ch": [
+   9
+  ],
+  "size": [
+   265,
+   165,
+   250
+  ],
+  "url": "https://www.martin.com/en/products/rush-par-3-rgb",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "rush-par-4-uv",
+  "model": "RUSH PAR 4 UV",
+  "kind": "par",
+  "leds": [
+   1,
+   "uv"
+  ],
+  "ch": [
+   3
+  ],
+  "size": [
+   312,
+   207,
+   327
+  ],
+  "url": "https://www.martin.com/en/products/rush-par-4-uv",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "rush-batten-1-hex",
+  "model": "RUSH Batten 1 Hex",
+  "kind": "bar",
+  "leds": [
+   12,
+   "rgbwauv"
+  ],
+  "deg": [
+   25,
+   32
+  ],
+  "ch": [
+   13,
+   80
+  ],
+  "pixelFrom": 80,
+  "size": [
+   900,
+   200,
+   100
+  ],
+  "url": "https://www.martin.com/en/products/rush-batten-1-hex",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "rush-blinder-1-ww",
+  "model": "RUSH Blinder 1 WW",
+  "kind": "blinder",
+  "leds": [
+   4,
+   "ww"
+  ],
+  "grid": [
+   2,
+   2
+  ],
+  "deg": [
+   70,
+   70
+  ],
+  "ch": [
+   1,
+   4,
+   8
+  ],
+  "pixelFrom": 4,
+  "size": [
+   441,
+   177,
+   400
+  ],
+  "url": "https://www.martin.com/en/products/rush-blinder-1-ww",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "rush-strobe-1-5x5",
+  "model": "RUSH Strobe 1 5x5",
+  "kind": "strobe",
+  "leds": [
+   25,
+   "white"
+  ],
+  "grid": [
+   5,
+   5
+  ],
+  "ch": [
+   4,
+   25,
+   29
+  ],
+  "pixelFrom": 25,
+  "size": [
+   500,
+   500,
+   101
+  ],
+  "url": "https://www.martin.com/en/products/rush-strobe-1-5x5",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "rush-strobe-cwl",
+  "model": "RUSH Strobe CWL",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "white"
+  ],
+  "deg": [
+   87,
+   87
+  ],
+  "ch": [
+   1,
+   4
+  ],
+  "size": [
+   505,
+   226,
+   140
+  ],
+  "url": "https://www.martin.com/en/products/rush-strobe-cwl",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "rush-dc-1-aqua",
+  "model": "RUSH DC 1 Aqua",
+  "kind": "effect",
+  "ch": [
+   4
+  ],
+  "size": [
+   342,
+   143,
+   276
+  ],
+  "url": "https://www.martin.com/en/products/rush-dc-1-aqua",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "vdo-atomic-bold",
+  "model": "VDO Atomic Bold",
+  "kind": "strobe",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   1,
+   3,
+   4,
+   10,
+   27,
+   243
+  ],
+  "size": [
+   288,
+   288,
+   161
+  ],
+  "url": "https://www.martin.com/en/products/vdo-atomic-bold",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "vdo-atomic-dot-cld",
+  "model": "VDO Atomic Dot CLD",
+  "kind": "strobe",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   1,
+   3,
+   4,
+   19,
+   64
+  ],
+  "size": [
+   146,
+   134,
+   130
+  ],
+  "url": "https://www.martin.com/en/products/vdo-atomic-dot-cld",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "vdo-atomic-dot-wrm",
+  "model": "VDO Atomic Dot WRM",
+  "kind": "strobe",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   1,
+   3,
+   4,
+   19,
+   64
+  ],
+  "size": [
+   146,
+   134,
+   130
+  ],
+  "url": "https://www.martin.com/en/products/vdo-atomic-dot-wrm",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "vdo-sceptron-10",
+  "model": "VDO Sceptron 10",
+  "kind": "bar",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   3,
+   10,
+   13,
+   22,
+   103,
+   307
+  ],
+  "size": [
+   1000,
+   28,
+   27
+  ],
+  "url": "https://www.martin.com/en/products/vdo-sceptron-10",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "vdo-sceptron-20",
+  "model": "VDO Sceptron 20",
+  "kind": "bar",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   3,
+   10,
+   13,
+   22,
+   55,
+   157
+  ],
+  "size": [
+   1000,
+   28,
+   27
+  ],
+  "url": "https://www.martin.com/en/products/vdo-sceptron-20",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "vdo-sceptron-40",
+  "model": "VDO Sceptron 40",
+  "kind": "bar",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   3,
+   10,
+   13,
+   22,
+   31,
+   82
+  ],
+  "size": [
+   1000,
+   28,
+   27
+  ],
+  "url": "https://www.martin.com/en/products/vdo-sceptron-40",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "vdo-fatron-20",
+  "model": "VDO Fatron 20",
+  "kind": "bar",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   3,
+   10,
+   19,
+   37,
+   55,
+   157
+  ],
+  "size": [
+   1000,
+   80,
+   28
+  ],
+  "url": "https://www.martin.com/en/products/vdo-fatron-20",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "vdo-dotron",
+  "model": "VDO Dotron",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   3,
+   10
+  ],
+  "url": "https://www.martin.com/en/products/vdo-dotron",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "vc-dot-1",
+  "model": "VC-Dot 1",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   3
+  ],
+  "size": [
+   28,
+   23,
+   11
+  ],
+  "url": "https://www.martin.com/en/products/vc-dot-1",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "vc-dot-4",
+  "model": "VC-Dot 4",
+  "kind": "effect",
+  "leds": [
+   4,
+   "rgb"
+  ],
+  "ch": [
+   3
+  ],
+  "size": [
+   36,
+   30,
+   13
+  ],
+  "url": "https://www.martin.com/en/products/vc-dot-4",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "vc-grid-15",
+  "model": "VC-Grid 15",
+  "kind": "matrix",
+  "leds": [
+   256,
+   "rgb"
+  ],
+  "grid": [
+   16,
+   16
+  ],
+  "ch": [
+   3,
+   192
+  ],
+  "size": [
+   240,
+   15,
+   240
+  ],
+  "url": "https://www.martin.com/en/products/vc-grid-15",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "vc-grid-30",
+  "model": "VC-Grid 30",
+  "kind": "matrix",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   3,
+   192
+  ],
+  "size": [
+   240,
+   15,
+   240
+  ],
+  "url": "https://www.martin.com/en/products/vc-grid-30",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "stagebar-2",
+  "model": "Stagebar 2",
+  "kind": "bar",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   3,
+   30
+  ],
+  "size": [
+   420,
+   190,
+   105
+  ],
+  "url": "https://www.martin.com/en/products/stagebar-2",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "elp-cl-ip",
+  "model": "ELP CL IP",
+  "kind": "ellipsoidal",
+  "deg": [
+   15,
+   30
+  ],
+  "ch": [
+   1,
+   10,
+   17
+  ],
+  "feat": [
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "size": [
+   255,
+   255,
+   644
+  ],
+  "url": "https://www.martin.com/en/products/elp-cl-ip",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "elp-ww",
+  "model": "ELP WW",
+  "kind": "ellipsoidal",
+  "deg": [
+   15,
+   30
+  ],
+  "ch": [
+   1,
+   2,
+   4
+  ],
+  "feat": [
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "size": [
+   259,
+   254,
+   648
+  ],
+  "url": "https://www.martin.com/en/products/elp-ww",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "elp-ww-ip",
+  "model": "ELP WW IP",
+  "kind": "ellipsoidal",
+  "deg": [
+   15,
+   30
+  ],
+  "ch": [
+   1,
+   2,
+   4
+  ],
+  "feat": [
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "size": [
+   255,
+   255,
+   644
+  ],
+  "url": "https://www.martin.com/en/products/elp-ww-ip",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "elp-par-ip",
+  "model": "ELP PAR IP",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   4.4,
+   33.3
+  ],
+  "ch": [
+   14
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   285,
+   398,
+   315
+  ],
+  "url": "https://www.martin.com/en/products/elp-par-ip",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "elp-manet-8f",
+  "model": "ELP Manet 8f",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   9,
+   50
+  ],
+  "ch": [
+   11,
+   17
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   372,
+   499,
+   405
+  ],
+  "url": "https://www.martin.com/en/products/elp-manet-8f",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "thrill-compact-par-64-led",
+  "model": "THRILL Compact PAR 64 LED",
+  "kind": "par",
+  "leds": [
+   5,
+   "rgbwauv"
+  ],
+  "deg": [
+   18,
+   18
+  ],
+  "ch": [
+   6,
+   9
+  ],
+  "size": [
+   127,
+   266,
+   262
+  ],
+  "url": "https://www.martin.com/en/products/thrill-compact-par-64-led",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "thrill-compact-par-mini-led",
+  "model": "THRILL Compact PAR Mini LED",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgb"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   3,
+   6
+  ],
+  "size": [
+   115,
+   229,
+   229
+  ],
+  "url": "https://www.martin.com/en/products/thrill-compact-par-mini-led",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "thrill-multi-fx-led",
+  "model": "THRILL Multi-FX LED",
+  "kind": "effect",
+  "leds": [
+   5,
+   "rgbwa"
+  ],
+  "ch": [
+   2,
+   16
+  ],
+  "size": [
+   234,
+   246,
+   246
+  ],
+  "url": "https://www.martin.com/en/products/thrill-multi-fx-led",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "exterior-1200-wash",
+  "model": "Exterior 1200 Wash",
+  "kind": "flood",
+  "deg": [
+   8,
+   16
+  ],
+  "ch": [
+   8
+  ],
+  "feat": [
+   "cmy",
+   "zoom"
+  ],
+  "size": [
+   448,
+   620,
+   860
+  ],
+  "url": "https://www.martin.com/en/products/exterior-1200-wash",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "extube",
+  "model": "Extube",
+  "kind": "tube",
+  "leds": [
+   1,
+   "white"
+  ],
+  "ch": [
+   3,
+   4,
+   12,
+   16
+  ],
+  "size": [
+   300,
+   90,
+   89
+  ],
+  "url": "https://www.martin.com/en/products/extube",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Martin",
+  "key": "tripix-wash",
+  "model": "Tripix Wash",
+  "kind": "bar",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   3,
+   4
+  ],
+  "size": [
+   335,
+   213,
+   66
+  ],
+  "url": "https://www.martin.com/en/products/tripix-wash",
+  "note": "Steckbrief aus Herstellerangaben (martin.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

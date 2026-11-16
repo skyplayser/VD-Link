@@ -1,0 +1,2182 @@
+[
+ {
+  "man": "XMlite",
+  "key": "bot230",
+  "model": "BOT230",
+  "kind": "beam",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16,
+   20
+  ],
+  "feat": [
+   "gobo:17",
+   "prism"
+  ],
+  "url": "https://www.movinghead.net/stagelights/508.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "led-par-54x3w",
+  "model": "LED Par 54x3W",
+  "kind": "par",
+  "ch": [
+   14,
+   25,
+   30
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.movinghead.net/stagelights/509.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "beam230",
+  "model": "Beam230",
+  "kind": "beam",
+  "deg": [
+   3.8,
+   3.8
+  ],
+  "ch": [
+   16,
+   20
+  ],
+  "feat": [
+   "gobo:17",
+   "prism",
+   "focus"
+  ],
+  "url": "https://www.movinghead.net/stagelights/510.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "hotbeam280",
+  "model": "Hotbeam280",
+  "kind": "hybrid",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16,
+   24
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://www.movinghead.net/stagelights/511.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "ls180",
+  "model": "LS180",
+  "kind": "spot",
+  "pan": 540,
+  "ch": [
+   17
+  ],
+  "feat": [
+   "gobo:14",
+   "prism"
+  ],
+  "url": "https://www.movinghead.net/stagelights/512.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "minihotbeam",
+  "model": "Minihotbeam",
+  "kind": "hybrid",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16,
+   20
+  ],
+  "feat": [
+   "gobo:14",
+   "prism"
+  ],
+  "url": "https://www.movinghead.net/stagelights/513.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "lm915z",
+  "model": "LM915Z",
+  "kind": "matrixhead",
+  "deg": [
+   10,
+   50
+  ],
+  "ch": [
+   16,
+   22,
+   50
+  ],
+  "feat": [
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.movinghead.net/stagelights/515.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "bs440-bs440c",
+  "model": "BS440/BS440C",
+  "kind": "hybrid",
+  "deg": [
+   2.5,
+   39
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16,
+   20,
+   24
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "prism",
+   "frost"
+  ],
+  "url": "https://www.movinghead.net/stagelights/516.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "beam-440",
+  "model": "BEAM 440",
+  "kind": "beam",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16
+  ],
+  "feat": [
+   "gobo:17",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost"
+  ],
+  "url": "https://www.movinghead.net/stagelights/518.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "dot-beam-60w",
+  "model": "Dot beam 60W",
+  "kind": "beam",
+  "ch": [
+   14,
+   16
+  ],
+  "url": "https://www.movinghead.net/stagelights/519.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "hotbeam350",
+  "model": "Hotbeam350",
+  "kind": "hybrid",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16,
+   24
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost"
+  ],
+  "url": "https://www.movinghead.net/stagelights/521.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "lm285",
+  "model": "LM285",
+  "kind": "wash",
+  "deg": [
+   7.9,
+   38
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   15,
+   25
+  ],
+  "feat": [
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.movinghead.net/stagelights/522.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "mini-hotbeam",
+  "model": "MINI HOTBEAM",
+  "kind": "hybrid",
+  "deg": [
+   4,
+   15
+  ],
+  "pan": 540,
+  "ch": [
+   16,
+   24
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://www.movinghead.net/stagelights/523.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "beam350",
+  "model": "Beam350",
+  "kind": "beam",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16,
+   19
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost"
+  ],
+  "url": "https://www.movinghead.net/stagelights/524.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "ms440",
+  "model": "MS440",
+  "kind": "spot",
+  "deg": [
+   5,
+   30
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   21,
+   25
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "prism",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://www.movinghead.net/stagelights/525.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "megabeam350",
+  "model": "Megabeam350",
+  "kind": "hybrid",
+  "pan": 540,
+  "ch": [
+   21,
+   25
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "prism",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://www.movinghead.net/stagelights/526.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "lp285",
+  "model": "LP285",
+  "kind": "par",
+  "ch": [
+   7,
+   9
+  ],
+  "feat": [
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.movinghead.net/stagelights/527.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "lp285cw",
+  "model": "LP285CW",
+  "kind": "par",
+  "deg": [
+   7.9,
+   38
+  ],
+  "ch": [
+   6
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   220,
+   220,
+   240
+  ],
+  "url": "https://www.movinghead.net/stagelights/528.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "led-par-54x3w-variante",
+  "model": "LED Par 54x3W (Variante)",
+  "kind": "par",
+  "ch": [
+   14,
+   25,
+   30
+  ],
+  "size": [
+   670,
+   365,
+   400
+  ],
+  "url": "https://www.movinghead.net/stagelights/529.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "xc230",
+  "model": "XC230",
+  "kind": "beam",
+  "ch": [
+   6,
+   20
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "focus"
+  ],
+  "url": "https://www.movinghead.net/stagelights/530.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 1 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "lm560",
+  "model": "LM560",
+  "kind": "wash",
+  "deg": [
+   7.9,
+   38
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   14,
+   25,
+   30
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.movinghead.net/stagelights/531.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "exp1400",
+  "model": "Exp1400",
+  "kind": "profile",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   37,
+   41
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "prism",
+   "iris",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://www.movinghead.net/stagelights/532.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "nex-350",
+  "model": "NEX 350",
+  "kind": "beam",
+  "pan": 540,
+  "ch": [
+   16,
+   19
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost"
+  ],
+  "url": "https://www.movinghead.net/stagelights/533.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "nex-260",
+  "model": "Nex-260",
+  "kind": "beam",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16
+  ],
+  "feat": [
+   "gobo:14",
+   "prism"
+  ],
+  "url": "https://www.movinghead.net/stagelights/534.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "exp660",
+  "model": "Exp660",
+  "kind": "profile",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   37,
+   41
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.movinghead.net/stagelights/535.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "exp600",
+  "model": "Exp600",
+  "kind": "profile",
+  "deg": [
+   6,
+   42
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   37,
+   41
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.movinghead.net/stagelights/536.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "exp410",
+  "model": "Exp410",
+  "kind": "hybrid",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16,
+   21,
+   24,
+   25
+  ],
+  "feat": [
+   "cmy",
+   "gobo:14",
+   "prism",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://www.movinghead.net/stagelights/537.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "lp310",
+  "model": "LP310",
+  "kind": "par",
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   1,
+   3,
+   4,
+   6,
+   9,
+   27
+  ],
+  "size": [
+   340,
+   180,
+   390
+  ],
+  "url": "https://www.movinghead.net/stagelights/538.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "lwp310",
+  "model": "LWP310",
+  "kind": "par",
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   1,
+   3,
+   4,
+   6,
+   9,
+   27
+  ],
+  "url": "https://www.movinghead.net/stagelights/539.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "llp400",
+  "model": "LLP400",
+  "kind": "beam",
+  "deg": [
+   4,
+   6
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16,
+   19
+  ],
+  "feat": [
+   "gobo:14",
+   "anim",
+   "prism",
+   "frost"
+  ],
+  "url": "https://www.movinghead.net/stagelights/540.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "lm560c",
+  "model": "LM560C",
+  "kind": "wash",
+  "deg": [
+   7.9,
+   38
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   14,
+   25,
+   30
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.movinghead.net/stagelights/541.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "nex150",
+  "model": "NEX150",
+  "kind": "hybrid",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16,
+   24
+  ],
+  "feat": [
+   "gobo:14"
+  ],
+  "url": "https://www.movinghead.net/stagelights/542.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "lp-560c",
+  "model": "LP 560C",
+  "kind": "par",
+  "ch": [
+   3,
+   7,
+   10
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.movinghead.net/stagelights/543.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "lm760",
+  "model": "LM760",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   36
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   20,
+   30,
+   77
+  ],
+  "url": "https://www.movinghead.net/stagelights/544.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "megaplus480",
+  "model": "MEGAPLUS480",
+  "kind": "hybrid",
+  "deg": [
+   2.5,
+   45
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   34,
+   39
+  ],
+  "feat": [
+   "cmy",
+   "gobo:14",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "zoom"
+  ],
+  "url": "https://www.movinghead.net/stagelights/545.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "megaplus-420",
+  "model": "MEGAPLUS 420",
+  "kind": "hybrid",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   19
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://www.movinghead.net/stagelights/547.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "lm105",
+  "model": "LM105",
+  "kind": "wash",
+  "deg": [
+   7.9,
+   38
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   14,
+   25
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom"
+  ],
+  "url": "https://www.movinghead.net/stagelights/549.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "lwp285cw",
+  "model": "LWP285CW",
+  "kind": "par",
+  "deg": [
+   7.9,
+   38
+  ],
+  "ch": [
+   6
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   250,
+   250,
+   260
+  ],
+  "url": "https://www.movinghead.net/stagelights/550.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "lwp216",
+  "model": "LWP216",
+  "kind": "par",
+  "leds": [
+   18,
+   "rgbw"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   8
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   280,
+   310,
+   240
+  ],
+  "url": "https://www.movinghead.net/stagelights/551.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "lp228",
+  "model": "LP228",
+  "kind": "par",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   8
+  ],
+  "size": [
+   250,
+   310,
+   230
+  ],
+  "url": "https://www.movinghead.net/stagelights/552.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "mega-plus-450",
+  "model": "Mega Plus 450",
+  "kind": "hybrid",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   19
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "zoom"
+  ],
+  "url": "https://www.movinghead.net/stagelights/553.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "nex320",
+  "model": "NEX320",
+  "kind": "beam",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16
+  ],
+  "feat": [
+   "gobo:14",
+   "prism"
+  ],
+  "url": "https://www.movinghead.net/stagelights/554.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "xf580",
+  "model": "XF580",
+  "kind": "profile",
+  "deg": [
+   8,
+   29
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   22
+  ],
+  "feat": [
+   "cto",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.movinghead.net/stagelights/555.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "llp450",
+  "model": "LLP450",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16,
+   20
+  ],
+  "feat": [
+   "gobo:14",
+   "prism"
+  ],
+  "url": "https://www.movinghead.net/stagelights/556.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "h9",
+  "model": "H9",
+  "kind": "profile",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   42,
+   49
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "prism",
+   "iris",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.movinghead.net/stagelights/558.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "h12",
+  "model": "H12",
+  "kind": "profile",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   39,
+   43
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "prism",
+   "iris",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.movinghead.net/stagelights/559.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "lm660",
+  "model": "LM660",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbwauv"
+  ],
+  "deg": [
+   7.9,
+   38
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   19,
+   32
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.movinghead.net/stagelights/560.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "h10",
+  "model": "H10",
+  "kind": "profile",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   36,
+   52,
+   56
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:1",
+   "gobor",
+   "gobo2",
+   "prism",
+   "iris",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.movinghead.net/stagelights/561.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "megabeam380",
+  "model": "MEGABEAM380",
+  "kind": "hybrid",
+  "pan": 540,
+  "ch": [
+   21,
+   25
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "prism",
+   "frost"
+  ],
+  "url": "https://www.movinghead.net/stagelights/562.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "mf9",
+  "model": "MF9",
+  "kind": "profile",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   37,
+   41
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "prism",
+   "iris",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.movinghead.net/stagelights/563.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "h5",
+  "model": "H5",
+  "kind": "profile",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   36,
+   52,
+   56
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:1",
+   "gobor",
+   "gobo2",
+   "prism",
+   "iris",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.movinghead.net/stagelights/564.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "exp-700",
+  "model": "EXP 700",
+  "kind": "profile",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   43
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "prism",
+   "iris",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.movinghead.net/stagelights/565.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "exp290",
+  "model": "EXP290",
+  "kind": "hybrid",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16,
+   24
+  ],
+  "feat": [
+   "gobo:14",
+   "prism"
+  ],
+  "url": "https://www.movinghead.net/stagelights/566.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "nex295",
+  "model": "NEX295",
+  "kind": "beam",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16,
+   20
+  ],
+  "feat": [
+   "gobo:13",
+   "gobor",
+   "gobo2",
+   "prism"
+  ],
+  "url": "https://www.movinghead.net/stagelights/567.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "h5-500w-led-profile-moving-head-light",
+  "model": "H5 (500W LED PROFILE MOVING HEAD LIGHT)",
+  "kind": "profile",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   44,
+   45,
+   50
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "prism",
+   "iris",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.movinghead.net/stagelights/568.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "c10",
+  "model": "C10",
+  "kind": "profile",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   39,
+   43
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "prism",
+   "iris",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.movinghead.net/stagelights/569.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "wp430",
+  "model": "WP430",
+  "kind": "beam",
+  "deg": [
+   2.2,
+   2.2
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16,
+   20
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "focus"
+  ],
+  "url": "https://www.movinghead.net/stagelights/570.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "lm610",
+  "model": "LM610",
+  "kind": "beeeye",
+  "deg": [
+   4,
+   36
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   21,
+   23,
+   35,
+   78,
+   92,
+   97,
+   99
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.movinghead.net/stagelights/571.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "nex-430",
+  "model": "NEX 430",
+  "kind": "beam",
+  "deg": [
+   2.2,
+   2.2
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16,
+   20
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.movinghead.net/stagelights/572.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "l5",
+  "model": "L5",
+  "kind": "strobe",
+  "deg": [
+   102,
+   102
+  ],
+  "ch": [
+   7,
+   15,
+   17,
+   21,
+   33,
+   39,
+   65,
+   68,
+   70,
+   112,
+   117
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   1000,
+   98,
+   153
+  ],
+  "url": "https://www.movinghead.net/stagelights/573.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "w8",
+  "model": "W8",
+  "kind": "profile",
+  "deg": [
+   7,
+   49
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   37,
+   41
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:8",
+   "gobor",
+   "gobo2",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.movinghead.net/stagelights/574.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "exp351",
+  "model": "EXP351",
+  "kind": "hybrid",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16,
+   24
+  ],
+  "feat": [
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://www.movinghead.net/stagelights/576.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "exp490c",
+  "model": "EXP490C",
+  "kind": "hybrid",
+  "pan": 540,
+  "ch": [
+   16,
+   24
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:10",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://www.movinghead.net/stagelights/577.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "nex256",
+  "model": "NEX256",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16,
+   20
+  ],
+  "feat": [
+   "gobo:8",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.movinghead.net/stagelights/578.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "wp610",
+  "model": "WP610",
+  "kind": "wash",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   21,
+   23,
+   35,
+   78,
+   92,
+   97,
+   99
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.movinghead.net/stagelights/579.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "c8",
+  "model": "C8",
+  "kind": "profile",
+  "deg": [
+   4,
+   47
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   37,
+   41,
+   50
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "zoom"
+  ],
+  "url": "https://www.movinghead.net/stagelights/580.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "wp380",
+  "model": "WP380",
+  "kind": "beam",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16,
+   20
+  ],
+  "feat": [
+   "gobo:6",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.movinghead.net/stagelights/581.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "mega-plus-450c",
+  "model": "Mega Plus 450C",
+  "kind": "hybrid",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   19,
+   24,
+   31
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "gobor",
+   "gobo2",
+   "prism",
+   "zoom"
+  ],
+  "url": "https://www.movinghead.net/stagelights/582.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "lwp180",
+  "model": "LWP180",
+  "kind": "par",
+  "deg": [
+   20,
+   20
+  ],
+  "ch": [
+   2,
+   6,
+   8
+  ],
+  "size": [
+   250,
+   310,
+   250
+  ],
+  "url": "https://www.movinghead.net/stagelights/583.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "lwp200",
+  "model": "LWP200",
+  "kind": "par",
+  "deg": [
+   24,
+   24
+  ],
+  "ch": [
+   8
+  ],
+  "size": [
+   250,
+   310,
+   250
+  ],
+  "url": "https://www.movinghead.net/stagelights/584.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "magaplus370",
+  "model": "Magaplus370",
+  "kind": "hybrid",
+  "deg": [
+   3,
+   27
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   21,
+   25
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "focus"
+  ],
+  "url": "https://www.movinghead.net/stagelights/585.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "bp60",
+  "model": "BP60",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbwauv"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   6,
+   8,
+   10
+  ],
+  "size": [
+   302,
+   164,
+   294
+  ],
+  "url": "https://www.movinghead.net/stagelights/587.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "exp410c",
+  "model": "EXP410C",
+  "kind": "hybrid",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   21,
+   25
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:10",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://www.movinghead.net/stagelights/879.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "led-hotbeam",
+  "model": "LED hotbeam",
+  "kind": "hybrid",
+  "deg": [
+   1.8,
+   44
+  ],
+  "tilt": 270,
+  "ch": [
+   39
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:9",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://www.movinghead.net/stagelights/880.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "megaplus382",
+  "model": "Megaplus382",
+  "kind": "hybrid",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   19,
+   24,
+   31
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "zoom"
+  ],
+  "url": "https://www.movinghead.net/stagelights/881.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "lm940",
+  "model": "LM940",
+  "kind": "wash",
+  "leds": [
+   37,
+   "rgbw"
+  ],
+  "deg": [
+   15,
+   48
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   22,
+   36,
+   133,
+   147,
+   170
+  ],
+  "pixelFrom": 170,
+  "feat": [
+   "cto",
+   "gobo:8",
+   "prism",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://www.movinghead.net/stagelights/882.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "lm350b",
+  "model": "LM350B",
+  "kind": "beam",
+  "deg": [
+   8.8,
+   8.8
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   18
+  ],
+  "feat": [
+   "cto",
+   "gobo:3",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://www.movinghead.net/stagelights/883.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "s6",
+  "model": "S6",
+  "kind": "strobe",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   113,
+   113
+  ],
+  "ch": [
+   8,
+   16,
+   23,
+   114
+  ],
+  "feat": [
+   "cto"
+  ],
+  "size": [
+   570,
+   135,
+   250
+  ],
+  "url": "https://www.movinghead.net/stagelights/884.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "w10",
+  "model": "W10",
+  "kind": "profile",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   37,
+   38,
+   41
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:8",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.movinghead.net/stagelights/885.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "nex361",
+  "model": "NEX361",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   18
+  ],
+  "feat": [
+   "gobo:4",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://www.movinghead.net/stagelights/886.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "wp370",
+  "model": "WP370",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "tilt": 270,
+  "ch": [
+   16,
+   27
+  ],
+  "feat": [
+   "cmy",
+   "gobo:17",
+   "gobor",
+   "gobo2",
+   "prism"
+  ],
+  "url": "https://www.movinghead.net/stagelights/887.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "llp520",
+  "model": "LLP520",
+  "kind": "beam",
+  "deg": [
+   1.7,
+   1.7
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16
+  ],
+  "feat": [
+   "gobo:13",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost"
+  ],
+  "url": "https://www.movinghead.net/stagelights/888.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "wp390h",
+  "model": "WP390H",
+  "kind": "hybrid",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   24
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://www.movinghead.net/stagelights/889.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "wp390",
+  "model": "WP390",
+  "kind": "beam",
+  "deg": [
+   1.9,
+   1.9
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://www.movinghead.net/stagelights/890.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "precision-900",
+  "model": "Precision 900",
+  "kind": "profile",
+  "deg": [
+   7,
+   40
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   37
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:8",
+   "prism",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.movinghead.net/stagelights/914.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "w9",
+  "model": "W9",
+  "kind": "profile",
+  "deg": [
+   5,
+   40
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   44,
+   45
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.movinghead.net/stagelights/919.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "lm970",
+  "model": "LM970",
+  "kind": "wash",
+  "leds": [
+   37,
+   "rgbal"
+  ],
+  "deg": [
+   14,
+   58
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   19,
+   32
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.movinghead.net/stagelights/927.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "120w-waterproof-laser-moving-head",
+  "model": "120W Waterproof Laser Moving Head",
+  "kind": "lasermh",
+  "deg": [
+   9,
+   9
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   25
+  ],
+  "feat": [
+   "cmy",
+   "gobo:25",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://www.movinghead.net/stagelights/928.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "260w-laser-beam",
+  "model": "260W Laser Beam",
+  "kind": "lasermh",
+  "deg": [
+   0.8,
+   0.8
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   15
+  ],
+  "feat": [
+   "cmy",
+   "gobo:19",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://www.movinghead.net/stagelights/929.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "exp-351c",
+  "model": "EXP 351C",
+  "kind": "hybrid",
+  "deg": [
+   4.2,
+   45
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   29
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "prism",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://www.movinghead.net/stagelights/930.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "c8-mini",
+  "model": "C8 Mini",
+  "kind": "profile",
+  "deg": [
+   7,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   37,
+   38,
+   41
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:6",
+   "prism",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.movinghead.net/stagelights/934.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "XMlite",
+  "key": "na100",
+  "model": "NA100",
+  "kind": "lasermh",
+  "deg": [
+   3.3,
+   3.3
+  ],
+  "ch": [
+   16,
+   24,
+   27
+  ],
+  "feat": [
+   "cmy",
+   "prism",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://www.movinghead.net/stagelights/970.html",
+  "note": "Steckbrief aus Herstellerangaben (movinghead.net, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

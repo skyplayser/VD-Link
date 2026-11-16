@@ -1,0 +1,1982 @@
+[
+ {
+  "man": "Lixada",
+  "key": "25w-mini-moving-head-rgbw-8-farben-gobos",
+  "model": "25W Mini Moving Head RGBW (8 Farben, Gobos)",
+  "kind": "spot",
+  "pan": 540,
+  "tilt": 180,
+  "ch": [
+   9,
+   11
+  ],
+  "feat": [
+   "gobo:14"
+  ],
+  "url": "https://www.walmart.com/ip/Lixada-25W-Mini-Moving-Head-LED-Stage-Light-RGBW-9-11-Channel-DMX-512-Sound-Active-Party-Disco-Show/376677448",
+  "note": "Steckbrief aus Shop-Text (automatisch) (walmart.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von ofl:lixada/mini-gobo-moving-head-light.",
+  "verified": false
+ },
+ {
+  "man": "Lixada",
+  "key": "7-10w-rgbw-mini-moving-head-70-105w",
+  "model": "7×10W RGBW Mini Moving Head (70–105W)",
+  "kind": "wash",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   9,
+   14
+  ],
+  "url": "https://www.amazon.com/Lixada-Lighting-Professional-Channels-100-240V/dp/B01DXK33FC",
+  "note": "Steckbrief aus Shop-Text (automatisch) (amazon.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von ofl:stage-right/stage-wash-7x10w-led-moving-head.",
+  "verified": false
+ },
+ {
+  "man": "Lixada",
+  "key": "50w-rgbw-beam-moving-head-12w-lampe",
+  "model": "50W RGBW Beam Moving Head (12W Lampe)",
+  "kind": "beam",
+  "pan": 540,
+  "tilt": 230,
+  "ch": [
+   11,
+   13
+  ],
+  "url": "https://www.amazon.com/Lixada-Rotating-Activated-Master-slave-Channels/dp/B077MB6XNK",
+  "note": "Steckbrief aus Shop-Text (automatisch) (amazon.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von ofl:stage-right/mini-beam-rgbw.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "19x40w-bee-eye-moving-head-light-with-ring-wash-effect",
+  "model": "19x40W Bee Eye Moving Head Light With Ring Wash Effect",
+  "kind": "beeeye",
+  "deg": [
+   4,
+   60
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   7,
+   28,
+   30,
+   42,
+   85,
+   99
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2-19x40w-bee-eye-moving-head-light-with-ring-wash-effect-dmx512-sound-control-for-dj-disco-wedding-event-party-bar-club",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 104, 106 verworfen (unplausibel). Mögliche Dublette von vd:yuer/19x40w-bee-eye-zoom, vd:yuer/19x40w-ip65-wash.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "6x10w-rgbw-4in1-beam-6pcs-red-laser-6-head-moving-head-l",
+  "model": "6x10W RGBW 4in1 Beam +6pcs Red Laser 6 Head Moving Head Light Beam",
+  "kind": "multihead",
+  "leds": [
+   6,
+   "rgbw"
+  ],
+  "tilt": 180,
+  "ch": [
+   8,
+   13,
+   38
+  ],
+  "pixelFrom": 38,
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2-6x10w-rgbw-4in1-beam-6pcs-red-laser-6-head-moving-head-light-beam-laser-effect-dmx512-for-dj-disco-wedding-event-party-bar-club",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/6x10w-six-arm.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "6x50w-warm-white-cob-6x10w-rgbw-4in1-led-bee-eye-72x0-5w",
+  "model": "6x50W Warm White COB + 6x10W RGBW 4in1 LED Bee Eye + 72x0.5W LED",
+  "kind": "beeeye",
+  "leds": [
+   6,
+   "ww"
+  ],
+  "ch": [
+   18,
+   25
+  ],
+  "pixelFrom": 18,
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2-6x50w-warm-white-cob-6x10w-rgbw-4in1-led-bee-eye-72x0-5w-led-retro-light-bee-eye-wash-effect-dmx512-for-dj-disco-party-bar-club-wedding-stage-lighting",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/6x50w-retro-telescopic.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "ip65-waterproof-19x60w-rgbl-led-zoom-moving-head-light-w",
+  "model": "IP65 Waterproof 19x60W RGBL LED Zoom Moving Head Light With Ring CMY",
+  "kind": "beeeye",
+  "leds": [
+   19,
+   "rgb"
+  ],
+  "ring": [
+   19,
+   "rgb"
+  ],
+  "deg": [
+   3.2,
+   38
+  ],
+  "pan": 540,
+  "tilt": 230,
+  "ch": [
+   28,
+   30,
+   42,
+   85,
+   99,
+   104,
+   106
+  ],
+  "feat": [
+   "cmy",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2-ip65-waterproof-19x60w-rgbl-led-zoom-moving-head-light-with-ring-cmy-point-control-bee-eye-effect-dmx512-for-dj-disco-party-bar-club-wedding-stage-lighting",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/19x60w-ip65-bee-eye.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "18x10w-rgbw-4in1-led-wall-washer-light-point-control-was",
+  "model": "18x10W RGBW 4in1 LED Wall Washer Light Point Control Wash Effect Sound",
+  "kind": "bar",
+  "leds": [
+   18,
+   "rgbwauv"
+  ],
+  "ch": [
+   6,
+   8,
+   11,
+   108,
+   110
+  ],
+  "pixelFrom": 108,
+  "feat": [
+   "frost"
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2-18x10w-rgbw-4in1-led-wall-washer-light-point-control-wash-effect-dmx512-sound-for-dj-disco-party-bar-club-wedding-stage-lighting",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/18x10w-ip65-wall-washer.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "7x40w-rgbw-bee-eye-wash-moving-head-light-with-5w-rgb-fu",
+  "model": "7x40W RGBW Bee Eye Wash Moving Head Light With 5W RGB Full-color",
+  "kind": "beeeye",
+  "leds": [
+   7,
+   "rgb"
+  ],
+  "ch": [
+   37,
+   65
+  ],
+  "pixelFrom": 37,
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2-7x40w-rgbw-bee-eye-wash-moving-head-light-with-5w-rgb-full-color-animation-laser-dmx512-app-control-for-dj-disco-party-bar-club-wedding-stage-lighting",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/7x40w-zoom-wash, vd:yuer/7x40w-mini-bee-eye.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "80w-rgbw-4in1-beam-48x2w-rgb-retro-backlight-with-rgb-ri",
+  "model": "80W RGBW 4in1 Beam + 48X2W RGB Retro Backlight With RGB Ring Wash",
+  "kind": "retro",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   10,
+   18
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2-80w-rgbw-4in1-beam-48x2w-rgb-retro-backlight-with-rgb-ring-wash-effect-stage-lighting-dmx512-for-dj-disco-club-wedding-party-bar",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/80w-beam-rgb-ring-backlight.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "6x10w-rgbw-beam-battle-shadow-six-arm-magic-ball-moving",
+  "model": "6x10W RGBW Beam Battle Shadow Six Arm Magic Ball Moving Head Effect",
+  "kind": "effect",
+  "leds": [
+   6,
+   "rgbw"
+  ],
+  "ch": [
+   23
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2-6x10w-rgbw-beam-battle-shadow-six-arm-magic-ball-moving-head-effect-light-with-white-gold-strobe-rg-laser-kaleidoscope-effect-dmx512-sound-control-for-dj-disco-bar-ktv-club",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/6x10w-six-arm.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "led-10x40w-rgbw-4in1-beam-10-heads-moving-head-light-wit",
+  "model": "LED 10x40W RGBW 4IN1 Beam 10 Heads Moving Head Light With Gold/White",
+  "kind": "multihead",
+  "leds": [
+   10,
+   "rgbw"
+  ],
+  "ch": [
+   16,
+   17,
+   26,
+   86
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2-led-10x40w-rgbw-4in1-beam-8-heads-moving-head-light-with-gold-white-strobe-effect-dmx512-for-concert-dj-disco-club-wedding-party-decoration-stage-lighting",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/10x40w-10-head.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "6x10w-rgbw-beam-6-arm-super-magic-ball-donkey-kong-movin",
+  "model": "6x10w RGBW Beam 6-Arm Super Magic Ball Donkey Kong Moving Head Effect",
+  "kind": "effect",
+  "leds": [
+   6,
+   "rgbw"
+  ],
+  "ch": [
+   25
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2-6x10w-rgbw-beam-6-arm-super-magic-ball-donkey-kong-moving-head-effect-light-with-iridescent-light-strips-white-gold-strobe-rg-laser-effect-dmx512-sound-control-for-dj-disco-bar-ktv",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/6x10w-six-arm.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "copy-claypaky-k10-19x15w-bee-eye-rgbw-4in1-led-wash-movi",
+  "model": "Copy Claypaky K10 19x15W Bee Eye RGBW 4in1 LED Wash Moving Head Light",
+  "kind": "beeeye",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   55
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   21,
+   23,
+   35,
+   78,
+   92,
+   97,
+   99
+  ],
+  "pixelFrom": 78,
+  "feat": [
+   "cto",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8F-copy-claypaky-k10-19x15w-bee-eye-rgbw-4in1-led-wash-moving-head-light-with-zoom-and-rotation-dmx512-for-dj-disco-bar-party-nightclub-stage-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/19x15w-bee-eye-k10.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "led-waterproof-18x10w-rgbwa-uv-battery-floodlight-with-w",
+  "model": "LED Waterproof 18X10W RGBWA+UV Battery Floodlight With Wash Wireless",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgbwauv"
+  ],
+  "ch": [
+   6,
+   8,
+   10
+  ],
+  "size": [
+   400,
+   185,
+   200
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8Fnew-led-waterproof-18x10w-rgbwa-uv-battery-floodlight-with-wash-sound-control-wireless-dmx512-for-dj-disco-party-wedding-club",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/18x10w-ip65-wall-washer.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "copy-martin-waterproof-ip65-led-19x40w-rgbw-4in1-114pcs",
+  "model": "Copy Martin Waterproof IP65 LED 19X40W RGBW 4IN1 +114PCS LED Beads",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   60
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   7,
+   17,
+   29,
+   32,
+   37,
+   46,
+   94
+  ],
+  "feat": [
+   "zoom",
+   "focus"
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8F-copy-martin-waterproof-ip65-led-19x40w-rgbw-4in1-114pcs-led-beads-moving-head-light-with-ring-wash-zoom-storbe-effect-rdm-dmx512-for-stage-effect-equipmen",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 379 verworfen (unplausibel). Mögliche Dublette von vd:yuer/19x40w-ip65-wash, vd:yuer/19x40w-bee-eye-zoom.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "waterproof-ip68-led-19x15w-rgbw-par-light-zoom-strobe-ef",
+  "model": "Waterproof IP68 LED 19X15W RGBW Par Light Zoom Strobe Effect Circle",
+  "kind": "strobe",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   8,
+   60
+  ],
+  "ch": [
+   7
+  ],
+  "feat": [
+   "zoom",
+   "focus",
+   "rainbow"
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8Fwaterproof-ip68-led-19x15w-rgbw-par-light-zoom-strobe-effect-circle-control-voice-control-dmx512-for-dmx-dj-disco-dance-bar-professional-laser-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/19x15w-bee-eye-k10.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "waterproof-ip66-18x40w-rgbw-4in1-wall-washer-light-maste",
+  "model": "Waterproof IP66 18X40W RGBW 4IN1 Wall Washer Light Master-Slave",
+  "kind": "bar",
+  "leds": [
+   18,
+   "rgbw"
+  ],
+  "ch": [
+   9
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8Fwaterproof-ip66-18x40w-rgbw-4in1-wall-washer-light-master-slave-control-dmx512-for-dj-disco-bar-club-party-dance-wedding-effect-show",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/18x40w-bee-eye-laser.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "6-eyes-6x50w-cob-rgb-flood-blinder-light-adjustable-tele",
+  "model": "6 Eyes 6X50W COB + RGB Flood Blinder Light Adjustable Telescopic",
+  "kind": "blinder",
+  "leds": [
+   6,
+   "rgb"
+  ],
+  "ch": [
+   15,
+   33
+  ],
+  "pixelFrom": 33,
+  "size": [
+   1200,
+   297,
+   270
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8F-new-6-eyes-6x50w-cob-rgb-flood-blinder-light-adjustable-telescopic-dmx512-for-dj-stage-lighting-effect-disco-bar-wedding-party",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/6x50w-retro-telescopic.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "6-eye-6x50w-white-warm-white-2in1-led-cob-vertical-retro",
+  "model": "6-Eye 6X50W White+Warm White 2IN1 LED COB Vertical Retro Light",
+  "kind": "retro",
+  "leds": [
+   7,
+   "ww"
+  ],
+  "ch": [
+   6,
+   18
+  ],
+  "pixelFrom": 18,
+  "size": [
+   590,
+   540,
+   90
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8F6-eye-6x50w-white-warm-white-2in1-led-cob-vertical-retro-lamp-light-adjustable-telescopic-dmx512-for-dj-stage-bar-disco",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/6x50w-retro-telescopic.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "led-19x10w-rgbw-4in1-moving-head-light-with-ring-beam-wa",
+  "model": "LED 19X10W RGBW 4IN1 Moving Head Light With Ring Beam Wash Zoom",
+  "kind": "matrixhead",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   18,
+   26
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2-led-19x10w-rgbw-4in1-moving-head-light-with-ring-beam-wash-zoom-strobe-effect-dmx512-for-dj-lights-for-disco-ktv-bar-party",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/19x10w-wash-ring.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "waterproof-ip66-led-19x80w-rgbw-4in1-bee-eye-moving-head",
+  "model": "Waterproof IP66 LED 19X80W RGBW 4IN1 Bee Eye Moving Head Light Beam",
+  "kind": "beeeye",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "pan": 540,
+  "tilt": 205,
+  "ch": [
+   27,
+   41
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8Fwaterproof-ip66-led-19x80w-rgbw-4in1-bee-eye-moving-head-light-beam-wash-zoom-fx-dmx512-for-party-disco-club-light-dj",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/19x80w-ip66-bee-eye.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "4x80w-led-rgbw-4in1-moving-head-beam-light-with-ring-inf",
+  "model": "4x80W LED RGBW 4IN1 Moving Head Beam Light With Ring Infinite",
+  "kind": "beam",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   26,
+   81,
+   91
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2-4x80w-led-rgbw-4in1-moving-head-beam-light-with-ring-infinite-rotation-wash-dmx512-stage-effect-for-dj-disco-wedding-party-club",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/4x80w-infinite-ring.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "led-waterproof-ip65-18x10w-rgbw-par-light-with-wash-stro",
+  "model": "LED Waterproof IP65 18X10W RGBW Par Light With Wash Strobe Effect",
+  "kind": "strobe",
+  "leds": [
+   18,
+   "rgbw"
+  ],
+  "ch": [
+   3,
+   4,
+   7,
+   8
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8Fled-waterproof-ip65-18x10w-rgbw-par-light-with-wash-strobe-effect-voice-control-dmx512-for-disco-dj-projector-party-decoration-night-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/18x10w-ip65-wall-washer.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "led-waterproof-ip65-19x10w-rgbw-par-light-with-wash-stro",
+  "model": "LED Waterproof IP65 19X10W RGBW Par Light With Wash Strobe Effect",
+  "kind": "strobe",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "ch": [
+   3,
+   4,
+   7,
+   8
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8Fled-waterproof-ip65-19x10w-rgbw-par-light-with-wash-strobe-effect-voice-control-dmx512-for-disco-dj-projector-party-decoration-night-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/19x10w-wash-ring.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "mini-waterproof-ip65-19x40w-rgbw-4in1-moving-head-light",
+  "model": "Mini Waterproof IP65 19X40W RGBW 4IN1 Moving Head Light With Ring",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   60
+  ],
+  "ch": [
+   14,
+   25,
+   30,
+   54,
+   58
+  ],
+  "feat": [
+   "zoom",
+   "focus"
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8Fmini-waterproof-ip65-19x40w-rgbw-4in1-moving-head-light-with-ring-beam-wash-zoom-rdm-dmx512-for-dj-bar-wedding-stage-party",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/19x40w-ip65-wash, vd:yuer/19x40w-bee-eye-zoom.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "6x10w-rgbw-4in1-double-head-moving-head-beam-light-with",
+  "model": "6X10W RGBW 4in1 Double Head Moving Head Beam Light With LED Ring",
+  "kind": "beam",
+  "ch": [
+   19
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8F-new-6x10w-rgbw-4in1-double-head-moving-head-beam-light-with-led-ring-2x50mw-red-2x50mw-green-lasers-effect-dmx512-for-dj-disco-party-stage-effect-lighting-night-club-bar-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/6x10w-six-arm.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "12x10w-4-head-moving-head-beam-light-with-led-ring-2x100",
+  "model": "12X10W 4 Head Moving Head Beam Light With LED Ring 2X100mw Red+2X50mw",
+  "kind": "multihead",
+  "ch": [
+   21,
+   33
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8F-new-12x10w-4-head-moving-head-beam-light-with-led-ring-2x100mw-red-2x50mw-green-lasers-effect-dmx512-for-dj-disco-party-stage-effect-lighting-night-club-bar-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/12x10w-4-head-laser.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "waterproof-ip65-10x60w-rgbw-4in1-led-moving-head-beam-li",
+  "model": "Waterproof IP65 10X60W RGBW 4IN1 LED Moving Head Beam Light With 96",
+  "kind": "matrixhead",
+  "leds": [
+   10,
+   "rgbw"
+  ],
+  "deg": [
+   2.8,
+   31
+  ],
+  "ch": [
+   7
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8F-waterproof-ip65-10x60w-rgbw-4in1-led-moving-head-beam-light-with-96-golden-light-96-cold-light-96-rgb-strobe-effect-dmx512-for-disco-dance-floor-bar-party-nightclub",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 160, 170 verworfen (unplausibel). Mögliche Dublette von vd:yuer/10x60w-moving-bar.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "led-6x10w-rgbw-4in1-6-head-moving-head-beam-light-with-r",
+  "model": "LED 6X10W RGBW 4IN1 6 Head Moving Head Beam Light With RG Laser",
+  "kind": "multihead",
+  "leds": [
+   6,
+   "rgbw"
+  ],
+  "ch": [
+   24
+  ],
+  "pixelFrom": 24,
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8F-led-6x10w-rgbw-4in1-6-head-moving-head-beam-light-with-rg-laser-strobe-light-dmx512-for-stage-light-beam-light-rotating-disco-party-bar",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/6x10w-six-arm.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "ip65-waterproof-7x60w-rgbw-4in1-bee-eye-wash-moving-head",
+  "model": "IP65 Waterproof 7X60W RGBW 4in1 Bee Eye Wash Moving Head Light Control",
+  "kind": "beeeye",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   4.5,
+   45
+  ],
+  "ch": [
+   23,
+   35,
+   51
+  ],
+  "pixelFrom": 35,
+  "feat": [
+   "cto"
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8F-ip65-waterproof-7x60w-rgbw-4in1-bee-eye-wash-moving-head-light-dmx512-control-for-dj-disco-bar-party",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/7x60w-bee-eye-ring.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "ip65-waterproof-led-19x40w-rgbw-bee-eye-wash-moving-head",
+  "model": "IP65 Waterproof LED 19x40W RGBW Bee Eye Wash Moving Head Light RDM",
+  "kind": "beeeye",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "ch": [
+   18,
+   21,
+   35,
+   78,
+   94,
+   111
+  ],
+  "pixelFrom": 78,
+  "feat": [
+   "zoom",
+   "rainbow"
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2ip65-waterproof-led-19x40w-rgbw-bee-eye-wash-moving-head-light-dmx512-rdm-control-for-dj-disco-bar-club",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/19x40w-bee-eye-zoom, vd:yuer/19x40w-bee-eye-ring.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "led-19x15w-rgbw-4in1-wash-moving-head-zoom-light-with-le",
+  "model": "LED 19x15W RGBW 4IN1 Wash Moving Head Zoom Light With LED Aperture",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgb"
+  ],
+  "pan": 540,
+  "tilt": 230,
+  "ch": [
+   17,
+   25
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://yuerlights.com/products/lyuer%E2%84%A2%EF%B8%8F-led-19x15w-rgbw-4in1-wash-moving-head-zoom-light-with-led-aperture-for-dj-bar-stage-ktv-nightclub",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/19x15w-bee-eye-k10.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "18x10w-led-rgbw-4in1-ip65-waterproof-wall-washer-light-a",
+  "model": "18X10W LED RGBW 4in1 IP65 Waterproof Wall Washer Light Adjustable",
+  "kind": "bar",
+  "leds": [
+   18,
+   "rgbw"
+  ],
+  "deg": [
+   40,
+   40
+  ],
+  "ch": [
+   4,
+   8
+  ],
+  "size": [
+   990,
+   70,
+   70
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8F-18x10w-led-rgbw-4in1-ip65-waterproof-wall-washer-light-dmx512-adjustable-beam-auto-sound-activated-master-slave-control-for-stage-event-outdoor-dj-nightclub-concert",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/18x10w-ip65-wall-washer.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "19x15w-rgbw-4in1-focusing-moving-head-wash-light",
+  "model": "19X15W RGBW 4IN1 Focusing Moving Head Wash Light",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "ch": [
+   16,
+   24
+  ],
+  "feat": [
+   "focus"
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8F-19pcs-15w-rgbw-4in1-focusing-moving-head-wash-light-for-disco-beam-lights-dj-party-stage-lighting-commercial-lights",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/19x15w-bee-eye-k10.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "19x15w-rgbw-4in1-zoom-led-beam-wash-moving-head-light-pr",
+  "model": "19x15W RGBW 4in1 Zoom LED Beam Wash Moving Head Light Professional",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   10,
+   60
+  ],
+  "tilt": 540,
+  "ch": [
+   14,
+   26,
+   30
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://yuerlights.com/products/new-9x15w-rgbw-4in1-zoom-led-beam-wash-moving-head-light-professional-dmx-control-beam-lights-for-christmas-disco-dj-parties",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/19x15w-bee-eye-k10.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "420w-19r-moving-head-beam-light-with-atomization-zoom-go",
+  "model": "420W 19R Moving Head Beam Light With Atomization Zoom Gobo Ring",
+  "kind": "spot",
+  "ch": [
+   8,
+   16,
+   24
+  ],
+  "feat": [
+   "cw:14",
+   "gobo:14",
+   "prism",
+   "frost",
+   "zoom",
+   "rainbow"
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2-420w-19r-moving-head-beam-light-with-atomization-zoom-gobo-ring-stage-lighting-rainbow-4-prism-6-8-16-24-dmx-for-dj-disco-bar",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/19r-420w-beam.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "ip65-waterproof-7x40w-led-rgbw-4in1-wash-beam-zoom-effec",
+  "model": "IP65 Waterproof 7X40W LED RGBW 4in1 Wash Beam Zoom Effect Par",
+  "kind": "strobe",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   5,
+   45
+  ],
+  "ch": [
+   11
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2-7x40w-led-rgbw-4in1-wash-beam-zoom-effect-par-lights-aluminum-case-strobe-dmx-music-dj-disco-stage-chirstmas-background",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/7x40w-zoom-wash, vd:yuer/7x40w-mini-bee-eye.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "copy-robe-18x40w-rgbw-led-zoom-bar-scanning-point-contro",
+  "model": "Copy ROBE 18x40W RGBW LED ZOOM BAR Scanning Point Control Moving Head",
+  "kind": "beam",
+  "deg": [
+   4,
+   45
+  ],
+  "tilt": 205,
+  "ch": [
+   34,
+   56,
+   97
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8F-copy-robe-18x40w-rgbw-led-zoom-bar-scanning-point-control-moving-head-beam-light-for-party-ktv-disco-dj",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 110, 115, 128 verworfen (unplausibel). Mögliche Dublette von vd:yuer/18x40w-bee-eye-laser.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "19x15w-led-rgbw-4in1-wash-beam-zoom-effect-par-aluminum",
+  "model": "19x15w LED RGBW 4in1 Wash Beam Zoom Effect Par Aluminum Case Strobe",
+  "kind": "strobe",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "ch": [
+   17
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2-19x15w-led-rgbw-4in1-wash-beam-zoom-effect-par-lights-aluminum-case-strobe-dmx-music-dj-disco-stage-chirstmas-background",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 19 verworfen (unplausibel). Mögliche Dublette von vd:yuer/19x15w-bee-eye-k10.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "4x80w-led-beam-moving-head-bar-light-rgbw-4in1-with-ring",
+  "model": "4x80W LED beam moving head Bar light RGBW 4in1 with ring",
+  "kind": "tiltbar",
+  "leds": [
+   4,
+   "rgbw"
+  ],
+  "deg": [
+   1.8,
+   1.8
+  ],
+  "ch": [
+   8,
+   12,
+   23,
+   36,
+   60
+  ],
+  "pixelFrom": 23,
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2-4x80w-led-beam-moving-head-bar-light-rgbw-4in1-with-ring-dmx512-stage-effect-lighting-for-dj-disco-wedding-party-club",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/4x80w-infinite-ring.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "300w-led-retro-bee-eye-moving-head-light-4-in-1-backgrou",
+  "model": "300W LED Retro Bee Eye Moving Head Light 4 in 1 Background Mixed",
+  "kind": "beeeye",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   15,
+   20,
+   29
+  ],
+  "url": "https://yuerlights.com/products/yuer-300w-led-retro-bee-eye-moving-head-light-4-in-1-background-mixed-colourful-effect-dmx-sound-control-for-dj-party-disco-show",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/4x60w-bee-eye-mirror.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "mold-waterproof-ip66-7x40w-rgbw-4-in-1-led-bee-eyes-zoom",
+  "model": "Mold Waterproof IP66 7X40W RGBW 4 in 1 LED Bee Eyes Zoom Moving Head",
+  "kind": "beeeye",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   3,
+   60
+  ],
+  "pan": 540,
+  "tilt": 230,
+  "ch": [
+   23,
+   35,
+   51
+  ],
+  "pixelFrom": 35,
+  "feat": [
+   "zoom",
+   "focus"
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8F-new-mold-waterproof-ip66-7x40w-rgbw-4-in-1-led-bee-eyes-zoom-moving-head-light-dmx-beam-wash-stage-dj-disco-party-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/7x40w-zoom-wash, vd:yuer/7x40w-mini-bee-eye.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "10x35w-halogen-light-warm-white-strobe-bar-flashing-hors",
+  "model": "10x35W Halogen Light Warm White Strobe Bar Flashing Horse Running RDM",
+  "kind": "strobe",
+  "leds": [
+   10,
+   "ww"
+  ],
+  "ch": [
+   1,
+   2,
+   4,
+   5,
+   10
+  ],
+  "pixelFrom": 10,
+  "size": [
+   1000,
+   152,
+   139
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8F-10x35w-halogen-light-warm-white-strobe-bar-flashing-horse-running-dmx-rdm-control-dj-disco-background-show-party-stage-lamp",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/10x35w-halogen-strobe-bar.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "profession-380w-20r-beam-spot-wash-moving-head-light-dou",
+  "model": "Profession 380W 20R Beam Spot Wash Moving Head Light Double Prism Zoom",
+  "kind": "hybrid",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16
+  ],
+  "feat": [
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "rainbow"
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8F-new-profession-380w-20r-beam-spot-wash-moving-head-light-double-prism-zoom-dmx512-for-disco-dj-music-ball-party-nightclub",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/20r-380w-beam-spot-wash.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "230w-7r-beam-moving-head-with-ring-3-prism-raibow-effect",
+  "model": "230W 7R Beam Moving Head With Ring 3 Prism Raibow Effect Bar",
+  "kind": "spot",
+  "deg": [
+   2,
+   2
+  ],
+  "ch": [
+   16
+  ],
+  "feat": [
+   "prism",
+   "frost",
+   "focus",
+   "rainbow"
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8F-230w-7r-beam-moving-head-stage-light-with-ring-3-prism-raibow-effect-dmx512-dj-disco-party-bar-wedding-equipment-led-spot",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/7r-230w-beam-aperture.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "7x40w-rgbw-4in1-led-bee-eye-zoom-moving-head-light-23-35",
+  "model": "7x40W RGBW 4IN1 LED Bee Eye Zoom Moving Head Light 23/35/51Ch CTO",
+  "kind": "beeeye",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   4.5,
+   45
+  ],
+  "ch": [
+   23,
+   35,
+   51
+  ],
+  "pixelFrom": 35,
+  "feat": [
+   "cto",
+   "zoom"
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8F-7x40w-rgbw-4in1-led-bee-eye-zoom-moving-head-light-dmx-512-23-35-51ch-stage-lights-cto-dyeing-beam-zoom-effect-lighting",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/7x40w-zoom-wash, vd:yuer/7x40w-mini-bee-eye.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "copy-claypaky-k10-19x15w-bee-eye-rgbw-led-wash-with-zoom",
+  "model": "Copy Claypaky K10 19x15W Bee Eye RGBW LED Wash with Zoom Beam Moving",
+  "kind": "beeeye",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   60
+  ],
+  "ch": [
+   21,
+   23,
+   35,
+   78
+  ],
+  "feat": [
+   "zoom",
+   "focus"
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8F-19x15w-bee-eye-rgbw-led-wash-with-zoom-beam-moving-head-lighting-dmx512-for-dj-disco-bar-party-nightclub-stage-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 111 verworfen (unplausibel). Mögliche Dublette von vd:yuer/19x15w-bee-eye-k10.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "6x40w-led-head-bee-eye-led-beam-moving-head-wash-light-w",
+  "model": "6x40W LED Head Bee Eye Led Beam Moving Head Wash Light With LED Strip",
+  "kind": "beeeye",
+  "leds": [
+   6,
+   "rgbw"
+  ],
+  "pan": 540,
+  "tilt": 190,
+  "ch": [
+   18,
+   23
+  ],
+  "pixelFrom": 18,
+  "feat": [
+   "prism",
+   "zoom"
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8F-6x40w-led-head-bee-eye-led-beam-moving-head-wash-light-stage-lights-with-led-strip-dj-stage-light-effect-light-disco-wedding-bar",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/6x40w-ufo, vd:yuer/6x40w-pixel-bee-eye.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "led-beam10x60w-rgbw-led-3w-warm-cold-white-0-3w-rgb-4in1",
+  "model": "LED Beam10x60W RGBW LED 3w Warm Cold White 0.3W RGB 4in1 Wash Strobe",
+  "kind": "tiltbar",
+  "leds": [
+   10,
+   "rgbw"
+  ],
+  "deg": [
+   2.8,
+   31
+  ],
+  "ch": [
+   7
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8F-led-beam10x60w-rgbw-led-3w-warm-cold-white-0-3w-rgb-4in1-wash-strobe-horse-racing-effect-moving-bar-stage-lighting-for-dj-disco",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 160, 170 verworfen (unplausibel). Mögliche Dublette von vd:yuer/10x60w-moving-bar.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "professional-beetle-led-beam-laser-strobe-3in1-moving-he",
+  "model": "Professional Beetle LED Beam laser strobe 3in1 Moving Head Beetle",
+  "kind": "matrixhead",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   24
+  ],
+  "url": "https://yuerlights.com/products/yuer-professional-dj-disco-beetle-lights-led-beam-laser-strobe-3in1-moving-head-beetle-light-dmx-nightclub-party-show-stage-lighting",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/6x10w-six-arm.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "super-bright-ufo-6x40w-led-moving-head-light-rotate-mete",
+  "model": "Super Bright UFO 6x40W LED Moving Head Light Rotate Meteor Beam Effect",
+  "kind": "ufo",
+  "leds": [
+   6,
+   "rgbw"
+  ],
+  "ch": [
+   14,
+   16
+  ],
+  "size": [
+   300,
+   210,
+   360
+  ],
+  "url": "https://yuerlights.com/products/yuer-lighting-super-bright-ufo-6x40w-led-moving-head-light-dmx-512-rotate-meteor-beam-effect-lights-for-party-dj-stage-show",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/6x40w-ufo, vd:yuer/6x40w-pixel-bee-eye.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "professional-14r-295w-beam-moving-head-light-with-apertu",
+  "model": "Professional 14R 295W Beam Moving Head Light With Aperture Zoom Gobo",
+  "kind": "spot",
+  "deg": [
+   4,
+   4
+  ],
+  "ch": [
+   16,
+   18
+  ],
+  "feat": [
+   "cw:14",
+   "gobo:14",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "rainbow"
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8F-professional-14r-295w-beam-moving-head-light-with-aperture-zoom-gobo-dmx-stage-lighting-projector-dj-party-concert-double-prismi",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/14r-295w-beam-zoom.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "6x10w-led-bee-eyes-gobo-moving-head-light-100w-beam-spot",
+  "model": "6x10W LED Bee Eyes Gobo Moving Head Light 100W Beam Spot RGBW Super",
+  "kind": "beeeye",
+  "leds": [
+   6,
+   "rgbw"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   9,
+   14
+  ],
+  "feat": [
+   "gobo:8"
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8F-6x10w-led-bee-eyes-gobo-moving-head-light-100w-beam-spot-rgbw-stage-lighting-super-smooth-dimming-for-wedding-party-dmx-9-14ch",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/6x10w-six-arm.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "mini-beam-295w-14r-moving-head-light-with-flightcase-bea",
+  "model": "Mini Beam 295W 14R Moving Head Light With Flightcase Beam 14r Beam",
+  "kind": "hybrid",
+  "deg": [
+   4,
+   4
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16
+  ],
+  "feat": [
+   "gobo:13",
+   "prism",
+   "frost",
+   "focus",
+   "rainbow"
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8F-mini-beam-295w-14r-moving-head-light-with-flightcase-beam-14r-beam-spot-wash-stage-disco-dj-light-nightclub-dmx-control",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/14r-295w-beam-zoom.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "19x15w-led-rgbw-beam-wash-zoom-moving-head-light-bar-dan",
+  "model": "19x15W LED RGBW Beam + Wash Zoom Moving Head Light Bar Dance Floor",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "ch": [
+   16,
+   24,
+   32
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8F-19x15w-led-rgbw-beam-wash-zoom-moving-head-light-dmx512-dj-disco-party-bar-dance-floor-stage-effect-lighting-equipment",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/19x15w-bee-eye-k10.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "with-smd-aperture-295w-12r-beam-moving-head-8-16-24-pris",
+  "model": "With SMD Aperture 295W 12R Beam Moving Head 8+16+24 Prism Rainbow",
+  "kind": "beam",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16
+  ],
+  "feat": [
+   "cw:14",
+   "prism",
+   "prism2",
+   "frost",
+   "rainbow"
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8F-new-with-smd-aperture-295w-12r-beam-moving-head-lighting-8-16-24-prism-rainbow-stage-effect-light-for-dj-disco-party-bar",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/12r-295w-beam-aperture.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "full-color-144x3w-pixel-light-led-strobe-light-dmx-contr",
+  "model": "Full-Color 144X3W Pixel Light LED Strobe Light DMX Control",
+  "kind": "strobe",
+  "ch": [
+   3,
+   6,
+   52
+  ],
+  "size": [
+   420,
+   70,
+   120
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8F-full-color-144x3w-pixel-light-led-strobe-light-dmx-control-for-party-wedding-holiday-stage-lighting-effect",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/144x3w-pixel-strobe.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "12r-295w-beam-moving-head-light-8-honeycomb-prism-gobo-p",
+  "model": "12R 295W Beam Moving Head Light 8 + Honeycomb Prism Gobo Projector",
+  "kind": "spot",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16
+  ],
+  "feat": [
+   "cw:14",
+   "gobo:14",
+   "prism",
+   "rainbow"
+  ],
+  "url": "https://yuerlights.com/products/12r-295w-beam-moving-head-light-8-honeycomb-prism-gobo-dmx-stage-lighting-projector-dj-party-concert-double-prisms-bulb-stage",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/12r-295w-beam-aperture.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "professional-entertainment-led-light-7x60w-big-bee-eye-m",
+  "model": "Professional Entertainment Led Light 7X60W Big Bee Eye Moving Head",
+  "kind": "beeeye",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   3,
+   45
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   21,
+   23,
+   35,
+   42,
+   49,
+   51,
+   56
+  ],
+  "pixelFrom": 35,
+  "feat": [
+   "zoom",
+   "focus"
+  ],
+  "url": "https://yuerlights.com/products/yuer-new-professional-entertainment-led-light-stage-light-7x60w-big-bee-eye-moving-light-control-projector-led-moving-head-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/7x60w-bee-eye-ring.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "10x40w-led-scanning-point-control-moving-head-beam-light",
+  "model": "10x40W LED Scanning Point Control Moving Head Beam Light RGBW 4IN1",
+  "kind": "matrixhead",
+  "leds": [
+   10,
+   "rgbw"
+  ],
+  "deg": [
+   2,
+   2
+  ],
+  "ch": [
+   43
+  ],
+  "pixelFrom": 43,
+  "url": "https://yuerlights.com/products/10x40w-led-scanning-point-control-moving-head-beam-light-rgbw-4in1-wall-bar-stage-matrix-dyeing-for-party-ktv-disco-dj",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/10x40w-10-head.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "mini-7x40w-zoom-wash-beam-led-moving-head-rgbw-patry-spo",
+  "model": "Mini 7x40w Zoom Wash Beam LED Moving Head RGBW Patry Spotlight",
+  "kind": "wash",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   4.5,
+   45
+  ],
+  "ch": [
+   11,
+   17
+  ],
+  "feat": [
+   "cto",
+   "zoom"
+  ],
+  "url": "https://yuerlights.com/products/mini-7x40w-zoom-wash-beam-led-moving-head-lights-rgbw-stage-light-dmx512-for-patry-dj-lights-disco-lights-concert-spotlight",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/7x40w-zoom-wash, vd:yuer/7x40w-mini-bee-eye.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "led-matrix-10x12w-rgbw-4in1-good",
+  "model": "LED Matrix 10x12W RGBW 4in1 Good",
+  "kind": "matrix",
+  "leds": [
+   10,
+   "rgbw"
+  ],
+  "ch": [
+   4,
+   6,
+   9,
+   40,
+   42
+  ],
+  "pixelFrom": 40,
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8F-led-matrix-lights-10x12w-rgbw-4in1-dmx512-stage-effect-lighting-good-for-dj-disco-party-dance-floor-clubs-bar-and-wedding-decorations",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/10x12w-cob-blinder-bar.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "12x10w-rgbw-led-beam-laser-strobe-beam-laser-effect-proj",
+  "model": "12X10W RGBW LED Beam Laser Strobe Beam Laser Effect Projector",
+  "kind": "strobe",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "deg": [
+   5,
+   5
+  ],
+  "ch": [
+   16,
+   64
+  ],
+  "pixelFrom": 64,
+  "url": "https://yuerlights.com/products/12x10w-rgbw-led-beam-laser-lights-strobe-beam-laser-effect-projector-dmx512-for-dj-wedding-disco-stage-dance-floor-bar-party",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/12x10w-4-head-laser.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "mold-12x10w-3-head-infinitely-rotating-moving-head-light",
+  "model": "Mold 12X10W 3 head infinitely rotating moving head light With RGB",
+  "kind": "multihead",
+  "leds": [
+   12,
+   "rgb"
+  ],
+  "ch": [
+   15
+  ],
+  "url": "https://yuerlights.com/products/new-mold-12x10w-3-head-infinitely-rotating-moving-head-light-with-rgb-laser-light-for-dj-disco-stage-wedding-music-party-bar",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/12x10w-4-head-laser.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "4x40w-head-led-beam-moving-head-with-auxiliary-bar-40w-r",
+  "model": "4x40W Head LED Beam Moving Head With Auxiliary Bar 40W RGBW 4in1 Beam",
+  "kind": "beam",
+  "ch": [
+   25,
+   32,
+   53
+  ],
+  "url": "https://yuerlights.com/products/yuer-4x40w-head-led-beam-moving-head-lighting-with-auxiliary-bar-dj-lights-stage-lighting-40w-rgbw-4in1-beam-wash-effect-dmx512",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/4x40w-bee-eye-zoom, vd:yuer/4x40w-4-head-ring.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "7x60w-unique-led-wall-wash-light-led-bar-line-bar-wash",
+  "model": "7x60W unique LED Wall Wash Light Led Bar Line Bar Wash",
+  "kind": "bar",
+  "ch": [
+   21,
+   63
+  ],
+  "url": "https://yuerlights.com/products/7x60w-unique-led-wall-wash-light-dmx-led-bar-dmx-line-bar-wash-stage-light-for-wedding-dj-point-control-portman-retro-lamp",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/7x60w-bee-eye-ring.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "7x60w-led-retro-flash-light-professional-decorate-bar-st",
+  "model": "7x60W LED Retro Flash Light Professional Decorate Bar Stage Night",
+  "kind": "retro",
+  "ch": [
+   6,
+   7
+  ],
+  "size": [
+   860,
+   966,
+   170
+  ],
+  "url": "https://yuerlights.com/products/new-music-stage-lighting-7x60w-led-retro-flash-light-dmx512-professional-decorate-disco-dj-party-bar-stage-lamp-night-light-1",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/7x60w-bee-eye-ring.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "450w-36x12w-rgbw-4in1-focusing-moving-head-light-effect",
+  "model": "450W 36X12W RGBW 4IN1 Focusing Moving Head Light Effect Control",
+  "kind": "beam",
+  "ch": [
+   15
+  ],
+  "feat": [
+   "focus"
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8F-new-450w-36x12w-focusing-moving-head-light-stage-lighting-effect-dmx-control-for-dj-disco-nightclub-ktv-bar-theater",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/36x12w-wash.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "led-7x60w-retro-flash-light-transport-light-professional",
+  "model": "LED 7X60W Retro Flash Light Transport Light professional light",
+  "kind": "retro",
+  "ch": [
+   6,
+   7
+  ],
+  "size": [
+   456,
+   520,
+   130
+  ],
+  "url": "https://yuerlights.com/products/led-lamp-7x60w-retro-flash-light-transport-light-disco-party-lights-professional-stage-effect-light-dj-equipment",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/7x60w-bee-eye-ring.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "led-7x60w-rgbw-4in1retro-flash-168pcs-smd5050-rgb-stage",
+  "model": "LED 7X60W RGBW 4IN1Retro Flash 168pcs SMD5050 RGB Stage Strobe Effect",
+  "kind": "retro",
+  "leds": [
+   7,
+   "rgb"
+  ],
+  "ch": [
+   4,
+   6,
+   28,
+   30
+  ],
+  "pixelFrom": 28,
+  "size": [
+   860,
+   966,
+   170
+  ],
+  "url": "https://yuerlights.com/products/2021-disco-led-7x60w-rgbw-4in1retro-flash-168pcs-smd5050-rgb-stage-strobe-effect-light-for-concert-dj-wedding-led-club-party",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/7x60w-bee-eye-ring.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "18x10w-rgbw-4in1-18x15w-rgbwa-5in1-18x18w-rgbwa-uv-6in1",
+  "model": "18X10W RGBW 4IN1/18X15W RGBWA 5IN1/18X18W RGBWA+UV 6IN1 LED Bar Wall",
+  "kind": "bar",
+  "leds": [
+   10,
+   "rgbwauv"
+  ],
+  "ch": [
+   8,
+   9
+  ],
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8F-new-arrival-18x10w-rgbw-4in1-18x15w-rgbwa-5in1-18x18w-rgbwa-uv-6in1-led-bar-wall-washer-lights-dmx512-washer-floodlights-dj-bar-party-show-stage-lighting",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 10 verworfen (unplausibel). Mögliche Dublette von vd:yuer/18x10w-ip65-wall-washer.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "led-wall-wash-light-18x10w-rgbw-4in1-18x15w-rgbwa-5in1-1",
+  "model": "LED Wall Wash Light 18X10W RGBW 4in1/18X15W RGBWA 5in1/18x18W",
+  "kind": "bar",
+  "leds": [
+   18,
+   "rgbwauv"
+  ],
+  "ch": [
+   8,
+   9,
+   10,
+   22,
+   76,
+   94,
+   112
+  ],
+  "pixelFrom": 112,
+  "url": "https://yuerlights.com/products/led-wash-wall-18x18w-rgbwa-uv-6in1-stage-lighting-running-horse-point-control-dmx512-good-effect-disco-dj-party-equipmen",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/18x10w-ip65-wall-washer.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "ip65-water-proof-point-control-18x10w-rgbw-4in1-18x15w-r",
+  "model": "IP65 Water Proof Point Control 18X10W RGBW 4in1/18X15W RGBWA",
+  "kind": "bar",
+  "leds": [
+   18,
+   "rgbwauv"
+  ],
+  "ch": [
+   8,
+   9,
+   10,
+   22,
+   76,
+   94,
+   112
+  ],
+  "pixelFrom": 112,
+  "url": "https://yuerlights.com/products/18x18w-rgbwauv-6in1-led-dinding-mencuci-lampu-dmx-led-line-bar-cuci-lampu-panggung-untuk-dj-tahan-air-running-horse-titik-kontrol",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/18x10w-ip65-wall-washer.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "200w-sound-effect-18x18w-rgbwa-uv-6in1-led-flat-par-ligh",
+  "model": "200W Sound Effect 18x18W RGBWA+UV 6IN1 LED Flat Par Light Par Light",
+  "kind": "par",
+  "leds": [
+   18,
+   "rgbwauv"
+  ],
+  "ch": [
+   8,
+   9,
+   10
+  ],
+  "size": [
+   280,
+   115,
+   250
+  ],
+  "url": "https://yuerlights.com/products/new-200w-sound-music-effect-stage-light-18x18w-rgbwauv-6in1-led-flat-par-light-disco-par-light-wedding-party-holiday-spotlight",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/18x10w-ip65-wall-washer.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "pro-wash-14x6w-led-beam-rgbw-4in1-led-par-light-professi",
+  "model": "Pro Wash 14X6W LED Beam RGBW 4in1 LED Par Light Professional Stage",
+  "kind": "par",
+  "leds": [
+   14,
+   "rgbw"
+  ],
+  "ch": [
+   8
+  ],
+  "size": [
+   230,
+   150,
+   200
+  ],
+  "url": "https://yuerlights.com/products/pro-stage-light-wash-14x6w-led-beam-rgbw-4in1-led-par-lights-dmx512-disco-light-professional-party-stage-dj-equipment",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/14x6w-par.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "led-waterproof-par-light-18x10w-rgbw-4in1-18x15w-rgbwa-5",
+  "model": "LED Waterproof Par Light 18x10W RGBW 4IN1/18x15W RGBWA 5IN1/18x18W",
+  "kind": "par",
+  "leds": [
+   18,
+   "rgbwauv"
+  ],
+  "ch": [
+   4,
+   5,
+   6,
+   8,
+   9,
+   10,
+   65
+  ],
+  "pixelFrom": 65,
+  "url": "https://yuerlights.com/products/led-waterproof-par-light-18x10w-rgbw-led-stage-light-par-light-with-dmx512-for-disco-dj-projector-party-decoration-night-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/18x10w-ip65-wall-washer.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "led-6x50w-high-bright-amber-72pcs-rgb-led-retro-backgrou",
+  "model": "LED 6x50w High Bright Amber + 72PCS RGB LED Retro Background Light",
+  "kind": "retro",
+  "leds": [
+   6,
+   "rgb"
+  ],
+  "ch": [
+   8,
+   28
+  ],
+  "pixelFrom": 28,
+  "url": "https://yuerlights.com/products/yuer%E2%84%A2%EF%B8%8F-hot-selling-led-strip-retro-strobe-light-6-high-brightness-50w-lamp-beads-72-leds-three-in-one-lamp-bead-nightclub-dj-disco-stage-wash-effect-light-professional-lighting-equipment",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/6x50w-retro-telescopic.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "10x12w-cob-warm-white-blinder-bar-light-cob-amber-led-hi",
+  "model": "10x12W COB Warm White Blinder Bar Light COB Amber LED High Power",
+  "kind": "blinder",
+  "leds": [
+   10,
+   "ww"
+  ],
+  "deg": [
+   48,
+   48
+  ],
+  "ch": [
+   3,
+   5,
+   10,
+   13
+  ],
+  "pixelFrom": 10,
+  "url": "https://yuerlights.com/products/10x12w-cob-warm-white-blinder-bar-light-cob-amber-led-high-power-professional-stage-lighting-for-party-bar-ktv-dj-disco",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/10x12w-cob-blinder-bar.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "projector-4in1-6x10w-bee-eye-laser-strobe-light-dance-fl",
+  "model": "Projector 4IN1 6X10W Bee Eye Laser Strobe Light Dance Floor Bar Game",
+  "kind": "beeeye",
+  "leds": [
+   6,
+   "rgbw"
+  ],
+  "ch": [
+   11
+  ],
+  "url": "https://yuerlights.com/products/2021-stage-effect-projector-4in1-6x10w-bee-eye-laser-strobe-light-dmx512-dance-floor-bar-game-party-dj-disco-music-control",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/6x10w-six-arm.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "mini-7r-230w-beam-0sram-moving-head-16-20ch-lyre",
+  "model": "MINI 7R 230W Beam 0SRAM Moving Head 16/20CH Lyre",
+  "kind": "beam",
+  "pan": 540,
+  "tilt": 250,
+  "ch": [
+   16,
+   20
+  ],
+  "feat": [
+   "cw:14",
+   "frost",
+   "focus",
+   "rainbow"
+  ],
+  "url": "https://yuerlights.com/products/yuer-mini-7r-230w-beam-0sram-moving-head-lighting-dmx-512-16-20ch-lyre-for-dj-bar-disco-concert-party-activities-fast-delivery",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/7r-230w-beam-aperture.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "7x40w-bee-eye-zoom-led-moving-head-light-0sram-led-beads",
+  "model": "7X40W Bee Eye Zoom LED Moving Head Light 0SRAM LED Beads 23/35/51CH",
+  "kind": "beeeye",
+  "deg": [
+   3,
+   60
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   23,
+   35,
+   51
+  ],
+  "feat": [
+   "cto",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://yuerlights.com/products/7x40w-bee-eye-zoom-led-moving-head-light-0sram-led-lamp-beads-dmx512-23-35-51ch-dyeing-beam-strobe-effect-dj-disco-stage-weeding",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/7x40w-zoom-wash, vd:yuer/7x40w-mini-bee-eye.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "copy-claypaky-mini-7x40w-rgbw-led-beam-zoom-moving-head",
+  "model": "Copy Claypaky Mini 7x40w RGBW LED Beam Zoom Moving Head Light Macros",
+  "kind": "matrixhead",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   4.5,
+   45
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   17,
+   21,
+   29
+  ],
+  "pixelFrom": 29,
+  "feat": [
+   "cto",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://yuerlights.com/products/professional-mini-7x40w-rgbw-led-beam-zoom-moving-head-light-macros-stage-light-cto-wash-strobe-effect-dmx-music-dance-disco",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/7x40w-zoom-wash, vd:yuer/7x40w-mini-bee-eye.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "copy-robe-pointe-280w-10r-beam-spot-wash-3in1-moving-hea",
+  "model": "Copy Robe Pointe 280W 10R Beam Spot Wash 3IN1 Moving Head Light",
+  "kind": "hybrid",
+  "deg": [
+   2.5,
+   45
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16,
+   24
+  ],
+  "feat": [
+   "cw:13",
+   "gobo:14",
+   "gobor",
+   "prism",
+   "prism2",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://yuerlights.com/products/280w-10r-beam-spot-wash-3in1-moving-head-light-motorized-zoom-and-focus-professional-sound-dj-discoteca-party-stage-lighting",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/10r-280w-beam-spot-wash.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "6x10w-rgbw-4in1-led-bee-eyes-beam-par-light",
+  "model": "6X10W RGBW 4IN1 LED Bee Eyes Beam Par Light",
+  "kind": "beeeye",
+  "leds": [
+   6,
+   "rgbw"
+  ],
+  "ch": [
+   5,
+   8
+  ],
+  "url": "https://yuerlights.com/products/2020-free-shipping-hot-sales-6x10w-rgbw-4in1-led-bee-eyes-beam-par-light-for-stage-dj-disco-party-club-bar-laser-effect-lighting",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/6x10w-six-arm.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "6x40w-pixels-control-rgbw-4in1-led-bee-eye-moving-head-w",
+  "model": "6x40W Pixels Control RGBW 4in1 LED Bee Eye Moving Head Wash Light",
+  "kind": "beeeye",
+  "leds": [
+   6,
+   "rgbw"
+  ],
+  "deg": [
+   3.5,
+   45
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   21,
+   24,
+   32,
+   56
+  ],
+  "pixelFrom": 24,
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://yuerlights.com/products/new-6x40w-pixels-control-rgbw-4in1-led-bee-eye-moving-head-wash-light-zoom-dmx-dj-disco-theatre-stage-party-effect-lights",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/6x40w-ufo, vd:yuer/6x40w-pixel-bee-eye.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "professional-12x40w-led-rgbw-4in1-zoom-wash-led-moving-h",
+  "model": "Professional 12x40W LED RGBW 4in1 Zoom Wash LED Moving Head Light",
+  "kind": "wash",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "deg": [
+   3.5,
+   45
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16,
+   21
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://yuerlights.com/products/professional-12x40w-led-rgbw-4in1-zoom-wash-led-moving-head-light-beam-effect-light-for-dj-bar-stage-ktv-nightclub",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/12x40w-zoom-wash.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "led-beam-wash-bees-eyes-12x40w-rgbw-zoom-moving-head-lig",
+  "model": "LED Beam Wash Bees Eyes 12x40w RGBW Zoom Moving Head Light",
+  "kind": "beeeye",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "deg": [
+   3.5,
+   45
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   21,
+   25,
+   33,
+   81
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://yuerlights.com/products/yuer-led-beam-wash-bees-eyes-12x40w-rgbw-zoom-moving-head-light-stage-effect-lighting-for-party-dj-disco-wedding-dance-floor-bar",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/12x40w-zoom-wash.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "led-6x10w-zoom-wash-led-moving-head-light-rgbw-4in1-effe",
+  "model": "LED 6x10W Zoom Wash LED Moving Head Light RGBW 4in1 Effect",
+  "kind": "wash",
+  "leds": [
+   6,
+   "rgbw"
+  ],
+  "ch": [
+   17,
+   38
+  ],
+  "pixelFrom": 38,
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://yuerlights.com/products/led-6x10w-zoom-wash-led-moving-head-light-rgbw-4in1-dmx-stage-light-effect-disco-stage-lighting-professionals-wedding",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/6x10w-six-arm.",
+  "verified": false
+ },
+ {
+  "man": "YUER",
+  "key": "7x40w-beam-stage-moving-head-light-electronic-zoom-led-r",
+  "model": "7x40W Beam Stage Moving Head light Electronic Zoom LED RGBW Bee Eye",
+  "kind": "beeeye",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   3.5,
+   45
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   21,
+   24,
+   32,
+   60
+  ],
+  "pixelFrom": 32,
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://yuerlights.com/products/led-rgbw-7x40w-beam-stage-moving-head-electronic-zoom-wedding-party-bee-eye-effect-dmx-music-control-dj-disco-rdm-bar-lamp",
+  "note": "Steckbrief aus Shop-Text (automatisch) (yuerlights.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Mögliche Dublette von vd:yuer/7x40w-zoom-wash, vd:yuer/7x40w-mini-bee-eye.",
+  "verified": false
+ }
+]

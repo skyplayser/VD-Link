@@ -1,0 +1,1797 @@
+[
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ01339 50W PAR Light",
+  "kind": "par",
+  "light": "12 pcs × 6 groups 1.5W (RGB) LEDs + 81 pcs 0.3W LED strips",
+  "beamDeg": [
+   25.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   8,
+   12,
+   23
+  ],
+  "features": [
+   "rdm"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/uking-zq01339-50w-par-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq01339",
+  "notes": "Leistung 50W; IP20; Varianten: an Union  Black; SKU: ZQ01339EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02798 PARty Light",
+  "kind": "effect",
+  "light": "6* 10W (RGBW) + 4* 3W (R1/G1/B1/W1) + 12* 1W (RGB) + 2* 10W white light",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 90,
+  "channels": [
+   24
+  ],
+  "features": [
+   "rdm"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/uking-zq02798-party-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq02798",
+  "notes": "Leistung 90W; IP20; Varianten: an Union  Black; SKU: ZQ02798EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ06144 180W Retro Light",
+  "kind": "retro",
+  "light": "192 0.2W (RGB) LEDs + 96 0.2W White LEDs",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": 180,
+  "channels": [
+   8,
+   23,
+   106,
+   300
+  ],
+  "features": [
+   "rdm"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/uking-zq06144-180w-retro-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq06144",
+  "notes": "Leistung 180W; Varianten: an Union; SKU: ZQ06144EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02115 140W Moving Head Light",
+  "kind": "beam",
+  "light": "140W",
+  "beamDeg": [
+   4.0,
+   45.0
+  ],
+  "pan": 540,
+  "tilt": 240,
+  "channels": [
+   15,
+   21,
+   49
+  ],
+  "features": [
+   "zoom",
+   "focus",
+   "rdm"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/uking-zq02115-140w-moving-head-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "qlc:uking/zq02115-140w-moving-head",
+  "notes": "Varianten: an Union; SKU: ZQ02115EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02825 295W Beam Pro",
+  "kind": "effect",
+  "light": "295W HID",
+  "beamDeg": [
+   2.0,
+   2.0
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   16
+  ],
+  "features": [
+   "gobo",
+   "prism:8+48",
+   "colorwheel:14",
+   "frost",
+   "focus",
+   "rainbow",
+   "ring",
+   "rdm"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/uking-zq02825-295w-beam-pro",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq02825",
+  "notes": "Leistung 295W; Varianten: an Union; SKU: ZQ02825EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "Splashpwr 1 Waterproof 140W PAR Light",
+  "kind": "par",
+  "light": "140W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "battery",
+   "ip65",
+   "app",
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/uking-zq01249-waterproof-mobile-par-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/splashpwr-1",
+  "notes": "IP65; Varianten: an Union  Black; SKU: ZQ01249EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02578 18W Moving Head Light",
+  "kind": "beam",
+  "light": "6* 3W (2G/1R/1W/1Y/1CYAN) LEDs",
+  "beamDeg": null,
+  "pan": 360,
+  "tilt": 180,
+  "channels": [
+   9
+  ],
+  "features": [
+   "rdm"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/uking-zq02578-moving-head-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq02578",
+  "notes": "Leistung 20W; Varianten: an Union  Black; SKU: ZQ02578EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02040 10W Mini Beam",
+  "kind": "effect",
+  "light": "RGBW 4-in-1 10W LED lamp beads",
+  "beamDeg": [
+   1.0,
+   1.0
+  ],
+  "pan": 540,
+  "tilt": 205,
+  "channels": [
+   11,
+   13
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/b28-moving-head-light-mini-10w-spot-lighting",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq02040",
+  "notes": "Leistung 15W; IP20; Varianten: an Union; SKU: ZQ02040EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02015 36W Mini Beam",
+  "kind": "effect",
+  "light": "1PCS LED30W white light - 12PCS auxiliary light RGB*0.5W",
+  "beamDeg": [
+   15.0,
+   15.0
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   9,
+   11
+  ],
+  "features": [
+   "ring",
+   "rdm"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/b243-50w-moving-head-light-with-led-belt-black",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq02015",
+  "notes": "Leistung 50W; IP20; Varianten: an Union  Black; SKU: ZQ02015EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02001 10W Mini Beam",
+  "kind": "effect",
+  "light": "1PCS*10W LEDs",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 270,
+  "channels": [],
+  "features": [
+   "colorwheel:8",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/b242-led-30w-moving-head-light-spot-color-gobos-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq02001",
+  "notes": "Leistung 24W; Varianten: an Union  Black; an Union  White; SKU: ZQ02001EU, ZQ02002EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02354 28W Mini Moving Head Light",
+  "kind": "beam",
+  "light": "28W",
+  "beamDeg": [
+   30.0,
+   30.0
+  ],
+  "pan": 540,
+  "tilt": 180,
+  "channels": [
+   9,
+   14
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/uking-105w-rgbw-7leds-stage-lights-moving-head-dmx-dj-disco-shows-party-lighting",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq02354",
+  "notes": "IP20; Varianten: an Union  Black; SKU: ZQ02354EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ06143 290W Wash",
+  "kind": "effect",
+  "light": "24* 12W (RGBW) LEDs",
+  "beamDeg": [
+   2.0,
+   2.0
+  ],
+  "pan": null,
+  "tilt": 150,
+  "channels": [
+   7,
+   13,
+   99,
+   105
+  ],
+  "features": [
+   "rdm"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/uking-zq06143-wash",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq06143",
+  "notes": "Leistung 200W; Varianten: an Union  Black; SKU: ZQ06143EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ01335 350W Retro PAR Light",
+  "kind": "retro",
+  "light": "7 x 50W Golden Light COB + 189 x 0.5W (RGB) LEDs",
+  "beamDeg": [
+   120.0,
+   120.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   16,
+   37
+  ],
+  "features": [
+   "rdm"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/uking-zq01335-par-light-1",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq01335",
+  "notes": "Leistung 200W; Varianten: an Union  Black; SKU: ZQ01335EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02873 Moving Laser Light",
+  "kind": "lasermh",
+  "light": null,
+  "beamDeg": [
+   5.0,
+   60.0
+  ],
+  "pan": 540,
+  "tilt": 180,
+  "channels": [
+   15,
+   27
+  ],
+  "features": [
+   "zoom",
+   "laser"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/uking-zq02873-moving-head-light-1",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq02873",
+  "notes": "Varianten: an Union  Black; SKU: ZQ02873EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02109 225W Moving Head Light",
+  "kind": "beam",
+  "light": "7 *30W (RGBW) + 30* 0.5W (RGB) LEDs",
+  "beamDeg": [
+   4.5,
+   45.0
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "channels": [
+   30,
+   42,
+   58
+  ],
+  "features": [
+   "zoom",
+   "focus",
+   "rdm",
+   "infinite-rotation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/uking-zq02109-moving-head-light-1",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq02109",
+  "notes": "Leistung 175W; Varianten: an Union  Black; SKU: ZQ02109EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02823 300W Beam Pro",
+  "kind": "effect",
+  "light": "295W HID + 31 0.5W (RGB) LEDs",
+  "beamDeg": [
+   4.0,
+   4.0
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   16,
+   22
+  ],
+  "features": [
+   "prism:18",
+   "frost",
+   "focus",
+   "rainbow",
+   "ring",
+   "rdm"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/uking-zq02823-beam-1",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq02823",
+  "notes": "Leistung 380W; Varianten: an Union  Black; SKU: ZQ02823EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ06139 75W Waterproof Wash",
+  "kind": "effect",
+  "light": "24PCS *3W RGB LEDs",
+  "beamDeg": [
+   25.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   3,
+   4,
+   6,
+   7,
+   12,
+   24
+  ],
+  "features": [
+   "rdm",
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/uking-zq06139-waterproof-wash",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq06139",
+  "notes": "Leistung 100W; Varianten: an Union  Black; SKU: ZQ06139EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ01334 385W Retro Wash",
+  "kind": "retro",
+  "light": "385W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   15,
+   33
+  ],
+  "features": [
+   "rdm"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   280,
+   210,
+   1400
+  ],
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/uking-zq01334-wash",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq01334",
+  "notes": "IP20; Varianten: an Union; SKU: ZQ01334EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02623 PARty Light",
+  "kind": "effect",
+  "light": "6PCS 10W RGBW LEDs + 1PCS 100mw 650nm Red Laser + 1PCS 50mw 532nm + 2PCS 10W Golden Strobe +2PCS 10W White Strobe+ 1PCS 15W RGBW LED",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 180,
+  "channels": [
+   24
+  ],
+  "features": [
+   "laser",
+   "strobe-leds",
+   "rdm",
+   "infinite-rotation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/uking-zq02623-moving-head-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq02623",
+  "notes": "Leistung 120W; Varianten: an Union  Black; SKU: ZQ02623EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02821 250W Beam Pro",
+  "kind": "effect",
+  "light": "1 PCS 250W HID+29 0.5W (RGB) LEDs",
+  "beamDeg": [
+   2.3,
+   2.3
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   18,
+   22
+  ],
+  "features": [
+   "prism:8+24",
+   "frost",
+   "focus",
+   "rainbow",
+   "rdm"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/uking-zq02821-beam",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq02821",
+  "notes": "Leistung 295W; Varianten: an Union  Black; SKU: ZQ02821EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02372 200W Beam",
+  "kind": "effect",
+  "light": "200W",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   16,
+   22
+  ],
+  "features": [
+   "prism:8+48",
+   "colorwheel:14",
+   "frost",
+   "focus",
+   "rainbow",
+   "ring"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/uking-zq02372-beam",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq02372",
+  "notes": "Varianten: an Union  Black; SKU: ZQ02372EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02371 200W Beam",
+  "kind": "effect",
+  "light": "200W",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 255,
+  "channels": [
+   18
+  ],
+  "features": [
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/uking-zq02371-beam-pro",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq02371",
+  "notes": "Varianten: an Union  Black; SKU: ZQ02371EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02622 Moving Laser Light",
+  "kind": "lasermh",
+  "light": null,
+  "beamDeg": [
+   50.0,
+   50.0
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   28
+  ],
+  "features": [
+   "laser",
+   "app"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/uking-zq02622-moving-head-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq02622",
+  "notes": "Varianten: an Union  Black; SKU: ZQ02622EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ06200 160W Wash",
+  "kind": "effect",
+  "light": "80 x 2W RGB LEDs",
+  "beamDeg": [
+   45.0,
+   45.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   24
+  ],
+  "features": [
+   "rdm"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/uking-zq06200-wash",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq06200",
+  "notes": "Leistung 120W; Varianten: an Union  Black; SKU: ZQ06200EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02620 50W Moving Head Light",
+  "kind": "beam",
+  "light": "50W",
+  "beamDeg": [
+   2.0,
+   2.0
+  ],
+  "pan": 540,
+  "tilt": 180,
+  "channels": [
+   19,
+   25
+  ],
+  "features": [
+   "laser",
+   "rdm",
+   "infinite-rotation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/uking-zq02620-moving-head-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq02620",
+  "notes": "Varianten: an Union  Black; SKU: ZQ02620EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ01553 210W Waterproof PAR Light",
+  "kind": "par",
+  "light": "14 x 15W RGBW",
+  "beamDeg": [
+   25.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   9
+  ],
+  "features": [
+   "rdm",
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/uking-zq01553-waterproof-par-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq01553",
+  "notes": "Leistung 200W; IP65; Varianten: an Union; SKU: ZQ01553EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ06140 100W Waterproof Wash",
+  "kind": "effect",
+  "light": "168 x 0.2W RGB LEDs + 168 x 0.2W SMD 5050 White LEDs",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   3,
+   4,
+   6,
+   8,
+   112,
+   114
+  ],
+  "features": [
+   "rdm",
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/100w-336leds-rgb-waterproof-wall-washer-light-with-strobe-fade-pulse-and-15-lighting-shows-perfect-for-outdoor-building-weddings-advertising-boards-commercial-lighting",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq06140",
+  "notes": "Leistung 100W; IP65; Varianten: an Union  Black; SKU: ZQ06140EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ03268 Laser",
+  "kind": "laser",
+  "light": "2W Full Color Laser",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   16
+  ],
+  "features": [
+   "laser",
+   "rdm",
+   "app"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/3d-animation-laser-machine-with-bluetooth-app-rgb-party-laser-light-show-sound-activated-dmx-laser-light-great-for-wedding-party-disco-lights-bar-club-stage-dj-lighting",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq03268",
+  "notes": "Leistung 100W; Varianten: an Union  Black; SKU: ZQ03268EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02103 190W Hybrid Moving Head Light",
+  "kind": "hybrid",
+  "light": "190W",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   16,
+   24
+  ],
+  "features": [
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/36pcs-focusing-light-moving-head-light-stage-lighting-effect-dmx-control-for-dj-disco-nightclub-ktv-bar-theater-shopping-mall",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq02103",
+  "notes": "Varianten: an Union  Black; SKU: ZQ02103EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02367 120W Beam",
+  "kind": "effect",
+  "light": "120W",
+  "beamDeg": [
+   4.0,
+   4.0
+  ],
+  "pan": 540,
+  "tilt": 200,
+  "channels": [
+   14
+  ],
+  "features": [
+   "rdm"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/150w-moving-head-dj-light-rotating-18-facet-prism-stage-lights-with-14-gobos-and-14-colors-14ch-dmx512-with-rainbow-effect-and-half-color-effect-with-sound-activated",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "qlc:uking/120w-beam-zq02367",
+  "notes": "Varianten: an Union  Black; SKU: ZQ02367EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02102 165W Moving Head Light",
+  "kind": "beam",
+  "light": "165W",
+  "beamDeg": [
+   10.0,
+   60.0
+  ],
+  "pan": 540,
+  "tilt": 220,
+  "channels": [
+   17,
+   25
+  ],
+  "features": [
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/19pcs-focusing-19pcs8w-4-in-1-led-dmx512-moving-head-light-for-dj-karaoke-dance-hall-ktv-disco-bar",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "qlc:uking/zq02102-moving-head",
+  "notes": "Varianten: an Union  Black; SKU: ZQ02102EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02359 300W PARty Light",
+  "kind": "effect",
+  "light": "6 x 50W RGBW LED",
+  "beamDeg": [
+   2.0,
+   2.0
+  ],
+  "pan": 540,
+  "tilt": 320,
+  "channels": [
+   14,
+   16
+  ],
+  "features": [
+   "rdm",
+   "infinite-rotation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/240w-high-brightness-moving-head-light-6-leds-rgbw-360rotation-dj-light-dmx-512-14-16ch-with-sound-activated-moving-head-beam-light-stage-light-for-disco-wedding-parties-live-show-bar",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq02359",
+  "notes": "Leistung 300W; Varianten: an Union  Black; SKU: ZQ02359EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02356 175W Moving Head Light",
+  "kind": "beam",
+  "light": "175W",
+  "beamDeg": [
+   4.5,
+   45.0
+  ],
+  "pan": 540,
+  "tilt": 255,
+  "channels": [
+   23,
+   35,
+   51
+  ],
+  "features": [
+   "zoom",
+   "focus",
+   "rdm"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/7pcs-25w-rgbw-leds-bees-eye-wash-moving-head-dj-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq02356",
+  "notes": "Varianten: an Union  Black; SKU: ZQ02356EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02357 230W Beam Pro",
+  "kind": "effect",
+  "light": "230W",
+  "beamDeg": [
+   2.3,
+   2.3
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   18
+  ],
+  "features": [
+   "gobo:13",
+   "focus",
+   "rainbow"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/mini-230w-led-moving-head-rgbw-stage-lights-with-strip-lights-with-14-gobos-13-colors-18-channels-activated-by-dmx-512-voice-activation-for-wedding-disco-parties-and-indoor-events",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq02357",
+  "notes": "Varianten: an Union  Black; SKU: ZQ02357EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ01528 110W RGBWA+UV Wireless PAR Light",
+  "kind": "par",
+  "light": "6PCS 18W 6-in-1 LED beads. RGBWA+UV",
+  "beamDeg": [
+   25.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   10
+  ],
+  "features": [
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/wireless-built-in-battery-remote-control-wifi-par-light-wash-light-6pcs-18w-rgbwauv-six-in-one-par-light-with-charge-progress-bar-for-wedding-stage-performance-light-up-house-dyeing-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq01528",
+  "notes": "Leistung 80W; Varianten: an Union  Black  1; an Union  White  1; SKU: ZQ01528EU, ZQ01529EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02314 250W Waterproof Beam Pro",
+  "kind": "effect",
+  "light": "250W",
+  "beamDeg": [
+   2.0,
+   2.0
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   14
+  ],
+  "features": [
+   "gobo",
+   "prism",
+   "colorwheel:13",
+   "rdm",
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/dragon-king-led300-waterproof-beam-moving-head-light-for-dj-concert-party-weddings-nightclub-dance-hall",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq02314",
+  "notes": "IP65; Varianten: an Union  Black; SKU: ZQ02314EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ06121 200W Retro Light",
+  "kind": "retro",
+  "light": "200W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   6,
+   12,
+   144,
+   154
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/768pcs-0-5w-three-in-one-color-mixing-rainbow-effect-highlights-outdoor-lighting-building-lighting-led-projection-light-building-exterior-wall-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq06121",
+  "notes": "Leistung 130W; IP20; Varianten: an Union  Black; SKU: ZQ06121EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02341 80W Mini Beam",
+  "kind": "effect",
+  "light": "80W",
+  "beamDeg": [
+   2.8,
+   2.8
+  ],
+  "pan": 540,
+  "tilt": 180,
+  "channels": [
+   12
+  ],
+  "features": [
+   "gobo",
+   "prism",
+   "colorwheel:7"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/zq02341-150w-beam-moving-head-light-stage-light-for-dj-concert-party-weddings-nightclub-dance-hall",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq02341",
+  "notes": "Varianten: an Union  Black; SKU: ZQ02341EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ01496 200W COB PAR Light",
+  "kind": "cob",
+  "light": "2 x White + Warm LEDs",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   8
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/200w-double-color-two-eyes-cob-par-light-fill-light-lighting",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq01496",
+  "notes": "Leistung 200W; Varianten: an Union  1  Black; SKU: ZQ01496EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02253 285W Moving Head Light",
+  "kind": "beam",
+  "light": "285W",
+  "beamDeg": [
+   5.0,
+   60.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   16,
+   24,
+   32
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/19pcs-focusing-19pcs15w-4-in-1-led-dmx512-moving-head-par-light-for-dj-karaoke-dance-hall-ktv-disco-bar",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq02253",
+  "notes": "Varianten: an Union  Black; SKU: ZQ02253EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ06079 250W Wash",
+  "kind": "effect",
+  "light": "250W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": 120,
+  "channels": [
+   7,
+   13,
+   43
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/250w-swing-dot-beam-wall-washer-light-10pcs-25w-led-rgbw-4in1-wall-washer-light-7-13-43ch-channel",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq06079",
+  "notes": "Varianten: an Union  Black; SKU: ZQ06079EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02255 80W Mini Beam",
+  "kind": "effect",
+  "light": "80W",
+  "beamDeg": [
+   2.0,
+   2.0
+  ],
+  "pan": 540,
+  "tilt": 220,
+  "channels": [
+   11,
+   13
+  ],
+  "features": [
+   "prism:80",
+   "colorwheel:7"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/150w-beam-moving-head-light-dmx512-moving-head-light-11-13ch-channel-suitable",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "qlc:uking/zq02255-80w-mini-beam",
+  "notes": "Varianten: an Union  Black; SKU: ZQ02255EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02042 230W Beam",
+  "kind": "effect",
+  "light": "230W",
+  "beamDeg": [
+   6.0,
+   6.0
+  ],
+  "pan": 540,
+  "tilt": 230,
+  "channels": [
+   16,
+   20
+  ],
+  "features": [
+   "gobo:13",
+   "prism",
+   "colorwheel:7",
+   "focus",
+   "rainbow"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/230w-stage-moving-head-light-15-gobos-and-14-colors-rainbow-effect-dmx512-control",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq02042",
+  "notes": "Varianten: an Union  Black; SKU: ZQ02042EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ01026 24W Mobile PAR Light",
+  "kind": "par",
+  "light": "24W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   8
+  ],
+  "features": [
+   "battery"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/12pcs-rgbw-4-in-1-led-built-in-battery-par-light-strobe-light-color-mixing-par-lights-stage-lighting-with-remote-control",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq01026",
+  "notes": "Varianten: an Union  1; an Union  2; SKU: ZQ01026EU, ZQ01026X2EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02011 85W Mini Beam",
+  "kind": "effect",
+  "light": "85W",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 180,
+  "channels": [
+   11,
+   13
+  ],
+  "features": [
+   "prism"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/85w-gobo-moving-head-stage-light-rgbw-dmx-led-beam-spot-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq02011",
+  "notes": "Varianten: an Union  Black; SKU: ZQ02011EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ01417 180W Waterproof PAR Light",
+  "kind": "par",
+  "light": "180W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   8
+  ],
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/zq01417-uking-stage-lights-waterproof-ip65-leds-par-light-for-outdoor-events",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq01417",
+  "notes": "IP65; Varianten: an Union; SKU: ZQ01417EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02229 250W Beam Pro",
+  "kind": "effect",
+  "light": "250W",
+  "beamDeg": [
+   2.0,
+   25.0
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   16
+  ],
+  "features": [
+   "gobo",
+   "prism:8",
+   "colorwheel:13"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/high-brightness-rainbow-lighting-prism-pattern-light-beam-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq02229",
+  "notes": "Varianten: an Union  1  Black; SKU: ZQ02229EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02021 80W Mini Beam",
+  "kind": "effect",
+  "light": "80W",
+  "beamDeg": [
+   2.8,
+   2.8
+  ],
+  "pan": 540,
+  "tilt": 180,
+  "channels": [
+   12
+  ],
+  "features": [
+   "gobo:7",
+   "prism:1+18"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/100w-led-beam-gobo-moving-head-stage-light-dazzling-effect-dmx",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "qlc:uking/zq02021-beam-pro",
+  "notes": "Varianten: an Union  1  Black; SKU: ZQ02021EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ01424 85W PAR Light",
+  "kind": "par",
+  "light": "14PCS x 6W 4-in-1 Lamp Bead",
+  "beamDeg": [
+   25.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   8
+  ],
+  "features": [
+   "battery"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/par-light-stage-light-4-in-1-rgbw-14-leds-stage-effect-light-dmx512-with-remote-control",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq01424",
+  "notes": "Leistung 80W; Varianten: an Union  1  Black; an Union  4  Black; SKU: ZQ01424EU, ZQ01424X4EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ06017 Wash",
+  "kind": "effect",
+  "light": "24PCS 3W RGB LEDs",
+  "beamDeg": [
+   25.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   3,
+   4,
+   6,
+   7,
+   12,
+   24
+  ],
+  "features": [
+   "rdm",
+   "battery"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/b354-led-bar-rgb-24-leds-wall-light-with-remote-controller",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq06017",
+  "notes": "Leistung 60W; Varianten: an Union  Black; SKU: ZQ06017EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ01069 145W PAR Light",
+  "kind": "par",
+  "light": "18PCS RGBW four-in-one LED 8W lamp beads",
+  "beamDeg": [
+   25.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   8
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/b35-par-can-rgbw-18-leds-par-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:uking/zq01069",
+  "notes": "Leistung 110W; Varianten: an Union  1  Black; SKU: ZQ01069EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ01061 145W PAR Light",
+  "kind": "par",
+  "light": "18PCS RGBW 4-in-1 LED 8W lamp beads",
+  "beamDeg": [
+   25.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   8
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/b117-par-can-4in1-rgbw-18-leds",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "qlc:uking/zq-b117-par-can-4in1-rgbw",
+  "notes": "Leistung 108W; Varianten: an Union  1  Black; an Union  4  Black; SKU: ZQ01061EU, ZQ01061X4EU; bereits als eigene Definition vorhanden; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02373 Dual-Head Moving Head 2×100W Beam",
+  "kind": "multihead",
+  "light": "2×100W LED-Module + RGB-LEDs",
+  "beamDeg": [
+   2,
+   2
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   33
+  ],
+  "features": [
+   "prism:18",
+   "focus",
+   "rdm",
+   "ring"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/uking-zq02373-moving-head-light",
+  "manualUrl": null,
+  "status": "nicht mehr im Shop (404), aus Suchergebnissen",
+  "inLibrary": null,
+  "notes": "Zwei Beam-Köpfe an einem Bügel; 200W laut UKing-Seite, eBay-Listing nennt 400W/33CH, IP20; 8000K, CRI≥90; Werte aus Suchmaschinen-Auszügen, nicht am Original geprüft"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02254 Moving Head 36 LED (Focusing)",
+  "kind": "wash",
+  "light": "36 LEDs (UKing: blau; Drittanbieter: 36×10W RGBW 4in1)",
+  "beamDeg": [
+   15,
+   60
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   16
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/product/36pcs-focusing-light-moving-head-light-stage-lighting-effect-dmx-control-for-dj-disco-nightclub-ktv-bar-theater-shopping-mall/",
+  "manualUrl": null,
+  "status": "alt, nicht mehr im Shop",
+  "inLibrary": null,
+  "notes": "Quellen widersprechen sich (36 blaue LEDs vs. 36×10W RGBW); Kanäle/Winkel nur aus Drittanbieter-Listings"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02110 230W Focusing Moving Head",
+  "kind": "wash",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.uking-online.com/products/uking-zq02110-moving-head-light",
+  "manualUrl": null,
+  "status": "alt, nicht mehr im Shop (404)",
+  "inLibrary": null,
+  "notes": "nur 230W Nennleistung und Blech-/Nylon-Gehäuse bekannt"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ-B147 80W LED Spot Moving Head",
+  "kind": "spot",
+  "light": "80W LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   9,
+   11
+  ],
+  "features": [
+   "gobo"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": "https://www.uking-online.com/wp-content/uploads/2019/11/ZQ-B147.pdf",
+  "status": "alt (Amazon), Handbuch-URL aus Forum (evtl. nicht mehr erreichbar)",
+  "inLibrary": null,
+  "notes": "9/11 CH laut Handbuch-Auszug"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ-B243 50W Mini Moving Head with LED Strip",
+  "kind": "spot",
+  "light": "50W LED + LED-Streifen",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   10,
+   12
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "alt (Amazon)",
+  "inLibrary": "qlc:uking/zq-b243",
+  "notes": "10/12 CH laut Pioneer-DJ-Forum; „Mini Moving Head mit Lichtleiste“"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ-B54A 30W Mini Gobo Moving Head",
+  "kind": "spot",
+  "light": "30W LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   7,
+   10
+  ],
+  "features": [
+   "gobo:8"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "alt (Amazon); identisches Gerät auch als Lampwin/Ktaxon ZQ-B54",
+  "inLibrary": null,
+  "notes": "7/10 CH laut Pioneer-DJ-Fixture-Request"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02006 50W Gobo Moving Head",
+  "kind": "spot",
+  "light": "50W LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   9,
+   11
+  ],
+  "features": [
+   "gobo"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.amazon.com/dp/B07NS4BGPW",
+  "manualUrl": null,
+  "status": "alt (Amazon)",
+  "inLibrary": null,
+  "notes": "9/11 CH laut Handbuch-Auszug (manuals.plus, gesperrt für Abruf)"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ-B257 40W Gobo Moving Head",
+  "kind": "spot",
+  "light": "40W LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   9,
+   11
+  ],
+  "features": [
+   "gobo"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.amazon.com/dp/B07QGJ79WX",
+  "manualUrl": null,
+  "status": "alt (Amazon)",
+  "inLibrary": null,
+  "notes": "9/11 CH laut Handbuch-Auszug"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02100 Moving Head (US)",
+  "kind": null,
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.amazon.com/dp/B07LB1JM3Q",
+  "manualUrl": null,
+  "status": "alt (Amazon)",
+  "inLibrary": null,
+  "notes": "nur Modellnummer bekannt; technische Daten nicht abrufbar"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02244 Moving Head",
+  "kind": null,
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "alt",
+  "inLibrary": null,
+  "notes": "nur Modellnummer bekannt (Pioneer-DJ-Forum mit DMX-Tabelle verlinkt)"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ-B279",
+  "kind": null,
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "alt",
+  "inLibrary": null,
+  "notes": "nur Modellnummer (ENTTEC-Support-Forum)"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "100W Gobo Moving Head 8 rotierende Gobos 18-fach-Prisma",
+  "kind": "spot",
+  "light": "100W LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "gobo:8",
+   "gobo-rotation",
+   "prism:18",
+   "colorwheel:7"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.amazon.com/dp/B0B3HZNL1Y",
+  "manualUrl": null,
+  "status": "Amazon-Listing",
+  "inLibrary": null,
+  "notes": "ZQ-Nummer unbekannt; evtl. identisch mit qlc:uking/led-spot-moving-head-100w"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "25W Mini Gobo Moving Head 7 Gobos 7 Farben",
+  "kind": "spot",
+  "light": "25W LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "gobo:7",
+   "colorwheel:7"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.amazon.com/dp/B073B6Q5CC",
+  "manualUrl": null,
+  "status": "Amazon-Listing",
+  "inLibrary": null,
+  "notes": "mögliche Entsprechung in Bibliothek (nicht sicher): ofl:uking/mini-led-spot-25w"
+ },
+ {
+  "manufacturer": "UKing",
+  "model": "ZQ02354 7×10W RGBW Mini Moving Head (105W)",
+  "kind": "wash",
+  "light": "7×10W RGBW 4in1",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   9,
+   14
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.amazon.com/dp/B09WVKCTJY",
+  "manualUrl": null,
+  "status": "Amazon-Listing",
+  "inLibrary": "vd:uking/zq02354",
+  "notes": "Amazon-Variante des ZQ02354 (Shop: 28W/7×4W) – Leistung je nach Listing unterschiedlich"
+ }
+]

@@ -1,0 +1,6214 @@
+[
+ {
+  "man": "JB-Lighting",
+  "key": "m18-profile",
+  "model": "M18 Profile",
+  "kind": "profile",
+  "deg": [
+   6.5,
+   54
+  ],
+  "pan": 540,
+  "tilt": 280,
+  "ch": [
+   47
+  ],
+  "feat": [
+   "pro",
+   "cto",
+   "gobo:6",
+   "gobor",
+   "gobo2",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.jb-lighting.de/download/DMX-Protokolle/M18_DMX_Protocol.pdf",
+  "note": "Kanalfolge aus JB-Lighting DMX-Protokoll (M18_DMX_Protocol.pdf); Bereiche für Shutter/Farbrad/Gobos/Prisma nach Handbuch. Mode 2 (16-Bit, 58 Kanäle) nicht erfasst.",
+  "verified": true,
+  "modes": [
+   {
+    "name": "47CH Mode 1",
+    "channels": [
+     {
+      "name": "Pan",
+      "attr": "pan",
+      "byte": 0
+     },
+     {
+      "name": "Pan fine",
+      "attr": "pan",
+      "byte": 1
+     },
+     {
+      "name": "Tilt",
+      "attr": "tilt",
+      "byte": 0
+     },
+     {
+      "name": "Tilt fine",
+      "attr": "tilt",
+      "byte": 1
+     },
+     {
+      "name": "Control",
+      "attr": "control",
+      "byte": 0
+     },
+     {
+      "name": "Shutter",
+      "attr": "shutter",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 15,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 16,
+        "to": 95,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 96,
+        "to": 110,
+        "kind": "strobe",
+        "label": "Pulse >20 Hz (fast - slow)"
+       },
+       {
+        "from": 111,
+        "to": 111,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 112,
+        "to": 125,
+        "kind": "generic",
+        "label": "Fade with dimmer"
+       },
+       {
+        "from": 126,
+        "to": 126,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 128,
+        "to": 142,
+        "kind": "strobe",
+        "label": "Pulse <20 Hz (fast - slow)"
+       },
+       {
+        "from": 143,
+        "to": 143,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 144,
+        "to": 158,
+        "kind": "strobe",
+        "label": "Closing pulse"
+       },
+       {
+        "from": 159,
+        "to": 159,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 160,
+        "to": 174,
+        "kind": "generic",
+        "label": "Shutter fade 0 %"
+       },
+       {
+        "from": 175,
+        "to": 175,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 176,
+        "to": 190,
+        "kind": "generic",
+        "label": "Shutter fade 100 %"
+       },
+       {
+        "from": 191,
+        "to": 191,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 192,
+        "to": 222,
+        "kind": "strobe",
+        "label": "Random shutter"
+       },
+       {
+        "from": 223,
+        "to": 223,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 224,
+        "to": 254,
+        "kind": "generic",
+        "label": "Random shutter fade"
+       },
+       {
+        "from": 255,
+        "to": 255,
+        "kind": "open",
+        "label": "Open"
+       }
+      ]
+     },
+     {
+      "name": "Dimmer",
+      "attr": "dimmer",
+      "byte": 0
+     },
+     {
+      "name": "Focus",
+      "attr": "focus",
+      "byte": 0
+     },
+     {
+      "name": "Zoom",
+      "attr": "zoom",
+      "byte": 0
+     },
+     {
+      "name": "Autofocus distance",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Reserved",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Iris",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Gobo wheel 1",
+      "attr": "gobo",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 7,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 8,
+        "to": 15,
+        "kind": "gobo",
+        "gobo": 1,
+        "label": "Gobo 1"
+       },
+       {
+        "from": 16,
+        "to": 23,
+        "kind": "gobo",
+        "gobo": 2,
+        "label": "Gobo 2"
+       },
+       {
+        "from": 24,
+        "to": 31,
+        "kind": "gobo",
+        "gobo": 3,
+        "label": "Gobo 3"
+       },
+       {
+        "from": 32,
+        "to": 39,
+        "kind": "gobo",
+        "gobo": 4,
+        "label": "Gobo 4"
+       },
+       {
+        "from": 40,
+        "to": 47,
+        "kind": "gobo",
+        "gobo": 5,
+        "label": "Gobo 5"
+       },
+       {
+        "from": 48,
+        "to": 55,
+        "kind": "gobo",
+        "gobo": 6,
+        "label": "Gobo 6"
+       },
+       {
+        "from": 56,
+        "to": 63,
+        "kind": "gobo",
+        "gobo": 7,
+        "label": "Gobo 7"
+       },
+       {
+        "from": 64,
+        "to": 191,
+        "kind": "gobo",
+        "gobo": 8,
+        "label": "Gobo 8"
+       },
+       {
+        "from": 192,
+        "to": 255,
+        "kind": "generic",
+        "label": "Wheel rotation"
+       }
+      ]
+     },
+     {
+      "name": "Gobo wheel 2",
+      "attr": "gobo",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 7,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 8,
+        "to": 15,
+        "kind": "gobo",
+        "gobo": 1,
+        "label": "Gobo 1"
+       },
+       {
+        "from": 16,
+        "to": 23,
+        "kind": "gobo",
+        "gobo": 2,
+        "label": "Gobo 2"
+       },
+       {
+        "from": 24,
+        "to": 31,
+        "kind": "gobo",
+        "gobo": 3,
+        "label": "Gobo 3"
+       },
+       {
+        "from": 32,
+        "to": 39,
+        "kind": "gobo",
+        "gobo": 4,
+        "label": "Gobo 4"
+       },
+       {
+        "from": 40,
+        "to": 47,
+        "kind": "gobo",
+        "gobo": 5,
+        "label": "Gobo 5"
+       },
+       {
+        "from": 48,
+        "to": 127,
+        "kind": "gobo",
+        "gobo": 6,
+        "label": "Gobo 6"
+       },
+       {
+        "from": 128,
+        "to": 191,
+        "kind": "generic",
+        "label": "Gobo shake"
+       }
+      ]
+     },
+     {
+      "name": "Gobo 2 rotation",
+      "attr": "goboRotation",
+      "byte": 0
+     },
+     {
+      "name": "Animation wheel",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Animation wheel rotation",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 1a",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 1b",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 3a",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 3b",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 2a",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 2b",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 4a",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 4b",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade rotation",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Colour wheel",
+      "attr": "colorWheel",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 0,
+        "kind": "generic",
+        "label": "Off (RGBAL mixing only)"
+       },
+       {
+        "from": 1,
+        "to": 3,
+        "kind": "color",
+        "color": "#ffffff",
+        "label": "White"
+       },
+       {
+        "from": 8,
+        "to": 11,
+        "kind": "color",
+        "color": "#ff2010",
+        "label": "Red"
+       },
+       {
+        "from": 16,
+        "to": 19,
+        "kind": "color",
+        "color": "#ffe000",
+        "label": "Yellow"
+       },
+       {
+        "from": 24,
+        "to": 27,
+        "kind": "color",
+        "color": "#ff20c0",
+        "label": "Magenta"
+       },
+       {
+        "from": 32,
+        "to": 35,
+        "kind": "color",
+        "color": "#20ff40",
+        "label": "Green"
+       },
+       {
+        "from": 40,
+        "to": 43,
+        "kind": "color",
+        "color": "#ff8000",
+        "label": "Orange"
+       },
+       {
+        "from": 48,
+        "to": 51,
+        "kind": "color",
+        "color": "#2040ff",
+        "label": "Blue"
+       },
+       {
+        "from": 56,
+        "to": 59,
+        "kind": "color",
+        "color": "#20ffd0",
+        "label": "Turquoise"
+       },
+       {
+        "from": 64,
+        "to": 191,
+        "kind": "generic",
+        "label": "White presets 2700-8000 K"
+       },
+       {
+        "from": 192,
+        "to": 255,
+        "kind": "generic",
+        "label": "Colour change effect"
+       }
+      ]
+     },
+     {
+      "name": "Red",
+      "attr": "red",
+      "byte": 0
+     },
+     {
+      "name": "Green",
+      "attr": "green",
+      "byte": 0
+     },
+     {
+      "name": "Blue",
+      "attr": "blue",
+      "byte": 0
+     },
+     {
+      "name": "Amber",
+      "attr": "amber",
+      "byte": 0
+     },
+     {
+      "name": "Lime",
+      "attr": "lime",
+      "byte": 0
+     },
+     {
+      "name": "White",
+      "attr": "white",
+      "byte": 0
+     },
+     {
+      "name": "CTO",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "CRI select",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Sparkle",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Sparkle speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Prism 1",
+      "attr": "prism",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 7,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 8,
+        "to": 255,
+        "kind": "prism",
+        "label": "Prism 1"
+       }
+      ]
+     },
+     {
+      "name": "Prism 1 rotation",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Prism 2",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Prism 2 rotation",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Frost 1",
+      "attr": "frost",
+      "byte": 0
+     },
+     {
+      "name": "Frost 2",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Black body shift (tint)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Pan/tilt speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Effect speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Blackout move",
+      "attr": "control",
+      "byte": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "man": "JB-Lighting",
+  "key": "p18-wash",
+  "model": "P18 Wash",
+  "kind": "wash",
+  "deg": [
+   13,
+   65
+  ],
+  "pan": 540,
+  "tilt": 280,
+  "ch": [
+   36
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:6",
+   "gobor",
+   "iris",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.jb-lighting.de/download/DMX-Protokolle/P18_Wash_MK2_DMX_Protocol.pdf",
+  "note": "Kanalfolge aus JB-Lighting DMX-Protokoll (P18_Wash_MK2_DMX_Protocol.pdf); Bereiche für Shutter/Farbrad/Gobos/Prisma nach Handbuch. Mode 2 (16-Bit) nicht erfasst.",
+  "verified": true,
+  "modes": [
+   {
+    "name": "36CH Mode 1",
+    "channels": [
+     {
+      "name": "Pan",
+      "attr": "pan",
+      "byte": 0
+     },
+     {
+      "name": "Pan fine",
+      "attr": "pan",
+      "byte": 1
+     },
+     {
+      "name": "Tilt",
+      "attr": "tilt",
+      "byte": 0
+     },
+     {
+      "name": "Tilt fine",
+      "attr": "tilt",
+      "byte": 1
+     },
+     {
+      "name": "Control",
+      "attr": "control",
+      "byte": 0
+     },
+     {
+      "name": "Shutter",
+      "attr": "shutter",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 15,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 16,
+        "to": 95,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 96,
+        "to": 110,
+        "kind": "strobe",
+        "label": "Pulse >20 Hz (fast - slow)"
+       },
+       {
+        "from": 111,
+        "to": 111,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 112,
+        "to": 125,
+        "kind": "generic",
+        "label": "Fade with dimmer"
+       },
+       {
+        "from": 126,
+        "to": 126,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 128,
+        "to": 142,
+        "kind": "strobe",
+        "label": "Pulse <20 Hz (fast - slow)"
+       },
+       {
+        "from": 143,
+        "to": 143,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 144,
+        "to": 158,
+        "kind": "strobe",
+        "label": "Closing pulse"
+       },
+       {
+        "from": 159,
+        "to": 159,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 160,
+        "to": 174,
+        "kind": "generic",
+        "label": "Shutter fade 0 %"
+       },
+       {
+        "from": 175,
+        "to": 175,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 176,
+        "to": 190,
+        "kind": "generic",
+        "label": "Shutter fade 100 %"
+       },
+       {
+        "from": 191,
+        "to": 191,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 192,
+        "to": 222,
+        "kind": "strobe",
+        "label": "Random shutter"
+       },
+       {
+        "from": 223,
+        "to": 223,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 224,
+        "to": 254,
+        "kind": "generic",
+        "label": "Random shutter fade"
+       },
+       {
+        "from": 255,
+        "to": 255,
+        "kind": "open",
+        "label": "Open"
+       }
+      ]
+     },
+     {
+      "name": "Dimmer",
+      "attr": "dimmer",
+      "byte": 0
+     },
+     {
+      "name": "Focus",
+      "attr": "focus",
+      "byte": 0
+     },
+     {
+      "name": "Zoom",
+      "attr": "zoom",
+      "byte": 0
+     },
+     {
+      "name": "Reserved",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Reserved",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Iris",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Gobo wheel",
+      "attr": "gobo",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 7,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 8,
+        "to": 15,
+        "kind": "gobo",
+        "gobo": 1,
+        "label": "Gobo 1"
+       },
+       {
+        "from": 16,
+        "to": 23,
+        "kind": "gobo",
+        "gobo": 2,
+        "label": "Gobo 2"
+       },
+       {
+        "from": 24,
+        "to": 31,
+        "kind": "gobo",
+        "gobo": 3,
+        "label": "Gobo 3"
+       },
+       {
+        "from": 32,
+        "to": 39,
+        "kind": "gobo",
+        "gobo": 4,
+        "label": "Gobo 4"
+       },
+       {
+        "from": 40,
+        "to": 47,
+        "kind": "gobo",
+        "gobo": 5,
+        "label": "Gobo 5"
+       },
+       {
+        "from": 48,
+        "to": 127,
+        "kind": "gobo",
+        "gobo": 6,
+        "label": "Gobo 6"
+       },
+       {
+        "from": 128,
+        "to": 191,
+        "kind": "generic",
+        "label": "Gobo shake"
+       }
+      ]
+     },
+     {
+      "name": "Gobo rotation",
+      "attr": "goboRotation",
+      "byte": 0
+     },
+     {
+      "name": "Blade 1a",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 1b",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 3a",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 3b",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 2a",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 2b",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 4a",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 4b",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade rotation",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Colour wheel 1",
+      "attr": "colorWheel",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 1,
+        "kind": "color",
+        "color": "#ffffff",
+        "label": "White"
+       },
+       {
+        "from": 4,
+        "to": 5,
+        "kind": "color",
+        "color": "#ff2010",
+        "label": "Red"
+       },
+       {
+        "from": 8,
+        "to": 9,
+        "kind": "color",
+        "color": "#ffe000",
+        "label": "Yellow"
+       },
+       {
+        "from": 12,
+        "to": 13,
+        "kind": "color",
+        "color": "#ff20c0",
+        "label": "Magenta"
+       },
+       {
+        "from": 16,
+        "to": 17,
+        "kind": "color",
+        "color": "#20ff40",
+        "label": "Green"
+       },
+       {
+        "from": 20,
+        "to": 21,
+        "kind": "color",
+        "color": "#ff8000",
+        "label": "Orange"
+       },
+       {
+        "from": 24,
+        "to": 25,
+        "kind": "color",
+        "color": "#1020c0",
+        "label": "Dark Blue"
+       },
+       {
+        "from": 28,
+        "to": 29,
+        "kind": "color",
+        "color": "#fff4e0",
+        "label": "Hi CRI"
+       },
+       {
+        "from": 64,
+        "to": 191,
+        "kind": "generic",
+        "label": "Linear colours"
+       },
+       {
+        "from": 192,
+        "to": 255,
+        "kind": "generic",
+        "label": "Colour cycle"
+       }
+      ]
+     },
+     {
+      "name": "Colour wheel 2 (colour temperature)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Cyan",
+      "attr": "cyan",
+      "byte": 0
+     },
+     {
+      "name": "Magenta",
+      "attr": "magenta",
+      "byte": 0
+     },
+     {
+      "name": "Yellow",
+      "attr": "yellow",
+      "byte": 0
+     },
+     {
+      "name": "CTO (CTB on WW model)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Sparkle",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Sparkle speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Frost 1",
+      "attr": "frost",
+      "byte": 0
+     },
+     {
+      "name": "Frost 2",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Pan/tilt speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Effect speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Blackout move",
+      "attr": "control",
+      "byte": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "man": "JB-Lighting",
+  "key": "p15-profile",
+  "model": "P15 Profile",
+  "kind": "profile",
+  "deg": [
+   5.2,
+   54
+  ],
+  "pan": 540,
+  "tilt": 280,
+  "ch": [
+   44
+  ],
+  "feat": [
+   "pro",
+   "gobo:6",
+   "gobor",
+   "gobo2",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.jb-lighting.de/download/DMX-Protokolle/P15_DMX_Protocol.pdf",
+  "note": "Kanalfolge aus JB-Lighting DMX-Protokoll (P15_DMX_Protocol.pdf); Bereiche für Shutter/Farbrad/Gobos/Prisma nach Handbuch. Mode 2 (16-Bit) nicht erfasst.",
+  "verified": true,
+  "modes": [
+   {
+    "name": "44CH Mode 1",
+    "channels": [
+     {
+      "name": "Pan",
+      "attr": "pan",
+      "byte": 0
+     },
+     {
+      "name": "Pan fine",
+      "attr": "pan",
+      "byte": 1
+     },
+     {
+      "name": "Tilt",
+      "attr": "tilt",
+      "byte": 0
+     },
+     {
+      "name": "Tilt fine",
+      "attr": "tilt",
+      "byte": 1
+     },
+     {
+      "name": "Control",
+      "attr": "control",
+      "byte": 0
+     },
+     {
+      "name": "Shutter",
+      "attr": "shutter",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 15,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 16,
+        "to": 95,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 96,
+        "to": 110,
+        "kind": "strobe",
+        "label": "Pulse >20 Hz (fast - slow)"
+       },
+       {
+        "from": 111,
+        "to": 111,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 112,
+        "to": 125,
+        "kind": "generic",
+        "label": "Fade with dimmer"
+       },
+       {
+        "from": 126,
+        "to": 126,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 128,
+        "to": 142,
+        "kind": "strobe",
+        "label": "Pulse <20 Hz (fast - slow)"
+       },
+       {
+        "from": 143,
+        "to": 143,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 144,
+        "to": 158,
+        "kind": "strobe",
+        "label": "Closing pulse"
+       },
+       {
+        "from": 159,
+        "to": 159,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 160,
+        "to": 174,
+        "kind": "generic",
+        "label": "Shutter fade 0 %"
+       },
+       {
+        "from": 175,
+        "to": 175,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 176,
+        "to": 190,
+        "kind": "generic",
+        "label": "Shutter fade 100 %"
+       },
+       {
+        "from": 191,
+        "to": 191,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 192,
+        "to": 222,
+        "kind": "strobe",
+        "label": "Random shutter"
+       },
+       {
+        "from": 223,
+        "to": 223,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 224,
+        "to": 254,
+        "kind": "generic",
+        "label": "Random shutter fade"
+       },
+       {
+        "from": 255,
+        "to": 255,
+        "kind": "open",
+        "label": "Open"
+       }
+      ]
+     },
+     {
+      "name": "Dimmer",
+      "attr": "dimmer",
+      "byte": 0
+     },
+     {
+      "name": "Focus",
+      "attr": "focus",
+      "byte": 0
+     },
+     {
+      "name": "Zoom",
+      "attr": "zoom",
+      "byte": 0
+     },
+     {
+      "name": "Autofocus distance",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Iris",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Gobo wheel 1",
+      "attr": "gobo",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 7,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 8,
+        "to": 15,
+        "kind": "gobo",
+        "gobo": 1,
+        "label": "Nightsky"
+       },
+       {
+        "from": 16,
+        "to": 23,
+        "kind": "gobo",
+        "gobo": 2,
+        "label": "Rotor"
+       },
+       {
+        "from": 24,
+        "to": 31,
+        "kind": "gobo",
+        "gobo": 3,
+        "label": "Crescents"
+       },
+       {
+        "from": 32,
+        "to": 39,
+        "kind": "gobo",
+        "gobo": 4,
+        "label": "Tunnel"
+       },
+       {
+        "from": 40,
+        "to": 47,
+        "kind": "gobo",
+        "gobo": 5,
+        "label": "Bush"
+       },
+       {
+        "from": 48,
+        "to": 127,
+        "kind": "gobo",
+        "gobo": 6,
+        "label": "Bamboo"
+       },
+       {
+        "from": 128,
+        "to": 191,
+        "kind": "generic",
+        "label": "Gobo shake"
+       },
+       {
+        "from": 192,
+        "to": 255,
+        "kind": "generic",
+        "label": "Wheel rotation"
+       }
+      ]
+     },
+     {
+      "name": "Gobo 1 rotation",
+      "attr": "goboRotation",
+      "byte": 0
+     },
+     {
+      "name": "Gobo wheel 2",
+      "attr": "gobo",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 7,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 8,
+        "to": 15,
+        "kind": "gobo",
+        "gobo": 1,
+        "label": "Point Line"
+       },
+       {
+        "from": 16,
+        "to": 23,
+        "kind": "gobo",
+        "gobo": 2,
+        "label": "Tiger"
+       },
+       {
+        "from": 24,
+        "to": 31,
+        "kind": "gobo",
+        "gobo": 3,
+        "label": "Sliver"
+       },
+       {
+        "from": 32,
+        "to": 39,
+        "kind": "gobo",
+        "gobo": 4,
+        "label": "Turbine"
+       },
+       {
+        "from": 40,
+        "to": 47,
+        "kind": "gobo",
+        "gobo": 5,
+        "label": "Dash horizontal"
+       },
+       {
+        "from": 48,
+        "to": 127,
+        "kind": "gobo",
+        "gobo": 6,
+        "label": "Art Glass"
+       },
+       {
+        "from": 128,
+        "to": 191,
+        "kind": "generic",
+        "label": "Gobo shake"
+       }
+      ]
+     },
+     {
+      "name": "Gobo 2 rotation",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 1a / 1 thrust",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 1b / 1 angle",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 2a / 2 thrust",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 2b / 2 angle",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 3a / 3 thrust",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 3b / 3 angle",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 4a / 4 thrust",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 4b / 4 angle",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade rotation",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Colour wheel",
+      "attr": "colorWheel",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 1,
+        "kind": "color",
+        "color": "#ffffff",
+        "label": "White"
+       },
+       {
+        "from": 4,
+        "to": 5,
+        "kind": "color",
+        "color": "#ff2010",
+        "label": "Red"
+       },
+       {
+        "from": 8,
+        "to": 9,
+        "kind": "color",
+        "color": "#ffe000",
+        "label": "Yellow"
+       },
+       {
+        "from": 12,
+        "to": 13,
+        "kind": "color",
+        "color": "#ff20c0",
+        "label": "Magenta"
+       },
+       {
+        "from": 16,
+        "to": 17,
+        "kind": "color",
+        "color": "#20ff40",
+        "label": "Green"
+       },
+       {
+        "from": 20,
+        "to": 21,
+        "kind": "color",
+        "color": "#ff8000",
+        "label": "Orange"
+       },
+       {
+        "from": 24,
+        "to": 25,
+        "kind": "color",
+        "color": "#1020c0",
+        "label": "Dark Blue"
+       },
+       {
+        "from": 28,
+        "to": 29,
+        "kind": "color",
+        "color": "#ff80b0",
+        "label": "Pink"
+       },
+       {
+        "from": 32,
+        "to": 33,
+        "kind": "color",
+        "color": "#fff4e0",
+        "label": "Hi CRI"
+       },
+       {
+        "from": 64,
+        "to": 191,
+        "kind": "generic",
+        "label": "Linear colours"
+       },
+       {
+        "from": 192,
+        "to": 255,
+        "kind": "generic",
+        "label": "Colour cycle"
+       }
+      ]
+     },
+     {
+      "name": "Cyan / Red",
+      "attr": "cyan",
+      "byte": 0
+     },
+     {
+      "name": "Magenta / Green",
+      "attr": "magenta",
+      "byte": 0
+     },
+     {
+      "name": "Yellow / Blue",
+      "attr": "yellow",
+      "byte": 0
+     },
+     {
+      "name": "Colourfulness (RGB only)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "CTO",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "CTC",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Black body shift (+/- green)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Sparkle",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Sparkle speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Prism 1",
+      "attr": "prism",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 7,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 8,
+        "to": 255,
+        "kind": "prism",
+        "label": "Prism 1"
+       }
+      ]
+     },
+     {
+      "name": "Prism 1 rotation",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Prism 2",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Prism 2 rotation",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Frost 1",
+      "attr": "frost",
+      "byte": 0
+     },
+     {
+      "name": "Frost 2",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Reserved",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Pan/tilt speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Effect speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Blackout move",
+      "attr": "control",
+      "byte": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "man": "JB-Lighting",
+  "key": "p15-wash",
+  "model": "P15 Wash",
+  "kind": "wash",
+  "deg": [
+   9,
+   66
+  ],
+  "pan": 540,
+  "tilt": 280,
+  "ch": [
+   35
+  ],
+  "feat": [
+   "pro",
+   "iris",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.jb-lighting.de/download/DMX-Protokolle/P15_Wash_DMX_Protocol.pdf",
+  "note": "Kanalfolge aus JB-Lighting DMX-Protokoll (P15_Wash_DMX_Protocol.pdf); Bereiche für Shutter/Farbrad/Gobos/Prisma nach Handbuch. Mode 2 (16-Bit) nicht erfasst.",
+  "verified": true,
+  "modes": [
+   {
+    "name": "35CH Mode 1",
+    "channels": [
+     {
+      "name": "Pan",
+      "attr": "pan",
+      "byte": 0
+     },
+     {
+      "name": "Pan fine",
+      "attr": "pan",
+      "byte": 1
+     },
+     {
+      "name": "Tilt",
+      "attr": "tilt",
+      "byte": 0
+     },
+     {
+      "name": "Tilt fine",
+      "attr": "tilt",
+      "byte": 1
+     },
+     {
+      "name": "Control",
+      "attr": "control",
+      "byte": 0
+     },
+     {
+      "name": "Shutter",
+      "attr": "shutter",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 15,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 16,
+        "to": 95,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 96,
+        "to": 110,
+        "kind": "strobe",
+        "label": "Pulse >20 Hz (fast - slow)"
+       },
+       {
+        "from": 111,
+        "to": 111,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 112,
+        "to": 125,
+        "kind": "generic",
+        "label": "Fade with dimmer"
+       },
+       {
+        "from": 126,
+        "to": 126,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 128,
+        "to": 142,
+        "kind": "strobe",
+        "label": "Pulse <20 Hz (fast - slow)"
+       },
+       {
+        "from": 143,
+        "to": 143,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 144,
+        "to": 158,
+        "kind": "strobe",
+        "label": "Closing pulse"
+       },
+       {
+        "from": 159,
+        "to": 159,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 160,
+        "to": 174,
+        "kind": "generic",
+        "label": "Shutter fade 0 %"
+       },
+       {
+        "from": 175,
+        "to": 175,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 176,
+        "to": 190,
+        "kind": "generic",
+        "label": "Shutter fade 100 %"
+       },
+       {
+        "from": 191,
+        "to": 191,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 192,
+        "to": 222,
+        "kind": "strobe",
+        "label": "Random shutter"
+       },
+       {
+        "from": 223,
+        "to": 223,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 224,
+        "to": 254,
+        "kind": "generic",
+        "label": "Random shutter fade"
+       },
+       {
+        "from": 255,
+        "to": 255,
+        "kind": "open",
+        "label": "Open"
+       }
+      ]
+     },
+     {
+      "name": "Dimmer",
+      "attr": "dimmer",
+      "byte": 0
+     },
+     {
+      "name": "Focus",
+      "attr": "focus",
+      "byte": 0
+     },
+     {
+      "name": "Zoom",
+      "attr": "zoom",
+      "byte": 0
+     },
+     {
+      "name": "Reserved",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Iris",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 1a / 1 thrust",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 1b / 1 angle",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 2a / 2 thrust",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 2b / 2 angle",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 3a / 3 thrust",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 3b / 3 angle",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 4a / 4 thrust",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 4b / 4 angle",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade rotation",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Colour wheel",
+      "attr": "colorWheel",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 1,
+        "kind": "color",
+        "color": "#ffffff",
+        "label": "White"
+       },
+       {
+        "from": 4,
+        "to": 5,
+        "kind": "color",
+        "color": "#ff2010",
+        "label": "Red"
+       },
+       {
+        "from": 8,
+        "to": 9,
+        "kind": "color",
+        "color": "#ffe000",
+        "label": "Yellow"
+       },
+       {
+        "from": 12,
+        "to": 13,
+        "kind": "color",
+        "color": "#ff20c0",
+        "label": "Magenta"
+       },
+       {
+        "from": 16,
+        "to": 17,
+        "kind": "color",
+        "color": "#20ff40",
+        "label": "Green"
+       },
+       {
+        "from": 20,
+        "to": 21,
+        "kind": "color",
+        "color": "#ff8000",
+        "label": "Orange"
+       },
+       {
+        "from": 24,
+        "to": 25,
+        "kind": "color",
+        "color": "#1020c0",
+        "label": "Dark Blue"
+       },
+       {
+        "from": 28,
+        "to": 29,
+        "kind": "color",
+        "color": "#fff4e0",
+        "label": "Hi CRI"
+       },
+       {
+        "from": 32,
+        "to": 33,
+        "kind": "color",
+        "color": "#c0d8ff",
+        "label": "CTB"
+       },
+       {
+        "from": 64,
+        "to": 191,
+        "kind": "generic",
+        "label": "Linear colours"
+       },
+       {
+        "from": 192,
+        "to": 255,
+        "kind": "generic",
+        "label": "Colour cycle"
+       }
+      ]
+     },
+     {
+      "name": "Cyan",
+      "attr": "cyan",
+      "byte": 0
+     },
+     {
+      "name": "Magenta",
+      "attr": "magenta",
+      "byte": 0
+     },
+     {
+      "name": "Yellow",
+      "attr": "yellow",
+      "byte": 0
+     },
+     {
+      "name": "Colourfulness",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "CTO",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "CTC",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Black body shift (+/- green)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Sparkle",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Sparkle speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Frost",
+      "attr": "frost",
+      "byte": 0
+     },
+     {
+      "name": "Reserved",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Pan/tilt speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Effect speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Blackout move",
+      "attr": "control",
+      "byte": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "man": "JB-Lighting",
+  "key": "p10-profile",
+  "model": "P10 Profile",
+  "kind": "profile",
+  "deg": [
+   4,
+   60
+  ],
+  "pan": 540,
+  "tilt": 280,
+  "ch": [
+   40
+  ],
+  "feat": [
+   "pro",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.jb-lighting.de/download/DMX-Protokolle/P10_DMX_Protocol.pdf",
+  "note": "Kanalfolge aus JB-Lighting DMX-Protokoll (P10_DMX_Protocol.pdf); Bereiche für Shutter/Farbrad/Gobos/Prisma nach Handbuch. Mode 2 (16-Bit, mehr Kanäle) nicht erfasst.",
+  "verified": true,
+  "modes": [
+   {
+    "name": "40CH Mode 1",
+    "channels": [
+     {
+      "name": "Pan",
+      "attr": "pan",
+      "byte": 0
+     },
+     {
+      "name": "Pan fine",
+      "attr": "pan",
+      "byte": 1
+     },
+     {
+      "name": "Tilt",
+      "attr": "tilt",
+      "byte": 0
+     },
+     {
+      "name": "Tilt fine",
+      "attr": "tilt",
+      "byte": 1
+     },
+     {
+      "name": "Control",
+      "attr": "control",
+      "byte": 0
+     },
+     {
+      "name": "Shutter",
+      "attr": "shutter",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 15,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 16,
+        "to": 95,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 96,
+        "to": 110,
+        "kind": "strobe",
+        "label": "Pulse >20 Hz (fast - slow)"
+       },
+       {
+        "from": 111,
+        "to": 111,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 112,
+        "to": 125,
+        "kind": "generic",
+        "label": "Fade with dimmer"
+       },
+       {
+        "from": 126,
+        "to": 126,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 128,
+        "to": 142,
+        "kind": "strobe",
+        "label": "Pulse <20 Hz (fast - slow)"
+       },
+       {
+        "from": 143,
+        "to": 143,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 144,
+        "to": 158,
+        "kind": "strobe",
+        "label": "Closing pulse"
+       },
+       {
+        "from": 159,
+        "to": 159,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 160,
+        "to": 174,
+        "kind": "generic",
+        "label": "Shutter fade 0 %"
+       },
+       {
+        "from": 175,
+        "to": 175,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 176,
+        "to": 190,
+        "kind": "generic",
+        "label": "Shutter fade 100 %"
+       },
+       {
+        "from": 191,
+        "to": 191,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 192,
+        "to": 222,
+        "kind": "strobe",
+        "label": "Random shutter"
+       },
+       {
+        "from": 223,
+        "to": 223,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 224,
+        "to": 254,
+        "kind": "generic",
+        "label": "Random shutter fade"
+       },
+       {
+        "from": 255,
+        "to": 255,
+        "kind": "open",
+        "label": "Open"
+       }
+      ]
+     },
+     {
+      "name": "Dimmer",
+      "attr": "dimmer",
+      "byte": 0
+     },
+     {
+      "name": "Focus",
+      "attr": "focus",
+      "byte": 0
+     },
+     {
+      "name": "Zoom",
+      "attr": "zoom",
+      "byte": 0
+     },
+     {
+      "name": "Autofocus distance",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Reserved",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Iris",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Gobo wheel 1",
+      "attr": "gobo",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 7,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 8,
+        "to": 15,
+        "kind": "gobo",
+        "gobo": 1,
+        "label": "Gobo 1"
+       },
+       {
+        "from": 16,
+        "to": 23,
+        "kind": "gobo",
+        "gobo": 2,
+        "label": "Gobo 2"
+       },
+       {
+        "from": 24,
+        "to": 31,
+        "kind": "gobo",
+        "gobo": 3,
+        "label": "Gobo 3"
+       },
+       {
+        "from": 32,
+        "to": 39,
+        "kind": "gobo",
+        "gobo": 4,
+        "label": "Gobo 4"
+       },
+       {
+        "from": 40,
+        "to": 47,
+        "kind": "gobo",
+        "gobo": 5,
+        "label": "Gobo 5"
+       },
+       {
+        "from": 48,
+        "to": 55,
+        "kind": "gobo",
+        "gobo": 6,
+        "label": "Gobo 6"
+       },
+       {
+        "from": 56,
+        "to": 127,
+        "kind": "gobo",
+        "gobo": 7,
+        "label": "Gobo 7"
+       },
+       {
+        "from": 128,
+        "to": 191,
+        "kind": "generic",
+        "label": "Gobo shake"
+       }
+      ]
+     },
+     {
+      "name": "Gobo 1 rotation",
+      "attr": "goboRotation",
+      "byte": 0
+     },
+     {
+      "name": "Gobo wheel 2",
+      "attr": "gobo",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 7,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 8,
+        "to": 15,
+        "kind": "gobo",
+        "gobo": 1,
+        "label": "Gobo 1"
+       },
+       {
+        "from": 16,
+        "to": 23,
+        "kind": "gobo",
+        "gobo": 2,
+        "label": "Gobo 2"
+       },
+       {
+        "from": 24,
+        "to": 31,
+        "kind": "gobo",
+        "gobo": 3,
+        "label": "Gobo 3"
+       },
+       {
+        "from": 32,
+        "to": 39,
+        "kind": "gobo",
+        "gobo": 4,
+        "label": "Gobo 4"
+       },
+       {
+        "from": 40,
+        "to": 47,
+        "kind": "gobo",
+        "gobo": 5,
+        "label": "Gobo 5"
+       },
+       {
+        "from": 48,
+        "to": 55,
+        "kind": "gobo",
+        "gobo": 6,
+        "label": "Gobo 6"
+       },
+       {
+        "from": 56,
+        "to": 127,
+        "kind": "gobo",
+        "gobo": 7,
+        "label": "Gobo 7"
+       },
+       {
+        "from": 128,
+        "to": 191,
+        "kind": "generic",
+        "label": "Gobo shake"
+       }
+      ]
+     },
+     {
+      "name": "Gobo 2 rotation",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 1a",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 1b",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 3a",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 3b",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 2a",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 2b",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 4a",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 4b",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade rotation",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Colour wheel",
+      "attr": "colorWheel",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 1,
+        "kind": "color",
+        "color": "#ffffff",
+        "label": "White"
+       },
+       {
+        "from": 4,
+        "to": 5,
+        "kind": "color",
+        "color": "#c0d8ff",
+        "label": "CTB"
+       },
+       {
+        "from": 8,
+        "to": 9,
+        "kind": "color",
+        "color": "#ff2010",
+        "label": "Red"
+       },
+       {
+        "from": 12,
+        "to": 13,
+        "kind": "color",
+        "color": "#ffe000",
+        "label": "Yellow"
+       },
+       {
+        "from": 16,
+        "to": 17,
+        "kind": "color",
+        "color": "#ff20c0",
+        "label": "Magenta"
+       },
+       {
+        "from": 20,
+        "to": 21,
+        "kind": "color",
+        "color": "#20ff40",
+        "label": "Green"
+       },
+       {
+        "from": 24,
+        "to": 25,
+        "kind": "color",
+        "color": "#ff8000",
+        "label": "Orange"
+       },
+       {
+        "from": 28,
+        "to": 29,
+        "kind": "color",
+        "color": "#fff4e0",
+        "label": "CRI"
+       },
+       {
+        "from": 30,
+        "to": 63,
+        "kind": "color",
+        "color": "#ffc080",
+        "label": "CTO"
+       },
+       {
+        "from": 64,
+        "to": 191,
+        "kind": "generic",
+        "label": "Linear colours"
+       },
+       {
+        "from": 192,
+        "to": 255,
+        "kind": "generic",
+        "label": "Colour cycle"
+       }
+      ]
+     },
+     {
+      "name": "Cyan",
+      "attr": "cyan",
+      "byte": 0
+     },
+     {
+      "name": "Magenta",
+      "attr": "magenta",
+      "byte": 0
+     },
+     {
+      "name": "Yellow",
+      "attr": "yellow",
+      "byte": 0
+     },
+     {
+      "name": "CTO",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Sparkle",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Sparkle speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Prism 1",
+      "attr": "prism",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 7,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 8,
+        "to": 255,
+        "kind": "prism",
+        "label": "Prism 1"
+       }
+      ]
+     },
+     {
+      "name": "Prism 1 rotation",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Frost 1",
+      "attr": "frost",
+      "byte": 0
+     },
+     {
+      "name": "Frost 2",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Effect macro",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Pan/tilt speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Effect speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Blackout move",
+      "attr": "control",
+      "byte": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "man": "JB-Lighting",
+  "key": "p10-wash",
+  "model": "P10 Wash",
+  "kind": "wash",
+  "deg": [
+   12,
+   70
+  ],
+  "pan": 540,
+  "tilt": 280,
+  "ch": [
+   37
+  ],
+  "feat": [
+   "pro",
+   "gobo:7",
+   "gobor",
+   "iris",
+   "zoom"
+  ],
+  "url": "https://www.jb-lighting.de/download/DMX-Protokolle/P10_Wash_DMX_Protocol.pdf",
+  "note": "Kanalfolge aus JB-Lighting DMX-Protokoll (P10_Wash_DMX_Protocol.pdf); Bereiche für Shutter/Farbrad/Gobos/Prisma nach Handbuch. Mode 2 (16-Bit) nicht erfasst.",
+  "verified": true,
+  "modes": [
+   {
+    "name": "37CH Mode 1",
+    "channels": [
+     {
+      "name": "Pan",
+      "attr": "pan",
+      "byte": 0
+     },
+     {
+      "name": "Pan fine",
+      "attr": "pan",
+      "byte": 1
+     },
+     {
+      "name": "Tilt",
+      "attr": "tilt",
+      "byte": 0
+     },
+     {
+      "name": "Tilt fine",
+      "attr": "tilt",
+      "byte": 1
+     },
+     {
+      "name": "Control",
+      "attr": "control",
+      "byte": 0
+     },
+     {
+      "name": "Shutter",
+      "attr": "shutter",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 15,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 16,
+        "to": 95,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 96,
+        "to": 110,
+        "kind": "strobe",
+        "label": "Pulse >20 Hz (fast - slow)"
+       },
+       {
+        "from": 111,
+        "to": 111,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 112,
+        "to": 125,
+        "kind": "generic",
+        "label": "Fade with dimmer"
+       },
+       {
+        "from": 126,
+        "to": 126,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 128,
+        "to": 142,
+        "kind": "strobe",
+        "label": "Pulse <20 Hz (fast - slow)"
+       },
+       {
+        "from": 143,
+        "to": 143,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 144,
+        "to": 158,
+        "kind": "strobe",
+        "label": "Closing pulse"
+       },
+       {
+        "from": 159,
+        "to": 159,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 160,
+        "to": 174,
+        "kind": "generic",
+        "label": "Shutter fade 0 %"
+       },
+       {
+        "from": 175,
+        "to": 175,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 176,
+        "to": 190,
+        "kind": "generic",
+        "label": "Shutter fade 100 %"
+       },
+       {
+        "from": 191,
+        "to": 191,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 192,
+        "to": 222,
+        "kind": "strobe",
+        "label": "Random shutter"
+       },
+       {
+        "from": 223,
+        "to": 223,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 224,
+        "to": 254,
+        "kind": "generic",
+        "label": "Random shutter fade"
+       },
+       {
+        "from": 255,
+        "to": 255,
+        "kind": "open",
+        "label": "Open"
+       }
+      ]
+     },
+     {
+      "name": "Dimmer",
+      "attr": "dimmer",
+      "byte": 0
+     },
+     {
+      "name": "Focus",
+      "attr": "focus",
+      "byte": 0
+     },
+     {
+      "name": "Zoom",
+      "attr": "zoom",
+      "byte": 0
+     },
+     {
+      "name": "Reserved",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Reserved",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Iris",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Gobo wheel",
+      "attr": "gobo",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 7,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 8,
+        "to": 15,
+        "kind": "gobo",
+        "gobo": 1,
+        "label": "Gobo 1"
+       },
+       {
+        "from": 16,
+        "to": 23,
+        "kind": "gobo",
+        "gobo": 2,
+        "label": "Gobo 2"
+       },
+       {
+        "from": 24,
+        "to": 31,
+        "kind": "gobo",
+        "gobo": 3,
+        "label": "Gobo 3"
+       },
+       {
+        "from": 32,
+        "to": 39,
+        "kind": "gobo",
+        "gobo": 4,
+        "label": "Gobo 4"
+       },
+       {
+        "from": 40,
+        "to": 47,
+        "kind": "gobo",
+        "gobo": 5,
+        "label": "Gobo 5"
+       },
+       {
+        "from": 48,
+        "to": 55,
+        "kind": "gobo",
+        "gobo": 6,
+        "label": "Gobo 6"
+       },
+       {
+        "from": 56,
+        "to": 127,
+        "kind": "gobo",
+        "gobo": 7,
+        "label": "Gobo 7"
+       },
+       {
+        "from": 128,
+        "to": 191,
+        "kind": "generic",
+        "label": "Gobo shake"
+       }
+      ]
+     },
+     {
+      "name": "Gobo rotation",
+      "attr": "goboRotation",
+      "byte": 0
+     },
+     {
+      "name": "Blade 1a",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 1b",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 2a",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 2b",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 3a",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 3b",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 4a",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 4b",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade rotation",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Colour wheel 1",
+      "attr": "colorWheel",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 1,
+        "kind": "color",
+        "color": "#ffffff",
+        "label": "White"
+       },
+       {
+        "from": 4,
+        "to": 5,
+        "kind": "color",
+        "color": "#c0d8ff",
+        "label": "CTB"
+       },
+       {
+        "from": 8,
+        "to": 9,
+        "kind": "color",
+        "color": "#ff2010",
+        "label": "Red"
+       },
+       {
+        "from": 12,
+        "to": 13,
+        "kind": "color",
+        "color": "#ffe000",
+        "label": "Yellow"
+       },
+       {
+        "from": 16,
+        "to": 17,
+        "kind": "color",
+        "color": "#ff20c0",
+        "label": "Magenta"
+       },
+       {
+        "from": 20,
+        "to": 21,
+        "kind": "color",
+        "color": "#20ff40",
+        "label": "Green"
+       },
+       {
+        "from": 24,
+        "to": 25,
+        "kind": "color",
+        "color": "#ff8000",
+        "label": "Orange"
+       },
+       {
+        "from": 28,
+        "to": 29,
+        "kind": "color",
+        "color": "#fff4e0",
+        "label": "Hi CRI"
+       },
+       {
+        "from": 30,
+        "to": 63,
+        "kind": "color",
+        "color": "#ffc080",
+        "label": "CTO"
+       },
+       {
+        "from": 64,
+        "to": 191,
+        "kind": "generic",
+        "label": "Linear colours"
+       },
+       {
+        "from": 192,
+        "to": 255,
+        "kind": "generic",
+        "label": "Colour cycle"
+       }
+      ]
+     },
+     {
+      "name": "Colour wheel 2 (CTO/CTB)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Cyan",
+      "attr": "cyan",
+      "byte": 0
+     },
+     {
+      "name": "Magenta",
+      "attr": "magenta",
+      "byte": 0
+     },
+     {
+      "name": "Yellow",
+      "attr": "yellow",
+      "byte": 0
+     },
+     {
+      "name": "CTO",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "CTB",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Sparkle",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Sparkle speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Frost 1",
+      "attr": "frost",
+      "byte": 0
+     },
+     {
+      "name": "Frost 2",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Pan/tilt speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Effect speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Blackout move",
+      "attr": "control",
+      "byte": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "man": "JB-Lighting",
+  "key": "p9-spot",
+  "model": "P9 Spot",
+  "kind": "spot",
+  "deg": [
+   3.4,
+   54
+  ],
+  "pan": 540,
+  "tilt": 280,
+  "ch": [
+   29,
+   39
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:11",
+   "gobo2",
+   "gobor",
+   "prism",
+   "frost",
+   "focus",
+   "zoom",
+   "iris"
+  ],
+  "url": "https://www.jb-lighting.de/download/DMX-Protokolle/P9_DMX_Protocol.pdf",
+  "note": "Kanalfolge aus JB-Lighting DMX-Protokoll (P9_DMX_Protocol.pdf); Bereiche für Shutter/Farbrad/Gobos/Prisma nach Handbuch.",
+  "verified": true,
+  "modes": [
+   {
+    "name": "29CH Mode 1",
+    "channels": [
+     {
+      "name": "Pan",
+      "attr": "pan",
+      "byte": 0
+     },
+     {
+      "name": "Pan fine",
+      "attr": "pan",
+      "byte": 1
+     },
+     {
+      "name": "Tilt",
+      "attr": "tilt",
+      "byte": 0
+     },
+     {
+      "name": "Tilt fine",
+      "attr": "tilt",
+      "byte": 1
+     },
+     {
+      "name": "Control",
+      "attr": "control",
+      "byte": 0
+     },
+     {
+      "name": "Shutter",
+      "attr": "shutter",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 15,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 16,
+        "to": 95,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 96,
+        "to": 110,
+        "kind": "strobe",
+        "label": "Pulse >20 Hz (fast - slow)"
+       },
+       {
+        "from": 111,
+        "to": 111,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 112,
+        "to": 125,
+        "kind": "generic",
+        "label": "Fade with dimmer"
+       },
+       {
+        "from": 126,
+        "to": 126,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 128,
+        "to": 142,
+        "kind": "strobe",
+        "label": "Pulse <20 Hz (fast - slow)"
+       },
+       {
+        "from": 143,
+        "to": 143,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 144,
+        "to": 158,
+        "kind": "strobe",
+        "label": "Closing pulse"
+       },
+       {
+        "from": 159,
+        "to": 159,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 160,
+        "to": 174,
+        "kind": "generic",
+        "label": "Shutter fade 0 %"
+       },
+       {
+        "from": 175,
+        "to": 175,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 176,
+        "to": 190,
+        "kind": "generic",
+        "label": "Shutter fade 100 %"
+       },
+       {
+        "from": 191,
+        "to": 191,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 192,
+        "to": 222,
+        "kind": "strobe",
+        "label": "Random shutter"
+       },
+       {
+        "from": 223,
+        "to": 223,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 224,
+        "to": 254,
+        "kind": "generic",
+        "label": "Random shutter fade"
+       },
+       {
+        "from": 255,
+        "to": 255,
+        "kind": "open",
+        "label": "Open"
+       }
+      ]
+     },
+     {
+      "name": "Dimmer",
+      "attr": "dimmer",
+      "byte": 0
+     },
+     {
+      "name": "Focus",
+      "attr": "focus",
+      "byte": 0
+     },
+     {
+      "name": "Zoom",
+      "attr": "zoom",
+      "byte": 0
+     },
+     {
+      "name": "Autofocus distance",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Reserved",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Iris",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Gobo wheel 1",
+      "attr": "gobo",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 7,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 8,
+        "to": 15,
+        "kind": "gobo",
+        "gobo": 1,
+        "label": "Gobo 1"
+       },
+       {
+        "from": 16,
+        "to": 23,
+        "kind": "gobo",
+        "gobo": 2,
+        "label": "Gobo 2"
+       },
+       {
+        "from": 24,
+        "to": 31,
+        "kind": "gobo",
+        "gobo": 3,
+        "label": "Gobo 3"
+       },
+       {
+        "from": 32,
+        "to": 39,
+        "kind": "gobo",
+        "gobo": 4,
+        "label": "Gobo 4"
+       },
+       {
+        "from": 40,
+        "to": 47,
+        "kind": "gobo",
+        "gobo": 5,
+        "label": "Gobo 5"
+       },
+       {
+        "from": 48,
+        "to": 55,
+        "kind": "gobo",
+        "gobo": 6,
+        "label": "Gobo 6"
+       },
+       {
+        "from": 56,
+        "to": 63,
+        "kind": "gobo",
+        "gobo": 7,
+        "label": "Gobo 7"
+       },
+       {
+        "from": 64,
+        "to": 71,
+        "kind": "gobo",
+        "gobo": 8,
+        "label": "Gobo 8"
+       },
+       {
+        "from": 72,
+        "to": 79,
+        "kind": "gobo",
+        "gobo": 9,
+        "label": "Gobo 9"
+       },
+       {
+        "from": 80,
+        "to": 87,
+        "kind": "gobo",
+        "gobo": 10,
+        "label": "Gobo 10"
+       },
+       {
+        "from": 88,
+        "to": 191,
+        "kind": "gobo",
+        "gobo": 11,
+        "label": "Gobo 11"
+       },
+       {
+        "from": 192,
+        "to": 255,
+        "kind": "generic",
+        "label": "Wheel rotation"
+       }
+      ]
+     },
+     {
+      "name": "Gobo wheel 2",
+      "attr": "gobo",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 7,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 8,
+        "to": 15,
+        "kind": "gobo",
+        "gobo": 1,
+        "label": "Gobo 1"
+       },
+       {
+        "from": 16,
+        "to": 23,
+        "kind": "gobo",
+        "gobo": 2,
+        "label": "Gobo 2"
+       },
+       {
+        "from": 24,
+        "to": 31,
+        "kind": "gobo",
+        "gobo": 3,
+        "label": "Gobo 3"
+       },
+       {
+        "from": 32,
+        "to": 39,
+        "kind": "gobo",
+        "gobo": 4,
+        "label": "Gobo 4"
+       },
+       {
+        "from": 40,
+        "to": 47,
+        "kind": "gobo",
+        "gobo": 5,
+        "label": "Gobo 5"
+       },
+       {
+        "from": 48,
+        "to": 55,
+        "kind": "gobo",
+        "gobo": 6,
+        "label": "Gobo 6"
+       },
+       {
+        "from": 56,
+        "to": 127,
+        "kind": "gobo",
+        "gobo": 7,
+        "label": "Gobo 7"
+       },
+       {
+        "from": 128,
+        "to": 191,
+        "kind": "generic",
+        "label": "Gobo shake"
+       },
+       {
+        "from": 192,
+        "to": 255,
+        "kind": "generic",
+        "label": "Wheel rotation"
+       }
+      ]
+     },
+     {
+      "name": "Gobo 2 rotation",
+      "attr": "goboRotation",
+      "byte": 0
+     },
+     {
+      "name": "Colour wheel",
+      "attr": "colorWheel",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 1,
+        "kind": "color",
+        "color": "#ffffff",
+        "label": "White"
+       },
+       {
+        "from": 4,
+        "to": 5,
+        "kind": "color",
+        "color": "#c0d8ff",
+        "label": "CTB"
+       },
+       {
+        "from": 8,
+        "to": 9,
+        "kind": "color",
+        "color": "#ff2010",
+        "label": "Red"
+       },
+       {
+        "from": 12,
+        "to": 13,
+        "kind": "color",
+        "color": "#ffe000",
+        "label": "Yellow"
+       },
+       {
+        "from": 16,
+        "to": 17,
+        "kind": "color",
+        "color": "#ff20c0",
+        "label": "Magenta"
+       },
+       {
+        "from": 20,
+        "to": 21,
+        "kind": "color",
+        "color": "#20ff40",
+        "label": "Green"
+       },
+       {
+        "from": 24,
+        "to": 25,
+        "kind": "color",
+        "color": "#ff8000",
+        "label": "Orange"
+       },
+       {
+        "from": 28,
+        "to": 29,
+        "kind": "color",
+        "color": "#2040ff",
+        "label": "Blue"
+       },
+       {
+        "from": 32,
+        "to": 33,
+        "kind": "color",
+        "color": "#ff80b0",
+        "label": "Pink"
+       },
+       {
+        "from": 36,
+        "to": 37,
+        "kind": "color",
+        "color": "#fff4e0",
+        "label": "CRI"
+       },
+       {
+        "from": 40,
+        "to": 63,
+        "kind": "color",
+        "color": "#ffc080",
+        "label": "CTO"
+       },
+       {
+        "from": 64,
+        "to": 191,
+        "kind": "generic",
+        "label": "Linear colours"
+       },
+       {
+        "from": 192,
+        "to": 255,
+        "kind": "generic",
+        "label": "Colour cycle"
+       }
+      ]
+     },
+     {
+      "name": "Cyan",
+      "attr": "cyan",
+      "byte": 0
+     },
+     {
+      "name": "Magenta",
+      "attr": "magenta",
+      "byte": 0
+     },
+     {
+      "name": "Yellow",
+      "attr": "yellow",
+      "byte": 0
+     },
+     {
+      "name": "CTO",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Sparkle",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Sparkle speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Prism 1",
+      "attr": "prism",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 7,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 8,
+        "to": 255,
+        "kind": "prism",
+        "label": "Prism 1"
+       }
+      ]
+     },
+     {
+      "name": "Prism 1 rotation",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Frost 1",
+      "attr": "frost",
+      "byte": 0
+     },
+     {
+      "name": "Effect macro",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Pan/tilt speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Effect speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Blackout move",
+      "attr": "control",
+      "byte": 0
+     }
+    ]
+   },
+   {
+    "name": "39CH Mode 2",
+    "channels": [
+     {
+      "name": "Pan",
+      "attr": "pan",
+      "byte": 0
+     },
+     {
+      "name": "Pan fine",
+      "attr": "pan",
+      "byte": 1
+     },
+     {
+      "name": "Tilt",
+      "attr": "tilt",
+      "byte": 0
+     },
+     {
+      "name": "Tilt fine",
+      "attr": "tilt",
+      "byte": 1
+     },
+     {
+      "name": "Control",
+      "attr": "control",
+      "byte": 0
+     },
+     {
+      "name": "Shutter",
+      "attr": "shutter",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 15,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 16,
+        "to": 95,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 96,
+        "to": 110,
+        "kind": "strobe",
+        "label": "Pulse >20 Hz (fast - slow)"
+       },
+       {
+        "from": 111,
+        "to": 111,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 112,
+        "to": 125,
+        "kind": "generic",
+        "label": "Fade with dimmer"
+       },
+       {
+        "from": 126,
+        "to": 126,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 128,
+        "to": 142,
+        "kind": "strobe",
+        "label": "Pulse <20 Hz (fast - slow)"
+       },
+       {
+        "from": 143,
+        "to": 143,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 144,
+        "to": 158,
+        "kind": "strobe",
+        "label": "Closing pulse"
+       },
+       {
+        "from": 159,
+        "to": 159,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 160,
+        "to": 174,
+        "kind": "generic",
+        "label": "Shutter fade 0 %"
+       },
+       {
+        "from": 175,
+        "to": 175,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 176,
+        "to": 190,
+        "kind": "generic",
+        "label": "Shutter fade 100 %"
+       },
+       {
+        "from": 191,
+        "to": 191,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 192,
+        "to": 222,
+        "kind": "strobe",
+        "label": "Random shutter"
+       },
+       {
+        "from": 223,
+        "to": 223,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 224,
+        "to": 254,
+        "kind": "generic",
+        "label": "Random shutter fade"
+       },
+       {
+        "from": 255,
+        "to": 255,
+        "kind": "open",
+        "label": "Open"
+       }
+      ]
+     },
+     {
+      "name": "Dimmer",
+      "attr": "dimmer",
+      "byte": 0
+     },
+     {
+      "name": "Dimmer fine",
+      "attr": "dimmer",
+      "byte": 1
+     },
+     {
+      "name": "Focus",
+      "attr": "focus",
+      "byte": 0
+     },
+     {
+      "name": "Focus fine",
+      "attr": "focus",
+      "byte": 1
+     },
+     {
+      "name": "Zoom",
+      "attr": "zoom",
+      "byte": 0
+     },
+     {
+      "name": "Zoom fine",
+      "attr": "zoom",
+      "byte": 1
+     },
+     {
+      "name": "Autofocus distance",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Reserved",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Iris",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Iris fine",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Gobo wheel 1",
+      "attr": "gobo",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 7,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 8,
+        "to": 15,
+        "kind": "gobo",
+        "gobo": 1,
+        "label": "Gobo 1"
+       },
+       {
+        "from": 16,
+        "to": 23,
+        "kind": "gobo",
+        "gobo": 2,
+        "label": "Gobo 2"
+       },
+       {
+        "from": 24,
+        "to": 31,
+        "kind": "gobo",
+        "gobo": 3,
+        "label": "Gobo 3"
+       },
+       {
+        "from": 32,
+        "to": 39,
+        "kind": "gobo",
+        "gobo": 4,
+        "label": "Gobo 4"
+       },
+       {
+        "from": 40,
+        "to": 47,
+        "kind": "gobo",
+        "gobo": 5,
+        "label": "Gobo 5"
+       },
+       {
+        "from": 48,
+        "to": 55,
+        "kind": "gobo",
+        "gobo": 6,
+        "label": "Gobo 6"
+       },
+       {
+        "from": 56,
+        "to": 63,
+        "kind": "gobo",
+        "gobo": 7,
+        "label": "Gobo 7"
+       },
+       {
+        "from": 64,
+        "to": 71,
+        "kind": "gobo",
+        "gobo": 8,
+        "label": "Gobo 8"
+       },
+       {
+        "from": 72,
+        "to": 79,
+        "kind": "gobo",
+        "gobo": 9,
+        "label": "Gobo 9"
+       },
+       {
+        "from": 80,
+        "to": 87,
+        "kind": "gobo",
+        "gobo": 10,
+        "label": "Gobo 10"
+       },
+       {
+        "from": 88,
+        "to": 191,
+        "kind": "gobo",
+        "gobo": 11,
+        "label": "Gobo 11"
+       },
+       {
+        "from": 192,
+        "to": 255,
+        "kind": "generic",
+        "label": "Wheel rotation"
+       }
+      ]
+     },
+     {
+      "name": "Gobo wheel 2",
+      "attr": "gobo",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 7,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 8,
+        "to": 15,
+        "kind": "gobo",
+        "gobo": 1,
+        "label": "Gobo 1"
+       },
+       {
+        "from": 16,
+        "to": 23,
+        "kind": "gobo",
+        "gobo": 2,
+        "label": "Gobo 2"
+       },
+       {
+        "from": 24,
+        "to": 31,
+        "kind": "gobo",
+        "gobo": 3,
+        "label": "Gobo 3"
+       },
+       {
+        "from": 32,
+        "to": 39,
+        "kind": "gobo",
+        "gobo": 4,
+        "label": "Gobo 4"
+       },
+       {
+        "from": 40,
+        "to": 47,
+        "kind": "gobo",
+        "gobo": 5,
+        "label": "Gobo 5"
+       },
+       {
+        "from": 48,
+        "to": 55,
+        "kind": "gobo",
+        "gobo": 6,
+        "label": "Gobo 6"
+       },
+       {
+        "from": 56,
+        "to": 127,
+        "kind": "gobo",
+        "gobo": 7,
+        "label": "Gobo 7"
+       },
+       {
+        "from": 128,
+        "to": 191,
+        "kind": "generic",
+        "label": "Gobo shake"
+       },
+       {
+        "from": 192,
+        "to": 255,
+        "kind": "generic",
+        "label": "Wheel rotation"
+       }
+      ]
+     },
+     {
+      "name": "Gobo 2 rotation",
+      "attr": "goboRotation",
+      "byte": 0
+     },
+     {
+      "name": "Gobo 2 rotation fine",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Colour wheel",
+      "attr": "colorWheel",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 1,
+        "kind": "color",
+        "color": "#ffffff",
+        "label": "White"
+       },
+       {
+        "from": 4,
+        "to": 5,
+        "kind": "color",
+        "color": "#c0d8ff",
+        "label": "CTB"
+       },
+       {
+        "from": 8,
+        "to": 9,
+        "kind": "color",
+        "color": "#ff2010",
+        "label": "Red"
+       },
+       {
+        "from": 12,
+        "to": 13,
+        "kind": "color",
+        "color": "#ffe000",
+        "label": "Yellow"
+       },
+       {
+        "from": 16,
+        "to": 17,
+        "kind": "color",
+        "color": "#ff20c0",
+        "label": "Magenta"
+       },
+       {
+        "from": 20,
+        "to": 21,
+        "kind": "color",
+        "color": "#20ff40",
+        "label": "Green"
+       },
+       {
+        "from": 24,
+        "to": 25,
+        "kind": "color",
+        "color": "#ff8000",
+        "label": "Orange"
+       },
+       {
+        "from": 28,
+        "to": 29,
+        "kind": "color",
+        "color": "#2040ff",
+        "label": "Blue"
+       },
+       {
+        "from": 32,
+        "to": 33,
+        "kind": "color",
+        "color": "#ff80b0",
+        "label": "Pink"
+       },
+       {
+        "from": 36,
+        "to": 37,
+        "kind": "color",
+        "color": "#fff4e0",
+        "label": "CRI"
+       },
+       {
+        "from": 40,
+        "to": 63,
+        "kind": "color",
+        "color": "#ffc080",
+        "label": "CTO"
+       },
+       {
+        "from": 64,
+        "to": 191,
+        "kind": "generic",
+        "label": "Linear colours"
+       },
+       {
+        "from": 192,
+        "to": 255,
+        "kind": "generic",
+        "label": "Colour cycle"
+       }
+      ]
+     },
+     {
+      "name": "Cyan",
+      "attr": "cyan",
+      "byte": 0
+     },
+     {
+      "name": "Cyan fine",
+      "attr": "cyan",
+      "byte": 1
+     },
+     {
+      "name": "Magenta",
+      "attr": "magenta",
+      "byte": 0
+     },
+     {
+      "name": "Magenta fine",
+      "attr": "magenta",
+      "byte": 1
+     },
+     {
+      "name": "Yellow",
+      "attr": "yellow",
+      "byte": 0
+     },
+     {
+      "name": "Yellow fine",
+      "attr": "yellow",
+      "byte": 1
+     },
+     {
+      "name": "CTO",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "CTO fine",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Sparkle",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Sparkle speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Prism 1",
+      "attr": "prism",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 7,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 8,
+        "to": 255,
+        "kind": "prism",
+        "label": "Prism 1"
+       }
+      ]
+     },
+     {
+      "name": "Prism 1 rotation",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Prism 1 rotation fine",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Frost 1",
+      "attr": "frost",
+      "byte": 0
+     },
+     {
+      "name": "Effect macro",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Pan/tilt speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Effect speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Blackout move",
+      "attr": "control",
+      "byte": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "man": "JB-Lighting",
+  "key": "p5-beamspot",
+  "model": "P5 Beamspot",
+  "kind": "hybrid",
+  "deg": [
+   3.4,
+   54
+  ],
+  "pan": 540,
+  "tilt": 280,
+  "ch": [
+   25,
+   32
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:11",
+   "gobo2",
+   "gobor",
+   "prism",
+   "frost",
+   "focus",
+   "zoom"
+  ],
+  "url": "https://www.jb-lighting.de/download/DMX-Protokolle/P5_DMX_Protocol.pdf",
+  "note": "Kanalfolge aus JB-Lighting DMX-Protokoll (P5_DMX_Protocol.pdf, Version 1.06); Bereiche für Shutter/Farbrad/Gobos/Prisma nach Handbuch.",
+  "verified": true,
+  "modes": [
+   {
+    "name": "25CH Mode 1",
+    "channels": [
+     {
+      "name": "Pan",
+      "attr": "pan",
+      "byte": 0
+     },
+     {
+      "name": "Pan fine",
+      "attr": "pan",
+      "byte": 1
+     },
+     {
+      "name": "Tilt",
+      "attr": "tilt",
+      "byte": 0
+     },
+     {
+      "name": "Tilt fine",
+      "attr": "tilt",
+      "byte": 1
+     },
+     {
+      "name": "Control",
+      "attr": "control",
+      "byte": 0
+     },
+     {
+      "name": "Shutter",
+      "attr": "shutter",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 15,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 16,
+        "to": 95,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 96,
+        "to": 110,
+        "kind": "strobe",
+        "label": "Pulse >20 Hz (fast - slow)"
+       },
+       {
+        "from": 111,
+        "to": 111,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 112,
+        "to": 125,
+        "kind": "generic",
+        "label": "Fade with dimmer"
+       },
+       {
+        "from": 126,
+        "to": 126,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 128,
+        "to": 142,
+        "kind": "strobe",
+        "label": "Pulse <20 Hz (fast - slow)"
+       },
+       {
+        "from": 143,
+        "to": 143,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 144,
+        "to": 158,
+        "kind": "strobe",
+        "label": "Closing pulse"
+       },
+       {
+        "from": 159,
+        "to": 159,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 160,
+        "to": 174,
+        "kind": "generic",
+        "label": "Shutter fade 0 %"
+       },
+       {
+        "from": 175,
+        "to": 175,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 176,
+        "to": 190,
+        "kind": "generic",
+        "label": "Shutter fade 100 %"
+       },
+       {
+        "from": 191,
+        "to": 191,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 192,
+        "to": 222,
+        "kind": "strobe",
+        "label": "Random shutter"
+       },
+       {
+        "from": 223,
+        "to": 223,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 224,
+        "to": 254,
+        "kind": "generic",
+        "label": "Random shutter fade"
+       },
+       {
+        "from": 255,
+        "to": 255,
+        "kind": "open",
+        "label": "Open"
+       }
+      ]
+     },
+     {
+      "name": "Dimmer",
+      "attr": "dimmer",
+      "byte": 0
+     },
+     {
+      "name": "Focus",
+      "attr": "focus",
+      "byte": 0
+     },
+     {
+      "name": "Zoom",
+      "attr": "zoom",
+      "byte": 0
+     },
+     {
+      "name": "Gobo wheel 1",
+      "attr": "gobo",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 7,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 8,
+        "to": 15,
+        "kind": "gobo",
+        "gobo": 1,
+        "label": "Bamboo 2"
+       },
+       {
+        "from": 16,
+        "to": 23,
+        "kind": "gobo",
+        "gobo": 2,
+        "label": "Mystic Knot"
+       },
+       {
+        "from": 24,
+        "to": 31,
+        "kind": "gobo",
+        "gobo": 3,
+        "label": "Crescent"
+       },
+       {
+        "from": 32,
+        "to": 39,
+        "kind": "gobo",
+        "gobo": 4,
+        "label": "Breakup small"
+       },
+       {
+        "from": 40,
+        "to": 47,
+        "kind": "gobo",
+        "gobo": 5,
+        "label": "8 rings"
+       },
+       {
+        "from": 48,
+        "to": 55,
+        "kind": "gobo",
+        "gobo": 6,
+        "label": "Circle"
+       },
+       {
+        "from": 56,
+        "to": 63,
+        "kind": "gobo",
+        "gobo": 7,
+        "label": "Square"
+       },
+       {
+        "from": 64,
+        "to": 71,
+        "kind": "gobo",
+        "gobo": 8,
+        "label": "Dash horizontal"
+       },
+       {
+        "from": 72,
+        "to": 79,
+        "kind": "gobo",
+        "gobo": 9,
+        "label": "Dash vertical"
+       },
+       {
+        "from": 80,
+        "to": 87,
+        "kind": "gobo",
+        "gobo": 10,
+        "label": "Dots"
+       },
+       {
+        "from": 88,
+        "to": 191,
+        "kind": "gobo",
+        "gobo": 11,
+        "label": "Reducer"
+       },
+       {
+        "from": 192,
+        "to": 255,
+        "kind": "generic",
+        "label": "Wheel rotation"
+       }
+      ]
+     },
+     {
+      "name": "Gobo wheel 2",
+      "attr": "gobo",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 7,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 8,
+        "to": 15,
+        "kind": "gobo",
+        "gobo": 1,
+        "label": "Point Line"
+       },
+       {
+        "from": 16,
+        "to": 23,
+        "kind": "gobo",
+        "gobo": 2,
+        "label": "Sonar"
+       },
+       {
+        "from": 24,
+        "to": 31,
+        "kind": "gobo",
+        "gobo": 3,
+        "label": "Scorpion"
+       },
+       {
+        "from": 32,
+        "to": 39,
+        "kind": "gobo",
+        "gobo": 4,
+        "label": "Nightsky"
+       },
+       {
+        "from": 40,
+        "to": 47,
+        "kind": "gobo",
+        "gobo": 5,
+        "label": "Waves"
+       },
+       {
+        "from": 48,
+        "to": 55,
+        "kind": "gobo",
+        "gobo": 6,
+        "label": "Multicolor"
+       },
+       {
+        "from": 56,
+        "to": 127,
+        "kind": "gobo",
+        "gobo": 7,
+        "label": "Waterdrop"
+       },
+       {
+        "from": 128,
+        "to": 191,
+        "kind": "generic",
+        "label": "Gobo shake"
+       },
+       {
+        "from": 192,
+        "to": 255,
+        "kind": "generic",
+        "label": "Wheel rotation"
+       }
+      ]
+     },
+     {
+      "name": "Gobo 2 rotation",
+      "attr": "goboRotation",
+      "byte": 0
+     },
+     {
+      "name": "Colour wheel",
+      "attr": "colorWheel",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 1,
+        "kind": "color",
+        "color": "#ffffff",
+        "label": "White"
+       },
+       {
+        "from": 4,
+        "to": 5,
+        "kind": "color",
+        "color": "#c0d8ff",
+        "label": "CTB"
+       },
+       {
+        "from": 8,
+        "to": 9,
+        "kind": "color",
+        "color": "#ff2010",
+        "label": "Red"
+       },
+       {
+        "from": 12,
+        "to": 13,
+        "kind": "color",
+        "color": "#ffe000",
+        "label": "Yellow"
+       },
+       {
+        "from": 16,
+        "to": 17,
+        "kind": "color",
+        "color": "#ff20c0",
+        "label": "Magenta"
+       },
+       {
+        "from": 20,
+        "to": 21,
+        "kind": "color",
+        "color": "#20ff40",
+        "label": "Green"
+       },
+       {
+        "from": 24,
+        "to": 25,
+        "kind": "color",
+        "color": "#ff8000",
+        "label": "Orange"
+       },
+       {
+        "from": 28,
+        "to": 29,
+        "kind": "color",
+        "color": "#1020c0",
+        "label": "Dark Blue"
+       },
+       {
+        "from": 32,
+        "to": 33,
+        "kind": "color",
+        "color": "#ff80b0",
+        "label": "Pink"
+       },
+       {
+        "from": 36,
+        "to": 37,
+        "kind": "color",
+        "color": "#7010ff",
+        "label": "UV"
+       },
+       {
+        "from": 40,
+        "to": 41,
+        "kind": "color",
+        "color": "#ffc080",
+        "label": "CTO"
+       },
+       {
+        "from": 44,
+        "to": 45,
+        "kind": "color",
+        "color": "#fff4e0",
+        "label": "High CRI"
+       },
+       {
+        "from": 64,
+        "to": 191,
+        "kind": "generic",
+        "label": "Linear colours"
+       },
+       {
+        "from": 192,
+        "to": 255,
+        "kind": "generic",
+        "label": "Colour cycle"
+       }
+      ]
+     },
+     {
+      "name": "Cyan",
+      "attr": "cyan",
+      "byte": 0
+     },
+     {
+      "name": "Magenta",
+      "attr": "magenta",
+      "byte": 0
+     },
+     {
+      "name": "Yellow",
+      "attr": "yellow",
+      "byte": 0
+     },
+     {
+      "name": "CTC",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Black body shift (tint)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Prism 1",
+      "attr": "prism",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 7,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 8,
+        "to": 15,
+        "kind": "prism",
+        "label": "3-facet circular"
+       },
+       {
+        "from": 16,
+        "to": 39,
+        "kind": "generic",
+        "label": "Prism steps"
+       },
+       {
+        "from": 40,
+        "to": 255,
+        "kind": "prism",
+        "label": "3-facet circular"
+       }
+      ]
+     },
+     {
+      "name": "Prism 1 rotation",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Frost 1",
+      "attr": "frost",
+      "byte": 0
+     },
+     {
+      "name": "Pan/tilt speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Effect speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Blackout move",
+      "attr": "control",
+      "byte": 0
+     },
+     {
+      "name": "Reserved",
+      "attr": "other",
+      "byte": 0
+     }
+    ]
+   },
+   {
+    "name": "32CH Mode 2",
+    "channels": [
+     {
+      "name": "Pan",
+      "attr": "pan",
+      "byte": 0
+     },
+     {
+      "name": "Pan fine",
+      "attr": "pan",
+      "byte": 1
+     },
+     {
+      "name": "Tilt",
+      "attr": "tilt",
+      "byte": 0
+     },
+     {
+      "name": "Tilt fine",
+      "attr": "tilt",
+      "byte": 1
+     },
+     {
+      "name": "Control",
+      "attr": "control",
+      "byte": 0
+     },
+     {
+      "name": "Shutter",
+      "attr": "shutter",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 15,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 16,
+        "to": 95,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 96,
+        "to": 110,
+        "kind": "strobe",
+        "label": "Pulse >20 Hz (fast - slow)"
+       },
+       {
+        "from": 111,
+        "to": 111,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 112,
+        "to": 125,
+        "kind": "generic",
+        "label": "Fade with dimmer"
+       },
+       {
+        "from": 126,
+        "to": 126,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 128,
+        "to": 142,
+        "kind": "strobe",
+        "label": "Pulse <20 Hz (fast - slow)"
+       },
+       {
+        "from": 143,
+        "to": 143,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 144,
+        "to": 158,
+        "kind": "strobe",
+        "label": "Closing pulse"
+       },
+       {
+        "from": 159,
+        "to": 159,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 160,
+        "to": 174,
+        "kind": "generic",
+        "label": "Shutter fade 0 %"
+       },
+       {
+        "from": 175,
+        "to": 175,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 176,
+        "to": 190,
+        "kind": "generic",
+        "label": "Shutter fade 100 %"
+       },
+       {
+        "from": 191,
+        "to": 191,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 192,
+        "to": 222,
+        "kind": "strobe",
+        "label": "Random shutter"
+       },
+       {
+        "from": 223,
+        "to": 223,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 224,
+        "to": 254,
+        "kind": "generic",
+        "label": "Random shutter fade"
+       },
+       {
+        "from": 255,
+        "to": 255,
+        "kind": "open",
+        "label": "Open"
+       }
+      ]
+     },
+     {
+      "name": "Dimmer",
+      "attr": "dimmer",
+      "byte": 0
+     },
+     {
+      "name": "Dimmer fine",
+      "attr": "dimmer",
+      "byte": 1
+     },
+     {
+      "name": "Focus",
+      "attr": "focus",
+      "byte": 0
+     },
+     {
+      "name": "Focus fine",
+      "attr": "focus",
+      "byte": 1
+     },
+     {
+      "name": "Zoom",
+      "attr": "zoom",
+      "byte": 0
+     },
+     {
+      "name": "Zoom fine",
+      "attr": "zoom",
+      "byte": 1
+     },
+     {
+      "name": "Gobo wheel 1",
+      "attr": "gobo",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 7,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 8,
+        "to": 15,
+        "kind": "gobo",
+        "gobo": 1,
+        "label": "Bamboo 2"
+       },
+       {
+        "from": 16,
+        "to": 23,
+        "kind": "gobo",
+        "gobo": 2,
+        "label": "Mystic Knot"
+       },
+       {
+        "from": 24,
+        "to": 31,
+        "kind": "gobo",
+        "gobo": 3,
+        "label": "Crescent"
+       },
+       {
+        "from": 32,
+        "to": 39,
+        "kind": "gobo",
+        "gobo": 4,
+        "label": "Breakup small"
+       },
+       {
+        "from": 40,
+        "to": 47,
+        "kind": "gobo",
+        "gobo": 5,
+        "label": "8 rings"
+       },
+       {
+        "from": 48,
+        "to": 55,
+        "kind": "gobo",
+        "gobo": 6,
+        "label": "Circle"
+       },
+       {
+        "from": 56,
+        "to": 63,
+        "kind": "gobo",
+        "gobo": 7,
+        "label": "Square"
+       },
+       {
+        "from": 64,
+        "to": 71,
+        "kind": "gobo",
+        "gobo": 8,
+        "label": "Dash horizontal"
+       },
+       {
+        "from": 72,
+        "to": 79,
+        "kind": "gobo",
+        "gobo": 9,
+        "label": "Dash vertical"
+       },
+       {
+        "from": 80,
+        "to": 87,
+        "kind": "gobo",
+        "gobo": 10,
+        "label": "Dots"
+       },
+       {
+        "from": 88,
+        "to": 191,
+        "kind": "gobo",
+        "gobo": 11,
+        "label": "Reducer"
+       },
+       {
+        "from": 192,
+        "to": 255,
+        "kind": "generic",
+        "label": "Wheel rotation"
+       }
+      ]
+     },
+     {
+      "name": "Gobo wheel 2",
+      "attr": "gobo",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 7,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 8,
+        "to": 15,
+        "kind": "gobo",
+        "gobo": 1,
+        "label": "Point Line"
+       },
+       {
+        "from": 16,
+        "to": 23,
+        "kind": "gobo",
+        "gobo": 2,
+        "label": "Sonar"
+       },
+       {
+        "from": 24,
+        "to": 31,
+        "kind": "gobo",
+        "gobo": 3,
+        "label": "Scorpion"
+       },
+       {
+        "from": 32,
+        "to": 39,
+        "kind": "gobo",
+        "gobo": 4,
+        "label": "Nightsky"
+       },
+       {
+        "from": 40,
+        "to": 47,
+        "kind": "gobo",
+        "gobo": 5,
+        "label": "Waves"
+       },
+       {
+        "from": 48,
+        "to": 55,
+        "kind": "gobo",
+        "gobo": 6,
+        "label": "Multicolor"
+       },
+       {
+        "from": 56,
+        "to": 127,
+        "kind": "gobo",
+        "gobo": 7,
+        "label": "Waterdrop"
+       },
+       {
+        "from": 128,
+        "to": 191,
+        "kind": "generic",
+        "label": "Gobo shake"
+       },
+       {
+        "from": 192,
+        "to": 255,
+        "kind": "generic",
+        "label": "Wheel rotation"
+       }
+      ]
+     },
+     {
+      "name": "Gobo 2 rotation",
+      "attr": "goboRotation",
+      "byte": 0
+     },
+     {
+      "name": "Gobo 2 rotation fine",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Colour wheel",
+      "attr": "colorWheel",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 1,
+        "kind": "color",
+        "color": "#ffffff",
+        "label": "White"
+       },
+       {
+        "from": 4,
+        "to": 5,
+        "kind": "color",
+        "color": "#c0d8ff",
+        "label": "CTB"
+       },
+       {
+        "from": 8,
+        "to": 9,
+        "kind": "color",
+        "color": "#ff2010",
+        "label": "Red"
+       },
+       {
+        "from": 12,
+        "to": 13,
+        "kind": "color",
+        "color": "#ffe000",
+        "label": "Yellow"
+       },
+       {
+        "from": 16,
+        "to": 17,
+        "kind": "color",
+        "color": "#ff20c0",
+        "label": "Magenta"
+       },
+       {
+        "from": 20,
+        "to": 21,
+        "kind": "color",
+        "color": "#20ff40",
+        "label": "Green"
+       },
+       {
+        "from": 24,
+        "to": 25,
+        "kind": "color",
+        "color": "#ff8000",
+        "label": "Orange"
+       },
+       {
+        "from": 28,
+        "to": 29,
+        "kind": "color",
+        "color": "#1020c0",
+        "label": "Dark Blue"
+       },
+       {
+        "from": 32,
+        "to": 33,
+        "kind": "color",
+        "color": "#ff80b0",
+        "label": "Pink"
+       },
+       {
+        "from": 36,
+        "to": 37,
+        "kind": "color",
+        "color": "#7010ff",
+        "label": "UV"
+       },
+       {
+        "from": 40,
+        "to": 41,
+        "kind": "color",
+        "color": "#ffc080",
+        "label": "CTO"
+       },
+       {
+        "from": 44,
+        "to": 45,
+        "kind": "color",
+        "color": "#fff4e0",
+        "label": "High CRI"
+       },
+       {
+        "from": 64,
+        "to": 191,
+        "kind": "generic",
+        "label": "Linear colours"
+       },
+       {
+        "from": 192,
+        "to": 255,
+        "kind": "generic",
+        "label": "Colour cycle"
+       }
+      ]
+     },
+     {
+      "name": "Cyan",
+      "attr": "cyan",
+      "byte": 0
+     },
+     {
+      "name": "Cyan fine",
+      "attr": "cyan",
+      "byte": 1
+     },
+     {
+      "name": "Magenta",
+      "attr": "magenta",
+      "byte": 0
+     },
+     {
+      "name": "Magenta fine",
+      "attr": "magenta",
+      "byte": 1
+     },
+     {
+      "name": "Yellow",
+      "attr": "yellow",
+      "byte": 0
+     },
+     {
+      "name": "Yellow fine",
+      "attr": "yellow",
+      "byte": 1
+     },
+     {
+      "name": "CTC",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Black body shift (tint)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Prism 1",
+      "attr": "prism",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 7,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 8,
+        "to": 15,
+        "kind": "prism",
+        "label": "3-facet circular"
+       },
+       {
+        "from": 16,
+        "to": 39,
+        "kind": "generic",
+        "label": "Prism steps"
+       },
+       {
+        "from": 40,
+        "to": 255,
+        "kind": "prism",
+        "label": "3-facet circular"
+       }
+      ]
+     },
+     {
+      "name": "Prism 1 rotation",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Prism 1 rotation fine",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Frost 1",
+      "attr": "frost",
+      "byte": 0
+     },
+     {
+      "name": "Blackout move",
+      "attr": "control",
+      "byte": 0
+     },
+     {
+      "name": "Reserved",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Reserved",
+      "attr": "other",
+      "byte": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "man": "JB-Lighting",
+  "key": "sparx-9",
+  "model": "Sparx 9",
+  "kind": "wash",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   2.3,
+   55
+  ],
+  "pan": 540,
+  "tilt": 234,
+  "ch": [
+   32,
+   21,
+   49
+  ],
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.jb-lighting.de/download/DMX-Protokolle/Sparx_9_DMX_Protocol.pdf",
+  "note": "Kanalfolge aus JB-Lighting DMX-Protokoll (Sparx_9_DMX_Protocol.pdf); Bereiche für Shutter/Farbrad/Gobos/Prisma nach Handbuch. Einzelpixel-Block (7 × RGBW, 28 Kanäle) wird an jeden Modus angehängt; hier mit Mode 3.",
+  "verified": true,
+  "modes": [
+   {
+    "name": "32CH Mode 1",
+    "channels": [
+     {
+      "name": "Pan",
+      "attr": "pan",
+      "byte": 0
+     },
+     {
+      "name": "Pan fine",
+      "attr": "pan",
+      "byte": 1
+     },
+     {
+      "name": "Tilt",
+      "attr": "tilt",
+      "byte": 0
+     },
+     {
+      "name": "Tilt fine",
+      "attr": "tilt",
+      "byte": 1
+     },
+     {
+      "name": "Control",
+      "attr": "control",
+      "byte": 0
+     },
+     {
+      "name": "Shutter",
+      "attr": "shutter",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 15,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 16,
+        "to": 95,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 96,
+        "to": 110,
+        "kind": "strobe",
+        "label": "Pulse >20 Hz (fast - slow)"
+       },
+       {
+        "from": 111,
+        "to": 111,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 112,
+        "to": 125,
+        "kind": "generic",
+        "label": "Fade with dimmer"
+       },
+       {
+        "from": 126,
+        "to": 126,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 128,
+        "to": 142,
+        "kind": "strobe",
+        "label": "Pulse <20 Hz (fast - slow)"
+       },
+       {
+        "from": 143,
+        "to": 143,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 144,
+        "to": 158,
+        "kind": "strobe",
+        "label": "Closing pulse"
+       },
+       {
+        "from": 159,
+        "to": 159,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 160,
+        "to": 174,
+        "kind": "generic",
+        "label": "Shutter fade 0 %"
+       },
+       {
+        "from": 175,
+        "to": 175,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 176,
+        "to": 190,
+        "kind": "generic",
+        "label": "Shutter fade 100 %"
+       },
+       {
+        "from": 191,
+        "to": 191,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 192,
+        "to": 222,
+        "kind": "strobe",
+        "label": "Random shutter"
+       },
+       {
+        "from": 223,
+        "to": 223,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 224,
+        "to": 254,
+        "kind": "generic",
+        "label": "Random shutter fade"
+       },
+       {
+        "from": 255,
+        "to": 255,
+        "kind": "open",
+        "label": "Open"
+       }
+      ]
+     },
+     {
+      "name": "Dimmer (master)",
+      "attr": "dimmer",
+      "byte": 0
+     },
+     {
+      "name": "Zoom (master)",
+      "attr": "zoom",
+      "byte": 0
+     },
+     {
+      "name": "CTO",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blackout move",
+      "attr": "control",
+      "byte": 0
+     },
+     {
+      "name": "Layer 1/2 crossfade",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Dimmer sub 1 (inner zone)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Dimmer sub 2 (outer ring)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Colour wheel emulation",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Red background",
+      "attr": "red",
+      "byte": 0
+     },
+     {
+      "name": "Green background",
+      "attr": "green",
+      "byte": 0
+     },
+     {
+      "name": "Blue background",
+      "attr": "blue",
+      "byte": 0
+     },
+     {
+      "name": "White background",
+      "attr": "white",
+      "byte": 0
+     },
+     {
+      "name": "Red foreground (pattern)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Green foreground (pattern)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blue foreground (pattern)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "White foreground (pattern)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Sparkle",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Sparkle speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Effect macro mode layer 1",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Effect macro layer 1",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Effect macro speed layer 1",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Effect macro mode layer 2",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Effect macro layer 2",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Effect macro speed layer 2",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Black body shift (tint)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Transition pixel mode",
+      "attr": "other",
+      "byte": 0
+     }
+    ]
+   },
+   {
+    "name": "21CH Mode 3",
+    "channels": [
+     {
+      "name": "Pan",
+      "attr": "pan",
+      "byte": 0
+     },
+     {
+      "name": "Pan fine",
+      "attr": "pan",
+      "byte": 1
+     },
+     {
+      "name": "Tilt",
+      "attr": "tilt",
+      "byte": 0
+     },
+     {
+      "name": "Tilt fine",
+      "attr": "tilt",
+      "byte": 1
+     },
+     {
+      "name": "Control",
+      "attr": "control",
+      "byte": 0
+     },
+     {
+      "name": "Shutter",
+      "attr": "shutter",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 15,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 16,
+        "to": 95,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 96,
+        "to": 110,
+        "kind": "strobe",
+        "label": "Pulse >20 Hz (fast - slow)"
+       },
+       {
+        "from": 111,
+        "to": 111,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 112,
+        "to": 125,
+        "kind": "generic",
+        "label": "Fade with dimmer"
+       },
+       {
+        "from": 126,
+        "to": 126,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 128,
+        "to": 142,
+        "kind": "strobe",
+        "label": "Pulse <20 Hz (fast - slow)"
+       },
+       {
+        "from": 143,
+        "to": 143,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 144,
+        "to": 158,
+        "kind": "strobe",
+        "label": "Closing pulse"
+       },
+       {
+        "from": 159,
+        "to": 159,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 160,
+        "to": 174,
+        "kind": "generic",
+        "label": "Shutter fade 0 %"
+       },
+       {
+        "from": 175,
+        "to": 175,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 176,
+        "to": 190,
+        "kind": "generic",
+        "label": "Shutter fade 100 %"
+       },
+       {
+        "from": 191,
+        "to": 191,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 192,
+        "to": 222,
+        "kind": "strobe",
+        "label": "Random shutter"
+       },
+       {
+        "from": 223,
+        "to": 223,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 224,
+        "to": 254,
+        "kind": "generic",
+        "label": "Random shutter fade"
+       },
+       {
+        "from": 255,
+        "to": 255,
+        "kind": "open",
+        "label": "Open"
+       }
+      ]
+     },
+     {
+      "name": "Dimmer (master)",
+      "attr": "dimmer",
+      "byte": 0
+     },
+     {
+      "name": "Zoom (master)",
+      "attr": "zoom",
+      "byte": 0
+     },
+     {
+      "name": "CTO",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Colour wheel emulation",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Red background",
+      "attr": "red",
+      "byte": 0
+     },
+     {
+      "name": "Green background",
+      "attr": "green",
+      "byte": 0
+     },
+     {
+      "name": "Blue background",
+      "attr": "blue",
+      "byte": 0
+     },
+     {
+      "name": "White background",
+      "attr": "white",
+      "byte": 0
+     },
+     {
+      "name": "Sparkle",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Sparkle speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Effect macro mode layer",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Effect macro layer",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Effect macro speed layer",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Black body shift",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Transition pixel mode",
+      "attr": "other",
+      "byte": 0
+     }
+    ]
+   },
+   {
+    "name": "49CH Mode 3 + Pixel",
+    "channels": [
+     {
+      "name": "Pan",
+      "attr": "pan",
+      "byte": 0
+     },
+     {
+      "name": "Pan fine",
+      "attr": "pan",
+      "byte": 1
+     },
+     {
+      "name": "Tilt",
+      "attr": "tilt",
+      "byte": 0
+     },
+     {
+      "name": "Tilt fine",
+      "attr": "tilt",
+      "byte": 1
+     },
+     {
+      "name": "Control",
+      "attr": "control",
+      "byte": 0
+     },
+     {
+      "name": "Shutter",
+      "attr": "shutter",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 15,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 16,
+        "to": 95,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 96,
+        "to": 110,
+        "kind": "strobe",
+        "label": "Pulse >20 Hz (fast - slow)"
+       },
+       {
+        "from": 111,
+        "to": 111,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 112,
+        "to": 125,
+        "kind": "generic",
+        "label": "Fade with dimmer"
+       },
+       {
+        "from": 126,
+        "to": 126,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 128,
+        "to": 142,
+        "kind": "strobe",
+        "label": "Pulse <20 Hz (fast - slow)"
+       },
+       {
+        "from": 143,
+        "to": 143,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 144,
+        "to": 158,
+        "kind": "strobe",
+        "label": "Closing pulse"
+       },
+       {
+        "from": 159,
+        "to": 159,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 160,
+        "to": 174,
+        "kind": "generic",
+        "label": "Shutter fade 0 %"
+       },
+       {
+        "from": 175,
+        "to": 175,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 176,
+        "to": 190,
+        "kind": "generic",
+        "label": "Shutter fade 100 %"
+       },
+       {
+        "from": 191,
+        "to": 191,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 192,
+        "to": 222,
+        "kind": "strobe",
+        "label": "Random shutter"
+       },
+       {
+        "from": 223,
+        "to": 223,
+        "kind": "closed",
+        "label": "Closed"
+       },
+       {
+        "from": 224,
+        "to": 254,
+        "kind": "generic",
+        "label": "Random shutter fade"
+       },
+       {
+        "from": 255,
+        "to": 255,
+        "kind": "open",
+        "label": "Open"
+       }
+      ]
+     },
+     {
+      "name": "Dimmer (master)",
+      "attr": "dimmer",
+      "byte": 0
+     },
+     {
+      "name": "Zoom (master)",
+      "attr": "zoom",
+      "byte": 0
+     },
+     {
+      "name": "CTO",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Colour wheel emulation",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Red background",
+      "attr": "red",
+      "byte": 0
+     },
+     {
+      "name": "Green background",
+      "attr": "green",
+      "byte": 0
+     },
+     {
+      "name": "Blue background",
+      "attr": "blue",
+      "byte": 0
+     },
+     {
+      "name": "White background",
+      "attr": "white",
+      "byte": 0
+     },
+     {
+      "name": "Sparkle",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Sparkle speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Effect macro mode layer",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Effect macro layer",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Effect macro speed layer",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Black body shift",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Transition pixel mode",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "LED group 1 Red",
+      "attr": "red",
+      "byte": 0,
+      "cell": 0
+     },
+     {
+      "name": "LED group 1 Green",
+      "attr": "green",
+      "byte": 0,
+      "cell": 0
+     },
+     {
+      "name": "LED group 1 Blue",
+      "attr": "blue",
+      "byte": 0,
+      "cell": 0
+     },
+     {
+      "name": "LED group 1 White",
+      "attr": "white",
+      "byte": 0,
+      "cell": 0
+     },
+     {
+      "name": "LED group 2 Red",
+      "attr": "red",
+      "byte": 0,
+      "cell": 1
+     },
+     {
+      "name": "LED group 2 Green",
+      "attr": "green",
+      "byte": 0,
+      "cell": 1
+     },
+     {
+      "name": "LED group 2 Blue",
+      "attr": "blue",
+      "byte": 0,
+      "cell": 1
+     },
+     {
+      "name": "LED group 2 White",
+      "attr": "white",
+      "byte": 0,
+      "cell": 1
+     },
+     {
+      "name": "LED group 3 Red",
+      "attr": "red",
+      "byte": 0,
+      "cell": 2
+     },
+     {
+      "name": "LED group 3 Green",
+      "attr": "green",
+      "byte": 0,
+      "cell": 2
+     },
+     {
+      "name": "LED group 3 Blue",
+      "attr": "blue",
+      "byte": 0,
+      "cell": 2
+     },
+     {
+      "name": "LED group 3 White",
+      "attr": "white",
+      "byte": 0,
+      "cell": 2
+     },
+     {
+      "name": "LED group 4 Red",
+      "attr": "red",
+      "byte": 0,
+      "cell": 3
+     },
+     {
+      "name": "LED group 4 Green",
+      "attr": "green",
+      "byte": 0,
+      "cell": 3
+     },
+     {
+      "name": "LED group 4 Blue",
+      "attr": "blue",
+      "byte": 0,
+      "cell": 3
+     },
+     {
+      "name": "LED group 4 White",
+      "attr": "white",
+      "byte": 0,
+      "cell": 3
+     },
+     {
+      "name": "LED group 5 Red",
+      "attr": "red",
+      "byte": 0,
+      "cell": 4
+     },
+     {
+      "name": "LED group 5 Green",
+      "attr": "green",
+      "byte": 0,
+      "cell": 4
+     },
+     {
+      "name": "LED group 5 Blue",
+      "attr": "blue",
+      "byte": 0,
+      "cell": 4
+     },
+     {
+      "name": "LED group 5 White",
+      "attr": "white",
+      "byte": 0,
+      "cell": 4
+     },
+     {
+      "name": "LED group 6 Red",
+      "attr": "red",
+      "byte": 0,
+      "cell": 5
+     },
+     {
+      "name": "LED group 6 Green",
+      "attr": "green",
+      "byte": 0,
+      "cell": 5
+     },
+     {
+      "name": "LED group 6 Blue",
+      "attr": "blue",
+      "byte": 0,
+      "cell": 5
+     },
+     {
+      "name": "LED group 6 White",
+      "attr": "white",
+      "byte": 0,
+      "cell": 5
+     },
+     {
+      "name": "LED group 7 Red",
+      "attr": "red",
+      "byte": 0,
+      "cell": 6
+     },
+     {
+      "name": "LED group 7 Green",
+      "attr": "green",
+      "byte": 0,
+      "cell": 6
+     },
+     {
+      "name": "LED group 7 Blue",
+      "attr": "blue",
+      "byte": 0,
+      "cell": 6
+     },
+     {
+      "name": "LED group 7 White",
+      "attr": "white",
+      "byte": 0,
+      "cell": 6
+     }
+    ]
+   }
+  ]
+ }
+]

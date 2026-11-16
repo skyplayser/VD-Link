@@ -1,0 +1,155 @@
+[
+ {
+  "man": "Big Dipper",
+  "key": "lm250-matrix-moving-head-25-10w-rgbw",
+  "model": "LM250 Matrix Moving Head 25×10W RGBW",
+  "kind": "matrixhead",
+  "leds": [
+   25,
+   "rgbw"
+  ],
+  "grid": [
+   5,
+   5
+  ],
+  "ch": [
+   19,
+   29,
+   117
+  ],
+  "pixelFrom": 117,
+  "url": "https://www.made-in-china.com/showroom/bigdipperyork/product-detailFBWJzClufXkp/China-Matrix-Moving-Head-LED.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (made-in-china.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Big Dipper",
+  "key": "lm80-spider-8-8w-rgbw-2-bewegliche-led-leisten",
+  "model": "LM80 Spider 8×8W RGBW (2 bewegliche LED-Leisten)",
+  "kind": "spider",
+  "leds": [
+   2,
+   "rgbw"
+  ],
+  "ch": [
+   6,
+   12,
+   36
+  ],
+  "pixelFrom": 12,
+  "url": "https://www.made-in-china.com/showroom/bigdipperyork/product-detailrBdJQUDbbqWc/China-Moving-Head-Spider-Light-Lm80.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (made-in-china.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 1 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Big Dipper",
+  "key": "lpc001-9-8w-rgbw-par",
+  "model": "LPC001 9×8W RGBW PAR",
+  "kind": "par",
+  "leds": [
+   9,
+   "rgbw"
+  ],
+  "deg": [
+   45,
+   45
+  ],
+  "ch": [
+   8
+  ],
+  "size": [
+   345,
+   125,
+   305
+  ],
+  "url": "https://www.made-in-china.com/showroom/bigdipperyork/product-detailUBFJawIuLokd/China-9-8W-Lpc001-LED-PAR-Light.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (made-in-china.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Big Dipper",
+  "key": "lp002-36-3w-rgb-par",
+  "model": "LP002 36×3W RGB PAR",
+  "kind": "par",
+  "leds": [
+   36,
+   "rgb"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   7
+  ],
+  "size": [
+   255,
+   255,
+   365
+  ],
+  "url": "https://www.made-in-china.com/showroom/bigdipperyork/product-detailXSFmbHqCkxVk/China-LED-PAR-Light-LP002-.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (made-in-china.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Big Dipper",
+  "key": "lpw001-54-3w-rgbw-ip65-par",
+  "model": "LPW001 54×3W RGBW IP65 PAR",
+  "kind": "par",
+  "leds": [
+   54,
+   "rgbw"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   8
+  ],
+  "size": [
+   345,
+   345,
+   375
+  ],
+  "url": "https://www.made-in-china.com/showroom/bigdipperyork/product-detailgXOJAkIonqcl/China-54X3w-Waterproof-PAR-Light.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (made-in-china.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Big Dipper",
+  "key": "l001-disco-magic-ball-6-3w",
+  "model": "L001 Disco/Magic Ball 6×3W",
+  "kind": "effect",
+  "ch": [
+   6
+  ],
+  "size": [
+   183,
+   183,
+   154
+  ],
+  "url": "https://www.made-in-china.com/showroom/bigdipperyork/product-detailIvZxotbThQVM/China-Disco-Ball-Light-L001-.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (made-in-china.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Big Dipper",
+  "key": "35w-led-gobo-moving-head",
+  "model": "35W LED Gobo Moving Head",
+  "kind": "spot",
+  "pan": 540,
+  "tilt": 200,
+  "ch": [
+   9,
+   11
+  ],
+  "feat": [
+   "cw:8",
+   "gobo:8"
+  ],
+  "url": "https://www.amazon.ca/Big-Dipper-Spotlights-Activated-Equipment/dp/B0CF1TC889",
+  "note": "Steckbrief aus Shop-Text (automatisch) (amazon.ca, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

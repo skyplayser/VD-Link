@@ -1,0 +1,22 @@
+[
+ {
+  "man": "Vari-Lite",
+  "key": "sl-nitro-510c",
+  "model": "SL Nitro 510C",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   6
+  ],
+  "url": "https://www.vari-lite.com/global/products/sl-nitro-510c",
+  "note": "Steckbrief aus Herstellerangaben (vari-lite.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

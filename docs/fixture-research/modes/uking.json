@@ -1,0 +1,95 @@
+[
+ {
+  "man": "UKing",
+  "key": "zq02373-dual-head-moving-head-2-100w-beam",
+  "model": "ZQ02373 Dual-Head Moving Head 2×100W Beam",
+  "kind": "multihead",
+  "leds": [
+   2,
+   "rgb"
+  ],
+  "deg": [
+   2,
+   2
+  ],
+  "ch": [
+   33
+  ],
+  "feat": [
+   "prism",
+   "focus"
+  ],
+  "url": "https://www.uking-online.com/products/uking-zq02373-moving-head-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (uking-online.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "UKing",
+  "key": "zq02254-moving-head-36-led-focusing",
+  "model": "ZQ02254 Moving Head 36 LED (Focusing)",
+  "kind": "wash",
+  "leds": [
+   36,
+   "rgbw"
+  ],
+  "deg": [
+   15,
+   60
+  ],
+  "ch": [
+   16
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.uking-online.com/product/36pcs-focusing-light-moving-head-light-stage-lighting-effect-dmx-control-for-dj-disco-nightclub-ktv-bar-theater-shopping-mall/",
+  "note": "Steckbrief aus Shop-Text (automatisch) (uking-online.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "UKing",
+  "key": "zq-b147-80w-led-spot-moving-head",
+  "model": "ZQ-B147 80W LED Spot Moving Head",
+  "kind": "spot",
+  "ch": [
+   9,
+   11
+  ],
+  "feat": [
+   "gobo:14"
+  ],
+  "note": "Steckbrief aus Shop-Text (automatisch) (Händlerangaben, Recherche 11/2026); Kanalbelegung nach typischem Schema. 2 weitere Shop-Listings mit gleichen Daten zusammengefasst.",
+  "verified": false
+ },
+ {
+  "man": "UKing",
+  "key": "zq-b54a-30w-mini-gobo-moving-head",
+  "model": "ZQ-B54A 30W Mini Gobo Moving Head",
+  "kind": "spot",
+  "ch": [
+   7,
+   10
+  ],
+  "feat": [
+   "gobo:8"
+  ],
+  "note": "Steckbrief aus Shop-Text (automatisch) (Händlerangaben, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "UKing",
+  "key": "zq-b54-30w-gobo-moving-head-marken-ktaxon-lampwin",
+  "model": "ZQ-B54 30W Gobo Moving Head (Marken Ktaxon / Lampwin)",
+  "kind": "spot",
+  "ch": [
+   7,
+   10
+  ],
+  "feat": [
+   "gobo:8"
+  ],
+  "url": "https://www.ktaxon.com/ktaxon-zq-b54-30w-led-stage-lighting-8-rotary-pattern-effect-light-dmx-512-self-propelled-sound-control-mode-party-bar-club-light-p5373.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (ktaxon.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

@@ -1,0 +1,340 @@
+[
+ {
+  "manufacturer": "ADB Stagelight",
+  "model": "Actoris Profile FC",
+  "kind": "ellipsoidal",
+  "light": "6-Farben LED Engine (RGBAL + Royal Blue, max. 370 W)",
+  "beamDeg": [
+   15,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "framing",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   282,
+   554,
+   245
+  ],
+  "weightKg": 8.34,
+  "url": "https://www.claypaky.it/products/actoris-profile-fc/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Seite auf claypaky.it (ADB-Produktlinie)"
+ },
+ {
+  "manufacturer": "ADB Stagelight",
+  "model": "Actoris Fresnel",
+  "kind": "fresnel",
+  "light": "setting new standards in lighting quality and color precision. Featuring a powerful 6-color RGBAL + Royal Blue LED eng",
+  "beamDeg": [
+   16,
+   80
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   33,
+   17,
+   9,
+   1
+  ],
+  "features": [
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   339,
+   515,
+   339
+  ],
+  "weightKg": 11,
+  "url": "https://www.claypaky.it/products/actoris-fresnel/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "ADB"
+ },
+ {
+  "manufacturer": "ADB Stagelight",
+  "model": "Actoris ParLED",
+  "kind": "par",
+  "light": "Actoris ParLED: AL2595 (Actoris ParLED); AL2596 (Actoris ParLED RGBW - DISCONTINUED)",
+  "beamDeg": [
+   4,
+   53
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   16,
+   17
+  ],
+  "features": [
+   "cto",
+   "frost",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   341,
+   325,
+   275
+  ],
+  "weightKg": 5.7,
+  "url": "https://www.claypaky.it/products/actoris-parled/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "ADB"
+ },
+ {
+  "manufacturer": "ADB Stagelight",
+  "model": "Orkis Fresnel",
+  "kind": "fresnel",
+  "light": "6-Farben LED (R,G,B,Amber,Cyan,Lime)",
+  "beamDeg": [
+   15,
+   54
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   15,
+   15,
+   28,
+   28
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 11,
+  "url": "https://www.claypaky.it/products/orkis-fresnel/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "ADB"
+ },
+ {
+  "manufacturer": "ADB Stagelight",
+  "model": "Orkis Cyc",
+  "kind": "flood",
+  "light": "6-Farben RGBCAL HCR COB",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   14,
+   14,
+   27,
+   27
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 6,
+  "url": "https://www.claypaky.it/products/orkis-cyc/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "ADB, Horizontfluter"
+ },
+ {
+  "manufacturer": "ADB Stagelight",
+  "model": "Klemantis 1000 HCR",
+  "kind": "flood",
+  "light": "16 HCR LED-Module",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   14,
+   14,
+   27,
+   27,
+   29,
+   29
+  ],
+  "features": [
+   "cmy"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 15.9,
+  "url": "https://www.claypaky.it/products/klemantis-1000/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "ADB, asymmetrischer Fluter"
+ },
+ {
+  "manufacturer": "ADB Stagelight",
+  "model": "WARP/M",
+  "kind": "profile",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "framing",
+   "zoom",
+   "focus",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:adb/warp-m",
+  "notes": "motorisierter Profilscheinwerfer"
+ },
+ {
+  "manufacturer": "ADB Stagelight",
+  "model": "ALC4",
+  "kind": "flood",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:adb/alc4",
+  "notes": "LED-Horizontfluter"
+ },
+ {
+  "manufacturer": "ADB Stagelight",
+  "model": "Europe 105",
+  "kind": "ellipsoidal",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:adb/europe-105",
+  "notes": "Halogen-Profilscheinwerfer, DMX nur über Dimmer/Zubehör"
+ },
+ {
+  "manufacturer": "ADB Stagelight",
+  "model": "Lexor LXF",
+  "kind": "fresnel",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "LED-Fresnel"
+ },
+ {
+  "manufacturer": "ADB Stagelight",
+  "model": "Oxo ColorBeam",
+  "kind": "par",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "LED-Scheinwerfer"
+ },
+ {
+  "manufacturer": "ADB Stagelight",
+  "model": "C101",
+  "kind": "fresnel",
+  "light": "Halogen 1000 W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Konventionelles Stufenlinsen-Gerät (dimmerbetrieben)"
+ },
+ {
+  "manufacturer": "ADB Stagelight",
+  "model": "DS 105",
+  "kind": "ellipsoidal",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Halogen-Profiler (dimmerbetrieben)"
+ }
+]

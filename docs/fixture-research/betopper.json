@@ -1,0 +1,1104 @@
+[
+ {
+  "manufacturer": "Betopper",
+  "model": "LM0740 7×40W Wash Moving Head Light",
+  "kind": "wash",
+  "light": "7×40W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://betopperdj.com/products/betopper-lm0740-7x40w-wash-moving-head-stage-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/lm0740",
+  "notes": "Varianten: 7x40W Pixel Mapping    1PC; 7x40W Pixel Mapping    4PCS; 7x40W Pixel Mapping    CA  1PC; 7x40W Pixel Mapping    CA  4PCS; 7x40W Pixel Mapping  JP  1PC; 7x40W Pixel Mapping  JP  4PCS; 7x40W Standard    1PC; 7x40W Standard    4PCS; SKU: LM0740-4-EU, LM0740-4-UK, LM0740-4-US, LM0740-EU; Modellcode LM0740; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LB300 300W Beam Moving Head LED Stage Light",
+  "kind": "beam",
+  "light": "300W LED + 48×0.2W (RGB 3-in-1)",
+  "beamDeg": [
+   2.1,
+   2.1
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   18
+  ],
+  "features": [
+   "gobo:14",
+   "prism:48"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://betopperdj.com/products/betopper-lb300-300w-beam-moving-head-led-stage-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/lb300",
+  "notes": "Leistung 500W; Varianten: 1 PC; CA  1 PC; JP  1 PC; SKU: LB300-AU, LB300-EU, LB300-JP, LB300-UK; Modellcode LB300; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LM1925R 19×25W RGBW Moving Head Wash Light with Halo Ring",
+  "kind": "beam",
+  "light": "19 × 25W RGBW 4-in-1 LEDs + 60 × 0.2W RGB Halo LEDs",
+  "beamDeg": [
+   9.0,
+   40.0
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   21,
+   23,
+   35,
+   78,
+   111
+  ],
+  "features": [
+   "zoom",
+   "cto",
+   "ring",
+   "pixel",
+   "infinite-rotation"
+  ],
+  "ring": "60 LEDs (aus Text)",
+  "pixels": null,
+  "sizeMm": [
+   280,
+   220,
+   430
+  ],
+  "weightKg": 11.62,
+  "url": "https://betopperdj.com/products/betopper-lm1925r-19-25w-rgbw-moving-head-wash-light-with-halo-ring",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/lm1925r",
+  "notes": "Leistung 500W; Varianten: CA; JP; SKU: LM1925R-AU, LM1925R-EU, LM1925R-JP, LM1925R-UK; Modellcode LM1925R; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LM1925 19×25W Moving Head LED Stage Light (Clearance)",
+  "kind": "beam",
+  "light": "19x25W RGBW 4in1 LEDs",
+  "beamDeg": [
+   4.5,
+   45.0
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   21,
+   23,
+   35,
+   78,
+   111
+  ],
+  "features": [
+   "zoom",
+   "cto",
+   "infinite-rotation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   280,
+   220,
+   430
+  ],
+  "weightKg": 11.62,
+  "url": "https://betopperdj.com/products/betopper-lm1925-19-25w-moving-head-led-stage-light-clearance",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/lm1925",
+  "notes": "Leistung 500W; Varianten: Only for CA(Clearance); SKU: LM1925-US; Modellcode LM1925; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LPW0450 4×50W IP65 Waterproof WW/CW COB LED PAR Light",
+  "kind": "cob",
+  "light": "4×50W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://betopperdj.com/products/betopper-lpw0450-4x50w-ip65-waterproof-ww-cw-cob-par-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/lpw0450",
+  "notes": "IP65; Varianten: 1 PC; 2 PCS; CA  1 PC; CA  2 PCS; JP  1 PC; JP  2 PCS; SKU: LPW0450-2-EU, LPW0450-2-UK, LPW0450-2-US, LPW0450-EU; Modellcode LPW0450; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LPW0918 9×18W IP65 Waterproof RGBAL+UV LED PAR Light",
+  "kind": "par",
+  "light": "9×18W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "ip65",
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://betopperdj.com/products/betopper-lpw0918-9x18w-ip65-waterproof-rgbal-uv-led-par-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/lpw0918",
+  "notes": "IP65; Varianten: 1 PC; 2 PCS; CA  1 PC; CA  2 PCS; JP  1 PC; JP  2 PCS; SKU: LPW0918-2-EU, LPW0918-2-UK, LPW0918-2-US, LPW0918-EU; Modellcode LPW0918; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LF80 Series LED Strobe Light Bar",
+  "kind": "strobe",
+  "light": "LF80A / LF80S: 280 × 0.3W RGB 3-in-1 LEDs + 70 × 1W White/Amber LEDs",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   5,
+   10,
+   15,
+   36,
+   70,
+   112
+  ],
+  "features": [
+   "strobe-leds"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 1.7,
+  "url": "https://betopperdj.com/products/betopper-lf80-series-led-strobe-light-bar",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/lf80",
+  "notes": "Leistung 120W; IP20; Varianten: LF80A    1 PC; LF80A    2 PCS; LF80A    4 PCS; LF80A    CA  1 PC; LF80A    CA  2 PCS; LF80A    CA  4 PCS; LF80A  JP  1 PC; LF80A  JP  2 PCS; SKU: LF80R-2-EU, LF80R-2-US, LF80R-4-EU, LF80R-4-US; Modellcode LF80; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LW2418 RGBWA+UV Pixel Linear Wash Light",
+  "kind": "effect",
+  "light": "24×18W (RGBW+Amber+UV 6-in-1)",
+  "beamDeg": [
+   30.0,
+   30.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel",
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 2.0,
+  "url": "https://betopperdj.com/products/betopper-lw2418-rgbwa-uv-pixel-linear-wash-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/lw2418",
+  "notes": "Varianten: 1 PC; 2 PCS; 4 PCS; CA  1 PC; CA  2 PCS; CA  4 PCS; JP  1 PC; JP  2 PCS; SKU: LW2418-2-EU, LW2418-2-US, LW2418-4-EU, LW2418-4-US; Modellcode LW2418; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "BSW500 500W CMY + CTO Spot Beam Wash Hybrid Moving Head Light",
+  "kind": "hybrid",
+  "light": "400W",
+  "beamDeg": [
+   2.5,
+   19.0
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   27,
+   29
+  ],
+  "features": [
+   "gobo:7",
+   "gobo-rotation",
+   "prism:8",
+   "cmy",
+   "cto"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 16.5,
+  "url": "https://betopperdj.com/products/betopper-bsw500-500w-cmy-cto-spot-beam-wash-hybrid-moving-head-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/bsw500",
+  "notes": "Leistung 600W; Varianten: 1 Light+ 1 Flight Case; 1 PC; CA  1 Light+ 1 Flight Case; CA  1 PC; JP  1 Light+ 1 Flight Case; JP  1 PC; SKU: BSW500+HKX-1-EU, BSW500+HKX-1-UK, BSW500+HKX-1-US, BSW500-EU; Modellcode BSW500; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LM1940 19×40w Moving Head with Pixel Mapping Clearance",
+  "kind": "beam",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://betopperdj.com/products/betopper-lm1940-19x40w-moving-head-with-pixel-mapping-clearance",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/lm1940",
+  "notes": "Varianten: CA; SKU: LM1940-UK, LM1940-US; Modellcode LM1940; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LPC018 54×1W RGB 3-in-1 Stage LED PAR Light",
+  "kind": "par",
+  "light": "54x1W (LED RGB 3-in-1)",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://betopperdj.com/products/betopper-lpc018-54x1w-rgb-3-in-1-stage-led-par-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/lpc018",
+  "notes": "Leistung 30W; Varianten: 1 PC; 16 PCS; 2 PCS; 4 PCS; 8 PCS; CA  1 PC; CA  16 PCS; CA  2 PCS; SKU: LPC018-16-US, LPC018-2-US, LPC018-4-US, LPC018-8-EU; Modellcode LPC018; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LM3715R 37×15W Wash Moving Head with Halo Ring",
+  "kind": "beam",
+  "light": "37 × 15W RGBW LEDs + 222 × 0.2W 5050 RGB LEDs + 1 × 47W LED Strip",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   22,
+   27,
+   30,
+   33,
+   58
+  ],
+  "features": [
+   "ring",
+   "rdm"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 11.0,
+  "url": "https://betopperdj.com/products/betopper-lm3715r-37x15w-wash-moving-head-with-halo-ring",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/lm3715r",
+  "notes": "Varianten: 1 PC; 4 PCS; CA  1 PC; CA  4 PCS; JP  1 PC; JP  4 PCS; SKU: LM3715R-4-EU, LM3715R-4-UK, LM3715R-4-US, LM3715R-EU; Modellcode LM3715R; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LF105 150W Matrix Strobe Effect Light",
+  "kind": "matrix",
+  "light": "945×0.2W 5050 RGB 3-in-1",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   8,
+   9,
+   15
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://betopperdj.com/products/betopper-lf105-150w-matrix-strobe-effect-lights",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/lf105",
+  "notes": "Varianten: 1 PC; CA  1 PC; JP  1 PC; SKU: LF105-AU, LF105-EU, LF105-JP, LF105-UK; Modellcode LF105; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LPC017 54×3W RGB 3-in-1 Stage LED PAR Light",
+  "kind": "par",
+  "light": "54x3W (LED RGB 3-in-1)",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://betopperdj.com/products/betopper-lpc017-54x3w-rgb-3-in-1-stage-led-par-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "qlc:betopper/lpc-017",
+  "notes": "Leistung 80W; Varianten: 1 PC; 8 PCS; CA  1 PC; CA  8 PCS; JP  1 PC; JP  8 PCS; SKU: LPC017-8-EU, LPC017-8-UK, LPC017-8-US, LPC017-EU; Modellcode LPC017; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LPC1218 12×18W Lime Amber UV + RGB 6-in-1 LED PAR Light",
+  "kind": "par",
+  "light": "18W*12PCS LEDs",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   204,
+   79,
+   292
+  ],
+  "weightKg": 2.0,
+  "url": "https://betopperdj.com/products/betopper-lpc1218-12x18w-lime-amber-uv-rgb-6-in-1-led-par-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "qlc:betopper/lpc-1218",
+  "notes": "Varianten: 1 PC; 8 PCS; CA  1 PC; CA  8 PCS; JP  1 PC; JP  8 PCS; SKU: LPC1218-8-EU, LPC1218-8-UK, LPC1218-8-US, LPC1218-EU; Modellcode LPC1218; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LF350 Matrix Strobe Effect Moving Head Light",
+  "kind": "matrixhead",
+  "light": "672 × 0.2W RGB LEDs + 256 × 1W White LEDs",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   17,
+   38,
+   73
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   440,
+   300,
+   281
+  ],
+  "weightKg": 7.9,
+  "url": "https://betopperdj.com/products/betopper-lf350-moving-head-strobe-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/lf350",
+  "notes": "Varianten: 1 PC; 2 Lights + 1 Flight Case; 2 PCS; 4 PCS; CA  1 PC; CA  2 Lights + 1 Flight Case; CA  2 PCS; CA  4 PCS; SKU: LF350-2+HKX-1-US, LF350-2-EU, LF350-2-US, LF350-4-US; Modellcode LF350; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "BSW200 200W Spot Beam Wash Hybrid Moving Head Light",
+  "kind": "hybrid",
+  "light": "200W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://betopperdj.com/products/betopper-bsw200-200w-spot-beam-wash-moving-head-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/bsw200",
+  "notes": "Varianten: 1 PC; 2 Lights + 1 Flight Case; 2 PCS; 4 PCS; CA  1 PC; CA  2 Lights + 1 Flight Case; CA  2 PCS; CA  4 PCS; SKU: BSW200-2+HKX-US, BSW200-2-EU, BSW200-2-US, BSW200-4-US; Modellcode BSW200; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LF1421 Matrix Beam Strobe Effect Light Bar",
+  "kind": "matrix",
+  "light": "42pcs 3535rgb*3W 63pcs 7070 White Light*1W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   16,
+   63
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://betopperdj.com/products/betopper-lf1421-matrix-beam-strobe-effect-light-bar",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/lf1421",
+  "notes": "Leistung 120W; Varianten: 1 PC; 2 PCS; CA  1 PC; CA  2 PCS; JP  1 PC; JP  2 PCS; SKU: LF1421-2-EU, LF1421-2-UK, LF1421-2-US, LF1421-EU; Modellcode LF1421; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LF4808 260W Matrix Strobe Effect Light",
+  "kind": "matrix",
+  "light": "768x0.2W5050 RGB light beads,112x1W5054 white light beads",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   15,
+   152
+  ],
+  "features": [
+   "rdm"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://betopperdj.com/products/betopper-lf4808-260w-matrix-strobe-effect-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/lf4808",
+  "notes": "IP20; Varianten: 1 PC; 4 PCS; CA  1 PC; CA  4 PCS; JP  1 PC; JP  4 PCS; SKU: LF4808-4-EU, LF4808-4-UK, LF4808-4-US, LF4808-EU; Modellcode LF4808; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LF2405 300W Matrix Beam Strobe Effect Light",
+  "kind": "matrix",
+  "light": "384pcs 5050rgb*0.3W 24pcs 3535 White(golden)light* 256x5W 5730 White Light*0.2 W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   11,
+   112
+  ],
+  "features": [
+   "rdm"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://betopperdj.com/products/betopper-lf2405-384x0-3w-rgb-256x5w-golden-white-led-strobe-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/lf2405",
+  "notes": "Leistung 250W; Varianten: 1 PC; 4 PCS; CA  1 PC; CA  4 PCS; JP  1 PC; JP  4 PCS; SKU: LF2405-4-EU, LF2405-4-UK, LF2405-4-US, LF2405-EU; Modellcode LF2405; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LC500 4×100W Amber/CW High CRI COB Blinder Light",
+  "kind": "blinder",
+  "light": "4x100W COB (Cold white+Amber)",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   12
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 8.0,
+  "url": "https://betopperdj.com/products/betopper-lc500-4x100w-13000lm-high-cri-blinder",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/lc500",
+  "notes": "Leistung 500W; Varianten: 1 PC; 4 PCS; 8 PCS; CA  1 PC; CA  4 PCS; CA  8 PCS; JP  1 PC; JP  4 PCS; SKU: LC500-4-EU, LC500-4-US, LC500-8-EU, LC500-8-US; Modellcode LC500; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LB295 295W Pro Moving Head Beam Light",
+  "kind": "beam",
+  "light": "295W",
+  "beamDeg": [
+   2.2,
+   2.2
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   16
+  ],
+  "features": [
+   "gobo:11",
+   "prism:48"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 12.5,
+  "url": "https://betopperdj.com/products/betopper-lb295-295w-7500k-cct-moving-head-beam-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/lb295",
+  "notes": "Leistung 450W; Varianten: 1 PC; 2 Lights + 1 Flight Case; 4 PCS; CA  1 PC; CA  2 Lights + 1 Flight Case; CA  4 PCS; JP  1 PC; JP  2 Lights + 1 Flight Case; SKU: 295-2+HKX-1-EU, 295-2+HKX-1-US, LB295-4-EU, LB295-4-US; Modellcode LB295; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LPC010-B 54×4W 5562lm PAR Light with Barndoor",
+  "kind": "par",
+  "light": "54*4W(RGBW 4-in-1)",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   8
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://betopperdj.com/products/betopper-lpc010-b-54x4w-high-cri-par-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/lpc010-b",
+  "notes": "Varianten: 1 PC; 2 PCS; 4 PCS; CA  1 PC; CA  2 PCS; CA  4 PCS; JP  1 PC; JP  2 PCS; SKU: LPC010-B-2-EU, LPC010-B-2-US, LPC010-B-4-EU, LPC010-B-4-US; Modellcode LPC010-B; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LM1915 Series 19×15W Wash Moving Head with Halo Ring",
+  "kind": "wash",
+  "light": "19×15W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "ring"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://betopperdj.com/products/betopper-19x15w-rgbw-with-light-strip-effect-moving-head-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/lm1915",
+  "notes": "Varianten: Pro Version    1 PC; Pro Version    2 Lights + 1 Flight Case; Pro Version    2 PCS; Pro Version    4 PCS; Pro Version    CA  1 PC; Pro Version    CA  2 Lights + 1 Flight Case; Pro Version    CA  2 PCS; Pro Version    CA  4 PCS; SKU: 1915P-2+HKX-1-US, LM1915P-2-EU, LM1915P-2-US, LM1915P-4-US; Modellcode LM1915; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "L1015 10×15W RGBW Moving Beam LED Light Bar",
+  "kind": "tiltbar",
+  "light": "10*15W (RGBW 4-in-1 LED)",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   7,
+   13,
+   43
+  ],
+  "features": [
+   "rdm"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://betopperdj.com/products/betopper-10x15w-rgbw-4in1-led-beam-moving-head-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "qlc:betopper/l1015",
+  "notes": "Leistung 180W; IP20; Varianten: 1 PC; 2 Lights + 1 Flight Case; 2 PCS; CA  1 PC; CA  2 Lights + 1 Flight Case; CA  2 PCS; JP  1 PC; JP  2 Lights + 1 Flight Case; SKU: 1015-2+HKX-1-EU, 1015-2+HKX-1-US, L1015-2-EU, L1015-2-US; Modellcode L1015; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LPC010N 54×4W High CRI PAR Light",
+  "kind": "par",
+  "light": "54*4W(RGBW 4-in-1)",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   8
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://betopperdj.com/products/betopper-54x4w-rgbw-4-in-1-high-cri-par-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/lpc010n",
+  "notes": "Varianten: 1 PC; 2 PCS; 4 PCS; CA  1 PC; CA  2 PCS; CA  4 PCS; JP  1 PC; JP  2 PCS; SKU: LPC010N-2-EU, LPC010N-2-US, LPC010N-4-EU, LPC010N-4-US; Modellcode LPC010N; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LM120 Demon's Eye 120W Moving Head DJ Light",
+  "kind": "beam",
+  "light": "120W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://betopperdj.com/products/betopper-led-120w-rgbw-4in1-moving-head-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/lm120",
+  "notes": "Varianten: 1 PC; 2 PCS; CA  1 PC; CA  2 PCS; JP  1 PC; JP  2 PCS; SKU: LM120-2-EU, LM120-2-UK, LM120-2-US, LM120-EU; Modellcode LM120; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LB150 150W Beam Moving Head LED Stage Light",
+  "kind": "beam",
+  "light": "150W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://betopperdj.com/products/betopper-150w-led-beam-moving-head-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "qlc:betopper/lb150",
+  "notes": "Varianten: 1 PC; 4 Lights + 1 Flight Case; 4 PCS; CA  1 PC; CA  4 Lights + 1 Flight Case; CA  4 PCS; JP  1 PC; JP  4 Lights + 1 Flight Case; SKU: 150-4+HKX-1-EU, 150-4+HKX-1-US, LB150-4-EU, LB150-4-US; Modellcode LB150; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LW3603 36×3W RGB 3-IN-1 Stage Wash Light",
+  "kind": "effect",
+  "light": "36pcs 3W RGB 3 in 1 leds",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel",
+   "rdm"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://betopperdj.com/products/betopper-36x3w-rgb-3-in-1-stage-wash-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/lw3603",
+  "notes": "Leistung 100W; SKU: LW3603; Modellcode LW3603; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LPC1818 Upgraded 18×18W Lime Amber UV + RGB LED PAR Light",
+  "kind": "par",
+  "light": "18W*18PCS",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   280,
+   120,
+   300
+  ],
+  "weightKg": 2.5,
+  "url": "https://betopperdj.com/products/betopper-18x18w-rgbw-amber-uv-6-in-1-led-par-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/lpc1818",
+  "notes": "Varianten: 1 PC; 8 PCS; CA  1 PC; CA  8 PCS; JP  1 PC; JP  8 PCS; SKU: LPC1818-8-EU, LPC1818-8-UK, LPC1818-8-US, LPC1818-EU; Modellcode LPC1818; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "CLB260-O 9R 260W Pro Moving Head Beam Light",
+  "kind": "beam",
+  "light": "260W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://betopperdj.com/products/betopper-9r-260w-beam-moving-head-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/clb260-o",
+  "notes": "Varianten: OSRAM    1 PC; OSRAM    2 Lights + 1 Flight Case; OSRAM    2 PCS; OSRAM    4 PCS; OSRAM    CA  1 PC; OSRAM    CA  2 Lights + 1 Flight Case; OSRAM    CA  2 PCS; OSRAM    CA  4 PCS; SKU: 260SE-2+HKX-1-US, CLB260-2-EU, CLB260-2-US, CLB260-4-US; Modellcode CLB260-O; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LM0740 MKII 7×40W Upgraded Wash&Zoom Moving Head Light",
+  "kind": "wash",
+  "light": "7×40W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://betopperdj.com/products/betopper-7-40w-4-in-1-rgbw-moving-head-lights",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/lm0740-mkii",
+  "notes": "Varianten: 7×40W Pixel Mapping    1 PC; 7×40W Pixel Mapping    2 Lights+1 Flight Case; 7×40W Pixel Mapping    4 PCS; 7×40W Pixel Mapping    CA  1 PC; 7×40W Pixel Mapping    CA  2 Lights+1 Flight Case; 7×40W Pixel Mapping    CA  4 PCS; 7×40W Pixel Mapping  JP  1 PC; 7×40W Pixel Mapping  JP  2 Lights+1 Flight Case; SKU: LM0740 MKII-2+HKX-1-UK, LM0740 MKII-2+HKX-1-US, LM0740 MKII-4-UK, LM0740 MKII-4-US; Modellcode LM0740 MKII; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LS30 30W LED Mini Moving Head Stage Light",
+  "kind": "beam",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   175,
+   146,
+   286
+  ],
+  "weightKg": null,
+  "url": "https://betopperdj.com/products/betopper-ls30-dmx512-30w-led-spot-stage-light",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/ls30",
+  "notes": "Varianten: CN; SKU: LS30; Modellcode LS30; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LS105 100W Moving Head Gobo Spotlight",
+  "kind": "spot",
+  "light": "High power 100W White LED",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   14
+  ],
+  "features": [
+   "gobo:7",
+   "colorwheel:7"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://betopperdj.com/products/betopper-100w-dj-spot-gobo-stage-light-ls105",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/ls105",
+  "notes": "Leistung 140W; Varianten: CN; SKU: LS105; Modellcode LS105; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LS35 30W Moving Head Spotlight with Ring Effect",
+  "kind": "spot",
+  "light": "30W White LED + 12*0.2W RGB LED",
+  "beamDeg": [
+   3.0,
+   3.0
+  ],
+  "pan": 540,
+  "tilt": 200,
+  "channels": [
+   10,
+   12
+  ],
+  "features": [
+   "zoom",
+   "ring"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   175,
+   146,
+   286
+  ],
+  "weightKg": null,
+  "url": "https://betopperdj.com/products/betopper-30w-white-led-12-0-2w-rgb-led-rotating-led-moving-head-stage-lighting-ls35",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/ls35",
+  "notes": "Leistung 35W; Varianten: CA; JP; SKU: LS35-AU, LS35-EU, LS35-JP, LS35-UK; Modellcode LS35; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LPC120 60×2W RGBW 3500LM PAR Light",
+  "kind": "par",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   235,
+   235,
+   65
+  ],
+  "weightKg": null,
+  "url": "https://betopperdj.com/products/betopper-full-color-4-in-1-dyed-wedding-bar-par-lights",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "qlc:betopper/lpc-120",
+  "notes": "Varianten: 1 PC; 2 PCS; 4 PCS; CA  1 PC; CA  2 PCS; CA  4 PCS; JP  1 PC; JP  2 PCS; SKU: LPC120-2-EU, LPC120-2-US, LPC120-4-EU, LPC120-4-US; Modellcode LPC120; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LC001-H 100W COB LED PAR Light",
+  "kind": "cob",
+  "light": "100W COB",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://betopperdj.com/products/betopper-100w-cob-light-lc001-h",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/lc001-h",
+  "notes": "Leistung 100W; Varianten: With Barndoor    CA  1 PC; With Barndoor    CA  4 PCS; With Barndoor  JP  1 PC; With Barndoor  JP  4 PCS; Without Barndoor    1 PC; Without Barndoor    4 PCS; Without Barndoor    CA  1 PC; Without Barndoor    CA  4 PCS; SKU: LC001-H-4-EU, LC001-H-4-UK, LC001-H-4-US, LC001-H-EU; Modellcode LC001-H; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LC002-H 200W COB LED PAR Light",
+  "kind": "cob",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   4
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://betopperdj.com/products/betopper-200w-cob-light-lc002-h",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/lc002-h",
+  "notes": "IP33; Varianten: With Barndoor    CA  1 PC; With Barndoor    CA  4 PCS; With Barndoor  JP  1 PC; With Barndoor  JP  4 PCS; Without Barndoor    1 PC; Without Barndoor    CA  1 PC; Without Barndoor    CA  2 PCS; Without Barndoor    CA  4 PCS; SKU: LC002-H-2-US, LC002-H-4-US, LC002-H-EU, LC002-H-JP; Modellcode LC002-H; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LM30A 8×3W Mini Spider Moving Head Stage Light",
+  "kind": "spider",
+  "light": "8*3W RGBW LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "laser",
+   "strobe-leds"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://betopperdj.com/products/betopper-45w-rgbw-spider-moving-head-lights",
+  "manualUrl": null,
+  "status": "im Shop gelistet (11/2026)",
+  "inLibrary": "vd:betopper/lm30a",
+  "notes": "Leistung 45W; Varianten: 1 PC; 2 PCS; CA  1 PC; CA  2 PCS; JP  1 PC; JP  2 PCS; SKU: LM30A-2-EU, LM30A-2-UK, LM30A-2-US, LM30A-EU; Modellcode LM30A; Werte automatisch aus Shop-Text/Spezifikation extrahiert (nur Zahlen/Stichworte); unbekannt = null"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LM70S 7×8W RGBW Mini Moving Head",
+  "kind": "wash",
+  "light": "7×8W RGBW 4in1",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": null,
+  "channels": [
+   9,
+   14
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://betopperdj.com/products/betopper-7x8w-rgbw-moving-head-wash-lights-lm70s",
+  "manualUrl": null,
+  "status": "nicht mehr im Shop",
+  "inLibrary": "ofl:betopper/mini-moving-head-lm70s",
+  "notes": "Tilt je nach Quelle 180° oder 270°"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LM70SR 7×8W RGBW Moving Head (Ring-Version)",
+  "kind": "wash",
+  "light": "7×8W RGBW 4in1",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://betopperdj.com/products/betopper-7x8w-rgbw-moving-head-wash-lights-lm70sr",
+  "manualUrl": null,
+  "status": "nicht mehr im Shop (404)",
+  "inLibrary": null,
+  "notes": "nur Name bekannt; vermutlich LM70S mit Ring – nicht verifiziert"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LM108 36×3W RGBW Moving Beam",
+  "kind": "wash",
+  "light": "36×3W RGBW (R8 G10 B10 W8)",
+  "beamDeg": [
+   15,
+   15
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   9,
+   16
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   225,
+   225,
+   295
+  ],
+  "weightKg": 2.7,
+  "url": "https://betopperdj.com/products/betopper-36x3w-rgbw-moving-head-lights",
+  "manualUrl": null,
+  "status": "nicht mehr im Shop",
+  "inLibrary": "qlc:betopper/lm108-wash-moving-head",
+  "notes": "identisch mit Big Dipper LM108 (made-in-china); 150W"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LM70 7×8W RGBW Mini Moving Head",
+  "kind": "wash",
+  "light": "7×8W RGBW 4in1",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   9,
+   14
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   225,
+   225,
+   395
+  ],
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "alt",
+  "inLibrary": "qlc:betopper/lm70",
+  "notes": "auch als Big Dipper LM70 gelistet"
+ },
+ {
+  "manufacturer": "Betopper",
+  "model": "LB230 230W 7R Beam",
+  "kind": "beam",
+  "light": "230W 7R Entladungslampe",
+  "beamDeg": [
+   0,
+   3.8
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   16,
+   20
+  ],
+  "features": [
+   "gobo:17",
+   "colorwheel:14",
+   "prism:8",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "alt",
+  "inLibrary": "qlc:betopper/lb230",
+  "notes": "auch als Big Dipper LB230/LB200/LB200N; Winkelangabe 0–3,8° bzw. 8° je nach Quelle"
+ }
+]

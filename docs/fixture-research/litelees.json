@@ -1,0 +1,2248 @@
+[
+  {
+    "manufacturer": "LiteLEES",
+    "model": "1915 RGBW Zoom Par",
+    "kind": "par",
+    "light": "19 x 15W RGBW LED",
+    "beamDeg": [
+      10,
+      40
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      8,
+      1,
+      5,
+      23
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      230,
+      220,
+      310
+    ],
+    "weightKg": 17,
+    "url": "https://www.litelees.com/product/1915-rgbw-zoom-par/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Zoom-Par 19 x 15 W RGBW. Leistung 300 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "740 RGBW Zoom Par IP",
+    "kind": "par",
+    "light": "7 x 40W RGBW Osram 4 in 1 LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      7,
+      10
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 7.8,
+    "url": "https://www.litelees.com/product/740-rgbw-zoom-par-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP Zoom-Par 7 x 40 W RGBW (Osram). Leistung 300 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Aria Par 750",
+    "kind": "par",
+    "light": "7x50W LED",
+    "beamDeg": [
+      25,
+      25
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      210,
+      210,
+      222
+    ],
+    "weightKg": 3.75,
+    "url": "https://www.litelees.com/product/aria-par-750/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Par 7 x 50 W. Leistung 250 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "BIG EYE BAR L6010 IP",
+    "kind": "tiltbar",
+    "light": "Main light section: 10X60W RGBW LED",
+    "beamDeg": [
+      5,
+      46
+    ],
+    "pan": null,
+    "tilt": 220,
+    "channels": [
+      17,
+      27,
+      99,
+      108,
+      168,
+      170
+    ],
+    "features": [
+      "zoom",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "1x10 + Strip",
+    "sizeMm": [
+      1000,
+      150,
+      330
+    ],
+    "weightKg": 25,
+    "url": "https://www.litelees.com/product/big-eye-bar-l6010-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 motorisierte Tilt-Bar 1 m (Tilt 220°), 10 x 60 W RGBW mit Zoom plus Strip-Sektion (Bauform wie ACME SUPER DOTLINE). Leistung 600 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "BIG EYE BAR L6010",
+    "kind": "tiltbar",
+    "light": "Main Light Section:10x60W RGBW LED",
+    "beamDeg": [
+      2.8,
+      31
+    ],
+    "pan": null,
+    "tilt": 220,
+    "channels": [
+      17,
+      27,
+      99,
+      108,
+      168
+    ],
+    "features": [
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "1x10 + Strip",
+    "sizeMm": null,
+    "weightKg": 19.2,
+    "url": "https://www.litelees.com/product/big-eye-bar-l6010/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Motorisierte Tilt-Bar 1 m (Tilt 220°), 10 x 60 W RGBW, Zoom 2,8-31°, plus Strip-Sektion. Leistung 900 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "BIG EYE L1507 IP",
+    "kind": "wash",
+    "light": "7X150W 4 in 1 RGBA LEDs",
+    "beamDeg": [
+      3,
+      55
+    ],
+    "pan": 540,
+    "tilt": 250,
+    "channels": [
+      21,
+      35,
+      42,
+      49,
+      56
+    ],
+    "features": [
+      "zoom",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "7 LEDs",
+    "sizeMm": null,
+    "weightKg": 23,
+    "url": "https://www.litelees.com/product/big-eye-l1507-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 Wash/Beam 7 x 150 W RGBA. Leistung 930 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "BIG EYE L4019 IP",
+    "kind": "wash",
+    "light": "19x40W RGBW 4 in1 Osram LEDs",
+    "beamDeg": [
+      4,
+      55
+    ],
+    "pan": 540,
+    "tilt": 250,
+    "channels": [
+      21,
+      35,
+      78,
+      92,
+      97
+    ],
+    "features": [
+      "zoom",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "19 LEDs",
+    "sizeMm": null,
+    "weightKg": 24,
+    "url": "https://www.litelees.com/product/big-eye-l4019-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 Wash 19 x 40 W RGBW, Zoom 4-55°. Leistung 850 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "BIG EYE L4019 PRO",
+    "kind": "wash",
+    "light": "19x40W RGBW 4 in1 Osram LEDs",
+    "beamDeg": [
+      4,
+      55
+    ],
+    "pan": 540,
+    "tilt": 250,
+    "channels": [
+      21,
+      35,
+      78,
+      92,
+      97
+    ],
+    "features": [
+      "zoom",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "19 LEDs",
+    "sizeMm": null,
+    "weightKg": 19,
+    "url": "https://www.litelees.com/product/big-eye-l4019-pro/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Wash 19 x 40 W RGBW mit Pixel-/Kaleidoskop-Effekten. Leistung 900 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "BIG EYE L6019 PRO",
+    "kind": "wash",
+    "light": "19x60W RGBW 4 in1 Osram LEDs",
+    "beamDeg": [
+      4,
+      60
+    ],
+    "pan": 540,
+    "tilt": 250,
+    "channels": [
+      23,
+      37,
+      80,
+      94,
+      99
+    ],
+    "features": [
+      "zoom",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "19 LEDs",
+    "sizeMm": null,
+    "weightKg": 22,
+    "url": "https://www.litelees.com/product/big-eye-l6019-pro/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Wash 19 x 60 W RGBW. Leistung 1400 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "BIG EYE L8019 IP",
+    "kind": "wash",
+    "light": "19 x 80W RGBW 4 in 1 LED",
+    "beamDeg": [
+      5,
+      55
+    ],
+    "pan": 540,
+    "tilt": 250,
+    "channels": [
+      21,
+      35,
+      78,
+      92,
+      97
+    ],
+    "features": [
+      "zoom",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "19 LEDs",
+    "sizeMm": null,
+    "weightKg": 33.55,
+    "url": "https://www.litelees.com/product/big-eye-l8019-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 Wash 19 x 80 W RGBW. Leistung 1650 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Circle Battery Par 615 IP",
+    "kind": "par",
+    "light": "6x15W RGBAW+UV 6 in 1 LEDs",
+    "beamDeg": [
+      15,
+      15
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2,
+      6,
+      8,
+      11
+    ],
+    "features": [
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      155,
+      155,
+      173
+    ],
+    "weightKg": 2.85,
+    "url": "https://www.litelees.com/product/circle-battery-par-615-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 Akku-Par 6 x 15 W RGBAW+UV. Leistung 90 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Classic Par 2710",
+    "kind": "par",
+    "light": "27 x1 0 W RGBW LED",
+    "beamDeg": [
+      25,
+      25
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      8
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      210,
+      210,
+      222
+    ],
+    "weightKg": 3.75,
+    "url": "https://www.litelees.com/product/classic-par-2710/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Par 27 x 10 W RGBW. Leistung 250 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "ECO Par 1812",
+    "kind": "par",
+    "light": "18x12W RGBW 4 -in- 1 LED",
+    "beamDeg": [
+      25,
+      25
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      8
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      170,
+      170,
+      80
+    ],
+    "weightKg": 3,
+    "url": "https://www.litelees.com/product/eco-par-1812/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Flat-Par 18 x 12 W RGBW. Leistung 240 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Fresnel 200",
+    "kind": "fresnel",
+    "light": "200W WW+CW 2 in 1 COB LED",
+    "beamDeg": [
+      25,
+      25
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      230,
+      220,
+      220
+    ],
+    "weightKg": 5,
+    "url": "https://www.litelees.com/product/fresnel-200/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Fresnel 200 W WW+CW COB. Leistung 200 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Fresnel ZOOM 600",
+    "kind": "fresnel",
+    "light": "6 00W WW+CW COB LED",
+    "beamDeg": [
+      15,
+      50
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 9,
+    "url": "https://www.litelees.com/product/fresnel-600/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Zoom-Fresnel 600 W WW+CW COB."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Fresnel ZOOM  300",
+    "kind": "fresnel",
+    "light": "300W WW+CW COB LED",
+    "beamDeg": [
+      15,
+      50
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      390,
+      175,
+      220
+    ],
+    "weightKg": 8.5,
+    "url": "https://www.litelees.com/product/fresnel-zoom-300/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Zoom-Fresnel 300 W WW+CW COB."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "L1537 WASH",
+    "kind": "wash",
+    "light": "37x15W RGBW 4 in1 Osram LEDs",
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      10,
+      15,
+      21,
+      25,
+      37
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "37 LEDs",
+    "sizeMm": [
+      370,
+      300,
+      400
+    ],
+    "weightKg": 13,
+    "url": "https://www.litelees.com/product/l1537-wash/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Wash 37 x 15 W RGBW. Leistung 500 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "L2537 WASH",
+    "kind": "wash",
+    "light": "37x25W RGBW 4 in1 Osram LEDs",
+    "beamDeg": [
+      10,
+      60
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      15,
+      31,
+      35
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "37 LEDs",
+    "sizeMm": [
+      430,
+      246,
+      510
+    ],
+    "weightKg": 19.5,
+    "url": "https://www.litelees.com/product/l2537-wash/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Wash 37 x 25 W RGBW. Leistung 850 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "L4019 WASH",
+    "kind": "wash",
+    "light": "19x40W RGBW 4 in1 Osram LEDs",
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      10,
+      15,
+      21,
+      25,
+      37
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "19 LEDs",
+    "sizeMm": [
+      430,
+      240,
+      510
+    ],
+    "weightKg": 19.5,
+    "url": "https://www.litelees.com/product/l4019-wash/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Wash 19 x 40 W RGBW. Leistung 760 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "LE BEAM 300",
+    "kind": "beam",
+    "light": "200W LED",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": "infinite",
+    "tilt": "infinite",
+    "channels": [
+      18
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:15",
+      "prism",
+      "frost",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 12,
+    "url": "https://www.litelees.com/product/le-beam-300/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Beam 200 W, Endlos-Pan/Tilt. Leistung 1400 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "LE BEAM 400",
+    "kind": "beam",
+    "light": "300W LED",
+    "beamDeg": [
+      1.5,
+      1.5
+    ],
+    "pan": 540,
+    "tilt": 540,
+    "channels": null,
+    "features": [
+      "colorwheel",
+      "gobo:5",
+      "prism",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 16,
+    "url": "https://www.litelees.com/product/le-beam-400/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Beam 300 W. Leistung 375 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "LE-BSW 300",
+    "kind": "hybrid",
+    "light": "300W LED",
+    "beamDeg": [
+      7,
+      35
+    ],
+    "pan": 540,
+    "tilt": 540,
+    "channels": null,
+    "features": [
+      "cto",
+      "colorwheel",
+      "gobo:9+6",
+      "prism"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 6.2,
+    "url": "https://www.litelees.com/product/le-bsw-300/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-BSW 300 W. Leistung 350 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "LE-BSW 500",
+    "kind": "hybrid",
+    "light": "500W LED",
+    "beamDeg": [
+      3,
+      45
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      31
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:10+8",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 23,
+    "url": "https://www.litelees.com/product/le-bsw-500/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-BSW 500 W, CMY. Leistung 570 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "LE-BSW 700 IP",
+    "kind": "hybrid",
+    "light": "600W LED",
+    "beamDeg": [
+      5,
+      40
+    ],
+    "pan": 540,
+    "tilt": 540,
+    "channels": [
+      26
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:5+7",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "animation",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 22,
+    "url": "https://www.litelees.com/product/le-bsw-700-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 LED-BSW 600 W, CMY. Leistung 700 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "LUMIX BEAM 420 IP",
+    "kind": "beam",
+    "light": "USHIO NSLU7A 420W",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      16
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:15",
+      "prism",
+      "frost",
+      "focus",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 20,
+    "url": "https://www.litelees.com/product/litelees-lumix-beam-420-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 Beam mit Ushio NSL U7A 420 W. Leistung 550 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Stormy Pixel Bar 1820 IP",
+    "kind": "bar",
+    "light": "Light source:18X20W RGBW 4-in-1 LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      10,
+      34,
+      96
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "1x18",
+    "sizeMm": null,
+    "weightKg": 7,
+    "url": "https://www.litelees.com/product/litelipees-stormy-pixel-bar-1820/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 Pixel-Bar 18 x 20 W RGBW. Leistung 360 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "LP Profile 1000 IP",
+    "kind": "profile",
+    "light": "1000W LED",
+    "beamDeg": [
+      4.5,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      34,
+      39,
+      56
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:6+7",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 28,
+    "url": "https://www.litelees.com/product/lp-profile-1000-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 LED-Profil 1000 W, CMY+CTO, Framing. Leistung 1100 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "LP Profile 700",
+    "kind": "profile",
+    "light": "600W LED",
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      37
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:6+7",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 25,
+    "url": "https://www.litelees.com/product/lp-profile-700/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Profil 600 W, Framing. Leistung 800 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "LP Profile 900",
+    "kind": "profile",
+    "light": "800W LED",
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      35
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:6+7",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 28,
+    "url": "https://www.litelees.com/product/lp-profile-900/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Profil 800 W, Framing."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "LS BEAM 350/250",
+    "kind": "beam",
+    "light": "Osram Sirius HRI 311W/250W",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": 540,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:13",
+      "prism",
+      "frost",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      320,
+      250,
+      550
+    ],
+    "weightKg": 13,
+    "url": "https://www.litelees.com/product/ls-beam-350-250/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Beam mit Osram Sirius HRI 311 W bzw. 250 W. Leistung 410 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "LS BEAM 380 Plus",
+    "kind": "beam",
+    "light": "295W lamp",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": 540,
+    "channels": null,
+    "features": [
+      "colorwheel",
+      "gobo:3",
+      "prism",
+      "frost",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 15,
+    "url": "https://www.litelees.com/product/ls-beam-380-plus/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Beam 295 W Lampe (Seitentitel nennt LS BEAM 300)."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Magic Cube V6 IP",
+    "kind": "effect",
+    "light": "16 x 15W RGBW LEDs",
+    "beamDeg": [
+      25,
+      25
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      8
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 3.5,
+    "url": "https://www.litelees.com/product/magic-cube-v6-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 LED-Würfel-Effekt 16 x 15 W RGBW. Leistung 200 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Magic Cube V8 IP",
+    "kind": "effect",
+    "light": "4 x 50W CW+WW LEDs",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      6,
+      8,
+      12
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 3.5,
+    "url": "https://www.litelees.com/product/magic-cube-v8-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 LED-Würfel-Effekt 4 x 50 W CW+WW. Leistung 250 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "MINI Battery Par 412",
+    "kind": "par",
+    "light": "4x12W RGBWA+UV LED",
+    "beamDeg": [
+      25,
+      25
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      10
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      153,
+      145,
+      60
+    ],
+    "weightKg": 1,
+    "url": "https://www.litelees.com/product/mini-battery-par-412/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Mini-Akku-Par 4 x 12 W RGBWA+UV. Leistung 48 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "MINI BEAM 250",
+    "kind": "beam",
+    "light": "250W lamp",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": 540,
+    "channels": null,
+    "features": [
+      "colorwheel",
+      "gobo:7",
+      "prism",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 9.5,
+    "url": "https://www.litelees.com/product/mini-beam-250/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Mini-Beam 250 W Lampe. Leistung 350 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "MINI EYE L3019 IP",
+    "kind": "wash",
+    "light": "Main light: 19 x 30W RGBW 4-in-1 LEDs",
+    "beamDeg": [
+      5,
+      55
+    ],
+    "pan": 540,
+    "tilt": 540,
+    "channels": [
+      17,
+      29,
+      32,
+      33,
+      464
+    ],
+    "features": [
+      "zoom",
+      "pixel",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "19 LEDs",
+    "sizeMm": [
+      443,
+      309,
+      190
+    ],
+    "weightKg": null,
+    "url": "https://www.litelees.com/product/mini-eye-l3019-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP Wash 19 x 30 W RGBW mit Endlos-Pan/Tilt? (laut Spec 540/540)."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Mini Profile 100",
+    "kind": "ellipsoidal",
+    "light": "100W LED",
+    "beamDeg": [
+      15,
+      15
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      390,
+      190,
+      135
+    ],
+    "weightKg": 2.6,
+    "url": "https://www.litelees.com/product/mini-profile-100/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Mini-LED-Profilscheinwerfer 100 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Mini Profile 80W IP",
+    "kind": "ellipsoidal",
+    "light": "80W White+Warm White COB",
+    "beamDeg": [
+      15,
+      30
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4
+    ],
+    "features": [
+      "zoom",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      380,
+      200,
+      280
+    ],
+    "weightKg": 4,
+    "url": "https://www.litelees.com/product/mini-profile-80-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 Mini-LED-Profilscheinwerfer 80 W WW+CW, Zoom 15-30°. Leistung 80 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "P10 Flood Light IP",
+    "kind": "flood",
+    "light": "48X20W 4-IN-1 RGBW LEDs",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      8,
+      13,
+      16,
+      21,
+      33,
+      48
+    ],
+    "features": [
+      "frost",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      570,
+      150,
+      320
+    ],
+    "weightKg": 10.6,
+    "url": "https://www.litelees.com/product/p10-flood-light-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 Fluter 48 x 20 W RGBW. Leistung 1100 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "P5 Flood Light IP",
+    "kind": "flood",
+    "light": "60X10W 4-IN-1 RGBW LEDs",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      6,
+      9
+    ],
+    "features": [
+      "frost",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      570,
+      150,
+      320
+    ],
+    "weightKg": 16,
+    "url": "https://www.litelees.com/product/p5-flood-light-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 Fluter 60 x 10 W RGBW. Leistung 650 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Pixel Bar 1812",
+    "kind": "bar",
+    "light": "Light source:18X12W RGBW 4-in-1 LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      10,
+      72,
+      78
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": "1x18",
+    "sizeMm": null,
+    "weightKg": 8,
+    "url": "https://www.litelees.com/product/pixel-bar-1812/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Pixel-Bar 18 x 12 W RGBW. Leistung 360 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Profile 200",
+    "kind": "ellipsoidal",
+    "light": "200W Warm White+Cool White COB LED",
+    "beamDeg": [
+      19,
+      19
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      390,
+      175,
+      220
+    ],
+    "weightKg": 8.5,
+    "url": "https://www.litelees.com/product/profile-200/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Profilscheinwerfer 200 W WW+CW. Leistung 300 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Profile 300",
+    "kind": "ellipsoidal",
+    "light": "300W Warm White+Cool White COB LED",
+    "beamDeg": [
+      19,
+      19
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      390,
+      175,
+      220
+    ],
+    "weightKg": 8.5,
+    "url": "https://www.litelees.com/product/profile-300/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Profilscheinwerfer 300 W WW+CW. Leistung 300 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Profile 300W IP",
+    "kind": "ellipsoidal",
+    "light": "3 00W White+Warm White COB",
+    "beamDeg": [
+      15,
+      40
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4
+    ],
+    "features": [
+      "zoom",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 12,
+    "url": "https://www.litelees.com/product/profile-300w-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 LED-Profilscheinwerfer 300 W, Zoom 15-40°. Leistung 300 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Smart Battery Par 618",
+    "kind": "par",
+    "light": "6 x 18W RGBWA+UV 6 in 1 LEDs",
+    "beamDeg": [
+      25,
+      25
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      6,
+      10
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 3.2,
+    "url": "https://www.litelees.com/product/smart-battery-par-618/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Akku-Par 6 x 18 W RGBWA+UV. Leistung 108 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Stormy Battery Flood Light 1820 IP",
+    "kind": "flood",
+    "light": "Light source: 18x20W RGBWA UV LED",
+    "beamDeg": [
+      20,
+      20
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2,
+      4
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 8.5,
+    "url": "https://www.litelees.com/product/stormy-battery-flood-light-1820-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 Akku-Fluter 18 x 20 W RGBWA+UV. Leistung 120 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Stormy Battery Par 1212 IP",
+    "kind": "par",
+    "light": "12 X 12 W RGBWA+UV 6 in 1 LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      6,
+      8,
+      1
+    ],
+    "features": [
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 4,
+    "url": "https://www.litelees.com/product/stormy-battery-par-1212-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 Akku-Par 12 x 12 W RGBWA+UV."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Stormy Battery Par 420 IP",
+    "kind": "par",
+    "light": "4 x 20W RGBWA+UV 6 in 1 LED",
+    "beamDeg": [
+      10,
+      10
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2,
+      6,
+      8,
+      11
+    ],
+    "features": [
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      160,
+      160,
+      200
+    ],
+    "weightKg": 2.5,
+    "url": "https://www.litelees.com/product/stormy-battery-par-420-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 Akku-Par 4 x 20 W RGBWA+UV. Leistung 80 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Stormy Battery Par 620 IP",
+    "kind": "par",
+    "light": "6 x 20W RGBWA + UV 6 in 1 LEDs",
+    "beamDeg": [
+      10,
+      10
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2,
+      4
+    ],
+    "features": [
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      195,
+      143,
+      254
+    ],
+    "weightKg": 4.7,
+    "url": "https://www.litelees.com/product/stormy-battery-par-620-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 Akku-Par 6 x 20 W RGBWA+UV."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Stormy Battery Par 720 IP",
+    "kind": "par",
+    "light": "7X 20W 6 in 1 RGBALC LEDs",
+    "beamDeg": [
+      10,
+      10
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3,
+      6,
+      8,
+      1,
+      2
+    ],
+    "features": [
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 3.75,
+    "url": "https://www.litelees.com/product/stormy-battery-par-720-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 Akku-Par 7 x 20 W RGBALC. Leistung 140 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Stormy Battery Par 918 IP",
+    "kind": "par",
+    "light": "9x18W RGBWA+UV 6 IN 1 LED s",
+    "beamDeg": [
+      30,
+      30
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      6,
+      8,
+      10
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 3.5,
+    "url": "https://www.litelees.com/product/stormy-battery-par-918-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Akku-Par 9 x 18 W RGBWA+UV. Leistung 108 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Stormy Battery Pixel Bar 1612 IP",
+    "kind": "bar",
+    "light": "16 x 12W RGBA 4-in-1 LEDs",
+    "beamDeg": [
+      20,
+      20
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "1x16",
+    "sizeMm": null,
+    "weightKg": 9.5,
+    "url": "https://www.litelees.com/product/stormy-battery-pixel-bar-1612-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 Akku-Pixel-Bar 16 x 12 W RGBA. Leistung 240 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Stormy Battery Pixel Bar 812 IP",
+    "kind": "bar",
+    "light": "8 x 12W RGBA 4-in-1 LEDs",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": "1x8",
+    "sizeMm": null,
+    "weightKg": 6.3,
+    "url": "https://www.litelees.com/product/stormy-battery-pixel-bar-812-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Akku-Pixel-Bar 8 x 12 W RGBA. Leistung 160 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Stormy Blinder 400 IP",
+    "kind": "blinder",
+    "light": "2 X 200W high brightness COB （White+Warm White)",
+    "beamDeg": [
+      60,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      8
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "2 Zellen",
+    "sizeMm": null,
+    "weightKg": 12,
+    "url": "https://www.litelees.com/product/stormy-blinder-400-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 Blinder 2 x 200 W COB WW/CW. Leistung 300 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Stormy Blinder 800 IP",
+    "kind": "blinder",
+    "light": "4 X 200W high brightness COB （White+Warm White)",
+    "beamDeg": [
+      60,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      12
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "4 Zellen (2x2)",
+    "sizeMm": [
+      360,
+      360,
+      200
+    ],
+    "weightKg": 13,
+    "url": "https://www.litelees.com/product/stormy-blinder-800-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 Blinder 4 x 200 W COB WW/CW. Leistung 450 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Stormy Flash 550 IP",
+    "kind": "strobe",
+    "light": "672X0.5W RGB LED , 112X3W White LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      7,
+      15,
+      17,
+      21,
+      33,
+      39,
+      65,
+      68,
+      70,
+      112,
+      117
+    ],
+    "features": [
+      "frost",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 9.7,
+    "url": "https://www.litelees.com/product/stormy-flash-550-lp/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 Strobe/Pixel-Leiste 1 m: 672 x 0,5 W RGB plus 112 x 3 W weiß (Bauform wie ACME PIXEL LINE IP). Leistung 450 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Stormy Pixel Bar 1812 IP",
+    "kind": "bar",
+    "light": "Light source:18X12W RGBW 4-IN 1 LED",
+    "beamDeg": [
+      15,
+      15
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      6,
+      10,
+      28,
+      108
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "1x18",
+    "sizeMm": null,
+    "weightKg": 5,
+    "url": "https://www.litelees.com/product/stormy-pixel-bar-1812-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 Pixel-Bar 18 x 12 W RGBW. Leistung 180 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Stormy Shake Blinder IP",
+    "kind": "blinder",
+    "light": "2 X 300W imported high brightness COB",
+    "beamDeg": [
+      60,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      8,
+      12
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "2 Zellen",
+    "sizeMm": [
+      650,
+      140,
+      394
+    ],
+    "weightKg": 9.9,
+    "url": "https://www.litelees.com/product/stormy-shake-blinder-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 Blinder 2 x 300 W COB mit Bewegung (Shake). Leistung 450 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Stormy STRIKE M IP",
+    "kind": "strobe",
+    "light": "504 x 1.5W RGB LED (14-segments)",
+    "beamDeg": [
+      120,
+      120
+    ],
+    "pan": null,
+    "tilt": 185,
+    "channels": [
+      8,
+      18,
+      25,
+      95,
+      11,
+      13,
+      24
+    ],
+    "features": [
+      "IP65",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "14 Segmente",
+    "sizeMm": null,
+    "weightKg": 13,
+    "url": "https://www.litelees.com/product/stormy-strike-m-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 Strobe 504 x 1,5 W RGB in 14 Segmenten, motorischer Tilt 185°. Leistung 1500 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Stormy Strike M PRO IP",
+    "kind": "strobe",
+    "light": "784 x 1.5W RGB LED s (14-segments)",
+    "beamDeg": [
+      60,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      8,
+      11,
+      13,
+      24,
+      30,
+      47,
+      68,
+      74,
+      97
+    ],
+    "features": [
+      "IP65",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "14 Segmente",
+    "sizeMm": [
+      406,
+      202,
+      335
+    ],
+    "weightKg": 11.5,
+    "url": "https://www.litelees.com/product/stormy-strike-m-pro-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 Strobe 784 x 1,5 W RGB (Moving-Strobe-Bauform). Leistung 1500 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Stormy Strip Duo IP",
+    "kind": "bar",
+    "light": "Main light : 1 4 x 10 W",
+    "beamDeg": [
+      3.8,
+      3.8
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      12,
+      26,
+      21,
+      35,
+      28,
+      42,
+      32,
+      46,
+      39,
+      53,
+      56
+    ],
+    "features": [
+      "IP65",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 5.3,
+    "url": "https://www.litelees.com/product/stormy-strip-duo-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 Strip/Beam-Leiste, Hauptlicht 14 x 10 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Stormy Strobe 500 IP",
+    "kind": "strobe",
+    "light": "1350 x 0.5W RGBW 4 in 1 Leds",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      12,
+      120
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 10.8,
+    "url": "https://www.litelees.com/product/stormy-strobe-500-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 Strobe 1350 x 0,5 W RGBW. Leistung 500 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Stormy Strobe 700 IP",
+    "kind": "strobe",
+    "light": "960 x0.3W RGB LED(30-segment)",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      6,
+      8,
+      19,
+      33,
+      73,
+      141
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "30 Segmente",
+    "sizeMm": null,
+    "weightKg": 9.15,
+    "url": "https://www.litelees.com/product/stormy-strobe-700-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Strobe 960 x 0,3 W RGB in 30 Segmenten. Leistung 600 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Stormy Strobe Bar IP",
+    "kind": "strobe",
+    "light": "672X0.5W RGB LED , 112X3W White LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      7,
+      15,
+      17,
+      21,
+      33,
+      39,
+      65,
+      68,
+      70,
+      112,
+      117
+    ],
+    "features": [
+      "frost",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 9.7,
+    "url": "https://www.litelees.com/product/stormy-strobe-bar-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 Strobe-Bar 1 m: 672 x 0,5 W RGB plus 112 x 3 W weiß. Leistung 450 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Stormy Strobe M 3000 IP",
+    "kind": "strobe",
+    "light": "864 x 0.5W RGB LED (864-segments)",
+    "beamDeg": [
+      120,
+      120
+    ],
+    "pan": null,
+    "tilt": 190,
+    "channels": [
+      6,
+      20,
+      41,
+      444
+    ],
+    "features": [
+      "IP65",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      650,
+      220,
+      310
+    ],
+    "weightKg": 18,
+    "url": "https://www.litelees.com/product/stormy-strobe-m-3000-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 Strobe 864 x 0,5 W RGB mit motorischem Tilt 190°. Leistung 3000 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Stormy Supreme 600 IP",
+    "kind": "strobe",
+    "light": "960 X0.3W RGB LED(split into 30 areas)",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      15,
+      29,
+      33,
+      86,
+      152
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "30 Bereiche",
+    "sizeMm": null,
+    "weightKg": 16.24,
+    "url": "https://www.litelees.com/product/stormy-supreme-600-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Strobe 960 x 0,3 W RGB in 30 Bereichen. Leistung 900 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "SUPER HERO 470 PRO",
+    "kind": "hybrid",
+    "light": "Osram Sirius HRI 461W S",
+    "beamDeg": [
+      4,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      30,
+      34
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:18+6",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 30,
+    "url": "https://www.litelees.com/product/super-hero-470-pro/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "BSW mit Osram Sirius HRI 461 W. Leistung 700 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "TORNADOT 5 IP",
+    "kind": "multihead",
+    "light": "5 x 120W RGBL LEDs",
+    "beamDeg": [
+      3.5,
+      45
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      21,
+      41,
+      71,
+      75,
+      85,
+      170
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "1x5 Köpfe",
+    "sizeMm": [
+      1000,
+      353,
+      195
+    ],
+    "weightKg": 30,
+    "url": "https://www.litelees.com/product/tornadot-5-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP Leiste 1 m mit 5 einzeln beweglichen Köpfen (je 120 W RGBL), Bauform wie ACME TORNADO. Leistung 666 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "TORNADOT 5",
+    "kind": "multihead",
+    "light": "5 X 120 W RGB L LED",
+    "beamDeg": [
+      4,
+      35
+    ],
+    "pan": 60,
+    "tilt": 60,
+    "channels": [
+      41,
+      71,
+      75,
+      85,
+      170
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "1x5 Köpfe",
+    "sizeMm": null,
+    "weightKg": 25.3,
+    "url": "https://www.litelees.com/product/tornadot-5/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leiste mit 5 einzeln Pan/Tilt-beweglichen Köpfen (je 120 W RGBL, Zoom 4-35°), Pan/Tilt je Kopf laut Spec 60°. Leistung 690 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Volero 1000 IP",
+    "kind": "bar",
+    "light": "Main light: 12 x 60W RGBW 4-in-1 LEDs",
+    "beamDeg": [
+      4.5,
+      36
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      26,
+      59,
+      128,
+      182,
+      314,
+      329
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "12 Zellen + 432 Strip-LEDs",
+    "sizeMm": [
+      1000,
+      232,
+      320
+    ],
+    "weightKg": 30.5,
+    "url": "https://www.litelees.com/product/volero-1000-ip/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 Bar 1 m mit 12 x 60 W RGBW (Zoom 4,5-36°) plus 432 x 1 W WW/CW Strip, „Sway“-Bewegung (motorisch, Winkel nicht angegeben), koppelbar. Leistung 800 W."
+  },
+  {
+    "manufacturer": "LiteLEES",
+    "model": "Volero 1000",
+    "kind": "bar",
+    "light": "Main light: 12 x 60W RGBW 4-in-1 LEDs",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 5,
+    "url": "https://www.litelees.com/product/volero-1000/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Indoor-Version der Volero 1000 (12 x 60 W RGBW + Strip); Kanäle online nicht sauber lesbar. Leistung 800 W."
+  }
+]

@@ -1,0 +1,1880 @@
+[
+ {
+  "man": "PR Lighting",
+  "key": "aqua-marine-580-bws",
+  "model": "AQUA Marine 580 BWS",
+  "kind": "hybrid",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   31,
+   35
+  ],
+  "feat": [
+   "cmy",
+   "gobo:17",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index100.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "aqua-580-bws",
+  "model": "AQUA 580 BWS",
+  "kind": "hybrid",
+  "deg": [
+   2,
+   40
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   31,
+   35
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:17",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index101.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "aqua-580-beam-pr-2569",
+  "model": "AQUA 580 Beam (PR-2569)",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   26,
+   30
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index102.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "aqua-480-bws",
+  "model": "AQUA 480 BWS",
+  "kind": "hybrid",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   31,
+   35
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:18",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index105.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "aqua-480-beam",
+  "model": "AQUA 480 Beam",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   26,
+   30
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:18",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index106.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "xr-580-bws",
+  "model": "XR 580 BWS",
+  "kind": "hybrid",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   31,
+   35
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index115.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "xr-580-beam",
+  "model": "XR 580 Beam",
+  "kind": "beam",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   26,
+   30
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:18",
+   "prism",
+   "frost",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index116.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "galaxy",
+  "model": "GALAXY",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   3.3,
+   60
+  ],
+  "ch": [
+   30,
+   102
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "http://www.pr-lighting.com/product/index117.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "xr-380-bws-pr-2393",
+  "model": "XR 380 BWS (PR-2393)",
+  "kind": "hybrid",
+  "deg": [
+   2.3,
+   40
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   28,
+   33
+  ],
+  "feat": [
+   "gobo:10",
+   "anim",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index118.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "xr-380-beam-pr-2345",
+  "model": "XR 380 Beam (PR-2345)",
+  "kind": "beam",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   19,
+   21
+  ],
+  "feat": [
+   "gobo:12",
+   "prism",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index119.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "xr-480-bws",
+  "model": "XR 480 BWS",
+  "kind": "hybrid",
+  "deg": [
+   2.3,
+   10
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   28,
+   33
+  ],
+  "feat": [
+   "cmy",
+   "gobo:10",
+   "anim",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index123.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "aqua-380-beam",
+  "model": "AQUA 380 Beam",
+  "kind": "beam",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   20,
+   21
+  ],
+  "feat": [
+   "gobo:16",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index133.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "aqua-380-bws",
+  "model": "AQUA 380 BWS",
+  "kind": "hybrid",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   27,
+   32
+  ],
+  "feat": [
+   "gobo:11",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index134.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "planet",
+  "model": "PLANET",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   3.3,
+   60
+  ],
+  "ch": [
+   26,
+   30,
+   54
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "http://www.pr-lighting.com/product/index138.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "xled-3019",
+  "model": "XLED 3019",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   17,
+   60
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   20
+  ],
+  "url": "http://www.pr-lighting.com/product/index141.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "xled-1061",
+  "model": "XLED 1061",
+  "kind": "wash",
+  "leds": [
+   61,
+   "rgbw"
+  ],
+  "deg": [
+   13,
+   52
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   30
+  ],
+  "feat": [
+   "anim"
+  ],
+  "url": "http://www.pr-lighting.com/product/index143.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "xpar-354",
+  "model": "XPAR 354",
+  "kind": "par",
+  "leds": [
+   54,
+   "rgbw"
+  ],
+  "deg": [
+   8,
+   8
+  ],
+  "ch": [
+   11
+  ],
+  "feat": [
+   "frost"
+  ],
+  "url": "http://www.pr-lighting.com/product/index146.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "ls-par-1512-w",
+  "model": "LS PAR 1512-W",
+  "kind": "par",
+  "leds": [
+   12,
+   "white"
+  ],
+  "deg": [
+   14,
+   14
+  ],
+  "ch": [
+   2
+  ],
+  "url": "http://www.pr-lighting.com/product/index148.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "ls-par-1512",
+  "model": "LS PAR 1512",
+  "kind": "par",
+  "leds": [
+   12,
+   "rgba"
+  ],
+  "deg": [
+   14,
+   14
+  ],
+  "ch": [
+   11
+  ],
+  "url": "http://www.pr-lighting.com/product/index149.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "ls-par-1524",
+  "model": "LS PAR 1524",
+  "kind": "par",
+  "leds": [
+   24,
+   "rgbw"
+  ],
+  "deg": [
+   16,
+   16
+  ],
+  "ch": [
+   10
+  ],
+  "url": "http://www.pr-lighting.com/product/index161.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "xpar-1514-zoom",
+  "model": "XPAR 1514 Zoom",
+  "kind": "par",
+  "leds": [
+   14,
+   "rgbw"
+  ],
+  "deg": [
+   14,
+   42
+  ],
+  "ch": [
+   5
+  ],
+  "feat": [
+   "frost",
+   "zoom"
+  ],
+  "url": "http://www.pr-lighting.com/product/index162.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "aqua-led-3000-w-framing",
+  "model": "AQUA LED 3000-W Framing",
+  "kind": "profile",
+  "deg": [
+   6,
+   56
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   38,
+   54
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index270.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "xrled-3000-w-framing-pr-8837",
+  "model": "XRLED 3000-W Framing (PR-8837)",
+  "kind": "profile",
+  "deg": [
+   6,
+   54
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   47,
+   52,
+   67
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index279.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "xled-1537",
+  "model": "XLED 1537",
+  "kind": "wash",
+  "leds": [
+   37,
+   "rgbw"
+  ],
+  "deg": [
+   13,
+   52
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   29,
+   41
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "http://www.pr-lighting.com/product/index280.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "aqua-580-beam-pr-2569s",
+  "model": "AQUA 580 Beam (PR-2569S)",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   18,
+   20
+  ],
+  "feat": [
+   "cto",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index286.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "cubix-600",
+  "model": "CUBIX 600",
+  "kind": "effect",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   7,
+   45
+  ],
+  "ch": [
+   19
+  ],
+  "feat": [
+   "cto",
+   "gobo:6",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "http://www.pr-lighting.com/product/index297.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "aqua-laser-260-beam-pr-8339",
+  "model": "AQUA Laser 260 Beam (PR-8339)",
+  "kind": "beam",
+  "deg": [
+   0.8,
+   0.8
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   25,
+   28
+  ],
+  "feat": [
+   "cmy",
+   "gobo:30",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "http://www.pr-lighting.com/product/index313.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "xr-230-beam",
+  "model": "XR 230 Beam",
+  "kind": "beam",
+  "deg": [
+   0.5,
+   3.6
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   14,
+   16
+  ],
+  "feat": [
+   "gobo:17",
+   "prism",
+   "frost",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index316.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "xr-450-bws",
+  "model": "XR 450 BWS",
+  "kind": "hybrid",
+  "deg": [
+   2.3,
+   2.3
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   28,
+   33
+  ],
+  "feat": [
+   "cmy",
+   "gobo:10",
+   "anim",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index317.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "aqua-led-770-w-bwsf",
+  "model": "AQUA LED 770-W BWSF",
+  "kind": "profile",
+  "deg": [
+   5.5,
+   50
+  ],
+  "tilt": 270,
+  "ch": [
+   35,
+   50
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:8",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index319.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "xr-300-beam",
+  "model": "XR 300 Beam",
+  "kind": "beam",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16
+  ],
+  "feat": [
+   "gobo:17",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "http://www.pr-lighting.com/product/index320.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "xrled-400-bws",
+  "model": "XRLED 400 BWS",
+  "kind": "hybrid",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   22,
+   28
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index326.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "xrled-3500-w-framing",
+  "model": "XRLED 3500-W Framing",
+  "kind": "profile",
+  "deg": [
+   5,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   47,
+   52,
+   67
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index329.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "xrled-700-w-bws",
+  "model": "XRLED 700-W BWS",
+  "kind": "hybrid",
+  "deg": [
+   4,
+   40
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   30
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "http://www.pr-lighting.com/product/index330.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "xrled-3000-w-wash-framing",
+  "model": "XRLED 3000-W Wash/Framing",
+  "kind": "profile",
+  "deg": [
+   7,
+   40
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   22,
+   25,
+   31
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index332.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "tango-680-spot-de",
+  "model": "TANGO 680 Spot DE",
+  "kind": "spot",
+  "deg": [
+   6,
+   50
+  ],
+  "tilt": 270,
+  "ch": [
+   17
+  ],
+  "feat": [
+   "gobo:8",
+   "prism",
+   "zoom",
+   "focus"
+  ],
+  "url": "http://www.pr-lighting.com/product/index334.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "tango-750-framing",
+  "model": "TANGO 750 Framing",
+  "kind": "profile",
+  "deg": [
+   5,
+   40
+  ],
+  "tilt": 140,
+  "ch": [
+   30
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:8",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index337.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "aqua-laser-260-bws",
+  "model": "AQUA Laser 260 BWS",
+  "kind": "hybrid",
+  "deg": [
+   0.6,
+   20
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   28,
+   31
+  ],
+  "feat": [
+   "cmy",
+   "gobo:30",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "http://www.pr-lighting.com/product/index340.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "xrled-3000-w-wash",
+  "model": "XRLED 3000-W Wash",
+  "kind": "wash",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   7,
+   40
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   22,
+   25,
+   31
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "focus"
+  ],
+  "url": "http://www.pr-lighting.com/product/index343.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "xrled-3500-w-wash-framing",
+  "model": "XRLED 3500-W Wash/Framing",
+  "kind": "profile",
+  "deg": [
+   7,
+   40
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   31,
+   35,
+   49
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index349.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "xled-4012",
+  "model": "XLED 4012",
+  "kind": "wash",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "deg": [
+   7,
+   42
+  ],
+  "pan": 540,
+  "ch": [
+   18
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "http://www.pr-lighting.com/product/index351.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "xled-4019",
+  "model": "XLED 4019",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   40
+  ],
+  "pan": 540,
+  "tilt": 240,
+  "ch": [
+   31,
+   41
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "http://www.pr-lighting.com/product/index355.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "xrled-700-w-bwsf",
+  "model": "XRLED 700-W BWSF",
+  "kind": "profile",
+  "deg": [
+   4,
+   40
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   40
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:7",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index356.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "aqua-xled-6019",
+  "model": "AQUA XLED 6019",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   7,
+   45
+  ],
+  "pan": 540,
+  "tilt": 216,
+  "ch": [
+   7,
+   21,
+   26,
+   35,
+   43,
+   78,
+   92,
+   97
+  ],
+  "pixelFrom": 78,
+  "feat": [
+   "zoom"
+  ],
+  "url": "http://www.pr-lighting.com/product/index362.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "aqua-laser-500-bws",
+  "model": "AQUA Laser 500 BWS",
+  "kind": "hybrid",
+  "deg": [
+   0.8,
+   26
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   28,
+   31
+  ],
+  "feat": [
+   "cmy",
+   "gobo:30",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "http://www.pr-lighting.com/product/index368.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "xrled-1600-w-bwsf",
+  "model": "XRLED 1600-W BWSF",
+  "kind": "profile",
+  "deg": [
+   5,
+   60
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   40,
+   46,
+   59
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:8",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index370.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "pr-6000-spot-1400w",
+  "model": "PR-6000 Spot(1400W)",
+  "kind": "spot",
+  "deg": [
+   6,
+   55
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   32,
+   39
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:19",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index371.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "xr-380-bws-pr-2392a",
+  "model": "XR 380 BWS (PR-2392A)",
+  "kind": "hybrid",
+  "deg": [
+   2,
+   20
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   28
+  ],
+  "feat": [
+   "cmy",
+   "gobo:10",
+   "gobor",
+   "gobo2",
+   "prism",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index372.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "xr-380-bws-pr-2393a",
+  "model": "XR 380 BWS (PR-2393A)",
+  "kind": "hybrid",
+  "deg": [
+   2,
+   20
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   23
+  ],
+  "feat": [
+   "gobo:10",
+   "gobor",
+   "gobo2",
+   "prism",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index373.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "xr-380-beam-pr-2345a",
+  "model": "XR 380 Beam (PR-2345A)",
+  "kind": "beam",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16
+  ],
+  "feat": [
+   "gobo:17",
+   "prism",
+   "focus"
+  ],
+  "url": "http://www.pr-lighting.com/product/index374.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "aqua-laser-120-beam",
+  "model": "AQUA Laser 120 BEAM",
+  "kind": "beam",
+  "deg": [
+   0.8,
+   5
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   17,
+   18
+  ],
+  "feat": [
+   "gobo:30",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "http://www.pr-lighting.com/product/index377.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "aqua-laser-500-beam-pr-8369",
+  "model": "AQUA Laser 500 Beam (PR-8369)",
+  "kind": "beam",
+  "deg": [
+   0.8,
+   0.8
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   25,
+   28
+  ],
+  "feat": [
+   "gobo:30",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "http://www.pr-lighting.com/product/index378.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "aqua-led-4000-w-framing",
+  "model": "AQUA LED 4000-W Framing",
+  "kind": "profile",
+  "deg": [
+   5,
+   56
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   40,
+   45,
+   59
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index380.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "xrled-1600-w-bws",
+  "model": "XRLED 1600-W BWS",
+  "kind": "hybrid",
+  "deg": [
+   5,
+   60
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   31,
+   36,
+   41
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:8",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "http://www.pr-lighting.com/product/index382.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "aqua-led-1600-w-bwsf",
+  "model": "AQUA LED 1600-W BWSF",
+  "kind": "profile",
+  "deg": [
+   5,
+   60
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   40,
+   46,
+   59
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:8",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index383.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "aqua-laser-260-beam-pr-8329",
+  "model": "AQUA LASER 260 BEAM (PR-8329)",
+  "kind": "beam",
+  "deg": [
+   0.8,
+   0.8
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   17,
+   18
+  ],
+  "feat": [
+   "gobo:30",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "http://www.pr-lighting.com/product/index385.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "aqua-laser-500-beam-pr-8359",
+  "model": "AQUA Laser 500 Beam (PR-8359)",
+  "kind": "beam",
+  "deg": [
+   0.8,
+   0.8
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   17,
+   18
+  ],
+  "feat": [
+   "gobo:30",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "http://www.pr-lighting.com/product/index386.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "dragon-1600-w-bwsf",
+  "model": "DRAGON 1600-W BWSF",
+  "kind": "profile",
+  "deg": [
+   5,
+   60
+  ],
+  "tilt": 200,
+  "ch": [
+   32,
+   38,
+   51
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:8",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index388.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "xrled-2600-w-bwsf",
+  "model": "XRLED 2600-W BWSF",
+  "kind": "profile",
+  "deg": [
+   5,
+   60
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   40,
+   46,
+   59
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:8",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index389.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "dragon-700-w-bws",
+  "model": "DRAGON 700-W BWS",
+  "kind": "hybrid",
+  "deg": [
+   4,
+   40
+  ],
+  "tilt": 200,
+  "ch": [
+   20,
+   25,
+   29
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index392.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "xrled-4000-w-framing",
+  "model": "XRLED 4000-W Framing",
+  "kind": "profile",
+  "deg": [
+   6,
+   54
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   47,
+   52,
+   67
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index393.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "aqua-led-2600-w-bwsf",
+  "model": "AQUA LED 2600-W BWSF",
+  "kind": "profile",
+  "deg": [
+   5,
+   60
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   40,
+   46,
+   59
+  ],
+  "feat": [
+   "cto",
+   "gobo:8",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index396.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "tango-led-4000-w-framing",
+  "model": "TANGO LED 4000-W FRAMING",
+  "kind": "profile",
+  "deg": [
+   5,
+   56
+  ],
+  "tilt": 270,
+  "ch": [
+   35,
+   40,
+   54
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index398.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "tango-led-2600-w-bwsf",
+  "model": "TANGO LED 2600-W BWSF",
+  "kind": "profile",
+  "deg": [
+   5,
+   60
+  ],
+  "tilt": 270,
+  "ch": [
+   35,
+   41,
+   54
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:8",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index400.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "aqua-laser-850-beam",
+  "model": "AQUA Laser 850 Beam",
+  "kind": "lasermh",
+  "deg": [
+   0.5,
+   1.5
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   23
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "http://www.pr-lighting.com/product/index401.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "pr-6000-framing-1400w",
+  "model": "PR-6000 Framing(1400W)",
+  "kind": "profile",
+  "deg": [
+   6,
+   55
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   36
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:4",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index96.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "pr-6000-wash-framing",
+  "model": "PR-6000 Wash/Framing",
+  "kind": "wash",
+  "deg": [
+   10,
+   60
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   32,
+   45
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index97.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "pr-6000-wash",
+  "model": "PR-6000 Wash",
+  "kind": "wash",
+  "deg": [
+   10,
+   60
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   23,
+   27
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "zoom",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index98.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "PR Lighting",
+  "key": "aqua-marine-580-beam",
+  "model": "AQUA Marine 580 Beam",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   26,
+   30
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:18",
+   "prism",
+   "frost",
+   "focus",
+   "blades"
+  ],
+  "url": "http://www.pr-lighting.com/product/index99.html",
+  "note": "Steckbrief aus Herstellerangaben (pr-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

@@ -1,0 +1,539 @@
+[
+ {
+  "manufacturer": "Big Dipper",
+  "model": "LM108 36×3W LED Moving Beam Wash",
+  "kind": "wash",
+  "light": "36×3W RGBW (R8 G10 B10 W8)",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   9,
+   16
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   225,
+   225,
+   295
+  ],
+  "weightKg": 2.7,
+  "url": "https://www.made-in-china.com/showroom/bigdipperyork/product-detaildvwJnmIhrqcF/China-36-3W-Beam-Moving-Head-LED.html",
+  "manualUrl": null,
+  "status": "Herstellerkatalog made-in-china.com (11/2026)",
+  "inLibrary": "qlc:betopper/lm108-wash-moving-head",
+  "notes": "150W; auch unter Marke Betopper; Hersteller: Shenzhen Big Dipper Laser Science & Technology (Marken Big Dipper / SEVEN STARS, Betopper-Modelle stammen aus demselben Haus)"
+ },
+ {
+  "manufacturer": "Big Dipper",
+  "model": "LM250 Matrix Moving Head 25×10W RGBW",
+  "kind": "matrixhead",
+  "light": "25×10W RGBW 4in1, einzeln steuerbar (5×5)",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   19,
+   29,
+   117
+  ],
+  "features": [
+   "pixel",
+   "infinite-rotation"
+  ],
+  "ring": null,
+  "pixels": "5×5 = 25 RGBW-Pixel",
+  "sizeMm": [
+   455,
+   390,
+   550
+  ],
+  "weightKg": null,
+  "url": "https://www.made-in-china.com/showroom/bigdipperyork/product-detailFBWJzClufXkp/China-Matrix-Moving-Head-LED.html",
+  "manualUrl": null,
+  "status": "Herstellerkatalog made-in-china.com (11/2026)",
+  "inLibrary": null,
+  "notes": "450W; Pan/Tilt endlos laut Hersteller; Maße = Angabe „Movement Angle“-Feld, vermutlich Gerätemaß; Hersteller: Shenzhen Big Dipper Laser Science & Technology (Marken Big Dipper / SEVEN STARS, Betopper-Modelle stammen aus demselben Haus)"
+ },
+ {
+  "manufacturer": "Big Dipper",
+  "model": "LM70 7×8W RGBW Mini Moving Head",
+  "kind": "wash",
+  "light": "7×8W RGBW 4in1",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   9,
+   14
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   225,
+   225,
+   395
+  ],
+  "weightKg": null,
+  "url": "https://www.made-in-china.com/showroom/bigdipperyork/product-detailhXdEqSQPfokV/China-7-8W-Mini-Moving-Head-LED.html",
+  "manualUrl": null,
+  "status": "Herstellerkatalog made-in-china.com (11/2026)",
+  "inLibrary": "qlc:betopper/lm70",
+  "notes": "100W; auch unter Marke Betopper; Hersteller: Shenzhen Big Dipper Laser Science & Technology (Marken Big Dipper / SEVEN STARS, Betopper-Modelle stammen aus demselben Haus)"
+ },
+ {
+  "manufacturer": "Big Dipper",
+  "model": "LB230 / LB200 / LB200N 7R Beam",
+  "kind": "beam",
+  "light": "230W 7R Lampe (OSRAM)",
+  "beamDeg": [
+   0,
+   3.8
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   16,
+   20
+  ],
+  "features": [
+   "gobo:17",
+   "colorwheel:14",
+   "prism:8",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.made-in-china.com/showroom/bigdipperyork/product-detailoSkQahurbXcW/China-Beam-LED-Moving-Head-Lb230-Lb200.html",
+  "manualUrl": null,
+  "status": "Herstellerkatalog made-in-china.com (11/2026)",
+  "inLibrary": "qlc:betopper/lb230",
+  "notes": "zusätzlich „Beam Angle 8°“ genannt; 14 Farben + offen, 17 feste Gobos + offen; Hersteller: Shenzhen Big Dipper Laser Science & Technology (Marken Big Dipper / SEVEN STARS, Betopper-Modelle stammen aus demselben Haus)"
+ },
+ {
+  "manufacturer": "Big Dipper",
+  "model": "LM80 Spider 8×8W RGBW (2 bewegliche LED-Leisten)",
+  "kind": "spider",
+  "light": "8×8W RGBW 4in1 auf 2 Leisten à 4",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   6,
+   12,
+   36
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": "2 Leisten × 4 LEDs",
+  "sizeMm": null,
+  "weightKg": 5.3,
+  "url": "https://www.made-in-china.com/showroom/bigdipperyork/product-detailrBdJQUDbbqWc/China-Moving-Head-Spider-Light-Lm80.html",
+  "manualUrl": null,
+  "status": "Herstellerkatalog made-in-china.com (11/2026)",
+  "inLibrary": null,
+  "notes": "Aufbau: 2 unabhängig kippende LED-Leisten; Kanalmodi 1/6/12/36; Hersteller: Shenzhen Big Dipper Laser Science & Technology (Marken Big Dipper / SEVEN STARS, Betopper-Modelle stammen aus demselben Haus)"
+ },
+ {
+  "manufacturer": "Big Dipper",
+  "model": "LS90 90W LED Spot",
+  "kind": "spot",
+  "light": "90W LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   16
+  ],
+  "features": [
+   "gobo:14",
+   "colorwheel:7",
+   "prism:3",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 7.0,
+  "url": "https://www.made-in-china.com/showroom/bigdipperyork/product-detailRXdEneibCqVz/China-Moving-Head-Spot-Light-Ls90-GOBO-.html",
+  "manualUrl": null,
+  "status": "Herstellerkatalog made-in-china.com (11/2026)",
+  "inLibrary": "ofl:big-dipper/ls90",
+  "notes": "6 Farbglas- + 8 Metallgobos; Packmaß 245×235×350 mm; Hersteller: Shenzhen Big Dipper Laser Science & Technology (Marken Big Dipper / SEVEN STARS, Betopper-Modelle stammen aus demselben Haus)"
+ },
+ {
+  "manufacturer": "Big Dipper",
+  "model": "LPC001 9×8W RGBW PAR",
+  "kind": "par",
+  "light": "9×8W RGBW 4in1",
+  "beamDeg": [
+   45,
+   45
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   8
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   345,
+   125,
+   305
+  ],
+  "weightKg": 2.0,
+  "url": "https://www.made-in-china.com/showroom/bigdipperyork/product-detailUBFJawIuLokd/China-9-8W-Lpc001-LED-PAR-Light.html",
+  "manualUrl": null,
+  "status": "Herstellerkatalog made-in-china.com (11/2026)",
+  "inLibrary": null,
+  "notes": "75W; Hersteller: Shenzhen Big Dipper Laser Science & Technology (Marken Big Dipper / SEVEN STARS, Betopper-Modelle stammen aus demselben Haus)"
+ },
+ {
+  "manufacturer": "Big Dipper",
+  "model": "LP002 36×3W RGB PAR",
+  "kind": "par",
+  "light": "36×3W RGB (R12 G12 B12)",
+  "beamDeg": [
+   25,
+   25
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   7
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   255,
+   255,
+   365
+  ],
+  "weightKg": 2.7,
+  "url": "https://www.made-in-china.com/showroom/bigdipperyork/product-detailXSFmbHqCkxVk/China-LED-PAR-Light-LP002-.html",
+  "manualUrl": null,
+  "status": "Herstellerkatalog made-in-china.com (11/2026)",
+  "inLibrary": null,
+  "notes": "120W; Hersteller: Shenzhen Big Dipper Laser Science & Technology (Marken Big Dipper / SEVEN STARS, Betopper-Modelle stammen aus demselben Haus)"
+ },
+ {
+  "manufacturer": "Big Dipper",
+  "model": "LPW001 54×3W RGBW IP65 PAR",
+  "kind": "par",
+  "light": "54×3W (12R/18G/18B/6W)",
+  "beamDeg": [
+   25,
+   25
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   8
+  ],
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   345,
+   345,
+   375
+  ],
+  "weightKg": 8.0,
+  "url": "https://www.made-in-china.com/showroom/bigdipperyork/product-detailgXOJAkIonqcl/China-54X3w-Waterproof-PAR-Light.html",
+  "manualUrl": null,
+  "status": "Herstellerkatalog made-in-china.com (11/2026)",
+  "inLibrary": null,
+  "notes": "200W; Hersteller: Shenzhen Big Dipper Laser Science & Technology (Marken Big Dipper / SEVEN STARS, Betopper-Modelle stammen aus demselben Haus)"
+ },
+ {
+  "manufacturer": "Big Dipper",
+  "model": "L001 Disco/Magic Ball 6×3W",
+  "kind": "effect",
+  "light": "6×3W (2R/1G/1B/1W/1O)",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   183,
+   183,
+   154
+  ],
+  "weightKg": 1.0,
+  "url": "https://www.made-in-china.com/showroom/bigdipperyork/product-detailIvZxotbThQVM/China-Disco-Ball-Light-L001-.html",
+  "manualUrl": null,
+  "status": "Herstellerkatalog made-in-china.com (11/2026)",
+  "inLibrary": null,
+  "notes": "Kristallkugel mit 6 Ringen, 82 Einzelstrahlen; Hersteller: Shenzhen Big Dipper Laser Science & Technology (Marken Big Dipper / SEVEN STARS, Betopper-Modelle stammen aus demselben Haus)"
+ },
+ {
+  "manufacturer": "Big Dipper",
+  "model": "LP001 PAR",
+  "kind": "par",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.alibaba.com/product-detail/Big-Dipper-LP001-Party-Dmx-Par_1600979339918.html",
+  "manualUrl": null,
+  "status": "Herstellerkatalog made-in-china.com (11/2026)",
+  "inLibrary": "ofl:big-dipper/lp001",
+  "notes": "bereits in Bibliothek; Shop-Daten nicht neu erhoben; Hersteller: Shenzhen Big Dipper Laser Science & Technology (Marken Big Dipper / SEVEN STARS, Betopper-Modelle stammen aus demselben Haus)"
+ },
+ {
+  "manufacturer": "Big Dipper",
+  "model": "3W RGB Animation Laser",
+  "kind": "laser",
+  "light": "3W RGB",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "laser",
+   "ilda"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.made-in-china.com/showroom/bigdipperyork/product-detailVBWJtriobvkI/China-3W-RGB-Animation-Laser.html",
+  "manualUrl": null,
+  "status": "Herstellerkatalog made-in-china.com (11/2026)",
+  "inLibrary": null,
+  "notes": "ILDA/DMX/SD-Karte; Hersteller: Shenzhen Big Dipper Laser Science & Technology (Marken Big Dipper / SEVEN STARS, Betopper-Modelle stammen aus demselben Haus)"
+ },
+ {
+  "manufacturer": "Big Dipper",
+  "model": "K350R Single Red Laser",
+  "kind": "laser",
+  "light": "Rotlaser",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.made-in-china.com/showroom/bigdipperyork/product-detailOvFQGlDbMqWK/China-K350r-Unique-Single-Red.html",
+  "manualUrl": null,
+  "status": "Herstellerkatalog made-in-china.com (11/2026)",
+  "inLibrary": null,
+  "notes": "keine weiteren Daten; Hersteller: Shenzhen Big Dipper Laser Science & Technology (Marken Big Dipper / SEVEN STARS, Betopper-Modelle stammen aus demselben Haus)"
+ },
+ {
+  "manufacturer": "Big Dipper",
+  "model": "M020RG/4 Vierkopf-Laser rot/grün",
+  "kind": "laser",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "laser"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.made-in-china.com/showroom/bigdipperyork/product-detailrvFEVRMJhQhd/China-Four-Heads-Red-Green-Laser-Show-M020RG-4-.html",
+  "manualUrl": null,
+  "status": "Herstellerkatalog made-in-china.com (11/2026)",
+  "inLibrary": null,
+  "notes": "4 Laserköpfe; Hersteller: Shenzhen Big Dipper Laser Science & Technology (Marken Big Dipper / SEVEN STARS, Betopper-Modelle stammen aus demselben Haus)"
+ },
+ {
+  "manufacturer": "Big Dipper",
+  "model": "B500 Pure Blue Step Motor Laser",
+  "kind": "laser",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.made-in-china.com/showroom/bigdipperyork/product-detailZvFxWOoEMnhs/China-Pure-Blue-Step-Motor-Laser-Show-System-B500-.html",
+  "manualUrl": null,
+  "status": "Herstellerkatalog made-in-china.com (11/2026)",
+  "inLibrary": null,
+  "notes": "Auto/Sound/DMX; Hersteller: Shenzhen Big Dipper Laser Science & Technology (Marken Big Dipper / SEVEN STARS, Betopper-Modelle stammen aus demselben Haus)"
+ },
+ {
+  "manufacturer": "Big Dipper",
+  "model": "G1000 High Power Green Laser",
+  "kind": "laser",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.made-in-china.com/showroom/bigdipperyork/product-detailsBZnxvlEfbWK/China-High-Power-Pure-Green-Laser-G1000-.html",
+  "manualUrl": null,
+  "status": "Herstellerkatalog made-in-china.com (11/2026)",
+  "inLibrary": null,
+  "notes": "Hersteller: Shenzhen Big Dipper Laser Science & Technology (Marken Big Dipper / SEVEN STARS, Betopper-Modelle stammen aus demselben Haus)"
+ },
+ {
+  "manufacturer": "Big Dipper",
+  "model": "S09RG Mini Grating Laser",
+  "kind": "laser",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.made-in-china.com/showroom/bigdipperyork/product-detailevwnVUobrEWC/China-Mini-Grating-Laser-Show-Light-S09RG-.html",
+  "manualUrl": null,
+  "status": "Herstellerkatalog made-in-china.com (11/2026)",
+  "inLibrary": null,
+  "notes": "ohne DMX (self-propelled); Hersteller: Shenzhen Big Dipper Laser Science & Technology (Marken Big Dipper / SEVEN STARS, Betopper-Modelle stammen aus demselben Haus)"
+ },
+ {
+  "manufacturer": "Big Dipper",
+  "model": "35W LED Gobo Moving Head",
+  "kind": "spot",
+  "light": "35W LED",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 200,
+  "channels": [
+   9,
+   11
+  ],
+  "features": [
+   "gobo:8",
+   "colorwheel:8"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.amazon.ca/Big-Dipper-Spotlights-Activated-Equipment/dp/B0CF1TC889",
+  "manualUrl": null,
+  "status": "Amazon-Listing",
+  "inLibrary": null,
+  "notes": "Daten aus Suchergebnis-Auszug; Hersteller: Shenzhen Big Dipper Laser Science & Technology (Marken Big Dipper / SEVEN STARS, Betopper-Modelle stammen aus demselben Haus)"
+ },
+ {
+  "manufacturer": "Big Dipper",
+  "model": "120W RGBW Moving Par / Moving Head",
+  "kind": "wash",
+  "light": "RGBW 4in1, 120W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.amazon.com/Big-Dipper-Activated-Control-Theaters/dp/B0DFGYHZWW",
+  "manualUrl": null,
+  "status": "Amazon-Listing",
+  "inLibrary": null,
+  "notes": "nur Leistung/Farben bekannt; Hersteller: Shenzhen Big Dipper Laser Science & Technology (Marken Big Dipper / SEVEN STARS, Betopper-Modelle stammen aus demselben Haus)"
+ },
+ {
+  "manufacturer": "Big Dipper",
+  "model": "8×3W RGBW Spider Moving Head",
+  "kind": "spider",
+  "light": "8×3W RGBW 4in1",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.amazon.com/Big-Dipper-Spotlighting-Activated-Lighting/dp/B0BRZW7KGD",
+  "manualUrl": null,
+  "status": "Amazon-Listing",
+  "inLibrary": null,
+  "notes": "vermutlich baugleich Betopper LM30A (vd:betopper/lm30a) – nicht verifiziert; Hersteller: Shenzhen Big Dipper Laser Science & Technology (Marken Big Dipper / SEVEN STARS, Betopper-Modelle stammen aus demselben Haus)"
+ },
+ {
+  "manufacturer": "Big Dipper",
+  "model": "19×15W Zoom Wash Moving Head",
+  "kind": "wash",
+  "light": "19×15W RGBW",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "zoom",
+   "rdm"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.amazon.com/clp/B0DPX87Y5F",
+  "manualUrl": null,
+  "status": "Amazon-Listing",
+  "inLibrary": null,
+  "notes": "nur Titelangaben; Hersteller: Shenzhen Big Dipper Laser Science & Technology (Marken Big Dipper / SEVEN STARS, Betopper-Modelle stammen aus demselben Haus)"
+ },
+ {
+  "manufacturer": "Big Dipper",
+  "model": "10×15W Moving Head Bar",
+  "kind": "tiltbar",
+  "light": "10×15W RGBW",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://amazon.com/Big-Dipper-Moving-Acitivated-Wedding/dp/B0DXKCTZQS",
+  "manualUrl": null,
+  "status": "Amazon-Listing",
+  "inLibrary": null,
+  "notes": "vermutlich baugleich Betopper L1015 (qlc:betopper/l1015) – nicht verifiziert; Hersteller: Shenzhen Big Dipper Laser Science & Technology (Marken Big Dipper / SEVEN STARS, Betopper-Modelle stammen aus demselben Haus)"
+ }
+]

@@ -1,0 +1,6771 @@
+[
+  {
+    "manufacturer": "JCLight",
+    "model": "300W LED Ellipsoidal Profile Spotlight Sirius",
+    "kind": "ellipsoidal",
+    "light": "300W LED 3200K/5600K, dual color temperature",
+    "beamDeg": [
+      5,
+      5
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2,
+      4
+    ],
+    "features": [
+      "ring"
+    ],
+    "ring": "LED-Ring (Halo)",
+    "pixels": null,
+    "sizeMm": [
+      710,
+      340,
+      270
+    ],
+    "weightKg": 10.5,
+    "url": "https://jclight.com/products/300w-led-ellipsoidal-profile-spotlight-sirius-jc-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "Waterproof 10W 20W 30W Moving Head Animation Laser Light",
+    "kind": "lasermh",
+    "light": "Configuration: RGB 10/20/30W (Red 638nm/3/6/9W + Green 520nm3//6/9W + Blue 445nm/4/8/12W)",
+    "beamDeg": [
+      60,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      27
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      380,
+      290,
+      405
+    ],
+    "weightKg": 16,
+    "url": "https://jclight.com/products/2-3-5w-full-color-amination-moving-head-laser-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 500 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "Sirius LED 300 Moving Embroidery Light Dual Color",
+    "kind": "profile",
+    "light": "300W LED 3200K/5600K, dual color temperature",
+    "beamDeg": [
+      5,
+      5
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2,
+      4
+    ],
+    "features": [
+      "ring"
+    ],
+    "ring": "LED-Ring (Halo)",
+    "pixels": null,
+    "sizeMm": [
+      710,
+      340,
+      270
+    ],
+    "weightKg": 10.5,
+    "url": "https://jclight.com/products/sirius-led-300-moving-embroidery-light-dual-color-jc-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "Waterproof 19PCS Matrix Wash Moving Head Light 80W 120W",
+    "kind": "matrixhead",
+    "light": "19pcs 80w/120w RGBW 4in1 led + RGB full color led ring",
+    "beamDeg": [
+      4,
+      60
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": null,
+    "features": [
+      "IP65",
+      "ring"
+    ],
+    "ring": "LED-Ring (Halo)",
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-19pcs-matrix-wash-moving-head-light-80w-120w-jc-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 1500 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "6PCS Rotating Round Retro Stage Light",
+    "kind": "matrix",
+    "light": "6x40W warm white COB, 6 segment SMD5050 RGB LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      24,
+      34,
+      64
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1350,
+      400,
+      330
+    ],
+    "weightKg": 15.3,
+    "url": "https://jclight.com/products/6pcs-rotating-round-retro-stage-light-jc-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 500 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "7PCS 3in1 Retro Stage Light With Auxiliary Light",
+    "kind": "matrix",
+    "light": "7 x 60W COB LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      21,
+      64
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      836,
+      770,
+      135
+    ],
+    "weightKg": 15.4,
+    "url": "https://jclight.com/products/7pcs-3in1-retro-stage-light-with-auxiliary-light-jc-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 500 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "480W Beam Moving Head Light With Gobo Effects",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": [
+      2.2,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      34,
+      39
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:10+9",
+      "prism",
+      "frost",
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      391,
+      230,
+      673
+    ],
+    "weightKg": 21.5,
+    "url": "https://jclight.com/products/jc-light-mega-pointe-480w-beam-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 800 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "7PCS Waterproof LED Wash Moving Head Light",
+    "kind": "wash",
+    "light": "7 PCS 150W 4-in-1(RGBW)LED",
+    "beamDeg": [
+      5,
+      5
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      30,
+      42,
+      58
+    ],
+    "features": [
+      "cto",
+      "zoom",
+      "pixel",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      420,
+      420,
+      590
+    ],
+    "weightKg": 24.9,
+    "url": "https://jclight.com/products/jc-light-waterproof-7pcs-bee-eye-wash-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 1000 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "Water Wave LED Effect Light For Stage",
+    "kind": "effect",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      180,
+      220,
+      125
+    ],
+    "weightKg": 2.35,
+    "url": "https://jclight.com/products/water-wave-led-effect-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 40 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "5+4 Beam Laser DJ Light Effect Fixture",
+    "kind": "laser",
+    "light": "500mW/638nm red laserx4pcs+ 10wx5pcs warm Cree LED lamp",
+    "beamDeg": [
+      3,
+      5
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      23
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      800,
+      90,
+      150
+    ],
+    "weightKg": 3.5,
+    "url": "https://jclight.com/products/54-beam-laser-dj-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 150 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "10 Eyes LED Beam Moving Head Light",
+    "kind": "beam",
+    "light": "10x40W Rgbw 4in1 LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5,
+      7,
+      42,
+      14,
+      54,
+      18
+    ],
+    "features": [
+      "pixel"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1100,
+      95,
+      200
+    ],
+    "weightKg": 13.6,
+    "url": "https://jclight.com/products/10-eyes-beam-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 400 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "8 Eyes LED Beam Moving Head Bar Light",
+    "kind": "tiltbar",
+    "light": "8pcsx10w/15w RGBW 4in1 lamp",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      9,
+      38
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1070,
+      80,
+      130
+    ],
+    "weightKg": 15.6,
+    "url": "https://jclight.com/products/8-eyes-beam-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 100 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "6 Eyes Full Color Animation Laser Light",
+    "kind": "laser",
+    "light": null,
+    "beamDeg": [
+      20,
+      20
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      12,
+      62
+    ],
+    "features": [
+      "animation"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1100,
+      340,
+      290
+    ],
+    "weightKg": 16.8,
+    "url": "https://jclight.com/products/6-eyes-full-color-animation-laser-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 220 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "Outdoor Firefly Starry Laser Light",
+    "kind": "laser",
+    "light": "Laser power: 2000mW",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      160,
+      160,
+      140
+    ],
+    "weightKg": 2.4,
+    "url": "https://jclight.com/products/outdoor-firefly-starry-laser-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 20 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "Moving Head Animation Laser Light Flagship Model",
+    "kind": "lasermh",
+    "light": null,
+    "beamDeg": [
+      60,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      400,
+      390,
+      550
+    ],
+    "weightKg": 19,
+    "url": "https://jclight.com/products/full-color-amination-moving-head-laser-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 200 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "10W 15W 20W 30W 40W 50W 60W Full Color Landmark Laser Light",
+    "kind": "laser",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 10,
+    "url": "https://jclight.com/products/10-15-20-30-40-50-60-full-color-landmark-laser-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 800 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "Full Color Animation Laser Light",
+    "kind": "laser",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "animation"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      218,
+      182,
+      76
+    ],
+    "weightKg": 2.5,
+    "url": "https://jclight.com/products/full-color-animation-laser-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "24 Eyes Matrix Laser Light Effect Fixture",
+    "kind": "laser",
+    "light": "laser 6w, Red 500mwx12pcs",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      12,
+      35
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1000,
+      320,
+      130
+    ],
+    "weightKg": 15,
+    "url": "https://jclight.com/products/24-eyes-matrix-laser-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 100 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "8 Eyes Laser Moving Head Bar Light",
+    "kind": "lasermh",
+    "light": "8x300mw/500mw Green/Red/Blue/ RGB full color",
+    "beamDeg": [
+      180,
+      180
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      14,
+      16
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1060,
+      85,
+      180
+    ],
+    "weightKg": 17.5,
+    "url": "https://jclight.com/products/8-eyes-laser-bar-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 150 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "8+8 Beam Laser Moving Head Light",
+    "kind": "lasermh",
+    "light": "300MW/638NM red laser x8pcs+ 3wx8pcs warm Cree LED lamp (CCT: 3200K)",
+    "beamDeg": [
+      25,
+      25
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      23
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1120,
+      160,
+      250
+    ],
+    "weightKg": 6.6,
+    "url": "https://jclight.com/products/88-beam-laser-dj-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 90 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "8 EYES SKYNET LASER MOVING HEAD LIGHT",
+    "kind": "lasermh",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      23
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1070,
+      100,
+      170
+    ],
+    "weightKg": 4.5,
+    "url": "https://jclight.com/products/8-eyes-skynet-laser-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 150 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "6 HEADS 3IN1 DOT MATRIX LED LASER LIGHT",
+    "kind": "laser",
+    "light": "5wx8pcs Cree LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      31,
+      59
+    ],
+    "features": [
+      "zoom",
+      "animation",
+      "ring"
+    ],
+    "ring": "LED-Ring (Halo)",
+    "pixels": null,
+    "sizeMm": [
+      850,
+      90,
+      320
+    ],
+    "weightKg": 83.2,
+    "url": "https://jclight.com/products/six-heads-3in1-dot-matrix-laser-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 200 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "5+16 Laser Dot Matrix Light",
+    "kind": "laser",
+    "light": "16x3w Cree LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      12,
+      35
+    ],
+    "features": [
+      "pixel",
+      "animation"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      840,
+      90,
+      250
+    ],
+    "weightKg": 13,
+    "url": "https://jclight.com/products/516-laser-dot-matrix-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 100 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "RGB Animation Laser Light",
+    "kind": "laser",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/3-5w-full-color-animation-laser-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 80 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "6 Eyes Laser Moving Head Light",
+    "kind": "lasermh",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      19
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1060,
+      85,
+      180
+    ],
+    "weightKg": 11,
+    "url": "https://jclight.com/products/6-eyes-moving-head-laser-light-i8-1",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 150 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "8W 10W 15W 20W RGB Animation Laser Light",
+    "kind": "laser",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/8-10-15-20w-full-color-animation-laser-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 200 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "1000W 8+8 Strobe Light With LED Effects",
+    "kind": "strobe",
+    "light": "864pcs SMD5050 RGB LEDs +96 white LEDs",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      12,
+      32
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      500,
+      275,
+      140
+    ],
+    "weightKg": 7.5,
+    "url": "https://jclight.com/products/1000w-88-strobe-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 1000 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "1000W Strobe Light For Stage Lighting",
+    "kind": "strobe",
+    "light": "960pcsx1.2w SMD5050 LED Rgb 3in1",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      6,
+      9,
+      12,
+      32,
+      44
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      500,
+      275,
+      140
+    ],
+    "weightKg": 7.5,
+    "url": "https://jclight.com/products/1000w-strobe-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 1000 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "LED Strobe Panel Moving Head Light",
+    "kind": "strobe",
+    "light": "441pcs 5050 0.2w RGB 3in1 LEDs",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      18,
+      154,
+      162
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      310,
+      310,
+      340
+    ],
+    "weightKg": 4.1,
+    "url": "https://jclight.com/products/led-strobe-panel-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 90 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "5PCS 3in1 LED Matrix Light",
+    "kind": "matrix",
+    "light": "5x30W LED RGB 3IN1/ Warm white optional",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      8,
+      20
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      115,
+      115,
+      575
+    ],
+    "weightKg": 3.2,
+    "url": "https://jclight.com/products/5pcs-3in1-led-matrix-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 180 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "36PCS Gold LED Matrix Light",
+    "kind": "matrix",
+    "light": "36x3W 2600k warm white/ RGB 3in1/RGBW 4in1 imported LED lamp",
+    "beamDeg": [
+      4,
+      4
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      10,
+      40,
+      108,
+      118
+    ],
+    "features": [
+      "pixel"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      500,
+      500,
+      100
+    ],
+    "weightKg": 7,
+    "url": "https://jclight.com/products/36pcs-gold-led-matrix-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 120 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "14PCS LED Wash Dot Matrix Light",
+    "kind": "matrix",
+    "light": "14pcsx3w amber dot matrix, 56pcs Rgb wash light",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      6,
+      8,
+      12,
+      60
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1000,
+      72,
+      120
+    ],
+    "weightKg": 2.2,
+    "url": "https://jclight.com/products/14pcs-led-wash-dot-matrix-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 100 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "7PCS Retro Stage Light For Events",
+    "kind": "matrix",
+    "light": "168x0.3w SMD5050 RGB+ 7x60W COB",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      8
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      800,
+      720,
+      180
+    ],
+    "weightKg": 14.7,
+    "url": "https://jclight.com/products/7pcs-retro-stage-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 520 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "7x30W Retro Stage Light",
+    "kind": "matrix",
+    "light": "7pcs 30W rgbw LED multi-chip",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 12,
+    "url": "https://jclight.com/products/730w-retro-stage-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 210 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "Rotating Maple Leaf Retro Stage Light",
+    "kind": "matrix",
+    "light": "3pcs 60W Amber COB, 36x3W 3535 RGB 3IN1 LEDs, 1x40W RGBW 4IN1 LEDs",
+    "beamDeg": [
+      540,
+      540
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      15,
+      20,
+      26
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      490,
+      450,
+      230
+    ],
+    "weightKg": 8.2,
+    "url": "https://jclight.com/products/360w-retro-stage-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 250 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "36PCS LED Matrix Background Light",
+    "kind": "matrix",
+    "light": "36x15W RGBW LED",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      147,
+      17,
+      11,
+      4,
+      44,
+      144
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      500,
+      500,
+      152
+    ],
+    "weightKg": 8,
+    "url": "https://jclight.com/products/36pcs-led-matrix-background-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 155 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "25PCS LED Matrix Light For Stage Effects",
+    "kind": "matrix",
+    "light": "25x10w RGB 3IN1 LED",
+    "beamDeg": [
+      60,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      8,
+      75,
+      80
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      580,
+      580,
+      150
+    ],
+    "weightKg": 17,
+    "url": "https://jclight.com/products/25pcs-led-matrix-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 300 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "LED Big Windmill Background Light",
+    "kind": "effect",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      660,
+      660,
+      225
+    ],
+    "weightKg": 9,
+    "url": "https://jclight.com/products/led-big-windmill-background-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 200 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "6 Line Retro Stage Lighting",
+    "kind": "matrix",
+    "light": "144x0.3w SMD5050 RGB LED + 6x50W warm white COB",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      12,
+      24
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      320,
+      200,
+      1140
+    ],
+    "weightKg": 6.35,
+    "url": "https://jclight.com/products/kinetic-beam-ring-light-copy",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 450 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "12PCS 60W LED Beam Zoom Moving Head Light",
+    "kind": "beam",
+    "light": "12pcs 60W RGBW 4in1 LED",
+    "beamDeg": [
+      4.3,
+      11
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      20,
+      169,
+      53,
+      101,
+      155,
+      179
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1050,
+      170,
+      300
+    ],
+    "weightKg": 26.5,
+    "url": "https://jclight.com/products/12pic-60w-led-beam-zoom-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 800 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "12/14PCS 3in1 LED Matrix Light",
+    "kind": "matrix",
+    "light": "12pcs/14pcsx3w LEDs",
+    "beamDeg": [
+      4,
+      4
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      13,
+      86,
+      75,
+      73,
+      5,
+      7
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1000,
+      80,
+      150
+    ],
+    "weightKg": 3,
+    "url": "https://jclight.com/products/12-14pcs-3in1-led-matrix-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 150 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "MINI 7PCS RETRO STAGE LIGHT",
+    "kind": "matrix",
+    "light": "63x0.3w SMD5050 RGB LED+ 7x50W COB warm white",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      8,
+      32
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      560,
+      500,
+      100
+    ],
+    "weightKg": 5.89,
+    "url": "https://jclight.com/products/mini-7pcs-retro-stage-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 380 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF DMX FOLLOW SPOT LIGHT (THE SMURFS)",
+    "kind": "follow",
+    "light": "440/480w/550w Osram bulb",
+    "beamDeg": [
+      5,
+      18
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5
+    ],
+    "features": [
+      "cto",
+      "colorwheel",
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1080,
+      520,
+      430
+    ],
+    "weightKg": 42,
+    "url": "https://jclight.com/products/waterproof-led-follow-spot-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 600 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "COB ZOOM LED MOVING HEAD LIGHT",
+    "kind": "cob",
+    "light": "200w/400w COB high brightness",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      10
+    ],
+    "features": [
+      "cto",
+      "colorwheel",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      450,
+      300,
+      240
+    ],
+    "weightKg": 9.2,
+    "url": "https://jclight.com/products/cob-zoom-led-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 250 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "LED LEKO PROFILE SPOTLIGHT",
+    "kind": "ellipsoidal",
+    "light": "300w/400w LED",
+    "beamDeg": [
+      19,
+      19
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2,
+      4,
+      9
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      340,
+      270,
+      710
+    ],
+    "weightKg": 9.8,
+    "url": "https://jclight.com/products/led-leko-profile-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "4 EYES AUDIENCE BLINDER LIGHT",
+    "kind": "blinder",
+    "light": "：4x100w high-power cob lamp warm white/white",
+    "beamDeg": [
+      60,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2,
+      4,
+      12
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      360,
+      210,
+      390
+    ],
+    "weightKg": 8,
+    "url": "https://jclight.com/products/4-eyes-audience-light-e9-e10",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "2 EYES AUDIENCE BLINDERS LIGHT",
+    "kind": "blinder",
+    "light": "：2x100w high-power cob lamp warm white/white (3200-6200K can be choosen)",
+    "beamDeg": [
+      60,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2,
+      4,
+      8
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      370,
+      190,
+      180
+    ],
+    "weightKg": 2.8,
+    "url": "https://jclight.com/products/2-eyes-audience-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "FOCUS COB PROFILE LIGHT",
+    "kind": "cob",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/focus-cob-profile-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "7 EYES FLAT COB PAR LIGHT",
+    "kind": "cob",
+    "light": "：7x50w warm white/white/2in1 COB lamp",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      300,
+      220,
+      100
+    ],
+    "weightKg": 2.8,
+    "url": "https://jclight.com/products/7-eyes-flat-cob-par-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "COB ZOOM LED MOVING HEAD LIGHT",
+    "kind": "cob",
+    "light": "high brightness 600w/800w white LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      12
+    ],
+    "features": [
+      "cto",
+      "colorwheel",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      450,
+      300,
+      240
+    ],
+    "weightKg": 12.3,
+    "url": "https://jclight.com/products/cob-zoom-led-moving-head-light-2",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 600 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "5 EYES COB PAR LIGHT (NEW UPGRADED)",
+    "kind": "cob",
+    "light": "5x50w warm white/white/2in1 COB lamp",
+    "beamDeg": [
+      45,
+      45
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      290,
+      210,
+      320
+    ],
+    "weightKg": 2.8,
+    "url": "https://jclight.com/products/5-eyes-cob-par-light-new-upgraded",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 260 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "4 EYES COB MOVING HEAD LIGHT",
+    "kind": "cob",
+    "light": "4x50w COB LED",
+    "beamDeg": [
+      45,
+      45
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      9,
+      16
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      280,
+      200,
+      400
+    ],
+    "weightKg": 7.5,
+    "url": "https://jclight.com/products/4-eyes-cob-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 200 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "LED TRICOLOR PANEL STUDIO SOFT LIGHT",
+    "kind": "panel",
+    "light": "：320pcs lamp beads(warm white3200k/white6500k/2in1 3200-6500k)",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      360,
+      210,
+      390
+    ],
+    "weightKg": 5.1,
+    "url": "https://jclight.com/products/led-tricolor-panel-studio-soft-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "300W FOCUS COB PROFILE LIGHT",
+    "kind": "cob",
+    "light": "：300w COB LED lamp",
+    "beamDeg": [
+      15,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3,
+      4
+    ],
+    "features": [
+      "zoom",
+      "focus",
+      "ring"
+    ],
+    "ring": "LED-Ring (Halo)",
+    "pixels": null,
+    "sizeMm": [
+      210,
+      300,
+      440
+    ],
+    "weightKg": 7,
+    "url": "https://jclight.com/products/300w-focus-cob-profile-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "400W LED FRESNEL ZOOM SPOTLIGHT",
+    "kind": "fresnel",
+    "light": "400w warm white/ white / 2in1 LED",
+    "beamDeg": [
+      15,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2
+    ],
+    "features": [
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      520,
+      220,
+      420
+    ],
+    "weightKg": 7,
+    "url": "https://jclight.com/products/400w-led-fresnel-zoom-spotlight",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 400 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "ELLPSOIDAL PROFILE LIGHT",
+    "kind": "profile",
+    "light": "150W/180W/200W/300w LED",
+    "beamDeg": [
+      19,
+      19
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      280,
+      300,
+      700
+    ],
+    "weightKg": 9.3,
+    "url": "https://jclight.com/products/ellpsoidal-profile-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "200W LED FRESNEL ZOOM SPOTLIGHT",
+    "kind": "fresnel",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/200w-led-fresnel-zoom-spotlight",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "48*3W LED WASH CYCLORAMA LIGHT",
+    "kind": "wash",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/483w-led-wash-cyclorama-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WIRELESS BATTERY DMX LED PAR UP LIGHT 6/9/12*18W Eternal Lighting cube Echo",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/wireless-battery-dmx-led-par-light-6-9-1218w",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "72*3W LED PAR LIGHT",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/723w-led-par-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "18*10/15/18W PCS LED ZOOM PAR LIGHT",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/1810-15-18w-pcs-led-zoom-par-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "108*3W LED PAR LIGHT",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/1083w-led-par-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "18PCS*10W PAR LIGHT",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/18pcs10w-par-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "120*3W LED PAR LIGHT",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/1203w-led-par-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "24PCS LED PAR LIGHT (UNIQUE PRIVATE MODEL)",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/24pcs-led-par-light-unique-private-model",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "18PCS LED PAR LIGHT (UNIQUE PRIVATE MODEL)",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/18pcs-led-par-light-unique-private-model",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "54PCS LED PAR LIGHT (UNIQUE PRIVATE MODEL)",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/54pcs-led-par-light-unique-private-model",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "54*4W RGBW 4in1 LED light",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/54pcs-led-par-lightthor",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "27PCS LED PAR LIGHT(THOR)",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/27pcs-led-par-lightthor",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "24PCS LED PAR LIGHT(THOR)",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/24pcs-led-par-lightthor",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "19PCS LED PAR LIGHT(THOR)",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/19pcs-led-par-lightthor",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "18PCS LED PAR LIGHT(THOR)",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/18pcs-led-par-lightthor",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WIRELESS BATTERY DMX LED PAR UP LIGHT 4/6*18W Eternal Lighting cube Echo",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/wireless-battery-dmx-led-par-light-4-618w",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "18PCS LED FLAT PAR LIGHT",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/18pcs-led-flat-par-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "5x40W DOUBLE-SIDED BEAM+STROBE MOVING HEAD LIGHT",
+    "kind": "strobe",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/5x40w-double-sided-beamstrobe-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "25PCS*12W LED MATRIX LIGHT",
+    "kind": "matrix",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/25pcs12w-led-matrix-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "37*15/25W LED ZOOM WASH MOVING HEAD LIGHT",
+    "kind": "wash",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/3715-25w-led-zoom-wash-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "7PCS*15/40W BEE EYES MINI LED ZOOM MOVING HEAD LIGHT",
+    "kind": "beeeye",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/7pcs15-40w-bee-eyes-led-zoom-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "108*3W LED PAR MOVING HEAD LIGHT",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/1083w-led-par-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "7PCS*40W MINI LED ZOOM WASH MOVING HEAD LIGHT",
+    "kind": "wash",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/7pcs-led-40w-zoom-wash-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "36PCS*10/12/15W MOVING HEAD PAR LIGHT",
+    "kind": "wash",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/36pcs10-12-15w-moving-head-par-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "19PCS*15/40W BEE EYE MOVING HEAD LIGHT",
+    "kind": "beeeye",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/19pcs15-40w-bee-eye-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "7*60W BEE EYES LED ZOOM MOVING HEAD LIGHT",
+    "kind": "beeeye",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/760w-bee-eyes-led-zoom-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "12*40W LED ZOOM WASH MOVING HEAD LIGHT",
+    "kind": "wash",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/1240w-led-zoom-wash-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "4PCS*40W BEE EYES LED ZOOM MOVING HEAD LIGHT",
+    "kind": "beeeye",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/4pcs40w-bee-eyes-led-zoom-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "7PCS BEE EYES LED ZOOM MOVING HEAD LIGHT",
+    "kind": "beeeye",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/7pcs-bee-eyes-led-zoom-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "6x80W LED BEAM MOVING HEAD LIGHT",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/6x80w-led-beam-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "12X60W LED BEAM ZOOM MOVING HEAD LIGHT",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/12x60w-led-beam-zoom-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "12*40W BEE EYES LED ZOOM MOVING HEAD LIGHT",
+    "kind": "beeeye",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/1240w-bee-eyes-led-zoom-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "19*15W LED WASH MOVING HEAD LIGHT MARTIIN MAC AURA",
+    "kind": "wash",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/1915w-led-wash-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "12X60W LED BEAM ZOOM MOVING HEAD LIGHT WITH AUXILIARY LIGHT",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/12x60w-led-beam-zoom-moving-head-light-with-auxiliary-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "5 HEADS LED BEAM MOVING HEAD LIGHT WITH LED RING",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/5-heads-led-beam-moving-head-light-with-led-ring",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "200W LED BEAM+12PCS RGBW BEE EYE MOVING HEAD LIGHT",
+    "kind": "beeeye",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/200w-led-beam12pcs-rgbw-bee-eye-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "37x40W BEE EYE MOVING HEAD LIGHT(WASP)",
+    "kind": "beeeye",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/37x40w-bee-eye-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "19*40w BEE EYE MOVING HEAD LIGHT WITH PIXEL CIRCEL",
+    "kind": "beeeye",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "pixel"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/1940w-bee-eye-moving-head-light-with-pixel-circel",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "LED BEAM MOVING HEAD LIGHT(BIG CANNON)",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/led-beam-moving-head-lightbig-cannon",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "100W LED BEAM MOVING HEAD",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/100w-led-beam-moving-head",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "MINI 5R 200W LED SPOT MOVING HEAD LIGHT",
+    "kind": "spot",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/mini-5r-200w-led-spot-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "10/30/60/90W MINI LED SPOT MOVING HEAD LIGHT",
+    "kind": "spot",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/10-30-60-90w-mini-led-spot-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "100/150/200W LED 3IN1 5-FACET PRISM MOVING LIGHT",
+    "kind": "hybrid",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "prism"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/100-150-200w-led-3in1-5-facet-prism-moving-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "380/400/440/460W 3IN1 SUPER COOL SPOT MOVING HEAD LIGHT",
+    "kind": "hybrid",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/380-400-440-460w-3in1-super-cool-spot-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "200W LED SPOT MOVING HEAD",
+    "kind": "spot",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/200w-led-spot-moving-head",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "680S SUPER BEAM LIGHT",
+    "kind": "beam",
+    "light": "original Osram 420w lamp, CCT:7200k",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      16
+    ],
+    "features": [
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "focus",
+      "pixel",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      450,
+      300,
+      700
+    ],
+    "weightKg": 25,
+    "url": "https://jclight.com/products/680s-super-beam-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 680 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "440W/460W BEAM LIGHT",
+    "kind": "beam",
+    "light": "19R/20R Osram 400w/440w/460w/480w",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      340,
+      240,
+      600
+    ],
+    "weightKg": 20,
+    "url": "https://jclight.com/products/440w-460w-beam-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "300/330/350/380W LED BEAM MOVING HEAD LIGHT",
+    "kind": "beam",
+    "light": "：300W/330W/350W/380W Cree LED, hight breightness white lamp, Lifespan: 20000H",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      13
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:8",
+      "prism"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      330,
+      360,
+      560
+    ],
+    "weightKg": 13.6,
+    "url": "https://jclight.com/products/300-330-350-380w-led-beam-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "260W/295W BEAM LIGHT WITH LED RING(THE SILVER FOX)",
+    "kind": "beam",
+    "light": "260w/295w Osram bulb",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:17",
+      "prism",
+      "focus",
+      "ring"
+    ],
+    "ring": "LED-Ring (Halo)",
+    "pixels": null,
+    "sizeMm": [
+      400,
+      280,
+      600
+    ],
+    "weightKg": 18.6,
+    "url": "https://jclight.com/products/260w-295w-beam-light-with-led-ring",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "580S BEAM LIGHT (YANGWANG)",
+    "kind": "beam",
+    "light": "20R original Osram 420w",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/480w-beam-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "MINI 230W BEAM LIGHT – A4",
+    "kind": "beam",
+    "light": "Lamp: 7R 230W",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      14
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:14",
+      "prism"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      260,
+      235,
+      450
+    ],
+    "weightKg": 10.8,
+    "url": "https://jclight.com/products/mini-230w-beam-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 300 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "251W BEAM LIGHT(RHINO)",
+    "kind": "beam",
+    "light": "Color wheel:14 color + white, rainbow effect with bidirectional rotation, full color effect and half color effect modes",
+    "beamDeg": [
+      15,
+      60
+    ],
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:17",
+      "prism",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      430,
+      480,
+      590
+    ],
+    "weightKg": 17.5,
+    "url": "https://jclight.com/products/251w-beam-lightrhino",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "18R 380W BEAM LIGHT(THE KYLIN)",
+    "kind": "beam",
+    "light": "18R 380w JCLIGHT special bulb",
+    "beamDeg": [
+      0,
+      2
+    ],
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "zoom",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      360,
+      350,
+      510
+    ],
+    "weightKg": 18,
+    "url": "https://jclight.com/products/18r-380w-beam-lightthe-kylin",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 500 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "18R 380W BEAM LIGHT WITH RING(THE WOLF WARRIORS)",
+    "kind": "beam",
+    "light": "380w YODN/ Philips/Osram bulb， lifespan:3000h",
+    "beamDeg": [
+      1.8,
+      1.8
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:13",
+      "prism",
+      "focus",
+      "rdm",
+      "ring"
+    ],
+    "ring": "LED-Ring (Halo)",
+    "pixels": null,
+    "sizeMm": [
+      376,
+      270,
+      617
+    ],
+    "weightKg": 19,
+    "url": "https://jclight.com/products/18r-380w-beam-light-with-ringthe-wolf-warriors",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 450 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "18R 380W BEAM LIGHT(THE WOLF WARRIORS)",
+    "kind": "beam",
+    "light": "380w YODN/ Philips/Osram bulb， lifespan:3000h",
+    "beamDeg": [
+      1.8,
+      1.8
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:13",
+      "prism",
+      "focus",
+      "rdm",
+      "ring"
+    ],
+    "ring": "LED-Ring (Halo)",
+    "pixels": null,
+    "sizeMm": [
+      376,
+      270,
+      617
+    ],
+    "weightKg": 19,
+    "url": "https://jclight.com/products/18r-380w-beam-lightthe-wolf-warriors",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 450 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "7R 230W BEAM LIGHT(THE WOLF KING)",
+    "kind": "beam",
+    "light": "Lamp: 7R 230W",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      16
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:17",
+      "prism"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      530,
+      410,
+      450
+    ],
+    "weightKg": 17.4,
+    "url": "https://jclight.com/products/7r-230w-beam-light-the-wolf-king",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 350 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "UPGRADED LED 3IN1 SPOT MOVING HEAD LIGHT(JUNNO)",
+    "kind": "hybrid",
+    "light": "high brightness 400w/500w LED moudle",
+    "beamDeg": [
+      7,
+      42
+    ],
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      21
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:8+7",
+      "prism",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      396,
+      289,
+      694
+    ],
+    "weightKg": 25,
+    "url": "https://jclight.com/products/upgraded-led-3in1-spot-moving-head-lightjunno",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 500 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "LED BEAM MOVING HEAD LIGHT WITH RING",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/led-beam-moving-head-light-with-ring",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "7R 230W BEAM LIHGT",
+    "kind": "beam",
+    "light": "Lamp: 7R 230W",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:17",
+      "prism",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      390,
+      320,
+      510
+    ],
+    "weightKg": 17.45,
+    "url": "https://jclight.com/products/7r-230w-beam-lihgt",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 350 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "LED 3IN1 CMY+CTO MOVING HEAD (JUNNO)",
+    "kind": "hybrid",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/led-3in1-cmycto-moving-head-junno",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "LED 3IN1 SPOT MOVING HEAD LIGHT (LIGHT WEIGHT)",
+    "kind": "hybrid",
+    "light": "high brightness 400W/480W white LED light source",
+    "beamDeg": [
+      4,
+      35
+    ],
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      26
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:7",
+      "prism",
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      621,
+      315,
+      263
+    ],
+    "weightKg": null,
+    "url": "https://jclight.com/products/led-3in1-spot-moving-head-light-light-weight",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 500 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "260/350/380W 3IN1 BSW SPOT MOVING HEAD LIGHT(VERMILION BIRD)",
+    "kind": "hybrid",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/260-350-380w-3in1-spot-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "480S BEAM LIGHT (GLARING)",
+    "kind": "beam",
+    "light": "20R original USHIO 420w",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "focus",
+      "ring"
+    ],
+    "ring": "LED-Ring (Halo)",
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/480s-beam-light-glaring",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "380/480W BEAM(LIGHT WEIGHT)",
+    "kind": "beam",
+    "light": "original Osram 371W/420W lamp, CCT:7200k",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 540,
+    "channels": [
+      16
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:11",
+      "prism",
+      "frost",
+      "focus",
+      "pixel",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      310,
+      270,
+      550
+    ],
+    "weightKg": 16,
+    "url": "https://jclight.com/products/380-480w-beam-lightlight-weight",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 500 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "18R 380W BEAM LIGHT (THE SMURFS)",
+    "kind": "beam",
+    "light": "18R 380W YODN/Philips/Osram bulb, Lifespan: 6000-10000H",
+    "beamDeg": [
+      0,
+      2
+    ],
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      20,
+      24
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:17",
+      "prism",
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      400,
+      280,
+      600
+    ],
+    "weightKg": 18.6,
+    "url": "https://jclight.com/products/18r-380w-beam-light-the-smurfs",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 500 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "Beam Moving Head 295 Light",
+    "kind": "beam",
+    "light": "original Phoenix lamp 13R 295W,CCT: 8000K",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      16
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:13",
+      "prism",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      330,
+      260,
+      520
+    ],
+    "weightKg": 14.3,
+    "url": "https://jclight.com/products/295w-beam-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 400 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "MINI 230W BEAM LIGHT WITH RING",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "ring"
+    ],
+    "ring": "LED-Ring (Halo)",
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/mini-230w-beam-light-with-ring",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "LED 4IN1 CUT MOVING HEAD LIGHT (LIGHT WEIGHT)",
+    "kind": "profile",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/led-4in1-cut-moving-head-light-light-weight",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "LED COMPUTER CUTTING MOVING HEAD LIGHT (QIANBIAN)",
+    "kind": "profile",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/led-computer-cutting-moving-head-light-qianbian",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "800W 4IN1 CUTTING MOVING HEAD LIGHT (LIGHT WEIGHT)",
+    "kind": "profile",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/800w-3in1-spot-moving-head-light-light-weight",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "LED 4IN1 CUTTING MOVING HEAD LIGHT (LIGHT WEIGHT)",
+    "kind": "profile",
+    "light": "high brightness 400W/500W/600W LED module",
+    "beamDeg": [
+      4.5,
+      35
+    ],
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      22,
+      26
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:8+7",
+      "prism",
+      "zoom",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      621,
+      315,
+      263
+    ],
+    "weightKg": 16.65,
+    "url": "https://jclight.com/products/led-4in1-cutting-moving-head-light-light-weight",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 500 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF WIRELESS BATTERY DMX LED PAR LIGHT D37-3",
+    "kind": "par",
+    "light": "：6pcs/9pcs/12pcs 18W RGBWA UV 6IN1 LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      6,
+      10
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      360,
+      290,
+      300
+    ],
+    "weightKg": 6.5,
+    "url": "https://jclight.com/products/waterproof-wireless-battery-dmx-led-par-light-d37-3",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 140/150/180PCS LED CITY COLOR WASH LIGHT",
+    "kind": "flood",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-140-150-180pcs-led-city-color-wash-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 120PCS CITY COLOR WASH LIGHT",
+    "kind": "flood",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-120pcs-city-color-wash-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 96PCS CITY COLOR WASH LIGHT",
+    "kind": "flood",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-96pcs-city-color-wash-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 72PCS CITY COLOR WASH LIGHT",
+    "kind": "flood",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-72pcs-city-color-wash-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 7*40W LED ZOOM PAR LIGHT",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-740w-led-zoom-par-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 60PCS CITY COLOR WASH LIGHT",
+    "kind": "flood",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-60pcs-city-color-wash-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 54*3W LED FLAT PAR LIGHT",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-543w-led-flat-par-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 48PCS CITY COLOR WASH LIGHT",
+    "kind": "flood",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-48pcs-city-color-wash-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 24PCS LED FLAT PAR LIGHT",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-24pcs-led-flat-par-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 24PCS LED CITY COLOR LIGHT",
+    "kind": "flood",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-24pcs-led-city-color-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 20PCS LED CITY COLOR LIGHT",
+    "kind": "flood",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-20pcs-led-city-color-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 18PCS LED FLAT PAR LIGHT",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-18pcs-led-flat-par-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "THREE HEADS SEARCHLIGHT(3 HEADS)",
+    "kind": "multihead",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1260,
+      1260,
+      1470
+    ],
+    "weightKg": 125,
+    "url": "https://jclight.com/products/three-heads-searchlight3-heads",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 1000 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "Outdoor waterproof Full color landmark laser light I27-3",
+    "kind": "laser",
+    "light": null,
+    "beamDeg": [
+      60,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/outdoor-waterproof-full-color-landmark-laser-light-i27-3",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 700 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "DUAL HEADS SEARCHLIGHT(2 HEADS)",
+    "kind": "multihead",
+    "light": null,
+    "beamDeg": [
+      0.6,
+      0.8
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      530,
+      530,
+      1100
+    ],
+    "weightKg": 85,
+    "url": "https://jclight.com/products/dual-heads-searchlight2-heads",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 1000 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 12PCS LED FLAT PAR LIGHT",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-12pcs-led-flat-par-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF WIRELESS BATTERY LED CITY COLOR LIGHT",
+    "kind": "flood",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-wireless-battery-led-city-color-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF MINI 4PCS LED PAR LIGHT",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-mini-4pcs-led-par-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF MINI 7PCS LED PAR LIGHT",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-mini-7pcs-led-par-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 54*3W LED PAR LIGHT (PRIVATE MODEL)",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-543w-led-par-light-private-model",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 18PCS LED PAR LIGHT(PRIVATE MODEL)",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-18pcs-led-par-lightprivate-model",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 24PCS LED PAR LIGHT (PRIVATE MODEL)",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-24pcs-led-par-light-private-model",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "1440PIC WATERPROOF STROBE LIGHT",
+    "kind": "strobe",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/1440pic-waterproof-strobe-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF WIRELESS BATTERY 18 LED WALL WASHER",
+    "kind": "bar",
+    "light": "：18pcs 18W RGBWA UV 6IN1 LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      6,
+      10
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      240,
+      130,
+      250
+    ],
+    "weightKg": 10,
+    "url": "https://jclight.com/products/waterproof-wireless-battery-18-led-wall-washer",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "(OPTIONAL)WATERPROOF 18PCS 4IN1 LED WALL WASH LIGHT",
+    "kind": "bar",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/optionalwaterproof-18pcs-4in1-led-wall-wash-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 4 EYES AUDIENCE LIGHT",
+    "kind": "blinder",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-4-eyes-audience-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 480/550/680/800W BEAM LIGHT(ALUMINUM ALLOY SLIVER DRAGON)",
+    "kind": "beam",
+    "light": "Color wheel: 13 colors+ white, colorful rainbow effect + atomization function",
+    "beamDeg": [
+      1.8,
+      1.8
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "focus",
+      "IP66"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      525,
+      335,
+      798
+    ],
+    "weightKg": 38,
+    "url": "https://jclight.com/products/waterproof-480-550-680-800w-beam-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 550 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 230/260/350/380W BEAM LIGHT",
+    "kind": "beam",
+    "light": "18R 380W YODN/Philips/Osram bulb, Lifespan: 6000-10000H",
+    "beamDeg": [
+      0,
+      2
+    ],
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "focus",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      370,
+      350,
+      700
+    ],
+    "weightKg": 25,
+    "url": "https://jclight.com/products/waterproof-230-260-350-380w-beam-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF WATER WAVE LED EFFECT LIGHT",
+    "kind": "effect",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-water-wave-led-effect-light-2",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF WATER WAVE LED EFFECT LIGHT",
+    "kind": "effect",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-water-wave-led-effect-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF FOCUS COB PROFILE LIGHT",
+    "kind": "cob",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-focus-cob-profile-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 4 EYES COB PAR LIGHT(PRIVATE MODEL)",
+    "kind": "cob",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-4-eyes-cob-par-lightprivate-model",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 100/150/200W COB PAR LIGHT",
+    "kind": "cob",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-100-150-200w-cob-par-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "PROFESSIONAL WATERPROOF 4 EYES COB PAR LIGHT",
+    "kind": "cob",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/professional-waterproof-4-eyes-cob-par-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "PROFESSIONAL WATERPROOF 24PCS LED PAR LIGHT (PRIVATE MODEL)",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/professional-waterproof-24pcs-led-par-light-private-model",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "PROFESSIONAL WATERPROOF 18PCS LED PAR LIGHT (PRIVATE MODEL)",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/professional-waterproof-18pcs-led-par-light-private-model",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "880W WATERPROOF LED COMPUTER CUTTING MOVING HEAD LIGHT (QIANBIAN)",
+    "kind": "profile",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/880w-waterproof-led-computer-cutting-moving-head-light-qianbian",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 10x40W LED PIXEL ZOOM MATRIX LIGHT",
+    "kind": "matrix",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "zoom",
+      "pixel"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-10x40w-led-pixel-zoom-matrix-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF BEAM MOVING HEAD LIGHT (WATER KYLIN)",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "focus",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      370,
+      350,
+      700
+    ],
+    "weightKg": 25,
+    "url": "https://jclight.com/products/waterproof-beam-moving-head-light-water-kylin",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 500 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 800W BEAM LIGHT(WDC)",
+    "kind": "beam",
+    "light": "original Osram 550w lamp",
+    "beamDeg": [
+      1.8,
+      1.8
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "focus",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      484,
+      376,
+      805
+    ],
+    "weightKg": 38,
+    "url": "https://jclight.com/products/waterproof-800w-beam-lightwdc",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 800 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 54PCS LED ZOOM PAR LIGHT",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-54pcs-led-zoom-par-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF LED STROBE PANEL LIGHT",
+    "kind": "strobe",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-led-strobe-panel-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 380W BEAM LIGHT WITH LED RING(LIGHT WEIGHT)",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": [
+      2.8,
+      38
+    ],
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "focus",
+      "IP66",
+      "ring"
+    ],
+    "ring": "LED-Ring (Halo)",
+    "pixels": null,
+    "sizeMm": [
+      370,
+      350,
+      700
+    ],
+    "weightKg": 20.5,
+    "url": "https://jclight.com/products/waterproof-380w-beam-light-with-led-ringlight-weight",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 550 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 18PCS LED ZOOM PAR LIGHT",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-18pcs-led-zoom-par-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 36/40/44/48 PCS CITY COLOR WASH LIGHT",
+    "kind": "flood",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-36-40-44-48-pcs-city-color-wash-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "Outdoor waterproof Full color landmark laser light I27-2",
+    "kind": "laser",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/outdoor-waterproof-full-color-landmark-laser-light-i27-2",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 8 SEGMENT STROBE MOVING HEAD LIGHT",
+    "kind": "strobe",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-8-segment-strobe-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 200/300W LED ELLIPSOIDAL PROFILE LIGHT",
+    "kind": "ellipsoidal",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-200-300w-led-ellipsoidal-profile-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 19X40W BEE EYE MOVING HEAD LIGHT",
+    "kind": "beeeye",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-19x40w-bee-eye-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 7 PCS LED BEE EYES MOVING HEAD LIGHT(WASP)",
+    "kind": "beeeye",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-7-pcs-led-bee-eyes-moving-head-lightwasp",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF LASER BEAM MOVING HEAD LIGHT(LIGHT WEIGHT)",
+    "kind": "lasermh",
+    "light": "100w/120w laser light source, lifespan:20000-30000 hours",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "focus",
+      "IP66"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      550,
+      330,
+      350
+    ],
+    "weightKg": 18,
+    "url": "https://jclight.com/products/waterproof-laser-beam-moving-head-lightlight-weight",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 160 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 7x60W BEE EYES EFFECT LIGHT(WASP)",
+    "kind": "beeeye",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-7x60w-bee-eyes-effect-lightwasp",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 5x60W LED ZOOM MATRIX LIGHT WITH AUXILIARY LIGHT(PHOENIX DANCE)",
+    "kind": "matrix",
+    "light": "Main light: 5x60W RGBW leds",
+    "beamDeg": [
+      3,
+      25
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      17,
+      27,
+      55,
+      58,
+      88,
+      90
+    ],
+    "features": [
+      "zoom",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      500,
+      159,
+      404
+    ],
+    "weightKg": 18.5,
+    "url": "https://jclight.com/products/waterproof-5x60w-led-zoom-matrix-light-with-auxiliary-lightphoenix-dance",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 600 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 48PCS LED CITY COLOR WASH LIGHT",
+    "kind": "flood",
+    "light": "48pcs 10w RGBW 4in1 LED",
+    "beamDeg": [
+      25,
+      25
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      8,
+      12
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      580,
+      470,
+      535
+    ],
+    "weightKg": 14,
+    "url": "https://jclight.com/products/waterproof-48pcs-led-city-color-wash-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 500 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 30PCS LED MATRIX STROBE LIGHT",
+    "kind": "matrix",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-30pcs-led-matrix-strobe-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 2 EYES BLINDER LIGHT",
+    "kind": "blinder",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-2-eyes-blinder-light-2",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 2 EYES BLINDER LIGHT",
+    "kind": "blinder",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-2-eyes-blinder-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 19PCS LED ZOOM PAR LIGHT",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-19pcs-led-zoom-par-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 18/24PCS 4IN1 LED WALL WASH LIGHT",
+    "kind": "bar",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-18-24pcs-4in1-led-wall-wash-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 18/24/54PCS LED PAR LIGHT(BIG WINDMILL)",
+    "kind": "effect",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-18-24-54pcs-led-par-lightbig-windmill",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 10x60W LED BEAM ZOOM MOVING HEAD LIGHT WITH AUXILIARY LIGHT",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-10x60w-led-beam-zoom-moving-head-light-with-auxiliary-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "WATERPROOF 10PCS 50W LED WALL WASH LIGHT",
+    "kind": "bar",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-10pcs-50w-led-wall-wash-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "MOONLIGHT BLADE LED BEE EYE EFFECT LIGHT",
+    "kind": "beeeye",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "blades"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/moonlight-blade-led-bee-eye-effect-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "LED WASH BEAM MOVING HEAD LIGHT",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/led-wash-beam-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "LED FOLLOW SPOTLIGHT (SKY CANON)",
+    "kind": "follow",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/led-follow-spotlightsky-canon",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "LED BEAM MOVING HEAD LIGHT",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/led-beam-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "LED 5PCS RETRO LIGHT",
+    "kind": "matrix",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/led-5pcs-retro-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "LASER BEAM MOVING HEAD LIGHT",
+    "kind": "lasermh",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/led-matrix-strobe-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "INFINITE MOVING HEAD LIGHT",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/infinite-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "FOUR-LEAF MAPLE LEAF RETRO LIGHT",
+    "kind": "matrix",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/four-leaf-maple-leaf-retro-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "FERRIS WHEEL MOVING HEAD EFFECT LIGHT",
+    "kind": "effect",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/ferris-wheel-moving-head-effect-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "7PCS RETRO STAGE LIGHT",
+    "kind": "matrix",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/7pcs-retro-stage-light-2",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "6x60W LED BEAM ZOOM MOVING HEAD LIGHT WITH AUXILIARY LIGHT",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/6x60w-led-beam-zoom-moving-head-light-with-auxiliary-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "6x60W LED BEAM SWORDS LIGHT WITH AUXILIARY LIGHT",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/6x60w-led-beam-swords-light-with-auxiliary-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "61x40W MOVING HEAD LIGHT (WASP)",
+    "kind": "wash",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/61x40w-moving-head-light-wasp",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "5x80W LED BEAM MOVING HEAD LIGHT",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/5x80w-led-beam-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "5x60W LED BEAM ZOOM MOVING HEAD LIGHT WITH AUXILIARY LIGHT",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/5x60w-led-beam-zoom-moving-head-light-with-auxiliary-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "5PCS LED ZOOM WASH MOVING HEAD LIGHT",
+    "kind": "wash",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/5pcs-led-zoom-wash-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "5 EYE GOLDEN MATRIX LIGHT WITH AUXILIARY LIGHT",
+    "kind": "matrix",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/5-eye-golden-matrix-light-with-auxiliary-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "4x40W LED BEAM MOVING HEAD LIGHT WITH AUXILIARY LIGHT",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/4x40w-led-beam-moving-head-light-with-auxiliary-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "4 HEAD COMPASS RETRO LIGHT",
+    "kind": "matrix",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/4-head-compass-retro-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "4 EYES RETRO MATRIX LIGHT WITH AUXILIARY LIGHT",
+    "kind": "matrix",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/4-eyes-retro-matrix-light-with-auxiliary-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "300W/400W FRESNEL SPOTLIGHT",
+    "kind": "fresnel",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/300w-400w-fresnel-spotlight",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "200W LED ELECTRIC ZOOM ELLIPSOIDAL PROFILE LIGHT",
+    "kind": "ellipsoidal",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/200w-led-electric-zoom-ellipsoidal-profile-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "200W BEE EYE MOVING HEAD LIGHT",
+    "kind": "beeeye",
+    "light": "4x40W RGBW LED",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      18
+    ],
+    "features": [
+      "colorwheel",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      170,
+      220,
+      390
+    ],
+    "weightKg": 7,
+    "url": "https://jclight.com/products/200w-bee-eye-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 200 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "2 EYES RETRO MATRIX LIGHT WITH AUXILIARY LIGHT",
+    "kind": "matrix",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/2-eyes-retro-matrix-light-with-auxiliary-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "10x80W GOLDEN MATRIX LIGHT WITH AUXILIARY LIGHT",
+    "kind": "matrix",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/10x80w-golden-matrix-light-with-auxiliary-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "10x15W LED BEAM MATRIX LIGHT",
+    "kind": "matrix",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://jclight.com/products/10x15w-led-beam-matrix-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "Waterproof 3in1 Spot moving head light (Neptune)",
+    "kind": "hybrid",
+    "light": "380W/420W/461W USHIO lamp, lifespan: 3000-5000h",
+    "beamDeg": [
+      2.8,
+      38
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      17
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "zoom",
+      "IP67",
+      "ring"
+    ],
+    "ring": "LED-Ring (Halo)",
+    "pixels": null,
+    "sizeMm": [
+      550,
+      440,
+      680
+    ],
+    "weightKg": 28,
+    "url": "https://jclight.com/products/waterproof-3in1-spot-moving-head-light-neptune",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 400 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "Waterproof LED Pixel Strobe Light Bar",
+    "kind": "strobe",
+    "light": "：672pcsx0.5W RGB LEDs+112pcsx3W White LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "frost",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1000,
+      150,
+      320
+    ],
+    "weightKg": 9.7,
+    "url": "https://jclight.com/products/waterproof-led-pixel-strobe-light-bar",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 600 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "12 segment strobe moving head light",
+    "kind": "strobe",
+    "light": "864pcs RGB LEDs + 96 white LEDs",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      11,
+      32,
+      39
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      500,
+      110,
+      300
+    ],
+    "weightKg": 8,
+    "url": "https://jclight.com/products/12-segment-strobe-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 400 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "1000w Waterproof strobe light",
+    "kind": "strobe",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      11,
+      15,
+      59,
+      71
+    ],
+    "features": [
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      350,
+      480,
+      140
+    ],
+    "weightKg": 10,
+    "url": "https://jclight.com/products/1000w-waterproof-strobe-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 1000 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "LED 3in1 CMY+CTO moving head (Junno)",
+    "kind": "hybrid",
+    "light": "480W/500W 18R lamp LED",
+    "beamDeg": [
+      2.5,
+      2.5
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      32,
+      24
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:12",
+      "prism",
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      480,
+      460,
+      735
+    ],
+    "weightKg": 25,
+    "url": "https://jclight.com/products/led-3in1-cmy-cto-moving-head-junno",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 500 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "Upgraded LED 3in1 spot moving head Light (Junno)",
+    "kind": "hybrid",
+    "light": "high brightness 400w/500w LED moudle, CCT:7000-7500k",
+    "beamDeg": [
+      8,
+      38
+    ],
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      21
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:11+7",
+      "prism",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      396,
+      289,
+      694
+    ],
+    "weightKg": 25,
+    "url": "https://jclight.com/products/upgraded-led-3in1-spot-moving-head-light-junno",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 500 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "480w 3in1 Spot Moving Head Light (Optimus Prime)",
+    "kind": "hybrid",
+    "light": "Osram 420W lamp, CCT: 7500K",
+    "beamDeg": [
+      8,
+      38
+    ],
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      24
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:11",
+      "prism",
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      480,
+      460,
+      735
+    ],
+    "weightKg": 23,
+    "url": "https://jclight.com/products/480w-3in1-spot-moving-head-light-optimus-prime",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 480 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "LED Computer Cut moving head Light",
+    "kind": "profile",
+    "light": "high power 1400w/1600W/1800w, lifespan : 5000 hours",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      42,
+      40,
+      65
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:7",
+      "prism",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      467,
+      368,
+      854
+    ],
+    "weightKg": 43,
+    "url": "https://jclight.com/products/led-computer-cut-moving-head-light-3",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 1600 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "Waterproof LED Computer Cut moving head Light",
+    "kind": "profile",
+    "light": "800w/1000w/1200w/1400w waterproof cutting light white LED module, CCT:7500K",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      35,
+      44
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:8",
+      "prism",
+      "zoom",
+      "focus",
+      "animation",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      301,
+      546,
+      902
+    ],
+    "weightKg": 66.6,
+    "url": "https://jclight.com/products/waterproof-led-computer-cut-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "Waterproof LED Computer Cut moving head Light",
+    "kind": "profile",
+    "light": "high power 800w/1000w/1400w, CCT:8000K",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      34
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "focus",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      525,
+      355,
+      648
+    ],
+    "weightKg": 49,
+    "url": "https://jclight.com/products/led-computer-cut-moving-head-light-copy",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 800 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "LED Computer Cut Moving Head Light",
+    "kind": "profile",
+    "light": "500W/600W LED module, color temperature :10000K/6500K",
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      34,
+      42
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "zoom",
+      "focus",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      770,
+      740,
+      680
+    ],
+    "weightKg": 42,
+    "url": "https://jclight.com/products/led-computer-cut-moving-head-light-2",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 600 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "580S beam light (Yangwang)",
+    "kind": "beam",
+    "light": "20R original Osram 420w lamp",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      560,
+      420,
+      340
+    ],
+    "weightKg": 21.4,
+    "url": "https://jclight.com/products/680s-beam-light-yangwang-copy",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 580 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "680S beam light (Yangwang)",
+    "kind": "beam",
+    "light": "original Osram 420w lamp, CCT:7200k",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      16
+    ],
+    "features": [
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "focus",
+      "pixel",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      450,
+      300,
+      700
+    ],
+    "weightKg": 25,
+    "url": "https://jclight.com/products/680s-beam-light-yangwang",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 680 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "480S beam light (Yangwang)",
+    "kind": "beam",
+    "light": "20R original USHIO 420w lamp",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      340,
+      240,
+      600
+    ],
+    "weightKg": 20,
+    "url": "https://jclight.com/products/480s-beam-light-yangwang",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 480 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "380w beam light (LIGHT WEIGHT)",
+    "kind": "beam",
+    "light": "original Osram 371w lamp, CCT:7200k",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      16
+    ],
+    "features": [
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "focus",
+      "pixel",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      310,
+      270,
+      550
+    ],
+    "weightKg": 16,
+    "url": "https://jclight.com/products/380w-beam-light-light-weight",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 500 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "Waterproof beam light (Silver dragon)",
+    "kind": "beam",
+    "light": "Color wheel: 13 colors+ white, colorful rainbow effect + atomization function",
+    "beamDeg": [
+      1.8,
+      1.8
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "focus",
+      "IP66"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      525,
+      335,
+      798
+    ],
+    "weightKg": 38,
+    "url": "https://jclight.com/products/waterproof-beam-light-silver-dragon",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 550 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "Waterproof 800w beam light (WDC)",
+    "kind": "beam",
+    "light": "original Osram 550w lamp",
+    "beamDeg": [
+      1.8,
+      1.8
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "focus",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      550,
+      440,
+      680
+    ],
+    "weightKg": 28,
+    "url": "https://jclight.com/products/waterproof-800w-beam-light-wdc",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 800 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "Waterproof 7pcs LED Bee Eyes Moving Head Light (Wasp)",
+    "kind": "beeeye",
+    "light": "Osram 7x40w/ 7x60W RGBW 4in1 LED",
+    "beamDeg": [
+      6,
+      40
+    ],
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      17
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      375,
+      319,
+      496
+    ],
+    "weightKg": 16.5,
+    "url": "https://jclight.com/products/waterproof-7pcs-led-bee-eyes-moving-head-light-wasp",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 350 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "19X40w Bee eye Moving head Light with pixel strip",
+    "kind": "beeeye",
+    "light": "19x40W RGBW 4IN1 Osram LED",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      22,
+      26,
+      36,
+      78,
+      4
+    ],
+    "features": [
+      "cto",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      405,
+      234,
+      440
+    ],
+    "weightKg": 18,
+    "url": "https://jclight.com/products/19pcs-bee-eye-moving-head-light-copy",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 850 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "19pcs Bee eye Moving head Light",
+    "kind": "beeeye",
+    "light": "19x15W/40W RGBW 4IN1 LED light (Cree lamp beads)",
+    "beamDeg": [
+      4,
+      60
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      18
+    ],
+    "features": [
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      365,
+      275,
+      500
+    ],
+    "weightKg": 17,
+    "url": "https://jclight.com/products/19pcs-bee-eye-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 350 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "19X60w Bee eye Moving head Light",
+    "kind": "beeeye",
+    "light": "19x60W RGBW 4IN1 LED light (Cree lamp beads)",
+    "beamDeg": [
+      4,
+      60
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      18
+    ],
+    "features": [
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      440,
+      390,
+      310
+    ],
+    "weightKg": 17.5,
+    "url": "https://jclight.com/products/19x60w-bee-eye-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 1200 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "Waterproof Zoom COB Par Light",
+    "kind": "cob",
+    "light": "：warm white/white/full color 300w COB lamp",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      270,
+      200,
+      460
+    ],
+    "weightKg": 6.8,
+    "url": "https://jclight.com/products/waterproof-zoom-cob-par-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "Waterproof DMX follow spot light (The Smurfs)",
+    "kind": "follow",
+    "light": "440/480w/550w Osram bulb",
+    "beamDeg": [
+      5,
+      18
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5
+    ],
+    "features": [
+      "cto",
+      "colorwheel",
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1080,
+      520,
+      430
+    ],
+    "weightKg": 42,
+    "url": "https://jclight.com/products/waterproof-dmx-follow-spot-light-the-smurfs",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 600 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "Waterproof 200w LED Ellipsoidal Profile light",
+    "kind": "ellipsoidal",
+    "light": "：200W/300w LED",
+    "beamDeg": [
+      5,
+      5
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2,
+      4,
+      9
+    ],
+    "features": [
+      "focus",
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      340,
+      270,
+      710
+    ],
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-200w-led-ellipsoidal-profile-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "300w LED Ellipsoidal Profile light",
+    "kind": "ellipsoidal",
+    "light": "300w LED",
+    "beamDeg": [
+      15,
+      40
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2
+    ],
+    "features": [
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      303,
+      243,
+      765
+    ],
+    "weightKg": 13.9,
+    "url": "https://jclight.com/products/300w-led-ellipsoidal-profile-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "DMX 1000w LED Follow spot light",
+    "kind": "follow",
+    "light": "1000w Osram LED chip, lifespan: 50000 hours",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "gobo",
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1200,
+      380,
+      460
+    ],
+    "weightKg": 40,
+    "url": "https://jclight.com/products/dmx-1000w-led-follow-spot-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 1020 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "DMX 600w LED Follow spot light",
+    "kind": "follow",
+    "light": "600w Osram LED chip, lifespan: 50000 hours",
+    "beamDeg": [
+      6,
+      15
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1020,
+      400,
+      450
+    ],
+    "weightKg": 22,
+    "url": "https://jclight.com/products/dmx-600w-led-follow-spot-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 620 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "4 Eyes COB Par light (Sirius)",
+    "kind": "cob",
+    "light": "：4x50w warm white/white/2in1 COB lamp",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "rdm",
+      "ring"
+    ],
+    "ring": "LED-Ring (Halo)",
+    "pixels": null,
+    "sizeMm": [
+      280,
+      210,
+      300
+    ],
+    "weightKg": 3.2,
+    "url": "https://jclight.com/products/4-eyes-cob-par-light-sirius",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "LED Computer Cut Moving Head Light",
+    "kind": "profile",
+    "light": "high power 800w/1000w/1200w LED module, CCT: 6200K",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      42,
+      40,
+      65
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:7",
+      "prism",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      740,
+      540,
+      630
+    ],
+    "weightKg": 40,
+    "url": "https://jclight.com/products/led-computer-cut-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 1000 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "3in1 Spot Moving Head Light (Holy bird)",
+    "kind": "hybrid",
+    "light": "Osram 19R/20R 400w/440w/480w lamp CCT: 7500K",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      26,
+      35
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "zoom",
+      "focus",
+      "artnet",
+      "rdm",
+      "ring"
+    ],
+    "ring": "LED-Ring (Halo)",
+    "pixels": null,
+    "sizeMm": [
+      340,
+      240,
+      600
+    ],
+    "weightKg": 20,
+    "url": "https://jclight.com/products/3in1-spot-moving-head-light-holy-bird",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 650 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "380S/400W beam light (Privated model-Kylin)",
+    "kind": "beam",
+    "light": "19R/20R original 371w/382w Osram lamp, CCT:8500K",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      360,
+      350,
+      510
+    ],
+    "weightKg": 18,
+    "url": "https://jclight.com/products/380s-400w-beam-light-privated-model-kylin",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 550 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "200w LED Spot moving head light",
+    "kind": "spot",
+    "light": "200W LED",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      13
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      185,
+      240,
+      400
+    ],
+    "weightKg": 7,
+    "url": "https://jclight.com/products/200w-led-spot-moving-head-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 200 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "12x60w LED beam zoom moving head light with auxiliary light",
+    "kind": "beam",
+    "light": "：12pcs 60W RGBW 4in1 LED, 432pcs 2015 golden lamp, 432pcs 2015 wite lamp",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      29,
+      62,
+      170,
+      254,
+      308,
+      332
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1050,
+      170,
+      300
+    ],
+    "weightKg": 26.5,
+    "url": "https://jclight.com/products/37x40w-bee-eye-moving-head-light-wasp-copy",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "Waterproof Full color animation landmark laser light",
+    "kind": "laser",
+    "light": null,
+    "beamDeg": [
+      30,
+      30
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "animation"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      460,
+      675,
+      580
+    ],
+    "weightKg": null,
+    "url": "https://jclight.com/products/waterproof-full-color-animation-landmark-laser-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 80 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "Waterproof strobe light",
+    "kind": "strobe",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      500,
+      281,
+      148
+    ],
+    "weightKg": 8.7,
+    "url": "https://jclight.com/products/waterproof-strobe-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 800 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "Waterproof 380w Beam light",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "focus",
+      "IP66"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      370,
+      350,
+      700
+    ],
+    "weightKg": 20.5,
+    "url": "https://jclight.com/products/waterproof-380w-beam-light",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 380 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "37x40W Bee eye moving head light (Wasp)",
+    "kind": "beeeye",
+    "light": "37x40W RGBW 4IN1 CREE LED",
+    "beamDeg": [
+      4,
+      60
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      18
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      710,
+      610,
+      640
+    ],
+    "weightKg": 24.7,
+    "url": "https://jclight.com/products/37x40w-bee-eye-moving-head-light-wasp",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 1500 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "200W COB surface light (Sirius)",
+    "kind": "cob",
+    "light": "Color Temperature(CCT): 6500K(white); 3200K(warm white);(3200-6500k)warm white+cool white",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      6
+    ],
+    "features": [
+      "rdm",
+      "ring"
+    ],
+    "ring": "LED-Ring (Halo)",
+    "pixels": null,
+    "sizeMm": [
+      280,
+      210,
+      300
+    ],
+    "weightKg": 3.2,
+    "url": "https://jclight.com/products/200w-cob-surface-light-sirius",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "24pcs Waterproof LED Par light (Whale Shark)",
+    "kind": "par",
+    "light": "24x10W/12W/15W RGBW/A/UV 4in1/5in1/6in1 LED light",
+    "beamDeg": [
+      45,
+      45
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      8
+    ],
+    "features": [
+      "rdm",
+      "ring"
+    ],
+    "ring": "LED-Ring (Halo)",
+    "pixels": null,
+    "sizeMm": [
+      280,
+      210,
+      300
+    ],
+    "weightKg": 3.2,
+    "url": "https://jclight.com/products/24pcs-led-par-light-thor-copy",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 240 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "18pcs Waterproof LED Par light (Whale Shark)",
+    "kind": "par",
+    "light": "18x10W/12W/15W RGBW/A/UV 4in1/5in1/6in1 LED light",
+    "beamDeg": [
+      25,
+      25
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      8
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      290,
+      210,
+      320
+    ],
+    "weightKg": 2.8,
+    "url": "https://jclight.com/products/18pcs-led-par-light-thor-copy",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 200 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "27pcs LED Par light (Thor)",
+    "kind": "par",
+    "light": "27x10W RGBW 4in1 LED light",
+    "beamDeg": [
+      45,
+      45
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      7,
+      12
+    ],
+    "features": [
+      "rdm",
+      "ring"
+    ],
+    "ring": "LED-Ring (Halo)",
+    "pixels": null,
+    "sizeMm": [
+      280,
+      210,
+      300
+    ],
+    "weightKg": 3.2,
+    "url": "https://jclight.com/products/27pcs-led-par-light-thor",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 270 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "19pcs LED Par light (Thor)",
+    "kind": "par",
+    "light": "19x10W RGBW 4in1 LED light",
+    "beamDeg": [
+      45,
+      45
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      7,
+      12
+    ],
+    "features": [
+      "rdm",
+      "ring"
+    ],
+    "ring": "LED-Ring (Halo)",
+    "pixels": null,
+    "sizeMm": [
+      280,
+      210,
+      300
+    ],
+    "weightKg": 3.2,
+    "url": "https://jclight.com/products/19pcs-led-par-light-thor",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 210 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "24pcs LED Par light (Thor)",
+    "kind": "par",
+    "light": "24x10W/12W/15W RGBW/A/UV 4in1/5in1/6in1 LED light",
+    "beamDeg": [
+      45,
+      45
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      7,
+      12
+    ],
+    "features": [
+      "rdm",
+      "ring"
+    ],
+    "ring": "LED-Ring (Halo)",
+    "pixels": null,
+    "sizeMm": [
+      280,
+      210,
+      300
+    ],
+    "weightKg": 3.2,
+    "url": "https://jclight.com/products/24pcs-led-par-light-thor",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 240 W."
+  },
+  {
+    "manufacturer": "JCLight",
+    "model": "18pcs LED Par light (Thor)",
+    "kind": "par",
+    "light": "18x10W/12W/15W RGBW/A/UV 4in1/5in1/6in1 LED light",
+    "beamDeg": [
+      25,
+      25
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      7,
+      12
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      290,
+      210,
+      320
+    ],
+    "weightKg": 2.8,
+    "url": "https://jclight.com/products/18pcs-led-par-light-new-upgraded",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Shop-Produkt ohne Herstellermodellnummer (Titel = Produktname im Onlineshop). Art aus Titel abgeleitet. Leistung 200 W."
+  }
+]

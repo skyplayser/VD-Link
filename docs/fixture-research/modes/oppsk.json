@@ -1,0 +1,1223 @@
+[
+ {
+  "man": "OPPSK",
+  "key": "200w-6-in-1-led-dj-gigbar-moving-head-light-system",
+  "model": "200W 6-in-1 LED DJ GigBar Moving Head Light System",
+  "kind": "multihead",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   12,
+   30
+  ],
+  "url": "https://oppsk.com/products/200w-6-in-1-led-dj-gigbar-moving-head-light-system",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "outdoor-6led-rgbwauv-6in1-battery-powered-par-light",
+  "model": "Outdoor 6LED RGBWAUV 6in1 Battery Powered Par Light",
+  "kind": "par",
+  "leds": [
+   6,
+   "rgbwauv"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   6,
+   8,
+   10,
+   11
+  ],
+  "feat": [
+   "focus"
+  ],
+  "size": [
+   200,
+   110,
+   120
+  ],
+  "url": "https://oppsk.com/products/outdoor-6led-rgbwauv-6in1-battery-powered-par-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "24x6w-rgbwauv-6in1-outdoor-led-wall-wash-light-bar",
+  "model": "24x6W RGBWAUV 6in1 Outdoor LED Wall Wash Light Bar",
+  "kind": "bar",
+  "leds": [
+   24,
+   "rgbwauv"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   6,
+   8,
+   11,
+   144,
+   149
+  ],
+  "pixelFrom": 144,
+  "size": [
+   1060,
+   110,
+   200
+  ],
+  "url": "https://oppsk.com/products/24x6w-rgbwauv-6in1-wall-wash-light-bar-with-remote",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "60w-battery-powered-led-spot-moving-head-light",
+  "model": "60W Battery Powered LED Spot Moving Head Light",
+  "kind": "spot",
+  "tilt": 540,
+  "ch": [
+   10,
+   12
+  ],
+  "feat": [
+   "gobo:8"
+  ],
+  "url": "https://oppsk.com/products/battery-powered-led-moving-head",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "multi-effect-led-hybrid-moving-head-light",
+  "model": "Multi-effect LED Hybrid Moving Head Light",
+  "kind": "hybrid",
+  "ch": [
+   22
+  ],
+  "url": "https://oppsk.com/products/multi-effect-led-hybrid-moving-head-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "rgba-4n1-led-wash-light-bar-with-remote",
+  "model": "RGBA 4n1 LED Wash Light Bar with Remote",
+  "kind": "bar",
+  "leds": [
+   24,
+   "rgba"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   4,
+   12,
+   32
+  ],
+  "size": [
+   1000,
+   65,
+   85
+  ],
+  "url": "https://oppsk.com/products/rgba-4n1-led-wash-light-bar-with-remote",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "dj-lighting-system-with-strobe-light-par-light-disco-bal",
+  "model": "DJ Lighting System with Strobe Light Par light Disco Ball",
+  "kind": "multihead",
+  "leds": [
+   4,
+   "rgbw"
+  ],
+  "ch": [
+   12,
+   29,
+   33,
+   46
+  ],
+  "pixelFrom": 29,
+  "url": "https://oppsk.com/products/dj-lighting-system-with-strobe-light-bar-par-light-disco-ball",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "800w-rgb-w-a-led-dj-strobe-light-panel",
+  "model": "800W RGB+W+A LED DJ Strobe Light Panel",
+  "kind": "strobe",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   18
+  ],
+  "size": [
+   480,
+   130,
+   265
+  ],
+  "url": "https://oppsk.com/products/800w-rgb-w-a-led-dj-strobe-light-panel",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 268 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "100w-led-retro-stage-moving-head-light",
+  "model": "100W LED Retro Stage Moving Head Light",
+  "kind": "retro",
+  "leds": [
+   4,
+   "rgbw"
+  ],
+  "ch": [
+   13,
+   17,
+   26,
+   29,
+   36
+  ],
+  "pixelFrom": 17,
+  "size": [
+   380,
+   340,
+   180
+  ],
+  "url": "https://oppsk.com/products/100w-4-leaf-led-retro-stage-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "200w-led-hybrid-moving-head-effect-light-with-8-arms",
+  "model": "200W LED Hybrid Moving Head Effect Light with 8 Arms",
+  "kind": "multihead",
+  "leds": [
+   8,
+   "rgbw"
+  ],
+  "ch": [
+   28
+  ],
+  "pixelFrom": 28,
+  "url": "https://oppsk.com/products/200w-led-hybrid-moving-head-effect-light-with-8-arms",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "6x50w-retro-stage-light-with-stand",
+  "model": "6x50W Retro Stage Light with Stand",
+  "kind": "retro",
+  "leds": [
+   6,
+   "ww"
+  ],
+  "ch": [
+   8,
+   28
+  ],
+  "pixelFrom": 8,
+  "size": [
+   1175,
+   200,
+   200
+  ],
+  "url": "https://oppsk.com/products/6x50w-retro-stage-light-with-stand",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "200w-led-moving-head-beam-light-with-rgb-ring",
+  "model": "200W LED Moving Head Beam Light with RGB Ring",
+  "kind": "beam",
+  "ring": [
+   48,
+   "rgb"
+  ],
+  "ch": [
+   16
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost"
+  ],
+  "url": "https://oppsk.com/products/200w-led-moving-head-beam-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "19-15w-zoomable-moving-head-wash-light-with-led-ring",
+  "model": "19×15W Zoomable Moving Head Wash Light with LED Ring",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "ring": [
+   48,
+   "rgb"
+  ],
+  "deg": [
+   8,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   17,
+   25
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://oppsk.com/products/19-15w-zoomable-moving-head-wash-light-with-led-ring",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "360-rgb-led-pixel-tube-light-bar-battery-powered",
+  "model": "360° RGB LED Pixel Tube Light Bar- Battery Powered",
+  "kind": "tube",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   5,
+   8,
+   60,
+   65
+  ],
+  "size": [
+   1120,
+   115,
+   115
+  ],
+  "url": "https://oppsk.com/products/360-rgb-led-pixel-tube-light-bar-battery-powered",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. 1 weitere Shop-Listings mit gleichen Daten zusammengefasst.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "150w-led-hybrid-moving-head-effect-light-with-6-arms",
+  "model": "150W LED Hybrid Moving Head Effect Light with 6 Arms",
+  "kind": "multihead",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   25
+  ],
+  "url": "https://oppsk.com/products/150w-led-hybrid-moving-head-effect-light-with-6-arms",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "80w-mini-moving-head-beam-spot-light-with-ring",
+  "model": "80W Mini Moving Head Beam Spot Light with Ring",
+  "kind": "spot",
+  "ch": [
+   14
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "focus",
+   "rainbow"
+  ],
+  "url": "https://oppsk.com/products/80w-mini-led-moving-head-beam-light-with-ring",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "150w-led-versatile-moving-head-light-with-6-arms",
+  "model": "150W LED Versatile Moving Head Light with 6 Arms",
+  "kind": "multihead",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   26
+  ],
+  "url": "https://oppsk.com/products/150w-led-versatile-moving-head-light-with-6-arms",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "100w-rgbw-4in1-led-par-light-with-rgb-rings",
+  "model": "100W RGBW 4in1 LED Par Light with RGB Rings",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ring": [
+   140,
+   "rgb"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   8
+  ],
+  "size": [
+   250,
+   205,
+   75
+  ],
+  "url": "https://oppsk.com/products/100w-rgbw-4in1-led-par-light-with-rgb-rings",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "18led-rgbw-4in1-par-light-with-rgb-ring",
+  "model": "18LED RGBW 4in1 Par Light with RGB Ring",
+  "kind": "par",
+  "leds": [
+   18,
+   "rgbw"
+  ],
+  "ring": [
+   35,
+   "rgb"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   6,
+   10
+  ],
+  "size": [
+   250,
+   205,
+   60
+  ],
+  "url": "https://oppsk.com/products/18led-rgbw-4in1-par-light-with-rgb-ring",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "6-pack-24x4w-rgba-4in1-indoor-led-wall-washer-light",
+  "model": "6-Pack, 24x4W RGBA 4in1 Indoor LED Wall Washer Light",
+  "kind": "bar",
+  "leds": [
+   24,
+   "rgba"
+  ],
+  "deg": [
+   40,
+   40
+  ],
+  "ch": [
+   1,
+   6,
+   9
+  ],
+  "size": [
+   1020,
+   650,
+   650
+  ],
+  "url": "https://oppsk.com/products/6-pack-oppsk-24x4w-rgba-4in1-indoor-led-wall-washer-light-for-wedding-uplighting-40-us-warehouse",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "led-hybrid-moving-head-beam-laser-strobe-effect-light",
+  "model": "LED Hybrid Moving Head Beam Laser Strobe Effect Light",
+  "kind": "matrixhead",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "ch": [
+   19,
+   25
+  ],
+  "pixelFrom": 25,
+  "url": "https://oppsk.com/products/led-hybrid-moving-head-beam-laser-strobe-effect-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "120w-rgbw-4in1-led-wash-light-bar-individual-control",
+  "model": "120W RGBW 4in1 LED Wash Light Bar-Individual Control",
+  "kind": "bar",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   20,
+   20
+  ],
+  "ch": [
+   4,
+   8,
+   26,
+   72
+  ],
+  "feat": [
+   "focus"
+  ],
+  "size": [
+   1000,
+   55,
+   115
+  ],
+  "url": "https://oppsk.com/products/120w-rgbw-4in1-led-wash-light-bar-individual-control",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "150w-rgb-w-led-dj-strobe-light-panel",
+  "model": "150W RGB+W LED DJ Strobe Light Panel",
+  "kind": "strobe",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   4,
+   16
+  ],
+  "size": [
+   380,
+   115,
+   225
+  ],
+  "url": "https://oppsk.com/products/150w-rgb-w-led-dj-strobe-light-panel",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 112 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "120w-rgbwa-led-dj-strobe-light-panel",
+  "model": "120W RGBWA LED DJ Strobe Light Panel",
+  "kind": "strobe",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   12,
+   70
+  ],
+  "size": [
+   430,
+   80,
+   100
+  ],
+  "url": "https://oppsk.com/products/120w-rgb-w-a-led-dj-strobe-light-panel",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "60led-rgb-3in1-par-light",
+  "model": "60LED RGB 3in1 Par Light",
+  "kind": "par",
+  "leds": [
+   60,
+   "rgb"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   6
+  ],
+  "size": [
+   235,
+   227,
+   185
+  ],
+  "url": "https://oppsk.com/products/60led-rgb-3in1-par-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "battery-powered-pixel-control-light-bar-100w-warm-white",
+  "model": "Battery Powered Pixel Control Light Bar - 100W, Warm White & RGB 3n1",
+  "kind": "bar",
+  "leds": [
+   12,
+   "rgb"
+  ],
+  "ch": [
+   5,
+   14,
+   63
+  ],
+  "url": "https://oppsk.com/products/battery-powered-pixel-control-dj-light-bar-100w",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "dj-effect-light-bar-448led-rgbwa-pixel-light",
+  "model": "DJ Effect Light bar-448LED RGBWA Pixel Light",
+  "kind": "bar",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "ch": [
+   7,
+   13,
+   82,
+   130,
+   135
+  ],
+  "size": [
+   1000,
+   55,
+   95
+  ],
+  "url": "https://oppsk.com/products/dj-effect-light-bar-448led-rgbwa-pixel-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "9led-rgbwauv-6in1-battery-powered-par-light",
+  "model": "9LED RGBWAUV 6in1 Battery Powered Par Light",
+  "kind": "par",
+  "leds": [
+   9,
+   "rgbwauv"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   6,
+   8,
+   10
+  ],
+  "size": [
+   130,
+   130,
+   180
+  ],
+  "url": "https://oppsk.com/products/9led-rgbwauv-6in1-battery-powered-par-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "24x6w-rgbwauv-6in1-led-wash-light-bar",
+  "model": "24x6W RGBWAUV 6in1 LED Wash Light Bar",
+  "kind": "bar",
+  "leds": [
+   24,
+   "rgbwauv"
+  ],
+  "deg": [
+   35,
+   35
+  ],
+  "ch": [
+   6,
+   8,
+   11,
+   48,
+   52
+  ],
+  "url": "https://oppsk.com/products/24x6w-rgbwauv-6in1-led-wash-light-bar",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "500w-rgb-w-led-strobe-light-panel",
+  "model": "500W RGB+W LED Strobe Light Panel",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "deg": [
+   135,
+   135
+  ],
+  "ch": [
+   4,
+   11,
+   32,
+   39
+  ],
+  "size": [
+   400,
+   240,
+   75
+  ],
+  "url": "https://oppsk.com/products/strobe-light-panel-500w-rgb-w-led",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "44led-waterproof-flood-light-with-barn-door",
+  "model": "44LED Waterproof Flood Light with Barn Door",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   45,
+   45
+  ],
+  "ch": [
+   4,
+   9
+  ],
+  "size": [
+   490,
+   330,
+   125
+  ],
+  "url": "https://oppsk.com/products/flood-light-with-barn-door-44led-wateproof",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "10-30w-beam-moving-head-light-bar",
+  "model": "10×30W Beam Moving Head Light Bar",
+  "kind": "tiltbar",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   3.8,
+   3.8
+  ],
+  "tilt": 150,
+  "ch": [
+   7,
+   13,
+   43
+  ],
+  "url": "https://oppsk.com/products/moving-head-light-bar-10-30w-beam",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "300w-mini-led-beam-wash-moving-head-light",
+  "model": "300W Mini LED Beam Wash Moving Head Light",
+  "kind": "beam",
+  "deg": [
+   4,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   23,
+   35,
+   51
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://oppsk.com/products/moving-head-light-300w-mini-led-beam-wash",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "280w-beam-moving-head-light",
+  "model": "280W Beam Moving Head Light",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16,
+   20
+  ],
+  "feat": [
+   "cw:14",
+   "gobo:17",
+   "prism",
+   "prism2",
+   "frost",
+   "focus",
+   "rainbow"
+  ],
+  "url": "https://oppsk.com/products/moving-head-light-280w-beam",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "280w-beam-moving-head-light-with-led-ring",
+  "model": "280W Beam Moving Head Light with LED Ring",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   18
+  ],
+  "feat": [
+   "cw:14",
+   "gobo:17",
+   "prism",
+   "prism2",
+   "frost",
+   "focus",
+   "rainbow"
+  ],
+  "url": "https://oppsk.com/products/moving-head-light-with-led-ring-280w-beam",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "250w-mini-beam-moving-head-light-with-led-ring",
+  "model": "250W Mini Beam Moving Head Light with LED Ring",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   18
+  ],
+  "feat": [
+   "cw:12",
+   "gobo:14",
+   "prism",
+   "prism2",
+   "frost",
+   "focus",
+   "rainbow"
+  ],
+  "url": "https://oppsk.com/products/moving-head-light-with-led-ring-250w-mini-beam",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "250w-mini-beam-moving-head-light",
+  "model": "250W Mini Beam Moving Head Light",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16,
+   20
+  ],
+  "feat": [
+   "cw:12",
+   "gobo:14",
+   "prism",
+   "prism2",
+   "frost",
+   "focus",
+   "rainbow"
+  ],
+  "url": "https://oppsk.com/products/moving-head-light-250w-mini-beam",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "250w-led-hybrid-moving-head-light",
+  "model": "250W LED Hybrid Moving Head Light",
+  "kind": "hybrid",
+  "deg": [
+   11,
+   27
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   18
+  ],
+  "feat": [
+   "cw:9",
+   "gobo:14",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "rainbow"
+  ],
+  "url": "https://oppsk.com/products/moving-head-light-250w-led-hybrid",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "1-meter-led-stage-wash-light-bar-rgbw-4in1-120w",
+  "model": "1-meter LED Stage Wash Light Bar - RGBW 4in1 - 120W",
+  "kind": "bar",
+  "leds": [
+   36,
+   "rgbw"
+  ],
+  "deg": [
+   6,
+   6
+  ],
+  "ch": [
+   4,
+   6,
+   9,
+   48,
+   52
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   1000,
+   55,
+   105
+  ],
+  "url": "https://oppsk.com/products/1m-led-stage-wash-light-bar",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "70w-rgbwa-5in1-led-par-light",
+  "model": "70W RGBWA 5in1 LED Par Light",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbwa"
+  ],
+  "deg": [
+   45,
+   45
+  ],
+  "ch": [
+   9
+  ],
+  "size": [
+   170,
+   170,
+   100
+  ],
+  "url": "https://oppsk.com/products/70w-rgbwa-5in1-led-par-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "dj-light-bar-100w-288leds-rgb-w",
+  "model": "DJ Light Bar - 100W, 288LEDs RGB+W",
+  "kind": "bar",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   6,
+   9,
+   12,
+   32,
+   64
+  ],
+  "size": [
+   1000,
+   65,
+   160
+  ],
+  "url": "https://oppsk.com/products/100w-288leds-rgbw-dj-light-bar",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "led-pixel-light-bar-224led-rgb-3n1-frosted-cover",
+  "model": "LED Pixel Light Bar - 224LED, RGB 3n1, Frosted Cover",
+  "kind": "bar",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   3,
+   5,
+   8,
+   24,
+   48,
+   53
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   1000,
+   65,
+   85
+  ],
+  "url": "https://oppsk.com/products/224-led-rgb-led-pixel-light-bar",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "led-aluminum-par-light-18x6w-rgbwa-uv-6n1",
+  "model": "LED Aluminum Par Light - 18x6W, RGBWA+UV 6n1",
+  "kind": "par",
+  "leds": [
+   18,
+   "rgbwauv"
+  ],
+  "deg": [
+   45,
+   45
+  ],
+  "ch": [
+   10
+  ],
+  "size": [
+   270,
+   230,
+   83
+  ],
+  "url": "https://oppsk.com/products/rgbwa-uv-led-aluminum-par-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "led-wash-light-bar-96w-rgba-4n1",
+  "model": "LED Wash Light Bar - 96W, RGBA 4n1",
+  "kind": "bar",
+  "leds": [
+   24,
+   "rgba"
+  ],
+  "deg": [
+   45,
+   45
+  ],
+  "ch": [
+   6,
+   9,
+   16,
+   30,
+   58
+  ],
+  "size": [
+   1000,
+   65,
+   85
+  ],
+  "url": "https://oppsk.com/products/96w-rgba-led-wash-light-bar",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "led-beam-moving-head-light-double-balls-14x10w-rgbw-4n1",
+  "model": "LED Beam Moving Head Light - Double Balls, 14x10W RGBW 4n1",
+  "kind": "multihead",
+  "leds": [
+   14,
+   "rgbw"
+  ],
+  "deg": [
+   6,
+   6
+  ],
+  "ch": [
+   9,
+   16
+  ],
+  "url": "https://oppsk.com/products/rgbw-led-beam-moving-head-light-double-balls",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "led-zoomable-par-light-250w-rgbw-4n1",
+  "model": "LED Zoomable Par Light - 250W, RGBW 4n1",
+  "kind": "par",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   10,
+   60
+  ],
+  "ch": [
+   10,
+   18
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   280,
+   280,
+   295
+  ],
+  "url": "https://oppsk.com/products/250w-rgbw-led-zoomable-par-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "led-pixel-bar-60w-rgb-3n1",
+  "model": "LED Pixel Bar - 60W, RGB 3n1",
+  "kind": "bar",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   90,
+   90
+  ],
+  "ch": [
+   3,
+   5,
+   8,
+   36,
+   40
+  ],
+  "feat": [
+   "frost"
+  ],
+  "url": "https://oppsk.com/products/60w-rgb-led-pixel-bar",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "pixel-control-dj-light-bar-100w-warm-white-rgb-3n1-led",
+  "model": "Pixel Control DJ Light Bar - 100W, Warm White & RGB 3n1 LED",
+  "kind": "bar",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "ch": [
+   5,
+   12,
+   14,
+   75
+  ],
+  "url": "https://oppsk.com/products/pixel-control-dj-light-bar",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "battery-powered-wireless-par-light-rgbw-4n1-uplighting",
+  "model": "Battery-Powered Wireless Par Light - RGBW 4n1 - Uplighting",
+  "kind": "par",
+  "leds": [
+   3,
+   "rgbw"
+  ],
+  "deg": [
+   35,
+   35
+  ],
+  "ch": [
+   8
+  ],
+  "size": [
+   170,
+   125,
+   125
+  ],
+  "url": "https://oppsk.com/products/battery-powered-wireless-par-light-rgbw-4n1-for-uplighting",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "OPPSK",
+  "key": "outdoor-rgbwauv-led-par-light-18x18w-6n1",
+  "model": "Outdoor RGBWAUV LED Par Light - 18x18W, 6n1",
+  "kind": "par",
+  "leds": [
+   18,
+   "rgbwauv"
+  ],
+  "deg": [
+   45,
+   45
+  ],
+  "ch": [
+   6,
+   10
+  ],
+  "size": [
+   290,
+   260,
+   110
+  ],
+  "url": "https://oppsk.com/products/outdoor-led-par-light-6in1-18x18w",
+  "note": "Steckbrief aus Shop-Text (automatisch) (oppsk.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

@@ -1,0 +1,1464 @@
+{
+  "format": "vd-link-location",
+  "version": 1,
+  "name": "Fixture-Showroom",
+  "kind": "indoor",
+  "created": "2026-11-13T10:52:24.443Z",
+  "modified": "2026-11-13T12:51:34.259Z",
+  "room": {
+    "width": 26,
+    "depth": 16,
+    "height": 7
+  },
+  "objects": [
+    {
+      "id": "sr0",
+      "type": "truss",
+      "name": "Reihe 1 · Moving Heads",
+      "pos": [
+        0,
+        5.4,
+        3
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        23.4,
+        0.3,
+        0.3
+      ],
+      "material": "metal"
+    },
+    {
+      "id": "sr1",
+      "type": "fixture",
+      "name": "zq06133",
+      "group": "Reihe 1 · Moving Heads",
+      "pos": [
+        -10.45,
+        5.4,
+        3
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:uking/zq06133",
+        "mode": 2,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "sr2",
+      "type": "fixture",
+      "name": "19x40w-bee-eye-ring",
+      "group": "Reihe 1 · Moving Heads",
+      "pos": [
+        -8.549999999999999,
+        5.4,
+        3
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:yuer/19x40w-bee-eye-ring",
+        "mode": 2,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "sr3",
+      "type": "fixture",
+      "name": "lm1925r",
+      "group": "Reihe 1 · Moving Heads",
+      "pos": [
+        -6.649999999999999,
+        5.4,
+        3
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:betopper/lm1925r",
+        "mode": 3,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "sr4",
+      "type": "fixture",
+      "name": "zq02823",
+      "group": "Reihe 1 · Moving Heads",
+      "pos": [
+        -4.749999999999999,
+        5.4,
+        3
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:uking/zq02823",
+        "mode": 0,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "sr5",
+      "type": "fixture",
+      "name": "megapointe",
+      "group": "Reihe 1 · Moving Heads",
+      "pos": [
+        -2.8499999999999996,
+        5.4,
+        3
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:robe/megapointe",
+        "mode": 0,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "sr6",
+      "type": "fixture",
+      "name": "mac-aura-xb",
+      "group": "Reihe 1 · Moving Heads",
+      "pos": [
+        -0.9499999999999993,
+        5.4,
+        3
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:martin/mac-aura-xb",
+        "mode": 2,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "sr7",
+      "type": "fixture",
+      "name": "bmfl-spot",
+      "group": "Reihe 1 · Moving Heads",
+      "pos": [
+        0.9500000000000011,
+        5.4,
+        3
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:robe/bmfl-spot",
+        "mode": 0,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "sr8",
+      "type": "fixture",
+      "name": "impression-x4-bar-20",
+      "group": "Reihe 1 · Moving Heads",
+      "pos": [
+        2.8500000000000014,
+        5.4,
+        3
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:glp/impression-x4-bar-20",
+        "mode": 2,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "sr9",
+      "type": "fixture",
+      "name": "lf350",
+      "group": "Reihe 1 · Moving Heads",
+      "pos": [
+        4.75,
+        5.4,
+        3
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:betopper/lf350",
+        "mode": 2,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "sra",
+      "type": "fixture",
+      "name": "4x40w-4-head-ring",
+      "group": "Reihe 1 · Moving Heads",
+      "pos": [
+        6.650000000000002,
+        5.4,
+        3
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:yuer/4x40w-4-head-ring",
+        "mode": 2,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "srb",
+      "type": "fixture",
+      "name": "8x6w-mini-spider",
+      "group": "Reihe 1 · Moving Heads",
+      "pos": [
+        8.55,
+        5.4,
+        3
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:yuer/8x6w-mini-spider",
+        "mode": 0,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "src",
+      "type": "fixture",
+      "name": "tarrantula",
+      "group": "Reihe 1 · Moving Heads",
+      "pos": [
+        10.45,
+        5.4,
+        3
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:robe/tarrantula",
+        "mode": 2,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "srd",
+      "type": "truss",
+      "name": "Reihe 2 · Statische Lampen",
+      "pos": [
+        0,
+        3.6,
+        -0.20000000000000018
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        23.4,
+        0.3,
+        0.3
+      ],
+      "material": "metal"
+    },
+    {
+      "id": "sre",
+      "type": "fixture",
+      "name": "par64-1000w",
+      "group": "Reihe 2 · Statische Lampen",
+      "pos": [
+        -10.45,
+        3.6,
+        -0.20000000000000018
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:generic/par64-1000w",
+        "mode": 0,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "srf",
+      "type": "fixture",
+      "name": "led-par-rgbw-4ch",
+      "group": "Reihe 2 · Statische Lampen",
+      "pos": [
+        -8.549999999999999,
+        3.6,
+        -0.20000000000000018
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:generic/led-par-rgbw-4ch",
+        "mode": 0,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "srg",
+      "type": "fixture",
+      "name": "lc005-b",
+      "group": "Reihe 2 · Statische Lampen",
+      "pos": [
+        -6.649999999999999,
+        3.6,
+        -0.20000000000000018
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:betopper/lc005-b",
+        "mode": 0,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "srh",
+      "type": "fixture",
+      "name": "molefay-8-lite",
+      "group": "Reihe 2 · Statische Lampen",
+      "pos": [
+        -4.749999999999999,
+        3.6,
+        -0.20000000000000018
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:generic/molefay-8-lite",
+        "mode": 1,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "sri",
+      "type": "fixture",
+      "name": "q-7",
+      "group": "Reihe 2 · Statische Lampen",
+      "pos": [
+        -2.8499999999999996,
+        3.6,
+        -0.20000000000000018
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:sgm/q-7",
+        "mode": 2,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "srj",
+      "type": "fixture",
+      "name": "lf4808",
+      "group": "Reihe 2 · Statische Lampen",
+      "pos": [
+        -0.9499999999999993,
+        3.6,
+        -0.20000000000000018
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:betopper/lf4808",
+        "mode": 2,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "srk",
+      "type": "fixture",
+      "name": "zq06144",
+      "group": "Reihe 2 · Statische Lampen",
+      "pos": [
+        0.9500000000000011,
+        3.6,
+        -0.20000000000000018
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:uking/zq06144",
+        "mode": 3,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "srl",
+      "type": "fixture",
+      "name": "fresnel-1kw",
+      "group": "Reihe 2 · Statische Lampen",
+      "pos": [
+        2.8500000000000014,
+        3.6,
+        -0.20000000000000018
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:generic/fresnel-1kw",
+        "mode": 0,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "srm",
+      "type": "fixture",
+      "name": "profile-750w-zoom",
+      "group": "Reihe 2 · Statische Lampen",
+      "pos": [
+        4.75,
+        3.6,
+        -0.20000000000000018
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:generic/profile-750w-zoom",
+        "mode": 0,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "srn",
+      "type": "fixture",
+      "name": "6x40w-ufo",
+      "group": "Reihe 2 · Statische Lampen",
+      "pos": [
+        6.650000000000002,
+        3.6,
+        -0.20000000000000018
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:yuer/6x40w-ufo",
+        "mode": 2,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "sro",
+      "type": "fixture",
+      "name": "zq03268",
+      "group": "Reihe 2 · Statische Lampen",
+      "pos": [
+        8.55,
+        3.6,
+        -0.20000000000000018
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:uking/zq03268",
+        "mode": 0,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "srp",
+      "type": "fixture",
+      "name": "led-strobe-2ch",
+      "group": "Reihe 2 · Statische Lampen",
+      "pos": [
+        10.45,
+        3.6,
+        -0.20000000000000018
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:generic/led-strobe-2ch",
+        "mode": 0,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "srq",
+      "type": "truss",
+      "name": "Reihe 3 · Bars & Röhren",
+      "pos": [
+        0,
+        2.2,
+        -3.4000000000000004
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        16.200000000000003,
+        0.3,
+        0.3
+      ],
+      "material": "metal"
+    },
+    {
+      "id": "srr",
+      "type": "fixture",
+      "name": "vc-strip",
+      "group": "Reihe 3 · Bars & Röhren",
+      "pos": [
+        -6.500000000000002,
+        2.2,
+        -3.4000000000000004
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:martin/vc-strip",
+        "mode": 1,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "srs",
+      "type": "fixture",
+      "name": "ax1-pixeltube",
+      "group": "Reihe 3 · Bars & Röhren",
+      "pos": [
+        -3.9000000000000012,
+        2.2,
+        -3.4000000000000004
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:astera/ax1-pixeltube",
+        "mode": 1,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "srt",
+      "type": "fixture",
+      "name": "lw2418",
+      "group": "Reihe 3 · Bars & Röhren",
+      "pos": [
+        -1.3000000000000016,
+        2.2,
+        -3.4000000000000004
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:betopper/lw2418",
+        "mode": 3,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "sru",
+      "type": "fixture",
+      "name": "led-pixel-bar-16",
+      "group": "Reihe 3 · Bars & Röhren",
+      "pos": [
+        1.299999999999998,
+        2.2,
+        -3.4000000000000004
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:generic/led-pixel-bar-16",
+        "mode": 1,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "srv",
+      "type": "fixture",
+      "name": "lf1421",
+      "group": "Reihe 3 · Bars & Röhren",
+      "pos": [
+        3.8999999999999995,
+        2.2,
+        -3.4000000000000004
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:betopper/lf1421",
+        "mode": 2,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "srw",
+      "type": "fixture",
+      "name": "10x12w-cob-blinder-bar",
+      "group": "Reihe 3 · Bars & Röhren",
+      "pos": [
+        6.499999999999999,
+        2.2,
+        -3.4000000000000004
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:yuer/10x12w-cob-blinder-bar",
+        "mode": 0,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "sy0",
+      "type": "truss",
+      "name": "Reihe 4 · Effekte & Spezialformen",
+      "pos": [
+        0,
+        4.6,
+        -6.2
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        16.2,
+        0.3,
+        0.3
+      ],
+      "material": "metal"
+    },
+    {
+      "id": "sy1",
+      "type": "fixture",
+      "name": "gobo-scanner-80",
+      "group": "Reihe 4 · Effekte & Spezialformen",
+      "pos": [
+        -6.65,
+        4.6,
+        -6.2
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "ofl:cameo/gobo-scanner-80",
+        "mode": 0,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "sy2",
+      "type": "fixture",
+      "name": "derby-x",
+      "group": "Reihe 4 · Effekte & Spezialformen",
+      "pos": [
+        -4.75,
+        4.6,
+        -6.2
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "qlc:chauvet/derby-x",
+        "mode": 0,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "sy3",
+      "type": "fixture",
+      "name": "rotosphere-led",
+      "group": "Reihe 4 · Effekte & Spezialformen",
+      "pos": [
+        -2.85,
+        4.6,
+        -6.2
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "qlc:chauvet/rotosphere-led",
+        "mode": 0,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "sy4",
+      "type": "fixture",
+      "name": "minispider-fx",
+      "group": "Reihe 4 · Effekte & Spezialformen",
+      "pos": [
+        -0.95,
+        4.6,
+        -6.2
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "qlc:fun-generation/minispider-fx",
+        "mode": 0,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "sy5",
+      "type": "fixture",
+      "name": "butterfly-quad-eqled100",
+      "group": "Reihe 4 · Effekte & Spezialformen",
+      "pos": [
+        0.95,
+        4.6,
+        -6.2
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "qlc:equinox/butterfly-quad-eqled100",
+        "mode": 0,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "sy6",
+      "type": "fixture",
+      "name": "m-sphere",
+      "group": "Reihe 4 · Effekte & Spezialformen",
+      "pos": [
+        2.85,
+        4.6,
+        -6.2
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "qlc:mega-lite/m-sphere",
+        "mode": 0,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "sy7",
+      "type": "fixture",
+      "name": "skypanel-s60c",
+      "group": "Reihe 4 · Effekte & Spezialformen",
+      "pos": [
+        4.75,
+        4.6,
+        -6.2
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "ofl:arri/skypanel-s60c",
+        "mode": 0,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "sy8",
+      "type": "fixture",
+      "name": "colorsource-fresnel-v",
+      "group": "Reihe 4 · Effekte & Spezialformen",
+      "pos": [
+        6.65,
+        4.6,
+        -6.2
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "qlc:etc/colorsource-fresnel-v",
+        "mode": 0,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "sz0",
+      "type": "fixture",
+      "name": "followspot-120st",
+      "group": "Boden · Stative",
+      "pos": [
+        -10.5,
+        0.02,
+        -3.4
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "qlc:chauvet/followspot-120st",
+        "mode": 0,
+        "mount": "floor"
+      }
+    },
+    {
+      "id": "sz1",
+      "type": "fixture",
+      "name": "gigbar-move",
+      "group": "Boden · Stative",
+      "pos": [
+        10.5,
+        0.02,
+        -3.4
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "qlc:chauvet/gigbar-move",
+        "mode": 0,
+        "mount": "floor"
+      }
+    },
+    {
+      "id": "sv0",
+      "type": "truss",
+      "name": "Reihe 5 · Neue Bauformen (eigene Definitionen)",
+      "pos": [
+        0,
+        6.2,
+        -7.3
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        17.2,
+        0.3,
+        0.3
+      ],
+      "material": "metal"
+    },
+    {
+      "id": "sv1",
+      "type": "fixture",
+      "name": "silverscan",
+      "group": "Reihe 5 · Neue Bauformen (eigene Definitionen)",
+      "pos": [
+        -7.35,
+        6.2,
+        -7.3
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:robe/silverscan",
+        "mode": 1,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "sv2",
+      "type": "fixture",
+      "name": "chorus-line-16",
+      "group": "Reihe 5 · Neue Bauformen (eigene Definitionen)",
+      "pos": [
+        -5.25,
+        6.2,
+        -7.3
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:elation/chorus-line-16",
+        "mode": 1,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "sv3",
+      "type": "fixture",
+      "name": "tornado",
+      "group": "Reihe 5 · Neue Bauformen (eigene Definitionen)",
+      "pos": [
+        -3.1499999999999995,
+        6.2,
+        -7.3
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:acme/tornado",
+        "mode": 0,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "sv4",
+      "type": "fixture",
+      "name": "cosmos-hp",
+      "group": "Reihe 5 · Neue Bauformen (eigene Definitionen)",
+      "pos": [
+        -1.049999999999999,
+        6.2,
+        -7.3
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:chauvet-dj/cosmos-hp",
+        "mode": 1,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "sv5",
+      "type": "fixture",
+      "name": "rotosphere-hp",
+      "group": "Reihe 5 · Neue Bauformen (eigene Definitionen)",
+      "pos": [
+        1.0500000000000007,
+        6.2,
+        -7.3
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:chauvet-dj/rotosphere-hp",
+        "mode": 2,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "sv6",
+      "type": "fixture",
+      "name": "7x10w-rgbw-3x3w-4x10w-gold-white-strobe-",
+      "group": "Reihe 5 · Neue Bauformen (eigene Definitionen)",
+      "pos": [
+        3.1500000000000004,
+        6.2,
+        -7.3
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:yuer/7x10w-rgbw-3x3w-4x10w-gold-white-strobe-6-arm-moving-hea",
+        "mode": 0,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "sv7",
+      "type": "fixture",
+      "name": "magicdot-neo",
+      "group": "Reihe 5 · Neue Bauformen (eigene Definitionen)",
+      "pos": [
+        5.250000000000002,
+        6.2,
+        -7.3
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:ayrton/magicdot-neo",
+        "mode": 0,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "sv8",
+      "type": "fixture",
+      "name": "gigbar-3-ils",
+      "group": "Reihe 5 · Neue Bauformen (eigene Definitionen)",
+      "pos": [
+        7.350000000000001,
+        6.2,
+        -7.3
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:chauvet-dj/gigbar-3-ils",
+        "mode": 1,
+        "mount": "hang"
+      }
+    },
+    {
+      "id": "sv9",
+      "type": "fixture",
+      "name": "gigbar-move-ils",
+      "group": "Boden · Stative",
+      "pos": [
+        -10.5,
+        0.02,
+        -6.4
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "material": "darkgrey",
+      "fixture": {
+        "id": "vd:chauvet-dj/gigbar-move-ils",
+        "mode": 0,
+        "mount": "floor"
+      }
+    },
+    {
+      "id": "srx",
+      "type": "stage",
+      "name": "Boden",
+      "pos": [
+        0,
+        0,
+        -1
+      ],
+      "rot": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        24,
+        0.02,
+        12
+      ],
+      "material": "darkgrey"
+    }
+  ]
+}

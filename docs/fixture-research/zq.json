@@ -1,0 +1,117 @@
+[
+ {
+  "manufacturer": "ZQ (UKing-OEM-Nummern)",
+  "model": "ZQ-Modellnummern (Übersicht)",
+  "kind": null,
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "Recherche-Notiz",
+  "inLibrary": null,
+  "notes": "„ZQ“ ist kein eigener Endkunden-Hersteller: Die ZQ-Nummern (ZQ01xxx PAR, ZQ02xxx Moving Heads, ZQ06xxx Bars/Wash, ZQ09xxx COB, ZQ-Bxxx ältere Serie) sind die Artikelnummern von UKing (Shenzhen) und erscheinen identisch bei weiteren Amazon-Marken. Ein Hersteller „Zhiqiang“ ließ sich nicht belegen. Alle UKing-Shopmodelle stehen in uking.json."
+ },
+ {
+  "manufacturer": "ZQ (UKing-OEM-Nummern)",
+  "model": "ZQ01511 RGBWA+UV PAR (Marke ZonQoonz)",
+  "kind": "par",
+  "light": "RGBWA+UV",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.usedlighting.com/61389/zonqoonz-zq01511-rgbwa-uv-par",
+  "manualUrl": null,
+  "status": "Gebrauchtmarkt-Listing",
+  "inLibrary": null,
+  "notes": "ZonQoonz verwendet ZQ-Nummer; wasserdichter PAR; keine Kanalzahlen gefunden"
+ },
+ {
+  "manufacturer": "ZQ (UKing-OEM-Nummern)",
+  "model": "ZQ02253 19×15W Zoom Moving Head (Marke GdjRttk)",
+  "kind": "wash",
+  "light": "19×15W RGBW 4in1",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   16,
+   24,
+   32
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "Amazon-Listing einer Fremdmarke",
+  "inLibrary": "vd:uking/zq02253",
+  "notes": "baugleich UKing ZQ02253; 200W"
+ },
+ {
+  "manufacturer": "ZQ (UKing-OEM-Nummern)",
+  "model": "ZQ02341 150W Beam (Marke WZYBUTA)",
+  "kind": "beam",
+  "light": "150W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   12
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "Amazon-Listing einer Fremdmarke",
+  "inLibrary": "vd:uking/zq02341",
+  "notes": "baugleich UKing ZQ02341"
+ },
+ {
+  "manufacturer": "ZQ (UKing-OEM-Nummern)",
+  "model": "ZQ-B54 30W Gobo Moving Head (Marken Ktaxon / Lampwin)",
+  "kind": "spot",
+  "light": "30W LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   7,
+   10
+  ],
+  "features": [
+   "gobo:8"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.ktaxon.com/ktaxon-zq-b54-30w-led-stage-lighting-8-rotary-pattern-effect-light-dmx-512-self-propelled-sound-control-mode-party-bar-club-light-p5373.html",
+  "manualUrl": null,
+  "status": "Handelslisting",
+  "inLibrary": null,
+  "notes": "identisch mit UKing ZQ-B54A (7/10 CH laut Forum)"
+ }
+]

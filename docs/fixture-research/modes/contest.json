@@ -1,0 +1,72 @@
+[
+ {
+  "man": "Contest",
+  "key": "hezo120z",
+  "model": "HEZO120Z",
+  "kind": "wash",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   17
+  ],
+  "url": "https://ribalto.com/fr/contest-hezo120z-h10408",
+  "note": "Steckbrief aus Herstellerangaben (ribalto.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 1 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Contest",
+  "key": "hezo300zr",
+  "model": "HEZO300ZR",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   10,
+   60
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   22,
+   30
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://ribalto.com/fr/contest-hezo300zr-h10710",
+  "note": "Steckbrief aus Herstellerangaben (ribalto.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 1 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Contest",
+  "key": "vpar-40rgbl",
+  "model": "VPAR-40RGBL",
+  "kind": "par",
+  "leds": [
+   18,
+   "rgbw"
+  ],
+  "deg": [
+   10,
+   26
+  ],
+  "ch": [
+   2,
+   8
+  ],
+  "size": [
+   157,
+   269,
+   291
+  ],
+  "url": "https://ribalto.com/fr/contest-vpar-40rgbl-h11754",
+  "note": "Steckbrief aus Herstellerangaben (ribalto.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

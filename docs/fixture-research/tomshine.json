@@ -1,0 +1,145 @@
+[
+ {
+  "manufacturer": "Tomshine",
+  "model": "80W Mini Gobo Moving Head (50W LED)",
+  "kind": "spot",
+  "light": "50W LED (80W gesamt)",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   9,
+   11
+  ],
+  "features": [
+   "gobo:8",
+   "colorwheel:8",
+   "rainbow"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   200,
+   260,
+   147
+  ],
+  "weightKg": 3.1,
+  "url": "https://www.amazon.com/Tomshine-Rainbow-Channels-Pattern-Wedding/dp/B073S78V3Q",
+  "manualUrl": null,
+  "status": "Amazon-Listing",
+  "inLibrary": "ofl:tomshine/80w-mini-gobo-moving-head",
+  "notes": "bereits in Bibliothek (OFL/QLC); Tomshine ist eine Handelsmarke (Tomtop-Gruppe); tomshine.com ist geparkt"
+ },
+ {
+  "manufacturer": "Tomshine",
+  "model": "30W Mini Spider RGBW",
+  "kind": "spider",
+  "light": "RGBW-LEDs, 30W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   10,
+   14
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://us.amazon.com/Tomshine-Rotatable-Lighting-Channels-Wedding/dp/B073S72B9Z",
+  "manualUrl": null,
+  "status": "Amazon-Listing",
+  "inLibrary": null,
+  "notes": "nicht in Bibliothek; LED-Anordnung nicht bekannt; Tomshine ist eine Handelsmarke (Tomtop-Gruppe); tomshine.com ist geparkt"
+ },
+ {
+  "manufacturer": "Tomshine",
+  "model": "60W 6in1 Moving Head RGBWA+UV (4×12W)",
+  "kind": "wash",
+  "light": "4×12W RGBWA+UV 6in1",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   16,
+   18
+  ],
+  "features": [
+   "gobo",
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.amazon.com/Tomshine-Channels-Lighting-Activated-Spotlight/dp/B071ZH8P8C",
+  "manualUrl": null,
+  "status": "Amazon-Listing",
+  "inLibrary": null,
+  "notes": "Titel nennt GOBO; nicht in Bibliothek; Tomshine ist eine Handelsmarke (Tomtop-Gruppe); tomshine.com ist geparkt"
+ },
+ {
+  "manufacturer": "Tomshine",
+  "model": "70W RGBW Mini Beam Moving Head (1 COB, 60W)",
+  "kind": "beam",
+  "light": "1 COB-LED RGBW (60W laut Text, 70W laut Titel)",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   10,
+   13
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://alltdu.com/index.php?route=product/product&product_id=521",
+  "manualUrl": null,
+  "status": "Händlerlisting",
+  "inLibrary": null,
+  "notes": "Leistungsangaben widersprüchlich; Tomshine ist eine Handelsmarke (Tomtop-Gruppe); tomshine.com ist geparkt"
+ },
+ {
+  "manufacturer": "Tomshine",
+  "model": "30W Mini Gobo Moving Head",
+  "kind": "spot",
+  "light": "30W LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "nur über Finale-3D-Fixtureliste bekannt",
+  "inLibrary": null,
+  "notes": "keine Daten verfügbar; Tomshine ist eine Handelsmarke (Tomtop-Gruppe); tomshine.com ist geparkt"
+ },
+ {
+  "manufacturer": "Tomshine",
+  "model": "3 LED Par Light RGBUV",
+  "kind": "par",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "bereits in Bibliothek",
+  "inLibrary": "ofl:tomshine/3-led-par-light-rgbuv",
+  "notes": "Tomshine ist eine Handelsmarke (Tomtop-Gruppe); tomshine.com ist geparkt"
+ }
+]

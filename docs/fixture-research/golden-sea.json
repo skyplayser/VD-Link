@@ -1,0 +1,6826 @@
+[
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GLZ100",
+    "kind": "beam",
+    "light": "100W laser+LED",
+    "beamDeg": [
+      1.5,
+      1.5
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      17,
+      15,
+      24
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:27",
+      "prism",
+      "frost",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      283,
+      199.5,
+      451
+    ],
+    "weightKg": 10.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/182",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: GLZ100 LASER LED BEAM.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GLZ300 IP",
+    "kind": "beam",
+    "light": "laser 260W",
+    "beamDeg": [
+      0.8,
+      0.8
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      24,
+      22,
+      34
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:26",
+      "prism",
+      "frost",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      468,
+      370,
+      718
+    ],
+    "weightKg": 36,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/187",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: GLZ300 IP LASER BEAM.  Pan 540° (630° optional). IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GLZ100X",
+    "kind": "beam",
+    "light": "100W laser+LED",
+    "beamDeg": [
+      1.5,
+      1.5
+    ],
+    "pan": "infinite",
+    "tilt": 270,
+    "channels": [
+      18,
+      16,
+      25
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:27",
+      "prism",
+      "frost",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      283,
+      200,
+      451
+    ],
+    "weightKg": 11,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/188",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: GLZ100X LASER LED BEAM.  Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "G550B IP",
+    "kind": "beam",
+    "light": "Philips MSD Platinum 500L Flex",
+    "beamDeg": [
+      1.7,
+      1.7
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      24,
+      34
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:17",
+      "prism",
+      "frost",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      506.7,
+      370,
+      701.4
+    ],
+    "weightKg": 49,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/189",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: G550B IP BEAM.  Pan 540° (630° optional). IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "TP300",
+    "kind": "panel",
+    "light": "RGBW",
+    "beamDeg": [
+      160,
+      160
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      8,
+      13
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      680,
+      408,
+      107
+    ],
+    "weightKg": 12,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/204",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: TP300 LED PANEL.  Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "SH9",
+    "kind": "beam",
+    "light": "MSD Silver 300 LL",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      17
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:13",
+      "prism",
+      "frost",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      340,
+      220,
+      522
+    ],
+    "weightKg": 14,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/206",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: SH9 BEAM.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GLZ100 IP",
+    "kind": "beam",
+    "light": "100W laser",
+    "beamDeg": [
+      0.9,
+      0.9
+    ],
+    "pan": "infinite",
+    "tilt": "infinite",
+    "channels": [
+      27,
+      36
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:24",
+      "prism",
+      "frost",
+      "focus",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      395,
+      270,
+      520
+    ],
+    "weightKg": 20,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/211",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: GLZ100 IP LASER BEAM.  IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GL750PH",
+    "kind": "profile",
+    "light": "600W white LED",
+    "beamDeg": [
+      3.5,
+      53
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      40,
+      62
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      467,
+      270,
+      782
+    ],
+    "weightKg": 36,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/213",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: GL750PH (Super Silent)  LED PROFILE.  Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GLZ500 IP",
+    "kind": "lasermh",
+    "light": "500W Laser",
+    "beamDeg": [
+      0.6,
+      8.5
+    ],
+    "pan": "infinite",
+    "tilt": 270,
+    "channels": [
+      27,
+      38
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      508,
+      370,
+      790
+    ],
+    "weightKg": 55,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/214",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: GLZ500 IP Outdoor Search Light. IP-Outdoor-Searchlight mit 500 W Laserquelle, Endlos-Pan. IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "S620B",
+    "kind": "beam",
+    "light": "Philips MSD Platinum 19 R LL, 420W",
+    "beamDeg": [
+      1.6,
+      1.6
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      19,
+      17,
+      27
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:15",
+      "prism",
+      "frost",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      395,
+      270,
+      616.5
+    ],
+    "weightKg": 19.6,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/215",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: S620B BEAM.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "S620H",
+    "kind": "hybrid",
+    "light": "Philips MSD Platinum 19 R LL, 420W",
+    "beamDeg": [
+      2.3,
+      28
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      25,
+      36
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:14",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      395,
+      270,
+      617
+    ],
+    "weightKg": 20,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/216",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: S620H HYBRID.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "TP300FX",
+    "kind": "panel",
+    "light": "R/G/B/W LEDs",
+    "beamDeg": [
+      160,
+      160
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      36,
+      61
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      680,
+      408,
+      107
+    ],
+    "weightKg": 12,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/222",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: TP300FX LED PANEL.  Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "TP300 TW",
+    "kind": "panel",
+    "light": "High and low CT white LED",
+    "beamDeg": [
+      160,
+      160
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      7,
+      34
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      680,
+      408,
+      107
+    ],
+    "weightKg": 12,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/227",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: TP300 TW LED PANEL.  Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "S620B IP",
+    "kind": "beam",
+    "light": "Philips MSD Platinum 19 R LL, 420W",
+    "beamDeg": [
+      1.5,
+      1.5
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      20,
+      29
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:15",
+      "prism",
+      "frost",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      395,
+      270,
+      696
+    ],
+    "weightKg": 26,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/228",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: S620B IP BEAM.  Pan 540° (630° optional). IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "S620H IP",
+    "kind": "hybrid",
+    "light": "Philips MSD Platinum 19 R LL, 420W",
+    "beamDeg": [
+      2.3,
+      28
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      25,
+      36
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:14",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      395,
+      270,
+      701
+    ],
+    "weightKg": 29,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/229",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: S620H IP HYBRID.  Pan 540° (630° optional). IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "SL880P IP",
+    "kind": "profile",
+    "light": "750W white LED",
+    "beamDeg": [
+      3.5,
+      53
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      40,
+      62
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:9",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      395,
+      270,
+      702
+    ],
+    "weightKg": 31,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/230",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: SL880P IP LED PROFILE.  IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "SL880P",
+    "kind": "profile",
+    "light": "750W white LED",
+    "beamDeg": [
+      3.5,
+      53
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      40,
+      62
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:9",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      395,
+      270,
+      681
+    ],
+    "weightKg": 26,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/231",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: SL880P LED Profile.  Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "SL3000P IP",
+    "kind": "profile",
+    "light": "1200W white LED",
+    "beamDeg": [
+      4.5,
+      55
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      44,
+      66
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      444,
+      315,
+      679
+    ],
+    "weightKg": 35,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/233",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: SL3000P IP LED PROFILE.  IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GLW1940 IP",
+    "kind": "wash",
+    "light": "19x40W RGBL(L for lime) LED (optional RGBW）",
+    "beamDeg": [
+      4.5,
+      29
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      25,
+      95
+    ],
+    "features": [
+      "zoom",
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      270,
+      395,
+      472
+    ],
+    "weightKg": 18,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/234",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: GLW1940 IP LED WASH.  IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "SL10P IP",
+    "kind": "profile",
+    "light": "1000W white LED",
+    "beamDeg": [
+      3.5,
+      53
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      40,
+      62
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:9",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      395,
+      270,
+      702
+    ],
+    "weightKg": 32,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/236",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: SL10P IP  LED Profile.  IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "T400WW",
+    "kind": "ellipsoidal",
+    "light": "single high-power white LED",
+    "beamDeg": [
+      15,
+      36
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      4
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      328,
+      439,
+      736
+    ],
+    "weightKg": 9,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/239",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: T400WW LED PROFILE.  Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GL9P IP",
+    "kind": "profile",
+    "light": "850W White LED",
+    "beamDeg": [
+      5.5,
+      50
+    ],
+    "pan": 540,
+    "tilt": 250,
+    "channels": [
+      43,
+      44,
+      68,
+      69
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:7",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      468,
+      370,
+      692
+    ],
+    "weightKg": 43,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/251",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: GL9P IP LED PROFILE.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "SL18P",
+    "kind": "profile",
+    "light": "1800W White LED",
+    "beamDeg": [
+      5.5,
+      50
+    ],
+    "pan": 540,
+    "tilt": 250,
+    "channels": [
+      40,
+      62
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      466,
+      321,
+      819
+    ],
+    "weightKg": 42,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/267",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: SL18P LED PROFILE.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "SLZ IP",
+    "kind": "hybrid",
+    "light": "laser 500W",
+    "beamDeg": [
+      0.8,
+      23
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      27,
+      40
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:24",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      315,
+      444,
+      685
+    ],
+    "weightKg": 33,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/270",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: SLZ IP LASER HYBRID.  IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "S620HL IP",
+    "kind": "hybrid",
+    "light": "PHILIPS MSD Infinity 19X,420W",
+    "beamDeg": [
+      2,
+      28
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      25,
+      36
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:14",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      395,
+      270,
+      701
+    ],
+    "weightKg": 27,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/273",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: S620HL IP HYBRID.  Pan 540° (630° optional). IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "S620HL",
+    "kind": "hybrid",
+    "light": "PHILIPS MSD Infinity 19X,420W",
+    "beamDeg": [
+      2.3,
+      28
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      25,
+      36
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:14",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      395,
+      270,
+      617
+    ],
+    "weightKg": 20,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/274",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: S620HL HYBRID.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "SLC IP",
+    "kind": "profile",
+    "light": "1800W RGBALC LED",
+    "beamDeg": [
+      4,
+      55
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      49,
+      73
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:5",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      444,
+      315,
+      820
+    ],
+    "weightKg": 44,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/275",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: SLC IP LED SPOT(WITH FRAMING).  Pan 540° (630° optional). IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "S620BL",
+    "kind": "beam",
+    "light": "PHILIPS MSD Infinity 19X,420W",
+    "beamDeg": [
+      1.5,
+      1.5
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      19,
+      17,
+      27
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:15",
+      "prism",
+      "frost",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      395,
+      270,
+      617
+    ],
+    "weightKg": 20,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/277",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: S620BL Beam.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "S620BL IP",
+    "kind": "beam",
+    "light": "PHILIPS MSD Infinity 19X,420W",
+    "beamDeg": [
+      1.5,
+      1.5
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      20,
+      29
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:15",
+      "prism",
+      "frost",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      395,
+      270,
+      696
+    ],
+    "weightKg": 26,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/278",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: S620BL IP Beam.  Pan 540° (630° optional). IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "T180C II",
+    "kind": "ellipsoidal",
+    "light": "R/G/B/A/M,5-in-1 LED Engine,180W",
+    "beamDeg": [
+      26,
+      26
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5,
+      6,
+      8,
+      13,
+      19
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      201.7,
+      268.4,
+      617.2
+    ],
+    "weightKg": 7.2,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/279",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: T180C II LED PROFILE. LED-Profilscheinwerfer Mehrfarben, Version II. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "SL18P IP",
+    "kind": "profile",
+    "light": "1800W White LED",
+    "beamDeg": [
+      5.5,
+      50
+    ],
+    "pan": 540,
+    "tilt": 250,
+    "channels": [
+      40,
+      62
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      457,
+      332,
+      825
+    ],
+    "weightKg": 53,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/308",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: SL18P IP LED PROFILE.  Pan 540° (630° optional). IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "T400TW",
+    "kind": "ellipsoidal",
+    "light": "single high-power dual-color temperature (high-low) white LED",
+    "beamDeg": [
+      15,
+      36
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      9
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      328,
+      439,
+      736
+    ],
+    "weightKg": 9,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/314",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: T400TW LED PROFILE.  Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GS-Z1940",
+    "kind": "par",
+    "light": "19x40W RGBW LED (optional RGBL/high CRI)",
+    "beamDeg": [
+      3,
+      27
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      16,
+      24,
+      104
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      290,
+      346,
+      397
+    ],
+    "weightKg": 9,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/315",
+    "manualUrl": null,
+    "status": "neu",
+    "inLibrary": null,
+    "notes": "Produkttitel: GS-Z1940 LED PAR.  Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "G21 HYBRID",
+    "kind": "hybrid",
+    "light": "Philips Platinum 21R, 470W",
+    "beamDeg": [
+      2,
+      24
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      27,
+      25,
+      39
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:14",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      457,
+      325,
+      698
+    ],
+    "weightKg": 31.2,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/1",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: G21 HYBRID.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "G20 HYBRID IP",
+    "kind": "hybrid",
+    "light": "Philips Platinum 21R, 470W",
+    "beamDeg": [
+      2.1,
+      21.5
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      26,
+      24,
+      37
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:14",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "animation",
+      "IP65",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      463,
+      331,
+      800
+    ],
+    "weightKg": 41.1,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/2",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: G20 HYBRID IP.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "G14B IP",
+    "kind": "beam",
+    "light": "Philips Platinum 14R, 280W",
+    "beamDeg": [
+      2.5,
+      2.5
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      19,
+      17,
+      28
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:13",
+      "prism",
+      "frost",
+      "focus",
+      "IP65",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      445,
+      332,
+      680
+    ],
+    "weightKg": 35,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/3",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: G14B IP BEAM.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "G12 HYBRID",
+    "kind": "hybrid",
+    "light": "Philips Platinum 20R, 470W",
+    "beamDeg": [
+      1.8,
+      23
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      24,
+      26,
+      37
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:6",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      475,
+      326,
+      765
+    ],
+    "weightKg": 35,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/4",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: G12 HYBRID.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "G12WB",
+    "kind": "hybrid",
+    "light": "Philips Platinum 20R, 470W",
+    "beamDeg": [
+      2.5,
+      30
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      24,
+      22,
+      34
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      650,
+      600,
+      925
+    ],
+    "weightKg": 30,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/5",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: G12WB BEAM & WASH.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "G10 HYBRID",
+    "kind": "hybrid",
+    "light": "Philips Platinum 17RA, 350W",
+    "beamDeg": [
+      3,
+      18
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      18,
+      16,
+      25
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      870,
+      565,
+      485
+    ],
+    "weightKg": 32,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/6",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: G10 HYBRID.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "G10B",
+    "kind": "beam",
+    "light": "Philips Platinum 17RA, 350W",
+    "beamDeg": [
+      3,
+      3
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      14,
+      12,
+      18
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      695,
+      495,
+      425
+    ],
+    "weightKg": 27,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/7",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: G10B BEAM.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "G9 HYBRID",
+    "kind": "hybrid",
+    "light": "Philips Platinum 14R, 280W",
+    "beamDeg": [
+      2,
+      16
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      17,
+      19,
+      26
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:12",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      386,
+      299,
+      662
+    ],
+    "weightKg": 24,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/8",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: G9 HYBRID.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "G9B",
+    "kind": "beam",
+    "light": "Philips Platinum 14R, 280W",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16,
+      14,
+      22
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "focus",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      675,
+      490,
+      415
+    ],
+    "weightKg": 22,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/9",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: G9B BEAM.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "PT330W",
+    "kind": "wash",
+    "light": "Philips Platinum 16R, 330W",
+    "beamDeg": [
+      7,
+      46
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      17,
+      19,
+      26
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "prism",
+      "frost",
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      385,
+      331,
+      573
+    ],
+    "weightKg": 21,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/10",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: PT330W WASH.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "PT320B",
+    "kind": "beam",
+    "light": "Philips Platinum 15R, 320W",
+    "beamDeg": [
+      4.8,
+      4.8
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16,
+      14,
+      22
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      660,
+      505,
+      465
+    ],
+    "weightKg": 22.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/11",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: PT320B BEAM.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "PT320S",
+    "kind": "spot",
+    "light": "Philips Platinum 15R",
+    "beamDeg": [
+      6,
+      28
+    ],
+    "pan": 540,
+    "tilt": 265,
+    "channels": [
+      23,
+      21,
+      34
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:14",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      765,
+      505,
+      465
+    ],
+    "weightKg": 22.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/12",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: PT320S SPOT.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "PT189B",
+    "kind": "beam",
+    "light": "Philips Platinum 5R，189W",
+    "beamDeg": [
+      3,
+      3
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      14,
+      12,
+      18
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      362,
+      331,
+      526
+    ],
+    "weightKg": 19,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/13",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: PT189B BEAM.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "PDH-2R",
+    "kind": "beam",
+    "light": "Philips MSD Platinum 2R x 2, 100Wx2",
+    "beamDeg": [
+      4,
+      4
+    ],
+    "pan": "infinite",
+    "tilt": 360,
+    "channels": [
+      24,
+      21,
+      32
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      580,
+      520,
+      465
+    ],
+    "weightKg": 20,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/14",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: PDH-2R BEAM. Doppel-Beam-Moving-Head (2 x Philips MSD Platinum 2R, 100 W) mit Endlos-Pan/Tilt 360°. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "PTB-2R",
+    "kind": "beam",
+    "light": "Philips Platinum 2R, 100W",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      12,
+      10,
+      16
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      510,
+      405,
+      365
+    ],
+    "weightKg": 10,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/15",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: PTB-2R BEAM.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "V1000P",
+    "kind": "profile",
+    "light": "Philips MSR GOLD 1000 FASTFIT(optional",
+    "beamDeg": [
+      12.6,
+      56
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      39,
+      37,
+      62
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:7",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      443,
+      317,
+      697
+    ],
+    "weightKg": 46.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/16",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: V1000P PROFILE.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "V1000LT",
+    "kind": "profile",
+    "light": "Philips MSR GOLD 1000 mini FASTFIT (optional Osram Lok-it! HTI 1000W)",
+    "beamDeg": [
+      5.2,
+      34.1
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      38,
+      36,
+      59
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      443,
+      317,
+      697
+    ],
+    "weightKg": 44.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/17",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: V1000LT PROFILE.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "V2500S",
+    "kind": "spot",
+    "light": "Philips MSR GOLD 1510 SA/DE(Or Philips MSR GOLD 1500 FASTFIT optional)",
+    "beamDeg": [
+      8,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      29,
+      27,
+      41
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      750,
+      585,
+      920
+    ],
+    "weightKg": 38.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/18",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: V2500S SPOT.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "V3000P",
+    "kind": "profile",
+    "light": "Philips MSR GOLD 1500 FASTFIT",
+    "beamDeg": [
+      8,
+      53
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      39,
+      37,
+      60
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      750,
+      585,
+      920
+    ],
+    "weightKg": 45,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/22",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: V3000P SPOT (WITH FRAMING).  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "FS800M",
+    "kind": "follow",
+    "light": "Philips Platinum 35ST, 800W",
+    "beamDeg": [
+      5.5,
+      18
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "cto",
+      "frost",
+      "iris",
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      402,
+      210,
+      1049
+    ],
+    "weightKg": 36.7,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/23",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: FS800M FOLLOW SPOT. Verfolger 950 W-Klasse, Zoom 5,5-18°. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "FS300M",
+    "kind": "follow",
+    "light": "Philips Platinum 15R, 300W",
+    "beamDeg": [
+      5,
+      10
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "cto",
+      "frost",
+      "iris",
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      376,
+      255,
+      902
+    ],
+    "weightKg": 23,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/24",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: FS300M FOLLOW SPOT. Verfolger 350 W-Klasse, Zoom 5-10°. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "PT160PRO",
+    "kind": "spot",
+    "light": "Philips Platinum 5R",
+    "beamDeg": [
+      10,
+      42
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      23,
+      21,
+      34
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:14",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      695,
+      485,
+      455
+    ],
+    "weightKg": 21,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/25",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: PT160PRO SPOT.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "PT160S",
+    "kind": "spot",
+    "light": "Philips Platinum 5R",
+    "beamDeg": [
+      16,
+      16
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      17,
+      15,
+      24
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:14",
+      "prism",
+      "frost",
+      "iris",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      545,
+      425,
+      430
+    ],
+    "weightKg": 16.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/26",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: PT160S SPOT.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "JT160B",
+    "kind": "beam",
+    "light": "Philips Platinum 5R",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": 265,
+    "channels": [
+      12,
+      10
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      545,
+      425,
+      430
+    ],
+    "weightKg": 10,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/27",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: JT160B BEAM.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "PT230B",
+    "kind": "beam",
+    "light": "OSRAM SIRIUS HRI™，230W",
+    "beamDeg": [
+      3,
+      3
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      14,
+      12,
+      18
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      362,
+      331,
+      526
+    ],
+    "weightKg": 19,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/28",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: PT230B BEAM.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "PT800S",
+    "kind": "spot",
+    "light": "Philips Platinum 35ST, 800W",
+    "beamDeg": [
+      8,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      29,
+      27,
+      41
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      835,
+      560,
+      485
+    ],
+    "weightKg": 34.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/30",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: PT800S SPOT.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "PT800B",
+    "kind": "beam",
+    "light": "Philips Platinum 35",
+    "beamDeg": [
+      4,
+      4
+    ],
+    "pan": 540,
+    "tilt": 265,
+    "channels": [
+      23,
+      21,
+      35
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:7",
+      "prism",
+      "frost",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      600,
+      560,
+      820
+    ],
+    "weightKg": 42,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/31",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: PT800B BEAM.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "PT801P",
+    "kind": "profile",
+    "light": "Philips Platinum 35ST, 800W",
+    "beamDeg": [
+      8,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      38,
+      36,
+      59
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:3",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      835,
+      560,
+      485
+    ],
+    "weightKg": 41.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/32",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: PT801P SPOT(WITH FRAMING).  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "V1200TB",
+    "kind": "beam",
+    "light": "Philips MSR GOLD 1200 SA/DE",
+    "beamDeg": [
+      7,
+      7
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      21,
+      19,
+      32
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      600,
+      560,
+      800
+    ],
+    "weightKg": 33.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/33",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: V1200TB BEAM.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "V1200TW",
+    "kind": "wash",
+    "light": "Philips MSR GOLD 1200 SA/DE",
+    "beamDeg": [
+      10,
+      46
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16,
+      14,
+      23
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      765,
+      460,
+      560
+    ],
+    "weightKg": 35,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/34",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: V1200TW WASH.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "V1500T-ER",
+    "kind": "spot",
+    "light": "Philips MSR GOLD 1510 SA/DE",
+    "beamDeg": [
+      16,
+      42
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      26,
+      24,
+      38
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "animation"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      750,
+      450,
+      540
+    ],
+    "weightKg": 34,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/35",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: V1500T-ER SPOT.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "V1500TB-ER",
+    "kind": "beam",
+    "light": "Philips MSR GOLD 1510 SA/DE",
+    "beamDeg": [
+      5,
+      5
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      21,
+      19,
+      32
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      600,
+      560,
+      800
+    ],
+    "weightKg": 33,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/36",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: V1500TB-ER BEAM.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "V1500TW-ER",
+    "kind": "wash",
+    "light": "Philips MSR GOLD 1510 SA/DE",
+    "beamDeg": [
+      10,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16,
+      14,
+      23
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      600,
+      450,
+      540
+    ],
+    "weightKg": 34,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/37",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: V1500TW-ER WASH.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "V2000B",
+    "kind": "beam",
+    "light": "Philips MSR GOLD 1500 FASTFIT",
+    "beamDeg": [
+      5,
+      5
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      21,
+      23,
+      35
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      610,
+      450,
+      980
+    ],
+    "weightKg": 39,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/38",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: V2000B BEAM.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "V2000P",
+    "kind": "profile",
+    "light": "Philips MSR GOLD 1510 SA/DE",
+    "beamDeg": [
+      9,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      36,
+      34,
+      57
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      870,
+      630,
+      480
+    ],
+    "weightKg": 36,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/39",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: V2000P SPOT (WITH FRAMING).  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "V2500P",
+    "kind": "profile",
+    "light": "Philips MSR GOLD 1510 SA/DE",
+    "beamDeg": [
+      8,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      38,
+      36,
+      59
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      835,
+      560,
+      485
+    ],
+    "weightKg": 41.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/40",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: V2500P  SPOT (WITH FRAMING).  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "V3000S",
+    "kind": "spot",
+    "light": "Philips MSR GOLD 1500 FASTFIT(Or Phillip MSR GOLD 1510 SA/DE optional)",
+    "beamDeg": [
+      8,
+      53
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      30,
+      28,
+      43
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      750,
+      585,
+      920
+    ],
+    "weightKg": 42.6,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/41",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: V3000S SPOT.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "LS-2R",
+    "kind": "effect",
+    "light": "Philips Platinum 2R, 100W",
+    "beamDeg": [
+      4,
+      4
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      13,
+      11,
+      18
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:14",
+      "prism",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      540,
+      365,
+      365
+    ],
+    "weightKg": 7.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/43",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: LS-2R SCANNER. Spiegel-Scanner mit Philips Platinum 2R 100 W. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GL2P",
+    "kind": "profile",
+    "light": "270W White LED",
+    "beamDeg": [
+      8,
+      47
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      36,
+      38,
+      59
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:9",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      454,
+      312,
+      660
+    ],
+    "weightKg": 28,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/50",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: GL2P LED PROFILE.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GL4",
+    "kind": "profile",
+    "light": "440W White LED",
+    "beamDeg": [
+      11,
+      38
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      25,
+      23,
+      35
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      450,
+      310,
+      745
+    ],
+    "weightKg": 33.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/51",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: GL4 LED PROFILE.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GL5(GL5H)",
+    "kind": "spot",
+    "light": "600W white LED",
+    "beamDeg": [
+      8,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      28,
+      30,
+      42
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      481,
+      326,
+      840
+    ],
+    "weightKg": 48,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/52",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: GL5(GL5H) LED SPOT.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GL6 (GL6H)",
+    "kind": "profile",
+    "light": "600W White LED",
+    "beamDeg": [
+      7,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      39,
+      37,
+      59
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:7",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      481,
+      326,
+      836
+    ],
+    "weightKg": 46,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/53",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: GL6 (GL6H) LED PROFILE.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GLW370Z",
+    "kind": "wash",
+    "light": "37 x 15W RGBW LED",
+    "beamDeg": [
+      5,
+      70
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      17,
+      19,
+      165
+    ],
+    "features": [
+      "zoom",
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      499,
+      331,
+      594
+    ],
+    "weightKg": 22.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/54",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: GLW370Z LED WASH.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "OK370Z-R II",
+    "kind": "wash",
+    "light": "37 x 15W RGBW high power LEDs",
+    "beamDeg": [
+      14,
+      51
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      35,
+      19,
+      49
+    ],
+    "features": [
+      "zoom",
+      "pixel",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      705,
+      605,
+      430
+    ],
+    "weightKg": 24.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/55",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: OK370Z-R II WASH.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GLW3QZ",
+    "kind": "wash",
+    "light": "3 x 60W RGBW LED",
+    "beamDeg": [
+      9,
+      75
+    ],
+    "pan": "infinite",
+    "tilt": "infinite",
+    "channels": [
+      22,
+      20,
+      28
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      253,
+      224,
+      377
+    ],
+    "weightKg": 8,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/56",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: GLW3QZ LED WASH. LED-Wash 3 x 60 W RGBW mit Endlos-Pan/Tilt. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "OK190Z-R II",
+    "kind": "wash",
+    "light": "19 x 15W RGBW high power LEDs",
+    "beamDeg": [
+      14,
+      63
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      33,
+      21,
+      43
+    ],
+    "features": [
+      "zoom",
+      "pixel",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      585,
+      445,
+      345
+    ],
+    "weightKg": 15,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/57",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: OK190Z-R II WASH. LED-Wash 19 x 15 W RGBW mit Zoom. Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GLW7QZ",
+    "kind": "wash",
+    "light": "7x40W RGBW LED",
+    "beamDeg": [
+      7,
+      35
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      19,
+      21,
+      26
+    ],
+    "features": [
+      "zoom",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      282,
+      200,
+      349
+    ],
+    "weightKg": 7,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/58",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: GLW7QZ LED WASH.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GLW190Z",
+    "kind": "wash",
+    "light": "19 x 15W RGBW LED",
+    "beamDeg": [
+      8,
+      72
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      17,
+      35,
+      93
+    ],
+    "features": [
+      "zoom",
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      370,
+      246,
+      470
+    ],
+    "weightKg": 13,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/59",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: GLW190Z LED WASH.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GLW1925",
+    "kind": "wash",
+    "light": "19x 25W 7-in-1 color LED",
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      31,
+      22,
+      40
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      670,
+      540,
+      425
+    ],
+    "weightKg": 21,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/61",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: GLW1925 WASH.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "OK108ZOOM",
+    "kind": "wash",
+    "light": "108 x 3W high power LED",
+    "beamDeg": [
+      5,
+      42
+    ],
+    "pan": 540,
+    "tilt": 265,
+    "channels": [
+      14
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      480,
+      350,
+      440
+    ],
+    "weightKg": 9,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/62",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: OK108ZOOM WASH. LED-Wash 108 x 3 W RGBW mit Zoom. Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "LSP230PRO",
+    "kind": "spot",
+    "light": "230W White LED",
+    "beamDeg": [
+      16,
+      34
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      22,
+      20,
+      30
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      376,
+      331,
+      600
+    ],
+    "weightKg": 20.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/63",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: LSP230PRO LED SPOT.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "F90（CW/WW）",
+    "kind": "fresnel",
+    "light": "150W White LED Engine",
+    "beamDeg": [
+      15,
+      57
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2,
+      3,
+      6
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      690,
+      420,
+      430
+    ],
+    "weightKg": 12.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/64",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: LED FRESNEL F90（CW/WW）.  Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "T180C",
+    "kind": "ellipsoidal",
+    "light": "R/G/B/A/M,5-in-1 LED Engine,180W",
+    "beamDeg": [
+      26,
+      26
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5,
+      6,
+      8,
+      13,
+      19
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      201.7,
+      268.4,
+      617.2
+    ],
+    "weightKg": 7.2,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/65",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: T180C LED PROFILE. LED-Profilscheinwerfer RGB-Mehrfarben (C). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "F250",
+    "kind": "fresnel",
+    "light": "250W White LED Engine",
+    "beamDeg": [
+      19,
+      72
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2,
+      3,
+      7
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      368,
+      458,
+      610
+    ],
+    "weightKg": 10.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/66",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: F250 LED SPOTLIGHT.  Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "TP03（CW/WW）",
+    "kind": "panel",
+    "light": "180W White LED Engine",
+    "beamDeg": [
+      35,
+      37
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      635,
+      515,
+      320
+    ],
+    "weightKg": 9,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/67",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: LED PANEL TP03（CW/WW）. LED-Flächenleuchte 180 W weiß (CW/WW). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "TP02（CW/WW）",
+    "kind": "panel",
+    "light": "Remote Phosphor",
+    "beamDeg": [
+      55,
+      55
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      705,
+      555,
+      275
+    ],
+    "weightKg": 13,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/68",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: LED PANEL TP02（CW/WW）. LED-Panel mit Remote-Phosphor (CW/WW). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "C5",
+    "kind": "bar",
+    "light": "R/G/B/Y/W/DB/VG/HR,8-Color LED Engine",
+    "beamDeg": [
+      44,
+      44
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      12,
+      20,
+      28
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      506,
+      309,
+      353
+    ],
+    "weightKg": 11,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/69",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: PIXI BAR C5. LED-Bar 8-Farben-Engine (RGBYW+DB/VG/HR), 5 Zellen. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "TP01（CW/WW）",
+    "kind": "panel",
+    "light": "180W White LED Engine",
+    "beamDeg": [
+      43,
+      43
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      3
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      670,
+      448.5,
+      112
+    ],
+    "weightKg": 11.2,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/70",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: TP01（CW/WW）LED PANEL.  Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "T250",
+    "kind": "ellipsoidal",
+    "light": "250W White LED Engine",
+    "beamDeg": [
+      17,
+      27
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2,
+      3,
+      7
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      368,
+      458,
+      764
+    ],
+    "weightKg": 14,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/71",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: T250 LED PROFILE. LED-Profilscheinwerfer (Zoom 17-27°). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "T90（CW/WW）",
+    "kind": "ellipsoidal",
+    "light": "130W White LED Engine",
+    "beamDeg": [
+      26,
+      26
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      4
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      575,
+      395,
+      355
+    ],
+    "weightKg": 9,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/72",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: LED PROFILE T90（CW/WW）. LED-Profilscheinwerfer 130 W weiß (CW/WW). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "OVAL48D",
+    "kind": "par",
+    "light": "48x3W LEDs: RGBW each 12pcs",
+    "beamDeg": [
+      9,
+      9
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      5,
+      7,
+      9
+    ],
+    "features": [
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      350,
+      320,
+      290
+    ],
+    "weightKg": 7,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/73",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: OVAL48D.  Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "LPAR1Q",
+    "kind": "par",
+    "light": "1x 15W RGBW LED",
+    "beamDeg": [
+      7,
+      7
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4
+    ],
+    "features": [
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      81,
+      96,
+      135
+    ],
+    "weightKg": 0.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/74",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: LPAR1Q LED PAR. Mini-IP-Par 1 x Quad-LED. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "LPAR7QZ",
+    "kind": "par",
+    "light": "7x40W RGBW LED",
+    "beamDeg": [
+      12,
+      59
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5,
+      8,
+      16,
+      21
+    ],
+    "features": [
+      "zoom",
+      "pixel",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      279,
+      242,
+      324
+    ],
+    "weightKg": 7,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/75",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: LPAR7QZ LED PAR.  Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "BPAR5QB-R",
+    "kind": "par",
+    "light": "5 x 15W RGBW LED",
+    "beamDeg": [
+      18,
+      18
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      5,
+      11,
+      12
+    ],
+    "features": [
+      "zoom",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      290,
+      251,
+      288
+    ],
+    "weightKg": 6.8,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/76",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: BPAR5QB-R LED PAR.  Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "PB4D-RGBW",
+    "kind": "bar",
+    "light": "4 x 10W high power LEDs",
+    "beamDeg": [
+      10,
+      10
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      5,
+      8,
+      10,
+      16
+    ],
+    "features": [
+      "pixel",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      510,
+      240,
+      245
+    ],
+    "weightKg": 5.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/77",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: LED STRIP PB4D-RGBW.  Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "PB8D-RGBW",
+    "kind": "bar",
+    "light": "8 x 10W high power LEDs",
+    "beamDeg": [
+      10,
+      10
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      5,
+      8,
+      10,
+      16,
+      32
+    ],
+    "features": [
+      "pixel",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1120,
+      230,
+      225
+    ],
+    "weightKg": 9.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/78",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: LED STRIP PB8D-RGBW.  Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "A51C",
+    "kind": "par",
+    "light": "15 x 15W High-Power LEDs: RGBW 4 in 1 LED make extremely even and smooth color mixing effect.",
+    "beamDeg": [
+      11,
+      11
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      13,
+      25,
+      34
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      430,
+      430,
+      335
+    ],
+    "weightKg": 8,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/79",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: A51C LED PAR.  Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "A51-E",
+    "kind": "par",
+    "light": "12 x15W highpower LEDs: 4 in 1 LED make extremely even and smooth color mixing effect",
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      29,
+      16,
+      38
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      440,
+      440,
+      355
+    ],
+    "weightKg": 8,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/80",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: LED PAR HEAD A51-E.  Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "PB75",
+    "kind": "bar",
+    "light": "75 x 1W LED: RGBWA five colors",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5,
+      6,
+      8,
+      25,
+      28
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1080,
+      155,
+      240
+    ],
+    "weightKg": 6,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/82",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: PB75. LED-Leiste 75 x 1 W RGBWA. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "LB70V",
+    "kind": "bar",
+    "light": "70 x 3W LEDs: RGBWA each 14pcs",
+    "beamDeg": [
+      16,
+      16
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      5,
+      8,
+      11,
+      35
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      640,
+      240,
+      300
+    ],
+    "weightKg": 7,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/83",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: LB70V. LED-Leiste 70 x 3 W RGBWA. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "PAINTER150",
+    "kind": "flood",
+    "light": "123W",
+    "beamDeg": [
+      25,
+      25
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      250,
+      230,
+      520
+    ],
+    "weightKg": 7,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/84",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: PAINTER150. Statischer LED-Scheinwerfer 123 W 3000 K, 25°. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "LB12T",
+    "kind": "bar",
+    "light": "12 x 3W LEDs: Triple color LED",
+    "beamDeg": [
+      42,
+      42
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3,
+      4,
+      6,
+      12,
+      15
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      470,
+      270,
+      180
+    ],
+    "weightKg": 3.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/85",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: LB12T. LED-Leiste 12 x 3 W Tricolor. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "LPAR21T",
+    "kind": "par",
+    "light": "21x3W LEDs: Triple color LED",
+    "beamDeg": [
+      23,
+      23
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      7
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      400,
+      300,
+      480
+    ],
+    "weightKg": 7,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/86",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: LPAR21T. Par 21 x 3 W Tricolor. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "OVAL36FC II",
+    "kind": "par",
+    "light": "36 x 3W LEDs: 12 x red, 9 x green, 9 x blue, 6 x white",
+    "beamDeg": [
+      13,
+      13
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      5,
+      7,
+      9
+    ],
+    "features": [
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      310,
+      260,
+      350
+    ],
+    "weightKg": 6,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/87",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: OVAL36FC II.  Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "LSC36II",
+    "kind": "effect",
+    "light": "single white 20W LED, CT:6500 K, Life: 50,000H",
+    "beamDeg": [
+      11,
+      11
+    ],
+    "pan": 170,
+    "tilt": 85,
+    "channels": [
+      9
+    ],
+    "features": [
+      "colorwheel",
+      "gobo"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      670,
+      370,
+      340
+    ],
+    "weightKg": 7.6,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/88",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: LSC36II. Mini-Moving-Head/Scanner-artig 20 W weiß, Pan 170°, Tilt 85°, Farb- und Goborad. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "LPAR36X3",
+    "kind": "par",
+    "light": "36x3W LEDs:10 x red, 10 x green, 16 x blue",
+    "beamDeg": [
+      15,
+      15
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3,
+      4,
+      6
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      330,
+      340,
+      510
+    ],
+    "weightKg": 7,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/89",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: LPAR36x3. Par 36 x 3 W RGB. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "LBM51",
+    "kind": "beam",
+    "light": "single white 50W LED, CT:6500 K, Life: 50,000H",
+    "beamDeg": [
+      5,
+      5
+    ],
+    "pan": 540,
+    "tilt": 265,
+    "channels": [
+      9,
+      11
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      585,
+      415,
+      305
+    ],
+    "weightKg": 11.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/90",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: LBM51. Kleiner LED-Beam-Moving-Head 50 W weiß. Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "LSP150PRO",
+    "kind": "spot",
+    "light": "single 150W white LED, CT:6500 K, Life: 50,000H",
+    "beamDeg": [
+      10,
+      30
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      15,
+      17,
+      22
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      650,
+      485,
+      465
+    ],
+    "weightKg": 16.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/91",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: LSP150PRO. LED-Spot-Moving-Head 150 W weiß mit Zoom. Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "OK7QZ",
+    "kind": "wash",
+    "light": "7 x 15W high power LEDs",
+    "beamDeg": [
+      9,
+      52
+    ],
+    "pan": 540,
+    "tilt": 265,
+    "channels": [
+      19,
+      16,
+      23
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      435,
+      330,
+      260
+    ],
+    "weightKg": 5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/92",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: OK7QZ. LED-Wash 7 x 15 W RGBW mit Zoom. Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "OK7Q",
+    "kind": "wash",
+    "light": "7 x 15W high power LEDs",
+    "beamDeg": [
+      8,
+      8
+    ],
+    "pan": 540,
+    "tilt": 265,
+    "channels": [
+      17,
+      15,
+      21
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      435,
+      330,
+      260
+    ],
+    "weightKg": 5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/93",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: OK7Q. LED-Wash 7 x 15 W RGBW. Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "OK12Q",
+    "kind": "wash",
+    "light": "12 x 15W high power LEDs",
+    "beamDeg": [
+      8,
+      8
+    ],
+    "pan": 540,
+    "tilt": 265,
+    "channels": [
+      17,
+      15,
+      21
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      480,
+      420,
+      365
+    ],
+    "weightKg": 10,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/94",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: OK12Q. LED-Wash 12 x 15 W RGBW. Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "OK12QZ",
+    "kind": "wash",
+    "light": "12 x 15W high power LEDs",
+    "beamDeg": [
+      11,
+      68
+    ],
+    "pan": 540,
+    "tilt": 265,
+    "channels": [
+      19,
+      16,
+      23
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      480,
+      420,
+      365
+    ],
+    "weightKg": 10,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/95",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: OK12QZ. LED-Wash 12 x 15 W RGBW mit Zoom. Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "LSP150S",
+    "kind": "spot",
+    "light": "single 150W white high power LED",
+    "beamDeg": [
+      16,
+      16
+    ],
+    "pan": 540,
+    "tilt": 265,
+    "channels": [
+      16,
+      14,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      650,
+      485,
+      465
+    ],
+    "weightKg": 16.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/96",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: LSP150S SPOT.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "LSP40",
+    "kind": "spot",
+    "light": "single 150W white high power LED",
+    "beamDeg": [
+      16,
+      16
+    ],
+    "pan": 540,
+    "tilt": 265,
+    "channels": [
+      16,
+      14,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      650,
+      485,
+      465
+    ],
+    "weightKg": 16.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/97",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: LSP40 SPOT.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "LSP60",
+    "kind": "spot",
+    "light": "single 60W white LED",
+    "beamDeg": [
+      18,
+      18
+    ],
+    "pan": 540,
+    "tilt": 265,
+    "channels": [
+      14,
+      12
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      470,
+      330,
+      390
+    ],
+    "weightKg": 10.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/98",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: LSP60 SPOT.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "LSP180S",
+    "kind": "spot",
+    "light": "single 180W white high power LED",
+    "beamDeg": [
+      18,
+      18
+    ],
+    "pan": 540,
+    "tilt": 265,
+    "channels": [
+      17,
+      15,
+      21
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      735,
+      490,
+      460
+    ],
+    "weightKg": 25.8,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/99",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: LSP180S SPOT.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "OVAL7D-E",
+    "kind": "par",
+    "light": "7 x 10W RGBW high power LEDs",
+    "beamDeg": [
+      10,
+      10
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      5,
+      6,
+      8
+    ],
+    "features": [
+      "pixel",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      385,
+      345,
+      325
+    ],
+    "weightKg": 5.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/100",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: OVAL7D-E LED PAR.  Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "OVAL9D-E",
+    "kind": "par",
+    "light": "9 x 10W RGBW high power LEDs",
+    "beamDeg": [
+      10,
+      10
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      5,
+      6,
+      8
+    ],
+    "features": [
+      "pixel",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      375,
+      335,
+      300
+    ],
+    "weightKg": 7.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/101",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: OVAL9D-E LED PAR.  Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "LSP300S",
+    "kind": "spot",
+    "light": "300W White LED",
+    "beamDeg": [
+      13,
+      40
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      24,
+      22,
+      33
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      845,
+      550,
+      555
+    ],
+    "weightKg": 29.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/102",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: LSP300S SPOT.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "OK108A-R",
+    "kind": "wash",
+    "light": "108 x 3W high power LED",
+    "beamDeg": [
+      10,
+      10
+    ],
+    "pan": 540,
+    "tilt": 265,
+    "channels": [
+      11,
+      13
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      480,
+      350,
+      440
+    ],
+    "weightKg": 9,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/103",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: OK108A-R. LED-Wash 108 x 3 W RGBW. Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "OK60A-R",
+    "kind": "wash",
+    "light": "60 x 3W high power LEDs",
+    "beamDeg": [
+      9,
+      9
+    ],
+    "pan": 540,
+    "tilt": 265,
+    "channels": [
+      11,
+      13
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      430,
+      330,
+      500
+    ],
+    "weightKg": 7.6,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/104",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: OK60A-R. LED-Wash 60 x 3 W RGBW. Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "V4000WP",
+    "kind": "wash",
+    "light": "OSRAM Lok-it! 1400W/PS",
+    "beamDeg": [
+      11,
+      60
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      33,
+      31,
+      55
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      467,
+      368,
+      792
+    ],
+    "weightKg": 43,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/129",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: V4000WP WASH (WITH FRAMING).  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "V4000P",
+    "kind": "profile",
+    "light": "OSRAM Lok-it! 1400W/PS",
+    "beamDeg": [
+      6.5,
+      55
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      40,
+      38,
+      62
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      467,
+      368,
+      821
+    ],
+    "weightKg": 43,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/130",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: V4000P PROFILE.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GL10WP (GL10WPH)",
+    "kind": "profile",
+    "light": "1000W White LED",
+    "beamDeg": [
+      5,
+      47.5
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      39,
+      37,
+      62
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      466,
+      368,
+      850
+    ],
+    "weightKg": 49.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/132",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: GL10WP (GL10WPH) LED WASH PROFILE.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "T90H(CW/WW)",
+    "kind": "ellipsoidal",
+    "light": "160W LED",
+    "beamDeg": [
+      26,
+      26
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2,
+      5,
+      7
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      300,
+      439,
+      698
+    ],
+    "weightKg": 7,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/136",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: T90H(CW/WW) LED PROFILE.  Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GL3WP",
+    "kind": "wash",
+    "light": "380W White LED",
+    "beamDeg": [
+      17,
+      63
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      26,
+      28,
+      41
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "frost",
+      "zoom",
+      "focus",
+      "blades",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      414,
+      326,
+      636
+    ],
+    "weightKg": 25,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/138",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: GL3WP WASH WITH FRAMING.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "T200C IP",
+    "kind": "ellipsoidal",
+    "light": "Atria R/G/B/M/A LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      12,
+      13,
+      18
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      299,
+      459,
+      913
+    ],
+    "weightKg": 8,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/140",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: T200C IP LED PROFILE.  IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "LH270",
+    "kind": "hybrid",
+    "light": "270W White LED+15WLaser",
+    "beamDeg": [
+      1,
+      8
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      39,
+      37,
+      60
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      420,
+      284,
+      745
+    ],
+    "weightKg": 30,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/141",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: LH270 LED LASER. Spot/Beam-Moving-Head mit 270 W weißer LED plus 15 W Laser. Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "F90H(CW/WW)",
+    "kind": "fresnel",
+    "light": "160W LED",
+    "beamDeg": [
+      12.5,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2,
+      3,
+      6
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      344,
+      519,
+      614
+    ],
+    "weightKg": 13,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/142",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: F90H(CW/WW) LED SPOTLIGHT.  Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "G25 HYBRID",
+    "kind": "hybrid",
+    "light": "Philips Platinum 25R, 550W",
+    "beamDeg": [
+      2,
+      19.5
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      30,
+      28,
+      42
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:14",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      389,
+      302,
+      635
+    ],
+    "weightKg": 26.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/144",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: G25 HYBRID.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "G7B NOVA",
+    "kind": "beam",
+    "light": "Philips MSD Platinum Flex 300, 380W",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      19,
+      17,
+      27
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:15",
+      "prism",
+      "frost",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      386,
+      302,
+      604
+    ],
+    "weightKg": 21,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/145",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: G7B NOVA BEAM.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "G7H NOVA",
+    "kind": "hybrid",
+    "light": "Philips MSD Platinum Flex 300, 380W",
+    "beamDeg": [
+      2,
+      29
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      25,
+      23,
+      36
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:14",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      389,
+      302,
+      635
+    ],
+    "weightKg": 24.3,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/146",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: G7H NOVA HYBRID.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "G7B NOVA IP",
+    "kind": "beam",
+    "light": "Philips MSD Platinum Flex 300S, 380W",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      19,
+      17,
+      27
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:15",
+      "prism",
+      "frost",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      444,
+      332,
+      742
+    ],
+    "weightKg": 37.98,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/148",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: G7B NOVA IP BEAM.  Pan 540° (630° optional). IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "G22H NOVA IP",
+    "kind": "hybrid",
+    "light": "Philips MSD Platinum Flex 400, 480W",
+    "beamDeg": [
+      2.5,
+      29
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      26,
+      24,
+      37
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:14",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      465,
+      332,
+      803.5
+    ],
+    "weightKg": 42.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/150",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: G22H NOVA IP HYBRID.  Pan 540° (630° optional). IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "G22H NOVA",
+    "kind": "hybrid",
+    "light": "Philips MSD Platinum Flex 400, 480W",
+    "beamDeg": [
+      2.2,
+      20
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      30,
+      28,
+      42
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:14",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      389,
+      302,
+      635
+    ],
+    "weightKg": 26.5,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/151",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: G22H NOVA HYBRID.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GLX IP (GLXH IP)",
+    "kind": "profile",
+    "light": "1050W White LED",
+    "beamDeg": [
+      5.5,
+      52.5
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      39,
+      37,
+      60
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:7",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      458,
+      332,
+      825
+    ],
+    "weightKg": 53,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/153",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: GLX IP (GLXH IP) LED PROFILE.  Pan 540° (630° optional). IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GLX (GLXH)",
+    "kind": "profile",
+    "light": "1050W White LED",
+    "beamDeg": [
+      7,
+      55
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      39,
+      37,
+      60
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:7",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      471,
+      345,
+      807
+    ],
+    "weightKg": 45,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/154",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: GLX (GLXH) LED PROFILE.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GL8P IP (GL8PH IP)",
+    "kind": "profile",
+    "light": "750W White LED",
+    "beamDeg": [
+      6.5,
+      54
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      39,
+      37,
+      60
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:7",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      455.9,
+      331.6,
+      825.3
+    ],
+    "weightKg": 47.9,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/155",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: GL8P IP (GL8PH IP) LED PROFILE.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GL8P (GL8PH)",
+    "kind": "profile",
+    "light": "750W White LED",
+    "beamDeg": [
+      7,
+      54
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      39,
+      37,
+      60
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:7",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      452.7,
+      311.4,
+      788.4
+    ],
+    "weightKg": 38,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/156",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: GL8P (GL8PH) LED PROFILE.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GLW760 IP",
+    "kind": "wash",
+    "light": "7x 60W RGBW LED",
+    "beamDeg": [
+      7.5,
+      75
+    ],
+    "pan": "infinite",
+    "tilt": "infinite",
+    "channels": [
+      26,
+      20,
+      48
+    ],
+    "features": [
+      "zoom",
+      "pixel",
+      "IP65",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      363,
+      260,
+      493
+    ],
+    "weightKg": 19,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/159",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: GLW760 IP LED WASH. IP65 LED-Wash 7 x 60 W RGBW mit Endlos-Pan/Tilt, Pixel. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "G25B IP",
+    "kind": "beam",
+    "light": "Philips MSD Platinum 25R, 550W",
+    "beamDeg": [
+      1.8,
+      1.8
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      26,
+      22,
+      33
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:18",
+      "prism",
+      "frost",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      465.1,
+      331.6,
+      782.7
+    ],
+    "weightKg": 44.3,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/160",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: G25B IP BEAM.  Pan 540° (630° optional). IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GLW3740",
+    "kind": "wash",
+    "light": "37x40W RGBW LED",
+    "beamDeg": [
+      7,
+      55
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      25,
+      19,
+      167
+    ],
+    "features": [
+      "zoom",
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      512,
+      279,
+      614
+    ],
+    "weightKg": 24,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/162",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: GLW3740 LED WASH.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GLW1940",
+    "kind": "wash",
+    "light": "19x40W RGBW LED",
+    "beamDeg": [
+      6.5,
+      55
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      25,
+      19,
+      95
+    ],
+    "features": [
+      "zoom",
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      393,
+      311,
+      500
+    ],
+    "weightKg": 16,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/163",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: GLW1940 LED WASH.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "LPAR7 IP",
+    "kind": "par",
+    "light": "7x40W RGBW LED",
+    "beamDeg": [
+      4,
+      46
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5,
+      9
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      235,
+      379,
+      343
+    ],
+    "weightKg": 8,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/165",
+    "manualUrl": null,
+    "status": "eingestellt",
+    "inLibrary": null,
+    "notes": "Produkttitel: LPAR7 IP LED PAR.  IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "S380B IP",
+    "kind": "beam",
+    "light": "Philips MSD Platinum Flex 300, 380W",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      19,
+      17,
+      27
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:15",
+      "prism",
+      "frost",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      468,
+      370,
+      718
+    ],
+    "weightKg": 37,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/170",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: S380B IP  BEAM.  Pan 540° (630° optional). IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "S380B",
+    "kind": "beam",
+    "light": "Philips MSD Platinum Flex 300, 380W",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      19,
+      17,
+      27
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:15",
+      "prism",
+      "frost",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      389,
+      326,
+      642
+    ],
+    "weightKg": 20,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/171",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: S380B BEAM.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "S380H",
+    "kind": "hybrid",
+    "light": "Philips MSD Platinum Flex 300, 380W",
+    "beamDeg": [
+      2.2,
+      28
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      25,
+      23,
+      36
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:14",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      389,
+      326,
+      642
+    ],
+    "weightKg": 23,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/173",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: S380H HYBRID.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "S380H IP",
+    "kind": "hybrid",
+    "light": "Philips MSD Platinum Flex 300, 380W",
+    "beamDeg": [
+      2.2,
+      28
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      25,
+      23,
+      36
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:14",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      468,
+      370,
+      718
+    ],
+    "weightKg": 41,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/174",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: S380H IP HYBRID.  Pan 540° (630° optional). IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "S550B IP",
+    "kind": "beam",
+    "light": "Philips Platinum 25R,550W",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      24,
+      22,
+      34
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:18",
+      "prism",
+      "frost",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      468,
+      370,
+      756
+    ],
+    "weightKg": 44,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/175",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: S550B IP BEAM.  Pan 540° (630° optional). IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "S550H",
+    "kind": "hybrid",
+    "light": "Philips Platinum 25R, 550W",
+    "beamDeg": [
+      2,
+      29
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      29,
+      27,
+      41
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:14",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      455,
+      326,
+      693
+    ],
+    "weightKg": 28,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/176",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: S550H HYBRID.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "S550H IP",
+    "kind": "hybrid",
+    "light": "Philips Platinum 25R, 550W",
+    "beamDeg": [
+      2.2,
+      27
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      27,
+      25,
+      39
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:14",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      468,
+      370,
+      774
+    ],
+    "weightKg": 43,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/177",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: S550H IP HYBRID.  Pan 540° (630° optional). IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "SL1000P IP",
+    "kind": "profile",
+    "light": "1000W White LED",
+    "beamDeg": [
+      6.5,
+      55
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      39,
+      37,
+      60
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:7",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      457,
+      332,
+      825
+    ],
+    "weightKg": 52,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/178",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: SL1000P IP LED PROFILE.  Pan 540° (630° optional). IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "SL1000PH",
+    "kind": "profile",
+    "light": "1000W White LED",
+    "beamDeg": [
+      7,
+      55
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      39,
+      37,
+      60
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      479,
+      326,
+      834
+    ],
+    "weightKg": 41,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/179",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: SL1000PH LED PROFILE.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "SL400S",
+    "kind": "spot",
+    "light": "400W White LED",
+    "beamDeg": [
+      6,
+      45
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      28,
+      26,
+      40
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:9",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      386,
+      326,
+      656
+    ],
+    "weightKg": 24,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/181",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: SL400S LED SPOT.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "SL1200WP",
+    "kind": "wash",
+    "light": "1200W White LED",
+    "beamDeg": [
+      6.5,
+      67
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      39,
+      59
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      481.1,
+      326.1,
+      842
+    ],
+    "weightKg": 39,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/185",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: SL1200WP WASH (WITH FRAMING).  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "SL1200P (SL1200PH)",
+    "kind": "profile",
+    "light": "1200W White LED",
+    "beamDeg": [
+      6.5,
+      60
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      39,
+      37,
+      60
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      481.1,
+      326.1,
+      854.1
+    ],
+    "weightKg": 42,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/186",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: SL1200P (SL1200PH) LED PROFILE.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GLW760",
+    "kind": "wash",
+    "light": "7x 60W RGBW LED",
+    "beamDeg": [
+      11,
+      75
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      24,
+      18,
+      46
+    ],
+    "features": [
+      "zoom",
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      350,
+      225,
+      448
+    ],
+    "weightKg": 11,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/190",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: GLW760 LED WASH.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "SL5000P IP",
+    "kind": "profile",
+    "light": "1400W White LED",
+    "beamDeg": [
+      5.5,
+      50
+    ],
+    "pan": 540,
+    "tilt": 250,
+    "channels": [
+      40,
+      62
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      457,
+      332,
+      825
+    ],
+    "weightKg": 53,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/198",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: SL5000P IP LED SPOT(WITH FRAMING).  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "SL5000P",
+    "kind": "profile",
+    "light": "1400W White LED",
+    "beamDeg": [
+      5.5,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      40,
+      62
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      466,
+      321,
+      819
+    ],
+    "weightKg": 42,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/201",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: SL5000P LED PROFILE.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GLW1920Z",
+    "kind": "wash",
+    "light": "19 x 20W RGBW LED",
+    "beamDeg": [
+      8,
+      72
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      17,
+      35,
+      93
+    ],
+    "features": [
+      "zoom",
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      370,
+      246,
+      502
+    ],
+    "weightKg": 13,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/202",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: GLW1920Z LED WASH.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GLW3720Z",
+    "kind": "wash",
+    "light": "37 x 20W RGBW LED",
+    "beamDeg": [
+      8,
+      70
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      39,
+      17,
+      165
+    ],
+    "features": [
+      "zoom",
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      499,
+      331,
+      603
+    ],
+    "weightKg": 25,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/203",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: GLW3720Z LED WASH.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "SL5000WPH",
+    "kind": "profile",
+    "light": "1400W White LED",
+    "beamDeg": [
+      6.5,
+      42
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      36,
+      62
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      467,
+      321,
+      826
+    ],
+    "weightKg": 42,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/205",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: SL5000WPH LED PROFILE.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GL12W IP",
+    "kind": "wash",
+    "light": "1200W White LED",
+    "beamDeg": [
+      4.5,
+      40
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      34,
+      56,
+      25,
+      36
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:6",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      458,
+      344,
+      869
+    ],
+    "weightKg": 47.6,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/208",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: GL12W IP LED WASH (WITH FRAMING).  Pan 540° (630° optional). IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "SL5000WP IP",
+    "kind": "profile",
+    "light": "1400W White LED",
+    "beamDeg": [
+      4.5,
+      41
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      36,
+      56
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      457,
+      332,
+      869
+    ],
+    "weightKg": 47,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/209",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: SL5000WP IP LED PROFILE.  Pan 540° (630° optional). IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "T400C",
+    "kind": "ellipsoidal",
+    "light": "500W RGBAL LED Engine",
+    "beamDeg": [
+      15,
+      36
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      10,
+      16
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      328,
+      439,
+      736
+    ],
+    "weightKg": 9,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/210",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: T400C LED PROFILE.  Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "T90H IP(CW/WW)",
+    "kind": "ellipsoidal",
+    "light": "160W LED",
+    "beamDeg": [
+      26,
+      26
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3,
+      6,
+      8
+    ],
+    "features": [
+      "gobo",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      300,
+      439,
+      698
+    ],
+    "weightKg": 8,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/212",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: T90H IP(CW/WW) LED PROFILE.  IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "SL750P",
+    "kind": "profile",
+    "light": "600W white LED",
+    "beamDeg": [
+      3.5,
+      53
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      40,
+      62
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:9",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      395,
+      270,
+      681
+    ],
+    "weightKg": 26,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/218",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: SL750P LED PROFILE.  Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "MAX 02",
+    "kind": "effect",
+    "light": "290W White LED",
+    "beamDeg": [
+      10,
+      40
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      10,
+      15
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:7",
+      "zoom",
+      "focus",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      241,
+      376,
+      437
+    ],
+    "weightKg": 11,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/219",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: MAX 02 Image Projector. Statischer Bildprojektor 290 W weiß mit Gobo/Farbe/Animation, Zoom 10-40°. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GLW740",
+    "kind": "wash",
+    "light": "7x40W RGBL(L for lime) LED, optional RGBW",
+    "beamDeg": [
+      3.5,
+      38
+    ],
+    "pan": 540,
+    "tilt": 250,
+    "channels": [
+      24,
+      12,
+      51
+    ],
+    "features": [
+      "zoom",
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      282,
+      200,
+      345
+    ],
+    "weightKg": 6,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/221",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: GLW740 LED WASH.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GLB12 IP",
+    "kind": "tiltbar",
+    "light": "12X60W RGBW LED，256X1W strobe LED",
+    "beamDeg": [
+      4.5,
+      53
+    ],
+    "pan": null,
+    "tilt": 200,
+    "channels": [
+      29,
+      188
+    ],
+    "features": [
+      "zoom",
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1004,
+      217,
+      336
+    ],
+    "weightKg": 33,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/224",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: GLB12 IP LED LINEAR HYBRID. IP-Tilt-Bar 1 m: 12 x 60 W RGBW mit Zoom plus 256 x 1 W Strobe-LEDs, Tilt 200°. IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GLB6 IP",
+    "kind": "tiltbar",
+    "light": "6X60W RGBW LED，128X1W strobe LED",
+    "beamDeg": [
+      10,
+      72
+    ],
+    "pan": null,
+    "tilt": 192,
+    "channels": [
+      27,
+      103
+    ],
+    "features": [
+      "zoom",
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      504,
+      194,
+      336
+    ],
+    "weightKg": 18,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/225",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: GLB6 IP LED LINEAR HYBRID. IP-Tilt-Bar 0,5 m: 6 x 60 W RGBW mit Zoom plus 128 x 1 W Strobe-LEDs, Tilt 192°. IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GLW1960 IP",
+    "kind": "wash",
+    "light": "19x60W RGBW LED",
+    "beamDeg": [
+      7,
+      73
+    ],
+    "pan": "infinite",
+    "tilt": "infinite",
+    "channels": [
+      29,
+      176
+    ],
+    "features": [
+      "zoom",
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      479,
+      370,
+      579
+    ],
+    "weightKg": 33,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/226",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: GLW1960 IP LED WASH. IP LED-Wash 19 x 60 W RGBW, Endlos-Pan/Tilt. IP-Ausführung. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GS-Z19",
+    "kind": "par",
+    "light": "19x20W RGBW LED (optional RGBL/TW)",
+    "beamDeg": [
+      3.5,
+      28
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      16,
+      24,
+      104
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      290,
+      346,
+      397
+    ],
+    "weightKg": 9,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/235",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: GS-Z19 LED PAR.  Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "SL15P IP",
+    "kind": "profile",
+    "light": "1500W White LED",
+    "beamDeg": [
+      5.5,
+      50
+    ],
+    "pan": 540,
+    "tilt": 250,
+    "channels": [
+      40,
+      62
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      457,
+      332,
+      825
+    ],
+    "weightKg": 53,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/258",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: SL15P IP LED PROFILE.  Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "GS-PAR19",
+    "kind": "par",
+    "light": "19x20W RGBW LED（(optional RGBL/RGBALC/TW)",
+    "beamDeg": [
+      10,
+      10
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      9,
+      11,
+      18
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      293,
+      145,
+      310
+    ],
+    "weightKg": 6,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/266",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: GS-PAR19 LED PAR. LED-Par. Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  },
+  {
+    "manufacturer": "Golden Sea",
+    "model": "SL15P",
+    "kind": "profile",
+    "light": "1500W White LED",
+    "beamDeg": [
+      5.5,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      40,
+      62
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      466,
+      321,
+      819
+    ],
+    "weightKg": 42,
+    "url": "https://en.terbly.com/index.php/Product/detail/goods_id/291",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: SL15P LED PROFILE.  Pan 540° (630° optional). Hersteller Guangzhou Haoyang Electronic (Golden Sea / Marke TERBLY)."
+  }
+]

@@ -1,0 +1,121 @@
+[
+ {
+  "man": "ADB",
+  "key": "actoris-fresnel",
+  "model": "Actoris Fresnel",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   16,
+   80
+  ],
+  "ch": [
+   1,
+   9,
+   17,
+   33
+  ],
+  "feat": [
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   339,
+   515,
+   339
+  ],
+  "url": "https://www.claypaky.it/products/actoris-fresnel/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADB",
+  "key": "actoris-parled",
+  "model": "Actoris ParLED",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   53
+  ],
+  "ch": [
+   16,
+   17
+  ],
+  "feat": [
+   "cto",
+   "frost",
+   "zoom"
+  ],
+  "size": [
+   341,
+   325,
+   275
+  ],
+  "url": "https://www.claypaky.it/products/actoris-parled/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADB",
+  "key": "orkis-fresnel",
+  "model": "Orkis Fresnel",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "amber"
+  ],
+  "deg": [
+   15,
+   54
+  ],
+  "ch": [
+   15,
+   28
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "zoom"
+  ],
+  "url": "https://www.claypaky.it/products/orkis-fresnel/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADB",
+  "key": "orkis-cyc",
+  "model": "Orkis Cyc",
+  "kind": "flood",
+  "ch": [
+   14,
+   27
+  ],
+  "url": "https://www.claypaky.it/products/orkis-cyc/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADB",
+  "key": "klemantis-1000-hcr",
+  "model": "Klemantis 1000 HCR",
+  "kind": "flood",
+  "ch": [
+   14,
+   27,
+   29
+  ],
+  "feat": [
+   "cmy"
+  ],
+  "url": "https://www.claypaky.it/products/klemantis-1000/",
+  "note": "Steckbrief aus Herstellerangaben (claypaky.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

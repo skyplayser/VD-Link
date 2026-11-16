@@ -1,0 +1,1662 @@
+[
+ {
+  "man": "Briteq",
+  "key": "beamspot-4bar-nw",
+  "model": "BEAMSPOT-4BAR NW",
+  "kind": "bar",
+  "deg": [
+   4,
+   45
+  ],
+  "ch": [
+   1,
+   5
+  ],
+  "size": [
+   552,
+   85,
+   315
+  ],
+  "url": "https://briteq-lighting.com/beamspot-4bar-nw",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "beamspot-4bar-ww",
+  "model": "BEAMSPOT-4BAR WW",
+  "kind": "bar",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   4,
+   45
+  ],
+  "ch": [
+   1,
+   5
+  ],
+  "size": [
+   552,
+   85,
+   315
+  ],
+  "url": "https://briteq-lighting.com/beamspot-4bar-ww",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "beamspot1-dmx-ww",
+  "model": "BEAMSPOT1-DMX WW",
+  "kind": "par",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   4,
+   45
+  ],
+  "ch": [
+   1,
+   2
+  ],
+  "size": [
+   172,
+   196,
+   125
+  ],
+  "url": "https://briteq-lighting.com/beamspot1-dmx-ww",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bt-akkubar",
+  "model": "BT-AKKUBAR",
+  "kind": "bar",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   1
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   350,
+   195,
+   66
+  ],
+  "url": "https://briteq-lighting.com/bt-akkubar",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bt-akkulite-ip",
+  "model": "BT-AKKULITE IP",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbwa"
+  ],
+  "ch": [
+   4,
+   10
+  ],
+  "size": [
+   180,
+   150,
+   198
+  ],
+  "url": "https://briteq-lighting.com/bt-akkulite-ip",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bt-akkulite-ip-mini",
+  "model": "BT-AKKULITE IP MINI",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbwa"
+  ],
+  "deg": [
+   17,
+   25
+  ],
+  "ch": [
+   4,
+   10
+  ],
+  "size": [
+   167,
+   138,
+   150
+  ],
+  "url": "https://briteq-lighting.com/bt-akkulite-ip-mini",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bt-blinder2-ip",
+  "model": "BT-BLINDER2 IP",
+  "kind": "blinder",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   56,
+   56
+  ],
+  "ch": [
+   1,
+   12
+  ],
+  "size": [
+   400,
+   200,
+   230
+  ],
+  "url": "https://briteq-lighting.com/bt-blinder2-ip",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bt-chroma-800",
+  "model": "BT-CHROMA 800",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "ch": [
+   3,
+   81
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   450,
+   150,
+   310
+  ],
+  "url": "https://briteq-lighting.com/bt-chroma-800",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bt-coloray-18fcr-xlr-5pin",
+  "model": "BT-COLORAY 18FCR (XLR 5pin)",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   20,
+   20
+  ],
+  "ch": [
+   4,
+   7
+  ],
+  "url": "https://briteq-lighting.com/bt-coloray-18fcr-xlr-5pin",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bt-coloray-multi",
+  "model": "BT-COLORAY MULTI",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   13,
+   35
+  ],
+  "ch": [
+   4,
+   7
+  ],
+  "feat": [
+   "frost"
+  ],
+  "url": "https://briteq-lighting.com/bt-coloray-multi",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bt-laser2000-rgb",
+  "model": "BT-LASER2000 RGB",
+  "kind": "laser",
+  "deg": [
+   1,
+   36
+  ],
+  "ch": [
+   1,
+   17
+  ],
+  "size": [
+   260,
+   185,
+   155
+  ],
+  "url": "https://briteq-lighting.com/bt-laser2000-rgb",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bt-magicflash",
+  "model": "BT-MAGICFLASH",
+  "kind": "strobe",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   1,
+   13
+  ],
+  "url": "https://briteq-lighting.com/bt-magicflash",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bt-magicflash-rgb",
+  "model": "BT-MAGICFLASH RGB",
+  "kind": "strobe",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   1,
+   13
+  ],
+  "url": "https://briteq-lighting.com/bt-magicflash-rgb",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bt-nonabeam-bq1",
+  "model": "BT-NONABEAM - BQ1",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   4
+  ],
+  "ch": [
+   13,
+   45
+  ],
+  "size": [
+   580,
+   220,
+   140
+  ],
+  "url": "https://briteq-lighting.com/bt-nonabeam",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bt-nonamove",
+  "model": "BT-NONAMOVE",
+  "kind": "beam",
+  "ch": [
+   18,
+   50
+  ],
+  "url": "https://briteq-lighting.com/bt-nonamove",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bt-nonapixel-white",
+  "model": "BT-NONAPIXEL WHITE",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   4,
+   45
+  ],
+  "ch": [
+   5,
+   95
+  ],
+  "feat": [
+   "frost"
+  ],
+  "url": "https://briteq-lighting.com/bt-nonapixel-white",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bt-profile-500tw-led-engine",
+  "model": "BT-PROFILE 500TW/LED ENGINE",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "ch": [
+   1,
+   4
+  ],
+  "feat": [
+   "gobo:8",
+   "iris",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "size": [
+   310,
+   250,
+   350
+  ],
+  "url": "https://briteq-lighting.com/bt-profile-500tw-led-engine",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bt-profile-6c10",
+  "model": "BT-PROFILE 6C10",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "ch": [
+   1,
+   19
+  ],
+  "feat": [
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "size": [
+   568,
+   191,
+   224
+  ],
+  "url": "https://briteq-lighting.com/bt-profile-6c10",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bt-profile-6c20-engine",
+  "model": "BT-PROFILE 6C20 ENGINE",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "ch": [
+   4,
+   21
+  ],
+  "feat": [
+   "iris",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "size": [
+   301,
+   578,
+   226
+  ],
+  "url": "https://briteq-lighting.com/bt-profile-6c20-engine",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bt-profile-hd",
+  "model": "BT-PROFILE HD",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   25,
+   50
+  ],
+  "ch": [
+   3,
+   18
+  ],
+  "feat": [
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "size": [
+   224,
+   191,
+   568
+  ],
+  "url": "https://briteq-lighting.com/bt-profile-hd",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bt-profile-ww",
+  "model": "BT-PROFILE WW",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   25,
+   50
+  ],
+  "ch": [
+   1,
+   4
+  ],
+  "feat": [
+   "gobo:1",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "size": [
+   224,
+   191,
+   568
+  ],
+  "url": "https://briteq-lighting.com/bt-profile-ww",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bt-profile250-led-engine",
+  "model": "BT-PROFILE250/LED ENGINE",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "ch": [
+   1,
+   2
+  ],
+  "feat": [
+   "gobo:8",
+   "iris"
+  ],
+  "size": [
+   310,
+   250,
+   350
+  ],
+  "url": "https://briteq-lighting.com/bt-profile250-led-engine",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bt-shark",
+  "model": "BT-SHARK",
+  "kind": "spot",
+  "deg": [
+   10,
+   25
+  ],
+  "ch": [
+   5,
+   19
+  ],
+  "feat": [
+   "gobo:6",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://briteq-lighting.com/bt-shark",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bt-sunray-130r",
+  "model": "BT-SUNRAY 130R",
+  "kind": "effect",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   15,
+   35
+  ],
+  "ch": [
+   1,
+   8
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://briteq-lighting.com/bt-sunray-130r",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bt-theatre-100mz",
+  "model": "BT-THEATRE 100MZ",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   15,
+   45
+  ],
+  "ch": [
+   1,
+   4
+  ],
+  "feat": [
+   "zoom",
+   "focus"
+  ],
+  "url": "https://briteq-lighting.com/bt-theatre-100mz",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bt-theatre-150ez-mk3",
+  "model": "BT-THEATRE 150EZ Mk3",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "ch": [
+   1,
+   9
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://briteq-lighting.com/bt-theatre-150ez-mk3",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bt-theatre-400tw",
+  "model": "BT-THEATRE 400TW",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   11,
+   56
+  ],
+  "ch": [
+   1,
+   6
+  ],
+  "feat": [
+   "zoom",
+   "focus"
+  ],
+  "url": "https://briteq-lighting.com/bt-theatre-400tw",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bt-theatre-50ww-black",
+  "model": "BT-THEATRE 50WW (BLACK)",
+  "kind": "par",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   10,
+   50
+  ],
+  "ch": [
+   1,
+   3
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   241,
+   251,
+   195
+  ],
+  "url": "https://briteq-lighting.com/bt-theatre-50ww-black",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bt-theatre-50ww-white",
+  "model": "BT-THEATRE 50WW (WHITE)",
+  "kind": "par",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   10,
+   50
+  ],
+  "ch": [
+   1,
+   3
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   241,
+   251,
+   195
+  ],
+  "url": "https://briteq-lighting.com/bt-theatre-50ww-white",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bt-theatre-60fcl",
+  "model": "BT-THEATRE 60FCL",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   17,
+   40
+  ],
+  "ch": [
+   4,
+   7
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   241,
+   251,
+   195
+  ],
+  "url": "https://briteq-lighting.com/bt-theatre-60fcl",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bt-tvpanel-tw",
+  "model": "BT-TVPANEL TW",
+  "kind": "panel",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   115,
+   115
+  ],
+  "ch": [
+   7
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   562,
+   368,
+   195
+  ],
+  "url": "https://briteq-lighting.com/bt-tvpanel-tw",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bt-venuelite4",
+  "model": "BT-VENUELITE4",
+  "kind": "effect",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   24,
+   60
+  ],
+  "ch": [
+   1,
+   4
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   423,
+   112,
+   179
+  ],
+  "url": "https://briteq-lighting.com/bt-venuelite4",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bt-vertigo",
+  "model": "BT-VERTIGO",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   4,
+   45
+  ],
+  "ch": [
+   17,
+   23
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://briteq-lighting.com/bt-vertigo",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bti-akkubeamer",
+  "model": "BTI-AKKUBEAMER",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   12,
+   26.1
+  ],
+  "ch": [
+   3,
+   8
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   170,
+   234,
+   279
+  ],
+  "url": "https://briteq-lighting.com/bti-akkubeamer",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bti-akkuchroma",
+  "model": "BTI-AKKUCHROMA",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   12,
+   24
+  ],
+  "ch": [
+   3,
+   8
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   410,
+   184,
+   269
+  ],
+  "url": "https://briteq-lighting.com/bti-akkuchroma",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bti-beambar18",
+  "model": "BTI-BEAMBAR18",
+  "kind": "bar",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   6,
+   6
+  ],
+  "ch": [
+   11,
+   96
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   1000,
+   85,
+   210
+  ],
+  "url": "https://briteq-lighting.com/bti-beambar18",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bti-blinder1-fx",
+  "model": "BTI-BLINDER1 FX",
+  "kind": "blinder",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   1,
+   58
+  ],
+  "url": "https://briteq-lighting.com/bti-blinder1-fx",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bti-blizzard-bsw1",
+  "model": "BTI-BLIZZARD BSW1",
+  "kind": "spot",
+  "deg": [
+   2.3,
+   44.3
+  ],
+  "ch": [
+   21,
+   28
+  ],
+  "feat": [
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://briteq-lighting.com/bti-blizzard-bsw1",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bti-blizzard-bsw2",
+  "model": "BTI-BLIZZARD BSW2",
+  "kind": "spot",
+  "deg": [
+   3,
+   30
+  ],
+  "ch": [
+   22,
+   29
+  ],
+  "feat": [
+   "gobo:8",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://briteq-lighting.com/bti-blizzard-bsw2",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bti-blizzard-lbeam",
+  "model": "BTI-BLIZZARD LBEAM",
+  "kind": "beam",
+  "ch": [
+   19,
+   25
+  ],
+  "feat": [
+   "gobo:12",
+   "gobor",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://briteq-lighting.com/bti-blizzard-lbeam",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bti-blizzard-profile",
+  "model": "BTI-BLIZZARD PROFILE",
+  "kind": "profile",
+  "deg": [
+   7,
+   50
+  ],
+  "ch": [
+   35,
+   44
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://briteq-lighting.com/bti-blizzard-profile",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bti-blizzard-wash1",
+  "model": "BTI-BLIZZARD WASH1",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "ch": [
+   18,
+   27
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://briteq-lighting.com/bti-blizzard-wash1",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bti-blizzard-wash2s",
+  "model": "BTI-BLIZZARD WASH2s",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   3.8,
+   38
+  ],
+  "ch": [
+   26,
+   133
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://briteq-lighting.com/bti-blizzard-wash2s",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bti-cyclo",
+  "model": "BTI-CYCLO",
+  "kind": "bar",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   83,
+   83
+  ],
+  "ch": [
+   3,
+   20
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   530,
+   170,
+   110
+  ],
+  "url": "https://briteq-lighting.com/bti-cyclo",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bti-expobeam-ww",
+  "model": "BTI-EXPOBEAM WW",
+  "kind": "effect",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "ch": [
+   1,
+   4
+  ],
+  "url": "https://briteq-lighting.com/bti-expobeam-ww",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bti-flatpar12",
+  "model": "BTI-FLATPAR12",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "ch": [
+   3,
+   12
+  ],
+  "size": [
+   280,
+   305,
+   142
+  ],
+  "url": "https://briteq-lighting.com/bti-flatpar12",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bti-lightstrike-ip66",
+  "model": "BTI-LIGHTSTRIKE IP66",
+  "kind": "bar",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   116,
+   116
+  ],
+  "ch": [
+   6,
+   123
+  ],
+  "size": [
+   1000,
+   91,
+   125
+  ],
+  "url": "https://briteq-lighting.com/bti-lightstrike-ip66",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bti-raptor",
+  "model": "BTI-RAPTOR",
+  "kind": "strobe",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   10,
+   80
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   510,
+   320,
+   140
+  ],
+  "url": "https://briteq-lighting.com/bti-raptor",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bti-spectrablast",
+  "model": "BTI-SPECTRABLAST",
+  "kind": "blinder",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "ch": [
+   1,
+   12
+  ],
+  "size": [
+   293,
+   232,
+   162
+  ],
+  "url": "https://briteq-lighting.com/bti-spectrablast",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bti-theatre-6c20",
+  "model": "BTI-THEATRE 6C20",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "ch": [
+   10,
+   20
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   477,
+   330,
+   393
+  ],
+  "url": "https://briteq-lighting.com/bti-theatre-6c20",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "bti-versabeam",
+  "model": "BTI-VERSABEAM",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   12,
+   26
+  ],
+  "ch": [
+   3,
+   8
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   170,
+   234,
+   279
+  ],
+  "url": "https://briteq-lighting.com/bti-versabeam",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "btx-cirrus-3",
+  "model": "BTX-CIRRUS 3",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "ch": [
+   24,
+   100
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://briteq-lighting.com/btx-cirrus-3",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "btx-lightstrike",
+  "model": "BTX-LIGHTSTRIKE",
+  "kind": "bar",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   116,
+   116
+  ],
+  "ch": [
+   6,
+   123
+  ],
+  "size": [
+   1000,
+   84,
+   111
+  ],
+  "url": "https://briteq-lighting.com/btx-lightstrike",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "btx-skyran",
+  "model": "BTX-SKYRAN",
+  "kind": "blinder",
+  "leds": [
+   1,
+   "rgbwa"
+  ],
+  "ch": [
+   13
+  ],
+  "size": [
+   630,
+   546,
+   85
+  ],
+  "url": "https://briteq-lighting.com/btx-skyran",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 1952 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "btx-supreme",
+  "model": "BTX-SUPREME",
+  "kind": "spot",
+  "deg": [
+   1.8,
+   42
+  ],
+  "ch": [
+   24,
+   35
+  ],
+  "feat": [
+   "gobo:9",
+   "gobor",
+   "gobo2",
+   "prism",
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://briteq-lighting.com/btx-supreme",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "cob-par56-100ww-silver",
+  "model": "COB PAR56-100WW SILVER",
+  "kind": "cob",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   60,
+   60
+  ],
+  "ch": [
+   1,
+   2
+  ],
+  "url": "https://briteq-lighting.com/cob-par56-100ww-silver",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "expo-cannon",
+  "model": "EXPO CANNON",
+  "kind": "effect",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   20,
+   20
+  ],
+  "ch": [
+   1,
+   2
+  ],
+  "size": [
+   366,
+   348,
+   317
+  ],
+  "url": "https://briteq-lighting.com/expo-cannon",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "ldp-colorbar-12fc",
+  "model": "LDP-COLORBAR 12FC",
+  "kind": "bar",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   15,
+   15
+  ],
+  "ch": [
+   3,
+   10
+  ],
+  "url": "https://briteq-lighting.com/ldp-colorbar-12fc",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "ldp-colorbar-24fc",
+  "model": "LDP-COLORBAR 24FC",
+  "kind": "bar",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   15,
+   15
+  ],
+  "ch": [
+   3,
+   20
+  ],
+  "url": "https://briteq-lighting.com/ldp-colorbar-24fc",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "ldp-colorstrip-12fc",
+  "model": "LDP-COLORSTRIP 12FC",
+  "kind": "bar",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   15,
+   34
+  ],
+  "ch": [
+   3,
+   10
+  ],
+  "url": "https://briteq-lighting.com/ldp-colorstrip-12fc",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "ldp-colorstrip-24fc",
+  "model": "LDP-COLORSTRIP 24FC",
+  "kind": "bar",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   15,
+   34
+  ],
+  "ch": [
+   3,
+   20
+  ],
+  "url": "https://briteq-lighting.com/ldp-colorstrip-24fc",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "led-uv-gun-100w",
+  "model": "LED UV-GUN 100W",
+  "kind": "par",
+  "leds": [
+   1,
+   "uv"
+  ],
+  "deg": [
+   60,
+   60
+  ],
+  "ch": [
+   1,
+   2
+  ],
+  "size": [
+   300,
+   309,
+   264
+  ],
+  "url": "https://briteq-lighting.com/led-uv-gun-100w",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "powerpixel4-rgb",
+  "model": "Powerpixel4-RGB",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   60,
+   60
+  ],
+  "ch": [
+   3,
+   16
+  ],
+  "size": [
+   440,
+   150,
+   180
+  ],
+  "url": "https://briteq-lighting.com/powerpixel4-rgb",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "powerpixel8-rgb",
+  "model": "Powerpixel8-RGB",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   60,
+   60
+  ],
+  "ch": [
+   3,
+   16
+  ],
+  "size": [
+   880,
+   60,
+   170
+  ],
+  "url": "https://briteq-lighting.com/powerpixel8-rgb",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "pro-beamer-zoom-mk5-rental",
+  "model": "PRO BEAMER ZOOM Mk5 - RENTAL",
+  "kind": "beam",
+  "deg": [
+   8,
+   40
+  ],
+  "ch": [
+   25
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://briteq-lighting.com/pro-beamer-zoom-mk5-rental",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 3 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "stage-beamer-fc-indoor",
+  "model": "STAGE BEAMER FC - INDOOR",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   4,
+   15
+  ],
+  "size": [
+   245,
+   205,
+   245
+  ],
+  "url": "https://briteq-lighting.com/stage-beamer-fc-indoor",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "stage-beamer-fc-outdoor",
+  "model": "STAGE BEAMER FC - OUTDOOR",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   4,
+   15
+  ],
+  "size": [
+   245,
+   205,
+   245
+  ],
+  "url": "https://briteq-lighting.com/stage-beamer-fc-outdoor",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Briteq",
+  "key": "btx-blizzard-wash1",
+  "model": "BTX-BLIZZARD WASH1",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "ch": [
+   18,
+   27
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://briteq-lighting.com/btx-blizzard-wash1",
+  "note": "Steckbrief aus Herstellerangaben (briteq-lighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

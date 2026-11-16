@@ -1,0 +1,6301 @@
+[
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Proteus Maximus",
+  "kind": "profile",
+  "light": "950W 6,500K White LED Engine",
+  "beamDeg": [
+   5.5,
+   55
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "channels": [
+   37,
+   61
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:6",
+   "gobo-static:7",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   591,
+   828,
+   458
+  ],
+  "weightKg": 53,
+  "url": "https://www.elationlighting.com/products/proteus-maximus",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "vd:elation/proteus-maximus",
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Proteus Lucius",
+  "kind": "profile",
+  "light": "580W 6,500K White LED Engine",
+  "beamDeg": [
+   5.5,
+   50
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "channels": [
+   43,
+   68
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot",
+   "gobo-static",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   370,
+   682,
+   468
+  ],
+  "weightKg": 40.8,
+  "url": "https://www.elationlighting.com/products/proteus-lucius",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "vd:elation/proteus-lucius",
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Proteus Odeon",
+  "kind": "profile",
+  "light": "850W 6,500K Variable CRI White LED Engine",
+  "beamDeg": [
+   5.5,
+   50
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "channels": [],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot",
+   "gobo-static",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   370,
+   692,
+   468
+  ],
+  "weightKg": 43.4,
+  "url": "https://www.elationlighting.com/products/proteus-odeon",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Proteus Brutus",
+  "kind": "wash",
+  "light": "1200W 6,500K LED Engine",
+  "beamDeg": [
+   4.5,
+   45
+  ],
+  "pan": 540,
+  "tilt": 266,
+  "channels": [
+   25,
+   36,
+   34,
+   56
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "frost",
+   "zoom",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   457,
+   864,
+   638
+  ],
+  "weightKg": 50,
+  "url": "https://www.elationlighting.com/products/proteus-brutus",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Proteus Brutus FS",
+  "kind": "follow",
+  "light": "1200W 6,500K White LED Engine",
+  "beamDeg": [
+   3,
+   35
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   27,
+   36
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "frost",
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   370,
+   825,
+   468
+  ],
+  "weightKg": 54,
+  "url": "https://www.elationlighting.com/products/proteus-brutus-fs",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65 Verfolger"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Proteus Excalibur",
+  "kind": "beam",
+  "light": "550 W Langlebensdauer-Lampe",
+  "beamDeg": [
+   1.6,
+   1.6
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "channels": [],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "gobo-static",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   383,
+   698,
+   493
+  ],
+  "weightKg": 49,
+  "url": "https://www.elationlighting.com/products/proteus-excalibur",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Proteus Atlas",
+  "kind": "beam",
+  "light": null,
+  "beamDeg": [
+   0.6,
+   8.5
+  ],
+  "pan": 360,
+  "tilt": 250,
+  "channels": [
+   30,
+   41
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-static",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   508,
+   800,
+   370
+  ],
+  "weightKg": 56.3,
+  "url": "https://www.elationlighting.com/products/proteus-atlas",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65, Lichtquelle 500 W lt. Datenblatt"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Proteus Hybrid Max",
+  "kind": "hybrid",
+  "light": "Philips MSD Platinum 500 Flex 550W Lamp",
+  "beamDeg": [
+   2,
+   45
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "channels": [
+   32,
+   43
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot",
+   "gobo-static",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   477,
+   677,
+   288
+  ],
+  "weightKg": 35.5,
+  "url": "https://www.elationlighting.com/products/proteus-hybrid-max",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Proteus Radius",
+  "kind": "beam",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "colorwheel",
+   "gobo-static",
+   "prism"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   395,
+   516,
+   270
+  ],
+  "weightKg": 20.4,
+  "url": "https://www.elationlighting.com/products/proteus-radius",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65, Lichtquelle 100 W lt. Datenblatt"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Proteus Rayzor 760",
+  "kind": "wash",
+  "light": "7x 60W OSRAM RGBW LED",
+  "beamDeg": [
+   5,
+   77
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   25,
+   52,
+   80
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "7 (Hex)",
+  "sizeMm": [
+   260,
+   493,
+   363
+  ],
+  "weightKg": 18.6,
+  "url": "https://www.elationlighting.com/products/proteus-rayzor-760",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "vd:elation/proteus-rayzor-760",
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Proteus Rayzor 1960",
+  "kind": "wash",
+  "light": "19x 60W OSRAM RGBW LED",
+  "beamDeg": [
+   5,
+   55
+  ],
+  "pan": 360,
+  "tilt": 360,
+  "channels": [
+   25,
+   100,
+   176
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "19 (Hex)",
+  "sizeMm": [
+   468,
+   579,
+   376
+  ],
+  "weightKg": 33.1,
+  "url": "https://www.elationlighting.com/products/proteus-rayzor-1960",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65, Pan/Tilt endlos"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Proteus Rayzor Blade S",
+  "kind": "tiltbar",
+  "light": "6x 60W OSRAM RGBW LED",
+  "beamDeg": [
+   6,
+   45
+  ],
+  "pan": null,
+  "tilt": 192,
+  "channels": [
+   28,
+   50,
+   82,
+   66,
+   72,
+   106
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "6 linear",
+  "sizeMm": [
+   194,
+   336,
+   504
+  ],
+  "weightKg": 17.9,
+  "url": "https://www.elationlighting.com/products/proteus-rayzor-blade-s",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Proteus Rayzor Blade L",
+  "kind": "tiltbar",
+  "light": "12x 60W OSRAM RGBW LED",
+  "beamDeg": [
+   6,
+   45
+  ],
+  "pan": null,
+  "tilt": 192,
+  "channels": [
+   28,
+   76,
+   140,
+   108,
+   120,
+   188
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "12 linear",
+  "sizeMm": [
+   194,
+   336,
+   1004
+  ],
+  "weightKg": 33,
+  "url": "https://www.elationlighting.com/products/proteus-rayzor-blade-l",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Artiste Mondrian",
+  "kind": "profile",
+  "light": "950W 6,500K White LED Engine",
+  "beamDeg": [
+   3,
+   45
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "channels": [
+   42,
+   68
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot",
+   "gobo-static",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   673,
+   870,
+   472
+  ],
+  "weightKg": 47.5,
+  "url": "https://www.elationlighting.com/products/artiste-mondrian",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Artiste Monet",
+  "kind": "profile",
+  "light": "950W 6,500K White LED Engine",
+  "beamDeg": [
+   6.8,
+   55
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "channels": [
+   40,
+   67
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot",
+   "gobo-static",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   583,
+   800,
+   471
+  ],
+  "weightKg": 42.6,
+  "url": "https://www.elationlighting.com/products/artiste-monet",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Artiste Rembrandt",
+  "kind": "wash",
+  "light": "950W 6,500K White LED Engine",
+  "beamDeg": [
+   11,
+   55
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "channels": [
+   35,
+   59
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "frost",
+   "zoom",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 43,
+  "url": "https://www.elationlighting.com/products/artiste-rembrandt",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Paragon S",
+  "kind": "profile",
+  "light": "550W 6,500K Variable CRI White LED Engine",
+  "beamDeg": [
+   5,
+   50
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   41,
+   64,
+   41,
+   64
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot",
+   "gobo-static",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   390,
+   595,
+   260
+  ],
+  "weightKg": 23,
+  "url": "https://www.elationlighting.com/products/paragon-s",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Paragon M",
+  "kind": "profile",
+  "light": "900W 6,500K Variable CRI White LED Engine",
+  "beamDeg": [
+   4.5,
+   52
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   43,
+   65
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot",
+   "gobo-static",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   315,
+   680,
+   444
+  ],
+  "weightKg": 32,
+  "url": "https://www.elationlighting.com/products/paragon-m",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Paragon LT",
+  "kind": "profile",
+  "light": "1300W 6500K Variable CRI White LED Engine",
+  "beamDeg": [
+   3.7,
+   48
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   44,
+   67,
+   47,
+   73
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot",
+   "gobo-static",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   315,
+   830,
+   492
+  ],
+  "weightKg": 43.6,
+  "url": "https://www.elationlighting.com/products/paragon-lt",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65, Long Throw"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Rebel Profile",
+  "kind": "profile",
+  "light": "600W 6,500K White LED Engine",
+  "beamDeg": [
+   3.5,
+   51
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot",
+   "gobo-static",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   281,
+   666,
+   398
+  ],
+  "weightKg": 29.9,
+  "url": "https://www.elationlighting.com/products/rebel-profile",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Rebel Wash 4",
+  "kind": "wash",
+  "light": "(4) 60W RGBL LED Array",
+  "beamDeg": [
+   5,
+   40
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "4 (2x2)",
+  "sizeMm": [
+   210,
+   362,
+   298
+  ],
+  "weightKg": 8.6,
+  "url": "https://www.elationlighting.com/products/rebel-wash-4",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Rebel Wash 12",
+  "kind": "wash",
+  "light": "(12) 60W RGBL LED Array",
+  "beamDeg": [
+   5,
+   40
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   21,
+   28,
+   68
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "12",
+  "sizeMm": [
+   259,
+   445,
+   361
+  ],
+  "weightKg": 16.5,
+  "url": "https://www.elationlighting.com/products/rebel-wash-12",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Rebel Dartz",
+  "kind": "beam",
+  "light": "150W RBL LED Engine",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "gobo-static",
+   "prism"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   219,
+   478,
+   337
+  ],
+  "weightKg": 15.9,
+  "url": "https://www.elationlighting.com/products/rebel-dartz",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65, kompakter Beam"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Rebel Line 8",
+  "kind": "tiltbar",
+  "light": "(8) 60W RGBL LEDs",
+  "beamDeg": [
+   4,
+   35
+  ],
+  "pan": null,
+  "tilt": 210,
+  "channels": [
+   22,
+   30,
+   70
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "8 linear",
+  "sizeMm": [
+   164,
+   336,
+   502
+  ],
+  "weightKg": 13.3,
+  "url": "https://www.elationlighting.com/products/rebel-line-8",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Rebel Line 16",
+  "kind": "tiltbar",
+  "light": "(16) 60W RGBL LEDs (32) 5W CW SparkX LEDs",
+  "beamDeg": [
+   4,
+   35
+  ],
+  "pan": null,
+  "tilt": 210,
+  "channels": [
+   24,
+   31,
+   122,
+   22,
+   30,
+   70
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "16 linear + 32 Strobe-LEDs",
+  "sizeMm": [
+   140,
+   336,
+   1004
+  ],
+  "weightKg": 23.3,
+  "url": "https://www.elationlighting.com/products/rebel-line-16",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Fuze Max Profile",
+  "kind": "profile",
+  "light": "Full Spectrum 800W RGBMA LED Engine",
+  "beamDeg": [
+   7,
+   53
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "channels": [
+   40,
+   61,
+   38,
+   57
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot",
+   "gobo-static",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   540,
+   719,
+   462
+  ],
+  "weightKg": 34.6,
+  "url": "https://www.elationlighting.com/products/fuze-max-profile",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Fuze Max Spot",
+  "kind": "spot",
+  "light": "Full Spectrum 800W RGBMA LED Engine",
+  "beamDeg": [
+   7,
+   53
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "channels": [
+   34,
+   44,
+   32,
+   40
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot",
+   "gobo-static",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   540,
+   719,
+   462
+  ],
+  "weightKg": 34.5,
+  "url": "https://www.elationlighting.com/products/fuze-max-spot",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Fuze Profile",
+  "kind": "profile",
+  "light": "305W 6,500K RGBMA LED Engine",
+  "beamDeg": [
+   7,
+   42
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   38,
+   59,
+   36,
+   55
+  ],
+  "features": [
+   "cto",
+   "colorwheel",
+   "gobo-rot",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   256,
+   698,
+   407
+  ],
+  "weightKg": 25,
+  "url": "https://www.elationlighting.com/products/fuze-profile",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Fuze Profile+",
+  "kind": "profile",
+  "light": "500W 6,000K RGBMA LED Engine",
+  "beamDeg": [
+   4,
+   54
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   40,
+   59,
+   38,
+   55
+  ],
+  "features": [
+   "cto",
+   "colorwheel",
+   "gobo-rot",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   256,
+   705,
+   408
+  ],
+  "weightKg": 29,
+  "url": "https://www.elationlighting.com/products/fuze-profile-1",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Shop-Handle fuze-profile-1"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Fuze Spot",
+  "kind": "spot",
+  "light": "305W 6,500K RGBMA LED Engine",
+  "beamDeg": [
+   7,
+   42
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   31,
+   41,
+   29,
+   37
+  ],
+  "features": [
+   "cto",
+   "colorwheel",
+   "gobo-rot",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   256,
+   698,
+   407
+  ],
+  "weightKg": 21,
+  "url": "https://www.elationlighting.com/products/fuze-spot",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Fuze PFX",
+  "kind": "profile",
+  "light": "400W LED 6,600K White LED Engine",
+  "beamDeg": [
+   3,
+   53
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "gobo-rot",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   233,
+   637,
+   362
+  ],
+  "weightKg": 22.7,
+  "url": "https://www.elationlighting.com/products/fuze-pfx",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Fuze SFX",
+  "kind": "hybrid",
+  "light": "300W LED 6,600K White LED Engine",
+  "beamDeg": [
+   4.5,
+   38
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   31
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "gobo-rot",
+   "gobo-static",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   233,
+   595,
+   362
+  ],
+  "weightKg": 20.8,
+  "url": "https://www.elationlighting.com/products/fuze-sfx",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Fuze Teatro",
+  "kind": "profile",
+  "light": "Full Spectrum 480W RGBMA LED Engine",
+  "beamDeg": [
+   7,
+   50
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "channels": [],
+  "features": [
+   "cto",
+   "colorwheel",
+   "gobo-rot",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   462,
+   783,
+   306
+  ],
+  "weightKg": 36,
+  "url": "https://www.elationlighting.com/products/fuze-teatro",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "leise Theaterversion"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Fuze Wash 250",
+  "kind": "wash",
+  "light": "250W Full Spectrum RGBMA LED Engine",
+  "beamDeg": [
+   6,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [],
+  "features": [
+   "cto",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   327,
+   459,
+   208
+  ],
+  "weightKg": 11.3,
+  "url": "https://www.elationlighting.com/products/fuze-wash-250",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Fuze Wash 500",
+  "kind": "wash",
+  "light": "500W Full Spectrum RGBMA LED Engine",
+  "beamDeg": [
+   6,
+   53
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   21,
+   30,
+   19,
+   26,
+   17,
+   24
+  ],
+  "features": [
+   "cto",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   408,
+   550,
+   350
+  ],
+  "weightKg": 18.5,
+  "url": "https://www.elationlighting.com/products/fuze-wash-500",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "vd:elation/fuze-wash-500",
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Fuze Wash FR",
+  "kind": "wash",
+  "light": "480W Full Spectrum RGBMA LED Engine",
+  "beamDeg": [
+   9,
+   60
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   29,
+   47,
+   27,
+   43
+  ],
+  "features": [
+   "cto",
+   "zoom",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   256,
+   679,
+   408
+  ],
+  "weightKg": 28.1,
+  "url": "https://www.elationlighting.com/products/fuze-wash-fr",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Fuze Wash Z120",
+  "kind": "wash",
+  "light": "120W RGBW COB LED",
+  "beamDeg": [
+   7,
+   55
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   19
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   229,
+   466,
+   338
+  ],
+  "weightKg": 10,
+  "url": "https://www.elationlighting.com/products/fuze-wash-z120",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Smarty Hybrid",
+  "kind": "hybrid",
+  "light": "FLEX Lamp Technology from 190 to 280W + Hibernation Mode",
+  "beamDeg": [
+   1,
+   18
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   20,
+   34
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-rot",
+   "gobo-static",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   405,
+   610,
+   385
+  ],
+  "weightKg": 22.2,
+  "url": "https://www.elationlighting.com/products/smarty-hybrid",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "vd:elation/smarty-hybrid",
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Smarty Max",
+  "kind": "hybrid",
+  "light": "Philips MSD Platinum 400 Flex 480W Lamp",
+  "beamDeg": [
+   2,
+   20
+  ],
+  "pan": 540,
+  "tilt": 248,
+  "channels": [
+   27,
+   44
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "gobo-rot",
+   "gobo-static",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   445,
+   642,
+   390
+  ],
+  "weightKg": 27.2,
+  "url": "https://www.elationlighting.com/products/smarty-max",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Dartz 360",
+  "kind": "beam",
+  "light": "50W RGB LED Engine",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   19,
+   22,
+   25
+  ],
+  "features": [
+   "gobo-static",
+   "prism"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   196,
+   455,
+   284
+  ],
+  "weightKg": 12.7,
+  "url": "https://www.elationlighting.com/products/dartz-360",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "vd:elation/dartz-360",
+  "notes": "Pan/Tilt endlos"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Fuze Par Z60 IP",
+  "kind": "par",
+  "light": "60W RGBW COB LED Par",
+  "beamDeg": [
+   7,
+   39
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   13
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   252,
+   282,
+   253
+  ],
+  "weightKg": 4.5,
+  "url": "https://www.elationlighting.com/products/fuze-par-z60-ip",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "ofl:elation/fuze-par-z60ip",
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Fuze Par Z120 IP",
+  "kind": "par",
+  "light": "120W RGBW COB LED Par",
+  "beamDeg": [
+   7,
+   55
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   13
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   357,
+   359,
+   284
+  ],
+  "weightKg": 8.6,
+  "url": "https://www.elationlighting.com/products/fuze-par-z120-ip",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Fuze Par Z175",
+  "kind": "par",
+  "light": "175W RGBW COB LED Engine",
+  "beamDeg": [
+   8,
+   35
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   14
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   411,
+   431,
+   463
+  ],
+  "weightKg": 9.07,
+  "url": "https://www.elationlighting.com/products/fuze-par-z175",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:elation/fuze-par-z175",
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Fuze Pendant",
+  "kind": "wash",
+  "light": "Full Spectrum 230W 5in1 LED Array",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 7.2,
+  "url": "https://www.elationlighting.com/products/fuze-pendant",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Pendelleuchte (Arch), Varianten Compact/HW/WH"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "KL Core IP",
+  "kind": "ellipsoidal",
+  "light": "400W 6,000K RGBMA LED Engine",
+  "beamDeg": [
+   36,
+   50
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   4,
+   5,
+   6,
+   10,
+   11,
+   19,
+   9,
+   15,
+   13
+  ],
+  "features": [
+   "framing",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   292,
+   230,
+   398
+  ],
+  "weightKg": 10,
+  "url": "https://www.elationlighting.com/products/kl-core-ip",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "KL Profile FC",
+  "kind": "ellipsoidal",
+  "light": "305W 6,500K RGBMA LED Engine",
+  "beamDeg": [
+   6,
+   50
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   5,
+   12,
+   21,
+   10,
+   17
+  ],
+  "features": [
+   "framing",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   395,
+   638,
+   345
+  ],
+  "weightKg": 15.7,
+  "url": "https://www.elationlighting.com/products/kl-profile-fc",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "KL Profile Compact",
+  "kind": "ellipsoidal",
+  "light": "225W 6,000K RGBMA LED Engine",
+  "beamDeg": [
+   25,
+   50
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   5,
+   6,
+   7,
+   10,
+   11,
+   19,
+   9,
+   15
+  ],
+  "features": [
+   "framing",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   262,
+   256,
+   472
+  ],
+  "weightKg": 7,
+  "url": "https://www.elationlighting.com/products/kl-profile-compact",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "KL Spot IP",
+  "kind": "ellipsoidal",
+  "light": "305W 6,500K RGBMA LED Engine",
+  "beamDeg": [
+   7,
+   50
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   24,
+   32,
+   22,
+   28,
+   34,
+   50,
+   32,
+   46
+  ],
+  "features": [
+   "framing",
+   "zoom",
+   "gobo-static"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   446,
+   559,
+   242
+  ],
+  "weightKg": 23.2,
+  "url": "https://www.elationlighting.com/products/kl-spot-ip",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65, motorisierter Zoom/Framing-Option"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "KL Fresnel 4",
+  "kind": "fresnel",
+  "light": "50W 3,000K >97CRI Warm White LED Engine",
+  "beamDeg": [
+   14,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   201,
+   289,
+   345
+  ],
+  "weightKg": 4.08,
+  "url": "https://www.elationlighting.com/products/kl-fresnel-4",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "KL Fresnel 4 CW",
+  "kind": "fresnel",
+  "light": "50W LED",
+  "beamDeg": [
+   14,
+   33
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   201,
+   289,
+   251
+  ],
+  "weightKg": 4.08,
+  "url": "https://www.elationlighting.com/products/kl-fresnel-4-cw",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "KL Fresnel 4 FC",
+  "kind": "fresnel",
+  "light": "80W RGBMA LED Engine",
+  "beamDeg": [
+   10,
+   45
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   6,
+   11,
+   18,
+   19,
+   9,
+   14,
+   15
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   313,
+   223,
+   190
+  ],
+  "weightKg": 3.71,
+  "url": "https://www.elationlighting.com/products/kl-fresnel-4-fc",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "KL Fresnel 6",
+  "kind": "fresnel",
+  "light": "150W 3,000K >95CRI Warm White LED Engine",
+  "beamDeg": [
+   15,
+   38
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   273,
+   393,
+   498
+  ],
+  "weightKg": 8.4,
+  "url": "https://www.elationlighting.com/products/kl-fresnel-6",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "KL Fresnel 6 CW",
+  "kind": "fresnel",
+  "light": "5,600K Cool White LED Fresnel 150W LED",
+  "beamDeg": [
+   16,
+   39
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   273,
+   393,
+   344
+  ],
+  "weightKg": 8.4,
+  "url": "https://www.elationlighting.com/products/kl-fresnel-6-cw",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "PO-Variante (Stangenbedienung) identisch"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "KL Fresnel 6 FC",
+  "kind": "fresnel",
+  "light": "220W RGBMA LED Engine Dynamic White + Full Spectrum Color Control",
+  "beamDeg": [
+   10,
+   32
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   272,
+   398,
+   344
+  ],
+  "weightKg": 7.3,
+  "url": "https://www.elationlighting.com/products/kl-fresnel-6-fc",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "6 Modi (1-18 Kanäle)"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "KL Fresnel 6 IP",
+  "kind": "fresnel",
+  "light": "250W 6000K RGBMA LED Engine",
+  "beamDeg": [
+   8,
+   60
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   5,
+   7,
+   11,
+   12,
+   20,
+   10,
+   16,
+   14
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   256,
+   302,
+   404
+  ],
+  "weightKg": 11.4,
+  "url": "https://www.elationlighting.com/products/kl-fresnel-6-ip",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "KL Fresnel 8",
+  "kind": "fresnel",
+  "light": "350W 3,000K >96CRI Warm White LED Engine",
+  "beamDeg": [
+   11,
+   57
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   3,
+   6,
+   7
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   328,
+   456,
+   608
+  ],
+  "weightKg": 12.7,
+  "url": "https://www.elationlighting.com/products/kl-fresnel-8",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "KL Fresnel 8 CW",
+  "kind": "fresnel",
+  "light": "5,600K Cool White LED Fresnel 350W LED",
+  "beamDeg": [
+   11,
+   56
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   3,
+   6,
+   7
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   328,
+   456,
+   445
+  ],
+  "weightKg": 12.7,
+  "url": "https://www.elationlighting.com/products/kl-fresnel-8-cw",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "KL Fresnel 8 FC",
+  "kind": "fresnel",
+  "light": null,
+  "beamDeg": [
+   10,
+   50
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   5,
+   7,
+   11,
+   12,
+   19,
+   20,
+   10,
+   15,
+   16,
+   14
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   326,
+   455,
+   382
+  ],
+  "weightKg": 10.5,
+  "url": "https://www.elationlighting.com/products/kl-fresnel-8-fc",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "KL Fresnel 8 IP",
+  "kind": "fresnel",
+  "light": "500W 6000K RGBMA LED Engine",
+  "beamDeg": [
+   8,
+   60
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   5,
+   7,
+   11,
+   12,
+   20,
+   10,
+   16,
+   14
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   309,
+   345,
+   448
+  ],
+  "weightKg": 13.7,
+  "url": "https://www.elationlighting.com/products/kl-fresnel-8-ip",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "KL Par FC",
+  "kind": "par",
+  "light": "280W 6500K RGBMA LED Engine",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   6,
+   11,
+   18,
+   19,
+   9,
+   14,
+   15
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   304,
+   380,
+   354
+  ],
+  "weightKg": 7.25,
+  "url": "https://www.elationlighting.com/products/kl-par-fc",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:elation/kl-par-fc",
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "KL Par FC IP",
+  "kind": "par",
+  "light": "360W 6000K RGBMA LED Engine",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   6,
+   11,
+   18,
+   19,
+   9,
+   14,
+   15
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   304,
+   453,
+   217
+  ],
+  "weightKg": 7.5,
+  "url": "https://www.elationlighting.com/products/kl-par-fc-ip",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "KL Par IP Compact",
+  "kind": "par",
+  "light": "150W 6000K RGBMA LED Engine",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   4,
+   5,
+   6,
+   10,
+   11,
+   19,
+   9,
+   15
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   257,
+   183,
+   183
+  ],
+  "weightKg": 5.5,
+  "url": "https://www.elationlighting.com/products/kl-par-ip-compact",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "KL Panel",
+  "kind": "panel",
+  "light": "295W RGBWLC (Red, Green, Blue, White, Lime, Cyan) LED Array",
+  "beamDeg": [
+   155.4,
+   155.4
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   140,
+   310,
+   528
+  ],
+  "weightKg": 13,
+  "url": "https://www.elationlighting.com/products/kl-panel",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "9 DMX-Modi"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "KL Panel XL",
+  "kind": "panel",
+  "light": "544W RGBWLC (Red, Green, Blue, White, Lime, Cyan) LED Array",
+  "beamDeg": [
+   155.4,
+   155.4
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   156,
+   306,
+   858
+  ],
+  "weightKg": 17.2,
+  "url": "https://www.elationlighting.com/products/kl-panel-xl",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "12 DMX-Modi (1-96 Kanäle)"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "KL Panel XL IP",
+  "kind": "panel",
+  "light": "570W RGBWLC (Red, Green, Blue, White, Lime, Cyan) LED Array",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   169,
+   366,
+   840
+  ],
+  "weightKg": 20.7,
+  "url": "https://www.elationlighting.com/products/kl-panel-xl-ip",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65, 13 DMX-Modi (1-96 Kanäle)"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "KL Cyc S",
+  "kind": "flood",
+  "light": "90W RGBMA LED Array",
+  "beamDeg": [
+   12,
+   75
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   4,
+   11,
+   12,
+   13,
+   16,
+   19,
+   20,
+   32
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   207,
+   85,
+   505
+  ],
+  "weightKg": 3.5,
+  "url": "https://www.elationlighting.com/products/kl-cyc-s",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Horizont-/Bodenleuchte"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "KL Cyc L",
+  "kind": "flood",
+  "light": "180W RGBMA LED Array",
+  "beamDeg": [
+   25,
+   75
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   4,
+   11,
+   12,
+   13,
+   16,
+   19,
+   20,
+   31,
+   32,
+   56
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   206,
+   85,
+   962
+  ],
+  "weightKg": 7.3,
+  "url": "https://www.elationlighting.com/products/kl-cyc-l",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "KL Batten 12",
+  "kind": "bar",
+  "light": "4 x 100 W RGBMA",
+  "beamDeg": [
+   44,
+   44
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "4 linear",
+  "sizeMm": [
+   184,
+   239,
+   321
+  ],
+  "weightKg": 6.7,
+  "url": "https://www.elationlighting.com/products/kl-batten-12",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "22 DMX-Modi"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "KL Batten 48",
+  "kind": "bar",
+  "light": "16 x 100 W RGBMA",
+  "beamDeg": [
+   79,
+   79
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "16 linear",
+  "sizeMm": [
+   184,
+   239,
+   1211
+  ],
+  "weightKg": 19.6,
+  "url": "https://www.elationlighting.com/products/kl-batten-48",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "34 DMX-Modi"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "KL Batten 72",
+  "kind": "bar",
+  "light": "24 x 100 W RGBMA",
+  "beamDeg": [
+   97,
+   97
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "24 linear",
+  "sizeMm": [
+   184,
+   239,
+   1806
+  ],
+  "weightKg": 27.4,
+  "url": "https://www.elationlighting.com/products/kl-batten-72",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "52 DMX-Modi"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "CW Profile HP",
+  "kind": "ellipsoidal",
+  "light": "High Power 130W Cool White 5,600K LED Engine",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4
+  ],
+  "features": [
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   310,
+   398,
+   618
+  ],
+  "weightKg": 9.5,
+  "url": "https://www.elationlighting.com/products/cw-profile-hp",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "WW Profile HP",
+  "kind": "ellipsoidal",
+  "light": "High Power 130W Warm White 3,000K LED Engine",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4
+  ],
+  "features": [
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   310,
+   398,
+   618
+  ],
+  "weightKg": 9.5,
+  "url": "https://www.elationlighting.com/products/ww-profile-hp",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "CW Profile HP IP",
+  "kind": "ellipsoidal",
+  "light": "IP65 Rated High Power 130W Cool White 5,600K LED Engine",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   6,
+   8
+  ],
+  "features": [
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   554,
+   460,
+   300
+  ],
+  "weightKg": 8.8,
+  "url": "https://www.elationlighting.com/products/cw-profile-hp-ip",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Chorus Line 8",
+  "kind": "tiltbar",
+  "light": "8 Pixel Bar Wash with 40W 4-in-1 RGBW LEDs",
+  "beamDeg": [
+   4,
+   40
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   46
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "8 linear",
+  "sizeMm": [
+   189,
+   291,
+   540
+  ],
+  "weightKg": 11.3,
+  "url": "https://www.elationlighting.com/products/chorus-line-8",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "46 Kanäle gesamt (3 Modi)"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Chorus Line 16",
+  "kind": "tiltbar",
+  "light": "16 Pixel Bar Wash with 40W 4-in-1 RGBW LEDs",
+  "beamDeg": [
+   4,
+   40
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   78
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "16 linear",
+  "sizeMm": [
+   189,
+   291,
+   1068
+  ],
+  "weightKg": 21.3,
+  "url": "https://www.elationlighting.com/products/chorus-line-16",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "vd:elation/chorus-line-16",
+  "notes": "78 Kanäle gesamt (3 Modi)"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "SIX+ Bar S",
+  "kind": "bar",
+  "light": "(6) 20W RGBLA+UV LED Array",
+  "beamDeg": [
+   60,
+   60
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   6,
+   9,
+   13,
+   16,
+   22,
+   34,
+   46,
+   82,
+   36
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "6 linear",
+  "sizeMm": [
+   176,
+   206,
+   501
+  ],
+  "weightKg": 6.75,
+  "url": "https://www.elationlighting.com/products/six-bar-s",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "SIX+ Bar L",
+  "kind": "bar",
+  "light": "(12) 20W RGBLA+UV LED Array",
+  "beamDeg": [
+   60,
+   60
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   6,
+   9,
+   13,
+   16,
+   22,
+   34,
+   44,
+   58,
+   82,
+   154,
+   72
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "12 linear",
+  "sizeMm": [
+   176,
+   206,
+   1000
+  ],
+  "weightKg": 10.9,
+  "url": "https://www.elationlighting.com/products/six-bar-l",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "SIX+ Par S",
+  "kind": "par",
+  "light": "(7) x 20W RGBLA+ UV LEDs",
+  "beamDeg": [
+   12,
+   12
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   6,
+   9,
+   11,
+   14,
+   20
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   247,
+   230,
+   188
+  ],
+  "weightKg": 4.3,
+  "url": "https://www.elationlighting.com/products/six-par-s",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "SIX+ Par L",
+  "kind": "par",
+  "light": "(14) x 20W RGBLA+ UV LEDs",
+  "beamDeg": [
+   12,
+   12
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   6,
+   9,
+   11,
+   14,
+   20
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   342,
+   246,
+   260
+  ],
+  "weightKg": 7.1,
+  "url": "https://www.elationlighting.com/products/six-par-l",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "SIX+ Panel",
+  "kind": "panel",
+  "light": "(40) 40W RGBLA+UV LED Array 46,625 Lumens, 92.3 CRI Beam Angle: 15°",
+  "beamDeg": [
+   25,
+   25
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   4,
+   6,
+   9,
+   12,
+   16,
+   21,
+   19,
+   27,
+   25,
+   39,
+   43,
+   75,
+   30,
+   73,
+   135,
+   60
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   509,
+   392,
+   239
+  ],
+  "weightKg": 20.4,
+  "url": "https://www.elationlighting.com/products/six-panel",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "SixBar 500",
+  "kind": "bar",
+  "light": "(6) 12W 6-in-1 RGBAW+UV LEDs",
+  "beamDeg": [
+   30,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   7,
+   11,
+   13,
+   18,
+   36,
+   39,
+   43
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "6 linear",
+  "sizeMm": [
+   206,
+   155,
+   450
+  ],
+  "weightKg": 4.1,
+  "url": "https://www.elationlighting.com/products/sixbar-500",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "SixBar 1000",
+  "kind": "bar",
+  "light": "(12) 12W 6-in-1 RGBAW+UV LEDs",
+  "beamDeg": [
+   30,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   7,
+   11,
+   13,
+   36,
+   72,
+   75,
+   79
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "12 linear",
+  "sizeMm": [
+   206,
+   155,
+   900
+  ],
+  "weightKg": 7.3,
+  "url": "https://www.elationlighting.com/products/sixbar-1000",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "ofl:elation/sixbar-1000",
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "SixBar 1000 IP",
+  "kind": "bar",
+  "light": "12 x 12W 6-in-1 RGBAW+UV LEDs",
+  "beamDeg": [
+   25,
+   25
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   7,
+   11,
+   13,
+   36,
+   72,
+   75,
+   79
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "12 linear",
+  "sizeMm": [
+   141,
+   120,
+   853
+  ],
+  "weightKg": 8.6,
+  "url": "https://www.elationlighting.com/products/sixbar-1000-ip",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "SixPar 300",
+  "kind": "par",
+  "light": "(18) 12W 6-in-1 RGBAW+UV LEDs",
+  "beamDeg": [
+   15,
+   15
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   7,
+   8,
+   12
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   125,
+   365,
+   365
+  ],
+  "weightKg": 8.1,
+  "url": "https://www.elationlighting.com/products/sixpar-300",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "ofl:elation/sixpar-300",
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "SixPar 300 IP",
+  "kind": "par",
+  "light": "(18) 12W 6-in-1 RGBAW+UV LEDs",
+  "beamDeg": [
+   15,
+   15
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   7,
+   8,
+   12
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   125,
+   365,
+   365
+  ],
+  "weightKg": 9.5,
+  "url": "https://www.elationlighting.com/products/sixpar-300ip",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "ofl:elation/sixpar-300-ip",
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "SixPar 100 IP",
+  "kind": "par",
+  "light": "(7) 12W 6-in-1 RGBAW+UV LEDs",
+  "beamDeg": [
+   15,
+   15
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   7,
+   8,
+   12
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   158,
+   243,
+   257
+  ],
+  "weightKg": 4.3,
+  "url": "https://www.elationlighting.com/products/sixpar-100ip",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "ofl:elation/sixpar-100-ip",
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "SixPar 200 WMG",
+  "kind": "par",
+  "light": "(12) 12W 6-in-1 RGBAW+UV LEDs",
+  "beamDeg": [
+   23,
+   23
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   7,
+   8,
+   12
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   313,
+   313,
+   313
+  ],
+  "weightKg": 5.7,
+  "url": "https://www.elationlighting.com/products/sixpar-200wmg",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "ofl:elation/sixpar-200-wmg",
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Seven Par 7IP",
+  "kind": "par",
+  "light": "(7) 25W 7-in-1 RGBAW + Lime + UV (395nm) LEDs",
+  "beamDeg": [
+   17,
+   17
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   272,
+   187,
+   286
+  ],
+  "weightKg": 5,
+  "url": "https://www.elationlighting.com/products/seven-par-7ip",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Seven Par 19IP",
+  "kind": "par",
+  "light": "(19) 25W 7-in-1 RGBAW + Lime + UV (395nm) LEDs",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   371,
+   284,
+   357
+  ],
+  "weightKg": 11.3,
+  "url": "https://www.elationlighting.com/products/seven-par-19ip",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Seven Batten 14",
+  "kind": "bar",
+  "light": "(12) 25W 7-in-1 RGBAW + Lime + UV (395nm) LEDs",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   114,
+   229,
+   356
+  ],
+  "weightKg": 7.7,
+  "url": "https://www.elationlighting.com/products/seven-batten-14",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Seven Batten 42",
+  "kind": "bar",
+  "light": "(36) 25W 7-in-1 RGBAW + Lime + UV (395nm) LEDs",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   114,
+   229,
+   1067
+  ],
+  "weightKg": 17.7,
+  "url": "https://www.elationlighting.com/products/seven-batten-42",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Seven Batten 72",
+  "kind": "bar",
+  "light": "(60) 25W 7-in-1 RGBAW + Lime + UV (395nm) LEDs",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   114,
+   229,
+   1829
+  ],
+  "weightKg": 26.3,
+  "url": "https://www.elationlighting.com/products/seven-batten-72",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Limelight Par S",
+  "kind": "par",
+  "light": "(7) 60W RGBL LEDs",
+  "beamDeg": [
+   5,
+   42
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   12,
+   13,
+   15,
+   17,
+   25
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   224,
+   423,
+   317
+  ],
+  "weightKg": 9.1,
+  "url": "https://www.elationlighting.com/products/limelight-par-s",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Limelight Par L",
+  "kind": "par",
+  "light": "(12) 60W RGBL LEDs",
+  "beamDeg": [
+   5,
+   40
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   12,
+   13,
+   15,
+   17,
+   25
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   248,
+   451,
+   341
+  ],
+  "weightKg": 9.9,
+  "url": "https://www.elationlighting.com/products/limelight-par-l",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Volt+ Par S",
+  "kind": "par",
+  "light": "30W RGBLA+UV LED",
+  "beamDeg": [
+   32,
+   32
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   6,
+   9,
+   11,
+   14,
+   20
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   156,
+   198,
+   156
+  ],
+  "weightKg": 2.9,
+  "url": "https://www.elationlighting.com/products/volt-par-s",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Akkubetrieb"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Volt+ Par L",
+  "kind": "par",
+  "light": "60W RGBLA+UV LED",
+  "beamDeg": [
+   28,
+   28
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   6,
+   9,
+   11,
+   14,
+   20
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   206,
+   236,
+   206
+  ],
+  "weightKg": 6.85,
+  "url": "https://www.elationlighting.com/products/volt-par-l",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Akkubetrieb"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Volt+ Bar S",
+  "kind": "bar",
+  "light": "(6) x 20W RGBLA+ UV LEDs",
+  "beamDeg": [
+   60,
+   60
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   6,
+   9,
+   14,
+   17,
+   23,
+   35,
+   47,
+   83,
+   36
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   129,
+   226,
+   501
+  ],
+  "weightKg": 10.2,
+  "url": "https://www.elationlighting.com/products/volt-bar-s",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Akkubetrieb"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "SŌL I ACL",
+  "kind": "par",
+  "light": "150W RGBLA LEDs",
+  "beamDeg": [
+   4,
+   41
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   4,
+   5,
+   6,
+   7,
+   9,
+   14,
+   21,
+   12,
+   17
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   114,
+   114,
+   294
+  ],
+  "weightKg": 5.6,
+  "url": "https://www.elationlighting.com/products/sol-i-acl",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "SŌL I Blinder",
+  "kind": "blinder",
+  "light": "250W RGBLAW LED",
+  "beamDeg": [
+   95,
+   95
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   3,
+   4,
+   6,
+   7,
+   13,
+   21,
+   10,
+   15
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   114,
+   114,
+   185
+  ],
+  "weightKg": 2.9,
+  "url": "https://www.elationlighting.com/products/sol-i-blinder",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "SŌL II Blinder",
+  "kind": "blinder",
+  "light": "2x 350W RGBLAW LED",
+  "beamDeg": [
+   95,
+   95
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   4,
+   3,
+   5,
+   8,
+   6,
+   12,
+   7,
+   10,
+   22,
+   37,
+   16,
+   25
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "2",
+  "sizeMm": [
+   420,
+   261,
+   236
+  ],
+  "weightKg": 11.2,
+  "url": "https://www.elationlighting.com/products/sol-ii-blinder",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "SŌL IV Blinder",
+  "kind": "blinder",
+  "light": "4x 350W RGBLAW LED",
+  "beamDeg": [
+   95,
+   95
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "2x2",
+  "sizeMm": [
+   420,
+   471,
+   240
+  ],
+  "weightKg": 17.7,
+  "url": "https://www.elationlighting.com/products/sol-iv-blinder",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "24 DMX-Modi"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "SŌL I Strobe",
+  "kind": "strobe",
+  "light": "(252) 5W CW Strobe LEDs in 8 Zones",
+  "beamDeg": [
+   108,
+   108
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   12,
+   23,
+   40,
+   80,
+   57
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "8 Zonen",
+  "sizeMm": [
+   170,
+   170,
+   195
+  ],
+  "weightKg": 3.2,
+  "url": "https://www.elationlighting.com/products/sol-i-strobe",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Paladin",
+  "kind": "blinder",
+  "light": "(24) 40W 4-in-1 RGBW LEDs",
+  "beamDeg": [
+   6,
+   32
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   33
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   233,
+   408,
+   478
+  ],
+  "weightKg": 20.9,
+  "url": "https://www.elationlighting.com/products/paladin",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:elation/paladin",
+  "notes": "Wash/Strobe/Blinder"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Paladin Panel",
+  "kind": "blinder",
+  "light": "50x 15W RGBW LED Emitters",
+  "beamDeg": [
+   25.2,
+   25.2
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   88
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   148,
+   348,
+   531
+  ],
+  "weightKg": 15,
+  "url": "https://www.elationlighting.com/products/paladin-panel",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "88 Kanäle gesamt (11 Modi)"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Paladin Brick",
+  "kind": "blinder",
+  "light": "24x 15W RGBW LED Emitters",
+  "beamDeg": [
+   25.3,
+   25.3
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   56
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   147,
+   286,
+   438
+  ],
+  "weightKg": 9.5,
+  "url": "https://www.elationlighting.com/products/paladin-brick",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "56 Kanäle gesamt (11 Modi)"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Paladin Cube",
+  "kind": "blinder",
+  "light": "9x 15W RGBW LED Emitters",
+  "beamDeg": [
+   30,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   32
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "3x3",
+  "sizeMm": null,
+  "weightKg": 4.75,
+  "url": "https://www.elationlighting.com/products/paladin-cube",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "32 Kanäle gesamt (11 Modi)"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "CUEPIX 16IP DTW",
+  "kind": "blinder",
+  "light": "4x4 Matrix Array of 16x40W DTW COB LEDs",
+  "beamDeg": [
+   22.6,
+   22.6
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   64
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "4x4",
+  "sizeMm": [
+   207,
+   440,
+   440
+  ],
+  "weightKg": 15,
+  "url": "https://www.elationlighting.com/products/cuepix-16ip-dtw",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "64 Kanäle gesamt (7 Modi), IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "DTW Blinder 350 IP",
+  "kind": "blinder",
+  "light": "(2) 175W 2-in-1 Warm White/Amber COB LEDs",
+  "beamDeg": [
+   65,
+   65
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": "2",
+  "sizeMm": [
+   241,
+   245,
+   400
+  ],
+  "weightKg": 8.2,
+  "url": "https://www.elationlighting.com/products/dtw-blinder-350-ip",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65, Dim-to-Warm"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "DTW Blinder 700 IP",
+  "kind": "blinder",
+  "light": "(4) 175W 2-in-1 Warm White/Amber COB LEDs",
+  "beamDeg": [
+   67,
+   67
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": "2x2",
+  "sizeMm": [
+   244,
+   410,
+   400
+  ],
+  "weightKg": 12.7,
+  "url": "https://www.elationlighting.com/products/dtw-blinder-700-ip",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65, Dim-to-Warm"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Pulse Panel",
+  "kind": "strobe",
+  "light": "(1152) 1.5W RGB LED's in 24 Zones (432) 5W CW Strobe LED's in 48 Zones",
+  "beamDeg": [
+   112,
+   112
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   12,
+   22,
+   45,
+   60,
+   170,
+   88,
+   178,
+   156
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "24 RGB-Zonen + 48 Strobe-Zonen",
+  "sizeMm": [
+   299,
+   210,
+   420
+  ],
+  "weightKg": 13.4,
+  "url": "https://www.elationlighting.com/products/pulse-panel",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Pulse Panel FX",
+  "kind": "strobe",
+  "light": "(1152) 1.5W RGB LED's in 24 Zones (432) 5W CW Strobe LED's in 48 Zones",
+  "beamDeg": [
+   112,
+   112
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   8,
+   16,
+   27,
+   50,
+   62,
+   65,
+   175,
+   90,
+   93,
+   183,
+   161,
+   156
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   420,
+   396,
+   210
+  ],
+  "weightKg": 17.5,
+  "url": "https://www.elationlighting.com/products/pulse-panel-fx",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "motorisiert (180°/180° lt. Seite)"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Pulse Bar S",
+  "kind": "strobe",
+  "light": "(480) 1.5W RGB LED's in 20 Zones (200) 5W CW Strobe LED's in 10 Zones",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   11,
+   22,
+   34,
+   52,
+   124,
+   77,
+   132,
+   110
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "20 RGB-Zonen + 10 Strobe-Zonen",
+  "sizeMm": [
+   200,
+   206,
+   501
+  ],
+  "weightKg": 7.2,
+  "url": "https://www.elationlighting.com/products/pulse-bar-s",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Pulse Bar L",
+  "kind": "strobe",
+  "light": "(960) 1.5W RGB LED's in 40 Zones (400) 5W CW Strobe LED's in 40 Zones",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   11,
+   22,
+   52,
+   92,
+   234,
+   132,
+   242,
+   220
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "40 RGB-Zonen + 40 Strobe-Zonen",
+  "sizeMm": [
+   176,
+   205,
+   1000
+  ],
+  "weightKg": 12.5,
+  "url": "https://www.elationlighting.com/products/pulse-bar-l",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Pixel Bar 120IP",
+  "kind": "bar",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   34,
+   83,
+   1928
+  ],
+  "weightKg": 2,
+  "url": "https://www.elationlighting.com/products/pixel-bar-120ip",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Pixel Wash 40IP",
+  "kind": "par",
+  "light": "4 in 1, 10W RGBW LEDs",
+  "beamDeg": [
+   60,
+   60
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   177,
+   167,
+   133
+  ],
+  "weightKg": 1.56,
+  "url": "https://www.elationlighting.com/products/pixel-wash-40ip",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "TVL Panel DW",
+  "kind": "panel",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   7
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   321,
+   691,
+   872
+  ],
+  "weightKg": 12.7,
+  "url": "https://www.elationlighting.com/products/tvl-panel-dw",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Studio-Softlight (Dim-to-Warm)"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Prisma Par 20",
+  "kind": "par",
+  "light": "(12) 2W High Power UV Diode LEDs",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   151,
+   247,
+   218
+  ],
+  "weightKg": 2.4,
+  "url": "https://www.elationlighting.com/products/prisma-par-20",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "UV"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Prisma Par 50",
+  "kind": "par",
+  "light": "(16) 2W High Power UV Diode LEDs",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   150,
+   314,
+   192
+  ],
+  "weightKg": 3.2,
+  "url": "https://www.elationlighting.com/products/prisma-par-50",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "UV"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Prisma Wash 100",
+  "kind": "flood",
+  "light": "(38) 2W High Power UV Diode LEDs",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   148,
+   287,
+   438
+  ],
+  "weightKg": 8.4,
+  "url": "https://www.elationlighting.com/products/prisma-wash-100",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "UV"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Artiste Picasso",
+  "kind": "profile",
+  "light": "620W 6,800K Cool White LED Engine",
+  "beamDeg": [
+   7,
+   55
+  ],
+  "pan": 540,
+  "tilt": 246,
+  "channels": [
+   36,
+   62
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot",
+   "gobo-static",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   544,
+   757,
+   457
+  ],
+  "weightKg": 38.1,
+  "url": "https://www.elationlighting.com/products/artiste-picasso",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "vd:elation/artiste-picasso",
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Artiste DaVinci",
+  "kind": "spot",
+  "light": "270W Cool White 12,000 Lumen LED Spot",
+  "beamDeg": [
+   6,
+   48
+  ],
+  "pan": 540,
+  "tilt": 255,
+  "channels": [
+   40
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot",
+   "gobo-static",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   284,
+   645,
+   416
+  ],
+  "weightKg": 25.4,
+  "url": "https://www.elationlighting.com/products/artiste-davinci",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "40 Kanäle gesamt (3 Modi)"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Artiste Van Gogh",
+  "kind": "wash",
+  "light": "380W 6500K LED Engine",
+  "beamDeg": [
+   11,
+   66
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   22,
+   36
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 28.5,
+  "url": "https://www.elationlighting.com/products/artiste-van-gogh",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Proteus Hybrid",
+  "kind": "hybrid",
+  "light": "Philips MSD 21R 470W CRI 80 8,000K Lamp and Advanced Optics",
+  "beamDeg": [
+   2.1,
+   21.5
+  ],
+  "pan": 540,
+  "tilt": 265,
+  "channels": [
+   24,
+   26,
+   37
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot",
+   "gobo-static",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   571,
+   805,
+   465
+  ],
+  "weightKg": 38,
+  "url": "https://www.elationlighting.com/products/proteus-hybrid",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:elation/proteus-hybrid",
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Proteus Beam",
+  "kind": "beam",
+  "light": "Philips MSD Platinum 14R 280W 80CRI 7,800K Lamp",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   28
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-static",
+   "prism",
+   "frost"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   454,
+   680,
+   445
+  ],
+  "weightKg": 35,
+  "url": "https://www.elationlighting.com/products/proteus-beam",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:elation/proteus-beam",
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Proteus Smarty Hybrid",
+  "kind": "hybrid",
+  "light": "Philips MSD Platinum 200 Flex 280W Lamp",
+  "beamDeg": [
+   1,
+   18
+  ],
+  "pan": 540,
+  "tilt": 262,
+  "channels": [
+   20,
+   34
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-rot",
+   "gobo-static",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   459,
+   685,
+   445
+  ],
+  "weightKg": 35.5,
+  "url": "https://www.elationlighting.com/products/proteus-smarty-hybrid",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Satura Profile",
+  "kind": "profile",
+  "light": "440W Cool White 15,000 Lumen LED Spot",
+  "beamDeg": [
+   11,
+   38
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   33,
+   35,
+   54
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   525,
+   745,
+   450
+  ],
+  "weightKg": 34,
+  "url": "https://www.elationlighting.com/products/satura-profile",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Satura Spot LED Pro",
+  "kind": "spot",
+  "light": "300W LED Engine",
+  "beamDeg": [
+   14,
+   32
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   22,
+   24,
+   32
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "gobo-rot",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   508,
+   721,
+   430
+  ],
+  "weightKg": 29.5,
+  "url": "https://www.elationlighting.com/products/satura-spot-led-pro",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Fuze Wash Z350",
+  "kind": "wash",
+  "light": "350W RGBW COB LED",
+  "beamDeg": [
+   6,
+   46
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "channels": [
+   19
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   294,
+   578,
+   414
+  ],
+  "weightKg": 20.4,
+  "url": "https://www.elationlighting.com/products/fuze-wash-z350",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:elation/fuze-wash-z350",
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Fuze Wash 575",
+  "kind": "wash",
+  "light": "350W 95CRI 6,800K Cool White / Daylight COB LED",
+  "beamDeg": [
+   11,
+   40
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   11
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   229,
+   466,
+   338
+  ],
+  "weightKg": 12.2,
+  "url": "https://www.elationlighting.com/products/fuze-wash-575",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Fuze Profile CW",
+  "kind": "profile",
+  "light": "380W White LED Engine, 91CRI",
+  "beamDeg": [
+   9,
+   43
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   26,
+   40
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-rot",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   252,
+   698,
+   408
+  ],
+  "weightKg": 23.3,
+  "url": "https://www.elationlighting.com/products/fuze-profile-cw",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Platinum Seven",
+  "kind": "wash",
+  "light": "(19) 25W Multi-Chip LEDs (RGBW+Amber+Cyan+UV)",
+  "beamDeg": [
+   5,
+   50
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "channels": [
+   3,
+   24,
+   31,
+   40
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   284,
+   559,
+   418
+  ],
+  "weightKg": 21.3,
+  "url": "https://www.elationlighting.com/products/platinum-seven",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:elation/platinum-seven",
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Platinum FLX",
+  "kind": "hybrid",
+  "light": "Philips MSD Platinum 20R 470W Lamp",
+  "beamDeg": [
+   1.8,
+   18
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   24,
+   26,
+   37
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "gobo-rot",
+   "gobo-static",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   532,
+   762,
+   466
+  ],
+  "weightKg": 34,
+  "url": "https://www.elationlighting.com/products/platinum-flx",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Platinum HFX",
+  "kind": "hybrid",
+  "light": "New Philips MSD Platinum 14R 280W 80CRI Lamp",
+  "beamDeg": [
+   2.3,
+   15
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   17,
+   19,
+   26
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-rot",
+   "gobo-static",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   292,
+   686,
+   406
+  ],
+  "weightKg": 22.7,
+  "url": "https://www.elationlighting.com/products/platinum-hfx",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:elation/platinum-hfx",
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Platinum SBX",
+  "kind": "hybrid",
+  "light": "Phillips MSD Platinum 17 RA 350W Lamp",
+  "beamDeg": [
+   3,
+   18
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   16,
+   18,
+   25
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "gobo-rot",
+   "gobo-static",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   502,
+   730,
+   359
+  ],
+  "weightKg": 33.1,
+  "url": "https://www.elationlighting.com/products/platinum-sbx",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Platinum BX",
+  "kind": "beam",
+  "light": "Phillips MSD Platinum 17 RA 350W Lamp",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   14,
+   16,
+   22
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-static",
+   "prism",
+   "frost"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   370,
+   588,
+   380
+  ],
+  "weightKg": 27,
+  "url": "https://www.elationlighting.com/products/platinum-bx",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Platinum Beam 5R",
+  "kind": "beam",
+  "light": "Philips MSD 189W Platinum 5R Lamp",
+  "beamDeg": [
+   2.5,
+   2.5
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "colorwheel",
+   "gobo-static",
+   "prism",
+   "frost"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.elationlighting.com/products/platinum-beam-5r",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:elation/platinum-beam-5r",
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Platinum Beam 5R Extreme",
+  "kind": "beam",
+  "light": "Philips 189W Platinum 5R Lamp",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 630,
+  "channels": [
+   3,
+   12,
+   14,
+   18
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-static",
+   "prism",
+   "frost"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   329,
+   509,
+   352
+  ],
+  "weightKg": 20,
+  "url": "https://www.elationlighting.com/products/platinum-beam-5r-extreme",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Platinum Spot 5R",
+  "kind": "spot",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "colorwheel",
+   "gobo-rot",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.elationlighting.com/products/platinum-spot-5r",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:elation/platinum-spot-5r",
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Platinum Spot 15R Pro",
+  "kind": "spot",
+  "light": "New 300W MSD Platinum 15R Lamp",
+  "beamDeg": [
+   9,
+   27
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "gobo-rot",
+   "gobo-static",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.elationlighting.com/products/platinum-spot-15r-pro",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:elation/platinum-spot-15r-pro",
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Platinum Beam 15R Pro",
+  "kind": "beam",
+  "light": "Philips MSD Platinum 15R Lamp technology 300W",
+  "beamDeg": [
+   4.8,
+   4.8
+  ],
+  "pan": 630,
+  "tilt": 265,
+  "channels": [],
+  "features": [
+   "colorwheel",
+   "gobo-static",
+   "prism",
+   "frost"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   350,
+   380,
+   570
+  ],
+  "weightKg": 23,
+  "url": "https://www.elationlighting.com/products/platinum-beam-15r-pro",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Platinum Wash 16R Pro",
+  "kind": "wash",
+  "light": "New 330W Phillips Platinum 16R Lamp",
+  "beamDeg": [
+   3,
+   14
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   17,
+   19,
+   26
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 21.8,
+  "url": "https://www.elationlighting.com/products/platinum-wash-16r-pro",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Platinum Profile 35 Pro",
+  "kind": "profile",
+  "light": null,
+  "beamDeg": [
+   8,
+   50
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   36,
+   38,
+   59
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   447,
+   726,
+   506
+  ],
+  "weightKg": 40,
+  "url": "https://www.elationlighting.com/products/platinum-profile-35-pro",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Platinum Spot 35 Pro",
+  "kind": "spot",
+  "light": null,
+  "beamDeg": [
+   8,
+   50
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   27,
+   29,
+   41
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   507,
+   727,
+   447
+  ],
+  "weightKg": 36,
+  "url": "https://www.elationlighting.com/products/platinum-spot-35-pro",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Platinum Wash ZFX Pro",
+  "kind": "wash",
+  "light": "• 285W total LED Engines compare to 700W Wash fixtures in output",
+  "beamDeg": [
+   9,
+   21
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.elationlighting.com/products/platinum-wash-zfx-pro",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Platinum Spot LED Pro II",
+  "kind": "spot",
+  "light": "170W Cool White LED Engine",
+  "beamDeg": [
+   15,
+   33
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   17,
+   15,
+   22
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-rot",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   375,
+   601,
+   384
+  ],
+  "weightKg": 21,
+  "url": "https://www.elationlighting.com/products/platinum-spot-led-pro-ii",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Platinum Spot III",
+  "kind": "spot",
+  "light": "230W Cool White LED Engine",
+  "beamDeg": [
+   16,
+   32
+  ],
+  "pan": 540,
+  "tilt": 255,
+  "channels": [
+   3,
+   18,
+   20,
+   27
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-rot",
+   "prism",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   384,
+   601,
+   375
+  ],
+  "weightKg": 20.8,
+  "url": "https://www.elationlighting.com/products/platinum-spot-iii",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:elation/platinum-spot-iii",
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Rayzor 760",
+  "kind": "wash",
+  "light": "7x 60W OSRAM RGBW LED",
+  "beamDeg": [
+   5,
+   77
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   25,
+   52,
+   80
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "7 (Hex)",
+  "sizeMm": [
+   218,
+   423,
+   340
+  ],
+  "weightKg": 12.2,
+  "url": "https://www.elationlighting.com/products/rayzor-760",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "vd:elation/rayzor-760",
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Rayzor Q7",
+  "kind": "wash",
+  "light": "(7) 15W QUAD Color RGBW LEDs",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   15,
+   17,
+   29
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   276,
+   421,
+   295
+  ],
+  "weightKg": 10,
+  "url": "https://www.elationlighting.com/products/rayzor-q7",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:elation/rayzor-q7",
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Rayzor Q12 Zoom",
+  "kind": "wash",
+  "light": "(12) 15W Quad Color RGBW LEDs",
+  "beamDeg": [
+   13,
+   29
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   17,
+   20,
+   28
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 10.4,
+  "url": "https://www.elationlighting.com/products/rayzor-q12-zoom",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Rayzor 360Z",
+  "kind": "wash",
+  "light": "(3) 60W Osram RGBW LEDs",
+  "beamDeg": [
+   8,
+   77
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   3,
+   20,
+   26,
+   32
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   200,
+   422,
+   281
+  ],
+  "weightKg": 7.7,
+  "url": "https://www.elationlighting.com/products/rayzor-360z",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Rayzor Beam 2R",
+  "kind": "beam",
+  "light": "132W Platinum 2R Lamp",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 630,
+  "channels": [
+   3,
+   10,
+   12,
+   16
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-static",
+   "prism"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   245,
+   421,
+   295
+  ],
+  "weightKg": 10.4,
+  "url": "https://www.elationlighting.com/products/rayzor-beam-2r",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Sniper 2R",
+  "kind": "effect",
+  "light": "132W Platinum 2R Lamp",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   14,
+   16,
+   18
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-static",
+   "prism"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   305,
+   295,
+   361
+  ],
+  "weightKg": 9.5,
+  "url": "https://www.elationlighting.com/products/sniper-2r",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:elation/sniper-2r",
+  "notes": "Scanner-Beam-Effekt"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Sniper Pro",
+  "kind": "effect",
+  "light": "Philips MSD Platinum 14R 280W Lamp",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   25,
+   27
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-static",
+   "prism"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   353,
+   351,
+   408
+  ],
+  "weightKg": 13.2,
+  "url": "https://www.elationlighting.com/products/sniper-pro",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Scanner-Beam-Effekt"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "ACL 360 Bar",
+  "kind": "tiltbar",
+  "light": "(7) 15W RGBW 4-in-1 LEDs",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   17,
+   19,
+   43
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   184,
+   258,
+   575
+  ],
+  "weightKg": 10,
+  "url": "https://www.elationlighting.com/products/acl-360-bar",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Einzelköpfe endlos rotierend"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "ACL 360 Matrix",
+  "kind": "matrixhead",
+  "light": "(25) 15W RGBW 4-in-1 LEDs",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   17,
+   19,
+   115
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   350,
+   583,
+   481
+  ],
+  "weightKg": 19,
+  "url": "https://www.elationlighting.com/products/acl-360-matrix",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "ACL 360 Roller",
+  "kind": "tiltbar",
+  "light": "(20) Pixel Controlled 15W RGBW 4-in-1 LEDs",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   17,
+   19,
+   95
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   260,
+   541,
+   481
+  ],
+  "weightKg": 20,
+  "url": "https://www.elationlighting.com/products/acl-360-roller",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:elation/acl-360-roller",
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "ACL 360i",
+  "kind": "beam",
+  "light": "60W RGBW 4-in-1 LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   16,
+   18,
+   20
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   186,
+   330,
+   222
+  ],
+  "weightKg": 5.2,
+  "url": "https://www.elationlighting.com/products/acl-360i",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Pan/Tilt endlos"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "ZCL 360 Bar",
+  "kind": "tiltbar",
+  "light": "(5) 60W RGBW 4-in-1 LED",
+  "beamDeg": [
+   4,
+   44
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   37
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   260,
+   459,
+   638
+  ],
+  "weightKg": 24,
+  "url": "https://www.elationlighting.com/products/zcl-360-bar",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "CUEPIX Panel",
+  "kind": "blinder",
+  "light": "5x5 Array of 25 25W 3-in-1 RGB COB LEDs",
+  "beamDeg": [
+   60,
+   60
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   6,
+   7,
+   75,
+   79
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   130,
+   650,
+   630
+  ],
+  "weightKg": 16.5,
+  "url": "https://www.elationlighting.com/products/cuepix-panel",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "CUEPIX 16IP",
+  "kind": "blinder",
+  "light": "4x4 Array of 16 30W 4-in-1 RGBA COB LEDs",
+  "beamDeg": [
+   62,
+   62
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   128
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "4x4",
+  "sizeMm": [
+   206,
+   440,
+   440
+  ],
+  "weightKg": 15,
+  "url": "https://www.elationlighting.com/products/cuepix-16ip",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "128 Kanäle gesamt (14 Modi)"
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "CUEPIX Batten",
+  "kind": "bar",
+  "light": "(10) 30W 3-in-1 COB LEDs",
+  "beamDeg": [
+   82,
+   82
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   4,
+   6,
+   9,
+   30,
+   33,
+   36,
+   60
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   121,
+   172,
+   1100
+  ],
+  "weightKg": 9.5,
+  "url": "https://www.elationlighting.com/products/cuepix-batten",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:elation/cuepix-batten",
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "CUEPIX Blinder WW2",
+  "kind": "blinder",
+  "light": "(2) 100W Warm White 3,200K COB LEDs",
+  "beamDeg": [
+   60,
+   60
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   181,
+   260,
+   472
+  ],
+  "weightKg": 5.1,
+  "url": "https://www.elationlighting.com/products/cuepix-blinder-ww2",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:elation/cuepix-blinder-ww2",
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "CUEPIX Blinder WW4",
+  "kind": "blinder",
+  "light": "(4) 100W Warm White 3,200K COB LEDs",
+  "beamDeg": [
+   62,
+   62
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   4,
+   5,
+   7,
+   9
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   174,
+   441,
+   400
+  ],
+  "weightKg": 9.5,
+  "url": "https://www.elationlighting.com/products/cuepix-blinder-ww4",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:elation/cuepix-blinder-ww4",
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Protron 3K Color",
+  "kind": "strobe",
+  "light": "(240) CREE XLamp 3W LEDs (60 each color-RGBW)",
+  "beamDeg": [
+   63,
+   63
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   3,
+   5,
+   7,
+   8
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   150,
+   357,
+   506
+  ],
+  "weightKg": 11,
+  "url": "https://www.elationlighting.com/products/protron-3k-color-led-strobe",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Protron Eclypse",
+  "kind": "strobe",
+  "light": "High Powered 1000W Air Cooled IPX4 Outdoor Rated",
+  "beamDeg": [
+   31,
+   31
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   24
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   178,
+   365,
+   633
+  ],
+  "weightKg": 15.7,
+  "url": "https://www.elationlighting.com/products/protron-eclypse",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "ZW19",
+  "kind": "wash",
+  "light": "(19) 10W RGBW 4-in-1 LEDs",
+  "beamDeg": [
+   10,
+   60
+  ],
+  "pan": 540,
+  "tilt": 220,
+  "channels": [
+   2,
+   14,
+   22
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   206,
+   395,
+   321
+  ],
+  "weightKg": 8.6,
+  "url": "https://www.elationlighting.com/products/zw19",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:elation/zw19",
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "ZW37",
+  "kind": "wash",
+  "light": "(37) 15W RGBW 4-in-1 LEDs",
+  "beamDeg": [
+   10,
+   60
+  ],
+  "pan": 540,
+  "tilt": 220,
+  "channels": [
+   3,
+   14,
+   22,
+   42
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   304,
+   512,
+   430
+  ],
+  "weightKg": 19.5,
+  "url": "https://www.elationlighting.com/products/zw37",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Level Q7 IP",
+  "kind": "par",
+  "light": null,
+  "beamDeg": [
+   7,
+   7
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   279,
+   279,
+   279
+  ],
+  "weightKg": 4,
+  "url": "https://www.elationlighting.com/products/level-q7-ip",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Arena Zoom Q7IP",
+  "kind": "par",
+  "light": "(7) 30W Osram Quad-Color RGBW LEDs",
+  "beamDeg": [
+   7,
+   40
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   12
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   245,
+   197,
+   316
+  ],
+  "weightKg": 8.6,
+  "url": "https://www.elationlighting.com/products/arena-zoom-q7ip",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Opti Tri Par",
+  "kind": "par",
+  "light": "18 x 3W Tri Color LED Par available in Black or White housing",
+  "beamDeg": [
+   25,
+   25
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   292,
+   216,
+   216
+  ],
+  "weightKg": 4.9,
+  "url": "https://www.elationlighting.com/products/opti-tri-par",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "DTW Par 300",
+  "kind": "par",
+  "light": "(16) 10W Multi-Chip CW / WW / Amber LEDs",
+  "beamDeg": [
+   23,
+   23
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   129,
+   373,
+   365
+  ],
+  "weightKg": 8.6,
+  "url": "https://www.elationlighting.com/products/dtw-par-300",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "DTW Bar 1000",
+  "kind": "bar",
+  "light": "12 x 10W Multi-Chip Cool White/Warm White/Amber LEDs",
+  "beamDeg": [
+   20,
+   20
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   72
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   206,
+   155,
+   900
+  ],
+  "weightKg": 6.4,
+  "url": "https://www.elationlighting.com/products/dtw-bar-1000",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "DW Fresnel",
+  "kind": "fresnel",
+  "light": "250W Dynamic White LED Engine",
+  "beamDeg": [
+   13,
+   41
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   3,
+   8
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   264,
+   453,
+   595
+  ],
+  "weightKg": 10.9,
+  "url": "https://www.elationlighting.com/products/dw-fresnel",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:elation/dw-fresnel",
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "DW Profile",
+  "kind": "ellipsoidal",
+  "light": "250W Dynamic LED Engine >93CRI",
+  "beamDeg": [
+   17,
+   27
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   7,
+   2,
+   3,
+   8
+  ],
+  "features": [
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   325,
+   458,
+   764
+  ],
+  "weightKg": 13.6,
+  "url": "https://www.elationlighting.com/products/dw-profile",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "WW Profile",
+  "kind": "ellipsoidal",
+  "light": "130W Warm White 3,000K LED Engine",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   4
+  ],
+  "features": [
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   310,
+   398,
+   618
+  ],
+  "weightKg": 9.5,
+  "url": "https://www.elationlighting.com/products/ww-profile",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Six Par Z19 IP",
+  "kind": "par",
+  "light": "(19) 15W 6-in-1 RGBAW+UV LEDs",
+  "beamDeg": [
+   5,
+   45
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   14
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   305,
+   396,
+   363
+  ],
+  "weightKg": 12.2,
+  "url": "https://www.elationlighting.com/products/six-par-z19-ip",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:elation/six-par-z19-ip",
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "SixPar 200",
+  "kind": "par",
+  "light": "(12) 12W 6-in-1 RGBAW+UV LEDs",
+  "beamDeg": [
+   15,
+   15
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   6,
+   7,
+   8,
+   12
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   125,
+   300,
+   313
+  ],
+  "weightKg": 8.1,
+  "url": "https://www.elationlighting.com/products/sixpar-200",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:elation/sixpar-200",
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "SixPar 100",
+  "kind": "par",
+  "light": "(7) 12W 6-in-1 RGBAW+UV LEDs",
+  "beamDeg": [
+   15,
+   15
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   6,
+   7,
+   8,
+   12
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   125,
+   243,
+   257
+  ],
+  "weightKg": 3.3,
+  "url": "https://www.elationlighting.com/products/sixpar-100",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:elation/sixpar-100",
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "TVL Cyc RGBW",
+  "kind": "flood",
+  "light": "150W COB RGBW LED",
+  "beamDeg": [
+   90,
+   90
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   4,
+   7,
+   8,
+   10,
+   14
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   364,
+   419,
+   425
+  ],
+  "weightKg": 5.9,
+  "url": "https://www.elationlighting.com/products/tvl-cyc-rgbw",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:elation/tvl-cyc-rgbw",
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "TVL Softlight DW",
+  "kind": "panel",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   7
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   315,
+   425,
+   673
+  ],
+  "weightKg": 8.2,
+  "url": "https://www.elationlighting.com/products/tvl-softlight-dw",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Design Spot 575E",
+  "kind": "spot",
+  "light": null,
+  "beamDeg": [
+   15,
+   30
+  ],
+  "pan": 630,
+  "tilt": 265,
+  "channels": [],
+  "features": [
+   "colorwheel",
+   "gobo-rot",
+   "prism",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.elationlighting.com/products/design-spot-575e",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Design Wash 575E",
+  "kind": "wash",
+  "light": "• Lamp: Philips MSR-575/SA2DE (575W, 6500? K, 500 hrs)",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "cmy",
+   "colorwheel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   475,
+   365,
+   620
+  ],
+  "weightKg": 30,
+  "url": "https://www.elationlighting.com/products/design-wash-575e",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "Power Spot 700 CMY II",
+  "kind": "spot",
+  "light": null,
+  "beamDeg": [
+   14,
+   32
+  ],
+  "pan": 540,
+  "tilt": 280,
+  "channels": [],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "gobo-rot",
+   "prism",
+   "iris",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   483,
+   356,
+   737
+  ],
+  "weightKg": 28.5,
+  "url": "https://www.elationlighting.com/products/power-spot-700-cmy-ii",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Elation Professional",
+  "model": "E Spot III",
+  "kind": "spot",
+  "light": "90W Cool White Solid State LED Spot",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 230,
+  "channels": [
+   3,
+   14,
+   16,
+   20
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-rot",
+   "prism",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   243,
+   435,
+   301
+  ],
+  "weightKg": 10.4,
+  "url": "https://www.elationlighting.com/products/e-spot-iii",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:elation/e-spot-iii",
+  "notes": null
+ }
+]

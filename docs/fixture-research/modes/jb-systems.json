@@ -1,0 +1,2646 @@
+[
+ {
+  "man": "JB Systems",
+  "key": "accu-color-black",
+  "model": "ACCU COLOR-BLACK",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbwa"
+  ],
+  "deg": [
+   22,
+   25
+  ],
+  "ch": [
+   4,
+   10
+  ],
+  "size": [
+   167,
+   138,
+   185
+  ],
+  "url": "https://jb-systems.eu/accu-color-black",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "accu-color-white",
+  "model": "ACCU COLOR-WHITE",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbwa"
+  ],
+  "deg": [
+   22,
+   25
+  ],
+  "ch": [
+   4,
+   10
+  ],
+  "size": [
+   167,
+   138,
+   185
+  ],
+  "url": "https://jb-systems.eu/accu-color",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "accu-decolite-ip",
+  "model": "ACCU DECOLITE IP",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   10,
+   10
+  ],
+  "ch": [
+   10
+  ],
+  "size": [
+   172,
+   138,
+   62
+  ],
+  "url": "https://jb-systems.eu/accu-decolite-ip",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "accu-mini-par-12tc-mk2",
+  "model": "ACCU MINI-PAR 12TC Mk2",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   3,
+   5
+  ],
+  "size": [
+   150,
+   160,
+   90
+  ],
+  "url": "https://jb-systems.eu/accu-mini-par-12tc-mk2",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "accu-compact",
+  "model": "ACCU-COMPACT",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbwa"
+  ],
+  "deg": [
+   25,
+   40
+  ],
+  "ch": [
+   10
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   165,
+   138,
+   129
+  ],
+  "url": "https://jb-systems.eu/accu-compact",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "alien",
+  "model": "ALIEN",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbwauv"
+  ],
+  "ch": [
+   3,
+   28
+  ],
+  "size": [
+   340,
+   310,
+   190
+  ],
+  "url": "https://jb-systems.eu/alien",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "cam-lite-200",
+  "model": "CAM-LITE 200",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   110,
+   110
+  ],
+  "ch": [
+   2,
+   4
+  ],
+  "size": [
+   550,
+   270,
+   125
+  ],
+  "url": "https://jb-systems.eu/cam-lite-200",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "cam-spot-50tw",
+  "model": "CAM-SPOT 50TW",
+  "kind": "par",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   14,
+   22
+  ],
+  "ch": [
+   2,
+   4
+  ],
+  "size": [
+   196,
+   289,
+   199
+  ],
+  "url": "https://jb-systems.eu/cam-spot-50tw",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "challenger-beam",
+  "model": "CHALLENGER BEAM",
+  "kind": "beam",
+  "deg": [
+   3,
+   3
+  ],
+  "ch": [
+   5,
+   27
+  ],
+  "feat": [
+   "gobo:13",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://jb-systems.eu/challenger-beam",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "challenger-wash",
+  "model": "CHALLENGER WASH",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   5,
+   60
+  ],
+  "ch": [
+   5,
+   43
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://jb-systems.eu/challenger-wash",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "clubspot",
+  "model": "CLUBSPOT",
+  "kind": "spot",
+  "deg": [
+   12,
+   12
+  ],
+  "ch": [
+   5,
+   11
+  ],
+  "feat": [
+   "focus"
+  ],
+  "url": "https://jb-systems.eu/clubspot",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "clubwash-2",
+  "model": "CLUBWASH 2",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbwauv"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   5,
+   15
+  ],
+  "url": "https://jb-systems.eu/clubwash-2",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "clubwash-mini",
+  "model": "CLUBWASH MINI",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbwauv"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   5,
+   15
+  ],
+  "url": "https://jb-systems.eu/clubwash-mini",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "delusion",
+  "model": "DELUSION",
+  "kind": "effect",
+  "deg": [
+   80,
+   80
+  ],
+  "ch": [
+   3,
+   7
+  ],
+  "feat": [
+   "focus"
+  ],
+  "size": [
+   308,
+   186,
+   199
+  ],
+  "url": "https://jb-systems.eu/delusion",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "explorer-spot",
+  "model": "EXPLORER SPOT",
+  "kind": "spot",
+  "deg": [
+   11,
+   17
+  ],
+  "ch": [
+   5,
+   18
+  ],
+  "feat": [
+   "gobo:6",
+   "gobor",
+   "prism",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://jb-systems.eu/explorer-spot",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "hexagon-3d",
+  "model": "HEXAGON 3D",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   3,
+   9
+  ],
+  "size": [
+   404,
+   352,
+   97
+  ],
+  "url": "https://jb-systems.eu/hexagon-3d",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "intruder",
+  "model": "INTRUDER",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   5,
+   30
+  ],
+  "ch": [
+   7,
+   21
+  ],
+  "feat": [
+   "zoom",
+   "focus"
+  ],
+  "url": "https://jb-systems.eu/intruder",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "invader",
+  "model": "INVADER",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   1,
+   9
+  ],
+  "size": [
+   240,
+   220,
+   110
+  ],
+  "url": "https://jb-systems.eu/invader",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "kinetic",
+  "model": "KINETIC",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   1,
+   21
+  ],
+  "size": [
+   220,
+   220,
+   170
+  ],
+  "url": "https://jb-systems.eu/kinetic",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-globe",
+  "model": "LED GLOBE",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   1,
+   19
+  ],
+  "size": [
+   400,
+   400,
+   510
+  ],
+  "url": "https://jb-systems.eu/led-globe",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-par12-6in1",
+  "model": "LED PAR12-6in1",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   17,
+   17
+  ],
+  "ch": [
+   2,
+   9
+  ],
+  "size": [
+   340,
+   270,
+   220
+  ],
+  "url": "https://jb-systems.eu/led-par12-6in1",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-par64fc-zoom",
+  "model": "LED PAR64FC ZOOM",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   9,
+   30
+  ],
+  "ch": [
+   4,
+   7
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   470,
+   270,
+   220
+  ],
+  "url": "https://jb-systems.eu/led-par64fc-zoom",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-plano-6in1",
+  "model": "LED PLANO 6in1",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbwauv"
+  ],
+  "deg": [
+   30,
+   30
+  ],
+  "ch": [
+   2,
+   9
+  ],
+  "size": [
+   210,
+   130,
+   230
+  ],
+  "url": "https://jb-systems.eu/led-plano-6in1",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-plano-7fc-black",
+  "model": "LED PLANO 7FC-BLACK",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   30,
+   30
+  ],
+  "ch": [
+   2,
+   7
+  ],
+  "size": [
+   210,
+   120,
+   220
+  ],
+  "url": "https://jb-systems.eu/led-plano-7fc-black",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-plano-7fc-white",
+  "model": "LED PLANO 7FC-WHITE",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   30,
+   30
+  ],
+  "ch": [
+   2,
+   7
+  ],
+  "size": [
+   210,
+   120,
+   220
+  ],
+  "url": "https://jb-systems.eu/led-plano-7fc-white",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-plano12-6in1",
+  "model": "LED PLANO12-6in1",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   17,
+   17
+  ],
+  "ch": [
+   2,
+   9
+  ],
+  "size": [
+   310,
+   285,
+   115
+  ],
+  "url": "https://jb-systems.eu/led-plano12-6in1",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-plano5-6in1",
+  "model": "LED PLANO5-6in1",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   17,
+   17
+  ],
+  "ch": [
+   2,
+   9
+  ],
+  "size": [
+   265,
+   245,
+   115
+  ],
+  "url": "https://jb-systems.eu/led-plano5-6in1",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "mini-par-12tc-mk2",
+  "model": "MINI-PAR 12TC Mk2",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   3,
+   5
+  ],
+  "size": [
+   150,
+   160,
+   90
+  ],
+  "url": "https://jb-systems.eu/mini-par-12tc-mk2",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "mini-par-cob-mk2",
+  "model": "MINI-PAR COB Mk2",
+  "kind": "cob",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   3,
+   5
+  ],
+  "size": [
+   150,
+   160,
+   90
+  ],
+  "url": "https://jb-systems.eu/mini-par-cob-mk2",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "party-bar",
+  "model": "PARTY BAR",
+  "kind": "bar",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   15,
+   15
+  ],
+  "ch": [
+   3,
+   27
+  ],
+  "size": [
+   1185,
+   386,
+   110
+  ],
+  "url": "https://jb-systems.eu/party-bar",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "party-derby",
+  "model": "PARTY DERBY",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   1,
+   5
+  ],
+  "size": [
+   190,
+   258,
+   182
+  ],
+  "url": "https://jb-systems.eu/party-derby",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "party-spot",
+  "model": "PARTY SPOT",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   4,
+   8
+  ],
+  "size": [
+   190,
+   190,
+   140
+  ],
+  "url": "https://jb-systems.eu/party-spot",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "pixbar-12tc",
+  "model": "PIXBAR 12TC",
+  "kind": "bar",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   3,
+   41
+  ],
+  "size": [
+   1000,
+   140,
+   80
+  ],
+  "url": "https://jb-systems.eu/pixbar-12tc",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "pixel-pipe",
+  "model": "PIXEL PIPE",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   3,
+   24
+  ],
+  "url": "https://jb-systems.eu/pixel-pipe",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "pixeltube",
+  "model": "PIXELTUBE",
+  "kind": "tube",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   3,
+   266
+  ],
+  "size": [
+   975,
+   60,
+   133
+  ],
+  "url": "https://jb-systems.eu/pixeltube",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "powerball-color",
+  "model": "POWERBALL COLOR",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   1,
+   10
+  ],
+  "size": [
+   243,
+   243,
+   266
+  ],
+  "url": "https://jb-systems.eu/powerball-color",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "powerball-white",
+  "model": "POWERBALL WHITE",
+  "kind": "effect",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "ch": [
+   1,
+   10
+  ],
+  "size": [
+   243,
+   243,
+   266
+  ],
+  "url": "https://jb-systems.eu/powerball-white",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "quadra-move",
+  "model": "QUADRA MOVE",
+  "kind": "spot",
+  "ch": [
+   56
+  ],
+  "url": "https://jb-systems.eu/quadra-move",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 1 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "rave-bar",
+  "model": "RAVE BAR",
+  "kind": "bar",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   1,
+   37
+  ],
+  "size": [
+   1000,
+   67,
+   122
+  ],
+  "url": "https://jb-systems.eu/rave-bar",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "rave-spot",
+  "model": "RAVE SPOT",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   1,
+   22
+  ],
+  "size": [
+   280,
+   275,
+   76
+  ],
+  "url": "https://jb-systems.eu/rave-spot",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "rotogobo-zoom",
+  "model": "ROTOGOBO ZOOM",
+  "kind": "effect",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   20,
+   34
+  ],
+  "ch": [
+   1,
+   4
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   500,
+   150,
+   100
+  ],
+  "url": "https://jb-systems.eu/rotogobo-zoom",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "space-4-mk2-laser",
+  "model": "SPACE-4 Mk2 LASER",
+  "kind": "laser",
+  "ch": [
+   1,
+   8
+  ],
+  "size": [
+   170,
+   150,
+   80
+  ],
+  "url": "https://jb-systems.eu/space-4-mk2-laser",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "spyder-rgb-laser",
+  "model": "SPYDER-RGB LASER",
+  "kind": "laser",
+  "ch": [
+   6,
+   10
+  ],
+  "size": [
+   216,
+   140,
+   110
+  ],
+  "url": "https://jb-systems.eu/spyder-rgb-laser",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "striker",
+  "model": "STRIKER",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   10,
+   10
+  ],
+  "ch": [
+   5,
+   19
+  ],
+  "feat": [
+   "gobo:7",
+   "focus"
+  ],
+  "url": "https://jb-systems.eu/striker",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "sunbar-combi-mk2",
+  "model": "SUNBAR COMBI Mk2",
+  "kind": "bar",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   1,
+   17
+  ],
+  "size": [
+   1000,
+   140,
+   85
+  ],
+  "url": "https://jb-systems.eu/sunbar-combi-mk2",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "sunbar-white-mk2",
+  "model": "SUNBAR WHITE Mk2",
+  "kind": "bar",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   7,
+   7
+  ],
+  "ch": [
+   1,
+   16
+  ],
+  "size": [
+   1000,
+   170,
+   50
+  ],
+  "url": "https://jb-systems.eu/sunbar-white-mk2",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "ufo-x1",
+  "model": "UFO X1",
+  "kind": "ufo",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   1,
+   16
+  ],
+  "size": [
+   265,
+   207,
+   338
+  ],
+  "url": "https://jb-systems.eu/ufo",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "ufo-x4",
+  "model": "UFO X4",
+  "kind": "ufo",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   1,
+   25
+  ],
+  "size": [
+   265,
+   207,
+   360
+  ],
+  "url": "https://jb-systems.eu/ufo-x4",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "vanta-beam",
+  "model": "VANTA BEAM",
+  "kind": "beam",
+  "ch": [
+   5,
+   21
+  ],
+  "feat": [
+   "gobo:13",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://jb-systems.eu/vanta-beam",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "vanta-spot",
+  "model": "VANTA SPOT",
+  "kind": "par",
+  "leds": [
+   1,
+   "white"
+  ],
+  "ch": [
+   5,
+   20
+  ],
+  "feat": [
+   "gobo:8",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   553,
+   222,
+   319
+  ],
+  "url": "https://jb-systems.eu/vanta-spot",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "vector-scan",
+  "model": "VECTOR SCAN",
+  "kind": "effect",
+  "deg": [
+   18,
+   18
+  ],
+  "ch": [
+   5,
+   14
+  ],
+  "feat": [
+   "gobo:7",
+   "gobor",
+   "prism",
+   "focus"
+  ],
+  "size": [
+   251,
+   142,
+   378
+  ],
+  "url": "https://jb-systems.eu/vector-scan",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "accu-decolite",
+  "model": "ACCU DECOLITE",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   10,
+   25
+  ],
+  "ch": [
+   10
+  ],
+  "size": [
+   168,
+   138,
+   62
+  ],
+  "url": "https://jb-systems.eu/accu-decolite",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "accu-mini-par-12tc",
+  "model": "ACCU MINI-PAR 12TC",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   17,
+   17
+  ],
+  "ch": [
+   3,
+   6
+  ],
+  "size": [
+   150,
+   160,
+   90
+  ],
+  "url": "https://jb-systems.eu/accu-mini-par-12tc",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "andromeda-dmx",
+  "model": "ANDROMEDA DMX",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   1
+  ],
+  "size": [
+   244,
+   272,
+   154
+  ],
+  "url": "https://jb-systems.eu/andromeda-dmx",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "apollo-dmx",
+  "model": "APOLLO DMX",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   1
+  ],
+  "size": [
+   363,
+   322,
+   111
+  ],
+  "url": "https://jb-systems.eu/apollo-dmx",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "beam-twister",
+  "model": "BEAM TWISTER",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   4
+  ],
+  "size": [
+   350,
+   352,
+   203
+  ],
+  "url": "https://jb-systems.eu/beam-twister",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "clubwash",
+  "model": "CLUBWASH",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbwauv"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   15
+  ],
+  "url": "https://jb-systems.eu/clubwash",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "dynabarrel",
+  "model": "DYNABARREL",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   1,
+   9
+  ],
+  "size": [
+   331,
+   170,
+   200
+  ],
+  "url": "https://jb-systems.eu/dynabarrel",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "galaxy",
+  "model": "GALAXY",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   1
+  ],
+  "size": [
+   344,
+   350,
+   152
+  ],
+  "url": "https://jb-systems.eu/galaxy",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "genius-2",
+  "model": "GENIUS 2",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   3
+  ],
+  "size": [
+   296,
+   271,
+   140
+  ],
+  "url": "https://jb-systems.eu/genius-2",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "icolor-4",
+  "model": "iCOLOR 4",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   4
+  ],
+  "size": [
+   450,
+   270,
+   175
+  ],
+  "url": "https://jb-systems.eu/icolor-4",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "imove-5s-elc-250w-24v-incl",
+  "model": "iMove 5S (ELC 250W/24V incl.)",
+  "kind": "spot",
+  "deg": [
+   16,
+   16
+  ],
+  "ch": [
+   5
+  ],
+  "feat": [
+   "gobo:15",
+   "gobor"
+  ],
+  "url": "https://jb-systems.eu/imove-5s-elc-250w-24v-incl",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "irock-7s",
+  "model": "iROCK 7S",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   7
+  ],
+  "feat": [
+   "gobo:7",
+   "gobor"
+  ],
+  "size": [
+   70,
+   34,
+   25
+  ],
+  "url": "https://jb-systems.eu/irock-7s",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "laserburst-iii",
+  "model": "LASERBURST III",
+  "kind": "laser",
+  "ch": [
+   11
+  ],
+  "size": [
+   280,
+   180,
+   175
+  ],
+  "url": "https://jb-systems.eu/laserburst-iii",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-clubhead",
+  "model": "LED CLUBHEAD",
+  "kind": "spot",
+  "deg": [
+   17,
+   17
+  ],
+  "ch": [
+   7
+  ],
+  "feat": [
+   "gobo:6",
+   "gobor"
+  ],
+  "url": "https://jb-systems.eu/led-clubhead",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-clubscan",
+  "model": "LED CLUBSCAN",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   5
+  ],
+  "feat": [
+   "gobo:8"
+  ],
+  "size": [
+   196,
+   168,
+   338
+  ],
+  "url": "https://jb-systems.eu/led-clubscan",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-crossfire",
+  "model": "LED CROSSFIRE",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   4
+  ],
+  "size": [
+   457,
+   433,
+   286
+  ],
+  "url": "https://jb-systems.eu/led-crossfire",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-devil-ii",
+  "model": "LED DEVIL II",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   3
+  ],
+  "size": [
+   172,
+   215,
+   195
+  ],
+  "url": "https://jb-systems.eu/led-devil-ii",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-devil-iii",
+  "model": "LED DEVIL III",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   3
+  ],
+  "size": [
+   172,
+   215,
+   195
+  ],
+  "url": "https://jb-systems.eu/led-devil-iii",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-diamond",
+  "model": "LED DIAMOND",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   6
+  ],
+  "url": "https://jb-systems.eu/led-diamond",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-lightbar-4tc",
+  "model": "LED LIGHTBAR 4TC",
+  "kind": "bar",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   15,
+   15
+  ],
+  "ch": [
+   16
+  ],
+  "size": [
+   1060,
+   253,
+   92
+  ],
+  "url": "https://jb-systems.eu/led-lightbar-4tc",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-marvel",
+  "model": "LED MARVEL",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   21
+  ],
+  "size": [
+   68,
+   390,
+   43
+  ],
+  "url": "https://jb-systems.eu/led-marvel",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-microscan-ii",
+  "model": "LED MICROSCAN II",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   5
+  ],
+  "feat": [
+   "gobo:8",
+   "gobor",
+   "gobo2"
+  ],
+  "size": [
+   333,
+   156,
+   177
+  ],
+  "url": "https://jb-systems.eu/led-microscan-ii",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-moon",
+  "model": "LED MOON",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   28
+  ],
+  "size": [
+   195,
+   165,
+   134
+  ],
+  "url": "https://jb-systems.eu/led-moon",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-octo-panel",
+  "model": "LED OCTO PANEL",
+  "kind": "panel",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   27
+  ],
+  "size": [
+   160,
+   20,
+   10
+  ],
+  "url": "https://jb-systems.eu/led-octo-panel",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-par64-black",
+  "model": "LED PAR64/Black",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   15,
+   15
+  ],
+  "ch": [
+   4
+  ],
+  "size": [
+   191,
+   216,
+   205
+  ],
+  "url": "https://jb-systems.eu/led-par64-black",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-par64-silver",
+  "model": "LED PAR64/Silver",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   15,
+   15
+  ],
+  "ch": [
+   4
+  ],
+  "size": [
+   191,
+   216,
+   205
+  ],
+  "url": "https://jb-systems.eu/led-par64-silver",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-pulsar",
+  "model": "LED PULSAR",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   6
+  ],
+  "size": [
+   331,
+   135,
+   170
+  ],
+  "url": "https://jb-systems.eu/led-pulsar",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-quadra-beam",
+  "model": "LED QUADRA BEAM",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   6
+  ],
+  "size": [
+   965,
+   190,
+   82
+  ],
+  "url": "https://jb-systems.eu/led-quadra-beam",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-quadro-panel",
+  "model": "LED QUADRO PANEL",
+  "kind": "panel",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   16
+  ],
+  "size": [
+   500,
+   500,
+   101
+  ],
+  "url": "https://jb-systems.eu/led-quadro-panel",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-rainbow",
+  "model": "LED RAINBOW",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   9,
+   9
+  ],
+  "ch": [
+   22
+  ],
+  "size": [
+   424,
+   251,
+   65
+  ],
+  "url": "https://jb-systems.eu/led-rainbow",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-rave",
+  "model": "LED RAVE",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   1
+  ],
+  "feat": [
+   "gobo:15",
+   "gobor",
+   "gobo2"
+  ],
+  "size": [
+   247,
+   218,
+   162
+  ],
+  "url": "https://jb-systems.eu/led-rave",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-seawave-100w",
+  "model": "LED SEAWAVE 100W",
+  "kind": "effect",
+  "deg": [
+   29,
+   44
+  ],
+  "ch": [
+   3
+  ],
+  "size": [
+   309,
+   271,
+   210
+  ],
+  "url": "https://jb-systems.eu/led-seawave-100w",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-seawave-50w",
+  "model": "LED SEAWAVE 50W",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   3
+  ],
+  "size": [
+   279,
+   226,
+   191
+  ],
+  "url": "https://jb-systems.eu/led-seawave-50w",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-spinner",
+  "model": "LED SPINNER",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   17,
+   17
+  ],
+  "ch": [
+   8
+  ],
+  "feat": [
+   "gobo:8"
+  ],
+  "size": [
+   472,
+   208,
+   264
+  ],
+  "url": "https://jb-systems.eu/led-spinner",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-uv-bar",
+  "model": "LED UV-BAR",
+  "kind": "bar",
+  "leds": [
+   1,
+   "uv"
+  ],
+  "ch": [
+   3
+  ],
+  "size": [
+   1050,
+   95,
+   90
+  ],
+  "url": "https://jb-systems.eu/led-uv-bar",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-victoryscan",
+  "model": "LED VICTORYSCAN",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   17,
+   17
+  ],
+  "ch": [
+   8
+  ],
+  "feat": [
+   "gobo:8"
+  ],
+  "size": [
+   472,
+   208,
+   264
+  ],
+  "url": "https://jb-systems.eu/led-victoryscan",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-victoryscan-mk2",
+  "model": "LED VICTORYSCAN Mk2",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   17,
+   17
+  ],
+  "ch": [
+   8
+  ],
+  "feat": [
+   "gobo:9"
+  ],
+  "size": [
+   472,
+   264,
+   208
+  ],
+  "url": "https://jb-systems.eu/led-victoryscan-mk2",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "led-wash",
+  "model": "LED WASH",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   40,
+   40
+  ],
+  "ch": [
+   4
+  ],
+  "url": "https://jb-systems.eu/led-wash",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "ledball-indoor",
+  "model": "LEDBALL INDOOR",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   4
+  ],
+  "url": "https://jb-systems.eu/ledball-indoor",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "ledflower-dmx",
+  "model": "LEDFLOWER DMX",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   4
+  ],
+  "size": [
+   236,
+   141,
+   203
+  ],
+  "url": "https://jb-systems.eu/ledflower-dmx",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "ledpipe-rgb-230v",
+  "model": "LEDPIPE RGB 230V",
+  "kind": "tube",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   3
+  ],
+  "size": [
+   1000,
+   62,
+   100
+  ],
+  "url": "https://jb-systems.eu/ledpipe-rgb-230v",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "matrix-led",
+  "model": "MATRIX LED",
+  "kind": "matrix",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   54,
+   54
+  ],
+  "ch": [
+   256
+  ],
+  "size": [
+   270,
+   242,
+   215
+  ],
+  "url": "https://jb-systems.eu/matrix-led",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "mini-par-12tc",
+  "model": "MINI-PAR 12TC",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   17,
+   17
+  ],
+  "ch": [
+   3,
+   5
+  ],
+  "size": [
+   150,
+   160,
+   90
+  ],
+  "url": "https://jb-systems.eu/mini-par-12tc",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "multibeam-laser",
+  "model": "MULTIBEAM LASER",
+  "kind": "laser",
+  "ch": [
+   2,
+   10
+  ],
+  "size": [
+   537,
+   268,
+   170
+  ],
+  "url": "https://jb-systems.eu/multibeam-laser",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "mystery-led",
+  "model": "MYSTERY LED",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   3
+  ],
+  "size": [
+   296,
+   271,
+   140
+  ],
+  "url": "https://jb-systems.eu/mystery-led",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "orion",
+  "model": "ORION",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   7
+  ],
+  "size": [
+   475,
+   290,
+   160
+  ],
+  "url": "https://jb-systems.eu/orion",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "party-beams",
+  "model": "PARTY BEAMS",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   7,
+   7
+  ],
+  "ch": [
+   14
+  ],
+  "size": [
+   605,
+   184,
+   268
+  ],
+  "url": "https://jb-systems.eu/party-beams",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "plano-spot",
+  "model": "PLANO SPOT",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   15,
+   15
+  ],
+  "ch": [
+   4
+  ],
+  "size": [
+   252,
+   272,
+   67
+  ],
+  "url": "https://jb-systems.eu/plano-spot",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "radiant-laser",
+  "model": "RADIANT LASER",
+  "kind": "laser",
+  "ch": [
+   10
+  ],
+  "size": [
+   250,
+   240,
+   190
+  ],
+  "url": "https://jb-systems.eu/radiant-laser",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "rs-40",
+  "model": "RS-40",
+  "kind": "effect",
+  "ch": [
+   4
+  ],
+  "size": [
+   90,
+   240,
+   110
+  ],
+  "url": "https://jb-systems.eu/rs-40",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "sirius",
+  "model": "SIRIUS",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   15,
+   15
+  ],
+  "ch": [
+   11
+  ],
+  "feat": [
+   "gobo:6",
+   "gobor",
+   "gobo2"
+  ],
+  "size": [
+   287,
+   247,
+   420
+  ],
+  "url": "https://jb-systems.eu/sirius",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "smooth-scan-3-laser",
+  "model": "SMOOTH SCAN-3 Laser",
+  "kind": "laser",
+  "ch": [
+   17
+  ],
+  "size": [
+   190,
+   170,
+   80
+  ],
+  "url": "https://jb-systems.eu/smooth-scan-3-laser",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "smooth-scan-3-mk2-laser",
+  "model": "SMOOTH SCAN-3 Mk2 LASER",
+  "kind": "laser",
+  "ch": [
+   1,
+   17
+  ],
+  "size": [
+   190,
+   170,
+   80
+  ],
+  "url": "https://jb-systems.eu/smooth-scan-3-mk2-laser",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "smooth-scan-blue-laser",
+  "model": "SMOOTH SCAN-BLUE Laser",
+  "kind": "laser",
+  "ch": [
+   17
+  ],
+  "size": [
+   190,
+   170,
+   80
+  ],
+  "url": "https://jb-systems.eu/smooth-scan-blue-laser",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "space-3-mk2-laser",
+  "model": "SPACE-3 Mk2 Laser",
+  "kind": "laser",
+  "ch": [
+   8
+  ],
+  "size": [
+   200,
+   240,
+   90
+  ],
+  "url": "https://jb-systems.eu/space-3-mk2-laser",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "sunbar-combi",
+  "model": "SUNBAR COMBI",
+  "kind": "bar",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   1,
+   17
+  ],
+  "size": [
+   1000,
+   140,
+   85
+  ],
+  "url": "https://jb-systems.eu/sunbar-combi",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "sunbar-white",
+  "model": "SUNBAR WHITE",
+  "kind": "bar",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   7,
+   7
+  ],
+  "ch": [
+   1,
+   15
+  ],
+  "size": [
+   1000,
+   170,
+   50
+  ],
+  "url": "https://jb-systems.eu/sunbar-white",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "super-boogie",
+  "model": "SUPER BOOGIE",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   3
+  ],
+  "size": [
+   246,
+   230,
+   164
+  ],
+  "url": "https://jb-systems.eu/super-boogie",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "super-led-rainbow",
+  "model": "SUPER LED RAINBOW",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   9,
+   9
+  ],
+  "ch": [
+   28
+  ],
+  "url": "https://jb-systems.eu/super-led-rainbow",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "super-orion",
+  "model": "SUPER ORION",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   3
+  ],
+  "size": [
+   430,
+   256,
+   172
+  ],
+  "url": "https://jb-systems.eu/super-orion",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "super-quadra-beam",
+  "model": "SUPER QUADRA BEAM",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   3
+  ],
+  "size": [
+   830,
+   171,
+   202
+  ],
+  "url": "https://jb-systems.eu/super-quadra-beam",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "supersolar-ii",
+  "model": "SUPERSOLAR II",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   3
+  ],
+  "size": [
+   210,
+   210,
+   179
+  ],
+  "url": "https://jb-systems.eu/supersolar-ii",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "taurus",
+  "model": "TAURUS",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   28
+  ],
+  "size": [
+   246,
+   320,
+   192
+  ],
+  "url": "https://jb-systems.eu/taurus",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "twin-effect-laser-mk2",
+  "model": "TWIN EFFECT Laser Mk2",
+  "kind": "laser",
+  "ch": [
+   10
+  ],
+  "size": [
+   240,
+   250,
+   198
+  ],
+  "url": "https://jb-systems.eu/twin-effect-laser-mk2",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "twinbeam-color-laser-mk2",
+  "model": "TWINBEAM COLOR Laser Mk2",
+  "kind": "laser",
+  "ch": [
+   9
+  ],
+  "size": [
+   260,
+   300,
+   100
+  ],
+  "url": "https://jb-systems.eu/twinbeam-color-laser-mk2",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "twinbeam-color-laser-mk3",
+  "model": "TWINBEAM COLOR Laser Mk3",
+  "kind": "laser",
+  "ch": [
+   9
+  ],
+  "size": [
+   260,
+   300,
+   100
+  ],
+  "url": "https://jb-systems.eu/twinbeam-color-laser-mk3",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "JB Systems",
+  "key": "wizard-4",
+  "model": "WIZARD 4",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   3
+  ],
+  "size": [
+   296,
+   271,
+   140
+  ],
+  "url": "https://jb-systems.eu/wizard-4",
+  "note": "Steckbrief aus Herstellerangaben (jb-systems.eu, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

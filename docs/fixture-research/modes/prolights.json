@@ -1,0 +1,4137 @@
+[
+ {
+  "man": "Prolights",
+  "key": "arenacob-4fc",
+  "model": "ArenaCob 4FC",
+  "kind": "strobe",
+  "leds": [
+   4,
+   "rgbw"
+  ],
+  "deg": [
+   46,
+   46
+  ],
+  "ch": [
+   1,
+   4,
+   6,
+   15,
+   16,
+   21,
+   27,
+   28
+  ],
+  "pixelFrom": 16,
+  "size": [
+   619,
+   167,
+   264
+  ],
+  "url": "https://www.prolights.it/en/product/ARENACOB4FC",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "arenacob-4halo",
+  "model": "ArenaCob 4Halo",
+  "kind": "strobe",
+  "leds": [
+   16,
+   "white"
+  ],
+  "deg": [
+   42,
+   42
+  ],
+  "ch": [
+   1,
+   2,
+   4,
+   6,
+   7,
+   8,
+   10,
+   11
+  ],
+  "size": [
+   619,
+   167,
+   264
+  ],
+  "url": "https://www.prolights.it/en/product/ARENACOB4HALO",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "aria-700spot",
+  "model": "Aria 700Spot",
+  "kind": "spot",
+  "deg": [
+   10.8,
+   45.7
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   23,
+   28,
+   29
+  ],
+  "feat": [
+   "pro",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.prolights.it/en/product/ARIA700SPOT",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "astra-beam120ip",
+  "model": "Astra Beam120IP",
+  "kind": "beam",
+  "deg": [
+   0.6,
+   0.6
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "ch": [
+   32
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:13",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://www.prolights.it/en/product/ASTRABEAM120IP",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "astra-beam260ip",
+  "model": "Astra Beam260IP",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "tilt": 230,
+  "ch": [
+   17
+  ],
+  "feat": [
+   "pro",
+   "gobo:15",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://www.prolights.it/en/product/ASTRABEAM260IP",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "astra-hybrid260ip",
+  "model": "Astra Hybrid260IP",
+  "kind": "hybrid",
+  "deg": [
+   0.6,
+   52.7
+  ],
+  "pan": 360,
+  "tilt": 270,
+  "ch": [
+   33,
+   37
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:12",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.prolights.it/en/product/ASTRAHYB260IP",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "astra-hybrid330",
+  "model": "Astra Hybrid330",
+  "kind": "hybrid",
+  "deg": [
+   3,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   29
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "gobo:8",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.prolights.it/en/product/ASTRAHYB330",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "astra-hybrid330ip",
+  "model": "Astra Hybrid330IP",
+  "kind": "hybrid",
+  "deg": [
+   3,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   29
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "gobo:8",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.prolights.it/en/product/ASTRAHYB330IP",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "astra-hybrid420",
+  "model": "Astra Hybrid420",
+  "kind": "hybrid",
+  "deg": [
+   2.7,
+   40
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   30
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "gobo:9",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.prolights.it/en/product/ASTRAHYB420",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "astra-hybrid420ip",
+  "model": "Astra Hybrid420IP",
+  "kind": "hybrid",
+  "deg": [
+   2.7,
+   40
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   30
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "gobo:9",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.prolights.it/en/product/ASTRAHYB420IP",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "astra-par7zip",
+  "model": "Astra PAR7ZIP",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgb"
+  ],
+  "deg": [
+   4.5,
+   53
+  ],
+  "ch": [
+   1,
+   2,
+   6,
+   12,
+   14,
+   21,
+   33
+  ],
+  "pixelFrom": 21,
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   291,
+   347,
+   300
+  ],
+  "url": "https://www.prolights.it/en/product/ASTRAPAR7ZIPBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "astra-profile1200ip",
+  "model": "Astra Profile1200IP",
+  "kind": "profile",
+  "deg": [
+   5.4,
+   51
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   45
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:6",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.prolights.it/en/product/ASTRAPROF1200IP",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "astra-profile300ltip",
+  "model": "Astra Profile300LTIP",
+  "kind": "profile",
+  "deg": [
+   3.9,
+   44.1
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "ch": [
+   42
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:7",
+   "gobor",
+   "anim",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.prolights.it/en/product/ASTRAPROF300LTIP",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "astra-profile500ltip",
+  "model": "Astra Profile500LTIP",
+  "kind": "profile",
+  "deg": [
+   4.2,
+   50.1
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "ch": [
+   43
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.prolights.it/en/product/ASTRAPROF500LTIP",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "astra-profile600ip",
+  "model": "Astra Profile600IP",
+  "kind": "profile",
+  "deg": [
+   7,
+   62
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   29,
+   39,
+   54
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:7",
+   "gobor",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.prolights.it/en/product/ASTRAPROFILE600IP",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "astra-profile900",
+  "model": "Astra Profile900",
+  "kind": "profile",
+  "deg": [
+   5.4,
+   52
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "ch": [
+   46
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.prolights.it/en/product/ASTRAPROFILE900",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "astra-profile900hq",
+  "model": "Astra Profile900HQ",
+  "kind": "profile",
+  "deg": [
+   5.4,
+   52
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   46
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.prolights.it/en/product/ASTRAPROFILE900HQ",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "astra-wash19pix",
+  "model": "Astra Wash19Pix",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   54
+  ],
+  "pan": 540,
+  "tilt": 233,
+  "ch": [
+   29,
+   32,
+   53
+  ],
+  "feat": [
+   "pro",
+   "cto",
+   "zoom"
+  ],
+  "url": "https://www.prolights.it/en/product/ASTRAWASH19PIX",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "astra-wash19pixip",
+  "model": "Astra Wash19PixIP",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   54
+  ],
+  "pan": 540,
+  "tilt": 233,
+  "ch": [
+   29,
+   32,
+   53
+  ],
+  "feat": [
+   "pro",
+   "cto",
+   "zoom"
+  ],
+  "url": "https://www.prolights.it/en/product/ASTRAWASH19PIXIP",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "astra-wash37pix",
+  "model": "Astra Wash37Pix",
+  "kind": "wash",
+  "leds": [
+   37,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   54
+  ],
+  "pan": 540,
+  "tilt": 233,
+  "ch": [
+   23,
+   30,
+   44,
+   52
+  ],
+  "feat": [
+   "pro",
+   "cto",
+   "zoom"
+  ],
+  "url": "https://www.prolights.it/en/product/ASTRAWASH37PIX",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "astra-wash7pix",
+  "model": "Astra Wash7Pix",
+  "kind": "wash",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   56
+  ],
+  "pan": 540,
+  "tilt": 233,
+  "ch": [
+   24,
+   27,
+   39
+  ],
+  "pixelFrom": 39,
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.prolights.it/en/product/ASTRAWASH7PIX",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "cromospot400",
+  "model": "CROMOSPOT400",
+  "kind": "spot",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   11,
+   14
+  ],
+  "feat": [
+   "pro",
+   "prism",
+   "focus"
+  ],
+  "url": "https://www.prolights.it/en/product/CROMOSPOT400",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "diamond-7",
+  "model": "Diamond 7",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   6,
+   66
+  ],
+  "ch": [
+   18,
+   19,
+   20,
+   26,
+   50
+  ],
+  "pixelFrom": 26,
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   278,
+   348,
+   200
+  ],
+  "url": "https://www.prolights.it/en/product/DIAMOND7BK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "digistrip-ip100",
+  "model": "DigiStrip IP100",
+  "kind": "bar",
+  "leds": [
+   100,
+   "rgb"
+  ],
+  "ch": [
+   300
+  ],
+  "pixelFrom": 300,
+  "size": [
+   1000,
+   36,
+   128
+  ],
+  "url": "https://www.prolights.it/en/product/DIGISTRIPIP100",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "digistrip-ip50",
+  "model": "DigiStrip IP50",
+  "kind": "bar",
+  "leds": [
+   50,
+   "rgb"
+  ],
+  "ch": [
+   150
+  ],
+  "pixelFrom": 150,
+  "size": [
+   500,
+   33,
+   114
+  ],
+  "url": "https://www.prolights.it/en/product/DIGISTRIPIP50",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "displaycob-dy",
+  "model": "DisplayCob DY",
+  "kind": "par",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   15,
+   30
+  ],
+  "ch": [
+   1,
+   2,
+   5
+  ],
+  "size": [
+   166,
+   118,
+   250
+  ],
+  "url": "https://www.prolights.it/en/product/DISPLAYCOBDY",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "displaycob-fc",
+  "model": "DisplayCob FC",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   15,
+   30
+  ],
+  "ch": [
+   3,
+   5,
+   8
+  ],
+  "size": [
+   166,
+   118,
+   250
+  ],
+  "url": "https://www.prolights.it/en/product/DISPLAYCOBFC",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "displaycob-ww",
+  "model": "DisplayCob WW",
+  "kind": "par",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   15,
+   30
+  ],
+  "ch": [
+   1,
+   2,
+   5
+  ],
+  "size": [
+   166,
+   118,
+   250
+  ],
+  "url": "https://www.prolights.it/en/product/DISPLAYCOBWW",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "dot-qpack",
+  "model": "Dot QPack",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   23,
+   23
+  ],
+  "ch": [
+   5,
+   9
+  ],
+  "size": [
+   520,
+   125,
+   320
+  ],
+  "url": "https://www.prolights.it/en/product/DOTQPACKMR",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclprofile-ct-hp",
+  "model": "EclProfile CT+HP",
+  "kind": "ellipsoidal",
+  "deg": [
+   15,
+   30
+  ],
+  "ch": [
+   1,
+   30
+  ],
+  "feat": [
+   "cto",
+   "focus"
+  ],
+  "size": [
+   292,
+   267,
+   628
+  ],
+  "url": "https://www.prolights.it/en/product/ECLCTPLUSHPBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclprofile-ct-hpip",
+  "model": "EclProfile CT+HPIP",
+  "kind": "ellipsoidal",
+  "deg": [
+   15,
+   30
+  ],
+  "ch": [
+   1,
+   30
+  ],
+  "feat": [
+   "cto",
+   "focus"
+  ],
+  "size": [
+   292,
+   267,
+   628
+  ],
+  "url": "https://www.prolights.it/en/product/ECLCTPLUSHPIPBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclprofile",
+  "model": "EclProfile",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   19,
+   19
+  ],
+  "ch": [
+   1,
+   2,
+   5
+  ],
+  "feat": [
+   "blades"
+  ],
+  "size": [
+   282,
+   466,
+   530
+  ],
+  "url": "https://www.prolights.it/en/product/ECLDY",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclprofile-fc",
+  "model": "EclProfile FC",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   15,
+   30
+  ],
+  "ch": [
+   1,
+   3,
+   4,
+   5,
+   8,
+   11,
+   17
+  ],
+  "feat": [
+   "cto"
+  ],
+  "size": [
+   342,
+   506,
+   530
+  ],
+  "url": "https://www.prolights.it/en/product/ECLFCWH",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclfresnel-2kptw",
+  "model": "EclFresnel 2KPTW",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   17,
+   76
+  ],
+  "ch": [
+   1,
+   2,
+   5,
+   7,
+   8,
+   9,
+   12,
+   13,
+   16,
+   19,
+   21
+  ],
+  "feat": [
+   "cto",
+   "zoom"
+  ],
+  "size": [
+   401,
+   576,
+   456
+  ],
+  "url": "https://www.prolights.it/en/product/ECLFR2KPTW",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclfresnel-2k",
+  "model": "EclFresnel 2K",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   16,
+   64
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   5
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   421,
+   537,
+   456
+  ],
+  "url": "https://www.prolights.it/en/product/ECLFR2KTU",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclfresnel-2kvw",
+  "model": "EclFresnel 2KVW",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "wwcw"
+  ],
+  "deg": [
+   15,
+   79.5
+  ],
+  "ch": [
+   1,
+   2,
+   4,
+   5,
+   11
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   421,
+   537,
+   456
+  ],
+  "url": "https://www.prolights.it/en/product/ECLFR2KVWBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclfresnel-ct-l",
+  "model": "EclFresnel CT+L",
+  "kind": "fresnel",
+  "deg": [
+   10,
+   77
+  ],
+  "ch": [
+   3,
+   98,
+   99,
+   130,
+   131
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   420,
+   663,
+   495
+  ],
+  "url": "https://www.prolights.it/en/product/ECLFRCTPLBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclfresnel-ct-lip",
+  "model": "EclFresnel CT+LIP",
+  "kind": "fresnel",
+  "deg": [
+   10,
+   77
+  ],
+  "ch": [
+   3,
+   98,
+   99,
+   130,
+   131
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   420,
+   663,
+   495
+  ],
+  "url": "https://www.prolights.it/en/product/ECLFRCTPLIPBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclfresnel-ct-m",
+  "model": "EclFresnel CT+M",
+  "kind": "fresnel",
+  "deg": [
+   9.4,
+   80.8
+  ],
+  "ch": [
+   3,
+   98,
+   99,
+   130,
+   131
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   338,
+   573,
+   428
+  ],
+  "url": "https://www.prolights.it/en/product/ECLFRCTPMBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclfresnel-ct-mip",
+  "model": "EclFresnel CT+MIP",
+  "kind": "fresnel",
+  "deg": [
+   9.4,
+   80.8
+  ],
+  "ch": [
+   3,
+   98,
+   99,
+   130,
+   131
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   338,
+   573,
+   428
+  ],
+  "url": "https://www.prolights.it/en/product/ECLFRCTPMIPBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclfresnel-ct-s",
+  "model": "EclFresnel CT+S",
+  "kind": "fresnel",
+  "deg": [
+   9.7,
+   73.5
+  ],
+  "ch": [
+   3,
+   98,
+   99,
+   130,
+   131
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   286,
+   513,
+   356
+  ],
+  "url": "https://www.prolights.it/en/product/ECLFRCTPSBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclfresnel-ct-sip",
+  "model": "EclFresnel CT+SIP",
+  "kind": "fresnel",
+  "deg": [
+   9.7,
+   73.5
+  ],
+  "ch": [
+   3,
+   98,
+   99,
+   130,
+   131
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   286,
+   513,
+   356
+  ],
+  "url": "https://www.prolights.it/en/product/ECLFRCTPSIPBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclfresnel-ct-xs",
+  "model": "EclFresnel CT+XS",
+  "kind": "fresnel",
+  "deg": [
+   10,
+   75
+  ],
+  "ch": [
+   1,
+   34
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   227,
+   289,
+   294
+  ],
+  "url": "https://www.prolights.it/en/product/ECLFRCTPXSBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclfresnel-jr",
+  "model": "EclFresnel Jr",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   17,
+   81
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   5
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   235,
+   360,
+   260
+  ],
+  "url": "https://www.prolights.it/en/product/ECLFRESNELJTU",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclfresnel-jrtw",
+  "model": "EclFresnel JrTW",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   16,
+   80
+  ],
+  "ch": [
+   1,
+   2,
+   5,
+   7,
+   8,
+   9,
+   12,
+   13,
+   16,
+   19,
+   21
+  ],
+  "feat": [
+   "cto",
+   "zoom"
+  ],
+  "size": [
+   235,
+   360,
+   260
+  ],
+  "url": "https://www.prolights.it/en/product/ECLFRESNELJTW",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclfresnel-ptw",
+  "model": "EclFresnel PTW",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   17,
+   91
+  ],
+  "ch": [
+   1,
+   2,
+   5,
+   7,
+   9,
+   12,
+   13,
+   16,
+   19,
+   21
+  ],
+  "feat": [
+   "cto",
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   341,
+   545,
+   343
+  ],
+  "url": "https://www.prolights.it/en/product/ECLFRESNELPTW",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclfresnel",
+  "model": "EclFresnel",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   17,
+   66
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   5
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   283,
+   440,
+   343
+  ],
+  "url": "https://www.prolights.it/en/product/ECLFRESNELTU",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclfresnel-tw",
+  "model": "EclFresnel TW",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   17,
+   91
+  ],
+  "ch": [
+   1,
+   2,
+   5,
+   7,
+   9,
+   12,
+   13,
+   16,
+   19,
+   21
+  ],
+  "feat": [
+   "cto",
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   283,
+   440,
+   343
+  ],
+  "url": "https://www.prolights.it/en/product/ECLFRESNELTW",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclfresnel-vw",
+  "model": "EclFresnel VW",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "wwcw"
+  ],
+  "deg": [
+   17,
+   64
+  ],
+  "ch": [
+   1,
+   2,
+   4,
+   5,
+   11
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   283,
+   440,
+   343
+  ],
+  "url": "https://www.prolights.it/en/product/ECLFRESNELVWPOBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclfresnel-fwxsvw",
+  "model": "EclFresnel FWXSVW",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "wwcw"
+  ],
+  "deg": [
+   10,
+   56
+  ],
+  "ch": [
+   1,
+   14
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   227,
+   289,
+   294
+  ],
+  "url": "https://www.prolights.it/en/product/ECLFRFWXSVWBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclfresnel-jrp",
+  "model": "EclFresnel JrP",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   17,
+   81
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   5
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   298,
+   496,
+   260
+  ],
+  "url": "https://www.prolights.it/en/product/ECLFRJPDY",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclfresnel-jrptw",
+  "model": "EclFresnel JrPTW",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   16,
+   80
+  ],
+  "ch": [
+   1,
+   2,
+   5,
+   7,
+   8,
+   9,
+   12,
+   13,
+   16,
+   19,
+   21
+  ],
+  "feat": [
+   "cto",
+   "zoom"
+  ],
+  "size": [
+   298,
+   496,
+   260
+  ],
+  "url": "https://www.prolights.it/en/product/ECLFRJPTW",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclprofile-fwhpipvw",
+  "model": "EclProfile FWHPIPVW",
+  "kind": "flood",
+  "leds": [
+   1,
+   "wwcw"
+  ],
+  "deg": [
+   15,
+   30
+  ],
+  "ch": [
+   1,
+   16
+  ],
+  "feat": [
+   "focus"
+  ],
+  "size": [
+   292,
+   267,
+   628
+  ],
+  "url": "https://www.prolights.it/en/product/ECLFWHPIPVWBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclprofile-fwhpvw",
+  "model": "EclProfile FWHPVW",
+  "kind": "flood",
+  "leds": [
+   1,
+   "wwcw"
+  ],
+  "deg": [
+   15,
+   30
+  ],
+  "ch": [
+   1,
+   16
+  ],
+  "feat": [
+   "focus"
+  ],
+  "size": [
+   292,
+   267,
+   628
+  ],
+  "url": "https://www.prolights.it/en/product/ECLFWHPVWBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclprofile-fwip",
+  "model": "EclProfile FWIP",
+  "kind": "flood",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   15,
+   30
+  ],
+  "ch": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "feat": [
+   "focus"
+  ],
+  "size": [
+   324,
+   540,
+   660
+  ],
+  "url": "https://www.prolights.it/en/product/ECLFWIPTUBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclprofile-fwipvw",
+  "model": "EclProfile FWIPVW",
+  "kind": "flood",
+  "leds": [
+   1,
+   "wwcw"
+  ],
+  "deg": [
+   15,
+   30
+  ],
+  "ch": [
+   2,
+   3,
+   4,
+   6,
+   12
+  ],
+  "feat": [
+   "focus"
+  ],
+  "size": [
+   324,
+   540,
+   660
+  ],
+  "url": "https://www.prolights.it/en/product/ECLFWIPVWBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclprofile-fw",
+  "model": "EclProfile FW",
+  "kind": "flood",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   15,
+   30
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "feat": [
+   "focus"
+  ],
+  "size": [
+   265,
+   259,
+   540
+  ],
+  "url": "https://www.prolights.it/en/product/ECLFWTUBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclprofile-fwvw",
+  "model": "EclProfile FWVW",
+  "kind": "flood",
+  "leds": [
+   1,
+   "wwcw"
+  ],
+  "deg": [
+   15,
+   30
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   5,
+   11
+  ],
+  "feat": [
+   "focus"
+  ],
+  "size": [
+   265,
+   259,
+   540
+  ],
+  "url": "https://www.prolights.it/en/product/ECLFWVWBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclprofile-jrzip",
+  "model": "EclProfile JrZIP",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   15,
+   30
+  ],
+  "ch": [
+   1,
+   3
+  ],
+  "feat": [
+   "focus"
+  ],
+  "size": [
+   275,
+   440,
+   275
+  ],
+  "url": "https://www.prolights.it/en/product/ECLJZIPDYBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclpar-dotfc",
+  "model": "EclPar DotFC",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   11.5,
+   11.5
+  ],
+  "ch": [
+   1,
+   2,
+   5,
+   6,
+   9,
+   12,
+   13
+  ],
+  "feat": [
+   "cto"
+  ],
+  "size": [
+   165,
+   221,
+   144
+  ],
+  "url": "https://www.prolights.it/en/product/ECLPARDOTFC",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclpar-dotvw",
+  "model": "EclPar DotVW",
+  "kind": "par",
+  "leds": [
+   1,
+   "wwcw"
+  ],
+  "deg": [
+   7.7,
+   7.7
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   9
+  ],
+  "size": [
+   165,
+   221,
+   144
+  ],
+  "url": "https://www.prolights.it/en/product/ECLPARDOTVW",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclpar",
+  "model": "EclPar",
+  "kind": "par",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   28,
+   28
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   6
+  ],
+  "size": [
+   316,
+   404,
+   317
+  ],
+  "url": "https://www.prolights.it/en/product/ECLPARDY",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclpar-iplfc",
+  "model": "EclPar IPLFC",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   23,
+   23
+  ],
+  "ch": [
+   1,
+   2,
+   5,
+   9,
+   10,
+   12,
+   18
+  ],
+  "feat": [
+   "cto"
+  ],
+  "size": [
+   275,
+   402,
+   382
+  ],
+  "url": "https://www.prolights.it/en/product/ECLPARIPLFCBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclpar-iplvw",
+  "model": "EclPar IPLVW",
+  "kind": "par",
+  "leds": [
+   1,
+   "wwcw"
+  ],
+  "deg": [
+   35,
+   35
+  ],
+  "ch": [
+   1,
+   2,
+   4,
+   5,
+   9,
+   11
+  ],
+  "size": [
+   275,
+   402,
+   382
+  ],
+  "url": "https://www.prolights.it/en/product/ECLPARIPLVWBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclpar-ipmuv",
+  "model": "EclPar IPMUV",
+  "kind": "par",
+  "leds": [
+   1,
+   "uv"
+  ],
+  "deg": [
+   40,
+   40
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "size": [
+   262,
+   327,
+   213
+  ],
+  "url": "https://www.prolights.it/en/product/ECLPARIPMUVBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclpar-ipmvw",
+  "model": "EclPar IPMVW",
+  "kind": "par",
+  "leds": [
+   1,
+   "wwcw"
+  ],
+  "deg": [
+   24,
+   24
+  ],
+  "ch": [
+   1,
+   2,
+   4,
+   5,
+   9,
+   11
+  ],
+  "size": [
+   262,
+   327,
+   213
+  ],
+  "url": "https://www.prolights.it/en/product/ECLPARIPMVWBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclpar-ipsfc",
+  "model": "EclPar IPSFC",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   21,
+   21
+  ],
+  "ch": [
+   1,
+   2,
+   5,
+   9,
+   10,
+   12,
+   18
+  ],
+  "feat": [
+   "cto"
+  ],
+  "size": [
+   211,
+   284,
+   248
+  ],
+  "url": "https://www.prolights.it/en/product/ECLPARIPSFCBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclpar-ipsvw",
+  "model": "EclPar IPSVW",
+  "kind": "par",
+  "leds": [
+   1,
+   "wwcw"
+  ],
+  "deg": [
+   23,
+   23
+  ],
+  "ch": [
+   1,
+   2,
+   4,
+   5,
+   9,
+   11
+  ],
+  "size": [
+   211,
+   284,
+   248
+  ],
+  "url": "https://www.prolights.it/en/product/ECLPARIPSVWBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "flatcob-80uv",
+  "model": "FlatCob 80UV",
+  "kind": "flood",
+  "leds": [
+   1,
+   "uv"
+  ],
+  "deg": [
+   16,
+   51
+  ],
+  "ch": [
+   1,
+   5
+  ],
+  "size": [
+   200,
+   162,
+   230
+  ],
+  "url": "https://www.prolights.it/en/product/FLATCOB80UV",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "halupix-duo",
+  "model": "HaluPix Duo",
+  "kind": "matrix",
+  "leds": [
+   441,
+   "rgb"
+  ],
+  "grid": [
+   21,
+   21
+  ],
+  "deg": [
+   6.8,
+   6.8
+  ],
+  "ch": [
+   12
+  ],
+  "size": [
+   500,
+   500,
+   133
+  ],
+  "url": "https://www.prolights.it/en/product/HALUPIXDUO",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "halustrip-duo",
+  "model": "HaluStrip Duo",
+  "kind": "bar",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   7.4,
+   7.4
+  ],
+  "ch": [
+   12
+  ],
+  "size": [
+   1000,
+   71,
+   183
+  ],
+  "url": "https://www.prolights.it/en/product/HALUSTRIPDUO",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 518 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "jade",
+  "model": "Jade",
+  "kind": "hybrid",
+  "deg": [
+   2,
+   10
+  ],
+  "pan": 630,
+  "tilt": 265,
+  "ch": [
+   14,
+   16,
+   22,
+   23
+  ],
+  "feat": [
+   "pro",
+   "gobo:9",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.prolights.it/en/product/JADE",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "jet-beam120ip",
+  "model": "Jet Beam120IP",
+  "kind": "beam",
+  "deg": [
+   0.6,
+   0.6
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "ch": [
+   18
+  ],
+  "feat": [
+   "pro",
+   "cto",
+   "gobo:29",
+   "anim",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://www.prolights.it/en/product/JETBEAM120IP",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "jet-beam1",
+  "model": "Jet Beam1",
+  "kind": "beam",
+  "deg": [
+   2.5,
+   2.5
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   8,
+   10
+  ],
+  "feat": [
+   "pro",
+   "prism"
+  ],
+  "url": "https://www.prolights.it/en/product/JETBEAM1WH",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "jet-hybrid200",
+  "model": "Jet Hybrid200",
+  "kind": "hybrid",
+  "deg": [
+   3.5,
+   40
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "ch": [
+   20
+  ],
+  "feat": [
+   "pro",
+   "gobo:8",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.prolights.it/en/product/JETHYB200",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "jet-par7zip",
+  "model": "Jet PAR7ZIP",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgb"
+  ],
+  "deg": [
+   4.5,
+   53
+  ],
+  "ch": [
+   1,
+   2,
+   6,
+   12,
+   14,
+   20
+  ],
+  "feat": [
+   "cto",
+   "zoom"
+  ],
+  "size": [
+   291,
+   347,
+   300
+  ],
+  "url": "https://www.prolights.it/en/product/JETPAR7ZIPBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "jet-profile300lt",
+  "model": "Jet Profile300LT",
+  "kind": "profile",
+  "deg": [
+   3.9,
+   44.1
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "ch": [
+   38,
+   42
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:7",
+   "gobor",
+   "anim",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.prolights.it/en/product/JETPROFILE300LT",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "jet-spot120",
+  "model": "Jet Spot120",
+  "kind": "spot",
+  "deg": [
+   9.1,
+   46.3
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "ch": [
+   20
+  ],
+  "feat": [
+   "pro",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.prolights.it/en/product/JETSPOT120",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "jet-spot2",
+  "model": "Jet Spot2",
+  "kind": "spot",
+  "deg": [
+   20,
+   20
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   12,
+   15
+  ],
+  "feat": [
+   "pro",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "prism",
+   "focus"
+  ],
+  "url": "https://www.prolights.it/en/product/JETSPOT2WH",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "jet-spot3",
+  "model": "Jet Spot3",
+  "kind": "spot",
+  "deg": [
+   20,
+   20
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "ch": [
+   17,
+   19
+  ],
+  "feat": [
+   "pro",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "prism",
+   "iris",
+   "frost",
+   "focus"
+  ],
+  "url": "https://www.prolights.it/en/product/JETSPOT3WH",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "jet-spot4z",
+  "model": "Jet Spot4Z",
+  "kind": "spot",
+  "deg": [
+   11,
+   38
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   23,
+   25,
+   27
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.prolights.it/en/product/JETSPOT4Z",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "jet-wash7",
+  "model": "Jet Wash7",
+  "kind": "wash",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   55
+  ],
+  "pan": 540,
+  "tilt": 233,
+  "ch": [
+   23
+  ],
+  "pixelFrom": 23,
+  "feat": [
+   "pro",
+   "cto",
+   "zoom"
+  ],
+  "url": "https://www.prolights.it/en/product/JETWASH7",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "luma-1500sh",
+  "model": "Luma 1500SH",
+  "kind": "follow",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   5,
+   50
+  ],
+  "ch": [
+   28,
+   30,
+   37,
+   38
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:6",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "size": [
+   428,
+   757,
+   291
+  ],
+  "url": "https://www.prolights.it/en/product/LUMA1500SH",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "luma-1500sp",
+  "model": "Luma 1500SP",
+  "kind": "follow",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   5,
+   50
+  ],
+  "ch": [
+   21,
+   23,
+   30,
+   31
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:6",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "size": [
+   428,
+   758,
+   235
+  ],
+  "url": "https://www.prolights.it/en/product/LUMA1500SP",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "lumipar-12hpro",
+  "model": "LumiPar 12HPro",
+  "kind": "par",
+  "leds": [
+   12,
+   "rgbwa"
+  ],
+  "deg": [
+   34,
+   34
+  ],
+  "ch": [
+   3,
+   6,
+   8
+  ],
+  "size": [
+   298,
+   240,
+   273
+  ],
+  "url": "https://www.prolights.it/en/product/LUMIPAR12HPRO",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 12 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "lumipar-12ip",
+  "model": "LumiPar 12IP",
+  "kind": "par",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "deg": [
+   36,
+   36
+  ],
+  "ch": [
+   4,
+   6,
+   11
+  ],
+  "size": [
+   305,
+   326,
+   177
+  ],
+  "url": "https://www.prolights.it/en/product/LUMIPAR12IP20D",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "lumipar-12uaw",
+  "model": "LumiPar 12UAW",
+  "kind": "par",
+  "leds": [
+   12,
+   "wwcw"
+  ],
+  "deg": [
+   36,
+   36
+  ],
+  "ch": [
+   3,
+   7
+  ],
+  "size": [
+   253,
+   200,
+   237
+  ],
+  "url": "https://www.prolights.it/en/product/LUMIPAR12UAW3",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "lumipar12uqpro",
+  "model": "LUMIPAR12UQPRO",
+  "kind": "par",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "deg": [
+   15,
+   15
+  ],
+  "ch": [
+   4,
+   9
+  ],
+  "size": [
+   253,
+   200,
+   237
+  ],
+  "url": "https://www.prolights.it/en/product/LUMIPAR12UQPRO5",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "lumipar-7hpro",
+  "model": "Lumipar 7HPro",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbwa"
+  ],
+  "deg": [
+   34,
+   34
+  ],
+  "ch": [
+   3,
+   6,
+   8,
+   12
+  ],
+  "size": [
+   253,
+   201,
+   244
+  ],
+  "url": "https://www.prolights.it/en/product/LUMIPAR7HPRO",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "lumipar-7ip",
+  "model": "LumiPar 7IP",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   36,
+   36
+  ],
+  "ch": [
+   4,
+   6,
+   11
+  ],
+  "size": [
+   240,
+   286,
+   154
+  ],
+  "url": "https://www.prolights.it/en/product/LUMIPAR7IP20D",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "lumipix-12qtour",
+  "model": "LumiPix 12QTour",
+  "kind": "bar",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "deg": [
+   39,
+   39
+  ],
+  "ch": [
+   5,
+   7,
+   9,
+   49
+  ],
+  "pixelFrom": 49,
+  "size": [
+   994,
+   138,
+   70
+  ],
+  "url": "https://www.prolights.it/en/product/LUMIPIX12QTOUR",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "lumipix-12uq",
+  "model": "LumiPix 12UQ",
+  "kind": "bar",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "deg": [
+   36,
+   36
+  ],
+  "ch": [
+   4,
+   7,
+   9,
+   12,
+   17
+  ],
+  "size": [
+   1000,
+   56,
+   168
+  ],
+  "url": "https://www.prolights.it/en/product/LUMIPIX12UQ",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "lumipix-12uqpro",
+  "model": "LumiPix 12UQPRO",
+  "kind": "bar",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "deg": [
+   36,
+   36
+  ],
+  "ch": [
+   4,
+   7,
+   9,
+   12,
+   17
+  ],
+  "size": [
+   1000,
+   56,
+   168
+  ],
+  "url": "https://www.prolights.it/en/product/LUMIPIX12UQPRO",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "lumipix-12ut",
+  "model": "LumiPix 12UT",
+  "kind": "bar",
+  "leds": [
+   12,
+   "rgb"
+  ],
+  "deg": [
+   34,
+   34
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   7,
+   8,
+   9,
+   12,
+   18,
+   36,
+   41
+  ],
+  "pixelFrom": 36,
+  "size": [
+   987,
+   49,
+   157
+  ],
+  "url": "https://www.prolights.it/en/product/LUMIPIX12UT",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "lumipix-15ip",
+  "model": "Lumipix 15IP",
+  "kind": "bar",
+  "leds": [
+   15,
+   "rgbw"
+  ],
+  "deg": [
+   31,
+   31
+  ],
+  "ch": [
+   4,
+   6,
+   10,
+   60,
+   65
+  ],
+  "pixelFrom": 60,
+  "size": [
+   992,
+   206,
+   160
+  ],
+  "url": "https://www.prolights.it/en/product/LUMIPIX15IP",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "lumipix-16h",
+  "model": "LumiPix 16H",
+  "kind": "bar",
+  "leds": [
+   16,
+   "rgbwa"
+  ],
+  "deg": [
+   37,
+   37
+  ],
+  "ch": [
+   6,
+   8,
+   12,
+   96,
+   101
+  ],
+  "pixelFrom": 96,
+  "url": "https://www.prolights.it/en/product/LUMIPIX16H",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "lumipix-8h",
+  "model": "LumiPix 8H",
+  "kind": "bar",
+  "leds": [
+   8,
+   "rgbwa"
+  ],
+  "deg": [
+   36,
+   36
+  ],
+  "ch": [
+   3,
+   6,
+   8,
+   12,
+   48,
+   53
+  ],
+  "pixelFrom": 48,
+  "size": [
+   582,
+   80,
+   183
+  ],
+  "url": "https://www.prolights.it/en/product/LUMIPIX8H",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclminifresnel",
+  "model": "EclMiniFresnel",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   21,
+   79
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   5
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   191,
+   281,
+   203
+  ],
+  "url": "https://www.prolights.it/en/product/MINIECLFRDY",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclminifresnel-fc",
+  "model": "EclMiniFresnel FC",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   24,
+   113
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   9,
+   12,
+   14,
+   17
+  ],
+  "feat": [
+   "cto",
+   "zoom"
+  ],
+  "size": [
+   191,
+   281,
+   203
+  ],
+  "url": "https://www.prolights.it/en/product/MINIECLFRFC",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "eclminifresnel-vw",
+  "model": "EclMiniFresnel VW",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "wwcw"
+  ],
+  "deg": [
+   21,
+   83
+  ],
+  "ch": [
+   1,
+   2,
+   4,
+   5,
+   11
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   191,
+   281,
+   203
+  ],
+  "url": "https://www.prolights.it/en/product/MINIECLFRVWWH",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "mini-versapar",
+  "model": "Mini VersaPar",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   10,
+   40
+  ],
+  "ch": [
+   5,
+   10
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.prolights.it/en/product/MINIVERSAPAR",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 7 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "muse-fresnel70ct",
+  "model": "Muse Fresnel70CT+",
+  "kind": "fresnel",
+  "deg": [
+   10,
+   60
+  ],
+  "ch": [
+   35,
+   40,
+   41,
+   46
+  ],
+  "feat": [
+   "cmy",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "size": [
+   436,
+   703,
+   331
+  ],
+  "url": "https://www.prolights.it/en/product/MUSEF70CTP",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "muse-profile70ct",
+  "model": "Muse Profile70CT+",
+  "kind": "ellipsoidal",
+  "deg": [
+   6,
+   50
+  ],
+  "ch": [
+   43,
+   48,
+   49,
+   53
+  ],
+  "feat": [
+   "cmy",
+   "gobo:6",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "size": [
+   416,
+   730,
+   331
+  ],
+  "url": "https://www.prolights.it/en/product/MUSEP70CTP",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "panoramaip-airbeam",
+  "model": "PanoramaIP AirBeam",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 630,
+  "tilt": 230,
+  "ch": [
+   19,
+   22,
+   28
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "gobo:9",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://www.prolights.it/en/product/PANORAMAIPAB",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "panoramaip-spot",
+  "model": "PanoramaIP Spot",
+  "kind": "spot",
+  "deg": [
+   5,
+   50
+  ],
+  "tilt": 233,
+  "ch": [
+   19,
+   21,
+   28,
+   29,
+   36
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.prolights.it/en/product/PANORAMAIPSPOT",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "panoramaip-wbx",
+  "model": "PanoramaIP WBX",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   4.5,
+   36
+  ],
+  "pan": 540,
+  "tilt": 267,
+  "ch": [
+   18,
+   42,
+   44,
+   120
+  ],
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.prolights.it/en/product/PANORAMAIPWBX",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 1, 2 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "pixie-beam",
+  "model": "Pixie Beam",
+  "kind": "beam",
+  "deg": [
+   4.5,
+   4.5
+  ],
+  "pan": 540,
+  "tilt": 360,
+  "ch": [
+   14,
+   16,
+   18
+  ],
+  "feat": [
+   "pro"
+  ],
+  "url": "https://www.prolights.it/en/product/PIXIEBEAM",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "pixie-washxb",
+  "model": "Pixie WashXB",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   7.6,
+   43
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "ch": [
+   13,
+   15,
+   16,
+   18,
+   22,
+   23,
+   27
+  ],
+  "feat": [
+   "pro",
+   "cto",
+   "zoom"
+  ],
+  "url": "https://www.prolights.it/en/product/PIXIEWASHXB",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "pixie-zoomxb",
+  "model": "Pixie ZoomXB",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   7,
+   42
+  ],
+  "ch": [
+   5,
+   7,
+   11
+  ],
+  "feat": [
+   "cto",
+   "zoom"
+  ],
+  "size": [
+   335,
+   418,
+   342
+  ],
+  "url": "https://www.prolights.it/en/product/PIXIEZOOMXB",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "poet-f6",
+  "model": "Poet F6",
+  "kind": "fresnel",
+  "deg": [
+   10,
+   80
+  ],
+  "ch": [
+   1,
+   24
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   246,
+   387,
+   370
+  ],
+  "url": "https://www.prolights.it/en/product/POETF6BK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "poet-f6x",
+  "model": "Poet F6X",
+  "kind": "fresnel",
+  "deg": [
+   10,
+   80
+  ],
+  "ch": [
+   2,
+   25
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   246,
+   387,
+   370
+  ],
+  "url": "https://www.prolights.it/en/product/POETF6XBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "poet-f8",
+  "model": "Poet F8",
+  "kind": "fresnel",
+  "deg": [
+   12,
+   80
+  ],
+  "ch": [
+   1,
+   24
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   324,
+   452,
+   430
+  ],
+  "url": "https://www.prolights.it/en/product/POETF8BK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "poet-f8x",
+  "model": "Poet F8X",
+  "kind": "fresnel",
+  "deg": [
+   12,
+   80
+  ],
+  "ch": [
+   2,
+   25
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   324,
+   452,
+   430
+  ],
+  "url": "https://www.prolights.it/en/product/POETF8XBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "ra-3000profile",
+  "model": "Ra 3000Profile",
+  "kind": "profile",
+  "deg": [
+   6,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   38,
+   39,
+   40,
+   41
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "cto",
+   "gobo:6",
+   "gobor",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.prolights.it/en/product/RA3000PROFILE",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "razor-440",
+  "model": "Razor 440",
+  "kind": "beam",
+  "deg": [
+   2,
+   50
+  ],
+  "pan": 630,
+  "tilt": 267,
+  "ch": [
+   21,
+   24,
+   26
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "gobo:6",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.prolights.it/en/product/RAZOR440",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "ruby",
+  "model": "Ruby",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 630,
+  "tilt": 265,
+  "ch": [
+   11,
+   13,
+   14,
+   17
+  ],
+  "feat": [
+   "pro",
+   "gobo:17",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://www.prolights.it/en/product/RUBYBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "ruby-fcx",
+  "model": "Ruby FCX",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "tilt": 265,
+  "ch": [
+   18,
+   20,
+   22,
+   23
+  ],
+  "feat": [
+   "pro",
+   "gobo:17",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://www.prolights.it/en/product/RUBYFCX",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "smart-batip",
+  "model": "Smart BatIP",
+  "kind": "bar",
+  "leds": [
+   4,
+   "rgbw"
+  ],
+  "deg": [
+   23,
+   23
+  ],
+  "ch": [
+   4,
+   6,
+   10
+  ],
+  "size": [
+   191,
+   145,
+   138
+  ],
+  "url": "https://www.prolights.it/en/product/SMARTBATIP",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "smart-parneo",
+  "model": "Smart ParNeo",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgb"
+  ],
+  "deg": [
+   21,
+   21
+  ],
+  "ch": [
+   1,
+   3,
+   4,
+   5,
+   6,
+   10,
+   11,
+   17
+  ],
+  "size": [
+   194,
+   249,
+   147
+  ],
+  "url": "https://www.prolights.it/en/product/SMARTPARNEO",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "solar-27q",
+  "model": "Solar 27Q",
+  "kind": "blinder",
+  "leds": [
+   27,
+   "rgbw"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   5,
+   7,
+   10,
+   13,
+   17
+  ],
+  "size": [
+   454,
+   269,
+   83
+  ],
+  "url": "https://www.prolights.it/en/product/SOLAR27Q",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "solar-48q",
+  "model": "Solar 48Q",
+  "kind": "blinder",
+  "leds": [
+   48,
+   "rgbw"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   5,
+   7,
+   10,
+   17,
+   22
+  ],
+  "size": [
+   563,
+   314,
+   93
+  ],
+  "url": "https://www.prolights.it/en/product/SOLAR48Q",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "stark-1000",
+  "model": "Stark 1000",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   38
+  ],
+  "pan": 540,
+  "tilt": 233,
+  "ch": [
+   16,
+   26,
+   27,
+   36,
+   98
+  ],
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.prolights.it/en/product/STARK1000",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "stark-blade8",
+  "model": "Stark Blade8",
+  "kind": "tiltbar",
+  "leds": [
+   8,
+   "rgbw"
+  ],
+  "deg": [
+   3,
+   45
+  ],
+  "tilt": 360,
+  "ch": [
+   17,
+   27,
+   55
+  ],
+  "pixelFrom": 27,
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.prolights.it/en/product/STARKBLADE8",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "studiocob-cw",
+  "model": "StudioCob CW",
+  "kind": "panel",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   15,
+   30
+  ],
+  "ch": [
+   1,
+   2,
+   5
+  ],
+  "size": [
+   371,
+   262,
+   190
+  ],
+  "url": "https://www.prolights.it/en/product/STUDIOCOBCWBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "studiocob-dy",
+  "model": "StudioCob DY",
+  "kind": "panel",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   15,
+   30
+  ],
+  "ch": [
+   1,
+   2,
+   5
+  ],
+  "size": [
+   371,
+   262,
+   190
+  ],
+  "url": "https://www.prolights.it/en/product/STUDIOCOBDYBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "studiocob-plusdy2",
+  "model": "StudioCob PlusDY2",
+  "kind": "panel",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   19,
+   37
+  ],
+  "ch": [
+   1,
+   2,
+   5
+  ],
+  "size": [
+   354,
+   258,
+   257
+  ],
+  "url": "https://www.prolights.it/en/product/STUDIOCOBPDY2BK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "studiocob-plusdy",
+  "model": "StudioCob PlusDY",
+  "kind": "panel",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   18,
+   38
+  ],
+  "ch": [
+   1,
+   2,
+   5
+  ],
+  "size": [
+   354,
+   258,
+   257
+  ],
+  "url": "https://www.prolights.it/en/product/STUDIOCOBPLUSDYWH",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "studiocob-plusnw",
+  "model": "StudioCob PlusNW",
+  "kind": "panel",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   18,
+   38
+  ],
+  "ch": [
+   1,
+   2,
+   5
+  ],
+  "size": [
+   370,
+   259,
+   187
+  ],
+  "url": "https://www.prolights.it/en/product/STUDIOCOBPLUSNW",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "studiocob-tu",
+  "model": "StudioCob TU",
+  "kind": "panel",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   15,
+   30
+  ],
+  "ch": [
+   1,
+   2,
+   5
+  ],
+  "size": [
+   371,
+   262,
+   190
+  ],
+  "url": "https://www.prolights.it/en/product/STUDIOCOBTUCR",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "studiocob-ww",
+  "model": "StudioCob WW",
+  "kind": "panel",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   15,
+   30
+  ],
+  "ch": [
+   1,
+   2,
+   5
+  ],
+  "size": [
+   371,
+   262,
+   190
+  ],
+  "url": "https://www.prolights.it/en/product/STUDIOCOBWWBK",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "sunbar-2000fc",
+  "model": "SunBar 2000FC",
+  "kind": "strobe",
+  "leds": [
+   24,
+   "rgbw"
+  ],
+  "deg": [
+   155,
+   155
+  ],
+  "ch": [
+   4,
+   87
+  ],
+  "pixelFrom": 87,
+  "size": [
+   1000,
+   75,
+   231
+  ],
+  "url": "https://www.prolights.it/en/product/SUNBAR2000FC",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "sunbar-2500max",
+  "model": "SunBar 2500Max",
+  "kind": "strobe",
+  "leds": [
+   24,
+   "white"
+  ],
+  "deg": [
+   150,
+   150
+  ],
+  "ch": [
+   1,
+   71
+  ],
+  "size": [
+   1000,
+   75,
+   231
+  ],
+  "url": "https://www.prolights.it/en/product/SUNBAR2500MAX",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "sunbar-flx",
+  "model": "SunBar FLX",
+  "kind": "strobe",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   152,
+   152
+  ],
+  "ch": [
+   8,
+   13,
+   21,
+   32,
+   36,
+   42,
+   47,
+   60
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   911,
+   86,
+   182
+  ],
+  "url": "https://www.prolights.it/en/product/SUNBARFLX",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "sunblast-flx",
+  "model": "Sunblast FLX",
+  "kind": "strobe",
+  "leds": [
+   24,
+   "rgb"
+  ],
+  "deg": [
+   152,
+   152
+  ],
+  "ch": [
+   8,
+   13,
+   21,
+   32,
+   36,
+   42,
+   47,
+   60
+  ],
+  "size": [
+   542,
+   260,
+   175
+  ],
+  "url": "https://www.prolights.it/en/product/SUNBLASTFLX",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "sunrise-2flxfc",
+  "model": "SunRise 2FLXFC",
+  "kind": "blinder",
+  "leds": [
+   2,
+   "rgb"
+  ],
+  "deg": [
+   92,
+   92
+  ],
+  "ch": [
+   1,
+   35
+  ],
+  "size": [
+   542,
+   173,
+   192
+  ],
+  "url": "https://www.prolights.it/en/product/SUNRISE2FLXFC",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "sunrise-2flxvw",
+  "model": "SunRise 2FLXVW",
+  "kind": "blinder",
+  "leds": [
+   2,
+   "wwcw"
+  ],
+  "deg": [
+   93,
+   93
+  ],
+  "ch": [
+   1,
+   18
+  ],
+  "pixelFrom": 18,
+  "size": [
+   542,
+   173,
+   192
+  ],
+  "url": "https://www.prolights.it/en/product/SUNRISE2FLXVW",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "sunrise-2ip",
+  "model": "SunRise 2IP",
+  "kind": "blinder",
+  "leds": [
+   2,
+   "ww"
+  ],
+  "deg": [
+   100,
+   100
+  ],
+  "ch": [
+   1,
+   2,
+   6,
+   12
+  ],
+  "pixelFrom": 2,
+  "size": [
+   432,
+   230,
+   102
+  ],
+  "url": "https://www.prolights.it/en/product/SUNRISE2IP",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "sunrise-4flxfc",
+  "model": "SunRise 4FLXFC",
+  "kind": "blinder",
+  "leds": [
+   4,
+   "rgb"
+  ],
+  "deg": [
+   98,
+   98
+  ],
+  "ch": [
+   1,
+   56
+  ],
+  "size": [
+   542,
+   489,
+   191
+  ],
+  "url": "https://www.prolights.it/en/product/SUNRISE4FLXFC",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Prolights",
+  "key": "sunrise-4flxvw",
+  "model": "SunRise 4FLXVW",
+  "kind": "blinder",
+  "leds": [
+   4,
+   "wwcw"
+  ],
+  "deg": [
+   95,
+   95
+  ],
+  "ch": [
+   1,
+   18
+  ],
+  "pixelFrom": 18,
+  "size": [
+   542,
+   489,
+   191
+  ],
+  "url": "https://www.prolights.it/en/product/SUNRISE4FLXVW",
+  "note": "Steckbrief aus Herstellerangaben (prolights.it, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

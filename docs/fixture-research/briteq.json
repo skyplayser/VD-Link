@@ -1,0 +1,2638 @@
+[
+ {
+  "manufacturer": "Briteq",
+  "model": "BEAMSPOT-4BAR NW",
+  "kind": "bar",
+  "light": "LED, 71 W Aufnahme",
+  "beamDeg": [
+   4.0,
+   45.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   5
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   552,
+   85,
+   315
+  ],
+  "weightKg": 6.74,
+  "url": "https://briteq-lighting.com/beamspot-4bar-nw",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1521797152.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BEAMSPOT-4BAR WW",
+  "kind": "bar",
+  "light": "LED, 71 W Aufnahme",
+  "beamDeg": [
+   4.0,
+   45.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   5
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   552,
+   85,
+   315
+  ],
+  "weightKg": 6.74,
+  "url": "https://briteq-lighting.com/beamspot-4bar-ww",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1521797152.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BEAMSPOT1-DMX WW",
+  "kind": "par",
+  "light": "LED, White warm, 17 W Aufnahme",
+  "beamDeg": [
+   4.0,
+   45.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   172,
+   196,
+   125
+  ],
+  "weightKg": 1.23,
+  "url": "https://briteq-lighting.com/beamspot1-dmx-ww",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BEAMSPOT1-TRIAC NW",
+  "kind": "par",
+  "light": "LED, White, 15 W Aufnahme",
+  "beamDeg": [
+   4.0,
+   45.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   172,
+   156,
+   125
+  ],
+  "weightKg": 1.23,
+  "url": "https://briteq-lighting.com/beamspot1-triac-nw",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BEAMSPOT1-TRIAC WW",
+  "kind": "par",
+  "light": "LED, White warm, 15 W Aufnahme",
+  "beamDeg": [
+   4.0,
+   45.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   172,
+   156,
+   125
+  ],
+  "weightKg": 1.23,
+  "url": "https://briteq-lighting.com/beamspot1-triac-ww",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-AKKUBAR",
+  "kind": "bar",
+  "light": "LED, White warm",
+  "beamDeg": [
+   25.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1
+  ],
+  "features": [
+   "battery/wireless",
+   "frost"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   350,
+   195,
+   66
+  ],
+  "weightKg": 2.73,
+  "url": "https://briteq-lighting.com/bt-akkubar",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1594890384.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-AKKULITE IP",
+  "kind": "par",
+  "light": "LED, Amber, RGBWA, 60 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   10
+  ],
+  "features": [
+   "battery/wireless",
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   180,
+   150,
+   198
+  ],
+  "weightKg": 4.5,
+  "url": "https://briteq-lighting.com/bt-akkulite-ip",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1764335473.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-AKKULITE IP MINI",
+  "kind": "par",
+  "light": "LED, Amber, RGBWA, 40 W Aufnahme",
+  "beamDeg": [
+   17.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   10
+  ],
+  "features": [
+   "battery/wireless",
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   167,
+   138,
+   150
+  ],
+  "weightKg": 2.7,
+  "url": "https://briteq-lighting.com/bt-akkulite-ip-mini",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1764335905.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-BLINDER2 IP",
+  "kind": "blinder",
+  "light": "COB, White, White warm, 310 W Aufnahme",
+  "beamDeg": [
+   56.0,
+   56.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   12
+  ],
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   400,
+   200,
+   230
+  ],
+  "weightKg": 8.0,
+  "url": "https://briteq-lighting.com/bt-blinder2-ip",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1576566362.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-BOOTHLITE 35TWD",
+  "kind": null,
+  "light": "LED, White cold, White warm, White natural, 35 W Aufnahme",
+  "beamDeg": [
+   120.0,
+   120.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 0.8,
+  "url": "https://briteq-lighting.com/bt-boothlite-35twd",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1780051615.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-CHROMA 800",
+  "kind": "effect",
+  "light": "LED, Lime, RGBL, 750 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   81
+  ],
+  "features": [
+   "frost",
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   450,
+   150,
+   310
+  ],
+  "weightKg": 12.3,
+  "url": "https://briteq-lighting.com/bt-chroma-800",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1756200129.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-COLORAY 18FCR (XLR 5pin)",
+  "kind": "effect",
+  "light": "LED, Red, Green, Blue, White, RGBW, 123 W Aufnahme",
+  "beamDeg": [
+   20.0,
+   20.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   7
+  ],
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 5.28,
+  "url": "https://briteq-lighting.com/bt-coloray-18fcr-xlr-5pin",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1550743398.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-COLORAY MULTI",
+  "kind": "effect",
+  "light": "COB, RGBW, 129 W Aufnahme",
+  "beamDeg": [
+   13.0,
+   35.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   7
+  ],
+  "features": [
+   "frost",
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 4.8,
+  "url": "https://briteq-lighting.com/bt-coloray-multi",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1563365664.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-LASER2000 RGB",
+  "kind": "laser",
+  "light": "RGB, 42 W Aufnahme",
+  "beamDeg": [
+   1.0,
+   36.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   17
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   260,
+   185,
+   155
+  ],
+  "weightKg": 5.05,
+  "url": "https://briteq-lighting.com/bt-laser2000-rgb",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1621929712.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-MAGICFLASH",
+  "kind": "strobe",
+  "light": "LED, White, 250 W Aufnahme",
+  "beamDeg": [
+   120.0,
+   120.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   13
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 3.96,
+  "url": "https://briteq-lighting.com/bt-magicflash",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1475569374.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-MAGICFLASH RGB",
+  "kind": "strobe",
+  "light": "LED, RGB, 140 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   13
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 3.96,
+  "url": "https://briteq-lighting.com/bt-magicflash-rgb",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1500881826.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-NONABEAM - BQ1",
+  "kind": "effect",
+  "light": "LED, White, White cold, White warm, RGB, RGBW",
+  "beamDeg": [
+   4.0,
+   4.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   13,
+   45
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   580,
+   220,
+   140
+  ],
+  "weightKg": 16.0,
+  "url": "https://briteq-lighting.com/bt-nonabeam",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1528876807.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-NONAMIRROR",
+  "kind": "spot",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 3.0,
+  "url": "https://briteq-lighting.com/bt-nonamirror",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-NONAMOVE",
+  "kind": "beam",
+  "light": "50 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   18,
+   50
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 15.5,
+  "url": "https://briteq-lighting.com/bt-nonamove",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1590049910.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-NONAPIXEL WHITE",
+  "kind": "effect",
+  "light": "LED, White cold, White warm, RGB, 66 W Aufnahme",
+  "beamDeg": [
+   4.0,
+   45.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   95
+  ],
+  "features": [
+   "frost",
+   "ip65",
+   "pixel-control"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 4.5,
+  "url": "https://briteq-lighting.com/bt-nonapixel-white",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1590390223.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-PROFILE 500TW/LED ENGINE",
+  "kind": "ellipsoidal",
+  "light": "COB, White, White cold, White warm, 253 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   4
+  ],
+  "features": [
+   "focus",
+   "framing",
+   "gobo",
+   "iris",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   310,
+   250,
+   350
+  ],
+  "weightKg": 5.26,
+  "url": "https://briteq-lighting.com/bt-profile-500tw-led-engine",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1736947564.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-PROFILE 6C10",
+  "kind": "ellipsoidal",
+  "light": "LED, White, RGBALC (Red, Green, Blue, Amber, Lime, Cyan), 200 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   19
+  ],
+  "features": [
+   "focus",
+   "framing",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   568,
+   191,
+   224
+  ],
+  "weightKg": 6.2,
+  "url": "https://briteq-lighting.com/bt-profile-6c10",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1789973560.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-PROFILE 6C20 ENGINE",
+  "kind": "ellipsoidal",
+  "light": "LED, RGBALC (Red, Green, Blue, Amber, Lime, Cyan), 290 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   21
+  ],
+  "features": [
+   "focus",
+   "framing",
+   "iris",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   301,
+   578,
+   226
+  ],
+  "weightKg": 6.54,
+  "url": "https://briteq-lighting.com/bt-profile-6c20-engine",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1724922472.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-PROFILE COMPACT 3200K",
+  "kind": "ellipsoidal",
+  "light": "LED, White, White warm, 27 W Aufnahme",
+  "beamDeg": [
+   19.0,
+   36.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   320,
+   130,
+   140
+  ],
+  "weightKg": 1.25,
+  "url": "https://briteq-lighting.com/bt-profile-compact-3200k",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1573130659.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-PROFILE HD",
+  "kind": "ellipsoidal",
+  "light": "LED, Red, Green, Blue, Amber, Lime, RGBAL, 170 W Aufnahme",
+  "beamDeg": [
+   25.0,
+   50.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   18
+  ],
+  "features": [
+   "focus",
+   "framing",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   224,
+   191,
+   568
+  ],
+  "weightKg": 6.5,
+  "url": "https://briteq-lighting.com/bt-profile-hd",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1655471522.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-PROFILE WW",
+  "kind": "ellipsoidal",
+  "light": "LED, White warm, 170 W Aufnahme",
+  "beamDeg": [
+   25.0,
+   50.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   4
+  ],
+  "features": [
+   "focus",
+   "framing",
+   "gobo",
+   "gobos-fixed:1",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   224,
+   191,
+   568
+  ],
+  "weightKg": 6.2,
+  "url": "https://briteq-lighting.com/bt-profile-ww",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1682005174.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-PROFILE250/LED ENGINE",
+  "kind": "ellipsoidal",
+  "light": "LED, White, White warm, 270 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2
+  ],
+  "features": [
+   "gobo",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   310,
+   250,
+   350
+  ],
+  "weightKg": 5.26,
+  "url": "https://briteq-lighting.com/bt-profile250-led-engine",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1610355020.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-SHARK",
+  "kind": "spot",
+  "light": "LED, 300 W Aufnahme",
+  "beamDeg": [
+   10.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   19
+  ],
+  "features": [
+   "focus",
+   "frost",
+   "gobos-fixed:6",
+   "gobos-rot:6",
+   "prism",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 9.5,
+  "url": "https://briteq-lighting.com/bt-shark",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1645610554.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-SUNRAY 130R",
+  "kind": "effect",
+  "light": "COB, White, White warm, 130 W Aufnahme",
+  "beamDeg": [
+   15.0,
+   35.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   8
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 5.3,
+  "url": "https://briteq-lighting.com/bt-sunray-130r",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1607683478.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-THEATRE 100MZ",
+  "kind": "fresnel",
+  "light": "COB, White, White warm, 105 W Aufnahme",
+  "beamDeg": [
+   15.0,
+   45.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   4
+  ],
+  "features": [
+   "focus",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 7.2,
+  "url": "https://briteq-lighting.com/bt-theatre-100mz",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1612259073.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-THEATRE 150EZ Mk3",
+  "kind": "fresnel",
+  "light": "COB, White warm, 160 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   9
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 9.8,
+  "url": "https://briteq-lighting.com/bt-theatre-150ez-mk3",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1787039506.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-THEATRE 20WW (BLACK)",
+  "kind": "effect",
+  "light": "LED, White, Amber, White warm, 20 W Aufnahme",
+  "beamDeg": [
+   15.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "frost"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   186,
+   141,
+   211
+  ],
+  "weightKg": 2.5,
+  "url": "https://briteq-lighting.com/bt-theatre-20ww-black",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1607030056.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-THEATRE 400TW",
+  "kind": "fresnel",
+  "light": "COB, White cold, White warm, 210 W Aufnahme",
+  "beamDeg": [
+   11.0,
+   56.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   6
+  ],
+  "features": [
+   "focus",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 8.25,
+  "url": "https://briteq-lighting.com/bt-theatre-400tw",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1664199028.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-THEATRE 50WW (BLACK)",
+  "kind": "par",
+  "light": "COB, White warm, 50 W Aufnahme",
+  "beamDeg": [
+   10.0,
+   50.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   241,
+   251,
+   195
+  ],
+  "weightKg": 3.63,
+  "url": "https://briteq-lighting.com/bt-theatre-50ww-black",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1475658745.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-THEATRE 50WW (WHITE)",
+  "kind": "par",
+  "light": "COB, White warm, 50 W Aufnahme",
+  "beamDeg": [
+   10.0,
+   50.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   241,
+   251,
+   195
+  ],
+  "weightKg": 3.63,
+  "url": "https://briteq-lighting.com/bt-theatre-50ww-white",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1475658745.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-THEATRE 60FCL",
+  "kind": "par",
+  "light": "COB, Red, Green, Blue, Lime, RGBL, 62 W Aufnahme",
+  "beamDeg": [
+   17.0,
+   40.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   7
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   241,
+   251,
+   195
+  ],
+  "weightKg": 3.63,
+  "url": "https://briteq-lighting.com/bt-theatre-60fcl",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1667896998.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-TVPANEL TW",
+  "kind": "panel",
+  "light": "LED, White, White cold, White warm, 290 W Aufnahme",
+  "beamDeg": [
+   115.0,
+   115.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   7
+  ],
+  "features": [
+   "frost",
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   562,
+   368,
+   195
+  ],
+  "weightKg": 9.7,
+  "url": "https://briteq-lighting.com/bt-tvpanel-tw",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1655473363.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-VENUELITE4",
+  "kind": "effect",
+  "light": "COB, White warm, 160 W Aufnahme",
+  "beamDeg": [
+   24.0,
+   60.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   4
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   423,
+   112,
+   179
+  ],
+  "weightKg": 5.6,
+  "url": "https://briteq-lighting.com/bt-venuelite4",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1695722974.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-VERTIGO",
+  "kind": "wash",
+  "light": "LED, RGBL, 300 W Aufnahme",
+  "beamDeg": [
+   4.0,
+   45.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   17,
+   23
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   250,
+   165,
+   384
+  ],
+  "weightKg": 6.25,
+  "url": "https://briteq-lighting.com/bt-vertigo",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1736946394.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BTI-AKKUBEAMER",
+  "kind": "par",
+  "light": "LED, RGBL, 75 W Aufnahme",
+  "beamDeg": [
+   12.0,
+   26.1
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   8
+  ],
+  "features": [
+   "battery/wireless",
+   "frost",
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   170,
+   234,
+   279
+  ],
+  "weightKg": 5.3,
+  "url": "https://briteq-lighting.com/bti-akkubeamer",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1764081689.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BTI-AKKUCHROMA",
+  "kind": "par",
+  "light": "LED, RGBL, 200 W Aufnahme",
+  "beamDeg": [
+   12.0,
+   24.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   8
+  ],
+  "features": [
+   "battery/wireless",
+   "frost",
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   410,
+   184,
+   269
+  ],
+  "weightKg": 10.7,
+  "url": "https://briteq-lighting.com/bti-akkuchroma",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1749806512.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BTI-BEAMBAR18",
+  "kind": "bar",
+  "light": "LED, Lime, RGBL, 450 W Aufnahme",
+  "beamDeg": [
+   6.0,
+   6.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   11,
+   96
+  ],
+  "features": [
+   "frost",
+   "ip65",
+   "pixel-control"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   85,
+   210
+  ],
+  "weightKg": 11.0,
+  "url": "https://briteq-lighting.com/bti-beambar18",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1762338696.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BTI-BLINDER1 FX",
+  "kind": "blinder",
+  "light": "LED, RGB, 75 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   58
+  ],
+  "features": [
+   "pixel-control"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 2.0,
+  "url": "https://briteq-lighting.com/bti-blinder1-fx",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1737646692.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BTI-BLIZZARD BSW1",
+  "kind": "spot",
+  "light": "LED, CMY, 420 W Aufnahme",
+  "beamDeg": [
+   2.3,
+   44.3
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   21,
+   28
+  ],
+  "features": [
+   "focus",
+   "frost",
+   "gobos-fixed:12",
+   "gobos-rot:7",
+   "ip65",
+   "prism",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   359,
+   244,
+   595
+  ],
+  "weightKg": 22.0,
+  "url": "https://briteq-lighting.com/bti-blizzard-bsw1",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1737973851.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BTI-BLIZZARD BSW2",
+  "kind": "spot",
+  "light": "LED, 560 W Aufnahme",
+  "beamDeg": [
+   3.0,
+   30.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   22,
+   29
+  ],
+  "features": [
+   "focus",
+   "frost",
+   "gobos-fixed:8",
+   "gobos-rot:8",
+   "ip65",
+   "prism",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   416,
+   358,
+   670
+  ],
+  "weightKg": 34.0,
+  "url": "https://briteq-lighting.com/bti-blizzard-bsw2",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1704466377.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BTI-BLIZZARD LBEAM",
+  "kind": "beam",
+  "light": "LEP – Laser Emitted, White, CMY, 150 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   19,
+   25
+  ],
+  "features": [
+   "focus",
+   "frost",
+   "gobos-rot:12",
+   "ip65",
+   "prism"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   516,
+   330,
+   244
+  ],
+  "weightKg": 19.0,
+  "url": "https://briteq-lighting.com/bti-blizzard-lbeam",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1760086339.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BTI-BLIZZARD PROFILE",
+  "kind": "profile",
+  "light": "LED, CMY, 750 W Aufnahme",
+  "beamDeg": [
+   7.0,
+   50.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   35,
+   44
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "focus",
+   "framing",
+   "frost",
+   "gobos-fixed:10",
+   "gobos-rot:7",
+   "ip65",
+   "iris",
+   "prism",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   420,
+   360,
+   730
+  ],
+  "weightKg": 34.0,
+  "url": "https://briteq-lighting.com/bti-blizzard-profile",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1761824891.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BTI-BLIZZARD WASH1",
+  "kind": "wash",
+  "light": "LED, Lime, RGBL, 320 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   18,
+   27
+  ],
+  "features": [
+   "ip65",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   290,
+   227,
+   375
+  ],
+  "weightKg": 10.3,
+  "url": "https://briteq-lighting.com/bti-blizzard-wash1",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1723637269.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BTI-BLIZZARD WASH2s",
+  "kind": "wash",
+  "light": "LED, Lime, RGBL, 1000 W Aufnahme",
+  "beamDeg": [
+   3.8,
+   38.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   26,
+   133
+  ],
+  "features": [
+   "ip65",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   421,
+   316,
+   480
+  ],
+  "weightKg": 22.3,
+  "url": "https://briteq-lighting.com/bti-blizzard-wash2s",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1742475756.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BTI-CYCLO",
+  "kind": "bar",
+  "light": "LED, Amber, Lime, Cyan, RGBALC (Red, Green, Blue, Amber, Lime, Cyan), 160 W Aufnahme",
+  "beamDeg": [
+   83.0,
+   83.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   20
+  ],
+  "features": [
+   "ip65",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   530,
+   170,
+   110
+  ],
+  "weightKg": 6.0,
+  "url": "https://briteq-lighting.com/bti-cyclo",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1794302144.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BTI-EXPOBEAM WW",
+  "kind": "effect",
+  "light": "COB, White warm, 115 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   4
+  ],
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 5.4,
+  "url": "https://briteq-lighting.com/bti-expobeam-ww",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1761573532.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BTI-FLATPAR12",
+  "kind": "par",
+  "light": "LED, UV, RGBAL, 150 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   12
+  ],
+  "features": [
+   "ip65",
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   280,
+   305,
+   142
+  ],
+  "weightKg": 5.3,
+  "url": "https://briteq-lighting.com/bti-flatpar12",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1780994474.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BTI-LIGHTSTRIKE IP66",
+  "kind": "bar",
+  "light": "LED, RGBW, 285 W Aufnahme",
+  "beamDeg": [
+   116.0,
+   116.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   123
+  ],
+  "features": [
+   "ip65",
+   "pixel-control"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   91,
+   125
+  ],
+  "weightKg": 9.0,
+  "url": "https://briteq-lighting.com/bti-lightstrike-ip66",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1701337697.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BTI-RAPTOR",
+  "kind": "strobe",
+  "light": "LED, RGBW, 1000 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   10,
+   80
+  ],
+  "features": [
+   "frost",
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   510,
+   320,
+   140
+  ],
+  "weightKg": 14.35,
+  "url": "https://briteq-lighting.com/bti-raptor",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1786711002.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BTI-SPECTRABLAST",
+  "kind": "blinder",
+  "light": "LED, RGBALC (Red, Green, Blue, Amber, Lime, Cyan), 230 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   12
+  ],
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   232,
+   293,
+   162
+  ],
+  "weightKg": 4.8,
+  "url": "https://briteq-lighting.com/bti-spectrablast",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1788172120.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BTI-THEATRE 6C20",
+  "kind": "fresnel",
+  "light": "LED, RGBALC (Red, Green, Blue, Amber, Lime, Cyan), 430 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   10,
+   20
+  ],
+  "features": [
+   "ip65",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   477,
+   330,
+   393
+  ],
+  "weightKg": 10.5,
+  "url": "https://briteq-lighting.com/bti-theatre-6c20",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1790585462.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BTI-VERSABEAM",
+  "kind": "effect",
+  "light": "LED, RGBL, 72 W Aufnahme",
+  "beamDeg": [
+   12.0,
+   26.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   8
+  ],
+  "features": [
+   "frost",
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   170,
+   234,
+   279
+  ],
+  "weightKg": 4.2,
+  "url": "https://briteq-lighting.com/bti-versabeam",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1786525218.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BTX-CIRRUS 3",
+  "kind": "wash",
+  "light": "LED, RGBL, 700 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   24,
+   100
+  ],
+  "features": [
+   "battery/wireless",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   503,
+   364,
+   293
+  ],
+  "weightKg": 17.6,
+  "url": "https://briteq-lighting.com/btx-cirrus-3",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1790582453.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BTX-LIGHTSTRIKE",
+  "kind": "bar",
+  "light": "LED, RGBW, 350 W Aufnahme",
+  "beamDeg": [
+   116.0,
+   116.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   123
+  ],
+  "features": [
+   "pixel-control"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   84,
+   111
+  ],
+  "weightKg": 5.5,
+  "url": "https://briteq-lighting.com/btx-lightstrike",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1661521062.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BTX-SKYRAN",
+  "kind": "blinder",
+  "light": "LED, Amber, RGBWA, 1400 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   13,
+   1952
+  ],
+  "features": [
+   "pixel-control"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   630,
+   546,
+   85
+  ],
+  "weightKg": 13.8,
+  "url": "https://briteq-lighting.com/btx-skyran",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1765890758.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BTX-SUPREME",
+  "kind": "spot",
+  "light": "Discharge, Red, Green, Blue, White, Amber, White cold, White warm, CMY, 800 W Aufnahme",
+  "beamDeg": [
+   1.8,
+   42.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   24,
+   35
+  ],
+  "features": [
+   "focus",
+   "gobos-fixed:13",
+   "gobos-rot:9",
+   "iris",
+   "prism",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   545,
+   397,
+   470
+  ],
+  "weightKg": 26.5,
+  "url": "https://briteq-lighting.com/btx-supreme",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1634736963.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "COB PAR56-100WW SILVER",
+  "kind": "cob",
+  "light": "COB, White, White warm",
+  "beamDeg": [
+   60.0,
+   60.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 2.8,
+  "url": "https://briteq-lighting.com/cob-par56-100ww-silver",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1435905580.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "EXPO CANNON",
+  "kind": "effect",
+  "light": "LED, White cold, 380 W Aufnahme",
+  "beamDeg": [
+   20.0,
+   20.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   366,
+   348,
+   317
+  ],
+  "weightKg": 8.5,
+  "url": "https://briteq-lighting.com/expo-cannon",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1513699443.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "LDP-COLORBAR 12FC",
+  "kind": "bar",
+  "light": "LED, RGBW, 56 W Aufnahme",
+  "beamDeg": [
+   15.0,
+   15.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   10
+  ],
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 3.0,
+  "url": "https://briteq-lighting.com/ldp-colorbar-12fc",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1603189963.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "LDP-COLORBAR 24FC",
+  "kind": "bar",
+  "light": "LED, RGBW, 110 W Aufnahme",
+  "beamDeg": [
+   15.0,
+   15.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   20
+  ],
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 5.02,
+  "url": "https://briteq-lighting.com/ldp-colorbar-24fc",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1603189963.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "LDP-COLORSTRIP 12FC",
+  "kind": "bar",
+  "light": "LED, RGBW, 56 W Aufnahme",
+  "beamDeg": [
+   15.0,
+   34.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   10
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 2.31,
+  "url": "https://briteq-lighting.com/ldp-colorstrip-12fc",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1522396469.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "LDP-COLORSTRIP 24FC",
+  "kind": "bar",
+  "light": "LED, RGBW, 85 W Aufnahme",
+  "beamDeg": [
+   15.0,
+   34.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   20
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 3.6,
+  "url": "https://briteq-lighting.com/ldp-colorstrip-24fc",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1522396469.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "LED UV-GUN 100W",
+  "kind": "par",
+  "light": "UV, UV, 95 W Aufnahme",
+  "beamDeg": [
+   60.0,
+   60.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2
+  ],
+  "features": [
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   300,
+   309,
+   264
+  ],
+  "weightKg": 4.1,
+  "url": "https://briteq-lighting.com/led-uv-gun-100w",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1481804830.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "Powerpixel4-RGB",
+  "kind": "effect",
+  "light": "COB, RGB, 120 W Aufnahme",
+  "beamDeg": [
+   60.0,
+   60.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   16
+  ],
+  "features": [
+   "pixel-control"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   440,
+   150,
+   180
+  ],
+  "weightKg": 5.2,
+  "url": "https://briteq-lighting.com/powerpixel4-rgb",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1462891069.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "Powerpixel8-RGB",
+  "kind": "effect",
+  "light": "COB, RGB, 240 W Aufnahme",
+  "beamDeg": [
+   60.0,
+   60.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   16
+  ],
+  "features": [
+   "pixel-control"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   880,
+   60,
+   170
+  ],
+  "weightKg": 8.16,
+  "url": "https://briteq-lighting.com/powerpixel8-rgb",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1462891069.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "PRO BEAMER ZOOM Mk5 - RENTAL",
+  "kind": null,
+  "light": "LED, RGBW, 128 W Aufnahme",
+  "beamDeg": [
+   8.0,
+   40.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   25
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   355,
+   191,
+   236
+  ],
+  "weightKg": 7.0,
+  "url": "https://briteq-lighting.com/pro-beamer-zoom-mk5-rental",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1634046117.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "STAGE BEAMER FC - INDOOR",
+  "kind": "effect",
+  "light": "LED, RGB, RGBW, 65 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   15
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   245,
+   205,
+   245
+  ],
+  "weightKg": 4.96,
+  "url": "https://briteq-lighting.com/stage-beamer-fc-indoor",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1516807941.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "STAGE BEAMER FC - OUTDOOR",
+  "kind": "effect",
+  "light": "LED, RGB, RGBW, 65 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   15
+  ],
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   245,
+   205,
+   245
+  ],
+  "weightKg": 4.96,
+  "url": "https://briteq-lighting.com/stage-beamer-fc-outdoor",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1516807922.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-BOOTHLITE 35TW",
+  "kind": null,
+  "light": "LED, White cold, White warm, White natural, 35 W Aufnahme",
+  "beamDeg": [
+   120.0,
+   120.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 0.8,
+  "url": "https://briteq-lighting.com/bt-boothlite-35tw",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1765447081.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BTX-BLIZZARD WASH1",
+  "kind": "wash",
+  "light": "LED, Lime, RGBL, 320 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   18,
+   27
+  ],
+  "features": [
+   "ip65",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   290,
+   227,
+   375
+  ],
+  "weightKg": 10.3,
+  "url": "https://briteq-lighting.com/btx-blizzard-wash1",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1705674830.pdf",
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BEAMSPOT1-DMX FC",
+  "kind": "par",
+  "light": "LED, RGBW, 15 W Aufnahme",
+  "beamDeg": [
+   4.0,
+   45.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   7
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   172,
+   196,
+   125
+  ],
+  "weightKg": 1.23,
+  "url": "https://briteq-lighting.com/beamspot1-dmx-fc",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "ofl:briteq/beamspot1-dmx-fc",
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-COLORAY 120R",
+  "kind": "effect",
+  "light": "LED, RGB, RGBW, 129 W Aufnahme",
+  "beamDeg": [
+   15.0,
+   15.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   7
+  ],
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   240,
+   270,
+   300
+  ],
+  "weightKg": 5.53,
+  "url": "https://briteq-lighting.com/bt-coloray-120r",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1547713097.pdf",
+  "status": "current",
+  "inLibrary": "ofl:briteq/bt-coloray-120r",
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-COLORAY 18FCR",
+  "kind": "effect",
+  "light": "LED, Red, Green, Blue, White, RGBW, 123 W Aufnahme",
+  "beamDeg": [
+   20.0,
+   20.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   7
+  ],
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 5.28,
+  "url": "https://briteq-lighting.com/bt-coloray-18fcr",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1550743398.pdf",
+  "status": "current",
+  "inLibrary": "ofl:briteq/bt-coloray-18fcr",
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-COLORAY 18FCR WHITE",
+  "kind": "effect",
+  "light": "LED, Red, Green, Blue, White, RGBW, 123 W Aufnahme",
+  "beamDeg": [
+   20.0,
+   20.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   7
+  ],
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 5.28,
+  "url": "https://briteq-lighting.com/bt-coloray-18fcr-white",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1550743398.pdf",
+  "status": "current",
+  "inLibrary": "ofl:briteq/bt-coloray-18fcr",
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Bibliothekstreffer per Namenskern (prüfen); Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-ORBIT",
+  "kind": null,
+  "light": "LED, RGBW, 290 W Aufnahme",
+  "beamDeg": [
+   10.0,
+   60.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   14,
+   27
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   395,
+   325,
+   225
+  ],
+  "weightKg": 9.2,
+  "url": "https://briteq-lighting.com/bt-orbit",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1497009219.pdf",
+  "status": "current",
+  "inLibrary": "qlc:briteq/bt-orbit",
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-SMARTZOOM",
+  "kind": "effect",
+  "light": "LED, White cold, White warm, RGBW, 130 W Aufnahme",
+  "beamDeg": [
+   4.0,
+   36.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   17
+  ],
+  "features": [
+   "ip65",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   274,
+   388,
+   210
+  ],
+  "weightKg": 7.7,
+  "url": "https://briteq-lighting.com/bt-smartzoom",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1478179238.pdf",
+  "status": "current",
+  "inLibrary": "qlc:briteq/bt-smartzoom",
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-THEATRE 200TW",
+  "kind": "fresnel",
+  "light": "COB, White, White cold, White warm, 105 W Aufnahme",
+  "beamDeg": [
+   12.0,
+   56.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   5
+  ],
+  "features": [
+   "focus",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 7.2,
+  "url": "https://briteq-lighting.com/bt-theatre-200tw",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1612258345.pdf",
+  "status": "current",
+  "inLibrary": "qlc:briteq/bt-theatre-200tw",
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-THEATRE 250EZ Mk3",
+  "kind": "fresnel",
+  "light": "COB, White warm, 260 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   9
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 9.8,
+  "url": "https://briteq-lighting.com/bt-theatre-250ez-mk3",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1787039506.pdf",
+  "status": "current",
+  "inLibrary": "qlc:briteq/bt-theatre-250ez-mk3",
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BT-THEATRE 261FC",
+  "kind": "fresnel",
+  "light": "LED, White, Amber, Lime, RGBALC (Red, Green, Blue, Amber, Lime, Cyan), 230 W Aufnahme",
+  "beamDeg": [
+   15.0,
+   50.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   21
+  ],
+  "features": [
+   "frost",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   392,
+   223,
+   330
+  ],
+  "weightKg": 8.2,
+  "url": "https://briteq-lighting.com/bt-theatre-261fc",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1664355948.pdf",
+  "status": "current",
+  "inLibrary": "qlc:briteq/bt-theatre-261fc",
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "BTX-TITAN",
+  "kind": "effect",
+  "light": "Discharge, 400 W Aufnahme",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   16,
+   25
+  ],
+  "features": [
+   "focus",
+   "frost",
+   "gobos-fixed:14",
+   "gobos-rot:9",
+   "prism",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   391,
+   287,
+   583
+  ],
+  "weightKg": 22.0,
+  "url": "https://briteq-lighting.com/btx-titan",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1449649879.pdf",
+  "status": "current",
+  "inLibrary": "ofl:briteq/btx-titan",
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch; Typ aus Kurzbeschreibung abgeleitet"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "COB Blinder 2x100W",
+  "kind": "blinder",
+  "light": "COB, White, 235 W Aufnahme",
+  "beamDeg": [
+   60.0,
+   60.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   4
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   440,
+   253,
+   144
+  ],
+  "weightKg": 4.46,
+  "url": "https://briteq-lighting.com/cob-blinder-2x100w",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1418229496.pdf",
+  "status": "current",
+  "inLibrary": "qlc:briteq/cob-blinder-2x100w",
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ },
+ {
+  "manufacturer": "Briteq",
+  "model": "LDP-COBWASH 150TC",
+  "kind": "flood",
+  "light": "COB, RGB, 170 W Aufnahme",
+  "beamDeg": [
+   60.0,
+   60.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   6
+  ],
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   326,
+   344,
+   220
+  ],
+  "weightKg": 9.5,
+  "url": "https://briteq-lighting.com/ldp-cobwash-150tc",
+  "manualUrl": "https://briteq-lighting.com/media/custom/upload/File-1517408740.pdf",
+  "status": "current",
+  "inLibrary": "qlc:briteq/ldp-cobwash-150tc",
+  "notes": "Kanalzahlen = min/max laut Herstellerattribut, Zwischenmodi ggf. im Handbuch"
+ }
+]

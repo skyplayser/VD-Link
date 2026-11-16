@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; media-src 'self' blob: mediastream:; connect-src 'self' https://api.github.com ws://localhost:5199 http://localhost:5199; worker-src 'self' blob:"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>VD-Link</title>
+    <link rel="icon" href="./icon.png" />
+    <link rel="stylesheet" href="/src/style.css" />
+  </head>
+  <body>
+    <div id="shell" hidden>
+      <header class="top">
+        <div class="logo" id="logo"></div>
+        <div class="menu-wrap">
+          <button class="pill proj-btn" id="proj-btn" aria-haspopup="menu"></button>
+          <div class="menu" id="proj-menu" role="menu" hidden></div>
+        </div>
+        <nav class="tabs" role="tablist" id="tabs"></nav>
+        <div class="status" id="status"></div>
+        <button class="iconbtn" id="gear"></button>
+      </header>
+      <main>
+        <section class="tab on" id="tab-view">
+          <div id="view"></div>
+          <div class="hud" id="hud"></div>
+          <div class="toolbar" id="toolbar"></div>
+        </section>
+        <section class="tab" id="tab-patch"></section>
+        <section class="tab" id="tab-library"></section>
+        <section class="tab" id="tab-walls"></section>
+        <section class="tab" id="tab-connect"></section>
+      </main>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

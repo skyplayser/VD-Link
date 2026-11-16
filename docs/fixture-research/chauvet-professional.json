@@ -1,0 +1,6769 @@
+[
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Color STRIKE M",
+  "kind": "strobe",
+  "light": "896 LEDs (tri-color) SMD 5050, 0.784 W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   8,
+   11,
+   13,
+   24,
+   30,
+   47,
+   68,
+   74,
+   97
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   407,
+   175,
+   312
+  ],
+  "weightKg": 12.1,
+  "url": "https://chauvetprofessional.com/product/color-strike-m/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "vd:chauvet-professional/color-strike-m",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORado 1-Quad Zoom",
+  "kind": "par",
+  "light": "7 LEDs (quad-color RGBW) 15 W",
+  "beamDeg": [
+   7,
+   45
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   10,
+   12,
+   17,
+   25
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   357,
+   236,
+   190
+  ],
+  "weightKg": 7,
+  "url": "https://chauvetprofessional.com/product/colorado-1-quad-zoom/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORado 1 Quad",
+  "kind": "par",
+  "light": "14 LEDs (quad-color RGBW) 5 W",
+  "beamDeg": [
+   14.1,
+   14.1
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   5,
+   6,
+   7,
+   9,
+   10,
+   13,
+   15
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   304,
+   246,
+   202
+  ],
+  "weightKg": 4.5,
+  "url": "https://chauvetprofessional.com/product/colorado-1-quad/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORado 1 Solo",
+  "kind": "par",
+  "light": "1 LEDs (quad-color RGBW) 60 W",
+  "beamDeg": [
+   4,
+   55
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   9,
+   12,
+   17
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   346,
+   176,
+   242
+  ],
+  "weightKg": 5.4,
+  "url": "https://chauvetprofessional.com/product/colorado-1-solo/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:chauvet/colorado-1-solo",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORado 1QS",
+  "kind": "par",
+  "light": "24 LEDs (quad-color RGBW) 3 W",
+  "beamDeg": [
+   17,
+   17
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   7,
+   10,
+   15
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   273,
+   210,
+   335
+  ],
+  "weightKg": 5,
+  "url": "https://chauvetprofessional.com/product/colorado-1qs/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORado 2-Quad Zoom",
+  "kind": "par",
+  "light": "14 LEDs (quad-color RGBW) 15 W",
+  "beamDeg": [
+   7,
+   45
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   12,
+   17
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   330,
+   284,
+   236
+  ],
+  "weightKg": 8.6,
+  "url": "https://chauvetprofessional.com/product/colorado-2-quad-zoom/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:chauvet/colorado-2-quad-zoom",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORado 2 Solo VW",
+  "kind": "par",
+  "light": "3 LEDs (dual-color CW-WW) 35 W",
+  "beamDeg": [
+   4.8,
+   35.5
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   4,
+   7,
+   10
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   210,
+   274,
+   387
+  ],
+  "weightKg": 7.2,
+  "url": "https://chauvetprofessional.com/product/colorado-2-solo-vw/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORado 2 Solo",
+  "kind": "par",
+  "light": "3 LEDs (quad-color RGBW) 40 W",
+  "beamDeg": [
+   5,
+   42
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   9,
+   12,
+   17
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   210,
+   274,
+   387
+  ],
+  "weightKg": 7.3,
+  "url": "https://chauvetprofessional.com/product/colorado-2-solo/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "ofl:chauvet-professional/colorado-2-solo",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORado 3 Quad Zoom",
+  "kind": "par",
+  "light": "7 LEDs (quad-color RGBL), 8.4 to 13 W",
+  "beamDeg": [
+   3.9,
+   52.6
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   5,
+   7,
+   11,
+   12,
+   13,
+   16
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   415,
+   278,
+   211
+  ],
+  "weightKg": null,
+  "url": "https://chauvetprofessional.com/product/colorado-3-quad-zoom/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORado 3 Solo",
+  "kind": "par",
+  "light": "3 LEDs (quad-color RGBW) 60 W",
+  "beamDeg": [
+   4,
+   45
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   9,
+   12,
+   17
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   250,
+   314,
+   413
+  ],
+  "weightKg": 9,
+  "url": "https://chauvetprofessional.com/product/colorado-3-solo/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "ofl:chauvet-professional/colorado-3-solo",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORado Batten 72X",
+  "kind": "bar",
+  "light": "72 LEDs (18 red, 18 green, 18 blue, 9 white, 9 amber) 3 W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   4,
+   5,
+   8,
+   9,
+   10,
+   16,
+   12,
+   15,
+   21,
+   22,
+   24,
+   27,
+   30,
+   43
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   156,
+   75
+  ],
+  "weightKg": 8.4,
+  "url": "https://chauvetprofessional.com/product/colorado-batten-72x/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:chauvet/colorado-batten-72x",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORado Batten Q15",
+  "kind": "bar",
+  "light": "15LEDs (quad-color RGBW) 20 W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   4,
+   6,
+   8,
+   10,
+   15,
+   45,
+   60,
+   64,
+   66,
+   76
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1047,
+   185,
+   166
+  ],
+  "weightKg": 13,
+  "url": "https://chauvetprofessional.com/product/colorado-batten-q15/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORado Expo W",
+  "kind": "par",
+  "light": "1 LED (WW) 117 W, 3283 K",
+  "beamDeg": [
+   12.7,
+   12.7
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   290,
+   228,
+   402
+  ],
+  "weightKg": 7.4,
+  "url": "https://chauvetprofessional.com/product/colorado-expo-w/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORado M Solo",
+  "kind": "par",
+  "light": "1 LED (quad-color RGBW) 40W",
+  "beamDeg": [
+   4,
+   24
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   9,
+   12,
+   17
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   331,
+   186,
+   135
+  ],
+  "weightKg": 3.6,
+  "url": "https://chauvetprofessional.com/product/colorado-m-solo/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:chauvet-professional/colorado-m-solo",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORado Panel Q40",
+  "kind": "panel",
+  "light": "40 LEDs (quad-color RGBW) 15 W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   7,
+   11,
+   16,
+   22
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   515,
+   196,
+   304
+  ],
+  "weightKg": 12.8,
+  "url": "https://chauvetprofessional.com/product/colorado-panel-q40/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORado PXL Bar 16",
+  "kind": "tiltbar",
+  "light": "16 LEDs (quad-color RGBW) 45 W, 8875 K",
+  "beamDeg": [
+   5.8,
+   47.9
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   139,
+   273
+  ],
+  "weightKg": 20.7,
+  "url": "https://chauvetprofessional.com/product/colorado-pxl-bar-16/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORado PXL Bar 8",
+  "kind": "tiltbar",
+  "light": "8 LEDs (quad-color RGBW) 45 W",
+  "beamDeg": [
+   3.6,
+   47.3
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   19,
+   51,
+   89,
+   105,
+   24,
+   32,
+   64,
+   25,
+   7
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   500,
+   139,
+   273
+  ],
+  "weightKg": 11.5,
+  "url": "https://chauvetprofessional.com/product/colorado-pxl-bar-8/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORado PXL Curve 1",
+  "kind": "beam",
+  "light": null,
+  "beamDeg": null,
+  "pan": 60,
+  "tilt": 190,
+  "channels": [
+   24,
+   31,
+   39,
+   71
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   199,
+   215,
+   330
+  ],
+  "weightKg": 6.8,
+  "url": "https://chauvetprofessional.com/product/colorado-pxl-curve-1/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORado PXL Curve 12",
+  "kind": "tiltbar",
+  "light": "12LEDs (RGBW) 45 W",
+  "beamDeg": [
+   5.7,
+   36.3
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   20,
+   53,
+   101,
+   155,
+   179
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   996,
+   180,
+   325
+  ],
+  "weightKg": 34.5,
+  "url": "https://chauvetprofessional.com/product/colorado-pxl-curve-12/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORado PXL Curve 5",
+  "kind": "tiltbar",
+  "light": "5 LEDs (RGBW) 120 W",
+  "beamDeg": [
+   8.3,
+   155.1
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   120,
+   155,
+   195,
+   355
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   999,
+   225,
+   343
+  ],
+  "weightKg": 32.4,
+  "url": "https://chauvetprofessional.com/product/colorado-pxl-curve-5/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORado Solo Bar 1",
+  "kind": "bar",
+  "light": "4 (RGBWwL) LED Engines",
+  "beamDeg": [
+   16.5,
+   16.5
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   308,
+   160,
+   212
+  ],
+  "weightKg": 6.1,
+  "url": "https://chauvetprofessional.com/product/colorado-solo-bar-1/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORado Solo Bar 4",
+  "kind": "bar",
+  "light": "16 (RGBWwL) LED Engines",
+  "beamDeg": [
+   17.4,
+   17.4
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1184,
+   200,
+   212
+  ],
+  "weightKg": 17,
+  "url": "https://chauvetprofessional.com/product/colorado-solo-bar-4/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORado Solo Bar 6",
+  "kind": "bar",
+  "light": "24 (RGBWwL) LED Engines",
+  "beamDeg": [
+   16.7,
+   16.7
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1768,
+   200,
+   212
+  ],
+  "weightKg": 22.3,
+  "url": "https://chauvetprofessional.com/product/colorado-solo-bar-6/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORado Solo Batten 4",
+  "kind": "bar",
+  "light": "48 LEDs (8 red, 8 green, 8 blue, 8 amber, 16 white) 3 W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   4,
+   5,
+   8,
+   9,
+   10,
+   13,
+   16
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   372,
+   230,
+   253
+  ],
+  "weightKg": 7.8,
+  "url": "https://chauvetprofessional.com/product/colorado-solo-batten-4/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORado Solo Batten",
+  "kind": "bar",
+  "light": "144 LEDs (24 red, 24 green, 24 blue, 24 amber, 48 white) 3 W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   4,
+   5,
+   8,
+   9,
+   10,
+   13,
+   16,
+   2,
+   6,
+   15,
+   17,
+   19,
+   20,
+   30
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1012,
+   230,
+   250
+  ],
+  "weightKg": 19,
+  "url": "https://chauvetprofessional.com/product/colorado-solo-batten/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORado Solo Edge 1",
+  "kind": "bar",
+  "light": "Primary",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   5,
+   6,
+   7,
+   11,
+   12,
+   13,
+   14,
+   21
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   500,
+   225,
+   64
+  ],
+  "weightKg": 5.68,
+  "url": "https://chauvetprofessional.com/product/colorado-solo-edge-1/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORado Solo Edge 3",
+  "kind": "bar",
+  "light": "Primary",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   5,
+   6,
+   7,
+   11,
+   12,
+   13,
+   14,
+   21
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   225,
+   64
+  ],
+  "weightKg": 10,
+  "url": "https://chauvetprofessional.com/product/colorado-solo-edge-3/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORado Solo Pod E",
+  "kind": "par",
+  "light": "12 LEDs (quad-color RGBL) 180W",
+  "beamDeg": [
+   17.1,
+   17.1
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   5,
+   7,
+   11,
+   12,
+   13,
+   16
+  ],
+  "features": [
+   "frost"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   283,
+   208,
+   406
+  ],
+  "weightKg": 7.2,
+  "url": "https://chauvetprofessional.com/product/colorado-solo-pod-e/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORdash Accent 3",
+  "kind": "par",
+  "light": "1 LED (quad-color RGBA) 20 W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   7,
+   11
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   163,
+   133,
+   80
+  ],
+  "weightKg": 0.9,
+  "url": "https://chauvetprofessional.com/product/colordash-accent-3/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORdash Accent 5X IP",
+  "kind": "par",
+  "light": "1 LED (Hex-color RGBWA+UV) 40 W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   8,
+   9,
+   13,
+   14
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   184,
+   145,
+   88
+  ],
+  "weightKg": 1.3,
+  "url": "https://chauvetprofessional.com/product/colordash-accent-5x-ip/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORdash Accent Quad",
+  "kind": "par",
+  "light": "1 LED (quad-color RGBA) 10 W",
+  "beamDeg": [
+   15,
+   15
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   6,
+   10
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   110,
+   67,
+   172
+  ],
+  "weightKg": 0.8,
+  "url": "https://chauvetprofessional.com/product/colordash-accent-quad/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:chauvet/colordash-accent-quad",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORdash Batten H12X IP",
+  "kind": "bar",
+  "light": "12 LEDs (RGBAW+UV) 10 W",
+  "beamDeg": [
+   24.9,
+   24.9
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   8,
+   9,
+   13,
+   14,
+   42,
+   47,
+   59
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   208,
+   96
+  ],
+  "weightKg": 8,
+  "url": "https://chauvetprofessional.com/product/colordash-batten-h12x-ip/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORdash Batten-Quad 12",
+  "kind": "bar",
+  "light": "12 LEDs (quad-color RGBA) 7 W",
+  "beamDeg": [
+   22,
+   22
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   6,
+   10,
+   48,
+   52
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1041,
+   82,
+   164
+  ],
+  "weightKg": 4.8,
+  "url": "https://chauvetprofessional.com/product/colordash-batten-quad-12/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORdash Batten-Quad 6",
+  "kind": "bar",
+  "light": "6 LEDs (quad-color RGBA) 7 W",
+  "beamDeg": [
+   17,
+   17
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   6,
+   10,
+   24,
+   28
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   560,
+   65,
+   164
+  ],
+  "weightKg": 2.3,
+  "url": "https://chauvetprofessional.com/product/colordash-batten-quad-6/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:chauvet-professional/colordash-batten-quad-6",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORdash PAR Bar 4",
+  "kind": "bar",
+  "light": "1, RGBAW-UV LED Array (per head)",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   8,
+   9,
+   14,
+   24,
+   32,
+   36,
+   41
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1151,
+   131,
+   281
+  ],
+  "weightKg": 12,
+  "url": "https://chauvetprofessional.com/product/colordash-par-bar-4/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORdash Par H12IP",
+  "kind": "par",
+  "light": "12 LEDs (hex-color RGBAW+UV) 10 W",
+  "beamDeg": [
+   22,
+   22
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   8,
+   13
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   322,
+   305,
+   177
+  ],
+  "weightKg": 6.1,
+  "url": "https://chauvetprofessional.com/product/colordash-par-h12ip/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORdash PAR H12X IP",
+  "kind": "par",
+  "light": "12 LEDs (hex-color RGBAW+UV) 120 W",
+  "beamDeg": [
+   22.2,
+   22.2
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   8,
+   9,
+   13,
+   14
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   232,
+   305,
+   248
+  ],
+  "weightKg": 5.4,
+  "url": "https://chauvetprofessional.com/product/colordash-par-h12x-ip/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORdash PAR H18 XIP",
+  "kind": "par",
+  "light": "18 LEDs (HEX-color RGBAWUV)",
+  "beamDeg": [
+   25.4,
+   25.4
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   8,
+   9,
+   13,
+   14
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   345,
+   327,
+   158
+  ],
+  "weightKg": 6.6,
+  "url": "https://chauvetprofessional.com/product/colordash-par-h18-xip/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Colordash Par H18X M",
+  "kind": "par",
+  "light": "18 LEDs (HEX-color RGBWAUV) 12 W",
+  "beamDeg": [
+   25.2,
+   25.2
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   8,
+   9,
+   13,
+   14
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   254,
+   254,
+   140
+  ],
+  "weightKg": 6.7,
+  "url": "https://chauvetprofessional.com/product/colordash-par-h18x-m/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORdash PAR H18X",
+  "kind": "par",
+  "light": "18 LEDs (HEX-color RGBWAUV) 150 W",
+  "beamDeg": [
+   23.6,
+   23.6
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   8,
+   9,
+   13,
+   14
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   316,
+   112,
+   221
+  ],
+  "weightKg": 4.7,
+  "url": "https://chauvetprofessional.com/product/colordash-par-h18x/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORdash Par H7IP",
+  "kind": "par",
+  "light": "7 LEDs (hex-color RGBAW+UV) 10 W",
+  "beamDeg": [
+   21,
+   21
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   8,
+   13
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   280,
+   240,
+   154
+  ],
+  "weightKg": 3.6,
+  "url": "https://chauvetprofessional.com/product/colordash-par-h7ip/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORdash Par H7X IP",
+  "kind": "par",
+  "light": "7 LEDs (hex-color RGBAW+UV) 84 W",
+  "beamDeg": [
+   23,
+   23
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   8,
+   9,
+   13,
+   14
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   170,
+   243,
+   248
+  ],
+  "weightKg": 3.4,
+  "url": "https://chauvetprofessional.com/product/colordash-par-h7x-ip/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORdash PAR H7X",
+  "kind": "par",
+  "light": "7 LEDs (hex-color RGBAW+UV) 84 W",
+  "beamDeg": [
+   22.7,
+   22.7
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   8,
+   9,
+   13,
+   14
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   258,
+   240,
+   116
+  ],
+  "weightKg": 2.7,
+  "url": "https://chauvetprofessional.com/product/colordash-par-h7x/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORdash Par-Quad 18",
+  "kind": "par",
+  "light": "18 LEDs (quad-color RGBA) 7 W",
+  "beamDeg": [
+   18,
+   18
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   6,
+   10
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   323,
+   298,
+   106
+  ],
+  "weightKg": 4.6,
+  "url": "https://chauvetprofessional.com/product/colordash-par-quad-18/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:chauvet/colordash-par-quad-18",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "COLORdash Par-Quad 7",
+  "kind": "par",
+  "light": "7 LEDs (quad-color RGBA) 7 W",
+  "beamDeg": [
+   18,
+   18
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   6,
+   10
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   243,
+   101,
+   252
+  ],
+  "weightKg": 2.5,
+  "url": "https://chauvetprofessional.com/product/colordash-par-quad-7/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:chauvet/colordash-par-quad-7",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "ÉPIX Bar Tour",
+  "kind": "bar",
+  "light": "150 LEDs (tri-color RGB) SMD 5050",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "50 x 3",
+  "sizeMm": [
+   1000,
+   120,
+   60
+  ],
+  "weightKg": 2.06,
+  "url": "https://chauvetprofessional.com/product/epix-bar-tour/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "ÉPIX Flex 20",
+  "kind": "bar",
+  "light": "240 LEDs (tri-color RGB) SMD",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   17,
+   34
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": "240 x 1",
+  "sizeMm": null,
+  "weightKg": 0.6,
+  "url": "https://chauvetprofessional.com/product/epix-flex-20/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "ÉPIX Line 10 IP S",
+  "kind": "bar",
+  "light": "50 SMD 2727LEDs (tri-color RGB)",
+  "beamDeg": [
+   114.6,
+   114.6
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   18,
+   5,
+   10,
+   25,
+   50,
+   150
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 0.746,
+  "url": "https://chauvetprofessional.com/product/epix-line-10-ip-s/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "ÉPIX Line 10 IP",
+  "kind": "bar",
+  "light": "100 SMD 2727LEDs (tri-color RGB)",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   18,
+   5,
+   10,
+   255,
+   50,
+   300
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 1.3,
+  "url": "https://chauvetprofessional.com/product/epix-line-10-ip/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "ÉPIX Strip IP 50",
+  "kind": "bar",
+  "light": "50 LEDs (tri-color RGB) SMD 5050",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "50 x 1",
+  "sizeMm": [
+   500,
+   34,
+   88
+  ],
+  "weightKg": 1.5,
+  "url": "https://chauvetprofessional.com/product/epix-strip-ip-50/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "ÉPIX Strip IP",
+  "kind": "bar",
+  "light": "100 LEDs (tri-color RGB) SMD 5050",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "100 x 1",
+  "sizeMm": [
+   1000,
+   88,
+   34
+  ],
+  "weightKg": 2.7,
+  "url": "https://chauvetprofessional.com/product/epix-strip-ip/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "ÉPIX Strip Tour 50",
+  "kind": "bar",
+  "light": "50 LEDs (tri-color RGB) SMD 5050",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "25 x 1",
+  "sizeMm": [
+   500,
+   30,
+   120
+  ],
+  "weightKg": null,
+  "url": "https://chauvetprofessional.com/product/epix-strip-tour-50/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "ÉPIX Strip Tour",
+  "kind": "bar",
+  "light": "50 LEDs (tri-color RGB) SMD 5050",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "50 x 1",
+  "sizeMm": [
+   1000,
+   120,
+   30
+  ],
+  "weightKg": 1.56,
+  "url": "https://chauvetprofessional.com/product/epix-strip-tour/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick Force 1 Spot",
+  "kind": "spot",
+  "light": "1 LED (CW) 470 W, 7500K",
+  "beamDeg": [
+   6.3,
+   54.4
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   25,
+   32
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:7",
+   "gobo-static:9",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   394,
+   250,
+   636
+  ],
+  "weightKg": 21.8,
+  "url": "https://chauvetprofessional.com/product/maverick-force-1-spot/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick Force 2 BeamWash",
+  "kind": "wash",
+  "light": "12 LEDs (quad-color RGBW) 45 W",
+  "beamDeg": [
+   3.7,
+   44.1
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [],
+  "features": [
+   "colorwheel",
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   328,
+   230,
+   434
+  ],
+  "weightKg": 13.5,
+  "url": "https://chauvetprofessional.com/product/maverick-force-2-beamwash/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick Force 2 Profile",
+  "kind": "profile",
+  "light": "1 LEDs (CW) 580 W, 7055 K",
+  "beamDeg": [
+   6.8,
+   55.9
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   33,
+   50
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:7+7",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   394,
+   272,
+   670
+  ],
+  "weightKg": 26,
+  "url": "https://chauvetprofessional.com/product/maverick-force-2-profile/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick Force 2 SoloWash",
+  "kind": "wash",
+  "light": "1 LED (CW) 480 W",
+  "beamDeg": [
+   6.3,
+   55.7
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   21,
+   27
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   426,
+   272,
+   656
+  ],
+  "weightKg": 24.2,
+  "url": "https://chauvetprofessional.com/product/maverick-force-2-solowash/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick Force 3 Profile",
+  "kind": "profile",
+  "light": "1 LEDs (CW) 915 W, 7500 K",
+  "beamDeg": [
+   4.9,
+   53.9
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   37,
+   53
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:7",
+   "gobo-static:9",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   425,
+   279,
+   774
+  ],
+  "weightKg": 38.2,
+  "url": "https://chauvetprofessional.com/product/maverick-force-3-profile/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick Force S Profile",
+  "kind": "profile",
+  "light": "1 LED (CW) 350 W, 8400K",
+  "beamDeg": [
+   4.5,
+   35.9
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   31,
+   47
+  ],
+  "features": [
+   "cmy",
+   "gobo-rot:7",
+   "gobo-static:9",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   360,
+   224,
+   636
+  ],
+  "weightKg": 24,
+  "url": "https://chauvetprofessional.com/product/maverick-force-s-profile/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick Force S Spot",
+  "kind": "spot",
+  "light": "1 LED (CW) 350 W, 8400 K",
+  "beamDeg": [
+   3.8,
+   43.4
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   22,
+   29
+  ],
+  "features": [
+   "cmy",
+   "gobo-rot:7",
+   "gobo-static:9",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   360,
+   224,
+   636
+  ],
+  "weightKg": 21.5,
+  "url": "https://chauvetprofessional.com/product/maverick-force-s-spot/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick Force X Profile",
+  "kind": "profile",
+  "light": "1 LEDs (CW) 520 W, 6966 K",
+  "beamDeg": [
+   3.5,
+   57.3
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   31,
+   47
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   361,
+   239,
+   646
+  ],
+  "weightKg": 23.1,
+  "url": "https://chauvetprofessional.com/product/maverick-force-x-profile/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick Force X Spot",
+  "kind": "spot",
+  "light": "1 LED (CW) 520 W, 6462 K, 50,000",
+  "beamDeg": [
+   3.5,
+   57.7
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   22,
+   29
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "gobo-rot:7",
+   "gobo-static:9",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   361,
+   239,
+   646
+  ],
+  "weightKg": 20,
+  "url": "https://chauvetprofessional.com/product/maverick-force-x-spot/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick MK Pyxis",
+  "kind": "wash",
+  "light": "9 LEDs outer ring (quad-color RGBW) 15 W",
+  "beamDeg": [
+   4.9,
+   58.4
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   26,
+   66,
+   113,
+   131
+  ],
+  "features": [
+   "colorwheel",
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   310,
+   225,
+   459
+  ],
+  "weightKg": 14.5,
+  "url": "https://chauvetprofessional.com/product/maverick-mk-pyxis/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick MK1 Hybrid",
+  "kind": "hybrid",
+  "light": "Osram Sirius 440W lamp, 7000 K (Color Temp)",
+  "beamDeg": [
+   1,
+   6
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   27,
+   30
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "gobo-rot:6",
+   "gobo-static:18",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   394,
+   307,
+   629
+  ],
+  "weightKg": 30.3,
+  "url": "https://chauvetprofessional.com/product/maverick-mk1-hybrid/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick MK1 Spot",
+  "kind": "spot",
+  "light": "1 LED (CW) 350 W, 6,808 K",
+  "beamDeg": [
+   6.5,
+   31.6
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   22,
+   29
+  ],
+  "features": [
+   "cmy",
+   "gobo-rot:7",
+   "gobo-static:7",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   394,
+   250,
+   636
+  ],
+  "weightKg": 27.2,
+  "url": "https://chauvetprofessional.com/product/maverick-mk1-spot/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick MK2 Profile",
+  "kind": "profile",
+  "light": "1 LEDs (CW) 440 W, 6,016 K",
+  "beamDeg": [
+   11.3,
+   34.1
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   33,
+   50
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "gobo-rot:6+6",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   394,
+   279,
+   671
+  ],
+  "weightKg": 31.7,
+  "url": "https://chauvetprofessional.com/product/maverick-mk2-profile/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick MK2 Spot",
+  "kind": "spot",
+  "light": "1 LED (CW) 440 W, 6808 K",
+  "beamDeg": [
+   12,
+   35.6
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   24,
+   32
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "gobo-rot:6+6",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   385,
+   250,
+   671
+  ],
+  "weightKg": 28.5,
+  "url": "https://chauvetprofessional.com/product/maverick-mk2-spot/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick MK2 Wash",
+  "kind": "wash",
+  "light": "12 LEDs (quad-color RGBW) 40 W",
+  "beamDeg": [
+   4.7,
+   65.5
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   20,
+   69,
+   115
+  ],
+  "features": [
+   "colorwheel",
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   323,
+   233,
+   471
+  ],
+  "weightKg": 14.8,
+  "url": "https://chauvetprofessional.com/product/maverick-mk2-wash/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick MK3 Profile CX",
+  "kind": "profile",
+  "light": "1 LEDs (CW) 820 W, 5948 K",
+  "beamDeg": [
+   6.1,
+   62.9
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   38,
+   54
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "gobo-rot:7",
+   "gobo-static:9",
+   "prism",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   409,
+   310,
+   748
+  ],
+  "weightKg": 34.7,
+  "url": "https://chauvetprofessional.com/product/maverick-mk3-profile-cx/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:chauvet/maverick-mk3-profile-cx",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick MK3 Profile",
+  "kind": "profile",
+  "light": "1 LEDs (CW) 820 W, 7,258 K",
+  "beamDeg": [
+   5.9,
+   64.1
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   38,
+   54
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:7",
+   "gobo-static:9",
+   "prism",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   409,
+   310,
+   748
+  ],
+  "weightKg": 34.7,
+  "url": "https://chauvetprofessional.com/product/maverick-mk3-profile/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick MK3 Spot",
+  "kind": "spot",
+  "light": "1 LEDs (CW) 820 W, 7,472 K",
+  "beamDeg": [
+   6.1,
+   62
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   31,
+   39
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:7+7",
+   "prism",
+   "iris",
+   "zoom",
+   "focus",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   409,
+   303,
+   756
+  ],
+  "weightKg": 33,
+  "url": "https://chauvetprofessional.com/product/maverick-mk3-spot/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "vd:chauvet-professional/maverick-mk3-spot",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick MK3 Wash",
+  "kind": "wash",
+  "light": "27 LEDs (quad-color RGBW) 40 W",
+  "beamDeg": [
+   5.2,
+   65.1
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   20,
+   129,
+   243,
+   297
+  ],
+  "features": [
+   "cto",
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   459,
+   292,
+   583
+  ],
+  "weightKg": 31,
+  "url": "https://chauvetprofessional.com/product/maverick-mk3-wash/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "vd:chauvet-professional/maverick-mk3-wash",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick Storm 1 Beam",
+  "kind": "beam",
+  "light": "SIRIUS HRI 310 W lamp 7650K",
+  "beamDeg": [
+   1.3,
+   1.3
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   19,
+   21
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   388,
+   255,
+   658
+  ],
+  "weightKg": 23.3,
+  "url": "https://chauvetprofessional.com/product/maverick-storm-1-beam/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick Storm 1 Flex",
+  "kind": "hybrid",
+  "light": "1 Led, 6595K, up to",
+  "beamDeg": [
+   3.1,
+   55.5
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   26,
+   33
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "gobo-rot:7",
+   "frost",
+   "zoom",
+   "focus",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   388,
+   268,
+   738
+  ],
+  "weightKg": 28.8,
+  "url": "https://chauvetprofessional.com/product/maverick-storm-1-flex/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick Storm 1 Hybrid",
+  "kind": "hybrid",
+  "light": "Osram Sirius HRI 420 W lamp, 7700 K (Color Temp), up to",
+  "beamDeg": [
+   1.3,
+   40.8
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   24,
+   29
+  ],
+  "features": [
+   "cmy",
+   "gobo-rot:9",
+   "frost",
+   "zoom",
+   "focus",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   388,
+   274,
+   755
+  ],
+  "weightKg": 29.2,
+  "url": "https://chauvetprofessional.com/product/maverick-storm-1-hybrid/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick Storm 1 Spot",
+  "kind": "spot",
+  "light": "1 LEDs (CW) 480 W, 6604 K",
+  "beamDeg": [
+   7.1,
+   51
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   26,
+   33
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "gobo-rot:7",
+   "gobo-static:9",
+   "prism",
+   "iris",
+   "zoom",
+   "focus",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   455,
+   319,
+   722
+  ],
+  "weightKg": 38.9,
+  "url": "https://chauvetprofessional.com/product/maverick-storm-1-spot/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "vd:chauvet-professional/maverick-storm-1-spot",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick Storm 1 Wash",
+  "kind": "wash",
+  "light": "19 LEDs (quad-color RGBW) 20 W",
+  "beamDeg": [
+   6.7,
+   56.5
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   20,
+   96,
+   178,
+   216
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   319,
+   414,
+   477
+  ],
+  "weightKg": null,
+  "url": "https://chauvetprofessional.com/product/maverick-storm-1-wash/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "vd:chauvet-professional/maverick-storm-1-wash",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick Storm 2 BeamWash",
+  "kind": "wash",
+  "light": "19 LEDs (quad-color RGBW) 45 W",
+  "beamDeg": [
+   3.6,
+   53.4
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   388,
+   290,
+   501
+  ],
+  "weightKg": 23.8,
+  "url": "https://chauvetprofessional.com/product/maverick-storm-2-beamwash/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick Storm 2 Profile M",
+  "kind": "profile",
+  "light": "1 LEDs (CW) 588 W, 7500 K",
+  "beamDeg": [
+   6,
+   54.1
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   32,
+   48
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:7",
+   "gobo-static:9",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   252,
+   388,
+   699
+  ],
+  "weightKg": 31.9,
+  "url": "https://chauvetprofessional.com/product/maverick-storm-2-profile-m/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick Storm 2 Profile",
+  "kind": "profile",
+  "light": "1 LEDs (CW) 580 W, 7500 K",
+  "beamDeg": [
+   5.5,
+   58.6
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   32,
+   48
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:7",
+   "gobo-static:9",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   252,
+   388,
+   699
+  ],
+  "weightKg": 30.4,
+  "url": "https://chauvetprofessional.com/product/maverick-storm-2-profile/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick Storm 3 BeamWash",
+  "kind": "wash",
+  "light": "28 LEDs (quad-color RGBW) 45 W",
+  "beamDeg": [
+   3.9,
+   53.8
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   20,
+   32,
+   38,
+   180,
+   336,
+   416,
+   424
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   482,
+   303,
+   603
+  ],
+  "weightKg": 37.4,
+  "url": "https://chauvetprofessional.com/product/maverick-storm-3-beamwash/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick Storm 3 Profile",
+  "kind": "profile",
+  "light": "1 LEDs (CW) 620 W, 7500 K",
+  "beamDeg": [
+   3.5,
+   57.7
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   34,
+   50
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:7",
+   "gobo-static:9",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   388,
+   268,
+   742
+  ],
+  "weightKg": 31.3,
+  "url": "https://chauvetprofessional.com/product/maverick-storm-3-profile/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick Storm 4 Profile",
+  "kind": "profile",
+  "light": "1 LEDs (CW) 1250 W, 7500 K",
+  "beamDeg": [
+   6.4,
+   58.3
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   38,
+   55
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:6+6",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   465,
+   303,
+   836
+  ],
+  "weightKg": 50.6,
+  "url": "https://chauvetprofessional.com/product/maverick-storm-4-profile/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick Storm 4 SoloWash",
+  "kind": "wash",
+  "light": "1 LEDs (CW) 1250 W, 7464 K",
+  "beamDeg": [
+   7.1,
+   74.1
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   31,
+   46
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:6",
+   "frost",
+   "zoom",
+   "framing",
+   "animation",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   469,
+   306,
+   817
+  ],
+  "weightKg": 45.5,
+  "url": "https://chauvetprofessional.com/product/maverick-storm-4-solowash/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Maverick Storm LT",
+  "kind": "effect",
+  "light": "1 LEDs (CW) 1400 W, 6877K",
+  "beamDeg": [
+   3.2,
+   55.9
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   37,
+   53
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "gobo-rot:7",
+   "gobo-static:9",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   541,
+   323,
+   906
+  ],
+  "weightKg": 59.8,
+  "url": "https://chauvetprofessional.com/product/maverick-storm-lt/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "onAir Flex 12",
+  "kind": "hybrid",
+  "light": "12 LEDs (tri-color RGB) 1.5 W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   8,
+   10
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   326,
+   37,
+   35
+  ],
+  "weightKg": 0.442,
+  "url": "https://chauvetprofessional.com/product/onair-flex-12/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "onAir Panel 1 IP",
+  "kind": "panel",
+  "light": "224 LEDs (tri-color RGB) 1.4 W",
+  "beamDeg": [
+   99.3,
+   99.3
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   4,
+   5,
+   6,
+   8,
+   10,
+   11,
+   15,
+   16
+  ],
+  "features": [
+   "colorwheel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   559,
+   146,
+   554
+  ],
+  "weightKg": 12.7,
+  "url": "https://chauvetprofessional.com/product/onair-panel-1-ip/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:chauvet-professional/onair-panel-1-ip",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "onAir Panel 2 IP",
+  "kind": "panel",
+  "light": "448 LEDs (tri-color RGB) 1.4 W",
+  "beamDeg": [
+   100.2,
+   100.2
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   4,
+   5,
+   6,
+   8,
+   11,
+   15,
+   16,
+   18,
+   23,
+   32
+  ],
+  "features": [
+   "colorwheel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   849,
+   139,
+   553
+  ],
+  "weightKg": 17.1,
+  "url": "https://chauvetprofessional.com/product/onair-panel-2-ip/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "onAir Panel 3 IP",
+  "kind": "panel",
+  "light": "120 LEDs (tri-color RGB) 1.5 W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   4,
+   5,
+   6,
+   8,
+   11,
+   12,
+   15,
+   19,
+   24
+  ],
+  "features": [
+   "colorwheel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   284,
+   857,
+   121
+  ],
+  "weightKg": 12,
+  "url": "https://chauvetprofessional.com/product/onair-panel-3-ip/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "onAir Panel Min IP",
+  "kind": "panel",
+  "light": null,
+  "beamDeg": [
+   94.9,
+   94.9
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   4,
+   5,
+   6,
+   8,
+   10,
+   11,
+   15
+  ],
+  "features": [
+   "colorwheel",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://chauvetprofessional.com/product/onair-panel-min-ip/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation 2WL",
+  "kind": "panel",
+  "light": "960 LEDs (CW, WW)",
+  "beamDeg": [
+   107.4,
+   107.4
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   445,
+   281,
+   139
+  ],
+  "weightKg": 4.6,
+  "url": "https://chauvetprofessional.com/product/ovation-2wl/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation B-1965FC",
+  "kind": "flood",
+  "light": "196 LEDs (42 red, 42 green, 42 blue, 28 amber, 42 lime) 3 W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   4,
+   5,
+   8,
+   9,
+   10,
+   17,
+   7,
+   21,
+   28,
+   35,
+   45,
+   52,
+   59,
+   70,
+   96
+  ],
+  "features": [
+   "colorwheel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1230,
+   210,
+   207
+  ],
+  "weightKg": 14.5,
+  "url": "https://chauvetprofessional.com/product/ovation-b-1965fc/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation B-2805FC",
+  "kind": "flood",
+  "light": "280 LEDs (60 red, 60 green, 60 blue, 40 amber, 60 lime) 3 W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   4,
+   5,
+   8,
+   9,
+   10,
+   17,
+   2,
+   6,
+   15,
+   19,
+   20,
+   31,
+   25,
+   33,
+   38,
+   43,
+   50,
+   70,
+   30,
+   40,
+   63,
+   73,
+   83,
+   100,
+   135
+  ],
+  "features": [
+   "colorwheel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1753,
+   210,
+   207
+  ],
+  "weightKg": 20.5,
+  "url": "https://chauvetprofessional.com/product/ovation-b-2805fc/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation B-565FC",
+  "kind": "flood",
+  "light": "56 LEDs (12 red, 12 green, 12 blue, 8 amber, 12 lime) 3 W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   4,
+   5,
+   8,
+   9,
+   10,
+   17,
+   2,
+   6,
+   15,
+   19,
+   20,
+   31
+  ],
+  "features": [
+   "colorwheel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   355,
+   190,
+   207
+  ],
+  "weightKg": 5.3,
+  "url": "https://chauvetprofessional.com/product/ovation-b-565fc/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation C-640FC",
+  "kind": "flood",
+  "light": "64 LEDs (16 red, 16 green, 16 blue, 8 white, 8 amber) 3 to 5 W",
+  "beamDeg": [
+   35,
+   35
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   12,
+   18,
+   24
+  ],
+  "features": [
+   "colorwheel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   390,
+   310,
+   298
+  ],
+  "weightKg": 9.98,
+  "url": "https://chauvetprofessional.com/product/ovation-c-640fc/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation C-805FC",
+  "kind": "flood",
+  "light": "80 LEDs (20 red, 20 green, 20 blue, 12 amber, 8 lime) 2 to 4 W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   12,
+   18,
+   24
+  ],
+  "features": [
+   "colorwheel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   390,
+   310,
+   298
+  ],
+  "weightKg": 10,
+  "url": "https://chauvetprofessional.com/product/ovation-c-805fc/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation CYC 1 FC",
+  "kind": "flood",
+  "light": "60 LEDs (12 red, 12 green, 12 blue, 12 amber, 12 lime) 1.75 to 4.57 W, 6935 K",
+  "beamDeg": [
+   81.1,
+   81.1
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   4,
+   5,
+   8,
+   11,
+   13,
+   14,
+   16
+  ],
+  "features": [
+   "colorwheel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   410,
+   160,
+   110
+  ],
+  "weightKg": 4.2,
+  "url": "https://chauvetprofessional.com/product/ovation-cyc-1-fc/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:chauvet/ovation-cyc-1-fc",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation CYC 3 FC",
+  "kind": "flood",
+  "light": "180 LEDs (36 red, 36 green, 36 blue, 36 amber, 36 lime) 2.5 W to 3.5",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   5,
+   7,
+   10,
+   12,
+   13,
+   16,
+   17,
+   33
+  ],
+  "features": [
+   "colorwheel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1197,
+   160,
+   110
+  ],
+  "weightKg": 11.2,
+  "url": "https://chauvetprofessional.com/product/ovation-cyc-3-fc/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation E-160WW",
+  "kind": "ellipsoidal",
+  "light": "1 LED (WW) 86 W, 3031 K",
+  "beamDeg": [
+   4,
+   4
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   3,
+   6
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://chauvetprofessional.com/product/ovation-e-160ww/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation E-2 FC",
+  "kind": "ellipsoidal",
+  "light": "72 LEDs (15 reds 11 green, 6 blue, 4 cyan, 14 amber, 22 lime) 6 to 9.75 W",
+  "beamDeg": [
+   23.8,
+   51.8
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   4,
+   5,
+   7,
+   11,
+   13,
+   17
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   461,
+   310,
+   445
+  ],
+  "weightKg": 6.7,
+  "url": "https://chauvetprofessional.com/product/ovation-e-2-fc/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation E-260WW / E-260CW",
+  "kind": "ellipsoidal",
+  "light": "1 LED (WW) 230 W, 3149 K",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   3,
+   6
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://chauvetprofessional.com/product/ovation-e-260ww-e-260cw/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation E-260WW IP",
+  "kind": "ellipsoidal",
+  "light": "1 LED (WW) 230 W, 3149 K",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   3,
+   4,
+   7
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://chauvetprofessional.com/product/ovation-e-260ww-ip/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation E-4WW IP",
+  "kind": "ellipsoidal",
+  "light": "1 LED (WW) 400W",
+  "beamDeg": [
+   6.9,
+   6.9
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   3,
+   4,
+   7
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://chauvetprofessional.com/product/ovation-e-4ww-ip/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation E-910FC IP",
+  "kind": "ellipsoidal",
+  "light": "91 LEDs (18 red, 18 green, 19 blue, 18 amber, 18 lime green) 3 W, 6031 K",
+  "beamDeg": [
+   7,
+   7
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   4,
+   6,
+   8,
+   11,
+   13,
+   14,
+   16
+  ],
+  "features": [
+   "colorwheel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://chauvetprofessional.com/product/ovation-e-910fc-ip/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation E-910FC",
+  "kind": "ellipsoidal",
+  "light": "91 LEDs (18 red, 18 green, 19 blue, 18 amber, 18 lime green) 3 W, 6031 K",
+  "beamDeg": [
+   7,
+   7
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   5,
+   7,
+   10,
+   12,
+   13,
+   16
+  ],
+  "features": [
+   "colorwheel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://chauvetprofessional.com/product/ovation-e-910fc/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:chauvet/ovation-e-910fc",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation E-930VW",
+  "kind": "ellipsoidal",
+  "light": "91 LEDs (6 red, 15 orange-red, 9 green, 12 blue, 10 royal blue, 39 lime) 3 W",
+  "beamDeg": [
+   5,
+   5
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   5,
+   6,
+   8,
+   11,
+   15,
+   17
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://chauvetprofessional.com/product/ovation-e-930vw/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation ED-200WW",
+  "kind": "ellipsoidal",
+  "light": "1 LEDs (WW) 230 W",
+  "beamDeg": [
+   7,
+   7
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   3
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   545,
+   380,
+   380
+  ],
+  "weightKg": null,
+  "url": "https://chauvetprofessional.com/product/ovation-ed-200ww/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation ETD-40WW",
+  "kind": "ellipsoidal",
+  "light": "1 LEDs (WW) 40 W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   376,
+   129,
+   132
+  ],
+  "weightKg": 1.6,
+  "url": "https://chauvetprofessional.com/product/ovation-etd-40ww/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation F-145WW",
+  "kind": "fresnel",
+  "light": "1 LED (WW) 70 W",
+  "beamDeg": [
+   16,
+   65
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   5
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   297,
+   285,
+   382
+  ],
+  "weightKg": 5,
+  "url": "https://chauvetprofessional.com/product/ovation-f-145ww/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation F-265WW",
+  "kind": "fresnel",
+  "light": "1 LED (WW) 230 W",
+  "beamDeg": [
+   16,
+   68
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   5
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   384,
+   320,
+   450
+  ],
+  "weightKg": 7.9,
+  "url": "https://chauvetprofessional.com/product/ovation-f-265ww/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation F-415FC",
+  "kind": "fresnel",
+  "light": "46 LEDs (10 red, 10 green, 6 blue, 8 amber, 12 lime) 3 to 5 W",
+  "beamDeg": [
+   14,
+   68
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   5,
+   7,
+   10,
+   12,
+   13,
+   15
+  ],
+  "features": [
+   "colorwheel",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   401,
+   285,
+   242
+  ],
+  "weightKg": 5.6,
+  "url": "https://chauvetprofessional.com/product/ovation-f-415fc/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:chauvet/ovation-f-415fc",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation F-415VW",
+  "kind": "fresnel",
+  "light": "46 LEDs (4 red, 4 green, 6 blue, 6 R. Blue, 10 Orange, 16 Lime) 3 to 4 W",
+  "beamDeg": [
+   14,
+   68
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   5,
+   7,
+   10,
+   14,
+   17,
+   19
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   401,
+   285,
+   242
+  ],
+  "weightKg": 5.8,
+  "url": "https://chauvetprofessional.com/product/ovation-f-415vw/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation F-55FC",
+  "kind": "fresnel",
+  "light": "15 LEDs (3 red, 3 green, 3 blue, 3 amber, 3 lime) 3 to 4 W, 3779 K",
+  "beamDeg": [
+   18,
+   87
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   5,
+   7,
+   10,
+   12,
+   13,
+   15
+  ],
+  "features": [
+   "colorwheel",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   245,
+   118,
+   166
+  ],
+  "weightKg": 2.4,
+  "url": "https://chauvetprofessional.com/product/ovation-f-55fc/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation F-55WW",
+  "kind": "fresnel",
+  "light": "1 LED (WW) 36 W, 3120 K",
+  "beamDeg": [
+   20,
+   75
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   5
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   276,
+   173,
+   166
+  ],
+  "weightKg": 2.2,
+  "url": "https://chauvetprofessional.com/product/ovation-f-55ww/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation F-915FC",
+  "kind": "fresnel",
+  "light": "89 LEDs (18 red, 18 green, 16 blue, 16 amber, 21 lime) 3 W, 3698 K",
+  "beamDeg": [
+   17,
+   85
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   5,
+   7,
+   11,
+   13,
+   14,
+   17
+  ],
+  "features": [
+   "colorwheel",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   452,
+   320,
+   275
+  ],
+  "weightKg": 8.6,
+  "url": "https://chauvetprofessional.com/product/ovation-f-915fc/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:chauvet/ovation-f-915fc",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation F-915VW",
+  "kind": "fresnel",
+  "light": "89 LEDs (6 red, 15 orange-red, 8 green, 12 blue, 16 royal blue, 32 lime) 3 W",
+  "beamDeg": [
+   17,
+   85
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   4,
+   6,
+   7,
+   9,
+   13,
+   16,
+   19
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   569,
+   320,
+   275
+  ],
+  "weightKg": 8.5,
+  "url": "https://chauvetprofessional.com/product/ovation-f-915vw/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:chauvet-professional/ovation-f-915vw",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation F-95WW",
+  "kind": "fresnel",
+  "light": "9 LEDs (WW) 10 W",
+  "beamDeg": [
+   11,
+   60
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   3
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   325,
+   279,
+   420
+  ],
+  "weightKg": 6.1,
+  "url": "https://chauvetprofessional.com/product/ovation-f-95ww/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation FD-105WW",
+  "kind": "fresnel",
+  "light": "1 LEDs (WW) 80 W",
+  "beamDeg": [
+   8,
+   63
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   3
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   325,
+   279,
+   420
+  ],
+  "weightKg": 5.9,
+  "url": "https://chauvetprofessional.com/product/ovation-fd-105ww/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation FD-205WW",
+  "kind": "fresnel",
+  "light": null,
+  "beamDeg": [
+   11,
+   72
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   5
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   412,
+   284,
+   261
+  ],
+  "weightKg": 6.4,
+  "url": "https://chauvetprofessional.com/product/ovation-fd-205ww/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation FTD-55WW",
+  "kind": "fresnel",
+  "light": "1 LED (WW) 36 W, 3200 K",
+  "beamDeg": [
+   20,
+   75
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   276,
+   173,
+   166
+  ],
+  "weightKg": 1.9,
+  "url": "https://chauvetprofessional.com/product/ovation-ftd-55ww/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation H-265WW",
+  "kind": "flood",
+  "light": "1 LEDs (WW) 230 W, 3258 K",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   3,
+   6
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   333,
+   240,
+   339
+  ],
+  "weightKg": 8.1,
+  "url": "https://chauvetprofessional.com/product/ovation-h-265ww/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation H-55FC",
+  "kind": "flood",
+  "light": "26 LEDs (6 red, 6 green, 6 blue, 5 amber, 4 lime) 2.62 to 5.25 W, 4807 K",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   5,
+   8,
+   11,
+   13,
+   14,
+   16
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   334,
+   176,
+   115
+  ],
+  "weightKg": 3.4,
+  "url": "https://chauvetprofessional.com/product/ovation-h-55fc/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation H-55WW",
+  "kind": "flood",
+  "light": "1 LEDs (WW) 129.5 W, 3157 K",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   5
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   334,
+   176,
+   115
+  ],
+  "weightKg": 3.4,
+  "url": "https://chauvetprofessional.com/product/ovation-h-55ww/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation H-605FC",
+  "kind": "flood",
+  "light": "60 LEDs (12 red, 12 green, 12 blue, 12 amber, 12 lime) 2 to 3 W, 4766 K",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   4,
+   5,
+   8,
+   11,
+   13,
+   14,
+   16
+  ],
+  "features": [
+   "colorwheel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   333,
+   240,
+   339
+  ],
+  "weightKg": 8.9,
+  "url": "https://chauvetprofessional.com/product/ovation-h-605fc/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:chauvet/ovation-h-605fc",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation P-56FC",
+  "kind": "par",
+  "light": "62 LEDs (12 red, 11 green, 11 blue, 14 amber, 14 lime) 6 to 8 W",
+  "beamDeg": [
+   12.8,
+   12.8
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   5,
+   7,
+   10,
+   12,
+   13,
+   16
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   317,
+   326,
+   363
+  ],
+  "weightKg": 5.6,
+  "url": "https://chauvetprofessional.com/product/ovation-p-56fc/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:chauvet/ovation-p-56fc",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation P-56UV",
+  "kind": "par",
+  "light": "1 LEDs (1UV) 114 W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   3,
+   6
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   317,
+   326,
+   363
+  ],
+  "weightKg": 5.4,
+  "url": "https://chauvetprofessional.com/product/ovation-p-56uv/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation P-56VW",
+  "kind": "par",
+  "light": "48 LEDs (6 red, 6 green, 10 blue, 4 R. blue, 6 orange, 16 lime) 3 to 4 W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   5,
+   6,
+   8,
+   11,
+   15,
+   17
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   317,
+   326,
+   363
+  ],
+  "weightKg": 5.5,
+  "url": "https://chauvetprofessional.com/product/ovation-p-56vw/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation P-56WW",
+  "kind": "par",
+  "light": "1 LEDs (WW) 230 W, 3228 K",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   3,
+   6
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   317,
+   326,
+   363
+  ],
+  "weightKg": 5.3,
+  "url": "https://chauvetprofessional.com/product/ovation-p-56ww/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation Rêve E3 IP",
+  "kind": "ellipsoidal",
+  "light": "91 LEDs (12 red, 19 green, 3 blue, 9 royal blue, 24 amber, 24 mint) 3.5 to 10 W",
+  "beamDeg": [
+   6.7,
+   6.7
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   5,
+   6,
+   8,
+   12,
+   14,
+   18
+  ],
+  "features": [
+   "colorwheel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://chauvetprofessional.com/product/ovation-reve-e3-ip/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation Rêve E3",
+  "kind": "ellipsoidal",
+  "light": "91 LEDs (12 red, 19 green, 3 blue, 9 royal blue, 24 amber, 24 mint) 3.5 to 10 W",
+  "beamDeg": [
+   4.6,
+   4.6
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   5,
+   6,
+   8,
+   12,
+   14,
+   18
+  ],
+  "features": [
+   "colorwheel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://chauvetprofessional.com/product/ovation-reve-e3/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation Rêve F3 IP",
+  "kind": "fresnel",
+  "light": "126 LEDs (22 red, 14 green, 16 blue, 6 royal blue, 28 amber, 40 mint) 5.8 to 7.5 W",
+  "beamDeg": [
+   10.6,
+   99.5
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   5,
+   6,
+   8,
+   12,
+   14,
+   18
+  ],
+  "features": [
+   "colorwheel",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   407,
+   342,
+   508
+  ],
+  "weightKg": null,
+  "url": "https://chauvetprofessional.com/product/ovation-reve-f3-ip/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation Rêve F3",
+  "kind": "fresnel",
+  "light": "126 LEDs (22 red, 14 green, 16 blue, 6 royal blue, 28 amber, 40 mint) 5.8 to 8 W",
+  "beamDeg": [
+   10.9,
+   97.3
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   5,
+   6,
+   8,
+   12,
+   14,
+   18
+  ],
+  "features": [
+   "colorwheel",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   381,
+   342,
+   399
+  ],
+  "weightKg": 11.9,
+  "url": "https://chauvetprofessional.com/product/ovation-reve-f3/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation Rêve H1",
+  "kind": "effect",
+  "light": "RGBCAM LED Array",
+  "beamDeg": [
+   80,
+   80
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   296,
+   160,
+   160
+  ],
+  "weightKg": 4.1,
+  "url": "https://chauvetprofessional.com/product/ovation-reve-h1/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation Rêve H2",
+  "kind": "effect",
+  "light": "RGBCAM LED Array",
+  "beamDeg": [
+   80,
+   80
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   356,
+   203,
+   203
+  ],
+  "weightKg": 7.5,
+  "url": "https://chauvetprofessional.com/product/ovation-reve-h2/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation Rêve P2 IP",
+  "kind": "par",
+  "light": "RGBCAM LED Array",
+  "beamDeg": [
+   12.4,
+   12.4
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   4,
+   6,
+   8,
+   12,
+   14,
+   15,
+   19
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   452,
+   326,
+   213
+  ],
+  "weightKg": 9.2,
+  "url": "https://chauvetprofessional.com/product/ovation-reve-p2-ip/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation Rêve P3 IP",
+  "kind": "par",
+  "light": "80 LEDs (10 red, 10 green, 10 blue, 20 amber, 30 mint) 4.4 to 7.8 W",
+  "beamDeg": [
+   11.9,
+   11.9
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   4,
+   5,
+   7,
+   11,
+   13,
+   17
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   478,
+   300,
+   210
+  ],
+  "weightKg": 9.8,
+  "url": "https://chauvetprofessional.com/product/ovation-reve-p3-ip/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation SP-300CW",
+  "kind": "follow",
+  "light": "1 LEDs (CW) 260 W, 5,640 K",
+  "beamDeg": [
+   9,
+   17
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "iris",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1137,
+   354,
+   403
+  ],
+  "weightKg": 24,
+  "url": "https://chauvetprofessional.com/product/ovation-sp-300cw/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Rogue Outcast 1 Beam",
+  "kind": "beam",
+  "light": "USHIO NSL-300W lamp, 8000 K",
+  "beamDeg": [
+   1.2,
+   1.2
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   16,
+   19
+  ],
+  "features": [
+   "colorwheel",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   412,
+   310,
+   589
+  ],
+  "weightKg": 32,
+  "url": "https://chauvetprofessional.com/product/rogue-outcast-1-beam/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "vd:chauvet-professional/rogue-outcast-1-beam",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Rogue Outcast 1 BeamWash M",
+  "kind": "wash",
+  "light": "7 LEDs (quad-color RGBW) 45W",
+  "beamDeg": [
+   3.9,
+   55.3
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   15,
+   24,
+   30,
+   64,
+   111,
+   135
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   303,
+   192,
+   391
+  ],
+  "weightKg": 9.16,
+  "url": "https://chauvetprofessional.com/product/rogue-outcast-1-beamwash-m/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Rogue Outcast 1 BeamWash",
+  "kind": "wash",
+  "light": null,
+  "beamDeg": [
+   3.9,
+   55.3
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   15,
+   24,
+   30,
+   64,
+   111,
+   135
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   303,
+   192,
+   391
+  ],
+  "weightKg": 9.16,
+  "url": "https://chauvetprofessional.com/product/rogue-outcast-1-beamwash/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Rogue Outcast 1 Hybrid",
+  "kind": "hybrid",
+  "light": "USHIO NSL-400 W lamp, 6632 K",
+  "beamDeg": [
+   2.2,
+   29.1
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   20,
+   25
+  ],
+  "features": [
+   "gobo-rot:9",
+   "gobo-static:13",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   404,
+   310,
+   766
+  ],
+  "weightKg": 38,
+  "url": "https://chauvetprofessional.com/product/rogue-outcast-1-hybrid/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Rogue Outcast 1L Beam",
+  "kind": "beam",
+  "light": "1 LED (CW) 140 W",
+  "beamDeg": [
+   1.4,
+   1.4
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   17,
+   19
+  ],
+  "features": [
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   319,
+   218,
+   505
+  ],
+  "weightKg": 16.1,
+  "url": "https://chauvetprofessional.com/product/rogue-outcast-1l-beam/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Rogue Outcast 1M Beam",
+  "kind": "beam",
+  "light": "1 LEDs (Red,Mint,Blue) 120 W",
+  "beamDeg": [
+   1.9,
+   1.9
+  ],
+  "pan": 360,
+  "tilt": 360,
+  "channels": [
+   21,
+   25
+  ],
+  "features": [
+   "gobo-static:17",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   302,
+   192,
+   455
+  ],
+  "weightKg": 12.34,
+  "url": "https://chauvetprofessional.com/product/rogue-outcast-1m-beam/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Rogue Outcast 2 Beam",
+  "kind": "beam",
+  "light": "300W NSL Ushio lamp, 8000 K (color temp)",
+  "beamDeg": [
+   0.8,
+   0.8
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   16,
+   18
+  ],
+  "features": [
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   366,
+   244,
+   574
+  ],
+  "weightKg": 20.5,
+  "url": "https://chauvetprofessional.com/product/rogue-outcast-2-beam/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Rogue Outcast 2 Hybrid",
+  "kind": "hybrid",
+  "light": "Ushio NSL-400L W lamp, 8000 K",
+  "beamDeg": [
+   1.4,
+   37.2
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   20,
+   25
+  ],
+  "features": [
+   "gobo-rot:9",
+   "gobo-static:13",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   366,
+   255,
+   705
+  ],
+  "weightKg": 24.7,
+  "url": "https://chauvetprofessional.com/product/rogue-outcast-2-hybrid/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Rogue Outcast 2X Wash M",
+  "kind": "wash",
+  "light": "19 LEDs (quad-color RGBW) 25 W",
+  "beamDeg": [
+   7.9,
+   63.7
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   15,
+   17,
+   22,
+   23,
+   33,
+   54,
+   55,
+   56
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   303,
+   218,
+   361
+  ],
+  "weightKg": 9.6,
+  "url": "https://chauvetprofessional.com/product/rogue-outcast-2x-wash-m/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Rogue Outcast 2X Wash",
+  "kind": "wash",
+  "light": "19 LEDs (quad-color RGBW) 25 W",
+  "beamDeg": [
+   8,
+   66.1
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   15,
+   17,
+   22,
+   33,
+   54,
+   56
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   303,
+   218,
+   361
+  ],
+  "weightKg": 9.6,
+  "url": "https://chauvetprofessional.com/product/rogue-outcast-2x-wash/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Rogue Outcast 3 Spot",
+  "kind": "spot",
+  "light": "1 LED (CW) 350 W, 8373 K",
+  "beamDeg": [
+   4.8,
+   37.8
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   20,
+   25
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-rot:7",
+   "gobo-static:8",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   366,
+   244,
+   639
+  ],
+  "weightKg": 23.2,
+  "url": "https://chauvetprofessional.com/product/rogue-outcast-3-spot/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Rogue Outcast 3X Wash",
+  "kind": "wash",
+  "light": "37 LEDs (quad-color RGBW) 25 W",
+  "beamDeg": [
+   9.3,
+   33.9
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   21,
+   62,
+   71,
+   107
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   396,
+   298,
+   437
+  ],
+  "weightKg": 17.38,
+  "url": "https://chauvetprofessional.com/product/rogue-outcast-3x-wash/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Rogue R1 BeamWash",
+  "kind": "wash",
+  "light": "7 LEDs (quad-color RGBW) 40 W",
+  "beamDeg": [
+   3.4,
+   67.7
+  ],
+  "pan": 540,
+  "tilt": 230,
+  "channels": [
+   14,
+   15,
+   19,
+   21
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   214,
+   160,
+   369
+  ],
+  "weightKg": 5.35,
+  "url": "https://chauvetprofessional.com/product/rogue-r1-beamwash/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Rogue R1 FX-B",
+  "kind": "effect",
+  "light": "5 LEDs (quad-color RGBW) 15 W",
+  "beamDeg": [
+   6.2,
+   6.2
+  ],
+  "pan": 540,
+  "tilt": 540,
+  "channels": [
+   18,
+   25,
+   47,
+   52
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   640,
+   179,
+   247
+  ],
+  "weightKg": 11,
+  "url": "https://chauvetprofessional.com/product/rogue-r1-fx-b/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:chauvet/rogue-r1-fx-b",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Rogue R1 Wash",
+  "kind": "wash",
+  "light": "7 LEDs (quad-color RGBW) 15 W",
+  "beamDeg": [
+   8,
+   30
+  ],
+  "pan": 540,
+  "tilt": 230,
+  "channels": [
+   14,
+   15,
+   19,
+   21
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   187,
+   265,
+   354
+  ],
+  "weightKg": 5.9,
+  "url": "https://chauvetprofessional.com/product/rogue-r1-wash/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:chauvet-professional/rogue-r1-wash",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Rogue R1E Spot",
+  "kind": "spot",
+  "light": "1 LEDs (CW) 200 W, 7423 K",
+  "beamDeg": [
+   15.3,
+   15.3
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   16,
+   19
+  ],
+  "features": [
+   "gobo-rot:7",
+   "gobo-static:8",
+   "prism",
+   "iris",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://chauvetprofessional.com/product/rogue-r1e-spot/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Rogue R1X Spot",
+  "kind": "spot",
+  "light": "1 LEDs (CW) 170 W, 8847 K",
+  "beamDeg": [
+   14,
+   14
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "channels": [
+   16,
+   19
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-rot:7",
+   "gobo-static:8",
+   "prism",
+   "iris",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://chauvetprofessional.com/product/rogue-r1x-spot/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Rogue R1X Wash",
+  "kind": "wash",
+  "light": "7 LEDs (quad-color RGBW) 25 W",
+  "beamDeg": [
+   7.9,
+   62.7
+  ],
+  "pan": 540,
+  "tilt": 230,
+  "channels": [
+   14,
+   15,
+   19,
+   21
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   187,
+   265,
+   354
+  ],
+  "weightKg": 6.2,
+  "url": "https://chauvetprofessional.com/product/rogue-r1x-wash/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Rogue R2 Wash",
+  "kind": "wash",
+  "light": "19 LEDs (quad-color RGBW) 15 W",
+  "beamDeg": [
+   8,
+   30
+  ],
+  "pan": 540,
+  "tilt": 230,
+  "channels": [
+   15,
+   17,
+   22,
+   33,
+   54,
+   56
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   218,
+   306,
+   398
+  ],
+  "weightKg": 9.25,
+  "url": "https://chauvetprofessional.com/product/rogue-r2-wash/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:chauvet/rogue-r2-wash",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Rogue R2E Spot",
+  "kind": "spot",
+  "light": "1 LEDs (CW) 350 W, 7057 K",
+  "beamDeg": [
+   15.9,
+   15.9
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   19,
+   22
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-rot:7",
+   "gobo-static:8",
+   "prism",
+   "frost",
+   "iris",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://chauvetprofessional.com/product/rogue-r2e-spot/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Rogue R2X Beam",
+  "kind": "beam",
+  "light": "Osram Sirius 231 W lamp, 7900 K",
+  "beamDeg": [
+   1.8,
+   1.8
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   16,
+   19
+  ],
+  "features": [
+   "colorwheel",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   409,
+   327,
+   490
+  ],
+  "weightKg": 20.6,
+  "url": "https://chauvetprofessional.com/product/rogue-r2x-beam/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Rogue R2X Spot",
+  "kind": "spot",
+  "light": "1 LEDs (CW) 300 W, (8.7 amps), 8831 K",
+  "beamDeg": [
+   16,
+   16
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "channels": [
+   18,
+   21
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-rot:7",
+   "gobo-static:8",
+   "prism",
+   "frost",
+   "iris",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://chauvetprofessional.com/product/rogue-r2x-spot/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "vd:chauvet-professional/rogue-r2x-spot",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Rogue R2X Wash VW",
+  "kind": "wash",
+  "light": "19 LEDs (CW and WW) 25 W",
+  "beamDeg": [
+   8.2,
+   63
+  ],
+  "pan": 540,
+  "tilt": 230,
+  "channels": [
+   15,
+   18,
+   23,
+   34,
+   36
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   218,
+   306,
+   398
+  ],
+  "weightKg": 10.3,
+  "url": "https://chauvetprofessional.com/product/rogue-r2x-wash-vw/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Rogue R2X Wash",
+  "kind": "wash",
+  "light": "19 LEDs (quad-color RGBW) 25 W",
+  "beamDeg": [
+   7.3,
+   64.3
+  ],
+  "pan": 540,
+  "tilt": 230,
+  "channels": [
+   15,
+   17,
+   22,
+   33,
+   54,
+   56
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   218,
+   306,
+   398
+  ],
+  "weightKg": 10.3,
+  "url": "https://chauvetprofessional.com/product/rogue-r2x-wash/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Rogue R3 Beam",
+  "kind": "beam",
+  "light": "300W NSL Ushio lamp, 8000 K (color temp)",
+  "beamDeg": [
+   0.8,
+   0.8
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   16,
+   19
+  ],
+  "features": [
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   325,
+   220,
+   550
+  ],
+  "weightKg": 15.6,
+  "url": "https://chauvetprofessional.com/product/rogue-r3-beam/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Rogue R3 Spot",
+  "kind": "spot",
+  "light": "1 LED (CW) 300 W, 8324 K",
+  "beamDeg": [
+   11.9,
+   42.5
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "channels": [
+   19,
+   25
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-rot:7",
+   "gobo-static:8",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   373,
+   282,
+   601
+  ],
+  "weightKg": 22.7,
+  "url": "https://chauvetprofessional.com/product/rogue-r3-spot/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Rogue R3 Wash",
+  "kind": "wash",
+  "light": "37 LEDs (quad-color RGBW) 15 W",
+  "beamDeg": [
+   9.3,
+   62.6
+  ],
+  "pan": 540,
+  "tilt": 230,
+  "channels": [
+   21,
+   62,
+   71,
+   107
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   394,
+   298,
+   470
+  ],
+  "weightKg": 17.46,
+  "url": "https://chauvetprofessional.com/product/rogue-r3-wash/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "vd:chauvet-professional/rogue-r3-wash",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Rogue R3E Spot",
+  "kind": "spot",
+  "light": "1LEDs (CW) 350 W, 8527 K",
+  "beamDeg": [
+   8.4,
+   42.8
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   19,
+   25
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-rot:7",
+   "gobo-static:8",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   350,
+   240,
+   585
+  ],
+  "weightKg": 15.4,
+  "url": "https://chauvetprofessional.com/product/rogue-r3e-spot/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Rogue R3X Wash",
+  "kind": "wash",
+  "light": "37 LEDs (quad-color RGBW) 25 W",
+  "beamDeg": [
+   9.3,
+   33.9
+  ],
+  "pan": 540,
+  "tilt": 230,
+  "channels": [
+   21,
+   27,
+   62,
+   71,
+   107
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   394,
+   298,
+   470
+  ],
+  "weightKg": 17.46,
+  "url": "https://chauvetprofessional.com/product/rogue-r3x-wash/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Rogue RH1 Hybrid",
+  "kind": "hybrid",
+  "light": "Osram Sirius 330 W X8 lamp, 8000 K",
+  "beamDeg": [
+   3,
+   10
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   20,
+   25
+  ],
+  "features": [
+   "gobo-rot:9",
+   "gobo-static:13",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   409,
+   327,
+   638
+  ],
+  "weightKg": 25.1,
+  "url": "https://chauvetprofessional.com/product/rogue-rh1-hybrid/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:chauvet/rogue-rh1-hybrid",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "STRIKE 1",
+  "kind": "blinder",
+  "light": "1 LED (WW) 230 W, 2688 K",
+  "beamDeg": [
+   30,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   4,
+   5,
+   6
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   380,
+   188,
+   371
+  ],
+  "weightKg": 8.6,
+  "url": "https://chauvetprofessional.com/product/strike-1/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "vd:chauvet-professional/strike-1",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "STRIKE 4",
+  "kind": "blinder",
+  "light": "4 LEDs (WW) 100 W ), 3096 K",
+  "beamDeg": [
+   49,
+   49
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   4,
+   9
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "2 x 2",
+  "sizeMm": [
+   362,
+   163,
+   362
+  ],
+  "weightKg": 8.7,
+  "url": "https://chauvetprofessional.com/product/strike-4/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "vd:chauvet-professional/strike-4",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "STRIKE Array 1",
+  "kind": "blinder",
+  "light": null,
+  "beamDeg": [
+   62.8,
+   62.8
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   5,
+   14,
+   23,
+   26,
+   9,
+   43,
+   46
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   208,
+   219,
+   116
+  ],
+  "weightKg": 1.5,
+  "url": "https://chauvetprofessional.com/product/strike-array-1/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "STRIKE Array 2",
+  "kind": "blinder",
+  "light": "96 LED (WW) 1.33 W, 2700 K",
+  "beamDeg": [
+   60.3,
+   60.3
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   8,
+   9
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   469,
+   264,
+   161
+  ],
+  "weightKg": 8,
+  "url": "https://chauvetprofessional.com/product/strike-array-2/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "STRIKE Array 2C",
+  "kind": "blinder",
+  "light": "134 LEDs (56 quad-color RGBA, 78 WW) 2.7 to 4.32 W",
+  "beamDeg": [
+   59.1,
+   59.1
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   486,
+   189,
+   264
+  ],
+  "weightKg": 9.4,
+  "url": "https://chauvetprofessional.com/product/strike-array-2c/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "STRIKE Array 4",
+  "kind": "blinder",
+  "light": "192 LED (WW) 1.33 W, 2700 K",
+  "beamDeg": [
+   61.5,
+   61.5
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   4,
+   5,
+   6,
+   10
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   470,
+   424,
+   161
+  ],
+  "weightKg": 13,
+  "url": "https://chauvetprofessional.com/product/strike-array-4/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "STRIKE Array 4C",
+  "kind": "blinder",
+  "light": "268 LEDs (112 quad-color RGBA, 156 WW), 2.7W to 4.32 W",
+  "beamDeg": [
+   59.6,
+   59.6
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   486,
+   192,
+   452
+  ],
+  "weightKg": 15.4,
+  "url": "https://chauvetprofessional.com/product/strike-array-4c/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "STRIKE Array Ultra",
+  "kind": "blinder",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   6,
+   11,
+   14,
+   18,
+   19,
+   24,
+   27,
+   47,
+   90
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   486,
+   452,
+   280
+  ],
+  "weightKg": 18,
+  "url": "https://chauvetprofessional.com/product/strike-array-ultra/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "STRIKE Bolt 1C",
+  "kind": "strobe",
+  "light": "66 LEDs (quad-color) SMD 5050, 0.9 – 1.5 W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   10,
+   11,
+   13,
+   17,
+   20,
+   25,
+   27,
+   40
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   380,
+   213,
+   300
+  ],
+  "weightKg": 8.7,
+  "url": "https://chauvetprofessional.com/product/strike-bolt-1c/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "STRIKE P38",
+  "kind": "blinder",
+  "light": "1 LED (WW) 90 W, 2688 K",
+  "beamDeg": [
+   27,
+   27
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   4,
+   5,
+   6
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   303,
+   261,
+   184
+  ],
+  "weightKg": 3.8,
+  "url": "https://chauvetprofessional.com/product/strike-p38/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "STRIKE Saber 10",
+  "kind": "strobe",
+  "light": "10 LEDs (Warm White/Amber)",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   6,
+   13,
+   22,
+   26
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   78,
+   157
+  ],
+  "weightKg": 8,
+  "url": "https://chauvetprofessional.com/product/strike-saber-10/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "STRIKE Saber",
+  "kind": "strobe",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   7,
+   10,
+   11,
+   20,
+   27
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   78,
+   157
+  ],
+  "weightKg": 6.7,
+  "url": "https://chauvetprofessional.com/product/strike-saber/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "STRIKE V",
+  "kind": "strobe",
+  "light": "24 LEDs top plate (quad-color RGBW), 6W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   407,
+   187,
+   310
+  ],
+  "weightKg": 16.3,
+  "url": "https://chauvetprofessional.com/product/strike-v/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "WELL BATTEN 14",
+  "kind": "bar",
+  "light": "28 LEDs (RGBW) 13.2W",
+  "beamDeg": [
+   16,
+   16
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   8,
+   15,
+   66,
+   85
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1001,
+   200,
+   163
+  ],
+  "weightKg": 7.4,
+  "url": "https://chauvetprofessional.com/product/well-batten-14/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "WELL FIT X",
+  "kind": "par",
+  "light": "9 LEDs (RGBWW) 13.2 W",
+  "beamDeg": [
+   11.5,
+   11.5
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   8,
+   12
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://chauvetprofessional.com/product/well-fit-x/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "WELL FIT",
+  "kind": "par",
+  "light": "4 LEDs (quad- color RGBA) 10 W",
+  "beamDeg": [
+   10.8,
+   10.8
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   4,
+   6,
+   10
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   138,
+   145,
+   202
+  ],
+  "weightKg": null,
+  "url": "https://chauvetprofessional.com/product/well-fit/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "vd:chauvet-professional/well-fit",
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "WELL Gobo",
+  "kind": "effect",
+  "light": "1 LED (CW) 25.2 W, 6542 K",
+  "beamDeg": [
+   17.3,
+   36.6
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   3,
+   6
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://chauvetprofessional.com/product/well-gobo/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "WELL Pad",
+  "kind": "panel",
+  "light": "96 LEDs (24 red, 24 green, 24 blue, 24 amber) 1 to 3 W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   6,
+   10
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   406,
+   213,
+   102
+  ],
+  "weightKg": null,
+  "url": "https://chauvetprofessional.com/product/well-pad/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "WELL PANEL X",
+  "kind": "panel",
+  "light": "40 LEDs (RGBWW) 13.2 W",
+  "beamDeg": [
+   21.4,
+   21.4
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   8,
+   9,
+   12,
+   16
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   436,
+   135,
+   260
+  ],
+  "weightKg": 9.43,
+  "url": "https://chauvetprofessional.com/product/well-panel-x/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "WELL PANEL",
+  "kind": "panel",
+  "light": "24 LEDs (24 red, 24 green, 24 blue, 24 warm white) 1 to 3 W",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   8,
+   12,
+   13,
+   21
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   436,
+   135,
+   260
+  ],
+  "weightKg": null,
+  "url": "https://chauvetprofessional.com/product/well-panel/",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "WELL POD 2",
+  "kind": "par",
+  "light": "7 LEDs (RGBWW) 13.2 W",
+  "beamDeg": [
+   11.5,
+   11.5
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   8,
+   12
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   206,
+   138,
+   222
+  ],
+  "weightKg": 3.3,
+  "url": "https://chauvetprofessional.com/product/well-pod-2/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "WELL POD 3",
+  "kind": "par",
+  "light": "19 LEDs (RGBWW), 13.2W",
+  "beamDeg": [
+   12.7,
+   12.7
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   8,
+   12
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   248,
+   178,
+   276
+  ],
+  "weightKg": 5.1,
+  "url": "https://chauvetprofessional.com/product/well-pod-3/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "WELL STX 180",
+  "kind": "bar",
+  "light": "128 LEDs (64RGB / 64WW) SMD 5050",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   15,
+   64,
+   67
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   42,
+   42
+  ],
+  "weightKg": 1.5,
+  "url": "https://chauvetprofessional.com/product/well-stx-180/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "WELL STX 360",
+  "kind": "bar",
+  "light": "512 LEDs (256 RGB / 256 WW) SMD 5050",
+  "beamDeg": [
+   360,
+   360
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   15,
+   64,
+   67
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1501,
+   70,
+   70
+  ],
+  "weightKg": 4.1,
+  "url": "https://chauvetprofessional.com/product/well-stx-360/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation Rêve 3 Profile",
+  "kind": "profile",
+  "light": "85 LEDs ((14 red, 10 green, 11 blue, 4 cyan, 20 amber, 26 mint)",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 270,
+  "channels": [],
+  "features": [
+   "gobo-rot:7",
+   "gobo-static:8",
+   "prism",
+   "iris",
+   "zoom",
+   "focus",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   410,
+   280,
+   692
+  ],
+  "weightKg": 30.9,
+  "url": "https://chauvetprofessional.com/product/ovation-reve-3-profile/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "bewegter Ovation-Profiler, Mehrfarben-LED (85 LEDs)"
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation Rêve 3 Wash Fresnel",
+  "kind": "fresnel",
+  "light": "1 LEDs (RGBCAM)",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 270,
+  "channels": [],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   410,
+   280,
+   716
+  ],
+  "weightKg": 31.2,
+  "url": "https://chauvetprofessional.com/product/ovation-reve-3-wash-fresnel/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "bewegte Fresnel-Version"
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation Rêve 3 Wash PC",
+  "kind": "pc",
+  "light": "1 LEDs (RGBCAM)",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 270,
+  "channels": [],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   410,
+   280,
+   716
+  ],
+  "weightKg": 31.2,
+  "url": "https://chauvetprofessional.com/product/ovation-reve-3-wash-pc/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "bewegte PC-Version"
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation Rêve E2",
+  "kind": "ellipsoidal",
+  "light": "1 LED (RGBACM)",
+  "beamDeg": [
+   7.6,
+   7.6
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   5,
+   6,
+   8,
+   12,
+   14,
+   18
+  ],
+  "features": [
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   498,
+   307,
+   470
+  ],
+  "weightKg": 6.44,
+  "url": "https://chauvetprofessional.com/product/ovation-reve-e2/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Chauvet Professional",
+  "model": "Ovation Rêve F2",
+  "kind": "fresnel",
+  "light": "1, RGBCAM LED Array",
+  "beamDeg": [
+   10.5,
+   120
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   5,
+   7,
+   9,
+   13,
+   15,
+   16,
+   20
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   388,
+   302,
+   448
+  ],
+  "weightKg": 8.43,
+  "url": "https://chauvetprofessional.com/product/ovation-reve-f2/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ }
+]

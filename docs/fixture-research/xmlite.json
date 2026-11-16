@@ -1,0 +1,3486 @@
+[
+  {
+    "manufacturer": "XMlite",
+    "model": "BOT230",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:17",
+      "prism"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      405,
+      330,
+      495
+    ],
+    "weightKg": 18.5,
+    "url": "https://www.movinghead.net/stagelights/508.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: Moving head beam 230,230W moving head lights. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 230 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "LED Par 54x3W",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      14,
+      25,
+      30
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 6.5,
+    "url": "https://www.movinghead.net/stagelights/509.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: LED Par Light 54*3w. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 130 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "Beam230",
+    "kind": "beam",
+    "light": "Lamp : YODN230W R7 /Japanese 7R",
+    "beamDeg": [
+      3.8,
+      3.8
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:17",
+      "prism",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      400,
+      465,
+      605
+    ],
+    "weightKg": 18.5,
+    "url": "https://www.movinghead.net/stagelights/510.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: Moving Head Beam 230. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 230 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "Hotbeam280",
+    "kind": "hybrid",
+    "light": "Lamp: NEOLUX295 W;",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16,
+      24
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      380,
+      370,
+      590
+    ],
+    "weightKg": 19,
+    "url": "https://www.movinghead.net/stagelights/511.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 10R Moving head hybrid,10r moving head lights. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 470 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "LS180",
+    "kind": "spot",
+    "light": "Atria TM HL180 led lamp source;",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      17
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      370,
+      370,
+      560
+    ],
+    "weightKg": 14,
+    "url": "https://www.movinghead.net/stagelights/512.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: LS180 Moving head light Led spot. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 180 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "Minihotbeam",
+    "kind": "hybrid",
+    "light": "Lamp: YODN 2R 132W",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      310,
+      247,
+      466
+    ],
+    "weightKg": 12,
+    "url": "https://www.movinghead.net/stagelights/513.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 2R Moving head hybrid. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 250 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "FS350",
+    "kind": "follow",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "colorwheel",
+      "frost",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      831,
+      348,
+      324
+    ],
+    "weightKg": 27,
+    "url": "https://www.movinghead.net/stagelights/514.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 17R Follow Spot. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 420 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "LM915Z",
+    "kind": "matrixhead",
+    "light": "Total power: 180W;",
+    "beamDeg": [
+      10,
+      50
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      16,
+      22,
+      50
+    ],
+    "features": [
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      250,
+      160,
+      340
+    ],
+    "weightKg": 6,
+    "url": "https://www.movinghead.net/stagelights/515.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 9*15W led matrix moving head  light with zoom（this model is EOL）. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 180 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "BS440/BS440C",
+    "kind": "hybrid",
+    "light": "Lamp: OSRAM SIRIUS HRI 440W WD41MM.",
+    "beamDeg": [
+      2.5,
+      39
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16,
+      20,
+      24
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      440,
+      310,
+      680
+    ],
+    "weightKg": 20,
+    "url": "https://www.movinghead.net/stagelights/516.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 20R Moving Head Hybrid. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 600 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "FS440",
+    "kind": "follow",
+    "light": "Light Source: OSRAM 461W",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "colorwheel",
+      "frost"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      830,
+      350,
+      320
+    ],
+    "weightKg": 27,
+    "url": "https://www.movinghead.net/stagelights/517.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 20R follow spot,follow spotlight. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 550 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "BEAM 440",
+    "kind": "beam",
+    "light": "Lamp：OSRAM SIRIUS HRI 440W WD41MM",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:17+17+9",
+      "prism",
+      "frost"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      440,
+      310,
+      680
+    ],
+    "weightKg": 22,
+    "url": "https://www.movinghead.net/stagelights/518.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 20R moving head lights. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 600 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "Dot beam 60W",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      14,
+      16
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      330,
+      240,
+      390
+    ],
+    "weightKg": 5.5,
+    "url": "https://www.movinghead.net/stagelights/519.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: DOT BEAM-60W LED BEAM. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 80 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "FS280",
+    "kind": "follow",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "colorwheel",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      550,
+      320,
+      290
+    ],
+    "weightKg": 15.5,
+    "url": "https://www.movinghead.net/stagelights/520.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 280W Follow Spot,Follow Spotlight. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 375 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "Hotbeam350",
+    "kind": "hybrid",
+    "light": "Lamp: 350W;",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16,
+      24
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      380,
+      370,
+      590
+    ],
+    "weightKg": 16,
+    "url": "https://www.movinghead.net/stagelights/521.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 17r 350w beam spot wash moving head light. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 470 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "LM285",
+    "kind": "wash",
+    "light": null,
+    "beamDeg": [
+      7.9,
+      38
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      15,
+      25
+    ],
+    "features": [
+      "zoom",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      435,
+      340,
+      565
+    ],
+    "weightKg": 12,
+    "url": "https://www.movinghead.net/stagelights/522.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 19*15W LED Moving Head Wash Zoom. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 400 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "MINI HOTBEAM",
+    "kind": "hybrid",
+    "light": null,
+    "beamDeg": [
+      4,
+      15
+    ],
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      16,
+      24
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      342,
+      246,
+      447
+    ],
+    "weightKg": 13,
+    "url": "https://www.movinghead.net/stagelights/523.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 3R Moving Head Hybrid,Moving Head Light. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 230 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "Beam350",
+    "kind": "beam",
+    "light": "Lamp: Yodn350W;",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16,
+      19
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:14",
+      "prism",
+      "frost"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      410,
+      600,
+      350
+    ],
+    "weightKg": 18.5,
+    "url": "https://www.movinghead.net/stagelights/524.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 17R beam moving head light. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 470 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "MS440",
+    "kind": "spot",
+    "light": "Lamp: OSRAM SIRIUS HRI 440W WD41MM;",
+    "beamDeg": [
+      5,
+      30
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      21,
+      25
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      440,
+      310,
+      680
+    ],
+    "weightKg": 20,
+    "url": "https://www.movinghead.net/stagelights/525.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: MS440 440W Moving head Spot,Moving Head Light. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 600 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "Megabeam350",
+    "kind": "hybrid",
+    "light": null,
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      21,
+      25
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      440,
+      310,
+      680
+    ],
+    "weightKg": 20,
+    "url": "https://www.movinghead.net/stagelights/526.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 17R Hybrid CMY,Moving Head Hybrid. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 470 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "LP285",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      7,
+      9
+    ],
+    "features": [
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 4,
+    "url": "https://www.movinghead.net/stagelights/527.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 19*15W LED Zoom Par Light,LED Par Lights. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 285 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "LP285CW",
+    "kind": "par",
+    "light": null,
+    "beamDeg": [
+      7.9,
+      38
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      6
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      220,
+      220,
+      240
+    ],
+    "weightKg": 4,
+    "url": "https://www.movinghead.net/stagelights/528.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: White,19*15W LED Par Lights Zoom. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 285 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "LED Par 54x3W (Variante)",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      14,
+      25,
+      30
+    ],
+    "features": [
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      670,
+      365,
+      400
+    ],
+    "weightKg": 6.3,
+    "url": "https://www.movinghead.net/stagelights/529.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: LED Par Light 54*3w. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 130 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "XC230",
+    "kind": "beam",
+    "light": "Power:400W, Ballast : Electronic ballast",
+    "beamDeg": [
+      0,
+      3.8
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      6,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      410,
+      330,
+      500
+    ],
+    "weightKg": 17.5,
+    "url": "https://www.movinghead.net/stagelights/530.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: XC230 moving head beam 230. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 400 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "LM560",
+    "kind": "wash",
+    "light": null,
+    "beamDeg": [
+      7.9,
+      38
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      14,
+      25,
+      30
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      413,
+      320,
+      486
+    ],
+    "weightKg": 17,
+    "url": "https://www.movinghead.net/stagelights/531.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 37*15W LED Moving Head Wash Zoom. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 800 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "Exp1400",
+    "kind": "profile",
+    "light": "-Lok-it 1400-PS_Brilliant. The light source is full-spectrum high CRI, the lamp has good color saturation, and the color is more vivid. When",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      37,
+      41
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      480,
+      370,
+      870
+    ],
+    "weightKg": 41,
+    "url": "https://www.movinghead.net/stagelights/532.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 1400W Moving Head Profile Spot. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 1800 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "NEX 350",
+    "kind": "beam",
+    "light": "Lamp: Yodn350W;",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      16,
+      19
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      410,
+      600,
+      350
+    ],
+    "weightKg": 18.5,
+    "url": "https://www.movinghead.net/stagelights/533.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 17R Beam Moving Head. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 470 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "Nex-260",
+    "kind": "beam",
+    "light": "Total power:430W",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      368,
+      267,
+      540
+    ],
+    "weightKg": 17,
+    "url": "https://www.movinghead.net/stagelights/534.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 9R Beam Moving Head,Beam 260 Moving Head,bigger than 230 beam. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 380 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "Exp660",
+    "kind": "profile",
+    "light": "Lamp：LED 1000W；",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      37,
+      41
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      482,
+      371.7,
+      870
+    ],
+    "weightKg": 42,
+    "url": "https://www.movinghead.net/stagelights/535.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 1000W LED moving head profile. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light)."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "Exp600",
+    "kind": "profile",
+    "light": null,
+    "beamDeg": [
+      6,
+      42
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      37,
+      41
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      410,
+      310,
+      740
+    ],
+    "weightKg": 32,
+    "url": "https://www.movinghead.net/stagelights/536.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 600W LED moving head profile. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 850 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "Exp410",
+    "kind": "hybrid",
+    "light": null,
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16,
+      24,
+      21,
+      25
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      368,
+      267,
+      594
+    ],
+    "weightKg": 19,
+    "url": "https://www.movinghead.net/stagelights/537.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 450W LED Hybrid Moving Head，20R LED HYBRID. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 416 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "LP310",
+    "kind": "par",
+    "light": null,
+    "beamDeg": [
+      25,
+      25
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3,
+      6,
+      9,
+      27,
+      4,
+      1
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      340,
+      180,
+      390
+    ],
+    "weightKg": 5,
+    "url": "https://www.movinghead.net/stagelights/538.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 27*12W LED Par Lights. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 310 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "LWP310",
+    "kind": "par",
+    "light": null,
+    "beamDeg": [
+      25,
+      25
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3,
+      6,
+      9,
+      27,
+      4,
+      1
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 8.5,
+    "url": "https://www.movinghead.net/stagelights/539.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: OUTDOOR,20*10W LED Par Lights. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 310 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "LLP400",
+    "kind": "beam",
+    "light": "Lamp : NSL400 Lamp;",
+    "beamDeg": [
+      4,
+      6
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16,
+      19
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "animation"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      440,
+      310,
+      590
+    ],
+    "weightKg": 20,
+    "url": "https://www.movinghead.net/stagelights/540.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 400W Moving Head Lights. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 600 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "LM560C",
+    "kind": "wash",
+    "light": null,
+    "beamDeg": [
+      7.9,
+      38
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      14,
+      25,
+      30
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      413,
+      320,
+      486
+    ],
+    "weightKg": 17,
+    "url": "https://www.movinghead.net/stagelights/541.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 37*15W LED Moving Head Wash Zoom. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 800 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "NEX150",
+    "kind": "hybrid",
+    "light": null,
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16,
+      24
+    ],
+    "features": [
+      "colorwheel",
+      "gobo"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 13,
+    "url": "https://www.movinghead.net/stagelights/542.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 150W LED Hybrid Moving Head. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 280 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "LP 560C",
+    "kind": "par",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3,
+      7,
+      10
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 11,
+    "url": "https://www.movinghead.net/stagelights/543.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 37*15W LED Par Lights. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light)."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "LM760",
+    "kind": "wash",
+    "light": "40W RGBW 4in1 LED,19 pcs;",
+    "beamDeg": [
+      4,
+      36
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      20,
+      30,
+      77
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      415,
+      305,
+      550
+    ],
+    "weightKg": 17.5,
+    "url": "https://www.movinghead.net/stagelights/544.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 19*40W LED Moving Head Wash Zoom. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 850 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "MEGAPLUS480",
+    "kind": "hybrid",
+    "light": null,
+    "beamDeg": [
+      2.5,
+      45
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      34,
+      39
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:14+9",
+      "prism",
+      "zoom",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      410,
+      250,
+      690
+    ],
+    "weightKg": 24.5,
+    "url": "https://www.movinghead.net/stagelights/545.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 470W Mega Lite Moving Head,Moving Head Lights. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 600 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "FS550",
+    "kind": "follow",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "colorwheel",
+      "frost",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      830,
+      350,
+      320
+    ],
+    "weightKg": 27,
+    "url": "https://www.movinghead.net/stagelights/546.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 550W Follow Spot,Follow Spotlight. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 640 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "MEGAPLUS 420",
+    "kind": "hybrid",
+    "light": null,
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      19
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      410,
+      250,
+      690
+    ],
+    "weightKg": 24.5,
+    "url": "https://www.movinghead.net/stagelights/547.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 420W Mega Lite Moving Head,Moving Head Lights. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 600 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "LM105",
+    "kind": "wash",
+    "light": null,
+    "beamDeg": [
+      7.9,
+      38
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      14,
+      25
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 12,
+    "url": "https://www.movinghead.net/stagelights/549.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 7*15W led moving head wash,Mini moving head wash. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 400 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "LWP285CW",
+    "kind": "par",
+    "light": null,
+    "beamDeg": [
+      7.9,
+      38
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      6
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      250,
+      250,
+      260
+    ],
+    "weightKg": 10,
+    "url": "https://www.movinghead.net/stagelights/550.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: OUTDOOR,19*15W LED PAR. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light)."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "LWP216",
+    "kind": "par",
+    "light": "LED lamp source:18x10W RGBW 4 IN 1",
+    "beamDeg": [
+      25,
+      25
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      8
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      280,
+      310,
+      240
+    ],
+    "weightKg": 8.5,
+    "url": "https://www.movinghead.net/stagelights/551.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: OUTDOOR,18*10W LED PAR light without Zoom. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 220 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "LP228",
+    "kind": "par",
+    "light": "LED lamp source:19x10W RGBW 4 IN 1",
+    "beamDeg": [
+      25,
+      25
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      8
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      250,
+      310,
+      230
+    ],
+    "weightKg": 5,
+    "url": "https://www.movinghead.net/stagelights/552.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 19*10W LED PAR light. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 230 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "Mega Plus 450",
+    "kind": "hybrid",
+    "light": "L amp: OSRAM SIRIUS HRI 420/W371W",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      19
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      410,
+      250,
+      690
+    ],
+    "weightKg": 23,
+    "url": "https://www.movinghead.net/stagelights/553.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 420W Moving head hybrid. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 540 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "NEX320",
+    "kind": "beam",
+    "light": "Lamp: Neolux295W",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      370,
+      270,
+      540
+    ],
+    "weightKg": 17,
+    "url": "https://www.movinghead.net/stagelights/554.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 295W Beam moving head light. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light)."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "XF580",
+    "kind": "profile",
+    "light": "Lamp: 580W White LED Engine;",
+    "beamDeg": [
+      8,
+      29
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      22
+    ],
+    "features": [
+      "cto",
+      "colorwheel",
+      "zoom",
+      "focus",
+      "blades"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      400,
+      300,
+      780
+    ],
+    "weightKg": 29,
+    "url": "https://www.movinghead.net/stagelights/555.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 580W LED PROFILE MOVING HEAD FACE LIGHT. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 700 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "LLP450",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:14",
+      "prism",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      382,
+      260,
+      563
+    ],
+    "weightKg": 17,
+    "url": "https://www.movinghead.net/stagelights/556.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 450W Beam Moving head light. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 550 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "FS800",
+    "kind": "follow",
+    "light": null,
+    "beamDeg": [
+      3.5,
+      11
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "cto",
+      "colorwheel",
+      "frost",
+      "iris",
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      830,
+      350,
+      320
+    ],
+    "weightKg": 27,
+    "url": "https://www.movinghead.net/stagelights/557.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: LED FOLLOW SPOT. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 800 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "H9",
+    "kind": "profile",
+    "light": null,
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      42,
+      49
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      438,
+      302,
+      787
+    ],
+    "weightKg": 36,
+    "url": "https://www.movinghead.net/stagelights/558.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 800W LED Profile Moving head light,LED Framing Moving Head light. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 1000 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "H12",
+    "kind": "profile",
+    "light": null,
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      43,
+      39
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      482,
+      371,
+      870
+    ],
+    "weightKg": 43,
+    "url": "https://www.movinghead.net/stagelights/559.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 1200W LED profile Moving Head Light, LED 4 in 1 Moving head light. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 700 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "LM660",
+    "kind": "wash",
+    "light": "and adopts 37pcs 6 in1 LED light sources. On the basis of the traditional classic red, green and blue,LM660 assembled with amber, cyan, and ",
+    "beamDeg": [
+      7.9,
+      38
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      32,
+      19
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      550,
+      420,
+      310
+    ],
+    "weightKg": 18.5,
+    "url": "https://www.movinghead.net/stagelights/560.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: LED WASH 6 IN 1 ，RGBACL，20W*37PCS LED WASH ZOOM. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 850 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "H10",
+    "kind": "profile",
+    "light": "module, and the light source life is 20000 hours; it can realize digital color change without color wheel and CMY glass sheet, and the color",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      36,
+      52,
+      56
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:1+1",
+      "prism",
+      "frost",
+      "iris",
+      "blades"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      815,
+      460,
+      310
+    ],
+    "weightKg": 38.5,
+    "url": "https://www.movinghead.net/stagelights/561.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: FIVE COLORS LED PROFILE(RGBAL). Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 1400 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "MEGABEAM380",
+    "kind": "hybrid",
+    "light": "Optical System Beam angel : 2~50°; Dimmer : 0-100% l inear adjustment ; Gobo Wheels Rotation gobo: 9 gobo+ white,changeable; Gobo siz",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      21,
+      25
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 25,
+    "url": "https://www.movinghead.net/stagelights/562.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 380w Hybrid with CMY moving head light. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 550 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "MF9",
+    "kind": "profile",
+    "light": "Lamp: 800Wx2 White LED Engine ;",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      37,
+      41
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      438,
+      302,
+      787
+    ],
+    "weightKg": 36,
+    "url": "https://www.movinghead.net/stagelights/563.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: Double led source profile moving head light,led profile moving. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 1000 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "H5",
+    "kind": "profile",
+    "light": "H5 is the smaller version of H10 , as wefind the new led source which could make the profile effects much high",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      36,
+      52,
+      56
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:1+1",
+      "prism",
+      "frost",
+      "iris",
+      "blades"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      740,
+      415,
+      310
+    ],
+    "weightKg": 30,
+    "url": "https://www.movinghead.net/stagelights/564.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 500W 5 COLORS LED PROFILE MOVING HEAD LIGHT. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 1400 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "EXP 700",
+    "kind": "profile",
+    "light": "Lamp : OSRAM HRI 580W",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      43
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      405,
+      300,
+      690
+    ],
+    "weightKg": 29,
+    "url": "https://www.movinghead.net/stagelights/565.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 580W moving head beam+ framing,580w sharpy framing. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 680 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "EXP290",
+    "kind": "hybrid",
+    "light": "LED source: 300w white engine Lamp lifespan:20000hours; Power:110-240V,50/60Hz; Total power:350W light output for equipment : 8400K;",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16,
+      24
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 13.5,
+    "url": "https://www.movinghead.net/stagelights/566.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 300W LED MOVING HEAD LIGHT 3 IN1 ,BEAM, SPOT ,WASH. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 350 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "NEX295",
+    "kind": "beam",
+    "light": "Lamp: 295w discharge lamp Lamp lifespan:1500hours; Power:110-240V,50/60Hz; Total power:320W",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:13+13",
+      "prism"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 12.3,
+    "url": "https://www.movinghead.net/stagelights/567.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 295w moving head light beam,11r moving head light,11r beam. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 320 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "H5 (500W LED PROFILE MOVING HEAD LIGHT)",
+    "kind": "profile",
+    "light": "Lamp: 500W White LED Engine ; Life time：20000 hours; Light Source Luminous Flux：17687lm(UPDATING)；",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      44,
+      45,
+      50
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 22.5,
+    "url": "https://www.movinghead.net/stagelights/568.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 500W LED PROFILE MOVING HEAD LIGHT. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 650 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "C10",
+    "kind": "profile",
+    "light": "Lamp: 1000W White LED Engine ;",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      39,
+      43
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      438,
+      302,
+      787
+    ],
+    "weightKg": 36,
+    "url": "https://www.movinghead.net/stagelights/569.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 1000w LED PROFILE MOVING HEAD LIGHT， C10. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 1000 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "WP430",
+    "kind": "beam",
+    "light": "OSRAM 420W S +;",
+    "beamDeg": [
+      2.2,
+      2.2
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      563,
+      392,
+      327
+    ],
+    "weightKg": 21.7,
+    "url": "https://www.movinghead.net/stagelights/570.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: WP430-water proof moving head light. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 445 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "LM610",
+    "kind": "beeeye",
+    "light": null,
+    "beamDeg": [
+      4,
+      36
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      21,
+      23,
+      35,
+      78,
+      92,
+      97,
+      99
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 14,
+    "url": "https://www.movinghead.net/stagelights/571.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: NEW 19x40 LED WASH MOVING HEAD LIGHT WITH B-EYE. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 774 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "NEX 430",
+    "kind": "beam",
+    "light": "Lamp: OSRAM 371W S +;",
+    "beamDeg": [
+      2.2,
+      2.2
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      340,
+      245,
+      540
+    ],
+    "weightKg": 17.5,
+    "url": "https://www.movinghead.net/stagelights/572.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 380W Beam Moving Head Lights. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 445 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "L5",
+    "kind": "strobe",
+    "light": null,
+    "beamDeg": [
+      102,
+      102
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      7,
+      70,
+      117,
+      68,
+      65,
+      33,
+      17,
+      112,
+      39,
+      21,
+      15
+    ],
+    "features": [
+      "frost",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1000,
+      98,
+      153
+    ],
+    "weightKg": 8.4,
+    "url": "https://www.movinghead.net/stagelights/573.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: Warter Proof Long Strip Strobe Bar Light. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 850 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "W8",
+    "kind": "profile",
+    "light": "820W LED White LED Engine;",
+    "beamDeg": [
+      7,
+      49
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      37,
+      41
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:8+6",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      425,
+      300,
+      770
+    ],
+    "weightKg": 35.6,
+    "url": "https://www.movinghead.net/stagelights/574.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: Outdoor Waterproof 800W LED profile. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 1010 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "EXP750",
+    "kind": "profile",
+    "light": "Fixed gobo wheel: 5 fix colors+white+CRI+CMY.CTO:2000-7400K;",
+    "beamDeg": [
+      7,
+      49
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": null,
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:8+6",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://www.movinghead.net/stagelights/575.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 800W LED profile moving head light. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 1000 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "EXP351",
+    "kind": "hybrid",
+    "light": null,
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16,
+      24
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:7+7",
+      "prism",
+      "frost",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      325,
+      240,
+      570
+    ],
+    "weightKg": 13.5,
+    "url": "https://www.movinghead.net/stagelights/576.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: LED 351 HYBRID , Beam Spot Wash Moving Head Light. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 470 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "EXP490C",
+    "kind": "hybrid",
+    "light": "450W LED , c olortemperature 8000-9000K;",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      16,
+      24
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:10+10+9",
+      "prism",
+      "frost",
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      370,
+      265,
+      640
+    ],
+    "weightKg": 21,
+    "url": "https://www.movinghead.net/stagelights/577.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 450W LED Hybrid Light CMY. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 650 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "NEX256",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:8",
+      "prism",
+      "frost",
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      250,
+      190,
+      460
+    ],
+    "weightKg": 8.62,
+    "url": "https://www.movinghead.net/stagelights/578.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 260W Beam Moving Head Light. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 317 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "WP610",
+    "kind": "wash",
+    "light": "Total power: 800W:",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      21,
+      23,
+      35,
+      78,
+      92,
+      97,
+      99
+    ],
+    "features": [
+      "zoom",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      335,
+      280,
+      470
+    ],
+    "weightKg": null,
+    "url": "https://www.movinghead.net/stagelights/579.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: OUTDOOR  IP65 40W RGBW 4 in 1 LED,19 pcs. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 800 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "C8",
+    "kind": "profile",
+    "light": "800W LED White light module ；",
+    "beamDeg": [
+      4,
+      47
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      37,
+      41,
+      50
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      415,
+      305,
+      750
+    ],
+    "weightKg": 29.5,
+    "url": "https://www.movinghead.net/stagelights/580.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 800W Profile moving Head Light. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 900 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "WP380",
+    "kind": "beam",
+    "light": "OSRAM 371W S+:",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:6+6",
+      "prism",
+      "frost",
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      390,
+      325,
+      565
+    ],
+    "weightKg": 21,
+    "url": "https://www.movinghead.net/stagelights/581.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: Waterproof 380 Beam Moving Head Light. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 445 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "Mega Plus 450C",
+    "kind": "hybrid",
+    "light": "Power:560W;",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      19,
+      24,
+      31
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:14+14+7",
+      "prism",
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      405,
+      245,
+      685
+    ],
+    "weightKg": 24,
+    "url": "https://www.movinghead.net/stagelights/582.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 420W Hybrid Moving Head Light. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 560 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "LWP180",
+    "kind": "par",
+    "light": "of up to 180W, achieving an excellent balance between perform.",
+    "beamDeg": [
+      20,
+      20
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2,
+      6,
+      8
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      250,
+      310,
+      250
+    ],
+    "weightKg": 4.5,
+    "url": "https://www.movinghead.net/stagelights/583.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 12W RGBW 4in1 LED,18 pcs Par. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 200 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "LWP200",
+    "kind": "par",
+    "light": "50W LED,4 pcs;",
+    "beamDeg": [
+      24,
+      24
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      8
+    ],
+    "features": [
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      250,
+      310,
+      250
+    ],
+    "weightKg": 4.5,
+    "url": "https://www.movinghead.net/stagelights/584.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: OUTDOOR  4*50W LED Par，IP65. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 200 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "Magaplus370",
+    "kind": "hybrid",
+    "light": null,
+    "beamDeg": [
+      3,
+      27
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      21,
+      25
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      343,
+      247,
+      613
+    ],
+    "weightKg": 16.2,
+    "url": "https://www.movinghead.net/stagelights/585.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 380W Moving Head Hybrid. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 405 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "NA260",
+    "kind": "lasermh",
+    "light": "260W laser module",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": null,
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:19+19",
+      "prism",
+      "frost",
+      "iris",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      424,
+      273,
+      730
+    ],
+    "weightKg": null,
+    "url": "https://www.movinghead.net/stagelights/586.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 260W laser. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light)."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "BP60",
+    "kind": "par",
+    "light": "Light source: 12 high-brightness 7W LED beads RGBWPY (6-in-1)",
+    "beamDeg": [
+      25,
+      25
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      6,
+      8,
+      10
+    ],
+    "features": [
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      302,
+      164,
+      294
+    ],
+    "weightKg": 4.52,
+    "url": "https://www.movinghead.net/stagelights/587.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: Par lights 12 high-brightness 7W LED beads RGBWPY (6-in-1). Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 55 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "EXP410C",
+    "kind": "hybrid",
+    "light": "400WLED;",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      21,
+      25
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:10+10+9",
+      "prism",
+      "frost",
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      370,
+      265,
+      595
+    ],
+    "weightKg": 19,
+    "url": "https://www.movinghead.net/stagelights/879.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 400W LED Hybrid CMY Moving Head. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 450 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "LED hotbeam",
+    "kind": "hybrid",
+    "light": "400W LED White Light Module;",
+    "beamDeg": [
+      1.8,
+      44
+    ],
+    "pan": "infinite",
+    "tilt": 270,
+    "channels": [
+      39
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:9+11+9",
+      "prism",
+      "frost",
+      "zoom",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      363,
+      240,
+      667
+    ],
+    "weightKg": null,
+    "url": "https://www.movinghead.net/stagelights/880.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: LED HYBRID MOVING HEAD LIGHT. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 400 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "Megaplus382",
+    "kind": "hybrid",
+    "light": "Total power: 500W;",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      19,
+      24,
+      31
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      405,
+      245,
+      685
+    ],
+    "weightKg": 24,
+    "url": "https://www.movinghead.net/stagelights/881.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 382W Hybrid Moving Head Light. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 500 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "LM940",
+    "kind": "wash",
+    "light": "37 x 40W RGBW LED",
+    "beamDeg": [
+      15,
+      48
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      22,
+      36,
+      133,
+      147,
+      170
+    ],
+    "features": [
+      "cto",
+      "gobo",
+      "prism",
+      "frost",
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      465,
+      367,
+      492
+    ],
+    "weightKg": 23,
+    "url": "https://www.movinghead.net/stagelights/882.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 37*40W RGBW LED WASH. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 1350 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "LM350B",
+    "kind": "beam",
+    "light": "350W LEDSource CTO:7640K",
+    "beamDeg": [
+      8.8,
+      8.8
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      18
+    ],
+    "features": [
+      "cto",
+      "colorwheel",
+      "gobo:3+4+11",
+      "prism",
+      "frost",
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      608.5,
+      342.5,
+      259
+    ],
+    "weightKg": 17,
+    "url": "https://www.movinghead.net/stagelights/883.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 350W LED BEAM LIGHT. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 350 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "S6",
+    "kind": "strobe",
+    "light": "672 pcs 0.5W RGB tri-chip; 126 pcs 2W cool/warm dual-chip",
+    "beamDeg": [
+      113,
+      113
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      8,
+      16,
+      23,
+      114
+    ],
+    "features": [
+      "cto",
+      "colorwheel",
+      "IP65",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      570,
+      135,
+      250
+    ],
+    "weightKg": 8.25,
+    "url": "https://www.movinghead.net/stagelights/884.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 600W IP66 SQUARE STROBE. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 600 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "W10",
+    "kind": "profile",
+    "light": "1000W LED White Light Module",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      37,
+      38,
+      41
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:8",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      426,
+      300,
+      772
+    ],
+    "weightKg": 38.76,
+    "url": "https://www.movinghead.net/stagelights/885.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 1000W OUTDOOR LED PROFILE. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 1270 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "NEX361",
+    "kind": "beam",
+    "light": "350W Gas Discharge Lamp",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      18
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:4+13+4",
+      "prism",
+      "frost",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 13,
+    "url": "https://www.movinghead.net/stagelights/886.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 380W BEAM ZOOM. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 470 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "WP370",
+    "kind": "beam",
+    "light": "370W discharge lamp",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": "infinite",
+    "tilt": 270,
+    "channels": [
+      16,
+      27
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:17+17+17",
+      "prism",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      328,
+      228,
+      582
+    ],
+    "weightKg": null,
+    "url": "https://www.movinghead.net/stagelights/887.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: Outdoor Beam With CMY. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 460 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "LLP520",
+    "kind": "beam",
+    "light": "OSRA 520W",
+    "beamDeg": [
+      1.7,
+      1.7
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:13+3+13",
+      "prism",
+      "frost",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      367,
+      268,
+      579
+    ],
+    "weightKg": 20.6,
+    "url": "https://www.movinghead.net/stagelights/888.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 520W LAMP PRISM KING BEAM. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 520 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "WP390H",
+    "kind": "hybrid",
+    "light": "420w Gas Discharge Lamp",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      24
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "focus",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 21,
+    "url": "https://www.movinghead.net/stagelights/889.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: IP65-Rated Hybrid Moving Head – 420W Professional Outdoor 3-in-1 Stage Light. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 550 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "WP390",
+    "kind": "beam",
+    "light": "420W Gas Discharge Lamp",
+    "beamDeg": [
+      1.9,
+      1.9
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "focus",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      360.6,
+      262.6,
+      630.2
+    ],
+    "weightKg": 20,
+    "url": "https://www.movinghead.net/stagelights/890.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 420W IP66 BEAM. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 530 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "1400W LED Profile",
+    "kind": "profile",
+    "light": "1400W LED High-Brightness Module",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:7+6",
+      "prism",
+      "frost",
+      "iris",
+      "focus",
+      "blades",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      480,
+      370,
+      862
+    ],
+    "weightKg": 48.14,
+    "url": "https://www.movinghead.net/stagelights/891.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 1400W High Power LED Profile. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 1665 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "Precision 900",
+    "kind": "profile",
+    "light": "800 White LED Module(900w led chip is avaible to update)",
+    "beamDeg": [
+      7,
+      40
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      37
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:8",
+      "prism",
+      "frost",
+      "blades",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      413,
+      306.8,
+      730.4
+    ],
+    "weightKg": 32,
+    "url": "https://www.movinghead.net/stagelights/914.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: Precision 900 moving head profile. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 840 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "W9",
+    "kind": "profile",
+    "light": "800W LED",
+    "beamDeg": [
+      5,
+      40
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      44,
+      45
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:7+9+7",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      423,
+      273,
+      675
+    ],
+    "weightKg": 36.6,
+    "url": "https://www.movinghead.net/stagelights/919.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 800W Waterproof Profile. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 1110 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "FS460",
+    "kind": "follow",
+    "light": "450W LED diode",
+    "beamDeg": [
+      8,
+      14
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "colorwheel",
+      "iris",
+      "zoom",
+      "focus",
+      "blades"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      870,
+      430,
+      430
+    ],
+    "weightKg": 32,
+    "url": "https://www.movinghead.net/stagelights/920.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 450W LED Follow Spot Light. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 425 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "FS461",
+    "kind": "follow",
+    "light": "OSRAM 461W",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "colorwheel",
+      "frost"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      830,
+      350,
+      320
+    ],
+    "weightKg": 27,
+    "url": "https://www.movinghead.net/stagelights/921.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 20R follow spot, follow spotlight. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 550 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "FS1000",
+    "kind": "follow",
+    "light": "1000W LED",
+    "beamDeg": [
+      5,
+      11
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "cto",
+      "colorwheel",
+      "frost",
+      "iris",
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1145,
+      370,
+      384
+    ],
+    "weightKg": 34,
+    "url": "https://www.movinghead.net/stagelights/926.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 1000W LED Follow Spot Light. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 1000 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "LM970",
+    "kind": "wash",
+    "light": "37 X 40W RGBLACP LED",
+    "beamDeg": [
+      14,
+      58
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      19,
+      32
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      465,
+      367,
+      492
+    ],
+    "weightKg": 23,
+    "url": "https://www.movinghead.net/stagelights/927.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 37 × 40W RGBLACP LED Moving Head Wash. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 1350 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "120W Waterproof Laser Moving Head",
+    "kind": "lasermh",
+    "light": "120W Laser Source",
+    "beamDeg": [
+      9,
+      9
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      25
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:25+25",
+      "prism",
+      "frost",
+      "focus",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 20,
+    "url": "https://www.movinghead.net/stagelights/928.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 120W Waterproof Moving Head Laser Light. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 220 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "260W Laser Beam",
+    "kind": "lasermh",
+    "light": "260W laser module",
+    "beamDeg": [
+      0.8,
+      0.8
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      15
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:19+19",
+      "prism",
+      "frost",
+      "zoom",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      432,
+      291,
+      684
+    ],
+    "weightKg": 29,
+    "url": "https://www.movinghead.net/stagelights/929.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 260W laser. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 350 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "EXP 351C",
+    "kind": "hybrid",
+    "light": "400W LED White Light Module",
+    "beamDeg": [
+      4.2,
+      45
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      29
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      560,
+      310.5,
+      242
+    ],
+    "weightKg": 16.9,
+    "url": "https://www.movinghead.net/stagelights/930.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 350W LED 3 IN 1 WITH CMY. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 520 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "C8 Mini",
+    "kind": "profile",
+    "light": "800W White LED Module",
+    "beamDeg": [
+      7,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      37,
+      38,
+      41
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:6",
+      "prism",
+      "frost",
+      "zoom",
+      "blades",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      404,
+      302.5,
+      705.3
+    ],
+    "weightKg": 28,
+    "url": "https://www.movinghead.net/stagelights/934.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 800W LED Profile. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 1040 W."
+  },
+  {
+    "manufacturer": "XMlite",
+    "model": "NA100",
+    "kind": "lasermh",
+    "light": null,
+    "beamDeg": [
+      3.3,
+      3.3
+    ],
+    "pan": "infinite",
+    "tilt": "infinite",
+    "channels": [
+      16,
+      27,
+      24
+    ],
+    "features": [
+      "cmy",
+      "prism",
+      "frost",
+      "zoom",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      328,
+      228,
+      582
+    ],
+    "weightKg": null,
+    "url": "https://www.movinghead.net/stagelights/970.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Produkttitel: 100W Moving Head Laser Light-NA100. Englische Seite movinghead.net (XMLITE, Guangzhou Xiangming Light). Leistung 197 W."
+  }
+]

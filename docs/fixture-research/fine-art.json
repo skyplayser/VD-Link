@@ -1,0 +1,2846 @@
+[
+  {
+    "manufacturer": "Fine Art",
+    "model": "FA 1507 IP 2-in-1 Beam Wash Moving Head Light",
+    "kind": "wash",
+    "light": "7 x 150W RGBL LEDs",
+    "beamDeg": [
+      3.8,
+      45
+    ],
+    "pan": 540,
+    "tilt": 240,
+    "channels": [
+      20,
+      41,
+      48,
+      32
+    ],
+    "features": [
+      "focus",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "7 LEDs (Hex), Pixelmodi",
+    "sizeMm": [
+      408,
+      300,
+      548
+    ],
+    "weightKg": 26,
+    "url": "https://www.fineart-light.com/fa-1507-ip",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 Beam/Wash-Moving-Head 7 x 150 W RGBL. Leistung 1050 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FA 17 iSPOT",
+    "kind": "profile",
+    "light": "Light Source: 1600W LED white light module",
+    "beamDeg": [
+      4.6,
+      55
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      35,
+      43,
+      47
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      448,
+      332,
+      842
+    ],
+    "weightKg": 54,
+    "url": "https://www.fineart-light.com/fa-17-ispot",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "BSWF-Profil 1600 W LED-Weißlicht; iSPOT-Variante mit integrierter HD-Kamera für Fernverfolgung (FINE iSPOT PILOT). Leistung 2200 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FA 17",
+    "kind": "profile",
+    "light": "1600W LED white‑light module",
+    "beamDeg": [
+      4.6,
+      55
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      35,
+      43,
+      47
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "focus",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      448,
+      332,
+      841
+    ],
+    "weightKg": 50.5,
+    "url": "https://www.fineart-light.com/fa-17",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "BSWF/Framing-Profil 1600 W LED, hoher CRI. Leistung 2200 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FA 1700CF BSWF",
+    "kind": "profile",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://www.fineart-light.com/fa-1700cf-bswf",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Nur Produktname online, Spec-Tabelle leer; Annahme BSWF-Profil laut Name."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FA 1700LB BSWF IP",
+    "kind": "profile",
+    "light": "Light source: 1500 W (customisable)",
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      34,
+      42,
+      16,
+      46
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 53.5,
+    "url": "https://www.fineart-light.com/fa-1700lb-bswf-ip",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 BSWF-Profil 1500 W LED (LB = Beam-Optik-Variante). Leistung 1900 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FA 1700LH BSWF IP",
+    "kind": "profile",
+    "light": "Light source: 1500 W",
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      34,
+      42,
+      16,
+      46
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 53.5,
+    "url": "https://www.fineart-light.com/fa-1700lh-bswf-ip",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 BSWF-Profil 1500 W LED (LH = High-CRI-Variante). Leistung 1900 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FA 1700LH iSPOT IP",
+    "kind": "profile",
+    "light": "Light source: 1500 W (customisable)",
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      34,
+      42,
+      16,
+      46
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 53.5,
+    "url": "https://www.fineart-light.com/fa-1700lh-ispot-ip",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 BSWF-Profil 1500 W mit integrierter HD-Kamera (iSPOT, Fernverfolgung). Leistung 1900 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FA 1700ZL BSWF",
+    "kind": "profile",
+    "light": "Light source: 1500 W (customisable)",
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      34,
+      41,
+      16,
+      45
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 44,
+    "url": "https://www.fineart-light.com/fa-1700zl-bswf",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "BSWF-Profil 1500 W LED, Indoor. Leistung 1700 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FA 17C iSPOT",
+    "kind": "profile",
+    "light": "Light Source: 1600W six-color LED module (RGBALC)",
+    "beamDeg": [
+      4.6,
+      52
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      40,
+      50,
+      56
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      448,
+      332,
+      850
+    ],
+    "weightKg": 53.7,
+    "url": "https://www.fineart-light.com/fa-17c-ispot",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Framing-Profil 1600 W RGBALC (6-Farben) mit iSPOT-Kamera. Leistung 2300 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FA 17C",
+    "kind": "profile",
+    "light": "1600W Six-color LED Module (RGBALC)",
+    "beamDeg": [
+      4.6,
+      52
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      40,
+      50,
+      56
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "focus",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      448,
+      332,
+      850
+    ],
+    "weightKg": 50.4,
+    "url": "https://www.fineart-light.com/fa-17c",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Framing-Profil 1600 W RGBALC-Mehrfarb-LED. Leistung 2300 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FA 300 BEAM IP Outdoor Waterproof Moving Head Light",
+    "kind": "beam",
+    "light": "280W Laser",
+    "beamDeg": [
+      1,
+      1
+    ],
+    "pan": "infinite",
+    "tilt": null,
+    "channels": [
+      21,
+      23,
+      27
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "focus",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      393,
+      272,
+      593
+    ],
+    "weightKg": 27.7,
+    "url": "https://www.fineart-light.com/fa-300-beam-ip",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 Beam mit 280 W Laser-Lichtquelle, Endlos-Pan. Leistung 420 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FA 500BSW IP 3-in-1 Beam Spot Wash Moving Head Light",
+    "kind": "hybrid",
+    "light": "500W Laser Source",
+    "beamDeg": null,
+    "pan": "infinite",
+    "tilt": 270,
+    "channels": [
+      24,
+      29,
+      33
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "focus",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      407,
+      272,
+      732
+    ],
+    "weightKg": 38,
+    "url": "https://www.fineart-light.com/fa-500-bsw-ip",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP BSW-Hybrid mit 500 W Laser-Lichtquelle, Endlos-Pan. Leistung 680 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FA 6010 BATTEN",
+    "kind": "tiltbar",
+    "light": "10 x 60W (RGBW 4 in 1)",
+    "beamDeg": [
+      3,
+      45
+    ],
+    "pan": null,
+    "tilt": 200,
+    "channels": [
+      25,
+      40,
+      91,
+      98,
+      148
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "1x10",
+    "sizeMm": [
+      1000,
+      120,
+      302
+    ],
+    "weightKg": 18.3,
+    "url": "https://www.fineart-light.com/fa-6010-batten",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Motorisierte Tilt-Bar 1 m (Tilt 200°), 10 x 60 W RGBW, Zoom 3-45°; zusätzlicher Modus 8+140 Kanäle. Leistung 680 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 1000C STROBE",
+    "kind": "strobe",
+    "light": "0.8Wx1000 pcs OSRAM",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": 182,
+    "channels": [
+      12,
+      167,
+      17
+    ],
+    "features": [
+      "pixel",
+      "artnet"
+    ],
+    "ring": null,
+    "pixels": "40 Felder (RGB einzeln)",
+    "sizeMm": [
+      391,
+      152,
+      291
+    ],
+    "weightKg": 11,
+    "url": "https://www.fineart-light.com/fine-1000c-strobe",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Strobe-Panel 1000 x 0,8 W RGBW mit motorischem Tilt 182°; zusätzlicher Modus 7+160. Leistung 600 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 1200C STROBE IP",
+    "kind": "strobe",
+    "light": "White light: 5W x 180, 6500K",
+    "beamDeg": [
+      60,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      23,
+      138,
+      16,
+      61,
+      48
+    ],
+    "features": [
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      402,
+      194,
+      287
+    ],
+    "weightKg": 13,
+    "url": "https://www.fineart-light.com/fine-1200c-strobe-ip",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP-Strobe/Wash, 180 x 5 W weiß plus RGB-Matrix; Modus RGB 8+130 zusätzlich. Leistung 800 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 1200C STROBE",
+    "kind": "strobe",
+    "light": "White LED: 10W x 180 pcs LEDs, 6500k",
+    "beamDeg": [
+      60,
+      60
+    ],
+    "pan": null,
+    "tilt": 182,
+    "channels": [
+      23,
+      138,
+      16,
+      61
+    ],
+    "features": [
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      391,
+      152,
+      291
+    ],
+    "weightKg": 11,
+    "url": "https://www.fineart-light.com/fine-1200c-strobe",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Strobe mit 180 x 10 W weißen LEDs plus RGB-Feld, motorischer Tilt 182°; Modus 8+130 zusätzlich. Leistung 1250 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 120LS BEAM IP",
+    "kind": "beam",
+    "light": "120W laser light source",
+    "beamDeg": [
+      0.9,
+      5
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      15,
+      17,
+      21
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "zoom",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 27,
+    "url": "https://www.fineart-light.com/fine-120ls-beam-ip",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP Laser-Beam (120 W Laserquelle) mit Zoom 0,9-5°. Leistung 220 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 1400 PERF",
+    "kind": "profile",
+    "light": "OSRAM Lok-it 1400-PS Brilliant",
+    "beamDeg": [
+      8,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      32,
+      35,
+      42
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "animation",
+      "artnet"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      465,
+      439,
+      777.5
+    ],
+    "weightKg": 42.5,
+    "url": "https://www.fineart-light.com/fine-1400-perf",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Profil/Framing mit OSRAM Lok-it 1400-PS Entladungslampe, CMY, Animationsrad. Leistung 1800 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 1400LB BSWF IP",
+    "kind": "profile",
+    "light": "1100W",
+    "beamDeg": [
+      5,
+      52
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      32,
+      40,
+      44
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:7+9",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      655,
+      567,
+      832
+    ],
+    "weightKg": 39,
+    "url": "https://www.fineart-light.com/fine-1400lb-bswf-ip",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP BSWF-Profil 1100 W LED (LB). Leistung 1450 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 1400LH BSWF IP",
+    "kind": "profile",
+    "light": "1100W",
+    "beamDeg": [
+      5,
+      52
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      32,
+      40,
+      44
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:7+9",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      655,
+      567,
+      832
+    ],
+    "weightKg": 39,
+    "url": "https://www.fineart-light.com/fine-1400lh-bswf-ip",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP BSWF-Profil 1100 W LED (LH, High CRI). Leistung 1450 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 1400SF Moving Head Light",
+    "kind": "follow",
+    "light": "OSRAM Lok-it 1400PS Brilliant",
+    "beamDeg": [
+      5,
+      18
+    ],
+    "pan": 360,
+    "tilt": 70,
+    "channels": null,
+    "features": [
+      "cto",
+      "gobo",
+      "frost",
+      "iris"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      915,
+      319,
+      378
+    ],
+    "weightKg": 31,
+    "url": "https://www.fineart-light.com/fine-1400sf",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Verfolger 1400 W Entladungslampe, manuell (Pan 360°, Tilt ±35°), Iris, Frost, CTO. Leistung 1600 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 150 FT IP",
+    "kind": "bar",
+    "light": "Light source: 48 x 4W (RGBL) (4 in 1)",
+    "beamDeg": [
+      50,
+      110
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      11,
+      7,
+      20
+    ],
+    "features": [
+      "zoom",
+      "pixel",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "2 Reihen einzeln steuerbar",
+    "sizeMm": [
+      1003,
+      149,
+      130
+    ],
+    "weightKg": 11.5,
+    "url": "https://www.fineart-light.com/fine-150-ft-ip",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP-Fußrampe (Footlight) 1 m, 48 x 4 W RGBL, asymmetrische Reflektoren in 2 Reihen. Leistung 170 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 150 FT",
+    "kind": "bar",
+    "light": "48 x 4W (RGBL) (4 in 1)",
+    "beamDeg": [
+      40,
+      70
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      16,
+      10,
+      20
+    ],
+    "features": [
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "2 Reihen",
+    "sizeMm": [
+      984,
+      139,
+      119
+    ],
+    "weightKg": 8.2,
+    "url": "https://www.fineart-light.com/fine-150-ft",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Fußrampe 1 m, 48 x 4 W RGBL; Abstrahlung 40° x 70° (asymmetrisch). Leistung 190 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 150W FT IP",
+    "kind": "bar",
+    "light": "Light source: (24CW+24WW) x 3W LED light source",
+    "beamDeg": [
+      80,
+      80
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      11,
+      7,
+      20
+    ],
+    "features": [
+      "pixel",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1003,
+      149,
+      130
+    ],
+    "weightKg": 11.5,
+    "url": "https://www.fineart-light.com/fine-150w-ft-ip",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP-Fußrampe 1 m, 24 CW + 24 WW x 3 W (Bi-Color). Leistung 170 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 150W FT",
+    "kind": "bar",
+    "light": "Light source: (24CW+24WW) X 3W LED light source",
+    "beamDeg": [
+      40,
+      70
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      11,
+      7,
+      20
+    ],
+    "features": [
+      "pixel",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      984,
+      139,
+      102
+    ],
+    "weightKg": 8.2,
+    "url": "https://www.fineart-light.com/fine-150w-ft",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Fußrampe 1 m, 24 CW + 24 WW x 3 W; Abstrahlung 40° x 70°. Leistung 190 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 1514 DG",
+    "kind": "par",
+    "light": "14pcs x 15W 4 in 1",
+    "beamDeg": [
+      9,
+      24
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      5,
+      10
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      300.8,
+      240.6,
+      326.2
+    ],
+    "weightKg": 9,
+    "url": "https://www.fineart-light.com/fine-1514-dg",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Lüfterloser IP-LED-Par 14 x 15 W RGBW, wechselbare Optik 9°/12°/24° (1/2 Peak). Leistung 190 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 1514 ZOOM",
+    "kind": "par",
+    "light": "14pcs x 15W 4 in 1 LEDs",
+    "beamDeg": [
+      12,
+      27
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5,
+      6,
+      11
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      300.8,
+      240.6,
+      326.2
+    ],
+    "weightKg": 9,
+    "url": "https://www.fineart-light.com/fine-1514-zoom",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Zoom-Par 14 x 15 W RGBW. Leistung 190 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 1700L WASH PERF IP",
+    "kind": "wash",
+    "light": "1500W (customization)",
+    "beamDeg": [
+      7,
+      70
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": null,
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "zoom",
+      "blades",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      485,
+      344,
+      837
+    ],
+    "weightKg": 48.5,
+    "url": "https://www.fineart-light.com/fine-1700l-wash-perf-ip",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP Wash mit 1500 W LED, CMY, Framing-Blades; Kanalzahl online nicht angegeben. Leistung 1650 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 1700L WASH PERF",
+    "kind": "wash",
+    "light": "1500W (customization)",
+    "beamDeg": [
+      7,
+      40
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      25,
+      29,
+      33
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "zoom",
+      "blades",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      448,
+      332,
+      801
+    ],
+    "weightKg": 41,
+    "url": "https://www.fineart-light.com/fine-1700l-wash-perf",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Wash 1500 W LED mit CMY, CTO, Framing-Blades. Leistung 1600 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 1700LB BSWF IP",
+    "kind": "profile",
+    "light": "1500W (customization)",
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      34,
+      42,
+      46
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:6",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      485,
+      344,
+      837
+    ],
+    "weightKg": 49.5,
+    "url": "https://www.fineart-light.com/fine-1700lb-bswf-ip",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP BSWF-Profil 1500 W LED. Leistung 1700 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 1700LC iSPOT",
+    "kind": "profile",
+    "light": "1500W five-color LED module (RGBLA)",
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      39,
+      48,
+      55
+    ],
+    "features": [
+      "cto",
+      "colorwheel",
+      "gobo:6+6",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      671,
+      549,
+      829
+    ],
+    "weightKg": 47,
+    "url": "https://www.fineart-light.com/fine-1700lc-ispot",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Profil 1500 W RGBLA (Vollspektrum) mit iSPOT-Kamera. Leistung 1200 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 1700LH BSWF IP",
+    "kind": "profile",
+    "light": "1500W (customization)",
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      34,
+      42,
+      46
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:6",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      485,
+      344,
+      837
+    ],
+    "weightKg": 49.5,
+    "url": "https://www.fineart-light.com/fine-1700lh-bswf-ip",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP BSWF-Profil 1500 W LED (High CRI). Leistung 1700 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 1700LH iSPOT IP",
+    "kind": "profile",
+    "light": "Light Source: 1500W (customization)",
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      34,
+      42,
+      46
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:6",
+      "prism",
+      "zoom",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 53.5,
+    "url": "https://www.fineart-light.com/fine-1700lh-ispot-ip",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP Profil 1500 W mit integrierter HD-Kamera (iSPOT). Leistung 1700 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 1700LH iSPOT",
+    "kind": "profile",
+    "light": "1500W (customized)",
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      34,
+      41,
+      45
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:6+9",
+      "zoom",
+      "focus",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      448,
+      332,
+      814
+    ],
+    "weightKg": 49,
+    "url": "https://www.fineart-light.com/fine-1700lh-ispot",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Profil 1500 W mit HD-Kamera (Glasfaser/Ethernet zu iSPOT PILOT); Pan/Tilt online nicht explizit angegeben."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 1700Lite BSWF",
+    "kind": "profile",
+    "light": "1500W (customized)",
+    "beamDeg": [
+      6,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      34,
+      41,
+      45
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:6",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      448,
+      332,
+      801
+    ],
+    "weightKg": 42.5,
+    "url": "https://www.fineart-light.com/fine-1700lite-bswf",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "BSWF-Profil 1500 W LED, leichte Version. Leistung 1600 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 1700Ultra BSWF",
+    "kind": "profile",
+    "light": "1500W",
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      34,
+      41,
+      45
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:6+9",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      448,
+      332,
+      814
+    ],
+    "weightKg": 45,
+    "url": "https://www.fineart-light.com/fine-1700ultra-bswf",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "BSWF-Profil 1500 W LED. Leistung 1600 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 1800 PERF",
+    "kind": "profile",
+    "light": "OSRAM Lok-it! 1800-PS-Brilliant",
+    "beamDeg": [
+      5,
+      45
+    ],
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      32,
+      35,
+      42
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      464,
+      444,
+      792
+    ],
+    "weightKg": 50.8,
+    "url": "https://www.fineart-light.com/fine-1800-perf",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Profil/Framing mit 1800 W Entladungslampe. Leistung 2350 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 1800SF",
+    "kind": "follow",
+    "light": null,
+    "beamDeg": [
+      5,
+      18
+    ],
+    "pan": 360,
+    "tilt": 70,
+    "channels": null,
+    "features": [
+      "cto",
+      "gobo",
+      "frost",
+      "iris"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      915,
+      319,
+      378
+    ],
+    "weightKg": 31,
+    "url": "https://www.fineart-light.com/fine-1800sf",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Verfolger (vermutlich 1800 W Entladungslampe), Pan 360°, Tilt ±35°, Iris, Frost. Leistung 2050 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 2000L BSWF",
+    "kind": "profile",
+    "light": "1000W LED module",
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      32,
+      40,
+      44
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:6+9",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      414,
+      310,
+      788
+    ],
+    "weightKg": 38.5,
+    "url": "https://www.fineart-light.com/fine-2000l-bswf",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "BSWF-Profil 1000 W LED. Leistung 1400 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 2000SF",
+    "kind": "follow",
+    "light": null,
+    "beamDeg": [
+      5,
+      18
+    ],
+    "pan": 360,
+    "tilt": 70,
+    "channels": null,
+    "features": [
+      "cto",
+      "gobo",
+      "frost",
+      "iris"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      915,
+      319,
+      416
+    ],
+    "weightKg": 31,
+    "url": "https://www.fineart-light.com/fine-2000sf",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Verfolger 2000 W Klasse, Pan 360°, Tilt ±35°. Leistung 2300 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 2000XF",
+    "kind": "follow",
+    "light": "OSRAM XBO 2000 W Xenon",
+    "beamDeg": [
+      4,
+      8
+    ],
+    "pan": 360,
+    "tilt": 60,
+    "channels": null,
+    "features": [
+      "frost",
+      "iris"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1628,
+      1646,
+      900
+    ],
+    "weightKg": 74.4,
+    "url": "https://www.fineart-light.com/fine-2000xf",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Xenon-Verfolger, Reichweite 50-100 m, Pan 360°, Tilt 60°. Leistung 2700 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 300C PANEL",
+    "kind": "panel",
+    "light": "R: 252x0.5W G: 252x1W B: 252x1W W: 252x0.5W",
+    "beamDeg": [
+      110,
+      110
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "pixel",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      516.5,
+      246,
+      538
+    ],
+    "weightKg": 13,
+    "url": "https://www.fineart-light.com/fine-300c-panel",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "RGBW-LED-Softlight-Panel (252 LEDs je Farbe); Kanäle online nicht lesbar. Leistung 260 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 300D/400D FS",
+    "kind": "fresnel",
+    "light": "Light Source: 400W (300W) COB LED module",
+    "beamDeg": [
+      15,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      3,
+      4
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      450,
+      310,
+      539
+    ],
+    "weightKg": null,
+    "url": "https://www.fineart-light.com/fine-300d/400d-fs",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Fresnel/Zoom-Spot 300/400 W Tageslicht, Zoom 15-60°."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 300D/400D LEKO",
+    "kind": "ellipsoidal",
+    "light": "400W(300W) LUMILEDS LED module",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      3,
+      4
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      701,
+      292,
+      496
+    ],
+    "weightKg": 58,
+    "url": "https://www.fineart-light.com/fine-300d/400d-leko",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Profilscheinwerfer (Leko) 300/400 W Tageslicht (Lumileds). Leistung 410 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 300D/T PANEL",
+    "kind": "panel",
+    "light": "Light Source: 420x0.8W LEDs",
+    "beamDeg": [
+      73,
+      73
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3,
+      4
+    ],
+    "features": [
+      "artnet"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      404,
+      248,
+      433
+    ],
+    "weightKg": 10,
+    "url": "https://www.fineart-light.com/fine-300d/t-panel",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Soft-Panel 420 x 0,8 W, Tageslicht (D) 5600 K bzw. Kunstlicht (T) 3200 K. Leistung 250 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 300T/400T FS",
+    "kind": "fresnel",
+    "light": "400W (300W) LED module",
+    "beamDeg": [
+      15,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      3,
+      4
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      450.5,
+      310,
+      539
+    ],
+    "weightKg": 12,
+    "url": "https://www.fineart-light.com/fine-300t/400t-fs",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Fresnel 300/400 W Kunstlicht, Zoom 15-60°. Leistung 420 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 300T/400T LEKO",
+    "kind": "ellipsoidal",
+    "light": "400w LUMILEDS LED module",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      3,
+      4
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      701,
+      292,
+      496
+    ],
+    "weightKg": 58,
+    "url": "https://www.fineart-light.com/fine-300t/400t-leko",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Leko 300/400 W Kunstlicht. Leistung 410 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 320 BEAM",
+    "kind": "beam",
+    "light": "OSRAM SIRIUS HRI 310W",
+    "beamDeg": [
+      0.5,
+      2
+    ],
+    "pan": 540,
+    "tilt": 260,
+    "channels": [
+      15,
+      17,
+      21
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      332,
+      243,
+      484
+    ],
+    "weightKg": 17.3,
+    "url": "https://www.fineart-light.com/fine-320-beam",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Beam mit OSRAM Sirius HRI 310 W; Zoom laut Spec 0-2° (untere Grenze nicht sinnvoll beziffert). Leistung 450 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 4000XF",
+    "kind": "follow",
+    "light": "4000 W Xenon (laut Spec)",
+    "beamDeg": [
+      2,
+      4
+    ],
+    "pan": 360,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "frost",
+      "iris"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      2133,
+      1179,
+      1908.8
+    ],
+    "weightKg": 93.4,
+    "url": "https://www.fineart-light.com/fine-4000xf",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Großer Xenon-Verfolger 4000 W, Beam 2-4°. Leistung 4800 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 400C FS",
+    "kind": "fresnel",
+    "light": "FINE 200C:200W (RGBLAC)",
+    "beamDeg": [
+      15,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      6,
+      8,
+      11,
+      8,
+      10,
+      13
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      450.5,
+      310,
+      539
+    ],
+    "weightKg": 12,
+    "url": "https://www.fineart-light.com/fine-400c-fs",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Fresnel RGBLAC, 200C (200 W) / 400C (400 W), Zoom 15-60°; Kanäle 200C: 6/8/11, 400C: 8/10/13. Leistung 230 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 400CL7",
+    "kind": "flood",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      7,
+      4,
+      5,
+      17
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      655,
+      364,
+      323
+    ],
+    "weightKg": null,
+    "url": "https://www.fineart-light.com/fine-400cl7",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Zyklorama-Fluter 7-Farben (RGBALC+DB). Leistung 400 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 400D/T FS II",
+    "kind": "fresnel",
+    "light": "Light Source: 600W LED module",
+    "beamDeg": [
+      9,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5,
+      4,
+      1
+    ],
+    "features": [
+      "cto",
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      576,
+      310,
+      353
+    ],
+    "weightKg": 13.1,
+    "url": "https://www.fineart-light.com/fine-400d/t-fs-ii",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Fresnel 600 W-Modul, Zoom 9-60°. Leistung 540 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 4019 PIXIE IP",
+    "kind": "wash",
+    "light": "light source: Imported 19pcsx40W, RGBW 4 in 1 LED lens",
+    "beamDeg": [
+      4,
+      40
+    ],
+    "pan": 540,
+    "tilt": 240,
+    "channels": [
+      21,
+      78,
+      97,
+      35
+    ],
+    "features": [
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "19 LEDs (Hex)",
+    "sizeMm": null,
+    "weightKg": 22,
+    "url": "https://www.fineart-light.com/fine-4019-pixie-ip",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP Wash/Beam 19 x 40 W RGBW, Pixelsteuerung, Kaleidoskop-Frontrotation. Leistung 850 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 4019 PIXIE PLUS",
+    "kind": "wash",
+    "light": "19pcs 40W RGBW 4 in 1 LEDs",
+    "beamDeg": [
+      4,
+      60
+    ],
+    "pan": 540,
+    "tilt": 240,
+    "channels": [
+      21,
+      78,
+      97,
+      35
+    ],
+    "features": [
+      "zoom",
+      "pixel",
+      "artnet"
+    ],
+    "ring": null,
+    "pixels": "19 LEDs (Hex)",
+    "sizeMm": [
+      400,
+      309,
+      517
+    ],
+    "weightKg": 20,
+    "url": "https://www.fineart-light.com/fine-4019-pixie-plus",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Wash/Beam 19 x 40 W RGBW mit Endlos-Frontrotation (Kaleidoskop), Einzelpixel. Leistung 900 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 4019 WASH PLUS",
+    "kind": "wash",
+    "light": "19pcs 40W RGBW 4 in 1 LEDs",
+    "beamDeg": [
+      4,
+      60
+    ],
+    "pan": 540,
+    "tilt": 240,
+    "channels": [
+      21,
+      33,
+      37,
+      35
+    ],
+    "features": [
+      "artnet"
+    ],
+    "ring": null,
+    "pixels": "19 LEDs",
+    "sizeMm": [
+      400,
+      309,
+      517
+    ],
+    "weightKg": 20,
+    "url": "https://www.fineart-light.com/fine-4019-wash-plus",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Wash 19 x 40 W RGBW mit Zoom 4-60°. Leistung 900 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 4037 PIXIE PLUS",
+    "kind": "wash",
+    "light": "37 pcs 40W RGBW 4 in 1 LEDs",
+    "beamDeg": [
+      4,
+      60
+    ],
+    "pan": 540,
+    "tilt": 240,
+    "channels": [
+      21,
+      35,
+      132,
+      169
+    ],
+    "features": [
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "37 LEDs (Hex)",
+    "sizeMm": [
+      478,
+      310,
+      616
+    ],
+    "weightKg": 29,
+    "url": "https://www.fineart-light.com/fine-4037-pixie-plus",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Wash/Beam 37 x 40 W RGBW, Einzelpixel, Frontrotation. Leistung 1350 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 4037 WASH PLUS",
+    "kind": "wash",
+    "light": "37 pcs 40W import 4 in 1 LEDs",
+    "beamDeg": [
+      4,
+      60
+    ],
+    "pan": 540,
+    "tilt": 240,
+    "channels": [
+      21,
+      36,
+      41,
+      35
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": "37 LEDs",
+    "sizeMm": [
+      478,
+      310,
+      616
+    ],
+    "weightKg": 29,
+    "url": "https://www.fineart-light.com/fine-4037-wash-plus",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Wash 37 x 40 W RGBW. Leistung 1400 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 407 WASH Mini Moving Head Wash Light",
+    "kind": "wash",
+    "light": "7pcs 40W RGBW 4 in 1 LEDS",
+    "beamDeg": [
+      4,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      20
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      254,
+      172,
+      381.5
+    ],
+    "weightKg": 6.8,
+    "url": "https://www.fineart-light.com/fine-407-wash",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Mini-Wash 7 x 40 W RGBW; Pan/Tilt online nicht angegeben. Leistung 330 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 420 BEAM IP",
+    "kind": "beam",
+    "light": "1 color wheel with 14 color",
+    "beamDeg": [
+      1.8,
+      1.8
+    ],
+    "pan": 540,
+    "tilt": 250,
+    "channels": [
+      15,
+      17,
+      21
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:17",
+      "prism",
+      "frost",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      397,
+      272,
+      630
+    ],
+    "weightKg": 29,
+    "url": "https://www.fineart-light.com/fine-420-beam-ip",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP Beam (Entladungslampe); Seite nennt Tilt 540°/Pan 250° – vermutlich vertauscht, hier korrigiert übernommen (unsicher). Leistung 560 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 450 BEAM",
+    "kind": "beam",
+    "light": "OSRAM SIRIUS HRI 420W S bulb (optional OSRAM SIRIUS HRI 371W S+)",
+    "beamDeg": [
+      1.3,
+      1.3
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      17,
+      19,
+      23
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "focus",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      391,
+      293,
+      628
+    ],
+    "weightKg": 27,
+    "url": "https://www.fineart-light.com/fine-450-beam",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Beam mit OSRAM Sirius HRI 420 W. Leistung 580 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE600 BSW II light in weight and easy to operate 3-in-1 Moving Head Beam Spot Wash Light Professional Stage Lighting",
+    "kind": "hybrid",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      24,
+      28,
+      32
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:8+15",
+      "prism",
+      "frost",
+      "focus",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      400,
+      310,
+      648
+    ],
+    "weightKg": 42,
+    "url": "https://www.fineart-light.com/fine-600-bsw-ii",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "BSW-Hybrid (Lichtquelle online nicht genannt), leichte Version. Leistung 780 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 600 BSW IP 3-in-1 Moving Head",
+    "kind": "hybrid",
+    "light": null,
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 250,
+    "channels": [
+      24,
+      28,
+      32
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:8+15",
+      "prism",
+      "frost",
+      "zoom",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      397,
+      272,
+      715
+    ],
+    "weightKg": 36,
+    "url": "https://www.fineart-light.com/fine-600-bsw-ip",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP BSW-Hybrid, Lichtquelle online nicht genannt. Leistung 800 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 600C PANEL",
+    "kind": "panel",
+    "light": "R: 504x0.5W G: 504x1W B: 504x1W W: 504x0.5W",
+    "beamDeg": [
+      110,
+      110
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      12,
+      20,
+      7,
+      10,
+      16,
+      9,
+      14,
+      17,
+      27,
+      33
+    ],
+    "features": [
+      "pixel",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      808,
+      246,
+      538
+    ],
+    "weightKg": 16,
+    "url": "https://www.fineart-light.com/fine-600c-panel",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "RGBW-Soft-Panel (504 LEDs je Farbe), viele Modi (CCT/HSI/RGBW/Pixel/GEL). Leistung 530 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 600D/T PANEL",
+    "kind": "panel",
+    "light": "840x0.8W LEDs (imported)",
+    "beamDeg": [
+      73,
+      73
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      3,
+      4
+    ],
+    "features": [
+      "artnet"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      808,
+      246,
+      538
+    ],
+    "weightKg": 16,
+    "url": "https://www.fineart-light.com/fine-600d/t-panel",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Soft-Panel 840 x 0,8 W, Tageslicht/Kunstlicht. Leistung 480 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 600L BSWF",
+    "kind": "profile",
+    "light": "600W LED module",
+    "beamDeg": [
+      6,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      32,
+      40,
+      44
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:7+9",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      400,
+      310,
+      728
+    ],
+    "weightKg": 29,
+    "url": "https://www.fineart-light.com/fine-600l-bswf",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "BSWF-Profil 600 W LED. Leistung 800 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 600L SL PLUS",
+    "kind": "ellipsoidal",
+    "light": "600W LED",
+    "beamDeg": [
+      10,
+      10
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5,
+      4,
+      1
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      412,
+      353,
+      382
+    ],
+    "weightKg": 12,
+    "url": "https://www.fineart-light.com/fine-600l-sl-plus",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Statischer LED-Scheinwerfer 600 W 6250 K, Ra>90; Optik 10° (optional 10x20°, 20x40°, 40°). Leistung 540 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 600LB BSW IP",
+    "kind": "hybrid",
+    "light": "600W LED module",
+    "beamDeg": [
+      3.3,
+      35
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": null,
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:8+13",
+      "prism",
+      "frost",
+      "zoom",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      397,
+      272,
+      695
+    ],
+    "weightKg": 32.5,
+    "url": "https://www.fineart-light.com/fine-600lb-bsw-ip",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP BSW-Hybrid 600 W LED. Leistung 900 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 600LB BSWF IP 3-in-1 Moving Head Light",
+    "kind": "profile",
+    "light": "600W LED module",
+    "beamDeg": [
+      4.2,
+      45
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      33,
+      41,
+      45
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:8+9",
+      "prism",
+      "frost",
+      "zoom",
+      "blades",
+      "animation",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      397,
+      272,
+      703
+    ],
+    "weightKg": 34.5,
+    "url": "https://www.fineart-light.com/fine-600lb-bswf-ip",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 BSWF-Profil 600 W LED, NFC. Leistung 900 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 600LH BSWF IP",
+    "kind": "profile",
+    "light": "600W LED module",
+    "beamDeg": [
+      4.2,
+      45
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      33,
+      41,
+      45
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:8+9",
+      "prism",
+      "frost",
+      "zoom",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      397,
+      272,
+      703
+    ],
+    "weightKg": 34.5,
+    "url": "https://www.fineart-light.com/fine-600lh-bswf-ip",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 BSWF-Profil 600 W LED (High CRI). Leistung 900 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 6010 BATTEN IP",
+    "kind": "tiltbar",
+    "light": "10 x 60W (RGBW 4 in 1)",
+    "beamDeg": [
+      3,
+      45
+    ],
+    "pan": null,
+    "tilt": 200,
+    "channels": [
+      25,
+      40,
+      91,
+      98,
+      148
+    ],
+    "features": [
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "1x10",
+    "sizeMm": [
+      1006,
+      131,
+      334
+    ],
+    "weightKg": 22.5,
+    "url": "https://www.fineart-light.com/fine-6010-batten-ip",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 motorisierte Tilt-Bar 1 m (Tilt 200°), 10 x 60 W RGBW, Zoom 3-45°. Leistung 680 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 6019 PIXIE IP",
+    "kind": "wash",
+    "light": "19pcs 60W RGBW 4 in 1 LEDs",
+    "beamDeg": [
+      3.2,
+      65
+    ],
+    "pan": 540,
+    "tilt": 240,
+    "channels": [
+      21,
+      78,
+      97,
+      35
+    ],
+    "features": [
+      "zoom",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "19 LEDs (Hex)",
+    "sizeMm": [
+      405,
+      300,
+      486
+    ],
+    "weightKg": 23.7,
+    "url": "https://www.fineart-light.com/fine-6019-pixie-ip",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 Wash/Beam 19 x 60 W RGBW, Zoom 3,2-65°. Leistung 1200 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 604 BATTEN",
+    "kind": "tiltbar",
+    "light": "4 pcs 60W RGBW 4 in 1 LEDs",
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": null,
+    "tilt": 200,
+    "channels": [
+      14,
+      26,
+      30
+    ],
+    "features": [
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "1x4",
+    "sizeMm": [
+      480,
+      120,
+      303
+    ],
+    "weightKg": 10,
+    "url": "https://www.fineart-light.com/fine-604-batten",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Motorisierte Tilt-Bar 0,5 m (Tilt 200°), 4 x 60 W RGBW, Zoom 5-50°. Leistung 280 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 608 BATTEN",
+    "kind": "tiltbar",
+    "light": "8 pcs 60W RGBW 4 in 1 LEDs",
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": null,
+    "tilt": 200,
+    "channels": [
+      15,
+      39,
+      47,
+      27
+    ],
+    "features": [
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "1x8",
+    "sizeMm": [
+      960,
+      120,
+      303
+    ],
+    "weightKg": 16,
+    "url": "https://www.fineart-light.com/fine-608-batten",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Motorisierte Tilt-Bar 1 m (Tilt 200°), 8 x 60 W RGBW, Zoom 5-50°. Leistung 450 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 75 FT IP",
+    "kind": "bar",
+    "light": "24 x 4W (RGBL) (4 in 1)",
+    "beamDeg": [
+      110,
+      110
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      16,
+      10,
+      20
+    ],
+    "features": [
+      "pixel",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      511,
+      149,
+      130
+    ],
+    "weightKg": 6.3,
+    "url": "https://www.fineart-light.com/fine-75-ft-ip",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP-Fußrampe 0,5 m, 24 x 4 W RGBL. Leistung 86 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 75 FT",
+    "kind": "bar",
+    "light": "24 x 4W (RGBL) (4 in 1)",
+    "beamDeg": [
+      40,
+      70
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      16,
+      10,
+      12
+    ],
+    "features": [
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      492,
+      139,
+      119
+    ],
+    "weightKg": 4.7,
+    "url": "https://www.fineart-light.com/fine-75-ft",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Fußrampe 0,5 m, 24 x 4 W RGBL, 2 Reihen. Leistung 100 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 75W FT IP",
+    "kind": "bar",
+    "light": "Light source: (12CW+12WW) X 3W LED light source",
+    "beamDeg": [
+      50,
+      80
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      11,
+      7,
+      20
+    ],
+    "features": [
+      "pixel",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      511,
+      149,
+      130
+    ],
+    "weightKg": 6.3,
+    "url": "https://www.fineart-light.com/fine-75w-ft-ip",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP-Fußrampe 0,5 m, 12 CW + 12 WW x 3 W. Leistung 86 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 75W FT",
+    "kind": "bar",
+    "light": "Light source: (12CW+12WW) X 3W LED light source",
+    "beamDeg": [
+      40,
+      70
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      11,
+      7,
+      12
+    ],
+    "features": [
+      "pixel",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      492,
+      139,
+      102
+    ],
+    "weightKg": 4.7,
+    "url": "https://www.fineart-light.com/fine-75w-ft",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Fußrampe 0,5 m, 12 CW + 12 WW x 3 W. Leistung 100 W."
+  },
+  {
+    "manufacturer": "Fine Art",
+    "model": "FINE 800C STROBE PRO IP",
+    "kind": "strobe",
+    "light": "Light source: R:240x0.5W G:240x0.5W B:240x0.5W W:60x3W",
+    "beamDeg": [
+      115,
+      115
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      22,
+      66,
+      12
+    ],
+    "features": [
+      "pixel",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      992,
+      192,
+      180
+    ],
+    "weightKg": 12,
+    "url": "https://www.fineart-light.com/fine-800c-strobe-pro-ip",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP Strobe/Pixel-Leiste ~1 m, RGB-Matrix 3 x 240 x 0,5 W plus Weiß; Modus Pix 6+60 zusätzlich. Leistung 370 W."
+  }
+]

@@ -1,0 +1,2422 @@
+[
+ {
+  "man": "Light Sky",
+  "key": "6800-c34",
+  "model": "6800-C34",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   1,
+   2,
+   6,
+   7,
+   11,
+   13,
+   14
+  ],
+  "size": [
+   725,
+   305,
+   482
+  ],
+  "url": "https://en.lightsky.com.cn/product/6800-c34/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "6800-d34",
+  "model": "6800-D34",
+  "kind": "ellipsoidal",
+  "ch": [
+   11
+  ],
+  "feat": [
+   "gobo:8"
+  ],
+  "size": [
+   725,
+   305,
+   482
+  ],
+  "url": "https://en.lightsky.com.cn/product/6800-d34/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "6800-t34",
+  "model": "6800-T34",
+  "kind": "ellipsoidal",
+  "ch": [
+   11
+  ],
+  "feat": [
+   "gobo:8"
+  ],
+  "size": [
+   725,
+   305,
+   482
+  ],
+  "url": "https://en.lightsky.com.cn/product/6800-t34/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "8800-c42",
+  "model": "8800-C42",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   1,
+   2,
+   6,
+   7,
+   11,
+   13,
+   14
+  ],
+  "size": [
+   725,
+   305,
+   482
+  ],
+  "url": "https://en.lightsky.com.cn/product/8800-c42/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "9800-d48",
+  "model": "9800 D48",
+  "kind": "fresnel",
+  "deg": [
+   10,
+   60
+  ],
+  "ch": [
+   4
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom"
+  ],
+  "size": [
+   535,
+   310,
+   470
+  ],
+  "url": "https://en.lightsky.com.cn/product/9800-d48/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "9800-t48",
+  "model": "9800 T48",
+  "kind": "fresnel",
+  "deg": [
+   10,
+   60
+  ],
+  "ch": [
+   4
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   535,
+   310,
+   470
+  ],
+  "url": "https://en.lightsky.com.cn/product/9800-t48/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "aqua-mirror",
+  "model": "AQUA MIRROR",
+  "kind": "effect",
+  "ch": [
+   8
+  ],
+  "size": [
+   397,
+   262,
+   623
+  ],
+  "url": "https://en.lightsky.com.cn/product/aqua-mirror/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "aquabeam230-ip1000e",
+  "model": "AQUABEAM230 (IP1000E)",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "ch": [
+   15
+  ],
+  "feat": [
+   "gobo:14",
+   "anim",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://en.lightsky.com.cn/product/aquabeam230-ip1000e/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "aquabeam330-ip2000",
+  "model": "AQUABEAM330(IP2000)",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "tilt": 240,
+  "ch": [
+   20,
+   24
+  ],
+  "feat": [
+   "cmy",
+   "gobo:14",
+   "anim",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://en.lightsky.com.cn/product/aquabeam330ip2000/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "aquabeam400ll-e",
+  "model": "AQUABEAM400LL-E",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "ch": [
+   14
+  ],
+  "feat": [
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://en.lightsky.com.cn/product/aquabeam400ll-e/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "aquabeam400ll",
+  "model": "AQUABEAM400LL",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "ch": [
+   17
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://en.lightsky.com.cn/product/aquabeam400ll/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "aquabeam440-ip3000",
+  "model": "AQUABEAM440 (IP3000)",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "tilt": 240,
+  "ch": [
+   20,
+   24
+  ],
+  "feat": [
+   "cmy",
+   "gobo:14",
+   "anim",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://en.lightsky.com.cn/product/aquabeam440-ip3000/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "aquapearl-mini",
+  "model": "AQUAPEARL-MINI",
+  "kind": "wash",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   5,
+   50
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "ch": [
+   21,
+   28,
+   31,
+   35,
+   55
+  ],
+  "pixelFrom": 28,
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://en.lightsky.com.cn/product/aquapearl-mini/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "aquapearl-pro-ii",
+  "model": "AQUAPEARL-PRO II",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   7,
+   45
+  ],
+  "pan": 540,
+  "tilt": 218,
+  "ch": [
+   26,
+   28,
+   35,
+   98,
+   100
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://en.lightsky.com.cn/product/aquapearl-pro-ii/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "aquapearl-pro",
+  "model": "AQUAPEARL-PRO",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   5,
+   25
+  ],
+  "ch": [
+   16,
+   22,
+   26,
+   35,
+   39,
+   45,
+   79,
+   98
+  ],
+  "pixelFrom": 79,
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://en.lightsky.com.cn/product/aquapearl-pro/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "aquapearl-smart",
+  "model": "AQUAPEARL-SMART",
+  "kind": "wash",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "deg": [
+   5,
+   50
+  ],
+  "pan": 540,
+  "ch": [
+   28,
+   35,
+   40,
+   72
+  ],
+  "pixelFrom": 40,
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://en.lightsky.com.cn/product/aquapearl-smart/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "aurora-aqua",
+  "model": "AURORA AQUA",
+  "kind": "hybrid",
+  "deg": [
+   1.8,
+   24
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   33,
+   35,
+   36,
+   39
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:13",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://en.lightsky.com.cn/product/aurora-aqua/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "aurora-tide",
+  "model": "AURORA TIDE",
+  "kind": "hybrid",
+  "deg": [
+   4.1,
+   42
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   30,
+   39,
+   42
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:8",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://en.lightsky.com.cn/product/aurora-tide/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "budg-beam-300",
+  "model": "Budg Beam 300",
+  "kind": "beam",
+  "deg": [
+   2.2,
+   2.2
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://en.lightsky.com.cn/product/budg-beam-300/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "bumblebee",
+  "model": "BUMBLEBEE",
+  "kind": "beam",
+  "ch": [
+   16
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "focus"
+  ],
+  "url": "https://en.lightsky.com.cn/product/bumblebee/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "dolphin-smart",
+  "model": "DOLPHIN SMART",
+  "kind": "beam",
+  "deg": [
+   1.8,
+   1.8
+  ],
+  "pan": 540,
+  "ch": [
+   23
+  ],
+  "feat": [
+   "cmy",
+   "gobo:7",
+   "prism",
+   "frost"
+  ],
+  "url": "https://en.lightsky.com.cn/product/dolphin-smart/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "e280beam",
+  "model": "E280BEAM",
+  "kind": "beam",
+  "ch": [
+   14,
+   16
+  ],
+  "feat": [
+   "gobo:14",
+   "anim",
+   "prism",
+   "focus"
+  ],
+  "url": "https://en.lightsky.com.cn/product/e280beam/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "economic-aurora",
+  "model": "Economic AURORA",
+  "kind": "hybrid",
+  "deg": [
+   2,
+   21
+  ],
+  "pan": 540,
+  "ch": [
+   28
+  ],
+  "feat": [
+   "gobo:14",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://en.lightsky.com.cn/product/economic-aurora/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "f1700wb-e",
+  "model": "F1700WB-E",
+  "kind": "wash",
+  "deg": [
+   4,
+   45
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   17
+  ],
+  "feat": [
+   "cto",
+   "gobo:8",
+   "iris",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://en.lightsky.com.cn/product/f1700wb-e/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "f1700wb-p",
+  "model": "F1700WB-P",
+  "kind": "profile",
+  "deg": [
+   4,
+   45
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   32
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://en.lightsky.com.cn/product/f1700wb-p/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "f1700wb-ps",
+  "model": "F1700WB-PS",
+  "kind": "profile",
+  "deg": [
+   4,
+   45
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   32
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://en.lightsky.com.cn/product/f1700wb-ps/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "f1700wb",
+  "model": "F1700WB",
+  "kind": "wash",
+  "deg": [
+   4,
+   45
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   25
+  ],
+  "feat": [
+   "cto",
+   "gobo:8",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://en.lightsky.com.cn/product/f1700wb/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "f230ii",
+  "model": "F230II",
+  "kind": "beam",
+  "deg": [
+   2.5,
+   2.5
+  ],
+  "ch": [
+   14,
+   16
+  ],
+  "feat": [
+   "gobo:14",
+   "anim",
+   "prism"
+  ],
+  "url": "https://en.lightsky.com.cn/product/f230ii/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "f260plus",
+  "model": "F260PLUS",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "ch": [
+   14,
+   16
+  ],
+  "feat": [
+   "gobo:14",
+   "anim",
+   "prism",
+   "focus"
+  ],
+  "url": "https://en.lightsky.com.cn/product/f260plus/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "f330ii",
+  "model": "F330II",
+  "kind": "beam",
+  "deg": [
+   2.3,
+   2.3
+  ],
+  "ch": [
+   14,
+   16
+  ],
+  "feat": [
+   "gobo:14",
+   "anim",
+   "prism"
+  ],
+  "url": "https://en.lightsky.com.cn/product/f330ii/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "f350ii",
+  "model": "F350II",
+  "kind": "beam",
+  "deg": [
+   2.3,
+   2.3
+  ],
+  "ch": [
+   14,
+   16
+  ],
+  "feat": [
+   "gobo:14",
+   "anim",
+   "prism"
+  ],
+  "url": "https://en.lightsky.com.cn/product/f350ii/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "f400bsw",
+  "model": "F400BSW",
+  "kind": "hybrid",
+  "deg": [
+   10,
+   20
+  ],
+  "pan": 540,
+  "ch": [
+   18,
+   20
+  ],
+  "feat": [
+   "gobo:11",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://en.lightsky.com.cn/product/f400bsw/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "hs880",
+  "model": "HS880",
+  "kind": "profile",
+  "deg": [
+   5.5,
+   52
+  ],
+  "pan": 540,
+  "ch": [
+   43,
+   55
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://en.lightsky.com.cn/product/hs880for-south-korean-only/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "ipl715n",
+  "model": "IPL715N",
+  "kind": "par",
+  "deg": [
+   33,
+   33
+  ],
+  "ch": [
+   7
+  ],
+  "feat": [
+   "gobo:8"
+  ],
+  "size": [
+   250,
+   228,
+   303
+  ],
+  "url": "https://en.lightsky.com.cn/product/ipl715n/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "ipl715p",
+  "model": "IPL715P",
+  "kind": "par",
+  "deg": [
+   33,
+   33
+  ],
+  "ch": [
+   7
+  ],
+  "feat": [
+   "gobo:8"
+  ],
+  "size": [
+   250,
+   228,
+   303
+  ],
+  "url": "https://en.lightsky.com.cn/product/ipl715p/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "lotus-mini",
+  "model": "LOTUS MINI",
+  "kind": "effect",
+  "ch": [
+   9
+  ],
+  "feat": [
+   "gobo:8"
+  ],
+  "url": "https://en.lightsky.com.cn/product/lotus-mini/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "lotus",
+  "model": "LOTUS",
+  "kind": "effect",
+  "ch": [
+   9
+  ],
+  "feat": [
+   "gobo:8"
+  ],
+  "url": "https://en.lightsky.com.cn/product/lotus/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "lunar-beam",
+  "model": "LUNAR BEAM",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "ch": [
+   14,
+   16
+  ],
+  "feat": [
+   "gobo:11",
+   "anim",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://en.lightsky.com.cn/product/lunar-beam/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "lunar-bsw",
+  "model": "LUNAR BSW",
+  "kind": "hybrid",
+  "deg": [
+   2.3,
+   12
+  ],
+  "ch": [
+   21,
+   24
+  ],
+  "feat": [
+   "cto",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "prism",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://en.lightsky.com.cn/product/lunar-bsw/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "lunar-max",
+  "model": "LUNAR MAX",
+  "kind": "beam",
+  "deg": [
+   1.6,
+   1.6
+  ],
+  "pan": 540,
+  "ch": [
+   14,
+   16
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://en.lightsky.com.cn/product/lunar-max/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "mamba",
+  "model": "MAMBA",
+  "kind": "tiltbar",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "grid": [
+   1,
+   12
+  ],
+  "deg": [
+   3.6,
+   38
+  ],
+  "tilt": 185,
+  "ch": [
+   19,
+   64
+  ],
+  "pixelFrom": 64,
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://en.lightsky.com.cn/product/mamba/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "mini-laser-aqua",
+  "model": "MINI LASER AQUA",
+  "kind": "beam",
+  "deg": [
+   1.1,
+   1.1
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   17,
+   19
+  ],
+  "feat": [
+   "cmy",
+   "gobo:14",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://en.lightsky.com.cn/product/mini-laser-aqua/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "mini-lunar",
+  "model": "MINI LUNAR",
+  "kind": "beam",
+  "deg": [
+   0.6,
+   0.6
+  ],
+  "pan": 540,
+  "ch": [
+   14,
+   16
+  ],
+  "feat": [
+   "cto",
+   "gobo:11",
+   "anim",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://en.lightsky.com.cn/product/mini-lunar/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "mini-whale",
+  "model": "MINI WHALE",
+  "kind": "beam",
+  "deg": [
+   1.3,
+   1.3
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   15
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://en.lightsky.com.cn/product/mini-whale/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "pearl-wash-max",
+  "model": "PEARL WASH MAX",
+  "kind": "wash",
+  "leds": [
+   37,
+   "rgbw"
+  ],
+  "deg": [
+   5,
+   42
+  ],
+  "pan": 540,
+  "tilt": 215,
+  "ch": [
+   26,
+   39,
+   44,
+   56
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://en.lightsky.com.cn/product/pearl-wash-max/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "pearl-wash",
+  "model": "PEARL WASH",
+  "kind": "wash",
+  "deg": [
+   7,
+   55
+  ],
+  "pan": 540,
+  "ch": [
+   26,
+   38
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom"
+  ],
+  "url": "https://en.lightsky.com.cn/product/pearl-wash/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "pl1015b",
+  "model": "PL1015B",
+  "kind": "bar",
+  "leds": [
+   10,
+   "rgbw"
+  ],
+  "ch": [
+   9,
+   18,
+   25,
+   45
+  ],
+  "pixelFrom": 45,
+  "size": [
+   1000,
+   86,
+   190
+  ],
+  "url": "https://en.lightsky.com.cn/product/pl1015b/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "pl1015w",
+  "model": "PL1015W",
+  "kind": "bar",
+  "ch": [
+   9,
+   18,
+   25,
+   40,
+   45
+  ],
+  "feat": [
+   "gobo:8"
+  ],
+  "size": [
+   1000,
+   86,
+   190
+  ],
+  "url": "https://en.lightsky.com.cn/product/pl1015w/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "pl1215-hc",
+  "model": "PL1215-HC",
+  "kind": "par",
+  "deg": [
+   7,
+   55
+  ],
+  "ch": [
+   7
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom"
+  ],
+  "size": [
+   334,
+   242,
+   432
+  ],
+  "url": "https://en.lightsky.com.cn/product/pl1215-hc/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "pl1215ii",
+  "model": "PL1215II",
+  "kind": "par",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "deg": [
+   7,
+   55
+  ],
+  "ch": [
+   5,
+   10
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   334,
+   242,
+   432
+  ],
+  "url": "https://en.lightsky.com.cn/product/pl1215ii/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "pl6103",
+  "model": "PL6103",
+  "kind": "par",
+  "deg": [
+   10,
+   50
+  ],
+  "ch": [
+   5,
+   12
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   258,
+   335,
+   291
+  ],
+  "url": "https://en.lightsky.com.cn/product/pl6103/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "pl61w3",
+  "model": "PL61W3",
+  "kind": "par",
+  "deg": [
+   10,
+   50
+  ],
+  "ch": [
+   5
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom"
+  ],
+  "size": [
+   258,
+   335,
+   291
+  ],
+  "url": "https://en.lightsky.com.cn/product/pl61w3/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "scope",
+  "model": "SCOPE-Ⅱ",
+  "kind": "profile",
+  "deg": [
+   5,
+   40
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   27,
+   33
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://en.lightsky.com.cn/product/scope-2/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "scope-beam",
+  "model": "SCOPE BEAM",
+  "kind": "beam",
+  "deg": [
+   0.8,
+   0.8
+  ],
+  "pan": 540,
+  "ch": [
+   14,
+   16
+  ],
+  "feat": [
+   "cto",
+   "gobo:11",
+   "anim",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://en.lightsky.com.cn/product/scope-beam/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "scope-2",
+  "model": "SCOPE",
+  "kind": "profile",
+  "deg": [
+   5,
+   40
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   39,
+   54
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://en.lightsky.com.cn/product/scope/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "sea-angel-batt",
+  "model": "SEA ANGEL-BATT",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbal"
+  ],
+  "deg": [
+   14,
+   14
+  ],
+  "ch": [
+   5,
+   13
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   158,
+   141,
+   215
+  ],
+  "url": "https://en.lightsky.com.cn/product/sea-angel-batt/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "sea-angel-dual",
+  "model": "SEA ANGEL-DUAL",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbal"
+  ],
+  "deg": [
+   14,
+   14
+  ],
+  "ch": [
+   5,
+   13
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   158,
+   141,
+   215
+  ],
+  "url": "https://en.lightsky.com.cn/product/sea-angel-dual/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "sea-lion",
+  "model": "SEA LION",
+  "kind": "effect",
+  "leds": [
+   2,
+   "rgbw"
+  ],
+  "deg": [
+   3.2,
+   29.1
+  ],
+  "ch": [
+   26,
+   48
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   438,
+   265,
+   242
+  ],
+  "url": "https://en.lightsky.com.cn/product/sea-lion/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "seagul",
+  "model": "SEAGUL",
+  "kind": "strobe",
+  "leds": [
+   40,
+   "rgb"
+  ],
+  "deg": [
+   68,
+   68
+  ],
+  "ch": [
+   21,
+   168
+  ],
+  "size": [
+   438,
+   216,
+   249
+  ],
+  "url": "https://en.lightsky.com.cn/product/seagul/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "seal",
+  "model": "SEAL",
+  "kind": "blinder",
+  "leds": [
+   2,
+   "ww"
+  ],
+  "deg": [
+   50,
+   50
+  ],
+  "ch": [
+   1,
+   2,
+   8,
+   14
+  ],
+  "pixelFrom": 2,
+  "size": [
+   438,
+   248,
+   242
+  ],
+  "url": "https://en.lightsky.com.cn/product/seal/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "shark-laser-economic",
+  "model": "SHARK LASER (Economic)",
+  "kind": "beam",
+  "deg": [
+   0.9,
+   0.9
+  ],
+  "pan": 540,
+  "tilt": 240,
+  "ch": [
+   14
+  ],
+  "feat": [
+   "gobo:14",
+   "anim",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://en.lightsky.com.cn/product/shark-laser-economic/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "shark-laser",
+  "model": "SHARK LASER",
+  "kind": "beam",
+  "deg": [
+   0.9,
+   0.9
+  ],
+  "pan": 540,
+  "tilt": 240,
+  "ch": [
+   17
+  ],
+  "feat": [
+   "cmy",
+   "gobo:11",
+   "anim",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://en.lightsky.com.cn/product/shark-laser/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "shark-profile-hc",
+  "model": "SHARK PROFILE HC",
+  "kind": "profile",
+  "deg": [
+   6,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   44,
+   56
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://en.lightsky.com.cn/product/shark-profile-hc/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "shark-profile",
+  "model": "SHARK PROFILE",
+  "kind": "profile",
+  "deg": [
+   6,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   44,
+   56
+  ],
+  "feat": [
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://en.lightsky.com.cn/product/shark-profile/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "shark400",
+  "model": "SHARK400",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "ch": [
+   17
+  ],
+  "feat": [
+   "cmy",
+   "anim",
+   "prism",
+   "focus"
+  ],
+  "url": "https://en.lightsky.com.cn/product/shark400/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "shark400bsw",
+  "model": "SHARK400BSW",
+  "kind": "hybrid",
+  "deg": [
+   3,
+   42
+  ],
+  "pan": 540,
+  "ch": [
+   28
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:8",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://en.lightsky.com.cn/product/shark400bsw/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "shark450",
+  "model": "SHARK450",
+  "kind": "beam",
+  "deg": [
+   1.8,
+   1.8
+  ],
+  "pan": 540,
+  "tilt": 240,
+  "ch": [
+   17
+  ],
+  "feat": [
+   "cmy",
+   "gobo:11",
+   "anim",
+   "prism",
+   "focus"
+  ],
+  "url": "https://en.lightsky.com.cn/product/shark450/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "shark450bsw",
+  "model": "SHARK450BSW",
+  "kind": "hybrid",
+  "deg": [
+   3,
+   42
+  ],
+  "pan": 540,
+  "ch": [
+   28
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:8",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://en.lightsky.com.cn/product/shark450bsw/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "sirena-bar",
+  "model": "SIRENA BAR",
+  "kind": "bar",
+  "leds": [
+   14,
+   "rgba"
+  ],
+  "ch": [
+   16,
+   68
+  ],
+  "pixelFrom": 68,
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   1008,
+   191,
+   211
+  ],
+  "url": "https://en.lightsky.com.cn/product/sirena-bar/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "sousa",
+  "model": "SOUSA",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "deg": [
+   74,
+   74
+  ],
+  "ch": [
+   15,
+   21,
+   158
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   867,
+   125,
+   213
+  ],
+  "url": "https://en.lightsky.com.cn/product/sousa/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "super-scope",
+  "model": "SUPER SCOPE-Ⅱ",
+  "kind": "profile",
+  "deg": [
+   6,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   27,
+   33
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://en.lightsky.com.cn/product/super-scope-2/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "super-scope-aqua",
+  "model": "SUPER SCOPE AQUA",
+  "kind": "profile",
+  "deg": [
+   3.8,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   41,
+   42,
+   53
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://en.lightsky.com.cn/product/super-scope-aqua/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "super-scope-color",
+  "model": "SUPER SCOPE COLOR",
+  "kind": "profile",
+  "deg": [
+   5.9,
+   52
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   35,
+   49,
+   60,
+   64
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://en.lightsky.com.cn/product/super-scope-color/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "super-scope-hybrid-pro",
+  "model": "SUPER SCOPE HYBRID PRO",
+  "kind": "hybrid",
+  "deg": [
+   3.8,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   30,
+   34
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:7",
+   "prism",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://en.lightsky.com.cn/product/super-scope-hybrid-pro/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "super-scope-hybrid",
+  "model": "SUPER SCOPE HYBRID",
+  "kind": "hybrid",
+  "deg": [
+   4,
+   53
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   22,
+   25
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:7",
+   "prism",
+   "zoom"
+  ],
+  "url": "https://en.lightsky.com.cn/product/super-scope-hybrid/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "super-scope-ii",
+  "model": "SUPER SCOPE II",
+  "kind": "profile",
+  "deg": [
+   3.8,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   42,
+   54
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://en.lightsky.com.cn/product/super-scope-ii/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "super-scope-max",
+  "model": "SUPER SCOPE MAX",
+  "kind": "profile",
+  "deg": [
+   6,
+   50
+  ],
+  "pan": 540,
+  "ch": [
+   90
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://en.lightsky.com.cn/product/super-scope-max/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "super-scope-plus",
+  "model": "SUPER SCOPE PLUS",
+  "kind": "profile",
+  "deg": [
+   5.5,
+   52
+  ],
+  "pan": 540,
+  "ch": [
+   43,
+   55
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://en.lightsky.com.cn/product/super-scope-plus/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "super-scope-pro",
+  "model": "SUPER SCOPE PRO",
+  "kind": "profile",
+  "deg": [
+   4,
+   53
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   33,
+   36
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "prism",
+   "iris",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://en.lightsky.com.cn/product/super-scope-pro/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "super-scope-wash",
+  "model": "SUPER SCOPE WASH",
+  "kind": "wash",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   15,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   32,
+   44
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:8",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://en.lightsky.com.cn/product/super-scope-wash/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "super-scope-2",
+  "model": "SUPER SCOPE",
+  "kind": "profile",
+  "deg": [
+   6,
+   50
+  ],
+  "pan": 540,
+  "ch": [
+   39,
+   54
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://en.lightsky.com.cn/product/super-scope/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "super-shark-beam",
+  "model": "SUPER SHARK BEAM",
+  "kind": "beam",
+  "deg": [
+   1.6,
+   1.6
+  ],
+  "pan": 540,
+  "ch": [
+   18
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:9",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://en.lightsky.com.cn/product/super-shark-beam/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "th-346",
+  "model": "TH-346",
+  "kind": "ellipsoidal",
+  "deg": [
+   12,
+   30
+  ],
+  "ch": [
+   1,
+   2,
+   4,
+   7
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   955,
+   330,
+   315
+  ],
+  "url": "https://en.lightsky.com.cn/product/th-346/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "th-347",
+  "model": "TH-347",
+  "kind": "ellipsoidal",
+  "ch": [
+   2
+  ],
+  "feat": [
+   "focus"
+  ],
+  "size": [
+   720,
+   330,
+   315
+  ],
+  "url": "https://en.lightsky.com.cn/product/th-347/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "th-353",
+  "model": "TH-353",
+  "kind": "fresnel",
+  "deg": [
+   15,
+   50
+  ],
+  "ch": [
+   4,
+   5,
+   6,
+   7,
+   9,
+   10,
+   12
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   580,
+   325,
+   320
+  ],
+  "url": "https://en.lightsky.com.cn/product/th-353/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "tx0610-beam",
+  "model": "TX0610 BEAM",
+  "kind": "beam",
+  "deg": [
+   1.5,
+   1.5
+  ],
+  "pan": 540,
+  "tilt": 180,
+  "ch": [
+   11,
+   17
+  ],
+  "feat": [
+   "gobo:14"
+  ],
+  "url": "https://en.lightsky.com.cn/product/tx0610-beam/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "tx0710-wash",
+  "model": "TX0710 WASH",
+  "kind": "wash",
+  "deg": [
+   12,
+   12
+  ],
+  "pan": 540,
+  "tilt": 180,
+  "ch": [
+   9,
+   15
+  ],
+  "feat": [
+   "gobo:8"
+  ],
+  "url": "https://en.lightsky.com.cn/product/tx0710-wash/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "tx1810-zoom",
+  "model": "TX1810 ZOOM",
+  "kind": "wash",
+  "deg": [
+   7,
+   7
+  ],
+  "pan": 540,
+  "tilt": 180,
+  "ch": [
+   10,
+   16,
+   20,
+   24
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom"
+  ],
+  "url": "https://en.lightsky.com.cn/product/tx1810-zoom/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "tx1810beam",
+  "model": "TX1810BEAM",
+  "kind": "beam",
+  "deg": [
+   1.5,
+   1.5
+  ],
+  "ch": [
+   11,
+   17,
+   21,
+   25
+  ],
+  "feat": [
+   "gobo:14"
+  ],
+  "url": "https://en.lightsky.com.cn/product/tx1810beam/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "tx1910-wash",
+  "model": "TX1910 WASH",
+  "kind": "wash",
+  "deg": [
+   10,
+   10
+  ],
+  "pan": 540,
+  "tilt": 180,
+  "ch": [
+   9,
+   15,
+   23,
+   27
+  ],
+  "feat": [
+   "gobo:8"
+  ],
+  "url": "https://en.lightsky.com.cn/product/tx1910-wash/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "tx1920-hc",
+  "model": "TX1920-HC",
+  "kind": "wash",
+  "deg": [
+   7,
+   55
+  ],
+  "pan": 540,
+  "ch": [
+   13
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom"
+  ],
+  "url": "https://en.lightsky.com.cn/product/tx1920-hc/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "tx1920-zoom",
+  "model": "TX1920 ZOOM",
+  "kind": "wash",
+  "deg": [
+   7,
+   55
+  ],
+  "pan": 540,
+  "ch": [
+   15,
+   24,
+   25
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom"
+  ],
+  "url": "https://en.lightsky.com.cn/product/tx1920-zoom/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "tx1940-zoom",
+  "model": "TX1940 ZOOM",
+  "kind": "wash",
+  "pan": 540,
+  "ch": [
+   9,
+   12,
+   13,
+   23
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://en.lightsky.com.cn/product/tx1940-zoom/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Light Sky",
+  "key": "tx1940d",
+  "model": "TX1940D",
+  "kind": "wash",
+  "deg": [
+   5,
+   55
+  ],
+  "ch": [
+   11,
+   17,
+   21,
+   40,
+   74,
+   93
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom"
+  ],
+  "url": "https://en.lightsky.com.cn/product/tx1940d/",
+  "note": "Steckbrief aus Herstellerangaben (en.lightsky.com.cn, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

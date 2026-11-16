@@ -1,0 +1,22 @@
+[
+ {
+  "man": "Lixada",
+  "key": "75w-rgbwy-par-wash-moving-head-5-15w",
+  "model": "75W RGBWY Par-Wash Moving Head 5×15W",
+  "kind": "wash",
+  "leds": [
+   5,
+   "rgbw"
+  ],
+  "pan": 540,
+  "tilt": 180,
+  "ch": [
+   10,
+   15
+  ],
+  "pixelFrom": 15,
+  "url": "https://www.lixada.com/p-l0817us.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (lixada.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

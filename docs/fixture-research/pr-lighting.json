@@ -1,0 +1,2585 @@
+[
+  {
+    "manufacturer": "PR Lighting",
+    "model": "AQUA Marine 580 BWS",
+    "kind": "hybrid",
+    "light": "Philips MSD Platinum 25R 550 W (opt. Osram Sirius HRI 550 W XL)",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      31,
+      35
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:17",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "blades",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 40,
+    "url": "http://www.pr-lighting.com/product/index100.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-2596. IP66 BWS (Beam/Wash/Spot) mit Entladungslampe, Marine-Ausführung."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "AQUA 580 BWS",
+    "kind": "hybrid",
+    "light": "Philips MSD Platinum 500L Flex 550 W",
+    "beamDeg": [
+      2,
+      40
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      31,
+      35
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:17",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "blades",
+      "IP66",
+      "artnet"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 37.6,
+    "url": "http://www.pr-lighting.com/product/index101.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-2597. IP66 BWS-Hybrid."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "AQUA 580 Beam (PR-2569)",
+    "kind": "beam",
+    "light": "Philips MSD Platinum 500L Flex 550 W",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      26,
+      30
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:7+18+18",
+      "prism",
+      "frost",
+      "focus",
+      "blades",
+      "IP66",
+      "artnet"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 39.8,
+    "url": "http://www.pr-lighting.com/product/index102.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-2569. IP66 Beam. Leistung 800 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "AQUA 480 BWS",
+    "kind": "hybrid",
+    "light": "PR480L (Entladungslampe 480 W)",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      31,
+      35
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:18+7+17",
+      "prism",
+      "frost",
+      "zoom",
+      "blades",
+      "animation",
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 37.6,
+    "url": "http://www.pr-lighting.com/product/index105.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-2497. IP65 BWS-Hybrid. Leistung 650 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "AQUA 480 Beam",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      26,
+      30
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:18+7+8",
+      "prism",
+      "frost",
+      "focus",
+      "blades",
+      "IP66"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 37.6,
+    "url": "http://www.pr-lighting.com/product/index106.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-2469. IP66 Beam 480 W-Klasse (Lampe online nicht klar benannt)."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "XRLED 3000-W Framing (PR-8137)",
+    "kind": "profile",
+    "light": "1200 W LED weiß 6900 K",
+    "beamDeg": [
+      6,
+      54
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": null,
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 45,
+    "url": "http://www.pr-lighting.com/product/index109.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8137. LED-Framing-Profil; Kanalmodi online nicht eindeutig lesbar. Zweiter Eintrag unter PR-8837."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "XR 580 BWS",
+    "kind": "hybrid",
+    "light": "Philips MSD Platinum 500L Flex 550 W",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      31,
+      35
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:7+17+17",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "artnet"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 26,
+    "url": "http://www.pr-lighting.com/product/index115.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-2552. BWS-Hybrid."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "XR 580 Beam",
+    "kind": "beam",
+    "light": "Philips MSD Platinum 25R 550 W",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      26,
+      30
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:18",
+      "prism",
+      "frost",
+      "focus",
+      "blades"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 25,
+    "url": "http://www.pr-lighting.com/product/index116.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-2554. Beam."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "GALAXY",
+    "kind": "effect",
+    "light": "60 W RGBW LEDs (Osram)",
+    "beamDeg": [
+      3.3,
+      60
+    ],
+    "pan": 540,
+    "tilt": 180,
+    "channels": [
+      30,
+      102
+    ],
+    "features": [
+      "zoom",
+      "pixel"
+    ],
+    "ring": null,
+    "pixels": "Pixelsteuerung",
+    "sizeMm": null,
+    "weightKg": 30,
+    "url": "http://www.pr-lighting.com/product/index117.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8129. Wash/Beam-Moving-Head mit endlos rotierender Front-Linsenplatte (Kaleidoskop-Effekt), Zoom 3,3-60°. Leistung 1400 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "XR 380 BWS (PR-2393)",
+    "kind": "hybrid",
+    "light": null,
+    "beamDeg": [
+      2.3,
+      40
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      28,
+      33
+    ],
+    "features": [
+      "gobo:10",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 22.2,
+    "url": "http://www.pr-lighting.com/product/index118.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-2393. BWS-Hybrid 380 W-Klasse (Entladungslampe). Leistung 570 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "XR 380 Beam (PR-2345)",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      19,
+      21
+    ],
+    "features": [
+      "gobo:12",
+      "prism",
+      "frost",
+      "zoom",
+      "blades",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 18,
+    "url": "http://www.pr-lighting.com/product/index119.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-2345. Beam 380 W-Klasse (Entladungslampe). Leistung 550 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "XR 480 BWS",
+    "kind": "hybrid",
+    "light": "PR480L (Entladungslampe 480 W)",
+    "beamDeg": [
+      2.3,
+      10
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      28,
+      33
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:10",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 22.2,
+    "url": "http://www.pr-lighting.com/product/index123.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-2493. BWS-Hybrid; Beam-Modus 2,3-10°. Leistung 650 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "AQUA 380 Beam",
+    "kind": "beam",
+    "light": "Philips MSD Platinum 300S Flex (380 W)",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      20,
+      21
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:16+12",
+      "prism",
+      "frost",
+      "blades",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 29,
+    "url": "http://www.pr-lighting.com/product/index133.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-2369. IP66 Beam. Leistung 600 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "AQUA 380 BWS",
+    "kind": "hybrid",
+    "light": null,
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      27,
+      32
+    ],
+    "features": [
+      "gobo:11+12",
+      "prism",
+      "frost",
+      "blades",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "http://www.pr-lighting.com/product/index134.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-2366. IP66 BWS-Hybrid 380 W-Klasse. Leistung 600 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "PLANET",
+    "kind": "effect",
+    "light": "60 W RGBW LEDs (SMT)",
+    "beamDeg": [
+      3.3,
+      60
+    ],
+    "pan": 540,
+    "tilt": 210,
+    "channels": [
+      26,
+      30,
+      54
+    ],
+    "features": [
+      "zoom",
+      "pixel"
+    ],
+    "ring": null,
+    "pixels": "Pixelsteuerung",
+    "sizeMm": null,
+    "weightKg": 14,
+    "url": "http://www.pr-lighting.com/product/index138.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8128. Kompakter Beam/Wash mit rotierender Frontplatte, Zoom 3,3-60°."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "XLED 3019",
+    "kind": "wash",
+    "light": "19 x 20 W RGBW LEDs",
+    "beamDeg": [
+      17,
+      60
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      20
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "19 LEDs",
+    "sizeMm": null,
+    "weightKg": 12.2,
+    "url": "http://www.pr-lighting.com/product/index141.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8127. LED-Wash mit Zoom 17-60°. Leistung 400 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "XLED 1061",
+    "kind": "wash",
+    "light": "61 x 10 W RGBW LEDs (CREE)",
+    "beamDeg": [
+      13,
+      52
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      30
+    ],
+    "features": [
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "61 LEDs",
+    "sizeMm": null,
+    "weightKg": 20.3,
+    "url": "http://www.pr-lighting.com/product/index143.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8121. LED-Wash mit Zoom 13-52°."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "XPAR 354",
+    "kind": "par",
+    "light": "54 x 3 W RGBW",
+    "beamDeg": [
+      8,
+      8
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      11
+    ],
+    "features": [
+      "frost",
+      "IP67"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 10,
+    "url": "http://www.pr-lighting.com/product/index146.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-6209A. IP67 Outdoor-Par."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "LS 150/90 Tree",
+    "kind": "effect",
+    "light": "150 W LED weiß 7500 K",
+    "beamDeg": [
+      55,
+      55
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "colorwheel",
+      "gobo",
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 7.5,
+    "url": "http://www.pr-lighting.com/product/index147.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-6821. Outdoor-Effektprojektor (Baum-/Blatt-Effekt), IP65; 90-W-Version optional."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "LS PAR 1512-W",
+    "kind": "par",
+    "light": "12 x 15 W LED weiß (Philips)",
+    "beamDeg": [
+      14,
+      14
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2
+    ],
+    "features": [
+      "IP67"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 10,
+    "url": "http://www.pr-lighting.com/product/index148.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-6207. IP67 Outdoor-Par weiß."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "LS PAR 1512",
+    "kind": "par",
+    "light": "12 x 15 W RGBA (Philips)",
+    "beamDeg": [
+      14,
+      14
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      11
+    ],
+    "features": [
+      "IP67"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 10,
+    "url": "http://www.pr-lighting.com/product/index149.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-6208. IP67 Outdoor-Par."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "LS 150/90 Water",
+    "kind": "effect",
+    "light": "150 W (opt. 90 W) LED weiß",
+    "beamDeg": [
+      45,
+      45
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "colorwheel",
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 8.5,
+    "url": "http://www.pr-lighting.com/product/index155.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-6810/PR-6809. Outdoor-Wassereffekt-Projektor IP65 (PR-6810/PR-6809)."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "CUBIX 300",
+    "kind": "effect",
+    "light": "150 W LED weiß 7500 K",
+    "beamDeg": [
+      15,
+      45
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "colorwheel",
+      "gobo:4",
+      "zoom",
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 9.5,
+    "url": "http://www.pr-lighting.com/product/index156.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-6803. Outdoor-Gobo-Projektor (statisch) IP65 mit Zoom 15-45°."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "LS PAR 1524",
+    "kind": "par",
+    "light": "24 x 15 W RGBW (Philips)",
+    "beamDeg": [
+      16,
+      16
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      10
+    ],
+    "features": [
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 20,
+    "url": "http://www.pr-lighting.com/product/index161.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-6220. IP65 Outdoor-Par."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "XPAR 1514 Zoom",
+    "kind": "par",
+    "light": "14 x 15 W RGBW-UV",
+    "beamDeg": [
+      14,
+      42
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5
+    ],
+    "features": [
+      "frost",
+      "zoom",
+      "IP67"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 10,
+    "url": "http://www.pr-lighting.com/product/index162.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8210. IP67 Zoom-Par 14-42°."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "AQUA LED 3000-W Framing",
+    "kind": "profile",
+    "light": "1200 W LED weiß 8000 K",
+    "beamDeg": [
+      6,
+      56
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      38,
+      54
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 61,
+    "url": "http://www.pr-lighting.com/product/index270.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8139. IP66 LED-Framing-Profil."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "XRLED 3000-W Framing (PR-8837)",
+    "kind": "profile",
+    "light": "1200 W LED weiß 6900 K",
+    "beamDeg": [
+      6,
+      54
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      47,
+      52,
+      67
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 45,
+    "url": "http://www.pr-lighting.com/product/index279.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8837. LED-Framing-Profil (PR-8837, Variante)."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "XLED 1537",
+    "kind": "wash",
+    "light": "37 x 15 W RGBW",
+    "beamDeg": [
+      13,
+      52
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      29,
+      41
+    ],
+    "features": [
+      "zoom",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "37 LEDs",
+    "sizeMm": null,
+    "weightKg": 12.4,
+    "url": "http://www.pr-lighting.com/product/index280.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8120L. LED-Wash mit Zoom 13-52°."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "AQUA 580 Beam (PR-2569S)",
+    "kind": "beam",
+    "light": "Philips MSD Platinum 500L Flex 550 W",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      18,
+      20
+    ],
+    "features": [
+      "cto",
+      "colorwheel",
+      "gobo:7+18+18",
+      "prism",
+      "frost",
+      "focus",
+      "blades",
+      "IP66",
+      "artnet"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 38.8,
+    "url": "http://www.pr-lighting.com/product/index286.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-2569S. IP66 Beam (Variante PR-2569S). Leistung 800 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "LS 300 Water",
+    "kind": "effect",
+    "light": "250 W LED weiß 6500 K",
+    "beamDeg": [
+      25,
+      50
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "colorwheel",
+      "zoom",
+      "focus",
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 17.8,
+    "url": "http://www.pr-lighting.com/product/index293.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-6605. Outdoor-Wassereffekt-Projektor IP65 mit Zoom 25-50°."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "TANGO 180 Spot",
+    "kind": "spot",
+    "light": "150 W LED weiß 7500 K",
+    "beamDeg": [
+      55,
+      55
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "colorwheel",
+      "gobo:5",
+      "prism",
+      "zoom",
+      "focus",
+      "IP66"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 9,
+    "url": "http://www.pr-lighting.com/product/index296.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-6832. Statischer Gobo-Spot (Tango-Serie, ohne Moving Head) IP66."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "CUBIX 600",
+    "kind": "effect",
+    "light": "300 W LED weiß",
+    "beamDeg": [
+      7,
+      45
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      19
+    ],
+    "features": [
+      "cto",
+      "colorwheel",
+      "gobo:6",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 21.4,
+    "url": "http://www.pr-lighting.com/product/index297.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-6602. Outdoor-Gobo-Projektor (statisch) IP65, Zoom 7-45°. Leistung 400 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "AQUA Laser 260 Beam (PR-8339)",
+    "kind": "beam",
+    "light": "260 W Laser-Modul 9000 K",
+    "beamDeg": [
+      0.8,
+      0.8
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      25,
+      28
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:30+12+30",
+      "prism",
+      "frost",
+      "focus",
+      "IP66",
+      "artnet"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 39,
+    "url": "http://www.pr-lighting.com/product/index313.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8339. IP66 Laser-Beam, Frontlinse 230 mm."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "XR 230 Beam",
+    "kind": "beam",
+    "light": "Osram Sirius HRI 231 W",
+    "beamDeg": [
+      0.5,
+      3.6
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      14,
+      16
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:17",
+      "prism",
+      "frost",
+      "focus",
+      "blades"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 14.5,
+    "url": "http://www.pr-lighting.com/product/index316.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-2207. Beam; Zoom laut Seite 0-3,6° (untere Grenze nicht beziffert)."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "XR 450 BWS",
+    "kind": "hybrid",
+    "light": "Osram Sirius HRI 420 W S",
+    "beamDeg": [
+      2.3,
+      2.3
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      28,
+      33
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:10",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "blades",
+      "animation"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 22.2,
+    "url": "http://www.pr-lighting.com/product/index317.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-2481. BWS-Hybrid."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "AQUA LED 770-W BWSF",
+    "kind": "profile",
+    "light": "500 W LED weiß 9000 K",
+    "beamDeg": [
+      5.5,
+      50
+    ],
+    "pan": null,
+    "tilt": 270,
+    "channels": [
+      35,
+      50
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:8",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "blades",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 39,
+    "url": "http://www.pr-lighting.com/product/index319.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-6712. IP66 LED-BWSF; Pan-Winkel online nicht angegeben."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "XR 300 Beam",
+    "kind": "beam",
+    "light": "Philips MSD Silver 300 LL",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:17+20+17",
+      "prism",
+      "frost",
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 17,
+    "url": "http://www.pr-lighting.com/product/index320.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-2244. Beam."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "XRLED 400 BWS",
+    "kind": "hybrid",
+    "light": "500 W LED weiß 7800 K",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      22,
+      28
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:7+7",
+      "prism",
+      "frost",
+      "focus",
+      "blades",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 21.5,
+    "url": "http://www.pr-lighting.com/product/index326.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8152. LED-BWS."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "XRLED 3500-W Framing",
+    "kind": "profile",
+    "light": "1500 W LED weiß 6500 K",
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      47,
+      52,
+      67
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 47.8,
+    "url": "http://www.pr-lighting.com/product/index329.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8847. LED-Framing-Profil."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "XRLED 700-W BWS",
+    "kind": "hybrid",
+    "light": "350 W LED weiß",
+    "beamDeg": [
+      4,
+      40
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      30
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:7+7",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 22,
+    "url": "http://www.pr-lighting.com/product/index330.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8173. LED-BWS."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "XRLED 3000-W Wash/Framing",
+    "kind": "profile",
+    "light": "1200 W LED weiß 6900 K",
+    "beamDeg": [
+      7,
+      40
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      22,
+      25,
+      31
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "focus",
+      "blades",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 42,
+    "url": "http://www.pr-lighting.com/product/index332.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8836. Wash mit Framing-Blades."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "TANGO 680 Spot DE",
+    "kind": "spot",
+    "light": "500 W LED weiß 9000 K",
+    "beamDeg": [
+      6,
+      50
+    ],
+    "pan": null,
+    "tilt": 270,
+    "channels": [
+      17
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:8",
+      "prism",
+      "zoom",
+      "focus",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 28.5,
+    "url": "http://www.pr-lighting.com/product/index334.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-6629. Statischer IP66 Wasserwellen-/Gobo-Spot (Tango, nur Tilt manuell)."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "TANGO 750 Framing",
+    "kind": "profile",
+    "light": "500 W LED weiß 8000 K",
+    "beamDeg": [
+      5,
+      40
+    ],
+    "pan": null,
+    "tilt": 140,
+    "channels": [
+      30
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:8+8",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "blades",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 27.5,
+    "url": "http://www.pr-lighting.com/product/index337.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-6630A. IP66 Framing/Spot mit motorischem Tilt 140°, ohne Pan (Tango-Serie)."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "AQUA Laser 260 BWS",
+    "kind": "hybrid",
+    "light": "260 W Laser-Modul",
+    "beamDeg": [
+      0.6,
+      20
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      28,
+      31
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:30+12",
+      "prism",
+      "frost",
+      "focus",
+      "IP66",
+      "artnet"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 36.2,
+    "url": "http://www.pr-lighting.com/product/index340.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8327. IP66 Laser-BWS, Frontlinse 180 mm. Leistung 420 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "XRLED 3000-W Wash",
+    "kind": "wash",
+    "light": "1200 W LED weiß 6900 K",
+    "beamDeg": [
+      7,
+      40
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      22,
+      25,
+      31
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 40.2,
+    "url": "http://www.pr-lighting.com/product/index343.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8835. LED-Wash."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "XRLED 3500-W Wash/Framing",
+    "kind": "profile",
+    "light": "1500 W LED weiß 6500 K",
+    "beamDeg": [
+      7,
+      40
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      31,
+      35,
+      49
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "focus",
+      "blades",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 43.5,
+    "url": "http://www.pr-lighting.com/product/index349.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8846. Wash/Framing."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "XLED 4012",
+    "kind": "wash",
+    "light": "12 x 40 W RGBW",
+    "beamDeg": [
+      7,
+      42
+    ],
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      18
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "12 LEDs",
+    "sizeMm": null,
+    "weightKg": 11.8,
+    "url": "http://www.pr-lighting.com/product/index351.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8122. LED-Wash Zoom 7-42°."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "XLED 4019",
+    "kind": "wash",
+    "light": "19 x 40 W RGBW",
+    "beamDeg": [
+      4,
+      40
+    ],
+    "pan": 540,
+    "tilt": 240,
+    "channels": [
+      31,
+      41
+    ],
+    "features": [
+      "zoom",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "19 LEDs",
+    "sizeMm": null,
+    "weightKg": 13.2,
+    "url": "http://www.pr-lighting.com/product/index355.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8124. LED-Wash Zoom 4-40°. Leistung 900 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "XRLED 700-W BWSF",
+    "kind": "profile",
+    "light": "350 W LED weiß",
+    "beamDeg": [
+      4,
+      40
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      40
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:7",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 22.6,
+    "url": "http://www.pr-lighting.com/product/index356.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8174. LED-BWSF."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "AQUA XLED 6019",
+    "kind": "wash",
+    "light": "19 x 60 W RGBW",
+    "beamDeg": [
+      7,
+      45
+    ],
+    "pan": 540,
+    "tilt": 216,
+    "channels": [
+      7,
+      21,
+      26,
+      35,
+      43,
+      78,
+      92,
+      97
+    ],
+    "features": [
+      "zoom",
+      "pixel",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "19 LEDs",
+    "sizeMm": [
+      431,
+      275,
+      575
+    ],
+    "weightKg": 23.5,
+    "url": "http://www.pr-lighting.com/product/index362.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8229. IP65 LED-Wash Zoom 7-45°. Leistung 1350 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "AQUA LASER 300 RGB BEAM",
+    "kind": "laser",
+    "light": "300 W RGB-Laser-Engine",
+    "beamDeg": [
+      0.6,
+      0.6
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "gobo:13",
+      "prism",
+      "frost",
+      "focus",
+      "IP65",
+      "artnet"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 21,
+    "url": "http://www.pr-lighting.com/product/index365.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8335. IP65 RGB-Laser-Beam (Searchlight-Typ), 0,6°; Pan/Tilt online nicht angegeben. Leistung 450 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "AQUA Laser 500 BWS",
+    "kind": "hybrid",
+    "light": "500 W Laser-Modul",
+    "beamDeg": [
+      0.8,
+      26
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      28,
+      31
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:30+12",
+      "prism",
+      "frost",
+      "focus",
+      "IP66",
+      "artnet"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 37.8,
+    "url": "http://www.pr-lighting.com/product/index368.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8357. IP66 Laser-BWS. Leistung 660 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "XRLED 1600-W BWSF",
+    "kind": "profile",
+    "light": "700 W LED weiß",
+    "beamDeg": [
+      5,
+      60
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      40,
+      46,
+      59
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:8+4",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 24.2,
+    "url": "http://www.pr-lighting.com/product/index370.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8194. LED-BWSF. Leistung 700 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "PR-6000 Spot(1400W)",
+    "kind": "spot",
+    "light": "Osram Lok-it 1400 W (Entladungslampe)",
+    "beamDeg": [
+      6,
+      55
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      32,
+      39
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:19+6+7",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 48,
+    "url": "http://www.pr-lighting.com/product/index371.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-2920. Spot 1400 W. Leistung 1800 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "XR 380 BWS (PR-2392A)",
+    "kind": "hybrid",
+    "light": "Philips MSD Silver 380 W LL-2",
+    "beamDeg": [
+      2,
+      20
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      28
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:10+7",
+      "prism",
+      "focus",
+      "blades",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 19,
+    "url": "http://www.pr-lighting.com/product/index372.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-2392A. BWS-Hybrid (Variante PR-2392A). Leistung 500 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "XR 380 BWS (PR-2393A)",
+    "kind": "hybrid",
+    "light": "Philips MSD Platinum 300S Flex",
+    "beamDeg": [
+      2,
+      20
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      23
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:10+7",
+      "prism",
+      "focus",
+      "blades",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 19,
+    "url": "http://www.pr-lighting.com/product/index373.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-2393A. BWS-Hybrid (Variante PR-2393A)."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "XR 380 Beam (PR-2345A)",
+    "kind": "beam",
+    "light": "Philips MSD Platinum 300S Flex",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:17",
+      "prism",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 17,
+    "url": "http://www.pr-lighting.com/product/index374.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-2345A. Beam (Variante PR-2345A)."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "AQUA Laser 120 BEAM",
+    "kind": "beam",
+    "light": "120 W Laser-Modul",
+    "beamDeg": [
+      0.8,
+      5
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      17,
+      18
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:30",
+      "prism",
+      "frost",
+      "focus",
+      "IP66",
+      "artnet"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 26,
+    "url": "http://www.pr-lighting.com/product/index377.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8319. IP66 Laser-Beam, Frontlinse 160 mm. Leistung 230 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "AQUA Laser 500 Beam (PR-8369)",
+    "kind": "beam",
+    "light": "500 W Laser-Modul",
+    "beamDeg": [
+      0.8,
+      0.8
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      25,
+      28
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:30+12",
+      "prism",
+      "frost",
+      "focus",
+      "IP66",
+      "artnet"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 39.5,
+    "url": "http://www.pr-lighting.com/product/index378.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8369. IP66 Laser-Beam, Frontlinse 230 mm (PR-8369). Leistung 670 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "AQUA LED 4000-W Framing",
+    "kind": "profile",
+    "light": "1800 W LED weiß",
+    "beamDeg": [
+      5,
+      56
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      40,
+      45,
+      59
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 57,
+    "url": "http://www.pr-lighting.com/product/index380.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8159. IP66 LED-Framing-Profil. Leistung 2100 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "XRLED 1600-W BWS",
+    "kind": "hybrid",
+    "light": "700 W LED weiß",
+    "beamDeg": [
+      5,
+      60
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      31,
+      36,
+      41
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:8+4",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 23.6,
+    "url": "http://www.pr-lighting.com/product/index382.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8193. LED-BWS. Leistung 700 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "AQUA LED 1600-W BWSF",
+    "kind": "profile",
+    "light": "700 W LED weiß",
+    "beamDeg": [
+      5,
+      60
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      40,
+      46,
+      59
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:8+4",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "blades",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 37.2,
+    "url": "http://www.pr-lighting.com/product/index383.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8199. IP66 LED-BWSF. Leistung 700 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "AQUA LASER 260 BEAM (PR-8329)",
+    "kind": "beam",
+    "light": "260 W Laser-Modul",
+    "beamDeg": [
+      0.8,
+      0.8
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      17,
+      18
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:30",
+      "prism",
+      "frost",
+      "focus",
+      "IP66",
+      "artnet"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 37.6,
+    "url": "http://www.pr-lighting.com/product/index385.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8329. IP66 Laser-Beam (PR-8329). Leistung 390 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "AQUA Laser 500 Beam (PR-8359)",
+    "kind": "beam",
+    "light": "500 W Laser-Modul",
+    "beamDeg": [
+      0.8,
+      0.8
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      17,
+      18
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:30",
+      "prism",
+      "frost",
+      "focus",
+      "IP66",
+      "artnet"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 39.2,
+    "url": "http://www.pr-lighting.com/product/index386.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8359. IP66 Laser-Beam (PR-8359). Leistung 650 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "DRAGON 1600-W BWSF",
+    "kind": "profile",
+    "light": null,
+    "beamDeg": [
+      5,
+      60
+    ],
+    "pan": null,
+    "tilt": 200,
+    "channels": [
+      32,
+      38,
+      51
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:8+4",
+      "prism",
+      "frost",
+      "focus",
+      "blades",
+      "IP68",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 23,
+    "url": "http://www.pr-lighting.com/product/index388.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-6517. Unterwasser-Scheinwerfer IP68 mit BSWF, Tilt ±100°, ohne Pan-Angabe. Leistung 700 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "XRLED 2600-W BWSF",
+    "kind": "profile",
+    "light": "1000 W LED weiß",
+    "beamDeg": [
+      5,
+      60
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      40,
+      46,
+      59
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:8+4",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "blades",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 26.8,
+    "url": "http://www.pr-lighting.com/product/index389.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8184. LED-BWSF. Leistung 1000 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "DRAGON 700-W BWS",
+    "kind": "hybrid",
+    "light": "350 W LED weiß",
+    "beamDeg": [
+      4,
+      40
+    ],
+    "pan": null,
+    "tilt": 200,
+    "channels": [
+      20,
+      25,
+      29
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:7+7",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "IP68",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 19.5,
+    "url": "http://www.pr-lighting.com/product/index392.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-6513. Unterwasser-Scheinwerfer IP68 BWS, Tilt ±100°. Leistung 350 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "XRLED 4000-W Framing",
+    "kind": "profile",
+    "light": "1800 W LED weiß",
+    "beamDeg": [
+      6,
+      54
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      47,
+      52,
+      67
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 47.8,
+    "url": "http://www.pr-lighting.com/product/index393.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8154. LED-Framing-Profil. Leistung 2100 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "AQUA LED 2600-W BWSF",
+    "kind": "profile",
+    "light": null,
+    "beamDeg": [
+      5,
+      60
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      40,
+      46,
+      59
+    ],
+    "features": [
+      "cto",
+      "colorwheel",
+      "gobo:8+4",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "blades",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 38.1,
+    "url": "http://www.pr-lighting.com/product/index396.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8189. IP66 LED-BWSF. Leistung 1000 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "TANGO LED 4000-W FRAMING",
+    "kind": "profile",
+    "light": "1800 W LED weiß",
+    "beamDeg": [
+      5,
+      56
+    ],
+    "pan": null,
+    "tilt": 270,
+    "channels": [
+      35,
+      40,
+      54
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 50,
+    "url": "http://www.pr-lighting.com/product/index398.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-6159. IP66 Framing-Profil (Tango-Serie): kein Pan, Tilt 270° manuell einstellbar laut Beschreibung. Leistung 1950 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "TANGO LED 2600-W BWSF",
+    "kind": "profile",
+    "light": null,
+    "beamDeg": [
+      5,
+      60
+    ],
+    "pan": null,
+    "tilt": 270,
+    "channels": [
+      35,
+      41,
+      54
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:8+4",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "blades",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 32,
+    "url": "http://www.pr-lighting.com/product/index400.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-6189. IP66 BWSF (Tango-Serie, statischer Bügel), Tilt 270°. Leistung 1000 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "AQUA Laser 850 Beam",
+    "kind": "lasermh",
+    "light": "850 W RGB-Laser-Modul",
+    "beamDeg": [
+      0.5,
+      1.5
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      23
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "prism",
+      "frost",
+      "focus",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 50.6,
+    "url": "http://www.pr-lighting.com/product/index401.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-8389. IP66 RGB-Laser-Searchlight-Beam 0,5-1,5°. Leistung 1350 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "PR-6000 Framing(1400W)",
+    "kind": "profile",
+    "light": "Osram Lok-it 1400/PS",
+    "beamDeg": [
+      6,
+      55
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      36
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:4+6",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "blades",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 48,
+    "url": "http://www.pr-lighting.com/product/index96.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-2927. Framing/Spot 1400 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "PR-6000 Wash/Framing",
+    "kind": "wash",
+    "light": "Entladungslampe 1400 W",
+    "beamDeg": [
+      10,
+      60
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      32,
+      45
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "zoom",
+      "focus",
+      "blades",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 46,
+    "url": "http://www.pr-lighting.com/product/index97.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-2926. Wash mit Framing. Leistung 1800 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "PR-6000 Wash",
+    "kind": "wash",
+    "light": "Entladungslampe 1400 W",
+    "beamDeg": [
+      10,
+      60
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      23,
+      27
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "zoom",
+      "blades",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 44,
+    "url": "http://www.pr-lighting.com/product/index98.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-2925. Wash 1400 W."
+  },
+  {
+    "manufacturer": "PR Lighting",
+    "model": "AQUA Marine 580 Beam",
+    "kind": "beam",
+    "light": "Philips MSD Platinum 25R 550 W (opt. Osram Sirius HRI 550 W XL)",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      26,
+      30
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:18",
+      "prism",
+      "frost",
+      "focus",
+      "blades",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 40,
+    "url": "http://www.pr-lighting.com/product/index99.html",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Modellnr. PR-2568. IP66 Beam, Marine-Ausführung."
+  }
+]

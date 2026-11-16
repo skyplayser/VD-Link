@@ -1,0 +1,1647 @@
+[
+ {
+  "man": "LiteLEES",
+  "key": "1915-rgbw-zoom-par",
+  "model": "1915 RGBW Zoom Par",
+  "kind": "par",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   10,
+   40
+  ],
+  "ch": [
+   1,
+   5,
+   8,
+   23
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   230,
+   220,
+   310
+  ],
+  "url": "https://www.litelees.com/product/1915-rgbw-zoom-par/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "740-rgbw-zoom-par-ip",
+  "model": "740 RGBW Zoom Par IP",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "ch": [
+   10
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.litelees.com/product/740-rgbw-zoom-par-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 7 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "aria-par-750",
+  "model": "Aria Par 750",
+  "kind": "par",
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   5
+  ],
+  "size": [
+   210,
+   210,
+   222
+  ],
+  "url": "https://www.litelees.com/product/aria-par-750/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "big-eye-bar-l6010-ip",
+  "model": "BIG EYE BAR L6010 IP",
+  "kind": "tiltbar",
+  "leds": [
+   10,
+   "rgbw"
+  ],
+  "grid": [
+   1,
+   10
+  ],
+  "deg": [
+   5,
+   46
+  ],
+  "tilt": 220,
+  "ch": [
+   17,
+   27,
+   99,
+   108,
+   168,
+   170
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.litelees.com/product/big-eye-bar-l6010-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "big-eye-bar-l6010",
+  "model": "BIG EYE BAR L6010",
+  "kind": "tiltbar",
+  "leds": [
+   10,
+   "rgbw"
+  ],
+  "grid": [
+   1,
+   10
+  ],
+  "deg": [
+   2.8,
+   31
+  ],
+  "tilt": 220,
+  "ch": [
+   17,
+   27,
+   99,
+   108,
+   168
+  ],
+  "url": "https://www.litelees.com/product/big-eye-bar-l6010/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "big-eye-l1507-ip",
+  "model": "BIG EYE L1507 IP",
+  "kind": "wash",
+  "leds": [
+   7,
+   "rgba"
+  ],
+  "deg": [
+   3,
+   55
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "ch": [
+   21,
+   35,
+   42,
+   49,
+   56
+  ],
+  "pixelFrom": 35,
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.litelees.com/product/big-eye-l1507-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "big-eye-l4019-ip",
+  "model": "BIG EYE L4019 IP",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   55
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "ch": [
+   21,
+   35,
+   78,
+   92,
+   97
+  ],
+  "pixelFrom": 78,
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.litelees.com/product/big-eye-l4019-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "big-eye-l4019-pro",
+  "model": "BIG EYE L4019 PRO",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   55
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "ch": [
+   21,
+   35,
+   78,
+   92,
+   97
+  ],
+  "pixelFrom": 78,
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.litelees.com/product/big-eye-l4019-pro/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "big-eye-l6019-pro",
+  "model": "BIG EYE L6019 PRO",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   60
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "ch": [
+   23,
+   37,
+   80,
+   94,
+   99
+  ],
+  "pixelFrom": 80,
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.litelees.com/product/big-eye-l6019-pro/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "big-eye-l8019-ip",
+  "model": "BIG EYE L8019 IP",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   5,
+   55
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "ch": [
+   21,
+   35,
+   78,
+   92,
+   97
+  ],
+  "pixelFrom": 78,
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.litelees.com/product/big-eye-l8019-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "circle-battery-par-615-ip",
+  "model": "Circle Battery Par 615 IP",
+  "kind": "par",
+  "leds": [
+   6,
+   "rgbwauv"
+  ],
+  "deg": [
+   15,
+   15
+  ],
+  "ch": [
+   2,
+   6,
+   8,
+   11
+  ],
+  "size": [
+   155,
+   155,
+   173
+  ],
+  "url": "https://www.litelees.com/product/circle-battery-par-615-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "classic-par-2710",
+  "model": "Classic Par 2710",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   8
+  ],
+  "size": [
+   210,
+   210,
+   222
+  ],
+  "url": "https://www.litelees.com/product/classic-par-2710/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "eco-par-1812",
+  "model": "ECO Par 1812",
+  "kind": "par",
+  "leds": [
+   18,
+   "rgbw"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   4,
+   8
+  ],
+  "size": [
+   170,
+   170,
+   80
+  ],
+  "url": "https://www.litelees.com/product/eco-par-1812/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "fresnel-200",
+  "model": "Fresnel 200",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "wwcw"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   4
+  ],
+  "size": [
+   230,
+   220,
+   220
+  ],
+  "url": "https://www.litelees.com/product/fresnel-200/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "fresnel-zoom-600",
+  "model": "Fresnel ZOOM 600",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "wwcw"
+  ],
+  "deg": [
+   15,
+   50
+  ],
+  "ch": [
+   4
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.litelees.com/product/fresnel-600/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "fresnel-zoom-300",
+  "model": "Fresnel ZOOM 300",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "wwcw"
+  ],
+  "deg": [
+   15,
+   50
+  ],
+  "ch": [
+   5
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   390,
+   175,
+   220
+  ],
+  "url": "https://www.litelees.com/product/fresnel-zoom-300/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "l1537-wash",
+  "model": "L1537 WASH",
+  "kind": "wash",
+  "leds": [
+   37,
+   "rgbw"
+  ],
+  "deg": [
+   5,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   10,
+   15,
+   21,
+   25,
+   37
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.litelees.com/product/l1537-wash/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "l2537-wash",
+  "model": "L2537 WASH",
+  "kind": "wash",
+  "leds": [
+   37,
+   "rgbw"
+  ],
+  "deg": [
+   10,
+   60
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   15,
+   31,
+   35
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.litelees.com/product/l2537-wash/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "l4019-wash",
+  "model": "L4019 WASH",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   5,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   10,
+   15,
+   21,
+   25,
+   37
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.litelees.com/product/l4019-wash/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "le-beam-300",
+  "model": "LE BEAM 300",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "ch": [
+   18
+  ],
+  "feat": [
+   "gobo:15",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://www.litelees.com/product/le-beam-300/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "le-bsw-500",
+  "model": "LE-BSW 500",
+  "kind": "hybrid",
+  "deg": [
+   3,
+   45
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   31
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:10",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.litelees.com/product/le-bsw-500/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "le-bsw-700-ip",
+  "model": "LE-BSW 700 IP",
+  "kind": "hybrid",
+  "deg": [
+   5,
+   40
+  ],
+  "pan": 540,
+  "tilt": 540,
+  "ch": [
+   26
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:5",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.litelees.com/product/le-bsw-700-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "lumix-beam-420-ip",
+  "model": "LUMIX BEAM 420 IP",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "ch": [
+   16
+  ],
+  "feat": [
+   "gobo:15",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://www.litelees.com/product/litelees-lumix-beam-420-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "stormy-pixel-bar-1820-ip",
+  "model": "Stormy Pixel Bar 1820 IP",
+  "kind": "bar",
+  "leds": [
+   18,
+   "rgbw"
+  ],
+  "ch": [
+   4,
+   10,
+   34,
+   96
+  ],
+  "url": "https://www.litelees.com/product/litelipees-stormy-pixel-bar-1820/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "lp-profile-1000-ip",
+  "model": "LP Profile 1000 IP",
+  "kind": "profile",
+  "deg": [
+   4.5,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   34,
+   39,
+   56
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:6",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.litelees.com/product/lp-profile-1000-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "lp-profile-700",
+  "model": "LP Profile 700",
+  "kind": "profile",
+  "deg": [
+   5,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   37
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:6",
+   "gobor",
+   "gobo2",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.litelees.com/product/lp-profile-700/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "lp-profile-900",
+  "model": "LP Profile 900",
+  "kind": "profile",
+  "deg": [
+   5,
+   50
+  ],
+  "pan": 540,
+  "ch": [
+   35
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:6",
+   "gobor",
+   "gobo2",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.litelees.com/product/lp-profile-900/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "ls-beam-350-250",
+  "model": "LS BEAM 350/250",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "tilt": 540,
+  "ch": [
+   16,
+   20
+  ],
+  "feat": [
+   "gobo:13",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://www.litelees.com/product/ls-beam-350-250/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "magic-cube-v6-ip",
+  "model": "Magic Cube V6 IP",
+  "kind": "effect",
+  "leds": [
+   16,
+   "rgbw"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   8
+  ],
+  "url": "https://www.litelees.com/product/magic-cube-v6-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "magic-cube-v8-ip",
+  "model": "Magic Cube V8 IP",
+  "kind": "effect",
+  "leds": [
+   4,
+   "wwcw"
+  ],
+  "ch": [
+   6,
+   8,
+   12
+  ],
+  "url": "https://www.litelees.com/product/magic-cube-v8-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "mini-battery-par-412",
+  "model": "MINI Battery Par 412",
+  "kind": "par",
+  "leds": [
+   4,
+   "rgbwauv"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   10
+  ],
+  "size": [
+   153,
+   145,
+   60
+  ],
+  "url": "https://www.litelees.com/product/mini-battery-par-412/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "mini-eye-l3019-ip",
+  "model": "MINI EYE L3019 IP",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   5,
+   55
+  ],
+  "pan": 540,
+  "tilt": 540,
+  "ch": [
+   17,
+   29,
+   32,
+   33
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.litelees.com/product/mini-eye-l3019-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 464 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "mini-profile-100",
+  "model": "Mini Profile 100",
+  "kind": "ellipsoidal",
+  "deg": [
+   15,
+   15
+  ],
+  "ch": [
+   2
+  ],
+  "size": [
+   390,
+   190,
+   135
+  ],
+  "url": "https://www.litelees.com/product/mini-profile-100/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "mini-profile-80w-ip",
+  "model": "Mini Profile 80W IP",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   15,
+   30
+  ],
+  "ch": [
+   4
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   380,
+   200,
+   280
+  ],
+  "url": "https://www.litelees.com/product/mini-profile-80-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "p10-flood-light-ip",
+  "model": "P10 Flood Light IP",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   8,
+   13,
+   16,
+   21,
+   33,
+   48
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   570,
+   150,
+   320
+  ],
+  "url": "https://www.litelees.com/product/p10-flood-light-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "p5-flood-light-ip",
+  "model": "P5 Flood Light IP",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   4,
+   6,
+   9
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   570,
+   150,
+   320
+  ],
+  "url": "https://www.litelees.com/product/p5-flood-light-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "pixel-bar-1812",
+  "model": "Pixel Bar 1812",
+  "kind": "bar",
+  "leds": [
+   18,
+   "rgbw"
+  ],
+  "ch": [
+   10,
+   72,
+   78
+  ],
+  "pixelFrom": 72,
+  "url": "https://www.litelees.com/product/pixel-bar-1812/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "profile-200",
+  "model": "Profile 200",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "wwcw"
+  ],
+  "deg": [
+   19,
+   19
+  ],
+  "ch": [
+   4
+  ],
+  "size": [
+   390,
+   175,
+   220
+  ],
+  "url": "https://www.litelees.com/product/profile-200/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "profile-300",
+  "model": "Profile 300",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "wwcw"
+  ],
+  "deg": [
+   19,
+   19
+  ],
+  "ch": [
+   4
+  ],
+  "size": [
+   390,
+   175,
+   220
+  ],
+  "url": "https://www.litelees.com/product/profile-300/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "profile-300w-ip",
+  "model": "Profile 300W IP",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   15,
+   40
+  ],
+  "ch": [
+   4
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.litelees.com/product/profile-300w-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "smart-battery-par-618",
+  "model": "Smart Battery Par 618",
+  "kind": "par",
+  "leds": [
+   6,
+   "rgbwauv"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   6,
+   10
+  ],
+  "url": "https://www.litelees.com/product/smart-battery-par-618/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "stormy-battery-flood-light-1820-ip",
+  "model": "Stormy Battery Flood Light 1820 IP",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgbwauv"
+  ],
+  "deg": [
+   20,
+   20
+  ],
+  "ch": [
+   2,
+   4
+  ],
+  "url": "https://www.litelees.com/product/stormy-battery-flood-light-1820-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "stormy-battery-par-1212-ip",
+  "model": "Stormy Battery Par 1212 IP",
+  "kind": "par",
+  "leds": [
+   12,
+   "rgbwauv"
+  ],
+  "ch": [
+   1,
+   6,
+   8
+  ],
+  "url": "https://www.litelees.com/product/stormy-battery-par-1212-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "stormy-battery-par-420-ip",
+  "model": "Stormy Battery Par 420 IP",
+  "kind": "par",
+  "leds": [
+   4,
+   "rgbwauv"
+  ],
+  "deg": [
+   10,
+   10
+  ],
+  "ch": [
+   2,
+   6,
+   8,
+   11
+  ],
+  "size": [
+   160,
+   160,
+   200
+  ],
+  "url": "https://www.litelees.com/product/stormy-battery-par-420-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "stormy-battery-par-620-ip",
+  "model": "Stormy Battery Par 620 IP",
+  "kind": "par",
+  "leds": [
+   6,
+   "rgbwauv"
+  ],
+  "deg": [
+   10,
+   10
+  ],
+  "ch": [
+   2,
+   4
+  ],
+  "size": [
+   195,
+   143,
+   254
+  ],
+  "url": "https://www.litelees.com/product/stormy-battery-par-620-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "stormy-battery-par-720-ip",
+  "model": "Stormy Battery Par 720 IP",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbwauv"
+  ],
+  "deg": [
+   10,
+   10
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   6,
+   8
+  ],
+  "url": "https://www.litelees.com/product/stormy-battery-par-720-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "stormy-battery-par-918-ip",
+  "model": "Stormy Battery Par 918 IP",
+  "kind": "par",
+  "leds": [
+   9,
+   "rgbwauv"
+  ],
+  "deg": [
+   30,
+   30
+  ],
+  "ch": [
+   6,
+   8,
+   10
+  ],
+  "url": "https://www.litelees.com/product/stormy-battery-par-918-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "stormy-blinder-400-ip",
+  "model": "Stormy Blinder 400 IP",
+  "kind": "blinder",
+  "leds": [
+   2,
+   "ww"
+  ],
+  "deg": [
+   60,
+   60
+  ],
+  "ch": [
+   8
+  ],
+  "pixelFrom": 8,
+  "url": "https://www.litelees.com/product/stormy-blinder-400-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "stormy-blinder-800-ip",
+  "model": "Stormy Blinder 800 IP",
+  "kind": "blinder",
+  "leds": [
+   4,
+   "ww"
+  ],
+  "deg": [
+   60,
+   60
+  ],
+  "ch": [
+   12
+  ],
+  "pixelFrom": 12,
+  "size": [
+   360,
+   360,
+   200
+  ],
+  "url": "https://www.litelees.com/product/stormy-blinder-800-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "stormy-flash-550-ip",
+  "model": "Stormy Flash 550 IP",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "ch": [
+   7,
+   15,
+   17,
+   21,
+   33,
+   39,
+   65,
+   68,
+   70,
+   112,
+   117
+  ],
+  "feat": [
+   "frost"
+  ],
+  "url": "https://www.litelees.com/product/stormy-flash-550-lp/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "stormy-pixel-bar-1812-ip",
+  "model": "Stormy Pixel Bar 1812 IP",
+  "kind": "bar",
+  "leds": [
+   18,
+   "rgbw"
+  ],
+  "deg": [
+   15,
+   15
+  ],
+  "ch": [
+   6,
+   10,
+   28,
+   108
+  ],
+  "url": "https://www.litelees.com/product/stormy-pixel-bar-1812-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "stormy-shake-blinder-ip",
+  "model": "Stormy Shake Blinder IP",
+  "kind": "blinder",
+  "deg": [
+   60,
+   60
+  ],
+  "ch": [
+   8,
+   12
+  ],
+  "size": [
+   650,
+   140,
+   394
+  ],
+  "url": "https://www.litelees.com/product/stormy-shake-blinder-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "stormy-strike-m-ip",
+  "model": "Stormy STRIKE M IP",
+  "kind": "strobe",
+  "leds": [
+   14,
+   "rgb"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   8,
+   11,
+   13,
+   18,
+   24,
+   25,
+   95
+  ],
+  "url": "https://www.litelees.com/product/stormy-strike-m-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "stormy-strike-m-pro-ip",
+  "model": "Stormy Strike M PRO IP",
+  "kind": "strobe",
+  "leds": [
+   14,
+   "rgb"
+  ],
+  "deg": [
+   60,
+   60
+  ],
+  "ch": [
+   8,
+   11,
+   13,
+   24,
+   30,
+   47,
+   68,
+   74,
+   97
+  ],
+  "pixelFrom": 47,
+  "size": [
+   406,
+   202,
+   335
+  ],
+  "url": "https://www.litelees.com/product/stormy-strike-m-pro-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "stormy-strip-duo-ip",
+  "model": "Stormy Strip Duo IP",
+  "kind": "bar",
+  "deg": [
+   3.8,
+   3.8
+  ],
+  "ch": [
+   12,
+   21,
+   26,
+   28,
+   32,
+   35,
+   39,
+   42,
+   46,
+   53,
+   56
+  ],
+  "url": "https://www.litelees.com/product/stormy-strip-duo-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "stormy-strobe-500-ip",
+  "model": "Stormy Strobe 500 IP",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "rgbw"
+  ],
+  "ch": [
+   4,
+   12,
+   120
+  ],
+  "url": "https://www.litelees.com/product/stormy-strobe-500-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "stormy-strobe-700-ip",
+  "model": "Stormy Strobe 700 IP",
+  "kind": "strobe",
+  "leds": [
+   30,
+   "rgb"
+  ],
+  "ch": [
+   6,
+   8,
+   19,
+   33,
+   73,
+   141
+  ],
+  "url": "https://www.litelees.com/product/stormy-strobe-700-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "stormy-strobe-bar-ip",
+  "model": "Stormy Strobe Bar IP",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "ch": [
+   7,
+   15,
+   17,
+   21,
+   33,
+   39,
+   65,
+   68,
+   70,
+   112,
+   117
+  ],
+  "feat": [
+   "frost"
+  ],
+  "url": "https://www.litelees.com/product/stormy-strobe-bar-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "stormy-strobe-m-3000-ip",
+  "model": "Stormy Strobe M 3000 IP",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   6,
+   20,
+   41
+  ],
+  "size": [
+   650,
+   220,
+   310
+  ],
+  "url": "https://www.litelees.com/product/stormy-strobe-m-3000-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 444 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "stormy-supreme-600-ip",
+  "model": "Stormy Supreme 600 IP",
+  "kind": "strobe",
+  "leds": [
+   30,
+   "rgb"
+  ],
+  "ch": [
+   15,
+   29,
+   33,
+   86,
+   152
+  ],
+  "url": "https://www.litelees.com/product/stormy-supreme-600-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "super-hero-470-pro",
+  "model": "SUPER HERO 470 PRO",
+  "kind": "hybrid",
+  "deg": [
+   4,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   30,
+   34
+  ],
+  "feat": [
+   "cmy",
+   "gobo:18",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.litelees.com/product/super-hero-470-pro/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "tornadot-5-ip",
+  "model": "TORNADOT 5 IP",
+  "kind": "multihead",
+  "leds": [
+   5,
+   "rgbl"
+  ],
+  "deg": [
+   3.5,
+   45
+  ],
+  "ch": [
+   21,
+   41,
+   71,
+   75,
+   85,
+   170
+  ],
+  "pixelFrom": 21,
+  "url": "https://www.litelees.com/product/tornadot-5-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "tornadot-5",
+  "model": "TORNADOT 5",
+  "kind": "multihead",
+  "leds": [
+   5,
+   "rgb"
+  ],
+  "deg": [
+   4,
+   35
+  ],
+  "tilt": 60,
+  "ch": [
+   41,
+   71,
+   75,
+   85,
+   170
+  ],
+  "url": "https://www.litelees.com/product/tornadot-5/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "LiteLEES",
+  "key": "volero-1000-ip",
+  "model": "Volero 1000 IP",
+  "kind": "bar",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "deg": [
+   4.5,
+   36
+  ],
+  "ch": [
+   26,
+   59,
+   128,
+   182
+  ],
+  "pixelFrom": 59,
+  "size": [
+   1000,
+   232,
+   320
+  ],
+  "url": "https://www.litelees.com/product/volero-1000-ip/",
+  "note": "Steckbrief aus Herstellerangaben (litelees.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 314, 329 verworfen (unplausibel).",
+  "verified": false
+ }
+]

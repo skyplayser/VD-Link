@@ -1,0 +1,4532 @@
+[
+ {
+  "manufacturer": "Cameo",
+  "model": "AZOR B1",
+  "kind": "beam",
+  "light": "100 W Kaltweiß-LED",
+  "beamDeg": [
+   2.0,
+   2.0
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": null,
+  "features": [
+   "colorwheel",
+   "gobo",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   306,
+   437,
+   220
+  ],
+  "weightKg": 13.9,
+  "url": "https://www.cameolight.com/de/loesungen/rental/bewegtes-licht/beam-moving-heads/19886/azor-b1",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLAB1",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "2 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "AZOR S2",
+  "kind": "spot",
+  "light": "300 W Kaltweiß-LED",
+  "beamDeg": [
+   5.0,
+   5.0
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": null,
+  "features": [
+   "cmy",
+   "colorwheel",
+   "gobo",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   372,
+   601,
+   238
+  ],
+  "weightKg": 19.7,
+  "url": "https://www.cameolight.com/de/loesungen/rental/bewegtes-licht/spot-moving-heads/28489/azor-s2",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLAZORS2",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "3 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "AZOR SP2",
+  "kind": "profile",
+  "light": "300 W Weiß COB-LED",
+  "beamDeg": [
+   3.0,
+   50.0
+  ],
+  "pan": 630,
+  "tilt": 270,
+  "channels": null,
+  "features": [
+   "cmy",
+   "cto",
+   "focus",
+   "framing",
+   "frost",
+   "iris",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   371,
+   647,
+   238
+  ],
+  "weightKg": 24.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/bewegtes-licht/profile-moving-heads/30571/azor-sp2",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLAZORSP2",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "3 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "AZOR SP2 IP",
+  "kind": "profile",
+  "light": "300 W Weiß COB-LED",
+  "beamDeg": [
+   3.0,
+   51.0
+  ],
+  "pan": 630,
+  "tilt": 270,
+  "channels": null,
+  "features": [
+   "cmy",
+   "colorwheel",
+   "cto",
+   "focus",
+   "framing",
+   "frost",
+   "ip65",
+   "iris",
+   "prism",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   412,
+   654,
+   257
+  ],
+  "weightKg": 25.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/bewegtes-licht/spot-moving-heads/31240/azor-sp2-ip",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLAZORSP2IP",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "3 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "AZOR W2",
+  "kind": "wash",
+  "light": "7 x 40 W RGBL-LED | 48 x 2 W Kaltweiß-LED",
+  "beamDeg": [
+   4.0,
+   50.0
+  ],
+  "pan": 630,
+  "tilt": 250,
+  "channels": null,
+  "features": [
+   "iris",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   308,
+   414,
+   193
+  ],
+  "weightKg": 8.6,
+  "url": "https://www.cameolight.com/de/loesungen/rental/bewegtes-licht/wash-moving-heads/30572/azor-w2",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLAZORW2",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "9 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "CL 200 G2",
+  "kind": "ellipsoidal",
+  "light": "200 W Weiß COB-LED",
+  "beamDeg": [
+   25.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   170,
+   170,
+   380
+  ],
+  "weightKg": 4.2,
+  "url": "https://www.cameolight.com/de/loesungen/theater-broadcast/statisches-licht/theaterscheinwerfer/20950/cl-200-g2",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLCL200G2",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "6 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "CL 200 RB",
+  "kind": null,
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 0.9,
+  "url": "https://www.cameolight.com/de/loesungen/rental/zubehoer/20910/cl-200-rb",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLCL200RB",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "D FORCE 3000 RGB",
+  "kind": "laser",
+  "light": "Laserdiode",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   246,
+   238,
+   175
+  ],
+  "weightKg": 7.9,
+  "url": "https://www.cameolight.com/de/loesungen/rental/laser/showlaser/18299/d-force-3000-rgb",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLLDFORCE3000RGB",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "D FORCE 5000 RGB",
+  "kind": "laser",
+  "light": "Laserdiode",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   254,
+   175,
+   300
+  ],
+  "weightKg": 7.9,
+  "url": "https://www.cameolight.com/de/loesungen/rental/laser/showlaser/19245/d-force-5000-rgb",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLLDFORCE5000RGB",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "DROP B1",
+  "kind": "par",
+  "light": "15 W RGBWA+UV-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "battery/wireless",
+   "ip65",
+   "iris",
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 1.0,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/outdoor-lichttechnik/outdoor-scheinwerfer/20769/drop-b1",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLDROPB1",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "7 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "DROP B1 WH",
+  "kind": "par",
+  "light": "15 W RGBWA+UV-LED",
+  "beamDeg": [
+   9.0,
+   18.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "battery/wireless",
+   "ip65",
+   "iris",
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 1.0,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/outdoor-lichttechnik/outdoor-scheinwerfer/20770/drop-b1-wh",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLDROPB1WH",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "7 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "DROP B4",
+  "kind": "bar",
+  "light": "4 x 15 W RGBWA+UV-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "battery/wireless",
+   "ip65",
+   "iris",
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 3.1,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/outdoor-lichttechnik/outdoor-scheinwerfer/20771/drop-b4",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLDROPB4",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "6 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "DROP B4 WH",
+  "kind": "bar",
+  "light": "4 x 15 W RGBWA+UV-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "battery/wireless",
+   "ip65",
+   "iris",
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   2479,
+   2368,
+   172
+  ],
+  "weightKg": 31.0,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/outdoor-lichttechnik/outdoor-scheinwerfer/20772/drop-b4-wh",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLDROPB4WH",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "6 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "DROP P4",
+  "kind": "par",
+  "light": "4 x 15 W RGBWA+UV-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris",
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 3.1,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/outdoor-lichttechnik/outdoor-scheinwerfer/20815/drop-p4",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLDROPP4",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "DURA LINE 100",
+  "kind": "bar",
+  "light": "28 x 4 W RGBW-LED",
+  "beamDeg": [
+   12.0,
+   40.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   978,
+   101,
+   77
+  ],
+  "weightKg": 5.6,
+  "url": "https://www.cameolight.com/de/loesungen/architektur/outdoor-lichttechnik/outdoor-scheinwerfer/30732/dura-line-100",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLDL100",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "9 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "DURA LINE 50",
+  "kind": "bar",
+  "light": "14 x 4 W RGBW-LED",
+  "beamDeg": [
+   12.0,
+   40.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   490,
+   101,
+   77
+  ],
+  "weightKg": 2.7,
+  "url": "https://www.cameolight.com/de/loesungen/architektur/outdoor-lichttechnik/outdoor-scheinwerfer/30727/dura-line-50",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLDL50",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "9 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "DURA SPOT 100",
+  "kind": "par",
+  "light": "6 x 20 W RGBW COB-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   287,
+   302,
+   239
+  ],
+  "weightKg": 8.77,
+  "url": "https://www.cameolight.com/de/loesungen/architektur/outdoor-lichttechnik/outdoor-scheinwerfer/29189/dura-spot-100",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLDS100",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "DURA SPOT 200",
+  "kind": "par",
+  "light": "12 x 20 W RGBW COB-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   282,
+   250,
+   284
+  ],
+  "weightKg": 13.09,
+  "url": "https://www.cameolight.com/de/loesungen/architektur/outdoor-lichttechnik/outdoor-scheinwerfer/29190/dura-spot-200",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLDS200",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "DURA SPOT 400",
+  "kind": "par",
+  "light": "20 x 20 W RGBW COB-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   423,
+   443,
+   285
+  ],
+  "weightKg": 19.31,
+  "url": "https://www.cameolight.com/de/loesungen/architektur/outdoor-lichttechnik/outdoor-scheinwerfer/29191/dura-spot-400",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLDS400",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "DURA SPOT 60",
+  "kind": "par",
+  "light": "3 x 20 W RGBW COB-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   209,
+   209,
+   203
+  ],
+  "weightKg": 4.0,
+  "url": "https://www.cameolight.com/de/loesungen/architektur/outdoor-lichttechnik/outdoor-scheinwerfer/29192/dura-spot-60",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLDS60",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "EVOS W3",
+  "kind": "wash",
+  "light": "7 x 40 W RGBWW-LED",
+  "beamDeg": [
+   4.5,
+   7.0
+  ],
+  "pan": 540,
+  "tilt": 235,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   290,
+   251,
+   350
+  ],
+  "weightKg": 7.8,
+  "url": "https://www.cameolight.com/de/loesungen/rental/bewegtes-licht/wash-moving-heads/20664/evos-w3",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLEW3",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "5 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "F1 D",
+  "kind": "fresnel",
+  "light": null,
+  "beamDeg": [
+   15.0,
+   53.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 4.5,
+  "url": "https://www.cameolight.com/de/loesungen/rental/statisches-licht/theaterscheinwerfer/20929/f1-d",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLF1D",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "F1 FC",
+  "kind": "fresnel",
+  "light": null,
+  "beamDeg": [
+   15.0,
+   26.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   225,
+   255,
+   280
+  ],
+  "weightKg": 4.5,
+  "url": "https://www.cameolight.com/de/loesungen/rental/statisches-licht/theaterscheinwerfer/20932/f1-fc",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLF1FC",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "F1 T",
+  "kind": "fresnel",
+  "light": "78 W Variable Weiß-LED",
+  "beamDeg": [
+   15.0,
+   24.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   225,
+   255,
+   280
+  ],
+  "weightKg": 45.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/statisches-licht/theaterscheinwerfer/20930/f1-t",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLF1T",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "6 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "F2 D",
+  "kind": "fresnel",
+  "light": null,
+  "beamDeg": [
+   16.0,
+   40.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   270,
+   292,
+   322
+  ],
+  "weightKg": 9.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/statisches-licht/theaterscheinwerfer/19606/f2-d",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLF2D",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "F2 D IP",
+  "kind": "fresnel",
+  "light": null,
+  "beamDeg": [
+   16.0,
+   40.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   270,
+   292,
+   322
+  ],
+  "weightKg": 10.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/outdoor-lichttechnik/outdoor-scheinwerfer/28452/f2-d-ip",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLF2DIP",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "F2 FC",
+  "kind": "fresnel",
+  "light": "250 W RGBW-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   270,
+   292,
+   322
+  ],
+  "weightKg": 9.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/statisches-licht/theaterscheinwerfer/19891/f2-fc",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLF2FC",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "10 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "F2 FC IP",
+  "kind": "fresnel",
+  "light": "240 W RGBW COB-LED",
+  "beamDeg": [
+   17.0,
+   30.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   270,
+   292,
+   322
+  ],
+  "weightKg": 10.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/outdoor-lichttechnik/outdoor-scheinwerfer/28453/f2-fc-ip",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLF2FCIP",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "10 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "F2 FC PO",
+  "kind": "fresnel",
+  "light": "240 W RGBW-LED",
+  "beamDeg": [
+   17.0,
+   30.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   357,
+   573,
+   322
+  ],
+  "weightKg": 11.6,
+  "url": "https://www.cameolight.com/de/loesungen/rental/statisches-licht/theaterscheinwerfer/20476/f2-fc-po",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLF2FCPO",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "10 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "F2 FC+",
+  "kind": "fresnel",
+  "light": null,
+  "beamDeg": [
+   18.0,
+   55.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   302,
+   433,
+   442
+  ],
+  "weightKg": 9.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/statisches-licht/theaterscheinwerfer/30729/f2-fc",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLF2FCPLUS",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "11 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "F2 T",
+  "kind": "fresnel",
+  "light": "240 W Variable Weiß-LED",
+  "beamDeg": [
+   16.0,
+   28.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   270,
+   292,
+   322
+  ],
+  "weightKg": 9.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/statisches-licht/theaterscheinwerfer/19607/f2-t",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLF2T",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "6 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "F2 T IP",
+  "kind": "fresnel",
+  "light": "240 W Warmweiß-LED",
+  "beamDeg": [
+   16.0,
+   28.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   270,
+   292,
+   322
+  ],
+  "weightKg": 10.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/outdoor-lichttechnik/outdoor-scheinwerfer/28454/f2-t-ip",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLF2TIP",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "6 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "F4 FC",
+  "kind": "fresnel",
+  "light": "570 W RGBW-LED",
+  "beamDeg": [
+   12.0,
+   12.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   410,
+   364,
+   433
+  ],
+  "weightKg": 17.8,
+  "url": "https://www.cameolight.com/de/loesungen/rental/statisches-licht/theaterscheinwerfer/20653/f4-fc",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLF4FC",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "11 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "F4 FC PO IP",
+  "kind": "fresnel",
+  "light": "570 W RGBW-LED",
+  "beamDeg": [
+   14.0,
+   24.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   433,
+   420,
+   531
+  ],
+  "weightKg": 25.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/outdoor-lichttechnik/outdoor-scheinwerfer/20935/f4-fc-po-ip",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLF4FCPOIP",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "10 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "F4 T",
+  "kind": "fresnel",
+  "light": "520 W Variable Weiß-LED",
+  "beamDeg": [
+   12.0,
+   24.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   410,
+   364,
+   433
+  ],
+  "weightKg": 17.8,
+  "url": "https://www.cameolight.com/de/loesungen/rental/statisches-licht/theaterscheinwerfer/20654/f4-t",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLF4T",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "6 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "F4 T PO IP",
+  "kind": "fresnel",
+  "light": "520 W Variable Weiß-LED",
+  "beamDeg": [
+   14.0,
+   24.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   433,
+   420,
+   531
+  ],
+  "weightKg": 25.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/outdoor-lichttechnik/outdoor-scheinwerfer/20936/f4-t-po-ip",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLF4TPOIP",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "FLAT PRO 12 G2",
+  "kind": "par",
+  "light": "12 x 10 W RGBWA-LED",
+  "beamDeg": [
+   30.0,
+   30.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   292,
+   300,
+   156
+  ],
+  "weightKg": 6.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/outdoor-lichttechnik/outdoor-scheinwerfer/20836/flat-pro-12-g2",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLPFLATPRO12G2",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "7 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "FLAT PRO 18 G2",
+  "kind": "par",
+  "light": "18 x 10 W RGBWA-LED",
+  "beamDeg": [
+   30.0,
+   30.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   339,
+   353,
+   170
+  ],
+  "weightKg": 7.5,
+  "url": "https://www.cameolight.com/de/loesungen/rental/outdoor-lichttechnik/outdoor-scheinwerfer/20837/flat-pro-18-g2",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLPFLATPRO18G2",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "7 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "FLAT PRO 7 G2",
+  "kind": "par",
+  "light": "7 x 10 W RGBWA-LED",
+  "beamDeg": [
+   30.0,
+   30.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   241,
+   253,
+   142
+  ],
+  "weightKg": 4.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/outdoor-lichttechnik/outdoor-scheinwerfer/20838/flat-pro-7-g2",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLPFLATPRO7G2",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "7 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "FLOOD 600 IP65",
+  "kind": "flood",
+  "light": "54 x 12 W RGBWA+UV-LED",
+  "beamDeg": [
+   40.0,
+   40.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris",
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   180,
+   180,
+   120
+  ],
+  "weightKg": 3.2,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/statisches-licht/schwarzlicht-blacklights/9564/flood-600-ip65",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLFLOOD600IP65",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "6 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "G4 FC",
+  "kind": "flood",
+  "light": "40 W RGBL-LED",
+  "beamDeg": [
+   5.0,
+   5.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 13.0,
+  "url": "https://www.cameolight.com/de/loesungen/architektur/statisches-licht/punktstrahler/28889/g4-fc",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLG4FCWH",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "G4 N",
+  "kind": "flood",
+  "light": "40 W Tageslicht-Weiß COB-LED",
+  "beamDeg": [
+   5.0,
+   5.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 13.0,
+  "url": "https://www.cameolight.com/de/loesungen/architektur/statisches-licht/punktstrahler/28892/g4-n",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLG4N",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "G4 T",
+  "kind": "flood",
+  "light": "40 W Variable Weiß-LED",
+  "beamDeg": [
+   5.0,
+   5.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 1.3,
+  "url": "https://www.cameolight.com/de/loesungen/architektur/statisches-licht/punktstrahler/28896/g4-t",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLG4TWH",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "G4 TW",
+  "kind": "flood",
+  "light": "40 W Variable Weiß-LED",
+  "beamDeg": [
+   5.0,
+   5.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 1.3,
+  "url": "https://www.cameolight.com/de/loesungen/architektur/statisches-licht/punktstrahler/28897/g4-tw",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLG4TWWH",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "H1 D",
+  "kind": "par",
+  "light": null,
+  "beamDeg": [
+   20.0,
+   65.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 3.0,
+  "url": "https://www.cameolight.com/de/loesungen/architektur/statisches-licht/saalbeleuchtung/25729/h1-d",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLH1D",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "H1 FC",
+  "kind": "par",
+  "light": "120 W RGBAL COB-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 3.0,
+  "url": "https://www.cameolight.com/de/loesungen/architektur/statisches-licht/saalbeleuchtung/25731/h1-fc",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLH1FC",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "H1 FC WH",
+  "kind": "par",
+  "light": "120 W RGBAL COB-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 3.0,
+  "url": "https://www.cameolight.com/de/loesungen/architektur/statisches-licht/saalbeleuchtung/25732/h1-fc-wh",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLH1FCWH",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "H1 T",
+  "kind": "par",
+  "light": "80 W Variable Weiß COB-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 3.0,
+  "url": "https://www.cameolight.com/de/loesungen/architektur/statisches-licht/saalbeleuchtung/25737/h1-t",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLH1T",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "H1 T WH",
+  "kind": "par",
+  "light": "80 W Warmweiß-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 28.0,
+  "url": "https://www.cameolight.com/de/loesungen/architektur/statisches-licht/saalbeleuchtung/25738/h1-t-wh",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLH1TWH",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "H2 D",
+  "kind": "par",
+  "light": null,
+  "beamDeg": [
+   20.0,
+   60.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 8.3,
+  "url": "https://www.cameolight.com/de/loesungen/architektur/statisches-licht/saalbeleuchtung/20670/h2-d",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLH2D",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "H2 D WH",
+  "kind": "par",
+  "light": "150 W Tageslicht-Weiß COB-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 8.3,
+  "url": "https://www.cameolight.com/de/loesungen/architektur/statisches-licht/saalbeleuchtung/20677/h2-d-wh",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLH2DWH",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "3 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "H2 FC",
+  "kind": "par",
+  "light": "180 W RGBAL COB-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 8.3,
+  "url": "https://www.cameolight.com/de/loesungen/architektur/statisches-licht/saalbeleuchtung/20671/h2-fc",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLH2FC",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "H2 FC WH",
+  "kind": "par",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 8.3,
+  "url": "https://www.cameolight.com/de/loesungen/architektur/statisches-licht/saalbeleuchtung/20678/h2-fc-wh",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLH2FCWH",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "9 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "H2 T",
+  "kind": "par",
+  "light": "150 W Variable Weiß COB-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 8.3,
+  "url": "https://www.cameolight.com/de/loesungen/architektur/statisches-licht/saalbeleuchtung/20672/h2-t",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLH2T",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "H2 T WH",
+  "kind": "par",
+  "light": "150 W Variable Weiß-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 8.3,
+  "url": "https://www.cameolight.com/de/loesungen/architektur/statisches-licht/saalbeleuchtung/20679/h2-t-wh",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLH2TWH",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "HYDRABEAM 4000 RGBW",
+  "kind": "beam",
+  "light": "4 x 32 W RGBW-LED",
+  "beamDeg": [
+   2.5,
+   2.5
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   90,
+   270,
+   1000
+  ],
+  "weightKg": 11.6,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/bewegtes-licht/lichteffekte/16495/hydrabeam-4000-rgbw",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLHB4000RGBW",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "5 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "LEYA 2000 RGB",
+  "kind": "laser",
+  "light": "Laserdiode",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   192,
+   114,
+   238
+  ],
+  "weightKg": 4.2,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/laser/showlaser/30323/leya-2000-rgb",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLLLEYA2000RGB",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "LEYA 3000 RGB",
+  "kind": "laser",
+  "light": "Laserdiode",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   192,
+   114,
+   238
+  ],
+  "weightKg": 4.2,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/laser/showlaser/30324/leya-3000-rgb",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLLLEYA3000RGB",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "LUXIS FC",
+  "kind": "par",
+  "light": "200 W RGBALC COB-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   302,
+   466,
+   216
+  ],
+  "weightKg": 7.9,
+  "url": "https://www.cameolight.com/de/loesungen/rental/statisches-licht/par-scheinwerfer/26404/luxis-fc",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLLUXISFC",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "10 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "MATRIX PANEL 10 W RGB",
+  "kind": "effect",
+  "light": "25 x 10 W RGB-LED",
+  "beamDeg": [
+   40.0,
+   40.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris",
+   "pixel-control"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   580,
+   580,
+   125
+  ],
+  "weightKg": 13.7,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/bewegtes-licht/lichteffekte/18996/matrix-panel-10-w-rgb",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLMP10WRGB",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "5 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "MOVO BEAM 200",
+  "kind": "beam",
+  "light": "72 x 0.2 W RGBW-LED",
+  "beamDeg": [
+   2.0,
+   2.0
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   287,
+   410,
+   206
+  ],
+  "weightKg": 8.0,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/bewegtes-licht/moving-heads/25591/movo-beam-200",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLMB200",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "3 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "NANOBEAM 600",
+  "kind": "beam",
+  "light": "60 W RGBW-LED",
+  "beamDeg": [
+   52.0,
+   52.0
+  ],
+  "pan": 540,
+  "tilt": 240,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   145,
+   240,
+   155
+  ],
+  "weightKg": 3.0,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/bewegtes-licht/moving-heads/20447/nanobeam-600",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLNB600",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "5 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "OPUS H6 IP",
+  "kind": "hybrid",
+  "light": "600 W Weiß COB-LED",
+  "beamDeg": [
+   1.8,
+   53.0
+  ],
+  "pan": 630,
+  "tilt": 270,
+  "channels": null,
+  "features": [
+   "cmy",
+   "colorwheel",
+   "cto",
+   "endless-pan/tilt",
+   "frost",
+   "gobo",
+   "ip65",
+   "iris",
+   "prism",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   408,
+   688,
+   258
+  ],
+  "weightKg": 30.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/outdoor-lichttechnik/outdoor-scheinwerfer/32178/opus-h6-ip",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLOH6IP",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "OPUS SP5 FC",
+  "kind": "spot",
+  "light": "300 W RGBAL-LED",
+  "beamDeg": [
+   6.0,
+   6.0
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": null,
+  "features": [
+   "frost",
+   "gobo",
+   "iris",
+   "prism"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   380,
+   710,
+   250
+  ],
+  "weightKg": 28.95,
+  "url": "https://www.cameolight.com/de/loesungen/rental/bewegtes-licht/profile-moving-heads/19892/opus-sp5-fc",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLOSP5FC",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "4 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "OPUS SP5+",
+  "kind": "spot",
+  "light": "500 W Kaltweiß-LED",
+  "beamDeg": [
+   6.0,
+   6.0
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": null,
+  "features": [
+   "cmy",
+   "cto",
+   "gobo",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   380,
+   710,
+   250
+  ],
+  "weightKg": 27.8,
+  "url": "https://www.cameolight.com/de/loesungen/rental/bewegtes-licht/profile-moving-heads/29239/opus-sp5",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLOSP5PLUS",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "2 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "OPUS SP6 FC",
+  "kind": "spot",
+  "light": "600 W RGBALC-LED",
+  "beamDeg": null,
+  "pan": 630,
+  "tilt": 270,
+  "channels": null,
+  "features": [
+   "framing",
+   "frost",
+   "gobo",
+   "iris",
+   "prism"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   408,
+   772,
+   273
+  ],
+  "weightKg": 33.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/bewegtes-licht/profile-moving-heads/32179/opus-sp6-fc",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLOSP6FC",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "OPUS SP6 IP",
+  "kind": "spot",
+  "light": "600 W Weiß COB-LED",
+  "beamDeg": [
+   3.5,
+   53.0
+  ],
+  "pan": 630,
+  "tilt": 270,
+  "channels": null,
+  "features": [
+   "cmy",
+   "colorwheel",
+   "cto",
+   "endless-pan/tilt",
+   "framing",
+   "frost",
+   "gobo",
+   "ip65",
+   "iris",
+   "prism",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   408,
+   681,
+   268
+  ],
+  "weightKg": 31.5,
+  "url": "https://www.cameolight.com/de/loesungen/rental/bewegtes-licht/profile-moving-heads/32180/opus-sp6-ip",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLOSP6IP",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "3 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "OPUS W5",
+  "kind": "wash",
+  "light": "380 W Kaltweiß COB-LED",
+  "beamDeg": [
+   6.0,
+   6.0
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": null,
+  "features": [
+   "cmy",
+   "colorwheel",
+   "cto",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   400,
+   250,
+   630
+  ],
+  "weightKg": 24.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/bewegtes-licht/wash-moving-heads/25590/opus-w5",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLOW5",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "2 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "OPUS X PROFILE",
+  "kind": "profile",
+  "light": "750 W Kaltweiß-LED",
+  "beamDeg": [
+   6.0,
+   6.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "cmy",
+   "colorwheel",
+   "cto",
+   "framing",
+   "frost",
+   "gobo",
+   "iris",
+   "prism"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   436,
+   800,
+   312
+  ],
+  "weightKg": 41.1,
+  "url": "https://www.cameolight.com/de/loesungen/rental/bewegtes-licht/profile-moving-heads/20663/opus-x-profile",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLOXP",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "2 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "OPUS X WASH",
+  "kind": "wash",
+  "light": "750 W Kaltweiß-LED",
+  "beamDeg": [
+   5.0,
+   5.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "cmy",
+   "colorwheel",
+   "cto",
+   "framing",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   426,
+   800,
+   312
+  ],
+  "weightKg": 41.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/bewegtes-licht/wash-moving-heads/25498/opus-x-wash",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLOXW",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "2 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "OPUS X4",
+  "kind": "profile",
+  "light": "1400 W Weiß COB-LED",
+  "beamDeg": [
+   5.0,
+   55.0
+  ],
+  "pan": 270,
+  "tilt": 630,
+  "channels": null,
+  "features": [
+   "cmy",
+   "colorwheel",
+   "cto",
+   "focus",
+   "framing",
+   "frost",
+   "gobo",
+   "iris",
+   "prism",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   441,
+   830,
+   312
+  ],
+  "weightKg": 44.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/bewegtes-licht/profile-moving-heads/30735/opus-x4",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLOX4P",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Herstellerangabe Pan 270°/Tilt 630° (vermutlich vertauscht); 3 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "OPUS X4 IP",
+  "kind": "profile",
+  "light": "1400 W Weiß COB-LED",
+  "beamDeg": [
+   5.5,
+   50.0
+  ],
+  "pan": 630,
+  "tilt": 270,
+  "channels": null,
+  "features": [
+   "cmy",
+   "colorwheel",
+   "cto",
+   "focus",
+   "framing",
+   "frost",
+   "gobo",
+   "ip65",
+   "iris",
+   "prism",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   475,
+   860,
+   350
+  ],
+  "weightKg": 46.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/bewegtes-licht/profile-moving-heads/31933/opus-x4-ip",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLOX4PIP",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "3 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ORON H2",
+  "kind": "hybrid",
+  "light": "260 W Phosphor-Laser",
+  "beamDeg": [
+   0.6,
+   32.0
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": null,
+  "features": [
+   "cmy",
+   "colorwheel",
+   "cto",
+   "focus",
+   "frost",
+   "gobo",
+   "ip65",
+   "iris",
+   "prism",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   431,
+   676,
+   330
+  ],
+  "weightKg": 32.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/bewegtes-licht/beam-moving-heads/30734/oron-h2",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLORONH2",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "3 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "OTOS B5",
+  "kind": "beam",
+  "light": "480 W Entladungslampe",
+  "beamDeg": [
+   1.0,
+   1.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "cmy",
+   "colorwheel",
+   "gobo",
+   "ip65",
+   "iris",
+   "prism"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   457,
+   749,
+   335
+  ],
+  "weightKg": 33.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/bewegtes-licht/beam-moving-heads/29085/otos-b5",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLOTOSB5",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "3 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "OTOS H5",
+  "kind": "hybrid",
+  "light": "480 W Entladungslampe",
+  "beamDeg": [
+   2.0,
+   2.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "cmy",
+   "colorwheel",
+   "gobo",
+   "ip65",
+   "iris",
+   "prism"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   456,
+   749,
+   335
+  ],
+  "weightKg": 33.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/bewegtes-licht/beam-moving-heads/26039/otos-h5",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLOTOSH5",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "2 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "OTOS L16",
+  "kind": "tiltbar",
+  "light": "16 x 50 W RGBL-LED",
+  "beamDeg": [
+   4.6,
+   36.5
+  ],
+  "pan": null,
+  "tilt": 208,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1001,
+   300,
+   187
+  ],
+  "weightKg": 25.8,
+  "url": "https://www.cameolight.com/de/loesungen/rental/outdoor-lichttechnik/outdoor-scheinwerfer/31931/otos-l16",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLOTOSL16",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "OTOS LC12",
+  "kind": "tiltbar",
+  "light": "12 x 50 W RGBL-LED | 24 x 0.5 W RGB-LED",
+  "beamDeg": [
+   3.3,
+   40.5
+  ],
+  "pan": null,
+  "tilt": 206,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   330,
+   187
+  ],
+  "weightKg": 31.5,
+  "url": "https://www.cameolight.com/de/loesungen/rental/outdoor-lichttechnik/outdoor-scheinwerfer/31932/otos-lc12",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLOTOSLC12",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "OTOS SP6",
+  "kind": "profile",
+  "light": "600 W Kaltweiß-LED",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 270,
+  "channels": null,
+  "features": [
+   "cmy",
+   "colorwheel",
+   "cto",
+   "framing",
+   "frost",
+   "ip65",
+   "iris",
+   "prism"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   431,
+   768,
+   366
+  ],
+  "weightKg": 34.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/bewegtes-licht/profile-moving-heads/29049/otos-sp6",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLOTOSSP6",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "3 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "OTOS W12",
+  "kind": "wash",
+  "light": "32 x 50 W RGBL-LED",
+  "beamDeg": [
+   4.0,
+   60.0
+  ],
+  "pan": 630,
+  "tilt": 240,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   534,
+   376,
+   583
+  ],
+  "weightKg": 31.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/bewegtes-licht/wash-moving-heads/30744/otos-w12",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLOTOSW12",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "OTOS W3",
+  "kind": "wash",
+  "light": "7 x 50 W RGBL-LED",
+  "beamDeg": [
+   4.0,
+   60.0
+  ],
+  "pan": 630,
+  "tilt": 240,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   308,
+   230,
+   380
+  ],
+  "weightKg": 11.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/bewegtes-licht/wash-moving-heads/30745/otos-w3",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLOTOSW3",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "10 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "OTOS W6",
+  "kind": "wash",
+  "light": "16 x 50 W RGBL-LED",
+  "beamDeg": [
+   4.0,
+   60.0
+  ],
+  "pan": 630,
+  "tilt": 240,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   410,
+   338,
+   504
+  ],
+  "weightKg": 21.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/bewegtes-licht/wash-moving-heads/30746/otos-w6",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLOTOSW6",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "P2 D",
+  "kind": "ellipsoidal",
+  "light": null,
+  "beamDeg": [
+   15.0,
+   30.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   245,
+   202,
+   462
+  ],
+  "weightKg": 10.5,
+  "url": "https://www.cameolight.com/de/loesungen/rental/statisches-licht/profilscheinwerfer/26405/p2-d",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLP2D",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "P6",
+  "kind": "ellipsoidal",
+  "light": "600 W RGBALC-LED",
+  "beamDeg": [
+   5.0,
+   50.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "focus",
+   "framing",
+   "iris",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   730,
+   579,
+   410
+  ],
+  "weightKg": 20.9,
+  "url": "https://www.cameolight.com/de/loesungen/theater-broadcast/statisches-licht/profilscheinwerfer/31282/p6",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLP6",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "17 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "PIXBAR 400 IP G2",
+  "kind": "bar",
+  "light": "16 x 10 W RGBW SMD-LED",
+  "beamDeg": [
+   25.0,
+   42.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1018,
+   206,
+   178
+  ],
+  "weightKg": 12.0,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/outdoor-lichttechnik/outdoor-scheinwerfer/29369/pixbar-400-ip-g2",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLPB400IPG2",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "14 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "PIXBAR 400 Short IP G2",
+  "kind": "bar",
+  "light": "8 x 10 W RGBW-LED",
+  "beamDeg": [
+   25.0,
+   42.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   518,
+   205,
+   162
+  ],
+  "weightKg": 7.5,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/outdoor-lichttechnik/outdoor-scheinwerfer/31060/pixbar-400-short-ip-g2",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLPB400SIPG2",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "15 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "PIXBAR 600 IP G2",
+  "kind": "bar",
+  "light": "3 W RGB-LED",
+  "beamDeg": [
+   24.0,
+   46.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris",
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1018,
+   206,
+   178
+  ],
+  "weightKg": 12.0,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/outdoor-lichttechnik/outdoor-scheinwerfer/29370/pixbar-600-ip-g2",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLPB600IPG2",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "14 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "PIXBAR 600 Short IP G2",
+  "kind": "bar",
+  "light": "8 x 15 W RGBWA+UV-LED",
+  "beamDeg": [
+   24.0,
+   46.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris",
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   518,
+   205,
+   162
+  ],
+  "weightKg": 7.5,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/outdoor-lichttechnik/outdoor-scheinwerfer/31063/pixbar-600-short-ip-g2",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLPB600SIPG2",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "15 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "PIXBAR 650 C PRO",
+  "kind": "bar",
+  "light": "8 x 30 W RGB COB-LED",
+  "beamDeg": [
+   53.0,
+   53.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   880,
+   110,
+   130
+  ],
+  "weightKg": 7.6,
+  "url": "https://www.cameolight.com/de/loesungen/rental/statisches-licht/bars/2319/pixbar-650-c-pro",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLPIXBAR650CPRO",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "6 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "PIXBAR SMD IP G2",
+  "kind": "bar",
+  "light": "3 W RGB-LED",
+  "beamDeg": [
+   72.0,
+   94.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1018,
+   206,
+   162
+  ],
+  "weightKg": 12.0,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/outdoor-lichttechnik/outdoor-scheinwerfer/30325/pixbar-smd-ip-g2",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLPBSMDIPG2",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "15 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "PIXBAR SMD Short IP G2",
+  "kind": "bar",
+  "light": "160 x 1.5 W RGB SMD-LED | 96 x 3 W Weiß SMD-LED",
+  "beamDeg": [
+   72.0,
+   94.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   518,
+   205,
+   162
+  ],
+  "weightKg": 7.5,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/outdoor-lichttechnik/outdoor-scheinwerfer/31061/pixbar-smd-short-ip-g2",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLPBSMDSIPG2",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "15 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "PIXBAR TW IP G2",
+  "kind": "bar",
+  "light": "16 x 10 W Variable Weiß-LED",
+  "beamDeg": [
+   24.0,
+   49.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1018,
+   205,
+   162
+  ],
+  "weightKg": 12.5,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/outdoor-lichttechnik/outdoor-scheinwerfer/30326/pixbar-tw-ip-g2",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLPBTWIPG2",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "15 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "PIXBAR TW Short IP G2",
+  "kind": "bar",
+  "light": "8 x 10 W Variable Weiß-LED",
+  "beamDeg": [
+   24.0,
+   49.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   518,
+   205,
+   162
+  ],
+  "weightKg": 7.5,
+  "url": "https://www.cameolight.com/de/loesungen/theater-broadcast/statisches-licht/bars/31062/pixbar-tw-short-ip-g2",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLPBTWSIPG2",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "15 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "Q-SPOT 15 W",
+  "kind": "par",
+  "light": null,
+  "beamDeg": [
+   4.5,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   89,
+   89,
+   172
+  ],
+  "weightKg": 1.2,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/statisches-licht/punktstrahler/2355/q-spot-15-w",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLQS15W",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "Q-SPOT 40 TW",
+  "kind": "par",
+  "light": "40 W Variable Weiß-LED",
+  "beamDeg": [
+   4.5,
+   4.5
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   220,
+   230,
+   220
+  ],
+  "weightKg": 2.75,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/statisches-licht/punktstrahler/19210/q-spot-40-tw",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLQS40TW",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "5 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "Q-SPOT 40 WW",
+  "kind": "par",
+  "light": "40 W Warmweiß-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   151,
+   130,
+   220
+  ],
+  "weightKg": 2.75,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/statisches-licht/punktstrahler/18002/q-spot-40-ww",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLQS40WW",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "1 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "Q-SPOT 40 WW WH",
+  "kind": "par",
+  "light": null,
+  "beamDeg": [
+   45.0,
+   45.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   220,
+   230,
+   220
+  ],
+  "weightKg": 2.75,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/statisches-licht/punktstrahler/18003/q-spot-40-ww-wh",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLQS40WWWH",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "Q-SPOT 40I",
+  "kind": "par",
+  "light": "40 W RGBA-LED",
+  "beamDeg": [
+   4.5,
+   4.5
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   107,
+   150,
+   160
+  ],
+  "weightKg": 1.9,
+  "url": "https://www.cameolight.com/de/loesungen/architektur/outdoor-lichttechnik/outdoor-scheinwerfer/20389/q-spot-40i",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLQS40IB",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "4 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "Q-SPOT 40I W",
+  "kind": "par",
+  "light": "40 W RGBA-LED",
+  "beamDeg": [
+   45.0,
+   45.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   107,
+   150,
+   160
+  ],
+  "weightKg": 19.0,
+  "url": "https://www.cameolight.com/de/loesungen/architektur/outdoor-lichttechnik/outdoor-scheinwerfer/20390/q-spot-40i-w",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLQS40IW",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "4 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ROOT BAR 6",
+  "kind": "bar",
+  "light": "16 x 12 W RGBWA+UV-LED (4 x 4)",
+  "beamDeg": [
+   19.0,
+   36.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris",
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1026,
+   157,
+   105
+  ],
+  "weightKg": 5.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/statisches-licht/bars/31099/root-bar-6",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLROOTBAR6",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ROOT BAR BATTERY",
+  "kind": "bar",
+  "light": "12 x 4 W RGBW-LED",
+  "beamDeg": [
+   20.0,
+   37.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "battery/wireless",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1042,
+   116,
+   106
+  ],
+  "weightKg": 5.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/statisches-licht/bars/31531/root-bar-battery",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLROOTBARBAT",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ROOT BAR SMD",
+  "kind": "bar",
+  "light": "480 x 0.2 W RGB-LED (24 x 20) | 240 x 0.5 W Weiß-LED",
+  "beamDeg": [
+   102.0,
+   127.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1024,
+   116,
+   106
+  ],
+  "weightKg": 5.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/statisches-licht/bars/31100/root-bar-smd",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLROOTBARSMD",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ROOT PAR 4",
+  "kind": "par",
+  "light": "7 x 4 W RGBW-LED",
+  "beamDeg": [
+   19.0,
+   36.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   195,
+   133,
+   195
+  ],
+  "weightKg": 1.2,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/statisches-licht/par-scheinwerfer/20727/root-par-4",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLROOTPAR4",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ROOT PAR 4 WH",
+  "kind": "par",
+  "light": "7 x 4 W RGBW-LED",
+  "beamDeg": [
+   19.0,
+   36.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   195,
+   133,
+   195
+  ],
+  "weightKg": 1.2,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/statisches-licht/par-scheinwerfer/20728/root-par-4-wh",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLROOTPAR4WH",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ROOT PAR BATTERY",
+  "kind": "par",
+  "light": "5 x 4 W RGBW-LED",
+  "beamDeg": [
+   19.0,
+   36.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   195,
+   156,
+   195
+  ],
+  "weightKg": 2.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/akkubetriebene-scheinwerfer/21510/root-par-battery",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLROOTPARBAT",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "6 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ROOT PAR IP",
+  "kind": "par",
+  "light": null,
+  "beamDeg": [
+   30.0,
+   33.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   272,
+   242,
+   166
+  ],
+  "weightKg": 4.2,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/statisches-licht/par-scheinwerfer/31216/root-par-ip",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLROOTPARIP",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "12 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ROOT PAR TW",
+  "kind": "par",
+  "light": "7 x 4 W Variable Weiß-LED",
+  "beamDeg": [
+   19.0,
+   36.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   195,
+   133,
+   195
+  ],
+  "weightKg": 1.2,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/statisches-licht/par-scheinwerfer/20857/root-par-tw",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLROOTPARTW",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "S2 IP",
+  "kind": "panel",
+  "light": "272 x 4 W RGBWW SMD-LED",
+  "beamDeg": [
+   102.0,
+   157.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   594,
+   439,
+   153
+  ],
+  "weightKg": 13.48,
+  "url": "https://www.cameolight.com/de/loesungen/rental/outdoor-lichttechnik/outdoor-scheinwerfer/29187/s2-ip",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLS2IP",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "S4 IP",
+  "kind": "panel",
+  "light": "544 x 4 W RGBWW-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   743,
+   381,
+   153
+  ],
+  "weightKg": 16.4,
+  "url": "https://www.cameolight.com/de/loesungen/rental/outdoor-lichttechnik/outdoor-scheinwerfer/27532/s4-ip",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLS4IP",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "STUDIO PAR 4 G2",
+  "kind": "par",
+  "light": "12 x 8 W RGBW-LED",
+  "beamDeg": [
+   19.0,
+   27.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   310,
+   360,
+   250
+  ],
+  "weightKg": 5.1,
+  "url": "https://www.cameolight.com/de/loesungen/rental/statisches-licht/par-scheinwerfer/26408/studio-par-4-g2",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLPST4G2",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "7 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "STUDIO PAR 6 G2",
+  "kind": "par",
+  "light": "12 x 12 W RGBWA+UV-LED",
+  "beamDeg": [
+   21.0,
+   35.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris",
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   310,
+   360,
+   250
+  ],
+  "weightKg": 5.1,
+  "url": "https://www.cameolight.com/de/loesungen/rental/statisches-licht/par-scheinwerfer/26409/studio-par-6-g2",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLPST6G2",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "9 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "STUDIO PAR DTW",
+  "kind": "par",
+  "light": null,
+  "beamDeg": [
+   18.0,
+   34.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 4.9,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/statisches-licht/par-scheinwerfer/19183/studio-par-dtw",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLPSTDTW",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "STUDIO PAR TRI 12 IP",
+  "kind": "par",
+  "light": null,
+  "beamDeg": [
+   25.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 4.25,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/outdoor-lichttechnik/outdoor-scheinwerfer/2350/studio-par-tri-12-ip",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLPSTTRI12IP",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "SUNO 2",
+  "kind": "par",
+  "light": "2 x 300 W RGBAWW-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   479,
+   275,
+   135
+  ],
+  "weightKg": 8.2,
+  "url": "https://www.cameolight.com/de/loesungen/rental/outdoor-lichttechnik/outdoor-scheinwerfer/32989/suno-2",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLSUNO2",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "SUNO 4",
+  "kind": "flood",
+  "light": "4 x 300 W RGBAWW-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   479,
+   476,
+   135
+  ],
+  "weightKg": 12.7,
+  "url": "https://www.cameolight.com/de/loesungen/rental/outdoor-lichttechnik/outdoor-scheinwerfer/32990/suno-4",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLSUNO4",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "TS 60 W RGBW",
+  "kind": "ellipsoidal",
+  "light": "60 W RGBW-LED",
+  "beamDeg": [
+   9.0,
+   16.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   145,
+   205,
+   240
+  ],
+  "weightKg": 3.6,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/statisches-licht/theaterscheinwerfer/11911/ts-60-w-rgbw",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLTS60WRGBW",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "UV BAR 200 IR",
+  "kind": "bar",
+  "light": "12 x 3 W RGBWA+UV-LED",
+  "beamDeg": [
+   65.0,
+   65.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris",
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1022,
+   66,
+   67
+  ],
+  "weightKg": 2.3,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/statisches-licht/bars/2407/uv-bar-200-ir",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLUVBAR200IR",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "1 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "WOOKIE 200 RGY",
+  "kind": "laser",
+  "light": "DPSS",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   180,
+   90,
+   192
+  ],
+  "weightKg": 2.0,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/laser/showlaser/2177/wookie-200-rgy",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLLWOOKIE200RGY",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "2 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "WOOKIE 400 RGB",
+  "kind": "laser",
+  "light": "DPSS",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   180,
+   90,
+   192
+  ],
+  "weightKg": 2.0,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/laser/showlaser/2179/wookie-400-rgb",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLLWOOKIE400RGB",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "2 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "X3 TW",
+  "kind": "par",
+  "light": "31 x 15 W Variable Weiß-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   419,
+   275,
+   475
+  ],
+  "weightKg": 5.5,
+  "url": "https://www.cameolight.com/de/loesungen/rental/statisches-licht/fluter/28511/x3-tw",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLX3TW",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ZENIT SPIN16",
+  "kind": "effect",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   40,
+   17,
+   64
+  ],
+  "weightKg": 0.03,
+  "url": "https://www.cameolight.com/de/loesungen/rental/zubehoer/20866/zenit-spin16",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLZSPIN16",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ZENIT W1200 G2",
+  "kind": "par",
+  "light": "60 x 50 W RGBALC-LED (12 x 5)",
+  "beamDeg": [
+   18.0,
+   34.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   480,
+   360,
+   230
+  ],
+  "weightKg": 21.0,
+  "url": "https://www.cameolight.com/de/loesungen/architektur/outdoor-lichttechnik/outdoor-scheinwerfer/32161/zenit-w1200-g2",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLZW1200G2",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "17 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ZENIT W300",
+  "kind": "par",
+  "light": "21 x 15 W RGBW-LED",
+  "beamDeg": [
+   21.0,
+   40.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   377,
+   256,
+   140
+  ],
+  "weightKg": 8.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/outdoor-lichttechnik/outdoor-scheinwerfer/19856/zenit-w300",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLZW300",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "7 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ZENIT W300 B200 4B",
+  "kind": "par",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   213,
+   364,
+   10
+  ],
+  "weightKg": 0.937,
+  "url": "https://www.cameolight.com/de/loesungen/rental/zubehoer/19594/zenit-w300-b200-4b",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLZW300B2004B",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ZENIT W300 SMD",
+  "kind": "par",
+  "light": null,
+  "beamDeg": [
+   105.0,
+   157.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   377,
+   256,
+   140
+  ],
+  "weightKg": 8.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/statisches-licht/fluter/30723/zenit-w300-smd",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLZW300SMD",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ZENIT W300 TW",
+  "kind": "par",
+  "light": null,
+  "beamDeg": [
+   18.0,
+   35.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   377,
+   256,
+   140
+  ],
+  "weightKg": 8.0,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/outdoor-lichttechnik/outdoor-scheinwerfer/30337/zenit-w300-tw",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLZW300TW",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ZENIT W300i",
+  "kind": "par",
+  "light": "21 x 15 W RGBW-LED",
+  "beamDeg": [
+   18.0,
+   35.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   377,
+   140,
+   256
+  ],
+  "weightKg": 8.0,
+  "url": "https://www.cameolight.com/de/loesungen/architektur/outdoor-lichttechnik/outdoor-scheinwerfer/26366/zenit-w300i",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLZW300I",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "7 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ZENIT W600 4B",
+  "kind": "par",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   252,
+   9,
+   452
+  ],
+  "weightKg": 0.84,
+  "url": "https://www.cameolight.com/de/loesungen/rental/zubehoer/18369/zenit-w600-4b",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLZW6004B",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ZENIT W600 G2",
+  "kind": "par",
+  "light": "40 x 50 W RGBALC-LED (10 x 4)",
+  "beamDeg": [
+   18.0,
+   34.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   400,
+   292,
+   197
+  ],
+  "weightKg": 12.9,
+  "url": "https://www.cameolight.com/de/loesungen/rental/outdoor-lichttechnik/outdoor-scheinwerfer/31963/zenit-w600-g2",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLZW600G2",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "17 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ZENIT W600 SMD",
+  "kind": "par",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   463,
+   161,
+   291
+  ],
+  "weightKg": 13.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/statisches-licht/fluter/25742/zenit-w600-smd",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLZW600SMD",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "6 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ZENIT W600 TW",
+  "kind": "par",
+  "light": "40 x 12 W Variable Weiß-LED",
+  "beamDeg": [
+   18.0,
+   35.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   463,
+   291,
+   161
+  ],
+  "weightKg": 13.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/outdoor-lichttechnik/outdoor-scheinwerfer/27216/zenit-w600-tw",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLZW600TW",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "6 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ZENIT W600-D",
+  "kind": "par",
+  "light": "40 x 18 W Tageslicht-Weiß COB-LED",
+  "beamDeg": [
+   21.0,
+   42.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   463,
+   291,
+   161
+  ],
+  "weightKg": 11.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/outdoor-lichttechnik/outdoor-scheinwerfer/19213/zenit-w600-d",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLZW600-D",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "6 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ZENIT W600i",
+  "kind": "par",
+  "light": "40 x 15 W RGBW-LED",
+  "beamDeg": [
+   18.0,
+   35.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   463,
+   291,
+   161
+  ],
+  "weightKg": 15.2,
+  "url": "https://www.cameolight.com/de/loesungen/architektur/outdoor-lichttechnik/outdoor-scheinwerfer/25520/zenit-w600i",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLZW600I",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "7 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ZENIT Z180 G2",
+  "kind": "par",
+  "light": "180 W RGBW-LED",
+  "beamDeg": [
+   10.0,
+   10.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "iris",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   240,
+   240,
+   254
+  ],
+  "weightKg": 8.2,
+  "url": "https://www.cameolight.com/de/loesungen/rental/outdoor-lichttechnik/outdoor-scheinwerfer/20293/zenit-z180-g2",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLZZ180G2",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "7 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ZIYA 200",
+  "kind": "par",
+  "light": "4 x 60 W RGBL-LED",
+  "beamDeg": [
+   4.8,
+   48.6
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "focus",
+   "ip65",
+   "iris",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   213,
+   202,
+   312
+  ],
+  "weightKg": 7.3,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/outdoor-lichttechnik/outdoor-scheinwerfer/31936/ziya-200",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLZIYA200",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "11 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ZIYA 200 COB",
+  "kind": "par",
+  "light": "200 W RGBALC-LED",
+  "beamDeg": [
+   13.0,
+   48.8
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "focus",
+   "ip65",
+   "iris",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   213,
+   202,
+   312
+  ],
+  "weightKg": 7.0,
+  "url": "https://www.cameolight.com/de/loesungen/rental/outdoor-lichttechnik/outdoor-scheinwerfer/31937/ziya-200-cob",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLZIYA200COB",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "11 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ZIYA 400",
+  "kind": "par",
+  "light": "7 x 60 W RGBL-LED",
+  "beamDeg": [
+   4.8,
+   57.1
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "focus",
+   "ip65",
+   "iris",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   245,
+   231,
+   329
+  ],
+  "weightKg": 9.2,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/outdoor-lichttechnik/outdoor-scheinwerfer/31938/ziya-400",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLZIYA400",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "11 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ZIYA 400 COB",
+  "kind": "par",
+  "light": "400 W RGBALC-LED",
+  "beamDeg": [
+   13.0,
+   54.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "focus",
+   "ip65",
+   "iris",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   245,
+   231,
+   329
+  ],
+  "weightKg": 8.7,
+  "url": "https://www.cameolight.com/de/loesungen/rental/outdoor-lichttechnik/outdoor-scheinwerfer/31939/ziya-400-cob",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLZIYA400COB",
+  "status": "current",
+  "inLibrary": null,
+  "notes": "11 DMX-Modi laut Hersteller; Kanalzahlen nur im Handbuch (Adam-Hall-Downloadcenter)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "AURO SPOT 200",
+  "kind": "spot",
+  "light": "100 W Kaltweiß-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/bewegtes-licht/moving-heads/2072/auro-spot-200",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLAS200",
+  "status": "current",
+  "inLibrary": "ofl:cameo/auro-spot-200",
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "AURO SPOT Z300",
+  "kind": "spot",
+  "light": "200 W Kaltweiß-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/bewegtes-licht/moving-heads/20393/auro-spot-z300",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLASZ300",
+  "status": "current",
+  "inLibrary": "ofl:cameo/auro-spot-z300",
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "EVOS W7",
+  "kind": "wash",
+  "light": "19 x 40 W RGBWW-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.cameolight.com/de/loesungen/rental/bewegtes-licht/beam-moving-heads/20565/evos-w7",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLEW7",
+  "status": "current",
+  "inLibrary": "vd:cameo/evos-w7",
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "F2 T PO",
+  "kind": "fresnel",
+  "light": "240 W Variable Weiß-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.cameolight.com/de/loesungen/rental/statisches-licht/theaterscheinwerfer/20477/f2-t-po",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLF2TPO",
+  "status": "current",
+  "inLibrary": "qlc:cameo/f2-t-po",
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "FLAT PRO FLOOD IP65 TRI",
+  "kind": "flood",
+  "light": "60 W RGB COB-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.cameolight.com/de/loesungen/rental/statisches-licht/fluter/2127/flat-pro-flood-ip65-tri",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLFLOODIP65TRI",
+  "status": "current",
+  "inLibrary": "ofl:cameo/flat-pro-flood-ip65-tri",
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "HYDRABEAM 400 RGBW",
+  "kind": "beam",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/bewegtes-licht/lichteffekte/2140/hydrabeam-400-rgbw",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLHB400RGBW",
+  "status": "current",
+  "inLibrary": "ofl:cameo/hydrabeam-400-rgbw",
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "MOVO BEAM Z100",
+  "kind": "beam",
+  "light": "60 W RGBW-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/bewegtes-licht/moving-heads/17232/movo-beam-z100",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLMBZ100",
+  "status": "current",
+  "inLibrary": "qlc:cameo/movo-beam-z-100",
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "P2 FC",
+  "kind": "ellipsoidal",
+  "light": "230 W RGBAL COB-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.cameolight.com/de/loesungen/rental/statisches-licht/profilscheinwerfer/26406/p2-fc",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLP2FC",
+  "status": "current",
+  "inLibrary": "qlc:cameo/p2-fc",
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "P2 T",
+  "kind": "ellipsoidal",
+  "light": "230 W Tageslicht-Weiß COB-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.cameolight.com/de/loesungen/rental/statisches-licht/profilscheinwerfer/26407/p2-t",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLP2T",
+  "status": "current",
+  "inLibrary": "qlc:cameo/p2-t",
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "Q-SPOT 15 RGBW",
+  "kind": "par",
+  "light": "15 W RGBW-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/statisches-licht/punktstrahler/2353/q-spot-15-rgbw",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLQS15RGBW",
+  "status": "current",
+  "inLibrary": "qlc:cameo/q-spot-15-rgbw",
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "Q-SPOT 15 RGBW WH",
+  "kind": "par",
+  "light": "15 W RGBW-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/statisches-licht/punktstrahler/2354/q-spot-15-rgbw-wh",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLQS15RGBWWH",
+  "status": "current",
+  "inLibrary": "qlc:cameo/q-spot-15-rgbw",
+  "notes": "Bibliothekstreffer per Namenskern (prüfen)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "Q-SPOT 40 RGBW",
+  "kind": "par",
+  "light": "40 W RGBW-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/statisches-licht/punktstrahler/16459/q-spot-40-rgbw",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLQS40RGBW",
+  "status": "current",
+  "inLibrary": "ofl:cameo/q-spot-40-rgbw",
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "Q-SPOT 40 RGBW WH",
+  "kind": "par",
+  "light": "40 W RGBW-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/statisches-licht/punktstrahler/16460/q-spot-40-rgbw-wh",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLQS40RGBWWH",
+  "status": "current",
+  "inLibrary": "ofl:cameo/q-spot-40-rgbw",
+  "notes": "Bibliothekstreffer per Namenskern (prüfen)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ROOT PAR 6",
+  "kind": "par",
+  "light": "6 x 12 W RGBWA+UV-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/statisches-licht/schwarzlicht-blacklights/20729/root-par-6",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLROOTPAR6",
+  "status": "current",
+  "inLibrary": "ofl:cameo/root-par-6",
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ROOT PAR 6 WH",
+  "kind": "par",
+  "light": "6 x 12 W RGBWA+UV-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/statisches-licht/schwarzlicht-blacklights/20730/root-par-6-wh",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLROOTPAR6WH",
+  "status": "current",
+  "inLibrary": "ofl:cameo/root-par-6",
+  "notes": "Bibliothekstreffer per Namenskern (prüfen)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "THUNDER WASH 100 RGB",
+  "kind": "strobe",
+  "light": "132 x 0.2 W RGB-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/statisches-licht/fluter/2396/thunder-wash-100-rgb",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLTW100RGB",
+  "status": "current",
+  "inLibrary": "ofl:cameo/thunder-wash-100-rgb",
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "THUNDER WASH 100 W",
+  "kind": "strobe",
+  "light": "132 x 0.2 W Weiß-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/statisches-licht/fluter/2398/thunder-wash-100-w",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLTW100W",
+  "status": "current",
+  "inLibrary": "ofl:cameo/thunder-wash-100-w",
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "THUNDER WASH 600 RGB",
+  "kind": "strobe",
+  "light": "648 x 0.2 W RGB SMD-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/statisches-licht/fluter/2400/thunder-wash-600-rgb",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLTW600RGB",
+  "status": "current",
+  "inLibrary": "ofl:cameo/thunder-wash-600-rgb",
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "THUNDER WASH 600 RGBW",
+  "kind": "strobe",
+  "light": "648 x 0.2 W RGBW-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/statisches-licht/fluter/20046/thunder-wash-600-rgbw",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLTW600RGBW",
+  "status": "current",
+  "inLibrary": "ofl:cameo/thunder-wash-600-rgbw",
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "THUNDER WASH 600 UV",
+  "kind": "strobe",
+  "light": "648 x 0.2 W RGBWA+UV SMD-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/statisches-licht/schwarzlicht-blacklights/20074/thunder-wash-600-uv",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLTW600UV",
+  "status": "current",
+  "inLibrary": "qlc:cameo/thunderwash-600-uv",
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "THUNDER WASH 600 W",
+  "kind": "strobe",
+  "light": "648 x 0.2 W Weiß SMD-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/statisches-licht/fluter/2402/thunder-wash-600-w",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLTW600W",
+  "status": "current",
+  "inLibrary": "ofl:cameo/thunder-wash-600-w",
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "TS 100 WW",
+  "kind": "ellipsoidal",
+  "light": "100 W Warmweiß-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/statisches-licht/theaterscheinwerfer/19235/ts-100-ww",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLTS100WW",
+  "status": "current",
+  "inLibrary": "ofl:cameo/ts-100-ww",
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "TS 200 FC",
+  "kind": "ellipsoidal",
+  "light": "200 W RGBALC-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/statisches-licht/theaterscheinwerfer/20479/ts-200-fc",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLTS200FC",
+  "status": "current",
+  "inLibrary": "ofl:cameo/ts-200-fc",
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "TS 200 WW",
+  "kind": "ellipsoidal",
+  "light": "180 W Warmweiß-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/statisches-licht/theaterscheinwerfer/19232/ts-200-ww",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLTS200WW",
+  "status": "current",
+  "inLibrary": "qlc:cameo/ts-200-ww",
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "TS 40 WW",
+  "kind": "ellipsoidal",
+  "light": "40 W Warmweiß-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/statisches-licht/theaterscheinwerfer/11910/ts-40-ww",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLTS40WW",
+  "status": "current",
+  "inLibrary": "qlc:cameo/ts-40-ww",
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "TS 40 WW WH",
+  "kind": "ellipsoidal",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.cameolight.com/de/loesungen/dj-musiker/statisches-licht/theaterscheinwerfer/13838/ts-40-ww-wh",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLTS40WWWH",
+  "status": "current",
+  "inLibrary": "qlc:cameo/ts-40-ww",
+  "notes": "Bibliothekstreffer per Namenskern (prüfen)"
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ZENIT B200",
+  "kind": "blinder",
+  "light": "21 x 15 W RGBW-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "battery/wireless",
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.cameolight.com/de/loesungen/theater-broadcast/akkubetriebene-lichttechnik/19855/zenit-b200",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLZB200",
+  "status": "current",
+  "inLibrary": "qlc:cameo/zenit-b200",
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ZENIT W600",
+  "kind": "par",
+  "light": "40 x 15 W RGBW-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.cameolight.com/de/loesungen/rental/outdoor-lichttechnik/outdoor-scheinwerfer/18383/zenit-w600",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLZW600",
+  "status": "current",
+  "inLibrary": "ofl:cameo/zenit-w600",
+  "notes": null
+ },
+ {
+  "manufacturer": "Cameo",
+  "model": "ZENIT Z120 G2",
+  "kind": "par",
+  "light": "120 W RGBW-LED",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "ip65",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.cameolight.com/de/loesungen/rental/outdoor-lichttechnik/outdoor-scheinwerfer/20016/zenit-z120-g2",
+  "manualUrl": "https://portal.adamhall.com/downloadcenter/article/CLZZ120G2",
+  "status": "current",
+  "inLibrary": "qlc:cameo/zenit-z120-g2",
+  "notes": null
+ }
+]

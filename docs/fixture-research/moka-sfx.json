@@ -1,0 +1,2986 @@
+[
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "36*10W Moving head wash led zoom",
+    "kind": "wash",
+    "light": "MOKA SFX 36x10W Moving head wash led wash zoom moving head light can be placed horizontally, obliquely and upside down, and has high intelli",
+    "beamDeg": [
+      10,
+      50
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "colorwheel",
+      "gobo",
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      430,
+      310,
+      400
+    ],
+    "weightKg": 9,
+    "url": "https://mokasfx.com/eplmovingheadlight/3610w-moving-head-wash/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 360 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPL B-Eyes 19*40W Led Wash Light",
+    "kind": "beeeye",
+    "light": null,
+    "beamDeg": [
+      4,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      24,
+      26,
+      38,
+      81,
+      95,
+      102
+    ],
+    "features": [
+      "frost",
+      "focus",
+      "artnet"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 19,
+    "url": "https://mokasfx.com/eplmovingheadlight/b-eye-1940w-stage-moving-head-led-wash-lights/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPL 1060 10×60W Zoom LED Bar Wall Washer Light",
+    "kind": "tiltbar",
+    "light": "Beam end: 10pcs 60W RGBW LED",
+    "beamDeg": [
+      2.8,
+      31
+    ],
+    "pan": null,
+    "tilt": 202,
+    "channels": null,
+    "features": [
+      "zoom",
+      "focus",
+      "pixel",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1000,
+      290,
+      120
+    ],
+    "weightKg": 18.1,
+    "url": "https://mokasfx.com/eplmovingheadlight/epl-1060-10x60w-zoom-led-bar-wall-washer-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Motorisierte Tilt-Bar 1 m (Tilt 202°), 10 x 60 W RGBW Beam-Zellen mit Zoom 2,8-31° plus Strip-Sektion (Bauform/Maße wie ACME SUPER DOTLINE). Leistung 800 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPL 1240B 12x40w Zoom Pixel Beam Bar",
+    "kind": "tiltbar",
+    "light": "12 pcs 40W RGBW 4-in-1 LED Beam",
+    "beamDeg": [
+      5,
+      35
+    ],
+    "pan": null,
+    "tilt": 220,
+    "channels": null,
+    "features": [
+      "zoom",
+      "focus",
+      "pixel"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1020,
+      107.5,
+      266
+    ],
+    "weightKg": 15,
+    "url": "https://mokasfx.com/eplmovingheadlight/epl-1240b-12x40w-zoom-pixel-beam-bar-moving-head-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Motorisierte Tilt-Bar 1 m (Tilt 220°), 12 x 40 W RGBW, Zoom 5-35°. Leistung 500 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPL 12*40 ZOOM RGBW LED Moving Head Wash Light",
+    "kind": "wash",
+    "light": "12x40W RGBW Orsam LEDs",
+    "beamDeg": [
+      2.8,
+      55
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      18,
+      24,
+      68
+    ],
+    "features": [
+      "cto",
+      "gobo",
+      "zoom",
+      "focus",
+      "pixel"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      470,
+      400,
+      270
+    ],
+    "weightKg": 14.3,
+    "url": "https://mokasfx.com/eplmovingheadlight/epl-1240w-led-zoom/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 600 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPL 1260 12×60W LED Zoom Pixel Beam Bar",
+    "kind": "tiltbar",
+    "light": "LED: 12 pcs 60W 4-in-1 LEDs",
+    "beamDeg": [
+      4,
+      45
+    ],
+    "pan": null,
+    "tilt": 180,
+    "channels": [
+      20,
+      53,
+      101,
+      155,
+      169,
+      179
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1007,
+      165,
+      312
+    ],
+    "weightKg": 27.4,
+    "url": "https://mokasfx.com/eplmovingheadlight/epl-1260-12x60w-led-bar-moving-head-wash-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Motorisierte Tilt-Bar 1 m (Tilt 180°), 12 x 60 W RGBW, Zoom 4-45°, Pixelsteuerung. Leistung 800 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPL 1940 19×40W LED Moving Head Wash Light",
+    "kind": "wash",
+    "light": "19pcs 15W RGBW 4-in-1 LED",
+    "beamDeg": [
+      4,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      300,
+      220,
+      380
+    ],
+    "weightKg": 9.5,
+    "url": "https://mokasfx.com/eplmovingheadlight/epl-1940-19x40w-led-moving-head-wash-lights/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 350 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPL 19X15W LED Zoom Moving Head Wash Light",
+    "kind": "wash",
+    "light": "19X15W RGBW LEDs",
+    "beamDeg": [
+      30,
+      105
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      11,
+      19,
+      27
+    ],
+    "features": [
+      "zoom",
+      "pixel"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      325,
+      188,
+      396
+    ],
+    "weightKg": 9.2,
+    "url": "https://mokasfx.com/eplmovingheadlight/epl-19x15w-led-zoom-moving-head-wash-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 450 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPL 3715 37×15 LED Zoom Moving Head Wash Light",
+    "kind": "wash",
+    "light": "37 pcs 15W Osram RGBW LED",
+    "beamDeg": [
+      8,
+      38
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      12,
+      20,
+      32
+    ],
+    "features": [
+      "zoom",
+      "focus",
+      "blades"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      460,
+      360,
+      490
+    ],
+    "weightKg": 12.7,
+    "url": "https://mokasfx.com/eplmovingheadlight/epl-3715-led-zoom-wash-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 500 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPL 5120 5×120W LED Zoom Pixel Beam Bar Moving Head LED Bar",
+    "kind": "multihead",
+    "light": "Main Light: 5 x 120W LEDs",
+    "beamDeg": [
+      3,
+      30
+    ],
+    "pan": 59,
+    "tilt": 221,
+    "channels": [
+      41,
+      71
+    ],
+    "features": [
+      "focus",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1000,
+      192,
+      350
+    ],
+    "weightKg": 29.2,
+    "url": "https://mokasfx.com/eplmovingheadlight/epl-5120-5x120w-led-bar-wash-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leiste 1 m mit 5 einzeln beweglichen Köpfen (Pan 59°/Tilt 221°), je 120 W, Zoom 3-30°, plus Ring (Bauform wie ACME TORNADO). Leistung 935 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPL 640B 6×40W Zoom Pixel Beam Wash Bar Light",
+    "kind": "tiltbar",
+    "light": "6pcs 40W RGBW 4-in-1 LEDs",
+    "beamDeg": [
+      5,
+      35
+    ],
+    "pan": null,
+    "tilt": 220,
+    "channels": [
+      100
+    ],
+    "features": [
+      "zoom",
+      "pixel"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      510,
+      100,
+      300
+    ],
+    "weightKg": 9.2,
+    "url": "https://mokasfx.com/eplmovingheadlight/epl-640b-6x40w-zoom-pixel-beam-wash-bar/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Motorisierte Tilt-Bar 0,5 m (Tilt 220°), 6 x 40 W RGBW, Zoom 5-35°. Leistung 260 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPL 7*40W LED ZOOM Wash Moving Light",
+    "kind": "wash",
+    "light": null,
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      17
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      380,
+      310,
+      460
+    ],
+    "weightKg": 30,
+    "url": "https://mokasfx.com/eplmovingheadlight/epl-7-40w-led-zoom-moving-head-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 350 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPL 740S MINI 740W LED Zoom Moving Head Wash",
+    "kind": "wash",
+    "light": "7 x 40W RGBW 4-in-1 LEDs",
+    "beamDeg": [
+      4.5,
+      45
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      4,
+      5,
+      45
+    ],
+    "features": [
+      "cto",
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      400,
+      250,
+      350
+    ],
+    "weightKg": null,
+    "url": "https://mokasfx.com/eplmovingheadlight/epl-740s-mini-740w-led-zoom-moving-head-wash/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 350 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPL 7*40W LED Bee Moving Head Wash Light",
+    "kind": "beeeye",
+    "light": "7X40W RGBW OSRAM LEDs",
+    "beamDeg": [
+      4.5,
+      45
+    ],
+    "pan": "infinite",
+    "tilt": null,
+    "channels": [
+      23,
+      35,
+      51
+    ],
+    "features": [
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      270,
+      185,
+      345
+    ],
+    "weightKg": null,
+    "url": "https://mokasfx.com/eplmovingheadlight/epl-740w-led-bee-moving-head-wash-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 1000 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPL Aura led moving wash light",
+    "kind": "wash",
+    "light": null,
+    "beamDeg": [
+      8,
+      58
+    ],
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      14,
+      25
+    ],
+    "features": [
+      "colorwheel",
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      320,
+      210,
+      380
+    ],
+    "weightKg": 8,
+    "url": "https://mokasfx.com/eplmovingheadlight/epl-aura-led-moving-wash-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 250 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPL B-eye 1915 moving head light",
+    "kind": "beeeye",
+    "light": "19pcsx15w rgbw 4-in-1",
+    "beamDeg": [
+      4,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      21,
+      23,
+      35,
+      78,
+      92,
+      97,
+      99
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      490,
+      360,
+      250
+    ],
+    "weightKg": 15,
+    "url": "https://mokasfx.com/eplmovingheadlight/epl-b-eye-1915-moving-head-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 450 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPL Aura led moving wash light (epr-led-600-theatrical-moving-wash)",
+    "kind": "wash",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "colorwheel",
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      230,
+      170,
+      140
+    ],
+    "weightKg": 4.5,
+    "url": "https://mokasfx.com/eplmovingheadlight/epr-led-600-theatrical-moving-wash/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 95 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPR LED 740 Moving Head Spot Wash Light",
+    "kind": "spot",
+    "light": null,
+    "beamDeg": [
+      4,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      22,
+      12
+    ],
+    "features": [
+      "colorwheel",
+      "zoom",
+      "focus",
+      "artnet"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      250,
+      165,
+      336
+    ],
+    "weightKg": 5.8,
+    "url": "https://mokasfx.com/eplmovingheadlight/epr-spot-740/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 300 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPL Aura led moving wash light (the-epl-aura-led-moving-wash-light-2825)",
+    "kind": "wash",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      72
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      230,
+      170,
+      140
+    ],
+    "weightKg": 4.5,
+    "url": "https://mokasfx.com/eplmovingheadlight/the-epl-aura-led-moving-wash-light-2825/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 95 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "MK-LB02 DMX Kinetic Tube Light",
+    "kind": "effect",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      60
+    ],
+    "features": [
+      "pixel",
+      "animation"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 5.6,
+    "url": "https://mokasfx.com/kinetic-light-system/mk-lb02-dmx-kinetic-tube-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kinetisches Lichtobjekt (an Motorwinde höhenverfahrbar). Leistung 100 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "MK-LB02 LED Kinetic Triangle Tubes",
+    "kind": "effect",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      60
+    ],
+    "features": [
+      "focus",
+      "artnet"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 5.6,
+    "url": "https://mokasfx.com/kinetic-light-system/mk-lb02-led-kinetic-triangle-tube/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kinetisches Lichtobjekt (an Motorwinde höhenverfahrbar). Leistung 100 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "MK-LB03 LED Kinetic Football Light",
+    "kind": "effect",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      18
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 5.6,
+    "url": "https://mokasfx.com/kinetic-light-system/mk-lb03-led-kinetic-football-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kinetisches Lichtobjekt (an Motorwinde höhenverfahrbar). Leistung 100 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "MK-LB04 Kinetic Mirror Discs",
+    "kind": "effect",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      62,
+      60,
+      8,
+      83,
+      80
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 5.6,
+    "url": "https://mokasfx.com/kinetic-light-system/mk-lb04-kinetic-mirror-discs/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kinetisches Lichtobjekt (an Motorwinde höhenverfahrbar). Leistung 300 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "MK-LB05 Golden Kinetic Drop",
+    "kind": "effect",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4
+    ],
+    "features": [
+      "artnet"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      252,
+      190,
+      155
+    ],
+    "weightKg": 4.8,
+    "url": "https://mokasfx.com/kinetic-light-system/mk-lb05-kinetic-waterdrop/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kinetisches Lichtobjekt (an Motorwinde höhenverfahrbar). Leistung 100 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "MK-LB06 RGB Kinetic Pixel Tube",
+    "kind": "effect",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      60
+    ],
+    "features": [
+      "pixel"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 5.6,
+    "url": "https://mokasfx.com/kinetic-light-system/mk-lb06-rgb-kinetic-pixel-tube/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kinetisches Lichtobjekt (an Motorwinde höhenverfahrbar). Leistung 100 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "MK-LB07 LED Kinetic Conch",
+    "kind": "effect",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      9
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 5.6,
+    "url": "https://mokasfx.com/kinetic-light-system/mk-lb07-led-kinetic-conch/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kinetisches Lichtobjekt (an Motorwinde höhenverfahrbar). Leistung 150 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "MK-LB08 LED Kinetic Light | Crystal Waterdrop",
+    "kind": "effect",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      10
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 7,
+    "url": "https://mokasfx.com/kinetic-light-system/mk-lb08-led-kinetic-light-crystal-waterdrop/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kinetisches Lichtobjekt (an Motorwinde höhenverfahrbar). Leistung 150 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "MK-LB09 LED Kinetic Crystal Ball",
+    "kind": "effect",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      7,
+      9
+    ],
+    "features": [
+      "prism"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 5.6,
+    "url": "https://mokasfx.com/kinetic-light-system/mk-lb09-led-kinetic-crystal/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kinetisches Lichtobjekt (an Motorwinde höhenverfahrbar). Leistung 150 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "MK-LB10 Kinetic Beam Ring",
+    "kind": "effect",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      12,
+      200
+    ],
+    "features": [
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      900,
+      900,
+      120
+    ],
+    "weightKg": 7.4,
+    "url": "https://mokasfx.com/kinetic-light-system/mk-lb10-kinetic-beam-ring/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kinetischer Ring (Hebe-/Winden-System) mit Beam-LEDs, Ø ca. 900 mm. Leistung 800 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "MK-LB11 Kinetic Ring Light",
+    "kind": "effect",
+    "light": "144PCS RGB SMD LEDS",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      8,
+      80
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 5.6,
+    "url": "https://mokasfx.com/kinetic-light-system/mk-lb11-kinetic-ring-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kinetischer LED-Ring (144 RGB-SMD), über Winde in der Höhe verfahrbar. Leistung 300 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "MK-LB01 Kinetic Lighting System",
+    "kind": "effect",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      10
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 5.6,
+    "url": "https://mokasfx.com/kinetic-light-system/moka-lf-01-kinetic/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kinetisches Lichtobjekt (an Motorwinde höhenverfahrbar). Leistung 150 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "MK-LSP20 20W Outdoor Waterproof Laser Light",
+    "kind": "laser",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "animation",
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      550,
+      450,
+      360
+    ],
+    "weightKg": 32,
+    "url": "https://mokasfx.com/laser-light/20w-outdoor-waterproof-laser-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Laser – nur Lichtprodukte von MOKA SFX erfasst (keine Nebel/Funken/Konfetti). Leistung 320 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "MK-HG10 Stage Green Lasers",
+    "kind": "laser",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 8.7,
+    "url": "https://mokasfx.com/laser-light/mk-hg10-10w-laser-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Laser – nur Lichtprodukte von MOKA SFX erfasst (keine Nebel/Funken/Konfetti)."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "MK-HG20 20w Green Laser Light",
+    "kind": "laser",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "zoom",
+      "animation"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 30,
+    "url": "https://mokasfx.com/laser-light/mk-hg20-20w-laser-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Laser – nur Lichtprodukte von MOKA SFX erfasst (keine Nebel/Funken/Konfetti)."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "MK-HG30 30W Green Laser Light",
+    "kind": "laser",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      435,
+      320,
+      250
+    ],
+    "weightKg": 35,
+    "url": "https://mokasfx.com/laser-light/mk-hg30-30w-laser-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Laser – nur Lichtprodukte von MOKA SFX erfasst (keine Nebel/Funken/Konfetti). Leistung 480 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "MK-HLS10A Wedding RGB 10W Laser Light",
+    "kind": "laser",
+    "light": "160 W",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      235,
+      265,
+      190
+    ],
+    "weightKg": 9.2,
+    "url": "https://mokasfx.com/laser-light/mk-hls10a-wedding-rgb-10w-laser-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Laser – nur Lichtprodukte von MOKA SFX erfasst (keine Nebel/Funken/Konfetti)."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "MK-LS06 6 Eyes RGB Swing Laser Light Projector",
+    "kind": "laser",
+    "light": "500 mWx6PCS",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      11,
+      26,
+      38
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      840,
+      90,
+      240
+    ],
+    "weightKg": 10.3,
+    "url": "https://mokasfx.com/laser-light/mk-ls06-500w-6-eyes-rgb-beam-laser-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Laser – nur Lichtprodukte von MOKA SFX erfasst (keine Nebel/Funken/Konfetti). Leistung 500 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "MK-LS08 8 Eyes Swing Head Laser Lights - RGB / Red",
+    "kind": "laser",
+    "light": "RGB 500mW x8pcs ( R: 200mW , G: 50mW , B: 200mW )",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      19
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1100,
+      80,
+      145
+    ],
+    "weightKg": 6.25,
+    "url": "https://mokasfx.com/laser-light/mk-ls08-500w-8-eyes-rgb-beam-laser-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Laser – nur Lichtprodukte von MOKA SFX erfasst (keine Nebel/Funken/Konfetti). Leistung 500 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "MK-LS09 6 Head RGB Animation Laser Light",
+    "kind": "laser",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      12,
+      62
+    ],
+    "features": [
+      "animation"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1105,
+      265,
+      252
+    ],
+    "weightKg": 12,
+    "url": "https://mokasfx.com/laser-light/mk-ls09-6-head-rgb-animation-laser-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Laser – nur Lichtprodukte von MOKA SFX erfasst (keine Nebel/Funken/Konfetti). Leistung 12 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "MK-LS10A 3W Moving Party Laser Light",
+    "kind": "laser",
+    "light": null,
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      40
+    ],
+    "features": [
+      "animation"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 9.5,
+    "url": "https://mokasfx.com/laser-light/mk-ls10a-moving-head-party-laser-light-3w/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Laser – nur Lichtprodukte von MOKA SFX erfasst (keine Nebel/Funken/Konfetti)."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "MK-HLS15 / MK-HLS20 Laser Stage Lighting",
+    "kind": "laser",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      435,
+      320,
+      250
+    ],
+    "weightKg": 30,
+    "url": "https://mokasfx.com/laser-light/mk-ls20-20w-laser-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Laser – nur Lichtprodukte von MOKA SFX erfasst (keine Nebel/Funken/Konfetti)."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "MK-LS2000/MK-LS3000 DJ & Party RGB Laser Lights",
+    "kind": "laser",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      220,
+      170,
+      130
+    ],
+    "weightKg": 3.85,
+    "url": "https://mokasfx.com/laser-light/mk-ls2000-mk-ls3000-dj-and-party-rgb-laser-lights/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Laser – nur Lichtprodukte von MOKA SFX erfasst (keine Nebel/Funken/Konfetti)."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "MK-HLS30 30w Laser Light",
+    "kind": "laser",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      480,
+      320,
+      385
+    ],
+    "weightKg": 35,
+    "url": "https://mokasfx.com/laser-light/mk-ls30-30w-laser-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Laser – nur Lichtprodukte von MOKA SFX erfasst (keine Nebel/Funken/Konfetti). Leistung 480 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "MK-LS6000A Disco Laser Light | Top Club Lighting",
+    "kind": "laser",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      235,
+      265,
+      190
+    ],
+    "weightKg": 9.2,
+    "url": "https://mokasfx.com/laser-light/mk-ls6000a-club-disco-laser-light-for-ktvs-party-home/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Laser – nur Lichtprodukte von MOKA SFX erfasst (keine Nebel/Funken/Konfetti)."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "MK-LSP30 30w RGB laser projector",
+    "kind": "laser",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      550,
+      450,
+      360
+    ],
+    "weightKg": 36,
+    "url": "https://mokasfx.com/laser-light/mk-lsp30-30w-rgb-laser-projector/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Laser – nur Lichtprodukte von MOKA SFX erfasst (keine Nebel/Funken/Konfetti). Leistung 480 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "MK-LSP60 60W RGB Outdoor Lasers for Landmarking",
+    "kind": "laser",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      860,
+      460,
+      270
+    ],
+    "weightKg": 42,
+    "url": "https://mokasfx.com/laser-light/mk-lsp60-60w-rgb-laser-light-outdoor-lasers-landmark-lighting/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Laser – nur Lichtprodukte von MOKA SFX erfasst (keine Nebel/Funken/Konfetti). Leistung 480 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPR 150W 3 in 1 led moving head",
+    "kind": "hybrid",
+    "light": "150W high brightness imported chip LED light source",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      18
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:10",
+      "prism",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      275,
+      200,
+      475
+    ],
+    "weightKg": 9,
+    "url": "https://mokasfx.com/moving-head-light/150w-3in1-led-moving-head/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 280 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPR 350BSW 17R Beam Spot Wash 3in1 Moving Head Beam Light",
+    "kind": "hybrid",
+    "light": null,
+    "beamDeg": [
+      2,
+      38
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      16,
+      24
+    ],
+    "features": [
+      "cto",
+      "colorwheel",
+      "gobo:14+9+14",
+      "prism",
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      480,
+      480,
+      590
+    ],
+    "weightKg": 19,
+    "url": "https://mokasfx.com/moving-head-light/350w-3-in-1-moving-head-beam-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPR 380BSW 17R Beam Spot Wash 3in1 Moving Head Beam Light",
+    "kind": "hybrid",
+    "light": null,
+    "beamDeg": [
+      2.2,
+      54
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      22
+    ],
+    "features": [
+      "cto",
+      "colorwheel",
+      "gobo:11+7+11",
+      "prism",
+      "frost",
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      320,
+      260,
+      570
+    ],
+    "weightKg": 19.5,
+    "url": "https://mokasfx.com/moving-head-light/380-pattern-beam-moving-head-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 600 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPL 200W moving head light",
+    "kind": "hybrid",
+    "light": null,
+    "beamDeg": [
+      7,
+      21
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      18
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:9+7+7",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "blades",
+      "animation"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      343,
+      239,
+      537
+    ],
+    "weightKg": 14.5,
+    "url": "https://mokasfx.com/moving-head-light/epl-200w/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 300 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPL Mini 10  moving head light",
+    "kind": "spot",
+    "light": null,
+    "beamDeg": [
+      10,
+      10
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "colorwheel",
+      "gobo:7+7",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      125,
+      130,
+      240
+    ],
+    "weightKg": null,
+    "url": "https://mokasfx.com/moving-head-light/epl-mini-10/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 60 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPR Beam 350W moving head light",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      16
+    ],
+    "features": [
+      "gobo:14",
+      "prism",
+      "zoom",
+      "focus",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://mokasfx.com/moving-head-light/eplbeam350w-moving-lights/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 600 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPR 230W Beam 7R Moving Head Light",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": null,
+    "features": [
+      "colorwheel",
+      "gobo:18+18+18",
+      "prism",
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      455,
+      410,
+      545
+    ],
+    "weightKg": 19,
+    "url": "https://mokasfx.com/moving-head-light/eplbeam7r/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 350 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPR 100W LED Moving Head Spot Light",
+    "kind": "spot",
+    "light": null,
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      14
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:13",
+      "prism",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      360,
+      600,
+      300
+    ],
+    "weightKg": 9,
+    "url": "https://mokasfx.com/moving-head-light/epr-100w-led-gobo-dj-moving-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 150 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPR 230W MINI Moving Head Beam Light | Sharpy Beam Light",
+    "kind": "beam",
+    "light": "230w Lamp",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      16
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:14",
+      "prism",
+      "frost"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      510,
+      370,
+      400
+    ],
+    "weightKg": 11,
+    "url": "https://mokasfx.com/moving-head-light/epr-230w-mini-moving-head-beam-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPR 300L 300W LED Moving Head Beam Light",
+    "kind": "beam",
+    "light": "200W LED module with RGB LED strip",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      18
+    ],
+    "features": [
+      "gobo:13+13",
+      "prism",
+      "frost"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      335,
+      240,
+      560
+    ],
+    "weightKg": 13.5,
+    "url": "https://mokasfx.com/moving-head-light/epr-300l-300w-led-moving-head-beam-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "400W 3IN1 CMY LED Moving Head Beam Light",
+    "kind": "hybrid",
+    "light": "LED 400W Module",
+    "beamDeg": [
+      4,
+      35
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      23
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:12+7+12",
+      "prism",
+      "frost",
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      380,
+      270,
+      650
+    ],
+    "weightKg": 22.5,
+    "url": "https://mokasfx.com/moving-head-light/epr-400w-3in1-led-moving-head-beam-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 430 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPR 420 420W Moving Head Light",
+    "kind": "beam",
+    "light": "Osram Sirius HRI 420W",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      16
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:17",
+      "prism",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      480,
+      410,
+      590
+    ],
+    "weightKg": 18,
+    "url": "https://mokasfx.com/moving-head-light/epr-420-420w-moving-head-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 650 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPR SPOT 470 MEGAPOINTE",
+    "kind": "profile",
+    "light": null,
+    "beamDeg": [
+      1.8,
+      21
+    ],
+    "pan": 540,
+    "tilt": 260,
+    "channels": [
+      39,
+      34
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:14",
+      "prism",
+      "zoom",
+      "focus",
+      "blades",
+      "animation"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      473,
+      418,
+      543
+    ],
+    "weightKg": 25.5,
+    "url": "https://mokasfx.com/moving-head-light/epr-470-megapointe/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 700 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPR 480CMY 480W LED CMY 3-in-1 Beam Spot Wash",
+    "kind": "hybrid",
+    "light": "LED 480W Module with RDM function",
+    "beamDeg": [
+      3.5,
+      50
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      23,
+      25
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "gobo:12+7+12",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      390,
+      265,
+      670
+    ],
+    "weightKg": 22.5,
+    "url": "https://mokasfx.com/moving-head-light/epr-480cmy-480w-3in1-beam-spot-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPR 500CMY 500W LED CMY 3-in-1 Beam Spot Wash",
+    "kind": "hybrid",
+    "light": "450W LED module",
+    "beamDeg": [
+      4,
+      50
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      23,
+      25
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "gobo",
+      "prism",
+      "frost",
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      390,
+      430,
+      670
+    ],
+    "weightKg": 23,
+    "url": "https://mokasfx.com/moving-head-light/epr-500cmy-500w-led-cmy-3in1-beam-spot-wash-moving-head-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPR 500FC 500W LED 4-in-1 Moving Head Light (CMY)",
+    "kind": "profile",
+    "light": "8 colors + white, hal",
+    "beamDeg": [
+      6,
+      48
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      26
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "gobo",
+      "focus",
+      "blades",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      380,
+      270,
+      650
+    ],
+    "weightKg": 23,
+    "url": "https://mokasfx.com/moving-head-light/epr-500fc-500w-led-frame-light-cmy/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPR 500FP 500W LED 4-in-1 Frame Moving Light (+Pattern)",
+    "kind": "profile",
+    "light": "LED 500W Module",
+    "beamDeg": [
+      6,
+      50
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      26
+    ],
+    "features": [
+      "cto",
+      "gobo:7",
+      "frost",
+      "zoom",
+      "blades",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      380,
+      270,
+      670
+    ],
+    "weightKg": 23.5,
+    "url": "https://mokasfx.com/moving-head-light/epr-500fp-500w-led-frame-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 600 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPR 500L 500W LED Moving Head Beam Light",
+    "kind": "beam",
+    "light": "500W LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      16
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:15+15",
+      "prism",
+      "frost",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      380,
+      270,
+      645
+    ],
+    "weightKg": 21,
+    "url": "https://mokasfx.com/moving-head-light/epr-500l-500w-led-moving-head-beam-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPR 600 PR 600W LED Moving Head Profile Light",
+    "kind": "profile",
+    "light": "600W LED module",
+    "beamDeg": [
+      5.5,
+      50
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      34
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "prism",
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      380,
+      270,
+      690
+    ],
+    "weightKg": 26,
+    "url": "https://mokasfx.com/moving-head-light/epr-600-pr-600w-led-frame-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 800 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPR 800 PR 800W LED Framing",
+    "kind": "profile",
+    "light": "800W LED Module, 20000-hour lifespan",
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": null,
+    "tilt": 540,
+    "channels": [
+      39
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:7+4",
+      "prism",
+      "frost",
+      "zoom",
+      "blades",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      385,
+      270,
+      690
+    ],
+    "weightKg": 27.5,
+    "url": "https://mokasfx.com/moving-head-light/epr-800-pr-800w-led-framing-moving-head/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 720 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPR BEAM 295W moving head stage lights",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": [
+      0,
+      4
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:14+17+14",
+      "prism",
+      "frost",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      290,
+      240,
+      510
+    ],
+    "weightKg": 11.6,
+    "url": "https://mokasfx.com/moving-head-light/epr-beam-295w-moving-head-stage-lights/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 350 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPR 382S Beam 17R Moving Head Light",
+    "kind": "beam",
+    "light": "Osram Sirius HRI 382W (Customizable)",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      16
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:13+13",
+      "prism",
+      "frost"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      500,
+      450,
+      720
+    ],
+    "weightKg": 17,
+    "url": "https://mokasfx.com/moving-head-light/epr-beam-380w-moving-beam-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 600 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPR 250BSW 250W 3-in-1 LED Beam Wash Spot Light",
+    "kind": "hybrid",
+    "light": "250W white LED",
+    "beamDeg": [
+      7,
+      21
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      18
+    ],
+    "features": [
+      "cto",
+      "colorwheel",
+      "gobo:10+7+10",
+      "prism",
+      "frost",
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      540,
+      275,
+      200
+    ],
+    "weightKg": 15,
+    "url": "https://mokasfx.com/moving-head-light/epr-led-250w-3in1-moving-head-beam-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 450 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPR SPOT 1000",
+    "kind": "profile",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "colorwheel",
+      "gobo:4+5",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      600,
+      470,
+      610
+    ],
+    "weightKg": 42,
+    "url": "https://mokasfx.com/moving-head-light/epr-spot-1000/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 1203 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPR Spot 370 moving head spot",
+    "kind": "spot",
+    "light": null,
+    "beamDeg": [
+      2,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      25,
+      24,
+      16
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:14",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": null,
+    "url": "https://mokasfx.com/moving-head-light/epr-spot-370-moving-head-spot/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPR SPOT 440 Mythos",
+    "kind": "profile",
+    "light": "s of 440W. A 453x423x560mm fixture with a net weight of 27 kilograms has three open-color wheels with five colors and a half-color effect. T",
+    "beamDeg": [
+      5,
+      10
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      30,
+      34
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      453,
+      423,
+      560
+    ],
+    "weightKg": 27,
+    "url": "https://mokasfx.com/moving-head-light/epr-spot-440-mythos/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 700 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPR Spot PF1000 VIPPER",
+    "kind": "profile",
+    "light": null,
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      32,
+      35
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:5+4",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      600,
+      470,
+      610
+    ],
+    "weightKg": 42.67,
+    "url": "https://mokasfx.com/moving-head-light/epr-spot-pf-1000-vipper/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 1203 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPR 300W 3in 1 led beam",
+    "kind": "hybrid",
+    "light": "high-power 300W white LED light source",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      18
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:19",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      343,
+      232,
+      537
+    ],
+    "weightKg": 15,
+    "url": "https://mokasfx.com/moving-head-light/moka-sfx-300w-3in-1-led-moving-head-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 450 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPR 150W LED Beam Lights",
+    "kind": "beam",
+    "light": "1x150W High-power LED",
+    "beamDeg": [
+      2.7,
+      2.7
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      16
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:13",
+      "prism",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 11.5,
+    "url": "https://mokasfx.com/moving-head-light/moka-sfx-epr-150w-led-beam-lights/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 280 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPR BEAM 380W Moving Beam Light",
+    "kind": "profile",
+    "light": "high-power 480W white light LED light source",
+    "beamDeg": [
+      7,
+      42
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      21
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:7",
+      "prism",
+      "zoom",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      415,
+      281,
+      715
+    ],
+    "weightKg": 25,
+    "url": "https://mokasfx.com/moving-head-light/moka-sfx-epr-480-profile-dmx-beam-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 600 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPR 382 17R Moving Head Beam Light",
+    "kind": "beam",
+    "light": "Philips MSD Silver 380EC / Osram Sirius HRI 382W",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      16
+    ],
+    "features": [
+      "cto",
+      "colorwheel",
+      "gobo:17+17+17",
+      "prism",
+      "frost",
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 19,
+    "url": "https://mokasfx.com/moving-head-light/moka-sfx-epr-pro-380-moving-beam-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 600 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "EPR SPOT 440",
+    "kind": "profile",
+    "light": "OSRAM SIRIUS HRI 440W",
+    "beamDeg": [
+      5,
+      10
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      34,
+      30
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "zoom",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      453,
+      423,
+      560
+    ],
+    "weightKg": 27,
+    "url": "https://mokasfx.com/moving-head-light/moka-sfx-epr-spot-440/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 700 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "P-02 Battery Par Light",
+    "kind": "par",
+    "light": "6x18W 6 in 1 (RGBWA/UV)",
+    "beamDeg": [
+      25,
+      25
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      6,
+      10
+    ],
+    "features": [
+      "prism"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      140,
+      160,
+      200
+    ],
+    "weightKg": 2.3,
+    "url": "https://mokasfx.com/par-lights/p-02-battery-par-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 100 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "P-04 12*18W battery Par light",
+    "kind": "par",
+    "light": "12x18W 6 in 1 (RGBWA/UV)",
+    "beamDeg": [
+      25,
+      25
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      6,
+      10
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 3.6,
+    "url": "https://mokasfx.com/par-lights/p-04-battery-par-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 200 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "P-12 LED Par Light",
+    "kind": "par",
+    "light": "18x10W 4 in 1 (RGBWA/UV)",
+    "beamDeg": [
+      25,
+      25
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      11
+    ],
+    "features": [
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      270,
+      270,
+      80
+    ],
+    "weightKg": 3.5,
+    "url": "https://mokasfx.com/par-lights/p-12-waterproof-led-par-can-dj-par-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 200 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "P-16 LED PAR Light",
+    "kind": "par",
+    "light": "18pcs 10W R.G.B.W. 4 in 1",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      8
+    ],
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      270,
+      270,
+      390
+    ],
+    "weightKg": 4,
+    "url": "https://mokasfx.com/par-lights/p-16-par-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 450 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "P-06 100W Cob Par light",
+    "kind": "par",
+    "light": "200W 2 in 1 (warm white + cool white)",
+    "beamDeg": [
+      60,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4
+    ],
+    "features": [
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 5.2,
+    "url": "https://mokasfx.com/par-lights/p06-led-par-can-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 200 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "P-03 9*18W Battery PAR Light",
+    "kind": "par",
+    "light": "9x18W 6 in 1 (RGBWA/UV)",
+    "beamDeg": [
+      25,
+      25
+    ],
+    "pan": "infinite",
+    "tilt": null,
+    "channels": [
+      6
+    ],
+    "features": [
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      270,
+      270,
+      130
+    ],
+    "weightKg": 3.6,
+    "url": "https://mokasfx.com/par-lights/parlight-p-03/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 150 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "1000w Waterproof Strobe Light",
+    "kind": "strobe",
+    "light": "Strobe: 144pcsx5w Cold White LEDs",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": 270,
+    "channels": [
+      7,
+      14,
+      42
+    ],
+    "features": [
+      "pixel",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      495,
+      314,
+      159
+    ],
+    "weightKg": 10,
+    "url": "https://mokasfx.com/waterproof-outdoor-lights/1000w-waterproof-strobe-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "P-B380 380W Waterproof Moving Head Beam Light",
+    "kind": "beam",
+    "light": "Philips 380W or Osram 370W",
+    "beamDeg": [
+      2,
+      5
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      17
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:17+17",
+      "frost",
+      "focus",
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      359,
+      403,
+      703
+    ],
+    "weightKg": 28,
+    "url": "https://mokasfx.com/waterproof-outdoor-lights/380w-waterproof-outdoor-beam-moving-head/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "P-B380S Mini 380W Waterproof Moving Beam Light",
+    "kind": "beam",
+    "light": "Philips MSD Silver 380W",
+    "beamDeg": [
+      1.6,
+      1.6
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:15",
+      "prism",
+      "IP66"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      510,
+      460,
+      420
+    ],
+    "weightKg": 19,
+    "url": "https://mokasfx.com/waterproof-outdoor-lights/mini-380w-waterproof-moving-beam-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 500 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "P-1940 19×40W Waterproof B-Eyes Wash",
+    "kind": "beeeye",
+    "light": null,
+    "beamDeg": [
+      7,
+      42
+    ],
+    "pan": 540,
+    "tilt": 250,
+    "channels": [
+      21,
+      26,
+      36,
+      43,
+      78,
+      119
+    ],
+    "features": [
+      "zoom",
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      434,
+      260,
+      577
+    ],
+    "weightKg": 23,
+    "url": "https://mokasfx.com/waterproof-outdoor-lights/p-1940-waterproof-wash-moving-head-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 760 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "P-380BSW 380W 3-in-1 Beam",
+    "kind": "hybrid",
+    "light": "380W Philips MSD Silver Bulb",
+    "beamDeg": [
+      0,
+      45
+    ],
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      18,
+      20
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:15+8",
+      "frost",
+      "focus",
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 26.2,
+    "url": "https://mokasfx.com/waterproof-outdoor-lights/p-380bsw-beam-moving-head/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 600 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "P-C18 18x20W 4-in-1 LED Wall Washer",
+    "kind": "bar",
+    "light": "18x20W RGBW 4-in-1 LED",
+    "beamDeg": [
+      25,
+      25
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      72
+    ],
+    "features": [
+      "pixel",
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 7,
+    "url": "https://mokasfx.com/waterproof-outdoor-lights/p-c18-4-in-1-led-wall-washer/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 380 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "Waterproof P-C27 27×15W 4-in-1 LED Wash Light",
+    "kind": "flood",
+    "light": "280W RGBW LED",
+    "beamDeg": [
+      8,
+      8
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      7,
+      8
+    ],
+    "features": [
+      "focus",
+      "pixel",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      465,
+      80.3,
+      239.8
+    ],
+    "weightKg": 6.6,
+    "url": "https://mokasfx.com/waterproof-outdoor-lights/p-c27-waterproof-led-wash-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": null
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "P-C32 32×30W 4-in-1 LED Wash Flood Light",
+    "kind": "flood",
+    "light": "32pcs 30W RGBW 4-in-1 LEDs",
+    "beamDeg": [
+      25,
+      25
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      25,
+      15,
+      45,
+      60
+    ],
+    "features": [
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      556,
+      134,
+      377
+    ],
+    "weightKg": 17,
+    "url": "https://mokasfx.com/waterproof-outdoor-lights/p-c32-waterproof-outdoor-led-wash-flood-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 1000 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "P-C40 40x25W 4-in-1 LED Wash Light",
+    "kind": "flood",
+    "light": "40 x 25W RGBW 4-in-1 LED",
+    "beamDeg": [
+      45,
+      45
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 17,
+    "url": "https://mokasfx.com/waterproof-outdoor-lights/p-c40-40x25w-4-in-1-led-wash-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 1000 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "P-C60 60×10W 4-in-1 LED Wash Flood Lights",
+    "kind": "flood",
+    "light": "60x10W RGBW 4-in-1 LEDs",
+    "beamDeg": [
+      25,
+      25
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4,
+      6,
+      9
+    ],
+    "features": [
+      "focus",
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 16,
+    "url": "https://mokasfx.com/waterproof-outdoor-lights/p-c60-outdoor-led-wash-flood-lights/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 600 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "P-C80 80×20W 4-in-1 LED Full Color Wash Light",
+    "kind": "flood",
+    "light": "80x20W RGBW 4-in-1 LED",
+    "beamDeg": [
+      25,
+      25
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      13
+    ],
+    "features": [
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      641,
+      123,
+      644
+    ],
+    "weightKg": 29,
+    "url": "https://mokasfx.com/waterproof-outdoor-lights/p-c80-80x20w-4-in-1-led-full-color-wash-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 1600 W."
+  },
+  {
+    "manufacturer": "MOKA SFX",
+    "model": "P-L18 18x18W 6-in-1 Wall Washer Light",
+    "kind": "bar",
+    "light": "18x18W (RGBWA+UV 6in1) LED",
+    "beamDeg": [
+      20,
+      30
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      6,
+      10,
+      108
+    ],
+    "features": [
+      "focus",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      1040,
+      120,
+      130
+    ],
+    "weightKg": 7,
+    "url": "https://mokasfx.com/waterproof-outdoor-lights/p-l18-18x18w-wall-washer-light/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Leistung 330 W."
+  }
+]

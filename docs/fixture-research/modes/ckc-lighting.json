@@ -1,0 +1,5545 @@
+[
+ {
+  "man": "CKC Lighting",
+  "key": "proxima-hybrid",
+  "model": "Proxima Hybrid",
+  "kind": "hybrid",
+  "deg": [
+   0.9,
+   17.3
+  ],
+  "tilt": 270,
+  "ch": [
+   29,
+   36
+  ],
+  "feat": [
+   "gobo:14",
+   "anim",
+   "prism",
+   "frost"
+  ],
+  "url": "https://www.ckclighting.com/item/220.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "mp5x",
+  "model": "MP5X",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "ch": [
+   23,
+   28
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost"
+  ],
+  "url": "https://www.ckclighting.com/item/221.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "wash-z500",
+  "model": "Wash Z500",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   9,
+   48
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   18,
+   25
+  ],
+  "url": "https://www.ckclighting.com/item/222.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "ev-block-ip",
+  "model": "EV Block IP",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "deg": [
+   66,
+   66
+  ],
+  "ch": [
+   14,
+   32,
+   37,
+   47,
+   77,
+   126,
+   137
+  ],
+  "size": [
+   417,
+   154,
+   262
+  ],
+  "url": "https://www.ckclighting.com/item/223.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "uv-s100-ip",
+  "model": "UV S100 IP",
+  "kind": "flood",
+  "ch": [
+   1,
+   2,
+   3
+  ],
+  "size": [
+   440,
+   148,
+   267
+  ],
+  "url": "https://www.ckclighting.com/item/224.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "rotor",
+  "model": "Rotor",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   5,
+   12,
+   33,
+   119
+  ],
+  "feat": [
+   "blades"
+  ],
+  "size": [
+   709,
+   95,
+   706
+  ],
+  "url": "https://www.ckclighting.com/item/225.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "cyc-x",
+  "model": "CYC X",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   66,
+   66
+  ],
+  "ch": [
+   1,
+   2,
+   4,
+   11,
+   13,
+   16,
+   19,
+   20,
+   31,
+   32,
+   56
+  ],
+  "size": [
+   957,
+   206,
+   85
+  ],
+  "url": "https://www.ckclighting.com/item/226.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "w1000",
+  "model": "W1000",
+  "kind": "par",
+  "deg": [
+   14,
+   14
+  ],
+  "ch": [
+   8,
+   14,
+   32
+  ],
+  "size": [
+   663,
+   235,
+   600
+  ],
+  "url": "https://www.ckclighting.com/item/227.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "fresnel-350tw",
+  "model": "Fresnel 350TW",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   12,
+   66
+  ],
+  "ch": [
+   1,
+   7,
+   10,
+   12,
+   15,
+   19
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   329,
+   383,
+   455
+  ],
+  "url": "https://www.ckclighting.com/item/228.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "gobo-projector-1000",
+  "model": "Gobo Projector 1000",
+  "kind": "effect",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   6,
+   53
+  ],
+  "ch": [
+   32,
+   47
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:8",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "size": [
+   552,
+   291,
+   720
+  ],
+  "url": "https://www.ckclighting.com/item/229.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "arc-w1000",
+  "model": "ARC W1000",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   11,
+   11
+  ],
+  "ch": [
+   1,
+   2,
+   8,
+   16
+  ],
+  "size": [
+   663,
+   235,
+   600
+  ],
+  "url": "https://www.ckclighting.com/item/230.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "arc-par-18-ip",
+  "model": "ARC Par 18 IP",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   11,
+   11
+  ],
+  "ch": [
+   4,
+   8,
+   16
+  ],
+  "size": [
+   291,
+   173,
+   269
+  ],
+  "url": "https://www.ckclighting.com/item/231.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "wash-zp480",
+  "model": "Wash ZP480",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   9,
+   47
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   27,
+   31,
+   39
+  ],
+  "feat": [
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.ckclighting.com/item/232.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "ip-flood-150fc",
+  "model": "IP Flood 150FC",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   51,
+   51
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   6
+  ],
+  "size": [
+   332,
+   195,
+   311
+  ],
+  "url": "https://www.ckclighting.com/item/233.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "profile-500fc-ip",
+  "model": "Profile 500FC IP",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "ch": [
+   1,
+   4,
+   6,
+   9,
+   10,
+   11,
+   13,
+   15,
+   19
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom",
+   "blades"
+  ],
+  "size": [
+   314,
+   689,
+   480
+  ],
+  "url": "https://www.ckclighting.com/item/234.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "zb-par-7",
+  "model": "ZB Par 7",
+  "kind": "wash",
+  "leds": [
+   7,
+   "rgbl"
+  ],
+  "deg": [
+   5,
+   60
+  ],
+  "ch": [
+   5,
+   6,
+   12,
+   13,
+   16,
+   18
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.ckclighting.com/item/235.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 1 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "v15-pro",
+  "model": "V15 Pro",
+  "kind": "profile",
+  "deg": [
+   5,
+   53
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   38,
+   54
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.ckclighting.com/item/236.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "v15",
+  "model": "V15",
+  "kind": "profile",
+  "deg": [
+   5,
+   53
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   38,
+   54
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.ckclighting.com/item/237.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "ak-m-blast",
+  "model": "AK M Blast",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "deg": [
+   112,
+   112
+  ],
+  "ch": [
+   24,
+   55,
+   91,
+   99,
+   133,
+   140,
+   177,
+   180
+  ],
+  "size": [
+   420,
+   210,
+   395
+  ],
+  "url": "https://www.ckclighting.com/item/238.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "proxima-x",
+  "model": "Proxima X",
+  "kind": "beam",
+  "ch": [
+   23,
+   28
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://www.ckclighting.com/item/239.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "vh20",
+  "model": "VH20",
+  "kind": "hybrid",
+  "deg": [
+   1.9,
+   26
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   27,
+   32
+  ],
+  "feat": [
+   "gobo:14",
+   "anim",
+   "prism",
+   "frost"
+  ],
+  "url": "https://www.ckclighting.com/item/240.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "cyc-m",
+  "model": "CYC M",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   59,
+   59
+  ],
+  "ch": [
+   1,
+   2,
+   4,
+   11,
+   13,
+   16,
+   19,
+   20,
+   32
+  ],
+  "size": [
+   500,
+   206,
+   85
+  ],
+  "url": "https://www.ckclighting.com/item/241.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "fc-profile-400",
+  "model": "FC Profile 400",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   6,
+   50
+  ],
+  "ch": [
+   1,
+   2,
+   5,
+   10,
+   12,
+   17,
+   21
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom",
+   "blades"
+  ],
+  "size": [
+   395,
+   638,
+   466
+  ],
+  "url": "https://www.ckclighting.com/item/242.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "par-z19-ip",
+  "model": "Par Z19 IP",
+  "kind": "par",
+  "leds": [
+   19,
+   "rgbwauv"
+  ],
+  "deg": [
+   11,
+   53
+  ],
+  "ch": [
+   7,
+   9,
+   10,
+   14
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   365,
+   305,
+   396
+  ],
+  "url": "https://www.ckclighting.com/item/243.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "gobo-projector-500fc",
+  "model": "Gobo Projector 500FC",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   7,
+   50
+  ],
+  "ch": [
+   32,
+   34,
+   49,
+   53
+  ],
+  "feat": [
+   "gobo:8",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "size": [
+   353,
+   663,
+   460
+  ],
+  "url": "https://www.ckclighting.com/item/244.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "ip-flood-100ww",
+  "model": "IP Flood 100WW",
+  "kind": "flood",
+  "deg": [
+   60,
+   60
+  ],
+  "ch": [
+   1,
+   2
+  ],
+  "size": [
+   332,
+   196,
+   326
+  ],
+  "url": "https://www.ckclighting.com/item/245.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "arc-w700",
+  "model": "ARC W700",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   11,
+   11
+  ],
+  "ch": [
+   1,
+   2,
+   8,
+   16
+  ],
+  "size": [
+   536,
+   148,
+   352
+  ],
+  "url": "https://www.ckclighting.com/item/246.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "arc-par-12-ip",
+  "model": "ARC Par 12 IP",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   11,
+   11
+  ],
+  "ch": [
+   2,
+   4,
+   5,
+   6,
+   8
+  ],
+  "size": [
+   254,
+   173,
+   240
+  ],
+  "url": "https://www.ckclighting.com/item/247.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "v4-wash",
+  "model": "V4 Wash",
+  "kind": "wash",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   8,
+   38
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   28,
+   36
+  ],
+  "feat": [
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.ckclighting.com/item/248.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "mp5t",
+  "model": "MP5T",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "ch": [
+   20,
+   22
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost"
+  ],
+  "url": "https://www.ckclighting.com/item/249.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "v15-ip",
+  "model": "V15 IP",
+  "kind": "profile",
+  "deg": [
+   6,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   36,
+   52
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.ckclighting.com/item/250.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "zb19x-ip",
+  "model": "ZB19X IP",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   60
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   17,
+   21,
+   93
+  ],
+  "pixelFrom": 93,
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.ckclighting.com/item/251.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "v10",
+  "model": "V10",
+  "kind": "profile",
+  "deg": [
+   6,
+   52
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   36,
+   52
+  ],
+  "feat": [
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.ckclighting.com/item/252.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "v10-pro",
+  "model": "V10 Pro",
+  "kind": "profile",
+  "deg": [
+   6,
+   52
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   36,
+   52
+  ],
+  "feat": [
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.ckclighting.com/item/253.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "vh10",
+  "model": "VH10",
+  "kind": "hybrid",
+  "deg": [
+   1.8,
+   21
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   28,
+   33
+  ],
+  "feat": [
+   "gobo:14",
+   "anim",
+   "prism",
+   "frost"
+  ],
+  "url": "https://www.ckclighting.com/item/254.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "wash-z350",
+  "model": "Wash Z350",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   12,
+   53
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   15,
+   16,
+   17,
+   19
+  ],
+  "url": "https://www.ckclighting.com/item/255.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "ak-blast",
+  "model": "AK Blast",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "deg": [
+   68,
+   68
+  ],
+  "ch": [
+   15,
+   50,
+   158
+  ],
+  "size": [
+   425,
+   262,
+   175
+  ],
+  "url": "https://www.ckclighting.com/item/256.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "uv-f100-ip",
+  "model": "UV F100 IP",
+  "kind": "flood",
+  "ch": [
+   2,
+   3,
+   6
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   440,
+   147,
+   267
+  ],
+  "url": "https://www.ckclighting.com/item/257.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "legend",
+  "model": "Legend",
+  "kind": "retro",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   59,
+   59
+  ],
+  "ch": [
+   5,
+   6,
+   7
+  ],
+  "size": [
+   478,
+   274,
+   425
+  ],
+  "url": "https://www.ckclighting.com/item/258.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "w700",
+  "model": "W700",
+  "kind": "par",
+  "deg": [
+   14,
+   14
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   8,
+   10,
+   16,
+   38,
+   80,
+   82,
+   88
+  ],
+  "size": [
+   543,
+   164,
+   352
+  ],
+  "url": "https://www.ckclighting.com/item/259.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "fc-profile-300",
+  "model": "FC Profile 300",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "rgbwa"
+  ],
+  "ch": [
+   3,
+   6,
+   7,
+   9,
+   12
+  ],
+  "feat": [
+   "gobo:8",
+   "blades"
+  ],
+  "size": [
+   302,
+   683,
+   456
+  ],
+  "url": "https://www.ckclighting.com/item/260.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "fresnel-180tw",
+  "model": "Fresnel 180TW",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   13,
+   60
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   6,
+   11,
+   13
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   318,
+   301,
+   368
+  ],
+  "url": "https://www.ckclighting.com/item/261.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "ev-stick-ip",
+  "model": "EV Stick IP",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "deg": [
+   79,
+   79
+  ],
+  "ch": [
+   11,
+   14,
+   16,
+   32,
+   34,
+   39,
+   75,
+   112,
+   123
+  ],
+  "size": [
+   1000,
+   127,
+   154
+  ],
+  "url": "https://www.ckclighting.com/item/262.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "par-z180-ip",
+  "model": "PAR Z180 IP",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   11,
+   57
+  ],
+  "ch": [
+   6,
+   9,
+   14
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   333,
+   259,
+   389
+  ],
+  "url": "https://www.ckclighting.com/item/263.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "mini-profile-50",
+  "model": "Mini Profile 50",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   15,
+   30
+  ],
+  "ch": [
+   2,
+   3,
+   6
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom",
+   "blades"
+  ],
+  "size": [
+   144,
+   383,
+   276
+  ],
+  "url": "https://www.ckclighting.com/item/265.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "profile-300",
+  "model": "Profile 300",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "ch": [
+   1,
+   3,
+   4
+  ],
+  "feat": [
+   "blades"
+  ],
+  "size": [
+   302,
+   683,
+   456
+  ],
+  "url": "https://www.ckclighting.com/item/266.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "v8",
+  "model": "V8",
+  "kind": "profile",
+  "deg": [
+   6,
+   52
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   36,
+   52
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.ckclighting.com/item/267.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "fresnel-150tw",
+  "model": "Fresnel 150TW",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   10,
+   48
+  ],
+  "ch": [
+   1,
+   6,
+   9,
+   11,
+   14,
+   18
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   344,
+   274,
+   398
+  ],
+  "url": "https://www.ckclighting.com/item/268.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "ev-block",
+  "model": "EV Block",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "deg": [
+   67,
+   67
+  ],
+  "ch": [
+   14,
+   32,
+   37,
+   47,
+   77,
+   126,
+   137
+  ],
+  "size": [
+   417,
+   139,
+   261
+  ],
+  "url": "https://www.ckclighting.com/item/269.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "zb-par-12s",
+  "model": "ZB Par 12s",
+  "kind": "par",
+  "leds": [
+   12,
+   "rgbl"
+  ],
+  "deg": [
+   5,
+   50
+  ],
+  "ch": [
+   6,
+   9,
+   10,
+   15,
+   18
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   316,
+   222,
+   367
+  ],
+  "url": "https://www.ckclighting.com/item/270.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 12 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "gobo-projector-400",
+  "model": "Gobo Projector 400",
+  "kind": "effect",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   7,
+   50
+  ],
+  "ch": [
+   29,
+   49
+  ],
+  "feat": [
+   "gobo:8",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "size": [
+   351,
+   604,
+   460
+  ],
+  "url": "https://www.ckclighting.com/item/271.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "ip-flood-60fc",
+  "model": "IP Flood 60FC",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   61,
+   61
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   6
+  ],
+  "size": [
+   202,
+   122,
+   189
+  ],
+  "url": "https://www.ckclighting.com/item/272.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "arc-w350",
+  "model": "ARC W350",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   11,
+   11
+  ],
+  "ch": [
+   8,
+   14,
+   16
+  ],
+  "size": [
+   443,
+   148,
+   286
+  ],
+  "url": "https://www.ckclighting.com/item/273.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "arc-par-7-ip",
+  "model": "ARC Par 7 IP",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   11,
+   11
+  ],
+  "ch": [
+   2,
+   4,
+   5,
+   6,
+   8
+  ],
+  "size": [
+   216,
+   157,
+   202
+  ],
+  "url": "https://www.ckclighting.com/item/274.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "vh5",
+  "model": "VH5",
+  "kind": "hybrid",
+  "deg": [
+   1.8,
+   20
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   19,
+   24
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost"
+  ],
+  "url": "https://www.ckclighting.com/item/275.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "p10",
+  "model": "P10",
+  "kind": "profile",
+  "deg": [
+   6,
+   52
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   36,
+   52
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.ckclighting.com/item/276.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "par-z180",
+  "model": "PAR Z180",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   8,
+   50
+  ],
+  "ch": [
+   2,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   12,
+   13
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   316,
+   310,
+   400
+  ],
+  "url": "https://www.ckclighting.com/item/277.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "fc-profile-200",
+  "model": "FC Profile 200",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   26,
+   50
+  ],
+  "ch": [
+   1,
+   3,
+   5,
+   6,
+   7,
+   9,
+   10,
+   11,
+   15,
+   19
+  ],
+  "feat": [
+   "blades"
+  ],
+  "size": [
+   264,
+   472,
+   394
+  ],
+  "url": "https://www.ckclighting.com/item/278.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "v8-ip",
+  "model": "V8 IP",
+  "kind": "profile",
+  "deg": [
+   6,
+   53
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   36,
+   52
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.ckclighting.com/item/279.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "v8-pro",
+  "model": "V8 Pro",
+  "kind": "profile",
+  "deg": [
+   6,
+   52
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   36,
+   52
+  ],
+  "feat": [
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.ckclighting.com/item/280.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "mp5w",
+  "model": "MP5W",
+  "kind": "beam",
+  "deg": [
+   3,
+   3
+  ],
+  "ch": [
+   17,
+   20
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost"
+  ],
+  "url": "https://www.ckclighting.com/item/281.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "wash-z120",
+  "model": "Wash Z120",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   7,
+   55
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   15,
+   16,
+   17,
+   19
+  ],
+  "url": "https://www.ckclighting.com/item/282.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "ak-storm-bar",
+  "model": "AK Storm Bar",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "deg": [
+   77,
+   77
+  ],
+  "ch": [
+   15,
+   80,
+   137
+  ],
+  "size": [
+   1007,
+   180,
+   190
+  ],
+  "url": "https://www.ckclighting.com/item/283.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "uv-par-100-ip",
+  "model": "UV Par 100 IP",
+  "kind": "flood",
+  "leds": [
+   1,
+   "uv"
+  ],
+  "ch": [
+   1,
+   2,
+   4
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   155,
+   275,
+   326
+  ],
+  "url": "https://www.ckclighting.com/item/284.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "vintage",
+  "model": "Vintage",
+  "kind": "retro",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   77,
+   77
+  ],
+  "ch": [
+   5,
+   6,
+   7
+  ],
+  "size": [
+   677,
+   362,
+   658
+  ],
+  "url": "https://www.ckclighting.com/item/285.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "w350",
+  "model": "W350",
+  "kind": "par",
+  "deg": [
+   15,
+   15
+  ],
+  "ch": [
+   3,
+   4,
+   8,
+   10,
+   16,
+   48,
+   50,
+   56
+  ],
+  "size": [
+   450,
+   148,
+   267
+  ],
+  "url": "https://www.ckclighting.com/item/286.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "fc-mini-profile-50",
+  "model": "FC Mini Profile 50",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   15,
+   30
+  ],
+  "ch": [
+   2,
+   4,
+   5,
+   6,
+   13,
+   14,
+   16
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom",
+   "blades"
+  ],
+  "size": [
+   144,
+   383,
+   276
+  ],
+  "url": "https://www.ckclighting.com/item/287.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "fresnel-80tw",
+  "model": "Fresnel 80TW",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   11,
+   60
+  ],
+  "ch": [
+   1,
+   6,
+   9,
+   11,
+   14,
+   18
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   201,
+   272,
+   303
+  ],
+  "url": "https://www.ckclighting.com/item/288.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "gobo-projector-380",
+  "model": "Gobo Projector 380",
+  "kind": "effect",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   7,
+   40
+  ],
+  "ch": [
+   30
+  ],
+  "feat": [
+   "gobo:8",
+   "anim",
+   "prism",
+   "frost",
+   "zoom"
+  ],
+  "size": [
+   442,
+   230,
+   530
+  ],
+  "url": "https://www.ckclighting.com/item/289.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "ip-flood-50ww",
+  "model": "IP Flood 50WW",
+  "kind": "flood",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   60,
+   60
+  ],
+  "ch": [
+   1,
+   3
+  ],
+  "size": [
+   202,
+   122,
+   189
+  ],
+  "url": "https://www.ckclighting.com/item/290.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "arc-w100",
+  "model": "ARC W100",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   11,
+   11
+  ],
+  "ch": [
+   8,
+   14
+  ],
+  "size": [
+   222,
+   138,
+   248
+  ],
+  "url": "https://www.ckclighting.com/item/291.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "mp5",
+  "model": "MP5",
+  "kind": "beam",
+  "deg": [
+   3,
+   3
+  ],
+  "ch": [
+   19,
+   22,
+   25
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost"
+  ],
+  "url": "https://www.ckclighting.com/item/292.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "v6-ip",
+  "model": "V6 IP",
+  "kind": "profile",
+  "deg": [
+   6,
+   44
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   36,
+   50,
+   57
+  ],
+  "feat": [
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.ckclighting.com/item/293.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "v6",
+  "model": "V6",
+  "kind": "profile",
+  "deg": [
+   9,
+   46
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   33,
+   38,
+   43
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "iris",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.ckclighting.com/item/294.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "wash-zb19",
+  "model": "Wash ZB19",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   60
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "ch": [
+   17,
+   21,
+   93
+  ],
+  "pixelFrom": 93,
+  "url": "https://www.ckclighting.com/item/295.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "ev-stick",
+  "model": "EV Stick",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "deg": [
+   74,
+   74
+  ],
+  "ch": [
+   11,
+   14,
+   16,
+   32,
+   34,
+   39,
+   75,
+   112,
+   123
+  ],
+  "size": [
+   1000,
+   127,
+   128
+  ],
+  "url": "https://www.ckclighting.com/item/296.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "uv-p50-ip",
+  "model": "UV P50 IP",
+  "kind": "flood",
+  "leds": [
+   1,
+   "uv"
+  ],
+  "deg": [
+   50,
+   50
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   6
+  ],
+  "size": [
+   196,
+   151,
+   294
+  ],
+  "url": "https://www.ckclighting.com/item/297.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "uv-p40-ip",
+  "model": "UV P40 IP",
+  "kind": "flood",
+  "leds": [
+   1,
+   "uv"
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   6
+  ],
+  "size": [
+   209,
+   150,
+   247
+  ],
+  "url": "https://www.ckclighting.com/item/298.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "w100",
+  "model": "W100",
+  "kind": "par",
+  "leds": [
+   9,
+   "rgbw"
+  ],
+  "deg": [
+   14,
+   14
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   8,
+   10,
+   16,
+   17,
+   24,
+   26,
+   32
+  ],
+  "pixelFrom": 32,
+  "size": [
+   223,
+   138,
+   248
+  ],
+  "url": "https://www.ckclighting.com/item/299.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "mini-profile-40",
+  "model": "Mini Profile 40",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   15,
+   30
+  ],
+  "ch": [
+   1,
+   2,
+   4
+  ],
+  "feat": [
+   "gobo:8",
+   "blades"
+  ],
+  "size": [
+   142,
+   317,
+   227
+  ],
+  "url": "https://www.ckclighting.com/item/300.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "fresnel-60fc",
+  "model": "Fresnel 60FC",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   13,
+   53
+  ],
+  "ch": [
+   5,
+   7
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   195,
+   242,
+   251
+  ],
+  "url": "https://www.ckclighting.com/item/301.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "v4",
+  "model": "V4",
+  "kind": "profile",
+  "deg": [
+   3,
+   53
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   38,
+   52
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.ckclighting.com/item/303.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "gobo-projector-200",
+  "model": "Gobo Projector 200",
+  "kind": "effect",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   11,
+   22
+  ],
+  "ch": [
+   12
+  ],
+  "feat": [
+   "gobo:8",
+   "prism",
+   "zoom"
+  ],
+  "size": [
+   387,
+   198,
+   394
+  ],
+  "url": "https://www.ckclighting.com/item/304.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "l-par-12",
+  "model": "L Par 12",
+  "kind": "par",
+  "leds": [
+   12,
+   "rgbl"
+  ],
+  "deg": [
+   10,
+   10
+  ],
+  "ch": [
+   4,
+   7,
+   8,
+   10,
+   13
+  ],
+  "size": [
+   300,
+   196,
+   298
+  ],
+  "url": "https://www.ckclighting.com/item/305.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "l-par-18",
+  "model": "L Par 18",
+  "kind": "par",
+  "leds": [
+   18,
+   "rgbl"
+  ],
+  "deg": [
+   10,
+   10
+  ],
+  "ch": [
+   4,
+   7,
+   8,
+   10,
+   13,
+   16
+  ],
+  "size": [
+   338,
+   198,
+   328
+  ],
+  "url": "https://www.ckclighting.com/item/306.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "arc-par-1-ip",
+  "model": "ARC Par 1 IP",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgbwauv"
+  ],
+  "deg": [
+   9,
+   9
+  ],
+  "ch": [
+   6,
+   12,
+   18
+  ],
+  "size": [
+   165,
+   87,
+   158
+  ],
+  "url": "https://www.ckclighting.com/item/307.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "tourist-m5",
+  "model": "Tourist M5",
+  "kind": "profile",
+  "deg": [
+   3.5,
+   53
+  ],
+  "tilt": 270,
+  "ch": [
+   38,
+   56
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.ckclighting.com/item/308.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "v6-pro",
+  "model": "V6 Pro",
+  "kind": "profile",
+  "deg": [
+   9,
+   46
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   33,
+   38,
+   43
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.ckclighting.com/item/309.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "wash-zb7",
+  "model": "Wash ZB7",
+  "kind": "wash",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   54
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   17,
+   21,
+   45
+  ],
+  "pixelFrom": 45,
+  "url": "https://www.ckclighting.com/item/310.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "fresnel-350",
+  "model": "Fresnel 350",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   11,
+   68
+  ],
+  "ch": [
+   2,
+   3,
+   4,
+   6
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   329,
+   383,
+   455
+  ],
+  "url": "https://www.ckclighting.com/item/312.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "ip-pixbar-100",
+  "model": "IP PixBar 100",
+  "kind": "bar",
+  "leds": [
+   60,
+   "rgbal"
+  ],
+  "deg": [
+   29,
+   29
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   9,
+   10,
+   12,
+   22,
+   25,
+   27,
+   32
+  ],
+  "size": [
+   498,
+   178,
+   247
+  ],
+  "url": "https://www.ckclighting.com/item/313.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "l-par-5",
+  "model": "L Par 5",
+  "kind": "par",
+  "leds": [
+   5,
+   "rgbl"
+  ],
+  "deg": [
+   10,
+   10
+  ],
+  "ch": [
+   4,
+   7,
+   8,
+   10,
+   13,
+   16
+  ],
+  "pixelFrom": 16,
+  "size": [
+   213,
+   144,
+   258
+  ],
+  "url": "https://www.ckclighting.com/item/314.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "v4s",
+  "model": "V4s",
+  "kind": "hybrid",
+  "deg": [
+   7,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   24,
+   29,
+   34
+  ],
+  "feat": [
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://www.ckclighting.com/item/315.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "sp4",
+  "model": "SP4",
+  "kind": "profile",
+  "deg": [
+   7,
+   46
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   36,
+   40,
+   51
+  ],
+  "feat": [
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.ckclighting.com/item/317.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "fc-par-7",
+  "model": "FC Par 7",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   14,
+   14
+  ],
+  "ch": [
+   1,
+   3,
+   6,
+   7,
+   8,
+   9,
+   11,
+   12,
+   14,
+   20
+  ],
+  "size": [
+   258,
+   188,
+   230
+  ],
+  "url": "https://www.ckclighting.com/item/318.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "fresnel-400dw",
+  "model": "Fresnel 400DW",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "wwcw"
+  ],
+  "deg": [
+   10,
+   63
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   340,
+   378,
+   399
+  ],
+  "url": "https://www.ckclighting.com/item/319.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "fc-par-14",
+  "model": "FC Par 14",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   13,
+   13
+  ],
+  "ch": [
+   1,
+   3,
+   6,
+   7,
+   8,
+   9,
+   11,
+   12,
+   14,
+   20
+  ],
+  "size": [
+   344,
+   260,
+   247
+  ],
+  "url": "https://www.ckclighting.com/item/320.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "gobo-projector-100",
+  "model": "Gobo Projector 100",
+  "kind": "effect",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "ch": [
+   6
+  ],
+  "feat": [
+   "gobo:8"
+  ],
+  "size": [
+   286,
+   126,
+   340
+  ],
+  "url": "https://www.ckclighting.com/item/321.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "flatpar-1812",
+  "model": "FlatPar 1812",
+  "kind": "par",
+  "leds": [
+   18,
+   "rgbwauv"
+  ],
+  "deg": [
+   20,
+   20
+  ],
+  "ch": [
+   6,
+   7,
+   8,
+   12
+  ],
+  "size": [
+   365,
+   125,
+   296
+  ],
+  "url": "https://www.ckclighting.com/item/324.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "pixbar-1212",
+  "model": "PixBar 1212",
+  "kind": "bar",
+  "leds": [
+   12,
+   "rgbwauv"
+  ],
+  "deg": [
+   47,
+   47
+  ],
+  "ch": [
+   6,
+   7,
+   11,
+   13,
+   36,
+   72,
+   75,
+   79
+  ],
+  "pixelFrom": 72,
+  "size": [
+   900,
+   70,
+   201
+  ],
+  "url": "https://www.ckclighting.com/item/325.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "fresnel-100dw",
+  "model": "Fresnel 100DW",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "wwcw"
+  ],
+  "deg": [
+   11,
+   67
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   338,
+   309,
+   392
+  ],
+  "url": "https://www.ckclighting.com/item/326.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "fresnel-250",
+  "model": "Fresnel 250",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   13,
+   45
+  ],
+  "ch": [
+   3
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   414,
+   336,
+   399
+  ],
+  "url": "https://www.ckclighting.com/item/327.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "fresnel-150",
+  "model": "Fresnel 150",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   18,
+   52
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   344,
+   274,
+   398
+  ],
+  "url": "https://www.ckclighting.com/item/328.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "ip-pixbar-200",
+  "model": "IP PixBar 200",
+  "kind": "bar",
+  "leds": [
+   96,
+   "rgbal"
+  ],
+  "deg": [
+   33,
+   33
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   9,
+   10,
+   12,
+   37,
+   50,
+   52,
+   57
+  ],
+  "size": [
+   946,
+   178,
+   247
+  ],
+  "url": "https://www.ckclighting.com/item/329.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "ip-flatpar-712",
+  "model": "IP FlatPar 712",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbwauv"
+  ],
+  "deg": [
+   23,
+   23
+  ],
+  "ch": [
+   6,
+   8,
+   12
+  ],
+  "size": [
+   257,
+   158,
+   222
+  ],
+  "url": "https://www.ckclighting.com/item/330.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 7 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "ip-flatpar-1212",
+  "model": "IP FlatPar 1212",
+  "kind": "par",
+  "leds": [
+   12,
+   "rgbwauv"
+  ],
+  "deg": [
+   22,
+   22
+  ],
+  "ch": [
+   6,
+   7,
+   8
+  ],
+  "size": [
+   313,
+   157,
+   254
+  ],
+  "url": "https://www.ckclighting.com/item/331.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 12 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "ip-flatpar-1812",
+  "model": "IP FlatPar 1812",
+  "kind": "par",
+  "leds": [
+   18,
+   "rgbwauv"
+  ],
+  "deg": [
+   22,
+   22
+  ],
+  "ch": [
+   6,
+   7,
+   8,
+   12
+  ],
+  "size": [
+   365,
+   157,
+   296
+  ],
+  "url": "https://www.ckclighting.com/item/332.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "pinspot-40ip",
+  "model": "PinSpot 40IP",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgba"
+  ],
+  "deg": [
+   4,
+   4
+  ],
+  "ch": [
+   4,
+   6,
+   7
+  ],
+  "size": [
+   135,
+   160,
+   152
+  ],
+  "url": "https://www.ckclighting.com/item/333.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "v3-bsw",
+  "model": "V3 BSW",
+  "kind": "hybrid",
+  "deg": [
+   4,
+   38
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   25,
+   30
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "iris",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://www.ckclighting.com/item/334.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "uv-36",
+  "model": "UV 36",
+  "kind": "flood",
+  "leds": [
+   1,
+   "uv"
+  ],
+  "ch": [
+   1,
+   2,
+   3
+  ],
+  "size": [
+   295,
+   180,
+   187
+  ],
+  "url": "https://www.ckclighting.com/item/335.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "ip-pixbar-1212",
+  "model": "IP PixBar 1212",
+  "kind": "bar",
+  "leds": [
+   12,
+   "rgbwauv"
+  ],
+  "deg": [
+   58,
+   58
+  ],
+  "ch": [
+   6,
+   7,
+   11,
+   13,
+   36,
+   72,
+   75,
+   79
+  ],
+  "pixelFrom": 72,
+  "size": [
+   852,
+   144,
+   171
+  ],
+  "url": "https://www.ckclighting.com/item/336.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "flatpar-1212",
+  "model": "FlatPar 1212",
+  "kind": "par",
+  "leds": [
+   12,
+   "rgbwauv"
+  ],
+  "deg": [
+   22,
+   22
+  ],
+  "ch": [
+   6,
+   7,
+   8
+  ],
+  "size": [
+   313,
+   125,
+   254
+  ],
+  "url": "https://www.ckclighting.com/item/337.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 12 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "flatpar-712",
+  "model": "FlatPar 712",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbwauv"
+  ],
+  "deg": [
+   23,
+   23
+  ],
+  "ch": [
+   6,
+   8,
+   12
+  ],
+  "size": [
+   257,
+   125,
+   222
+  ],
+  "url": "https://www.ckclighting.com/item/338.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 7 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "pinspot-40",
+  "model": "Pinspot 40",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   4
+  ],
+  "ch": [
+   1,
+   4,
+   6,
+   7
+  ],
+  "size": [
+   184,
+   182,
+   233
+  ],
+  "url": "https://www.ckclighting.com/item/339.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "pixbar-1204",
+  "model": "PixBar 1204",
+  "kind": "bar",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "deg": [
+   34,
+   34
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   8,
+   10
+  ],
+  "size": [
+   479,
+   56,
+   100
+  ],
+  "url": "https://www.ckclighting.com/item/340.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "pixbar-2404",
+  "model": "PixBar 2404",
+  "kind": "bar",
+  "leds": [
+   24,
+   "rgbw"
+  ],
+  "deg": [
+   34,
+   34
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   8,
+   10,
+   16,
+   20
+  ],
+  "size": [
+   961,
+   56,
+   98
+  ],
+  "url": "https://www.ckclighting.com/item/341.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "fresnel-50",
+  "model": "Fresnel 50",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   16,
+   45
+  ],
+  "ch": [
+   1,
+   2
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   195,
+   242,
+   251
+  ],
+  "url": "https://www.ckclighting.com/item/342.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "fresnel-100",
+  "model": "Fresnel 100",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   12,
+   57
+  ],
+  "ch": [
+   1,
+   3
+  ],
+  "feat": [
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   338,
+   309,
+   392
+  ],
+  "url": "https://www.ckclighting.com/item/343.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "fresnel-60",
+  "model": "Fresnel 60",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   14,
+   47
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   210,
+   272,
+   303
+  ],
+  "url": "https://www.ckclighting.com/item/344.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "p500-fc-ip",
+  "model": "P500 FC IP",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   11,
+   11
+  ],
+  "ch": [
+   1,
+   6,
+   9,
+   11,
+   14,
+   15,
+   18,
+   19
+  ],
+  "size": [
+   304,
+   357,
+   453
+  ],
+  "url": "https://www.ckclighting.com/item/345.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "p500-fc",
+  "model": "P500 FC",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   13,
+   13
+  ],
+  "ch": [
+   1,
+   6,
+   9,
+   11,
+   14,
+   18
+  ],
+  "size": [
+   278,
+   354,
+   394
+  ],
+  "url": "https://www.ckclighting.com/item/346.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "p250-ww",
+  "model": "P250 WW",
+  "kind": "par",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   13,
+   13
+  ],
+  "ch": [
+   1,
+   5
+  ],
+  "size": [
+   278,
+   354,
+   394
+  ],
+  "url": "https://www.ckclighting.com/item/347.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "ip-pixbar-1205",
+  "model": "IP PixBar 1205",
+  "kind": "bar",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "deg": [
+   10,
+   10
+  ],
+  "ch": [
+   3,
+   4,
+   7,
+   8,
+   10
+  ],
+  "size": [
+   483,
+   56,
+   115
+  ],
+  "url": "https://www.ckclighting.com/item/348.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "ip-pixbar-2405",
+  "model": "IP PixBar 2405",
+  "kind": "bar",
+  "leds": [
+   24,
+   "rgbw"
+  ],
+  "deg": [
+   10,
+   10
+  ],
+  "ch": [
+   3,
+   4,
+   7,
+   8,
+   10,
+   16,
+   20
+  ],
+  "size": [
+   963,
+   56,
+   115
+  ],
+  "url": "https://www.ckclighting.com/item/349.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "uv-36b",
+  "model": "UV 36B",
+  "kind": "flood",
+  "leds": [
+   1,
+   "uv"
+  ],
+  "ch": [
+   1,
+   2
+  ],
+  "size": [
+   1067,
+   89,
+   87
+  ],
+  "url": "https://www.ckclighting.com/item/350.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "p200-fc-ip",
+  "model": "P200 FC IP",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   11,
+   11
+  ],
+  "ch": [
+   1,
+   4,
+   6,
+   9,
+   10,
+   12,
+   15,
+   20
+  ],
+  "size": [
+   259,
+   275,
+   312
+  ],
+  "url": "https://www.ckclighting.com/item/351.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "vh5b-ip",
+  "model": "VH5B IP",
+  "kind": "beam",
+  "deg": [
+   1.3,
+   1.3
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   21,
+   26
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost"
+  ],
+  "url": "https://www.ckclighting.com/item/352.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "vh5-ip",
+  "model": "VH5 IP",
+  "kind": "hybrid",
+  "deg": [
+   1.5,
+   18
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   27,
+   30
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost"
+  ],
+  "url": "https://www.ckclighting.com/item/353.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "tourist-m9",
+  "model": "Tourist M9",
+  "kind": "profile",
+  "deg": [
+   6,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   38,
+   54
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.ckclighting.com/item/354.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "proxima-ip",
+  "model": "Proxima IP",
+  "kind": "beam",
+  "deg": [
+   0.8,
+   0.8
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   22,
+   30
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost"
+  ],
+  "url": "https://www.ckclighting.com/item/355.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "v20",
+  "model": "V20",
+  "kind": "profile",
+  "deg": [
+   5,
+   53
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   38,
+   54
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.ckclighting.com/item/356.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "pixbar-1515",
+  "model": "PixBar 1515",
+  "kind": "bar",
+  "leds": [
+   15,
+   "rgbw"
+  ],
+  "deg": [
+   17,
+   17
+  ],
+  "ch": [
+   4,
+   7,
+   8,
+   11,
+   14,
+   60,
+   63,
+   67,
+   70,
+   120
+  ],
+  "pixelFrom": 60,
+  "size": [
+   915,
+   147,
+   147
+  ],
+  "url": "https://www.ckclighting.com/item/357.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "ip-h2o-400",
+  "model": "IP H2O 400",
+  "kind": "effect",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   14,
+   52
+  ],
+  "ch": [
+   10,
+   12
+  ],
+  "size": [
+   351,
+   604,
+   460
+  ],
+  "url": "https://www.ckclighting.com/item/359.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "ip-h2o-200",
+  "model": "IP H2O 200",
+  "kind": "effect",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "ch": [
+   5
+  ],
+  "size": [
+   286,
+   301,
+   208
+  ],
+  "url": "https://www.ckclighting.com/item/360.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "ip-h2o-100",
+  "model": "IP H2O 100",
+  "kind": "effect",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "ch": [
+   5
+  ],
+  "size": [
+   286,
+   301,
+   208
+  ],
+  "url": "https://www.ckclighting.com/item/361.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "ts6",
+  "model": "TS6",
+  "kind": "profile",
+  "deg": [
+   7,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   39,
+   41,
+   53,
+   57
+  ],
+  "feat": [
+   "cmy",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.ckclighting.com/item/362.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "marvel-s2p",
+  "model": "Marvel S2P",
+  "kind": "spot",
+  "deg": [
+   12,
+   22
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   19,
+   21,
+   25
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://www.ckclighting.com/item/363.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "s3",
+  "model": "S3",
+  "kind": "spot",
+  "deg": [
+   10,
+   30
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   21,
+   25,
+   29
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://www.ckclighting.com/item/364.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "ip-pixbar-30-ww",
+  "model": "IP PixBar 30 WW",
+  "kind": "bar",
+  "leds": [
+   12,
+   "rgbl"
+  ],
+  "deg": [
+   33,
+   33
+  ],
+  "ch": [
+   4,
+   5
+  ],
+  "size": [
+   500,
+   46,
+   109
+  ],
+  "url": "https://www.ckclighting.com/item/367.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "ip-pixbar-50-ww",
+  "model": "IP PixBar 50 WW",
+  "kind": "bar",
+  "leds": [
+   24,
+   "ww"
+  ],
+  "deg": [
+   54,
+   54
+  ],
+  "ch": [
+   5,
+   8
+  ],
+  "size": [
+   1000,
+   46,
+   110
+  ],
+  "url": "https://www.ckclighting.com/item/368.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "ip-pixbar-30",
+  "model": "IP PixBar 30",
+  "kind": "bar",
+  "leds": [
+   12,
+   "rgbl"
+  ],
+  "deg": [
+   33,
+   33
+  ],
+  "ch": [
+   14,
+   16
+  ],
+  "size": [
+   500,
+   46,
+   109
+  ],
+  "url": "https://www.ckclighting.com/item/369.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "ip-pixbar-50",
+  "model": "IP PixBar 50",
+  "kind": "bar",
+  "leds": [
+   24,
+   "rgbl"
+  ],
+  "deg": [
+   54,
+   54
+  ],
+  "ch": [
+   14,
+   32
+  ],
+  "size": [
+   1000,
+   46,
+   110
+  ],
+  "url": "https://www.ckclighting.com/item/370.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "v9",
+  "model": "V9",
+  "kind": "profile",
+  "deg": [
+   6,
+   52
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   37,
+   39,
+   57
+  ],
+  "feat": [
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.ckclighting.com/item/371.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "v3",
+  "model": "V3",
+  "kind": "profile",
+  "deg": [
+   8,
+   46
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   36,
+   38,
+   54
+  ],
+  "feat": [
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.ckclighting.com/item/372.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "nonabeam",
+  "model": "Nonabeam",
+  "kind": "bar",
+  "leds": [
+   9,
+   "rgb"
+  ],
+  "deg": [
+   14,
+   14
+  ],
+  "ch": [
+   5,
+   18,
+   34,
+   50
+  ],
+  "pixelFrom": 34,
+  "size": [
+   580,
+   137,
+   233
+  ],
+  "url": "https://www.ckclighting.com/item/373.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "m160",
+  "model": "M160",
+  "kind": "beam",
+  "deg": [
+   4,
+   4
+  ],
+  "ch": [
+   16,
+   18,
+   20
+  ],
+  "url": "https://www.ckclighting.com/item/374.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "sunstrip-12",
+  "model": "Sunstrip 12",
+  "kind": "retro",
+  "leds": [
+   12,
+   "wwcw"
+  ],
+  "deg": [
+   53,
+   53
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   5,
+   6,
+   7,
+   10,
+   12,
+   15,
+   20,
+   36,
+   41,
+   45,
+   72
+  ],
+  "pixelFrom": 36,
+  "size": [
+   900,
+   147,
+   201
+  ],
+  "url": "https://www.ckclighting.com/item/375.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "proxima-tiny",
+  "model": "Proxima Tiny",
+  "kind": "beam",
+  "deg": [
+   1,
+   1
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   21,
+   26
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost"
+  ],
+  "url": "https://www.ckclighting.com/item/376.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "tourist-m7",
+  "model": "Tourist M7",
+  "kind": "profile",
+  "deg": [
+   3.5,
+   52
+  ],
+  "tilt": 270,
+  "ch": [
+   41,
+   57
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.ckclighting.com/item/377.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "tourist-m3",
+  "model": "Tourist M3",
+  "kind": "profile",
+  "deg": [
+   3,
+   53
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   38,
+   52
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.ckclighting.com/item/378.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "par-z60-ip",
+  "model": "Par Z60 IP",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   7,
+   46
+  ],
+  "ch": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   12,
+   13
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.ckclighting.com/item/379.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 2, 4 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "soft-panel-300dw",
+  "model": "Soft Panel 300DW",
+  "kind": "panel",
+  "leds": [
+   1,
+   "wwcw"
+  ],
+  "deg": [
+   61,
+   61
+  ],
+  "ch": [
+   1,
+   2,
+   8,
+   9
+  ],
+  "size": [
+   530,
+   141,
+   415
+  ],
+  "url": "https://www.ckclighting.com/item/381.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "fc-pendant-300",
+  "model": "FC Pendant 300",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   20,
+   20
+  ],
+  "ch": [
+   1,
+   2,
+   4,
+   5,
+   9,
+   10,
+   17
+  ],
+  "size": [
+   197,
+   197,
+   400
+  ],
+  "url": "https://www.ckclighting.com/item/382.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "pendant-300",
+  "model": "Pendant 300",
+  "kind": "flood",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   20,
+   20
+  ],
+  "ch": [
+   1,
+   2,
+   4
+  ],
+  "size": [
+   197,
+   197,
+   400
+  ],
+  "url": "https://www.ckclighting.com/item/383.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "mini-blinder",
+  "model": "Mini Blinder",
+  "kind": "blinder",
+  "leds": [
+   64,
+   "rgbwa"
+  ],
+  "deg": [
+   46,
+   46
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   6,
+   7,
+   10,
+   14,
+   15,
+   21
+  ],
+  "size": [
+   301,
+   264,
+   170
+  ],
+  "url": "https://www.ckclighting.com/item/387.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "nonabeam-move",
+  "model": "Nonabeam Move",
+  "kind": "tiltbar",
+  "leds": [
+   9,
+   "rgb"
+  ],
+  "deg": [
+   14,
+   14
+  ],
+  "tilt": 270,
+  "ch": [
+   5,
+   18,
+   34,
+   50
+  ],
+  "pixelFrom": 34,
+  "url": "https://www.ckclighting.com/item/389.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "y840",
+  "model": "Y840",
+  "kind": "tiltbar",
+  "leds": [
+   8,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   37
+  ],
+  "tilt": 210,
+  "ch": [
+   16,
+   18,
+   46
+  ],
+  "pixelFrom": 46,
+  "url": "https://www.ckclighting.com/item/390.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "y1640",
+  "model": "Y1640",
+  "kind": "tiltbar",
+  "leds": [
+   16,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   48
+  ],
+  "tilt": 270,
+  "ch": [
+   18,
+   78
+  ],
+  "pixelFrom": 78,
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.ckclighting.com/item/391.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 16 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "p10-2",
+  "model": "P10+",
+  "kind": "profile",
+  "deg": [
+   6,
+   52
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   36,
+   52
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.ckclighting.com/item/392.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "qdot-16-ip-dtw",
+  "model": "Qdot 16 IP DTW",
+  "kind": "matrix",
+  "leds": [
+   16,
+   "ww"
+  ],
+  "deg": [
+   22,
+   22
+  ],
+  "ch": [
+   1,
+   2,
+   7,
+   13,
+   16,
+   32,
+   37,
+   64
+  ],
+  "pixelFrom": 16,
+  "size": [
+   440,
+   440,
+   205
+  ],
+  "url": "https://www.ckclighting.com/item/394.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "qdot-16-ip",
+  "model": "Qdot 16 IP",
+  "kind": "matrix",
+  "leds": [
+   16,
+   "rgba"
+  ],
+  "deg": [
+   55,
+   55
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   6,
+   7,
+   8,
+   11,
+   12,
+   48,
+   64,
+   72,
+   128
+  ],
+  "pixelFrom": 64,
+  "size": [
+   440,
+   440,
+   205
+  ],
+  "url": "https://www.ckclighting.com/item/395.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "ip-blinder-dtw4",
+  "model": "IP Blinder DTW4",
+  "kind": "blinder",
+  "leds": [
+   4,
+   "ww"
+  ],
+  "deg": [
+   67,
+   67
+  ],
+  "ch": [
+   1,
+   2,
+   4,
+   5,
+   6,
+   7,
+   9,
+   13
+  ],
+  "pixelFrom": 4,
+  "size": [
+   410,
+   400,
+   252
+  ],
+  "url": "https://www.ckclighting.com/item/396.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "ip-blinder-dtw2",
+  "model": "IP Blinder DTW2",
+  "kind": "blinder",
+  "leds": [
+   2,
+   "ww"
+  ],
+  "deg": [
+   65,
+   65
+  ],
+  "ch": [
+   1,
+   2,
+   4,
+   5,
+   6,
+   7,
+   9
+  ],
+  "pixelFrom": 2,
+  "size": [
+   400,
+   255,
+   245
+  ],
+  "url": "https://www.ckclighting.com/item/397.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "blinder-ww4",
+  "model": "Blinder WW4",
+  "kind": "blinder",
+  "leds": [
+   4,
+   "ww"
+  ],
+  "deg": [
+   66,
+   66
+  ],
+  "ch": [
+   1,
+   2,
+   4,
+   5,
+   7,
+   9
+  ],
+  "pixelFrom": 4,
+  "size": [
+   441,
+   400,
+   174
+  ],
+  "url": "https://www.ckclighting.com/item/398.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "blinder-ww2",
+  "model": "Blinder WW2",
+  "kind": "blinder",
+  "leds": [
+   2,
+   "ww"
+  ],
+  "deg": [
+   52,
+   52
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "pixelFrom": 2,
+  "size": [
+   447,
+   146,
+   253
+  ],
+  "url": "https://www.ckclighting.com/item/399.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "pinspot-15",
+  "model": "Pinspot 15",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   4
+  ],
+  "ch": [
+   1,
+   4,
+   6,
+   7
+  ],
+  "size": [
+   135,
+   172,
+   203
+  ],
+  "url": "https://www.ckclighting.com/item/400.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "soft-panel-600tw",
+  "model": "Soft Panel 600TW",
+  "kind": "profile",
+  "deg": [
+   67,
+   67
+  ],
+  "ch": [
+   6,
+   7,
+   12,
+   14,
+   23,
+   24,
+   48,
+   58,
+   96
+  ],
+  "url": "https://www.ckclighting.com/item/401.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 1, 2, 4 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "soft-panel-300tw",
+  "model": "Soft Panel 300TW",
+  "kind": "profile",
+  "deg": [
+   64,
+   64
+  ],
+  "ch": [
+   6,
+   8,
+   14
+  ],
+  "url": "https://www.ckclighting.com/item/402.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 3, 4 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "soft-panel-400dw",
+  "model": "Soft Panel 400DW",
+  "kind": "panel",
+  "leds": [
+   1,
+   "wwcw"
+  ],
+  "deg": [
+   68,
+   68
+  ],
+  "ch": [
+   1,
+   2,
+   8
+  ],
+  "size": [
+   860,
+   156,
+   427
+  ],
+  "url": "https://www.ckclighting.com/item/403.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "v15-pro-ip",
+  "model": "V15 Pro IP",
+  "kind": "profile",
+  "deg": [
+   6,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   36,
+   52
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.ckclighting.com/item/404.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "v20-ip",
+  "model": "V20 IP",
+  "kind": "profile",
+  "deg": [
+   6,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   38,
+   54
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.ckclighting.com/item/405.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "v4s-ip",
+  "model": "V4s IP",
+  "kind": "hybrid",
+  "deg": [
+   7,
+   40
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   24,
+   29,
+   36
+  ],
+  "feat": [
+   "gobo:14",
+   "anim",
+   "prism",
+   "frost"
+  ],
+  "url": "https://www.ckclighting.com/item/406.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "v2s-ip",
+  "model": "V2s IP",
+  "kind": "hybrid",
+  "deg": [
+   12,
+   23
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   17,
+   20,
+   22
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost"
+  ],
+  "url": "https://www.ckclighting.com/item/407.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "zb7x-ip",
+  "model": "ZB7X IP",
+  "kind": "wash",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   54
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   17,
+   21,
+   45
+  ],
+  "pixelFrom": 45,
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.ckclighting.com/item/408.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "l-par-7",
+  "model": "L Par 7",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbl"
+  ],
+  "deg": [
+   10,
+   10
+  ],
+  "ch": [
+   4,
+   8,
+   10,
+   13,
+   16
+  ],
+  "size": [
+   258,
+   176,
+   264
+  ],
+  "url": "https://www.ckclighting.com/item/410.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 7 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "fc-pendant-200",
+  "model": "FC Pendant 200",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   36,
+   36
+  ],
+  "ch": [
+   1,
+   4,
+   5,
+   9,
+   10,
+   17
+  ],
+  "size": [
+   197,
+   197,
+   299
+  ],
+  "url": "https://www.ckclighting.com/item/411.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "follow-wo",
+  "model": "Follow Wo",
+  "kind": "follow",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   3.5,
+   18
+  ],
+  "ch": [
+   1,
+   2,
+   7,
+   8
+  ],
+  "feat": [
+   "gobo:8",
+   "iris",
+   "frost"
+  ],
+  "size": [
+   511,
+   1024,
+   576
+  ],
+  "url": "https://www.ckclighting.com/item/412.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "evowash-pro",
+  "model": "EvoWash Pro",
+  "kind": "wash",
+  "leds": [
+   12,
+   "rgbl"
+  ],
+  "deg": [
+   4,
+   60
+  ],
+  "ch": [
+   21,
+   25,
+   69
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.ckclighting.com/item/413.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "evowash-air",
+  "model": "EvoWash Air",
+  "kind": "wash",
+  "deg": [
+   4,
+   55
+  ],
+  "ch": [
+   21,
+   25,
+   37
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.ckclighting.com/item/414.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "wash-z300",
+  "model": "Wash Z300",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   7,
+   56
+  ],
+  "pan": 540,
+  "tilt": 240,
+  "ch": [
+   18,
+   19,
+   20,
+   24
+  ],
+  "feat": [
+   "cmy",
+   "zoom"
+  ],
+  "url": "https://www.ckclighting.com/item/415.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "tourist-m6",
+  "model": "Tourist M6",
+  "kind": "profile",
+  "deg": [
+   2,
+   52
+  ],
+  "tilt": 270,
+  "ch": [
+   43,
+   58
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.ckclighting.com/item/416.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "evo-linebar-72",
+  "model": "Evo Linebar 72",
+  "kind": "bar",
+  "leds": [
+   24,
+   "rgbal"
+  ],
+  "deg": [
+   83,
+   83
+  ],
+  "ch": [
+   1,
+   9,
+   15,
+   16,
+   21,
+   154,
+   274
+  ],
+  "size": [
+   1806,
+   184,
+   239
+  ],
+  "url": "https://www.ckclighting.com/item/417.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "evo-linebar-48",
+  "model": "Evo Linebar 48",
+  "kind": "bar",
+  "leds": [
+   16,
+   "rgbal"
+  ],
+  "deg": [
+   62,
+   62
+  ],
+  "ch": [
+   1,
+   9,
+   15,
+   21,
+   108,
+   186
+  ],
+  "size": [
+   1211,
+   184,
+   239
+  ],
+  "url": "https://www.ckclighting.com/item/418.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 16 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "evo-linebar-12",
+  "model": "Evo Linebar 12",
+  "kind": "bar",
+  "leds": [
+   4,
+   "rgbal"
+  ],
+  "deg": [
+   24,
+   24
+  ],
+  "ch": [
+   1,
+   9,
+   15,
+   16,
+   21,
+   34,
+   54
+  ],
+  "pixelFrom": 21,
+  "size": [
+   321,
+   184,
+   239
+  ],
+  "url": "https://www.ckclighting.com/item/419.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "fc-halonel-plus",
+  "model": "FC Halonel Plus",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   8,
+   60
+  ],
+  "ch": [
+   1,
+   8,
+   14,
+   16,
+   20
+  ],
+  "feat": [
+   "cmy",
+   "zoom"
+  ],
+  "size": [
+   302,
+   448,
+   538
+  ],
+  "url": "https://www.ckclighting.com/item/420.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "fc-halonel-pro",
+  "model": "FC Halonel Pro",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   8,
+   48
+  ],
+  "ch": [
+   1,
+   8,
+   14,
+   16,
+   20
+  ],
+  "feat": [
+   "cmy",
+   "zoom"
+  ],
+  "size": [
+   256,
+   404,
+   498
+  ],
+  "url": "https://www.ckclighting.com/item/421.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "footslim-x",
+  "model": "Footslim X",
+  "kind": "bar",
+  "leds": [
+   96,
+   "rgbal"
+  ],
+  "deg": [
+   68,
+   68
+  ],
+  "ch": [
+   1,
+   2,
+   8,
+   12,
+   13,
+   14,
+   29
+  ],
+  "size": [
+   1000,
+   73,
+   47
+  ],
+  "url": "https://www.ckclighting.com/item/422.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "footslim-m",
+  "model": "Footslim M",
+  "kind": "bar",
+  "leds": [
+   96,
+   "rgbal"
+  ],
+  "deg": [
+   56,
+   56
+  ],
+  "ch": [
+   1,
+   2,
+   8,
+   12,
+   13,
+   14,
+   19
+  ],
+  "size": [
+   500,
+   73,
+   47
+  ],
+  "url": "https://www.ckclighting.com/item/423.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "evo-t-double",
+  "model": "Evo T Double",
+  "kind": "tiltbar",
+  "leds": [
+   16,
+   "rgbl"
+  ],
+  "deg": [
+   3,
+   54
+  ],
+  "tilt": 210,
+  "ch": [
+   24,
+   33,
+   121
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.ckclighting.com/item/424.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "evo-t-single",
+  "model": "Evo T Single",
+  "kind": "tiltbar",
+  "leds": [
+   8,
+   "rgbl"
+  ],
+  "deg": [
+   3,
+   46
+  ],
+  "tilt": 210,
+  "ch": [
+   22,
+   29,
+   69
+  ],
+  "pixelFrom": 29,
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.ckclighting.com/item/425.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "evowash-plus",
+  "model": "EvoWash Plus",
+  "kind": "wash",
+  "leds": [
+   37,
+   "rgbl"
+  ],
+  "deg": [
+   4,
+   52
+  ],
+  "ch": [
+   21,
+   25,
+   169
+  ],
+  "pixelFrom": 169,
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.ckclighting.com/item/432.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "m-trio",
+  "model": "M Trio",
+  "kind": "hybrid",
+  "deg": [
+   1.8,
+   24
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   31,
+   36
+  ],
+  "feat": [
+   "gobo:14",
+   "anim",
+   "prism",
+   "frost"
+  ],
+  "url": "https://www.ckclighting.com/item/437.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "proxima-compact",
+  "model": "Proxima Compact",
+  "kind": "hybrid",
+  "deg": [
+   0.9,
+   25
+  ],
+  "tilt": 270,
+  "ch": [
+   30,
+   37
+  ],
+  "feat": [
+   "gobo:14",
+   "anim",
+   "prism",
+   "frost"
+  ],
+  "url": "https://www.ckclighting.com/item/440.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "CKC Lighting",
+  "key": "pixbar-1515-ip",
+  "model": "PixBar 1515 IP",
+  "kind": "bar",
+  "leds": [
+   15,
+   "rgbl"
+  ],
+  "deg": [
+   26,
+   26
+  ],
+  "ch": [
+   4,
+   7,
+   8,
+   11,
+   14,
+   60,
+   63,
+   67,
+   70,
+   120
+  ],
+  "pixelFrom": 60,
+  "size": [
+   914,
+   152,
+   166
+  ],
+  "url": "https://www.ckclighting.com/item/441.html",
+  "note": "Steckbrief aus Herstellerangaben (ckclighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

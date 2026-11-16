@@ -1,0 +1,5885 @@
+[
+ {
+  "manufacturer": "Prolights",
+  "model": "ÆtherBox Four",
+  "kind": "effect",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   364,
+   45,
+   241
+  ],
+  "weightKg": 2.85,
+  "url": "https://www.prolights.it/en/product/AETHERBOXFOUR",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "ÆtherBox One",
+  "kind": "effect",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   245,
+   45,
+   241
+  ],
+  "weightKg": 1.8,
+  "url": "https://www.prolights.it/en/product/AETHERBOXONE",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "ArenaCob 4FC",
+  "kind": "strobe",
+  "light": "4x75W RGBW LEDs",
+  "beamDeg": [
+   46,
+   46
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   4,
+   6,
+   15,
+   16,
+   21,
+   27,
+   28
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   619,
+   167,
+   264
+  ],
+  "weightKg": 8,
+  "url": "https://www.prolights.it/en/product/ARENACOB4FC",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "ArenaCob 4Halo",
+  "kind": "strobe",
+  "light": "16x3w amber + 4x72W White COB LEDs",
+  "beamDeg": [
+   42,
+   42
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   4,
+   2,
+   7,
+   6,
+   8,
+   10,
+   11
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   619,
+   167,
+   264
+  ],
+  "weightKg": 8,
+  "url": "https://www.prolights.it/en/product/ARENACOB4HALO",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Aria 700Spot",
+  "kind": "spot",
+  "light": "400W custom RGBW LED",
+  "beamDeg": [
+   10.8,
+   45.7
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   23,
+   28,
+   29
+  ],
+  "features": [
+   "colorwheel",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "animation",
+   "gobo-rot:7",
+   "gobo-static:8"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   408,
+   676,
+   257
+  ],
+  "weightKg": 22.7,
+  "url": "https://www.prolights.it/en/product/ARIA700SPOT",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Astra Beam120IP",
+  "kind": "beam",
+  "light": "120W Phosphor Laser source",
+  "beamDeg": [
+   0.6,
+   0.6
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   32
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "prism",
+   "frost",
+   "focus",
+   "animation",
+   "gobo-rot:13",
+   "gobo-static:29"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   366,
+   528,
+   258
+  ],
+  "weightKg": 20,
+  "url": "https://www.prolights.it/en/product/ASTRABEAM120IP",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Astra Beam260IP",
+  "kind": "beam",
+  "light": "260W PRO OSRAM SIRIUS HRI Lamp",
+  "beamDeg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "tilt": 230,
+  "channels": [
+   17
+  ],
+  "features": [
+   "colorwheel",
+   "prism",
+   "frost",
+   "focus",
+   "gobo-static:15"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   385,
+   603,
+   271
+  ],
+  "weightKg": 28.6,
+  "url": "https://www.prolights.it/en/product/ASTRABEAM260IP",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Astra Blade100IP",
+  "kind": "tiltbar",
+  "light": "16x40W RGBW Osram Ostar LEDs",
+  "beamDeg": [
+   4.3,
+   39.4
+  ],
+  "pan": null,
+  "tilt": 200,
+  "channels": [],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "16 linear",
+  "sizeMm": [
+   996,
+   336,
+   175
+  ],
+  "weightKg": 27.4,
+  "url": "https://www.prolights.it/en/product/ASTRABLADE100IP",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Astra Hybrid260IP",
+  "kind": "hybrid",
+  "light": "260W Phosphor Laser source",
+  "beamDeg": [
+   0.6,
+   52.7
+  ],
+  "pan": 360,
+  "tilt": 270,
+  "channels": [
+   33,
+   37
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "gobo-rot:12",
+   "gobo-static:29"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   435,
+   742,
+   266
+  ],
+  "weightKg": 34.5,
+  "url": "https://www.prolights.it/en/product/ASTRAHYB260IP",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Astra Hybrid330",
+  "kind": "hybrid",
+  "light": "330W high-power white LED",
+  "beamDeg": [
+   3,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   29
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "animation",
+   "gobo-rot:8",
+   "gobo-static:11"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   411,
+   638,
+   244
+  ],
+  "weightKg": 21.6,
+  "url": "https://www.prolights.it/en/product/ASTRAHYB330",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Astra Hybrid330IP",
+  "kind": "hybrid",
+  "light": "330W high-power white LED",
+  "beamDeg": [
+   3,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   29
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "animation",
+   "gobo-rot:8",
+   "gobo-static:11"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   393,
+   684,
+   266
+  ],
+  "weightKg": 25,
+  "url": "https://www.prolights.it/en/product/ASTRAHYB330IP",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Astra Hybrid420",
+  "kind": "hybrid",
+  "light": "420W USHIO NSL421",
+  "beamDeg": [
+   2.7,
+   40
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   30
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "animation",
+   "gobo-rot:9",
+   "gobo-static:18"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   445,
+   668,
+   310
+  ],
+  "weightKg": 26.2,
+  "url": "https://www.prolights.it/en/product/ASTRAHYB420",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Astra Hybrid420IP",
+  "kind": "hybrid",
+  "light": "420W USHIO NSL421",
+  "beamDeg": [
+   2.7,
+   40
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   30
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "animation",
+   "gobo-rot:9",
+   "gobo-static:18"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   441,
+   741,
+   310
+  ],
+  "weightKg": 42.1,
+  "url": "https://www.prolights.it/en/product/ASTRAHYB420IP",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Astra PAR7ZIP",
+  "kind": "par",
+  "light": "7x40W RGB + Warm White LED",
+  "beamDeg": [
+   4.5,
+   53
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   6,
+   12,
+   14,
+   21,
+   33
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   291,
+   347,
+   300
+  ],
+  "weightKg": 9.3,
+  "url": "https://www.prolights.it/en/product/ASTRAPAR7ZIPBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Astra Profile1200IP",
+  "kind": "profile",
+  "light": "1'400W White LED (driven @1'200W)",
+  "beamDeg": [
+   5.4,
+   51
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   45
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation",
+   "gobo-rot:6+6"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   539,
+   916,
+   355
+  ],
+  "weightKg": 55,
+  "url": "https://www.prolights.it/en/product/ASTRAPROF1200IP",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Astra Profile300LTIP",
+  "kind": "profile",
+  "light": "300W high-power white LED",
+  "beamDeg": [
+   3.9,
+   44.1
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   42
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "framing",
+   "animation",
+   "gobo-rot:7"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   393,
+   620,
+   282
+  ],
+  "weightKg": 26,
+  "url": "https://www.prolights.it/en/product/ASTRAPROF300LTIP",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Astra Profile500LTIP",
+  "kind": "profile",
+  "light": "500W White LED",
+  "beamDeg": [
+   4.2,
+   50.1
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   43
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation",
+   "gobo-rot:7",
+   "gobo-static:8"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   449,
+   705,
+   297
+  ],
+  "weightKg": 34,
+  "url": "https://www.prolights.it/en/product/ASTRAPROF500LTIP",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Astra Profile600IP",
+  "kind": "profile",
+  "light": "600W White LED",
+  "beamDeg": [
+   7,
+   62
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   29,
+   39,
+   54
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation",
+   "gobo-rot:7"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   454,
+   730,
+   334
+  ],
+  "weightKg": 40,
+  "url": "https://www.prolights.it/en/product/ASTRAPROFILE600IP",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Astra Profile900",
+  "kind": "profile",
+  "light": "1000W White LED (driven @900W)",
+  "beamDeg": [
+   5.4,
+   52
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   46
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation",
+   "gobo-rot:7+7"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   516,
+   856,
+   310
+  ],
+  "weightKg": 44.2,
+  "url": "https://www.prolights.it/en/product/ASTRAPROFILE900",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Astra Profile900HQ",
+  "kind": "profile",
+  "light": "1000W White LED (driven @900W)",
+  "beamDeg": [
+   5.4,
+   52
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   46
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation",
+   "gobo-rot:7+7"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   516,
+   856,
+   310
+  ],
+  "weightKg": 44.2,
+  "url": "https://www.prolights.it/en/product/ASTRAPROFILE900HQ",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Astra Wash19Pix",
+  "kind": "wash",
+  "light": "19x40W RGBW Osram Ostar LEDs",
+  "beamDeg": [
+   4,
+   54
+  ],
+  "pan": 540,
+  "tilt": 233,
+  "channels": [
+   29,
+   32,
+   53
+  ],
+  "features": [
+   "cto",
+   "colorwheel",
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "19 (Hex)",
+  "sizeMm": [
+   410,
+   514,
+   250
+  ],
+  "weightKg": 17.4,
+  "url": "https://www.prolights.it/en/product/ASTRAWASH19PIX",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Astra Wash19PixIP",
+  "kind": "wash",
+  "light": "19x40W RGBW Osram Ostar LEDs",
+  "beamDeg": [
+   4,
+   54
+  ],
+  "pan": 540,
+  "tilt": 233,
+  "channels": [
+   29,
+   32,
+   53
+  ],
+  "features": [
+   "cto",
+   "colorwheel",
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "19 (Hex)",
+  "sizeMm": [
+   457,
+   578,
+   266
+  ],
+  "weightKg": 26.4,
+  "url": "https://www.prolights.it/en/product/ASTRAWASH19PIXIP",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Astra Wash37Pix",
+  "kind": "wash",
+  "light": "37x40W RGBW Osram Ostar LEDs",
+  "beamDeg": [
+   4,
+   54
+  ],
+  "pan": 540,
+  "tilt": 233,
+  "channels": [
+   23,
+   30,
+   44,
+   52
+  ],
+  "features": [
+   "cto",
+   "colorwheel",
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "37 (Hex)",
+  "sizeMm": [
+   520,
+   625,
+   310
+  ],
+  "weightKg": 26.4,
+  "url": "https://www.prolights.it/en/product/ASTRAWASH37PIX",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Astra Wash7Pix",
+  "kind": "wash",
+  "light": "7x40W RGBW Osram Ostar LEDs",
+  "beamDeg": [
+   4,
+   56
+  ],
+  "pan": 540,
+  "tilt": 233,
+  "channels": [
+   24,
+   27,
+   39
+  ],
+  "features": [
+   "colorwheel",
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "7 (Hex)",
+  "sizeMm": [
+   279,
+   391,
+   205
+  ],
+  "weightKg": 8.1,
+  "url": "https://www.prolights.it/en/product/ASTRAWASH7PIX",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "CROMOSPOT300",
+  "kind": "spot",
+  "light": null,
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   11,
+   14
+  ],
+  "features": [
+   "prism",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   330,
+   473,
+   270
+  ],
+  "weightKg": 10,
+  "url": "https://www.prolights.it/en/product/CROMOSPOT300",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:pro-lights/cromospot300",
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "CROMOSPOT400",
+  "kind": "spot",
+  "light": null,
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   11,
+   14
+  ],
+  "features": [
+   "prism",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   360,
+   519,
+   270
+  ],
+  "weightKg": 12.5,
+  "url": "https://www.prolights.it/en/product/CROMOSPOT400",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Diamond 19TW",
+  "kind": "par",
+  "light": "19x15W Warm White + Cold White Osram Ostar LED",
+  "beamDeg": [
+   7,
+   40
+  ],
+  "pan": 630,
+  "tilt": 265,
+  "channels": [
+   12,
+   13,
+   14,
+   20
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   338,
+   449,
+   235
+  ],
+  "weightKg": 11,
+  "url": "https://www.prolights.it/en/product/DIAMOND19TW",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:pro-lights/diamond-19tw",
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Diamond 7",
+  "kind": "par",
+  "light": "7x15W RGBW Osram Ostar LEDs",
+  "beamDeg": [
+   6,
+   66
+  ],
+  "pan": 630,
+  "tilt": 265,
+  "channels": [
+   18,
+   19,
+   20,
+   26,
+   50
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   278,
+   348,
+   200
+  ],
+  "weightKg": 6.4,
+  "url": "https://www.prolights.it/en/product/DIAMOND7BK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "DigiStrip IP100",
+  "kind": "bar",
+  "light": "100x0,25W RGB LEDs",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   300
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "100 linear",
+  "sizeMm": [
+   1000,
+   36,
+   128
+  ],
+  "weightKg": 2.7,
+  "url": "https://www.prolights.it/en/product/DIGISTRIPIP100",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahl = Pixelmodus"
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "DigiStrip IP50",
+  "kind": "bar",
+  "light": "50x0,25W RGB LEDs",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   150
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "50 linear",
+  "sizeMm": [
+   500,
+   33,
+   114
+  ],
+  "weightKg": 1.35,
+  "url": "https://www.prolights.it/en/product/DIGISTRIPIP50",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Kanalzahl = Pixelmodus"
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "DisplayCob DY",
+  "kind": "par",
+  "light": "45W White COB LED",
+  "beamDeg": [
+   15,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   5
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   166,
+   118,
+   250
+  ],
+  "weightKg": 1.85,
+  "url": "https://www.prolights.it/en/product/DISPLAYCOBDY",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "DisplayCob FC",
+  "kind": "par",
+  "light": "60W RGB COB LED",
+  "beamDeg": [
+   15,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   5,
+   8
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   166,
+   118,
+   250
+  ],
+  "weightKg": 1.85,
+  "url": "https://www.prolights.it/en/product/DISPLAYCOBFC",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "DisplayCob WW",
+  "kind": "par",
+  "light": "45W White COB LED",
+  "beamDeg": [
+   15,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   5
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   166,
+   118,
+   250
+  ],
+  "weightKg": 1.85,
+  "url": "https://www.prolights.it/en/product/DISPLAYCOBWW",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Dot QPack",
+  "kind": "par",
+  "light": "1x15W RGBW LED",
+  "beamDeg": [
+   23,
+   23
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   9
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   520,
+   125,
+   320
+  ],
+  "weightKg": 6,
+  "url": "https://www.prolights.it/en/product/DOTQPACKMR",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclProfile CT+",
+  "kind": "ellipsoidal",
+  "light": "Luxeon-C, 96x3W 6 colour custom LEDs source (red, green, blue, royal blue, mint, pc amber)",
+  "beamDeg": [
+   15,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "cmy",
+   "cto",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   264,
+   259,
+   539
+  ],
+  "weightKg": 7.9,
+  "url": "https://www.prolights.it/en/product/ECLCTPLUSBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclProfile CT+HP",
+  "kind": "ellipsoidal",
+  "light": "450W 6 colour LEDs source",
+  "beamDeg": [
+   15,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   30
+  ],
+  "features": [
+   "cto",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   292,
+   267,
+   628
+  ],
+  "weightKg": 8.5,
+  "url": "https://www.prolights.it/en/product/ECLCTPLUSHPBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclProfile CT+HPIP",
+  "kind": "ellipsoidal",
+  "light": "450W 6 colour LEDs source",
+  "beamDeg": [
+   15,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   30
+  ],
+  "features": [
+   "cto",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   292,
+   267,
+   628
+  ],
+  "weightKg": 12.5,
+  "url": "https://www.prolights.it/en/product/ECLCTPLUSHPIPBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclProfile CT+IP",
+  "kind": "ellipsoidal",
+  "light": "96x3W 6 colour custom LEDs source (red, green, blue, royal blue, mint, pc amber)",
+  "beamDeg": [
+   15,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "cto",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   324,
+   540,
+   660
+  ],
+  "weightKg": 10,
+  "url": "https://www.prolights.it/en/product/ECLCTPLUSIPBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclProfile",
+  "kind": "ellipsoidal",
+  "light": "1x150W high-power white LED",
+  "beamDeg": [
+   19,
+   19
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   5
+  ],
+  "features": [
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   282,
+   466,
+   530
+  ],
+  "weightKg": 9.25,
+  "url": "https://www.prolights.it/en/product/ECLDY",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclProfile FC",
+  "kind": "ellipsoidal",
+  "light": "91x3W RGB + Lime LEDs",
+  "beamDeg": [
+   15,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3,
+   5,
+   17,
+   4,
+   8,
+   11
+  ],
+  "features": [
+   "cto"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   342,
+   506,
+   530
+  ],
+  "weightKg": 9,
+  "url": "https://www.prolights.it/en/product/ECLFCWH",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclFresnel 2KPTW",
+  "kind": "fresnel",
+  "light": "500W 6 colour custom LEDs source (red, orange, green, royal blue, blue, lime)",
+  "beamDeg": [
+   17,
+   76
+  ],
+  "pan": 360,
+  "tilt": 180,
+  "channels": [
+   1,
+   2,
+   5,
+   7,
+   8,
+   9,
+   12,
+   13,
+   16,
+   19,
+   21
+  ],
+  "features": [
+   "cto",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   401,
+   576,
+   456
+  ],
+  "weightKg": 18,
+  "url": "https://www.prolights.it/en/product/ECLFR2KPTW",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclFresnel 2K",
+  "kind": "fresnel",
+  "light": "500W high-power white LED",
+  "beamDeg": [
+   16,
+   64
+  ],
+  "pan": 360,
+  "tilt": 180,
+  "channels": [
+   1,
+   2,
+   3,
+   5
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   421,
+   537,
+   456
+  ],
+  "weightKg": 17.2,
+  "url": "https://www.prolights.it/en/product/ECLFR2KTU",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclFresnel 2KTW",
+  "kind": "fresnel",
+  "light": "500W 6 colour custom LEDs source (red, orange, green, royal blue, blue, lime)",
+  "beamDeg": [
+   17,
+   76
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   5,
+   7,
+   8,
+   9,
+   12,
+   13,
+   16,
+   19,
+   21
+  ],
+  "features": [
+   "cto",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   421,
+   537,
+   456
+  ],
+  "weightKg": 17.2,
+  "url": "https://www.prolights.it/en/product/ECLFR2KTW",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:pro-lights/eclfresnel-2ktw",
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclFresnel 2KVW",
+  "kind": "fresnel",
+  "light": "500W Variable White LED",
+  "beamDeg": [
+   15,
+   79.5
+  ],
+  "pan": 360,
+  "tilt": 180,
+  "channels": [
+   1,
+   2,
+   4,
+   5,
+   11
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   421,
+   537,
+   456
+  ],
+  "weightKg": 17.2,
+  "url": "https://www.prolights.it/en/product/ECLFR2KVWBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclFresnel CT+L",
+  "kind": "fresnel",
+  "light": "600W 6 colour LEDs source",
+  "beamDeg": [
+   10,
+   77
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   98,
+   99,
+   130,
+   131
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   420,
+   663,
+   495
+  ],
+  "weightKg": 17.4,
+  "url": "https://www.prolights.it/en/product/ECLFRCTPLBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclFresnel CT+LIP",
+  "kind": "fresnel",
+  "light": "600W 6 colour LEDs source",
+  "beamDeg": [
+   10,
+   77
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   98,
+   99,
+   130,
+   131
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   420,
+   663,
+   495
+  ],
+  "weightKg": 19.1,
+  "url": "https://www.prolights.it/en/product/ECLFRCTPLIPBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclFresnel CT+M",
+  "kind": "fresnel",
+  "light": "350W 6 colour LEDs source",
+  "beamDeg": [
+   9.4,
+   80.8
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   98,
+   99,
+   130,
+   131
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   338,
+   573,
+   428
+  ],
+  "weightKg": 9.9,
+  "url": "https://www.prolights.it/en/product/ECLFRCTPMBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclFresnel CT+MIP",
+  "kind": "fresnel",
+  "light": "350W 6 colour LEDs source",
+  "beamDeg": [
+   9.4,
+   80.8
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   98,
+   99,
+   130,
+   131
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   338,
+   573,
+   428
+  ],
+  "weightKg": 10.9,
+  "url": "https://www.prolights.it/en/product/ECLFRCTPMIPBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclFresnel CT+S",
+  "kind": "fresnel",
+  "light": "200W 6 colour LEDs source",
+  "beamDeg": [
+   9.7,
+   73.5
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   98,
+   99,
+   130,
+   131
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   286,
+   513,
+   356
+  ],
+  "weightKg": 6.7,
+  "url": "https://www.prolights.it/en/product/ECLFRCTPSBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclFresnel CT+SIP",
+  "kind": "fresnel",
+  "light": "200W 6 colour LEDs source",
+  "beamDeg": [
+   9.7,
+   73.5
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   98,
+   99,
+   130,
+   131
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   286,
+   513,
+   356
+  ],
+  "weightKg": 7.6,
+  "url": "https://www.prolights.it/en/product/ECLFRCTPSIPBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclFresnel CT+XLIP",
+  "kind": "fresnel",
+  "light": "1'500W - drv@1'200W 6 colour LEDs source",
+  "beamDeg": [
+   10,
+   90
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   485,
+   676,
+   583
+  ],
+  "weightKg": 27.7,
+  "url": "https://www.prolights.it/en/product/ECLFRCTPXLIPBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclFresnel CT+XS",
+  "kind": "fresnel",
+  "light": "120W 6 colour LEDs source",
+  "beamDeg": [
+   10,
+   75
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   34
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   227,
+   289,
+   294
+  ],
+  "weightKg": 3.8,
+  "url": "https://www.prolights.it/en/product/ECLFRCTPXSBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclFresnel Jr",
+  "kind": "fresnel",
+  "light": "70W high-power white LED",
+  "beamDeg": [
+   17,
+   81
+  ],
+  "pan": 360,
+  "tilt": 340,
+  "channels": [
+   1,
+   2,
+   3,
+   5
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   235,
+   360,
+   260
+  ],
+  "weightKg": 6,
+  "url": "https://www.prolights.it/en/product/ECLFRESNELJTU",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclFresnel JrTW",
+  "kind": "fresnel",
+  "light": "130W 6 colour custom LEDs source (red, orange, green, royal blue, blue, lime)",
+  "beamDeg": [
+   16,
+   80
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   5,
+   7,
+   9,
+   12,
+   13,
+   16,
+   19,
+   21,
+   8
+  ],
+  "features": [
+   "cto",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   235,
+   360,
+   260
+  ],
+  "weightKg": 6,
+  "url": "https://www.prolights.it/en/product/ECLFRESNELJTW",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclFresnel PTW",
+  "kind": "fresnel",
+  "light": "260W 6 colour custom LEDs source (red, orange, green, royal blue, blue, lime)",
+  "beamDeg": [
+   17,
+   91
+  ],
+  "pan": 360,
+  "tilt": 340,
+  "channels": [
+   1,
+   2,
+   5,
+   7,
+   9,
+   12,
+   13,
+   16,
+   19,
+   21
+  ],
+  "features": [
+   "cto",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   341,
+   545,
+   343
+  ],
+  "weightKg": 9.7,
+  "url": "https://www.prolights.it/en/product/ECLFRESNELPTW",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclFresnel",
+  "kind": "fresnel",
+  "light": "230W high-power white LED",
+  "beamDeg": [
+   17,
+   66
+  ],
+  "pan": 360,
+  "tilt": 340,
+  "channels": [
+   1,
+   2,
+   3,
+   5
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   283,
+   440,
+   343
+  ],
+  "weightKg": 7.5,
+  "url": "https://www.prolights.it/en/product/ECLFRESNELTU",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclFresnel TW",
+  "kind": "fresnel",
+  "light": "260W 6 colour custom LEDs source (red, orange, green, royal blue, blue, lime)",
+  "beamDeg": [
+   17,
+   91
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   5,
+   7,
+   9,
+   12,
+   13,
+   16,
+   19,
+   21
+  ],
+  "features": [
+   "cto",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   283,
+   440,
+   343
+  ],
+  "weightKg": 7.5,
+  "url": "https://www.prolights.it/en/product/ECLFRESNELTW",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclFresnel VW",
+  "kind": "fresnel",
+  "light": "250W Variable White LED",
+  "beamDeg": [
+   17,
+   64
+  ],
+  "pan": 360,
+  "tilt": 340,
+  "channels": [
+   1,
+   2,
+   4,
+   5,
+   11
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   283,
+   440,
+   343
+  ],
+  "weightKg": 7.8,
+  "url": "https://www.prolights.it/en/product/ECLFRESNELVWPOBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclFresnel FWXSVW",
+  "kind": "fresnel",
+  "light": "120W Variable White LED",
+  "beamDeg": [
+   10,
+   56
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   14
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   227,
+   289,
+   294
+  ],
+  "weightKg": 3.8,
+  "url": "https://www.prolights.it/en/product/ECLFRFWXSVWBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclFresnel JrP",
+  "kind": "fresnel",
+  "light": "70W high-power white LED",
+  "beamDeg": [
+   17,
+   81
+  ],
+  "pan": 360,
+  "tilt": 340,
+  "channels": [
+   1,
+   2,
+   3,
+   5
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   298,
+   496,
+   260
+  ],
+  "weightKg": 7.5,
+  "url": "https://www.prolights.it/en/product/ECLFRJPDY",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclFresnel JrPTW",
+  "kind": "fresnel",
+  "light": "130W 6 colour custom LEDs source (red, orange, cyan, royal blue, green, lime)",
+  "beamDeg": [
+   16,
+   80
+  ],
+  "pan": 360,
+  "tilt": 340,
+  "channels": [
+   1,
+   2,
+   5,
+   7,
+   9,
+   12,
+   13,
+   16,
+   19,
+   21,
+   8
+  ],
+  "features": [
+   "cto",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   298,
+   496,
+   260
+  ],
+  "weightKg": 7.5,
+  "url": "https://www.prolights.it/en/product/ECLFRJPTW",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclProfile FS",
+  "kind": "ellipsoidal",
+  "light": "91x3W RGB + Lime LEDs",
+  "beamDeg": [
+   15,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   8,
+   13
+  ],
+  "features": [
+   "cto",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   265,
+   259,
+   540
+  ],
+  "weightKg": 7.3,
+  "url": "https://www.prolights.it/en/product/ECLFSBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:pro-lights/eclprofile-fs",
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclProfile FWHPIPVW",
+  "kind": "flood",
+  "light": "450W Variable White LED",
+  "beamDeg": [
+   15,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   16
+  ],
+  "features": [
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   292,
+   267,
+   628
+  ],
+  "weightKg": 12.5,
+  "url": "https://www.prolights.it/en/product/ECLFWHPIPVWBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclProfile FWHPVW",
+  "kind": "flood",
+  "light": "450W Variable White LED",
+  "beamDeg": [
+   15,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   16
+  ],
+  "features": [
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   292,
+   267,
+   628
+  ],
+  "weightKg": 8.5,
+  "url": "https://www.prolights.it/en/product/ECLFWHPVWBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclProfile FWIP",
+  "kind": "flood",
+  "light": "91x3W high-power white LED",
+  "beamDeg": [
+   15,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "features": [
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   324,
+   540,
+   660
+  ],
+  "weightKg": 10,
+  "url": "https://www.prolights.it/en/product/ECLFWIPTUBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclProfile FWIPVW",
+  "kind": "flood",
+  "light": "91x3W Variable White LED",
+  "beamDeg": [
+   15,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   3,
+   4,
+   6,
+   12
+  ],
+  "features": [
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   324,
+   540,
+   660
+  ],
+  "weightKg": 10,
+  "url": "https://www.prolights.it/en/product/ECLFWIPVWBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclProfile FW",
+  "kind": "flood",
+  "light": "91x3W high-power white LED",
+  "beamDeg": [
+   15,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "features": [
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   265,
+   259,
+   540
+  ],
+  "weightKg": 7.3,
+  "url": "https://www.prolights.it/en/product/ECLFWTUBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclProfile FWVW",
+  "kind": "flood",
+  "light": "91x3W Variable White LED",
+  "beamDeg": [
+   15,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   3,
+   5,
+   11
+  ],
+  "features": [
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   265,
+   259,
+   540
+  ],
+  "weightKg": 7.3,
+  "url": "https://www.prolights.it/en/product/ECLFWVWBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclProfile JrZIP",
+  "kind": "ellipsoidal",
+  "light": "160W Warm White LED",
+  "beamDeg": [
+   15,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   3
+  ],
+  "features": [
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   275,
+   440,
+   275
+  ],
+  "weightKg": 7.9,
+  "url": "https://www.prolights.it/en/product/ECLJZIPDYBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclPanel IPHard1x1",
+  "kind": "panel",
+  "light": "300W 6 colour LEDs source",
+  "beamDeg": [
+   46,
+   46
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "cto"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   529,
+   433,
+   142
+  ],
+  "weightKg": 12.8,
+  "url": "https://www.prolights.it/en/product/ECLPANELIPHARD1X1",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclPanel IPHard2x1",
+  "kind": "panel",
+  "light": "550W 6 colour LEDs source",
+  "beamDeg": [
+   48,
+   48
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "cto"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   819,
+   433,
+   142
+  ],
+  "weightKg": 19.8,
+  "url": "https://www.prolights.it/en/product/ECLPANELIPHARD2X1",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclPanel IPSoft1x1",
+  "kind": "panel",
+  "light": "300W 6 colour LEDs source",
+  "beamDeg": [
+   157,
+   157
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "cto"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   529,
+   433,
+   142
+  ],
+  "weightKg": 12,
+  "url": "https://www.prolights.it/en/product/ECLPANELIPSOFT1X1",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclPanel IPSoft2x1",
+  "kind": "panel",
+  "light": "550W 6 colour LEDs source",
+  "beamDeg": [
+   157,
+   157
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "cto"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   819,
+   433,
+   142
+  ],
+  "weightKg": 18.6,
+  "url": "https://www.prolights.it/en/product/ECLPANELIPSOFT2X1",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclPanel TWC",
+  "kind": "panel",
+  "light": "740W RGB + Warm White LEDs (driven @ 430W)",
+  "beamDeg": [
+   159,
+   159
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "cto"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   819,
+   431,
+   144
+  ],
+  "weightKg": 15.3,
+  "url": "https://www.prolights.it/en/product/ECLPANELTWC",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclPanel TWCXL",
+  "kind": "panel",
+  "light": "1.500W RGB + Warm White LED",
+  "beamDeg": [
+   158,
+   158
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "cto"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1623,
+   1201,
+   186
+  ],
+  "weightKg": 48.7,
+  "url": "https://www.prolights.it/en/product/ECLPANELTWCXL",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclPar DotFC",
+  "kind": "par",
+  "light": "1 x 20W RGB + Warm White LED",
+  "beamDeg": [
+   11.5,
+   11.5
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   5,
+   6,
+   9,
+   12,
+   13
+  ],
+  "features": [
+   "cto"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   165,
+   221,
+   144
+  ],
+  "weightKg": 1.2,
+  "url": "https://www.prolights.it/en/product/ECLPARDOTFC",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclPar DotVW",
+  "kind": "par",
+  "light": "1 x 20W Warm White + Cold White LEDs",
+  "beamDeg": [
+   7.7,
+   7.7
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   3,
+   4,
+   9
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   165,
+   221,
+   144
+  ],
+  "weightKg": 1.2,
+  "url": "https://www.prolights.it/en/product/ECLPARDOTVW",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclPar",
+  "kind": "par",
+  "light": "108 W (UV) / 177W White LED",
+  "beamDeg": [
+   28,
+   28
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   3,
+   6
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   316,
+   404,
+   317
+  ],
+  "weightKg": 5.5,
+  "url": "https://www.prolights.it/en/product/ECLPARDY",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclPar IPLFC",
+  "kind": "par",
+  "light": "300W RGB+WW LED array",
+  "beamDeg": [
+   23,
+   23
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   5,
+   9,
+   10,
+   12,
+   18
+  ],
+  "features": [
+   "cto"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   275,
+   402,
+   382
+  ],
+  "weightKg": 8.35,
+  "url": "https://www.prolights.it/en/product/ECLPARIPLFCBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclPar IPLVW",
+  "kind": "par",
+  "light": "300W Variable White LED",
+  "beamDeg": [
+   35,
+   35
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   4,
+   5,
+   9,
+   11
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   275,
+   402,
+   382
+  ],
+  "weightKg": 8.35,
+  "url": "https://www.prolights.it/en/product/ECLPARIPLVWBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclPar IPMFC",
+  "kind": "par",
+  "light": "100W RGB+WW LED array",
+  "beamDeg": [
+   26,
+   26
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   5,
+   9,
+   10,
+   12,
+   18
+  ],
+  "features": [
+   "cto"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   262,
+   327,
+   213
+  ],
+  "weightKg": 4.1,
+  "url": "https://www.prolights.it/en/product/ECLPARIPMFCBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:pro-lights/eclpar-ipmfc",
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclPar IPMUV",
+  "kind": "par",
+  "light": "80W UV LED",
+  "beamDeg": [
+   40,
+   40
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   262,
+   327,
+   213
+  ],
+  "weightKg": 4.1,
+  "url": "https://www.prolights.it/en/product/ECLPARIPMUVBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclPar IPMVW",
+  "kind": "par",
+  "light": "100W Variable White LED",
+  "beamDeg": [
+   24,
+   24
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   4,
+   5,
+   9,
+   11
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   262,
+   327,
+   213
+  ],
+  "weightKg": 4.1,
+  "url": "https://www.prolights.it/en/product/ECLPARIPMVWBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclPar IPSFC",
+  "kind": "par",
+  "light": "60W RGB+WW LED array",
+  "beamDeg": [
+   21,
+   21
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   5,
+   9,
+   10,
+   12,
+   18
+  ],
+  "features": [
+   "cto"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   211,
+   284,
+   248
+  ],
+  "weightKg": 2.8,
+  "url": "https://www.prolights.it/en/product/ECLPARIPSFCBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclPar IPSVW",
+  "kind": "par",
+  "light": "60W Variable White LED",
+  "beamDeg": [
+   23,
+   23
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   4,
+   5,
+   9,
+   11
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   211,
+   284,
+   248
+  ],
+  "weightKg": 2.8,
+  "url": "https://www.prolights.it/en/product/ECLPARIPSVWBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "FlatCob 80UV",
+  "kind": "flood",
+  "light": "80W UV LED",
+  "beamDeg": [
+   16,
+   51
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   5
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   200,
+   162,
+   230
+  ],
+  "weightKg": 2,
+  "url": "https://www.prolights.it/en/product/FLATCOB80UV",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "HaluPix Duo",
+  "kind": "matrix",
+  "light": "441 (21 x 21) - 120° - 1.5W RGB + Warm White LEDs",
+  "beamDeg": [
+   6.8,
+   6.8
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   12
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "21x21",
+  "sizeMm": [
+   500,
+   500,
+   133
+  ],
+  "weightKg": 16.3,
+  "url": "https://www.prolights.it/en/product/HALUPIXDUO",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "21x21 Pixel"
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "HaluStrip Duo",
+  "kind": "bar",
+  "light": "3 x 42 - 120° - 1.5W RGB + Warm White LEDs",
+  "beamDeg": [
+   7.4,
+   7.4
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   12,
+   518
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   71,
+   183
+  ],
+  "weightKg": 8,
+  "url": "https://www.prolights.it/en/product/HALUSTRIPDUO",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Jade",
+  "kind": "hybrid",
+  "light": "280W S Osram Sirius HRI",
+  "beamDeg": [
+   2,
+   10
+  ],
+  "pan": 630,
+  "tilt": 265,
+  "channels": [
+   14,
+   16,
+   22,
+   23
+  ],
+  "features": [
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "gobo-rot:9",
+   "gobo-static:14"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   355,
+   619,
+   235
+  ],
+  "weightKg": 17,
+  "url": "https://www.prolights.it/en/product/JADE",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Jet Beam120IP",
+  "kind": "beam",
+  "light": "120W Phosphor Laser source",
+  "beamDeg": [
+   0.6,
+   0.6
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   18
+  ],
+  "features": [
+   "cto",
+   "colorwheel",
+   "prism",
+   "frost",
+   "focus",
+   "animation",
+   "gobo-static:29+29"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   366,
+   533,
+   243
+  ],
+  "weightKg": 18.5,
+  "url": "https://www.prolights.it/en/product/JETBEAM120IP",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Jet Beam1",
+  "kind": "beam",
+  "light": "14W high-power white LED",
+  "beamDeg": [
+   2.5,
+   2.5
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   8,
+   10
+  ],
+  "features": [
+   "colorwheel",
+   "prism"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   220,
+   343,
+   170
+  ],
+  "weightKg": 5,
+  "url": "https://www.prolights.it/en/product/JETBEAM1WH",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Jet Hybrid200",
+  "kind": "hybrid",
+  "light": "200W high-power white LED",
+  "beamDeg": [
+   3.5,
+   40
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   20
+  ],
+  "features": [
+   "colorwheel",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "gobo-rot:8",
+   "gobo-static:17"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   356,
+   538,
+   205
+  ],
+  "weightKg": 15,
+  "url": "https://www.prolights.it/en/product/JETHYB200",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Jet PAR7ZIP",
+  "kind": "par",
+  "light": "7x20W RGB + Warm White LED",
+  "beamDeg": [
+   4.5,
+   53
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   6,
+   12,
+   14,
+   20
+  ],
+  "features": [
+   "cto",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   291,
+   347,
+   300
+  ],
+  "weightKg": 9.3,
+  "url": "https://www.prolights.it/en/product/JETPAR7ZIPBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Jet Profile300LT",
+  "kind": "profile",
+  "light": "300W high-power white LED",
+  "beamDeg": [
+   3.9,
+   44.1
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   38,
+   42
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "framing",
+   "animation",
+   "gobo-rot:7"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   403,
+   640,
+   250
+  ],
+  "weightKg": 21.4,
+  "url": "https://www.prolights.it/en/product/JETPROFILE300LT",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Jet Spot120",
+  "kind": "spot",
+  "light": "120W high-power white LED",
+  "beamDeg": [
+   9.1,
+   46.3
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   20
+  ],
+  "features": [
+   "colorwheel",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "gobo-rot:7",
+   "gobo-static:10"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   340,
+   479,
+   205
+  ],
+  "weightKg": 13.5,
+  "url": "https://www.prolights.it/en/product/JETSPOT120",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Jet Spot2",
+  "kind": "spot",
+  "light": "150W high-power white LED",
+  "beamDeg": [
+   20,
+   20
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   12,
+   15
+  ],
+  "features": [
+   "colorwheel",
+   "prism",
+   "focus",
+   "gobo-rot:7",
+   "gobo-static:8"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   308,
+   436,
+   230
+  ],
+  "weightKg": 13.7,
+  "url": "https://www.prolights.it/en/product/JETSPOT2WH",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Jet Spot3",
+  "kind": "spot",
+  "light": "240W high-power white LED",
+  "beamDeg": [
+   20,
+   20
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   17,
+   19
+  ],
+  "features": [
+   "colorwheel",
+   "prism",
+   "frost",
+   "iris",
+   "focus",
+   "gobo-rot:7",
+   "gobo-static:8"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   355,
+   500,
+   257
+  ],
+  "weightKg": 17.3,
+  "url": "https://www.prolights.it/en/product/JETSPOT3WH",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Jet Spot4Z",
+  "kind": "spot",
+  "light": "180W high-power white LED",
+  "beamDeg": [
+   11,
+   38
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   23,
+   25,
+   27
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "gobo-rot:7",
+   "gobo-static:8"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   332,
+   544,
+   230
+  ],
+  "weightKg": 18.6,
+  "url": "https://www.prolights.it/en/product/JETSPOT4Z",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Jet Wash19",
+  "kind": "wash",
+  "light": "19x20W RGBW Osram Ostar LEDs",
+  "beamDeg": [
+   4,
+   52
+  ],
+  "pan": 540,
+  "tilt": 233,
+  "channels": [
+   23
+  ],
+  "features": [
+   "cto",
+   "colorwheel",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   396,
+   487,
+   250
+  ],
+  "weightKg": 14.7,
+  "url": "https://www.prolights.it/en/product/JETWASH19",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:pro-lights/jet-wash19",
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Jet Wash7",
+  "kind": "wash",
+  "light": "7x20W RGBW Osram Ostar LEDs",
+  "beamDeg": [
+   4,
+   55
+  ],
+  "pan": 540,
+  "tilt": 233,
+  "channels": [
+   23
+  ],
+  "features": [
+   "cto",
+   "colorwheel",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   279,
+   377,
+   205
+  ],
+  "weightKg": 8.3,
+  "url": "https://www.prolights.it/en/product/JETWASH7",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Luma 1500SH",
+  "kind": "follow",
+  "light": "440W high-power white LED",
+  "beamDeg": [
+   5,
+   50
+  ],
+  "pan": 630,
+  "tilt": 267,
+  "channels": [
+   28,
+   30,
+   37,
+   38
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation",
+   "gobo-rot:6",
+   "gobo-static:7"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   428,
+   757,
+   291
+  ],
+  "weightKg": 31,
+  "url": "https://www.prolights.it/en/product/LUMA1500SH",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Luma 1500SP",
+  "kind": "follow",
+  "light": "440W high-power white LED",
+  "beamDeg": [
+   5,
+   50
+  ],
+  "pan": 630,
+  "tilt": 267,
+  "channels": [
+   21,
+   23,
+   30,
+   31
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation",
+   "gobo-rot:6",
+   "gobo-static:7"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   428,
+   758,
+   235
+  ],
+  "weightKg": 31,
+  "url": "https://www.prolights.it/en/product/LUMA1500SP",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "LumiPar 12HPro",
+  "kind": "par",
+  "light": "12x12W RGBWAP LEDs",
+  "beamDeg": [
+   34,
+   34
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   6,
+   8,
+   12
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   298,
+   240,
+   273
+  ],
+  "weightKg": 4.5,
+  "url": "https://www.prolights.it/en/product/LUMIPAR12HPRO",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "LumiPar 12IP",
+  "kind": "par",
+  "light": "12x9W RGBW LEDs",
+  "beamDeg": [
+   36,
+   36
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   6,
+   11
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   305,
+   326,
+   177
+  ],
+  "weightKg": 6.2,
+  "url": "https://www.prolights.it/en/product/LUMIPAR12IP20D",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "LumiPar 12UAW",
+  "kind": "par",
+  "light": "12x6W Variable White LED",
+  "beamDeg": [
+   36,
+   36
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   7
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   253,
+   200,
+   237
+  ],
+  "weightKg": 3.3,
+  "url": "https://www.prolights.it/en/product/LUMIPAR12UAW3",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "LUMIPAR12UQPRO",
+  "kind": "par",
+  "light": "12x8W RGBW LEDs",
+  "beamDeg": [
+   15,
+   15
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   9
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   253,
+   200,
+   237
+  ],
+  "weightKg": 3.3,
+  "url": "https://www.prolights.it/en/product/LUMIPAR12UQPRO5",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Lumipar 7HPro",
+  "kind": "par",
+  "light": "7x12W RGBWAP LEDs",
+  "beamDeg": [
+   34,
+   34
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   6,
+   8,
+   12
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   253,
+   201,
+   244
+  ],
+  "weightKg": 3.2,
+  "url": "https://www.prolights.it/en/product/LUMIPAR7HPRO",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "LumiPar 7IP",
+  "kind": "par",
+  "light": "7x9W RGBW LEDs",
+  "beamDeg": [
+   36,
+   36
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   6,
+   11
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   240,
+   286,
+   154
+  ],
+  "weightKg": 3.64,
+  "url": "https://www.prolights.it/en/product/LUMIPAR7IP20D",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "LumiPix 12QTour",
+  "kind": "bar",
+  "light": "12x10W RGBW LEDs",
+  "beamDeg": [
+   39,
+   39
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   7,
+   9,
+   49
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "12 linear",
+  "sizeMm": [
+   994,
+   138,
+   70
+  ],
+  "weightKg": 5.4,
+  "url": "https://www.prolights.it/en/product/LUMIPIX12QTOUR",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "LumiPix 12UQ",
+  "kind": "bar",
+  "light": "12x8W RGBW LEDs",
+  "beamDeg": [
+   36,
+   36
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   7,
+   9,
+   12,
+   17
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "12 linear",
+  "sizeMm": [
+   1000,
+   56,
+   168
+  ],
+  "weightKg": 3.3,
+  "url": "https://www.prolights.it/en/product/LUMIPIX12UQ",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "LumiPix 12UQPRO",
+  "kind": "bar",
+  "light": "12x8W RGBW LEDs",
+  "beamDeg": [
+   36,
+   36
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   7,
+   9,
+   12,
+   17
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "12 linear",
+  "sizeMm": [
+   1000,
+   56,
+   168
+  ],
+  "weightKg": 3.3,
+  "url": "https://www.prolights.it/en/product/LUMIPIX12UQPRO",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "LumiPix 12UT",
+  "kind": "bar",
+  "light": "12x3W RGB LEDs",
+  "beamDeg": [
+   34,
+   34
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   41,
+   3,
+   4,
+   6,
+   7,
+   8,
+   9,
+   12,
+   18,
+   36
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "12 linear",
+  "sizeMm": [
+   987,
+   49,
+   157
+  ],
+  "weightKg": 2.8,
+  "url": "https://www.prolights.it/en/product/LUMIPIX12UT",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Lumipix 15IP",
+  "kind": "bar",
+  "light": "15x10W RGBW LEDs",
+  "beamDeg": [
+   31,
+   31
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   6,
+   10,
+   60,
+   65
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "15 linear",
+  "sizeMm": [
+   992,
+   206,
+   160
+  ],
+  "weightKg": 8.6,
+  "url": "https://www.prolights.it/en/product/LUMIPIX15IP",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "LumiPix 16H",
+  "kind": "bar",
+  "light": "16x12W RGBWAP LEDs",
+  "beamDeg": [
+   37,
+   37
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   8,
+   12,
+   96,
+   101
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "16 linear",
+  "sizeMm": null,
+  "weightKg": 5.1,
+  "url": "https://www.prolights.it/en/product/LUMIPIX16H",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "LumiPix 8H",
+  "kind": "bar",
+  "light": "8x12W RGBWAP LEDs",
+  "beamDeg": [
+   36,
+   36
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   6,
+   8,
+   12,
+   48,
+   53
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "8 linear",
+  "sizeMm": [
+   582,
+   80,
+   183
+  ],
+  "weightKg": 3.3,
+  "url": "https://www.prolights.it/en/product/LUMIPIX8H",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "LumiPix XB050",
+  "kind": "bar",
+  "light": "9x20W RGB + Warm White LED",
+  "beamDeg": [
+   18,
+   18
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "cto",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   515,
+   185,
+   150
+  ],
+  "weightKg": 3.8,
+  "url": "https://www.prolights.it/en/product/LUMIPIXXB050",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "LumiPix XB100",
+  "kind": "bar",
+  "light": "18x20W RGB + Warm White LED",
+  "beamDeg": [
+   20,
+   20
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "cto",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1006,
+   185,
+   150
+  ],
+  "weightKg": 7.5,
+  "url": "https://www.prolights.it/en/product/LUMIPIXXB100",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclMiniFresnel",
+  "kind": "fresnel",
+  "light": "40W- drv@35W White LED",
+  "beamDeg": [
+   21,
+   79
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   3,
+   5
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   191,
+   281,
+   203
+  ],
+  "weightKg": 2.38,
+  "url": "https://www.prolights.it/en/product/MINIECLFRDY",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclMiniFresnel FC",
+  "kind": "fresnel",
+  "light": "70W RGB+Lime LEDs (driven @ 30W)",
+  "beamDeg": [
+   24,
+   113
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   9,
+   6,
+   7,
+   12,
+   14,
+   17
+  ],
+  "features": [
+   "cto",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   191,
+   281,
+   203
+  ],
+  "weightKg": 2.52,
+  "url": "https://www.prolights.it/en/product/MINIECLFRFC",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "EclMiniFresnel VW",
+  "kind": "fresnel",
+  "light": "60W Variable White LED (driven @ 50W)",
+  "beamDeg": [
+   21,
+   83
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   4,
+   5,
+   11
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   191,
+   281,
+   203
+  ],
+  "weightKg": 2.5,
+  "url": "https://www.prolights.it/en/product/MINIECLFRVWWH",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Mini Ruby",
+  "kind": "beam",
+  "light": "132W S Osram Sirius HRI",
+  "beamDeg": [
+   3.5,
+   3.5
+  ],
+  "pan": null,
+  "tilt": 265,
+  "channels": [
+   7,
+   9
+  ],
+  "features": [
+   "prism"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   278,
+   387,
+   200
+  ],
+  "weightKg": 7.6,
+  "url": "https://www.prolights.it/en/product/MINIRUBY",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:pro-lights/miniruby",
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Mini VersaPar",
+  "kind": "par",
+  "light": "7x10W RGBW LEDs",
+  "beamDeg": [
+   10,
+   40
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   7,
+   10
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 4,
+  "url": "https://www.prolights.it/en/product/MINIVERSAPAR",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Muse Fresnel70CT+",
+  "kind": "fresnel",
+  "light": "1000W 6 colour LEDs source",
+  "beamDeg": [
+   10,
+   60
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   35,
+   40,
+   41,
+   46
+  ],
+  "features": [
+   "cmy",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   436,
+   703,
+   331
+  ],
+  "weightKg": 29.3,
+  "url": "https://www.prolights.it/en/product/MUSEF70CTP",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Muse Profile70CT+",
+  "kind": "ellipsoidal",
+  "light": "1000W 6 colour LEDs source",
+  "beamDeg": [
+   6,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   43,
+   48,
+   49,
+   53
+  ],
+  "features": [
+   "cmy",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation",
+   "gobo-rot:6+6"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   416,
+   730,
+   331
+  ],
+  "weightKg": 34,
+  "url": "https://www.prolights.it/en/product/MUSEP70CTP",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "PanoramaIP AirBeam",
+  "kind": "beam",
+  "light": "440W S Osram Sirius HRI",
+  "beamDeg": [
+   2,
+   2
+  ],
+  "pan": 630,
+  "tilt": 230,
+  "channels": [
+   19,
+   22,
+   28
+  ],
+  "features": [
+   "cmy",
+   "prism",
+   "frost",
+   "focus",
+   "gobo-rot:9",
+   "gobo-static:15"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   441,
+   746,
+   326
+  ],
+  "weightKg": 39,
+  "url": "https://www.prolights.it/en/product/PANORAMAIPAB",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "PanoramaIP Spot",
+  "kind": "spot",
+  "light": "420W high-power white LED",
+  "beamDeg": [
+   5,
+   50
+  ],
+  "pan": null,
+  "tilt": 233,
+  "channels": [
+   19,
+   21,
+   28,
+   29,
+   36
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "gobo-rot:7",
+   "gobo-static:6"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   441,
+   740,
+   315
+  ],
+  "weightKg": 38,
+  "url": "https://www.prolights.it/en/product/PANORAMAIPSPOT",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "PanoramaIP WBX",
+  "kind": "wash",
+  "light": "19x40W RGBW Osram Ostar LEDs",
+  "beamDeg": [
+   4.5,
+   36
+  ],
+  "pan": 540,
+  "tilt": 267,
+  "channels": [
+   1,
+   18,
+   42,
+   44,
+   120,
+   2
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   531,
+   676,
+   326
+  ],
+  "weightKg": 35,
+  "url": "https://www.prolights.it/en/product/PANORAMAIPWBX",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65 Wash/Beam mit FX"
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Pin Spot",
+  "kind": "par",
+  "light": "13W high-power white LED",
+  "beamDeg": [
+   11,
+   11
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   209,
+   167,
+   238
+  ],
+  "weightKg": 1.8,
+  "url": "https://www.prolights.it/en/product/PINSPOTDY",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Pixie Beam",
+  "kind": "beam",
+  "light": "60W RGBW Osram Ostar LEDs",
+  "beamDeg": [
+   4.5,
+   4.5
+  ],
+  "pan": 540,
+  "tilt": 360,
+  "channels": [
+   14,
+   16,
+   18
+  ],
+  "features": [
+   "colorwheel",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   208,
+   300,
+   144
+  ],
+  "weightKg": 4,
+  "url": "https://www.prolights.it/en/product/PIXIEBEAM",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Pixie Wash",
+  "kind": "wash",
+  "light": "60W RGBW Osram Ostar LED",
+  "beamDeg": [
+   7,
+   40
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   13,
+   16
+  ],
+  "features": [
+   "colorwheel",
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   253,
+   329,
+   205
+  ],
+  "weightKg": 7,
+  "url": "https://www.prolights.it/en/product/PIXIEWASHWH",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:pro-lights/pixiewash",
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Pixie WashXB",
+  "kind": "wash",
+  "light": "280W RGB + Warm White LED",
+  "beamDeg": [
+   7.6,
+   43
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "channels": [
+   13,
+   15,
+   16,
+   18,
+   22,
+   23,
+   27
+  ],
+  "features": [
+   "cto",
+   "colorwheel",
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   308,
+   448,
+   230
+  ],
+  "weightKg": 13.6,
+  "url": "https://www.prolights.it/en/product/PIXIEWASHXB",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Pixie ZoomXB",
+  "kind": "par",
+  "light": "280W RGB + Warm White LEDs",
+  "beamDeg": [
+   7,
+   42
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   7,
+   11
+  ],
+  "features": [
+   "cto",
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   335,
+   418,
+   342
+  ],
+  "weightKg": 11.8,
+  "url": "https://www.prolights.it/en/product/PIXIEZOOMXB",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Poet F6",
+  "kind": "fresnel",
+  "light": "250W 6 colour LEDs source",
+  "beamDeg": [
+   10,
+   80
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   24
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   246,
+   387,
+   370
+  ],
+  "weightKg": 6,
+  "url": "https://www.prolights.it/en/product/POETF6BK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Poet F6X",
+  "kind": "fresnel",
+  "light": "250W 6 colour LEDs source",
+  "beamDeg": [
+   10,
+   80
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   25
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   246,
+   387,
+   370
+  ],
+  "weightKg": 6.5,
+  "url": "https://www.prolights.it/en/product/POETF6XBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Poet F8",
+  "kind": "fresnel",
+  "light": "450W 6 colour LEDs source",
+  "beamDeg": [
+   12,
+   80
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   24
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   324,
+   452,
+   430
+  ],
+  "weightKg": 9,
+  "url": "https://www.prolights.it/en/product/POETF8BK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Poet F8X",
+  "kind": "fresnel",
+  "light": "450W 6 colour LEDs source",
+  "beamDeg": [
+   12,
+   80
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   25
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   324,
+   452,
+   430
+  ],
+  "weightKg": 9.5,
+  "url": "https://www.prolights.it/en/product/POETF8XBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Ra 2000Profile",
+  "kind": "profile",
+  "light": "540W White LED",
+  "beamDeg": [
+   8,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   38,
+   39,
+   40,
+   41,
+   44
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation",
+   "gobo-rot:7"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   443,
+   697,
+   293
+  ],
+  "weightKg": 32,
+  "url": "https://www.prolights.it/en/product/RA2000PROFILE",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:pro-lights/ra-2000profile",
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Ra 3000Profile",
+  "kind": "profile",
+  "light": "1.000W White LED",
+  "beamDeg": [
+   6,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   38,
+   39,
+   40,
+   41
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "framing",
+   "animation",
+   "gobo-rot:6"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   535,
+   913,
+   403
+  ],
+  "weightKg": 57,
+  "url": "https://www.prolights.it/en/product/RA3000PROFILE",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Razor 440",
+  "kind": "beam",
+  "light": "440W S Osram Sirius HRI",
+  "beamDeg": [
+   2,
+   50
+  ],
+  "pan": 630,
+  "tilt": 267,
+  "channels": [
+   21,
+   24,
+   26
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "animation",
+   "gobo-rot:6",
+   "gobo-static:18"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   411,
+   714,
+   258
+  ],
+  "weightKg": 27,
+  "url": "https://www.prolights.it/en/product/RAZOR440",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Ruby",
+  "kind": "beam",
+  "light": "132W S Osram Sirius HRI",
+  "beamDeg": [
+   2,
+   2
+  ],
+  "pan": 630,
+  "tilt": 265,
+  "channels": [
+   11,
+   13,
+   14,
+   17
+  ],
+  "features": [
+   "prism",
+   "frost",
+   "focus",
+   "gobo-static:17"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   294,
+   437,
+   200
+  ],
+  "weightKg": 10.5,
+  "url": "https://www.prolights.it/en/product/RUBYBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Ruby FCX",
+  "kind": "beam",
+  "light": "50W",
+  "beamDeg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "tilt": 265,
+  "channels": [
+   18,
+   20,
+   22,
+   23
+  ],
+  "features": [
+   "prism",
+   "frost",
+   "focus",
+   "gobo-static:17"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   294,
+   471,
+   200
+  ],
+  "weightKg": 12,
+  "url": "https://www.prolights.it/en/product/RUBYFCX",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Smart Bat",
+  "kind": "bar",
+  "light": "4x8W RGBW LEDs",
+  "beamDeg": [
+   14.9,
+   14.9
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   6,
+   10
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   138,
+   184,
+   145
+  ],
+  "weightKg": 3.4,
+  "url": "https://www.prolights.it/en/product/SMARTBATBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "ofl:prolights/smartbat",
+  "notes": "Akku-Uplight"
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Smart BatHEX",
+  "kind": "bar",
+  "light": "4x12W RGBWAP LEDs",
+  "beamDeg": [
+   23,
+   23
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   8,
+   12
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   138,
+   186,
+   145
+  ],
+  "weightKg": 3.4,
+  "url": "https://www.prolights.it/en/product/SMARTBATHEXBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:pro-lights/smartbathex",
+  "notes": "Akku-Uplight"
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Smart BatIP",
+  "kind": "bar",
+  "light": "4x8W RGBW LEDs",
+  "beamDeg": [
+   23,
+   23
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   6,
+   10
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   138,
+   191,
+   145
+  ],
+  "weightKg": 3.6,
+  "url": "https://www.prolights.it/en/product/SMARTBATIP",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Akku-Uplight, IP65"
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Smart BatPlusG2",
+  "kind": "bar",
+  "light": "4x20W RGB + Warm White LED",
+  "beamDeg": [
+   10,
+   10
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   192,
+   188,
+   192
+  ],
+  "weightKg": 5.7,
+  "url": "https://www.prolights.it/en/product/SMARTBATPLUSG2",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Akku-Uplight"
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Smart BatPlusNeo",
+  "kind": "bar",
+  "light": "7x10W RGB + Warm White LED",
+  "beamDeg": [
+   21,
+   21
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   138,
+   180,
+   147
+  ],
+  "weightKg": 3.4,
+  "url": "https://www.prolights.it/en/product/SMARTBATPLUSNEO",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Akku-Uplight"
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Smart BatWash",
+  "kind": "par",
+  "light": "15x20W RGB + Warm White LED",
+  "beamDeg": [
+   10,
+   10
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "colorwheel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   381,
+   344,
+   143
+  ],
+  "weightKg": 9.8,
+  "url": "https://www.prolights.it/en/product/SMARTBATWASH",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Smart ParNeo",
+  "kind": "par",
+  "light": "7x10W RGB + Warm White LED",
+  "beamDeg": [
+   21,
+   21
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   6,
+   10,
+   3,
+   1,
+   5,
+   11,
+   17
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   194,
+   249,
+   147
+  ],
+  "weightKg": 3.84,
+  "url": "https://www.prolights.it/en/product/SMARTPARNEO",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Akku"
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Solar 27Q",
+  "kind": "blinder",
+  "light": "27x10W RGBW LEDs",
+  "beamDeg": [
+   25,
+   25
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   7,
+   10,
+   13,
+   17
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   454,
+   269,
+   83
+  ],
+  "weightKg": 9,
+  "url": "https://www.prolights.it/en/product/SOLAR27Q",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Solar 48Q",
+  "kind": "blinder",
+  "light": "48x10W RGBW LEDs",
+  "beamDeg": [
+   25,
+   25
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   7,
+   10,
+   17,
+   22
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   563,
+   314,
+   93
+  ],
+  "weightKg": 12.9,
+  "url": "https://www.prolights.it/en/product/SOLAR48Q",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Stark 1000",
+  "kind": "wash",
+  "light": "19x40W RGBW Osram Ostar LEDs",
+  "beamDeg": [
+   4,
+   38
+  ],
+  "pan": 540,
+  "tilt": 233,
+  "channels": [
+   16,
+   26,
+   27,
+   36,
+   98
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   431,
+   564,
+   248
+  ],
+  "weightKg": 18,
+  "url": "https://www.prolights.it/en/product/STARK1000",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Wash/Strobe-Moving-Head"
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Stark 1000CC",
+  "kind": "wash",
+  "light": "19x40W RGBW LED",
+  "beamDeg": [
+   3,
+   45
+  ],
+  "pan": 540,
+  "tilt": 233,
+  "channels": [],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   430,
+   563,
+   235
+  ],
+  "weightKg": 18.7,
+  "url": "https://www.prolights.it/en/product/STARK1000CC",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Wash/Strobe-Moving-Head"
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Stark Blade8",
+  "kind": "tiltbar",
+  "light": "8x40W RGBW Osram Ostar LEDs",
+  "beamDeg": [
+   3,
+   45
+  ],
+  "pan": 540,
+  "tilt": 360,
+  "channels": [
+   17,
+   27,
+   55
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "8 linear",
+  "sizeMm": [
+   560,
+   433,
+   206
+  ],
+  "weightKg": 12,
+  "url": "https://www.prolights.it/en/product/STARKBLADE8",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "StudioCob CW",
+  "kind": "panel",
+  "light": "100W White COB LED",
+  "beamDeg": [
+   15,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   5
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   262,
+   190,
+   371
+  ],
+  "weightKg": 4.5,
+  "url": "https://www.prolights.it/en/product/STUDIOCOBCWBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "StudioCob DY",
+  "kind": "panel",
+  "light": "100W high-power white LED",
+  "beamDeg": [
+   15,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   5
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   262,
+   190,
+   371
+  ],
+  "weightKg": 4.5,
+  "url": "https://www.prolights.it/en/product/STUDIOCOBDYBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "StudioCob FC",
+  "kind": "panel",
+  "light": "150W RGB COB LED",
+  "beamDeg": [
+   15,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   5,
+   8
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   262,
+   190,
+   371
+  ],
+  "weightKg": 4.5,
+  "url": "https://www.prolights.it/en/product/STUDIOCOBFCCR",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:pro-lights/studiocobfc",
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "StudioCob PlusDY2",
+  "kind": "panel",
+  "light": "150W White COB LED",
+  "beamDeg": [
+   19,
+   37
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   5
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   258,
+   354,
+   257
+  ],
+  "weightKg": 4.95,
+  "url": "https://www.prolights.it/en/product/STUDIOCOBPDY2BK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "StudioCob PlusDY",
+  "kind": "panel",
+  "light": "150W White COB LED",
+  "beamDeg": [
+   18,
+   38
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   5
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   258,
+   354,
+   257
+  ],
+  "weightKg": 4.95,
+  "url": "https://www.prolights.it/en/product/STUDIOCOBPLUSDYWH",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "StudioCob PlusNW",
+  "kind": "panel",
+  "light": "150W White LED",
+  "beamDeg": [
+   18,
+   38
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   5
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   259,
+   187,
+   370
+  ],
+  "weightKg": 4.95,
+  "url": "https://www.prolights.it/en/product/STUDIOCOBPLUSNW",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "StudioCob TU",
+  "kind": "panel",
+  "light": "100W high-power white LED",
+  "beamDeg": [
+   15,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   5
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   262,
+   190,
+   371
+  ],
+  "weightKg": 4.5,
+  "url": "https://www.prolights.it/en/product/STUDIOCOBTUCR",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "StudioCob WW",
+  "kind": "panel",
+  "light": "100W White COB LED",
+  "beamDeg": [
+   15,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   5
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   262,
+   190,
+   371
+  ],
+  "weightKg": 4.5,
+  "url": "https://www.prolights.it/en/product/STUDIOCOBWWBK",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "SunBar 2000FC",
+  "kind": "strobe",
+  "light": "1.024x1W RGBW LEDs",
+  "beamDeg": [
+   155,
+   155
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   87
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   75,
+   231
+  ],
+  "weightKg": 9.5,
+  "url": "https://www.prolights.it/en/product/SUNBAR2000FC",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "SunBar 2500Max",
+  "kind": "strobe",
+  "light": "1.024x1,3W high-power white LED",
+  "beamDeg": [
+   150,
+   150
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   71
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1000,
+   75,
+   231
+  ],
+  "weightKg": 9.5,
+  "url": "https://www.prolights.it/en/product/SUNBAR2500MAX",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "SunBar FLX",
+  "kind": "strobe",
+  "light": "(Beam 24 px) 120 x 12 White LEDs + (Plate 32 px) 768 x 1,2WW RGB + Warm White LEDs",
+  "beamDeg": [
+   152,
+   152
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   8,
+   13,
+   21,
+   36,
+   32,
+   42,
+   47,
+   60
+  ],
+  "features": [
+   "frost"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   911,
+   86,
+   182
+  ],
+  "weightKg": 9.8,
+  "url": "https://www.prolights.it/en/product/SUNBARFLX",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "SunBlast 3500Max",
+  "kind": "strobe",
+  "light": "1.728x1,3W high-power white LED",
+  "beamDeg": [
+   155,
+   155
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   468,
+   179,
+   268
+  ],
+  "weightKg": 14.3,
+  "url": "https://www.prolights.it/en/product/SUNBLAST3500MAX",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "Sunblast FLX",
+  "kind": "strobe",
+  "light": "(Beam 12 px) 60 x 12 white LEDs + (Plate 16 px) 1.024 x 1,2W RGB + Warm White LEDs",
+  "beamDeg": [
+   152,
+   152
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   8,
+   13,
+   21,
+   36,
+   32,
+   42,
+   47,
+   60
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   542,
+   260,
+   175
+  ],
+  "weightKg": 11.6,
+  "url": "https://www.prolights.it/en/product/SUNBLASTFLX",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "SunRise 2FLXFC",
+  "kind": "blinder",
+  "light": "2 x 300W RGB + Warm White + Amber LED",
+  "beamDeg": [
+   92,
+   92
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   35
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   542,
+   173,
+   192
+  ],
+  "weightKg": 9.9,
+  "url": "https://www.prolights.it/en/product/SUNRISE2FLXFC",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "SunRise 2FLXVW",
+  "kind": "blinder",
+  "light": "2 x 300W Variable White + Amber LED",
+  "beamDeg": [
+   93,
+   93
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   18
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   542,
+   173,
+   192
+  ],
+  "weightKg": 9.9,
+  "url": "https://www.prolights.it/en/product/SUNRISE2FLXVW",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "SunRise 2IP",
+  "kind": "blinder",
+  "light": "2 x 8 W Amber + 2 x 75W Warm White LEDs",
+  "beamDeg": [
+   100,
+   100
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   6,
+   12
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   432,
+   230,
+   102
+  ],
+  "weightKg": 7.6,
+  "url": "https://www.prolights.it/en/product/SUNRISE2IP",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "SunRise 4FLXFC",
+  "kind": "blinder",
+  "light": "4 x 300W RGB + Warm White + Amber LED",
+  "beamDeg": [
+   98,
+   98
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   56
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   542,
+   489,
+   191
+  ],
+  "weightKg": 15.9,
+  "url": "https://www.prolights.it/en/product/SUNRISE4FLXFC",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Prolights",
+  "model": "SunRise 4FLXVW",
+  "kind": "blinder",
+  "light": "4 x 300W Variable White + Amber LED",
+  "beamDeg": [
+   95,
+   95
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   18
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   542,
+   489,
+   191
+  ],
+  "weightKg": 15.9,
+  "url": "https://www.prolights.it/en/product/SUNRISE4FLXVW",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ }
+]

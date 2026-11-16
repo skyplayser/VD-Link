@@ -1,0 +1,392 @@
+[
+ {
+  "manufacturer": "Futurelight",
+  "model": "DMH-190 Hybrid Moving-Head Spot/Beam",
+  "kind": "hybrid",
+  "light": "1 x 190 W COB (Chip-on-board) kaltweiß (CW)",
+  "beamDeg": [
+   1.0,
+   32.0
+  ],
+  "pan": 540,
+  "tilt": 255,
+  "channels": [
+   17,
+   21
+  ],
+  "features": [
+   "battery/wireless",
+   "colorwheel",
+   "cto",
+   "focus",
+   "frost",
+   "gobo",
+   "gobos-fixed:17",
+   "gobos-rot:8",
+   "prism",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   360,
+   250,
+   530
+  ],
+  "weightKg": 16.3,
+  "url": "https://www.steinigke.de/mpn51841974-futurelight-dmh-190-hybrid-moving-head-spot-beam.html",
+  "manualUrl": "https://www.steinigke.de/download/51841974-Anleitung-159548-1.0000-futurelight-dmh-190-hybrid-moving-head-spot-beam-de_en.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Futurelight",
+  "model": "DMH-380 Hybrid CMY Moving-Head Spot/Beam",
+  "kind": "hybrid",
+  "light": "1 x 380 W COB (Chip-on-board) kaltweiß (CW)",
+  "beamDeg": [
+   1.0,
+   50.0
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   26,
+   30
+  ],
+  "features": [
+   "battery/wireless",
+   "cmy",
+   "colorwheel",
+   "cto",
+   "focus",
+   "frost",
+   "gobo",
+   "gobos-fixed:11",
+   "gobos-rot:8",
+   "prism",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   415,
+   254,
+   632
+  ],
+  "weightKg": 22.0,
+  "url": "https://www.steinigke.de/mpn51841985-futurelight-dmh-380-hybrid-cmy-moving-head-spot-beam.html",
+  "manualUrl": "https://www.steinigke.de/download/51841985-Anleitung-161879-1.1000-futurelight-dmh-380-hybrid-cmy-moving-head-spot-beam-de_en.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Futurelight",
+  "model": "DMH-640 Profile CMY Moving-Head Spot",
+  "kind": "profile",
+  "light": "1 x 640 W COB (Chip-on-board) kaltweiß (CW)",
+  "beamDeg": [
+   10.0,
+   47.0
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   33,
+   35,
+   39
+  ],
+  "features": [
+   "battery/wireless",
+   "cmy",
+   "colorwheel",
+   "cto",
+   "focus",
+   "frost",
+   "gobo",
+   "gobos-fixed:8",
+   "gobos-rot:7",
+   "iris",
+   "prism",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   442,
+   301,
+   753
+  ],
+  "weightKg": 37.15,
+  "url": "https://www.steinigke.de/mpn51841990-futurelight-dmh-640-profile-cmy-moving-head-spot.html",
+  "manualUrl": "https://www.steinigke.de/download/51841990-Anleitung-156754-1.0000-futurelight-dmh-640-profile-cmy-moving-head-spot-de_en.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Futurelight",
+  "model": "EYE-1940 QCL Zoom LED Moving-Head Wash",
+  "kind": "wash",
+  "light": "19 x 40 W 4in1 RGBW (homogene Farbmischung)",
+  "beamDeg": [
+   1.0,
+   42.0
+  ],
+  "pan": 540,
+  "tilt": 230,
+  "channels": [
+   18,
+   25,
+   30,
+   37,
+   49,
+   94,
+   101,
+   113
+  ],
+  "features": [
+   "battery/wireless",
+   "pixel-control",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   400,
+   280,
+   422
+  ],
+  "weightKg": 17.1,
+  "url": "https://www.steinigke.de/mpn51841302-futurelight-eye-1940-qcl-zoom-led-moving-head-wash.html",
+  "manualUrl": "https://www.steinigke.de/download/51841302-Anleitung-156524-1.0000-futurelight-eye-1940-qcl-zoom-led-moving-head-wash-de_en.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Futurelight",
+  "model": "EYE-740 MK2 QCL Zoom LED Moving-Head Wash",
+  "kind": "wash",
+  "light": "7 x 40 W 4in1 RGBW (homogene Farbmischung)",
+  "beamDeg": [
+   1.0,
+   48.0
+  ],
+  "pan": 540,
+  "tilt": 210,
+  "channels": [
+   18,
+   25,
+   26,
+   33,
+   37,
+   45,
+   46,
+   53,
+   65
+  ],
+  "features": [
+   "battery/wireless",
+   "pixel-control",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   286,
+   245,
+   372
+  ],
+  "weightKg": 8.1,
+  "url": "https://www.steinigke.de/mpn51841303-futurelight-eye-740-mk2-qcl-zoom-led-moving-head-wash.html",
+  "manualUrl": "https://www.steinigke.de/download/51841303-Anleitung-147190-1.1000-futurelight-eye-740-mk2-qcl-zoom-led-moving-head-wash-de.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Futurelight",
+  "model": "IP PLB-420 Moving-Head Beam",
+  "kind": "beam",
+  "light": "Entladungslampe",
+  "beamDeg": [
+   1.0,
+   1.0
+  ],
+  "pan": 540,
+  "tilt": 265,
+  "channels": [
+   18
+  ],
+  "features": [
+   "battery/wireless",
+   "colorwheel",
+   "focus",
+   "gobo",
+   "gobos-fixed:14",
+   "ip65",
+   "prism"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   450,
+   350,
+   760
+  ],
+  "weightKg": 39.7,
+  "url": "https://www.steinigke.de/mpn51838830-futurelight-ip-plb-420-moving-head-beam.html",
+  "manualUrl": "https://www.steinigke.de/download/51838830-Anleitung-144521-1.0000-futurelight-ip-plb-420-moving-head-beam-de_en.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Futurelight",
+  "model": "IP PLH-420 Moving-Head Spot/Beam",
+  "kind": "hybrid",
+  "light": "Entladungslampe",
+  "beamDeg": [
+   1.0,
+   25.0
+  ],
+  "pan": 540,
+  "tilt": 265,
+  "channels": [
+   23
+  ],
+  "features": [
+   "battery/wireless",
+   "colorwheel",
+   "focus",
+   "frost",
+   "gobo",
+   "gobos-fixed:13",
+   "gobos-rot:9",
+   "ip65",
+   "prism",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   450,
+   350,
+   760
+  ],
+  "weightKg": 38.9,
+  "url": "https://www.steinigke.de/mpn51838800-futurelight-ip-plh-420-moving-head-spot-beam.html",
+  "manualUrl": "https://www.steinigke.de/download/51838800-Anleitung-146107-1.0000-futurelight-ip-plh-420-moving-head-spot-beam-de_en.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Futurelight",
+  "model": "PRO Slim Strobe SMD 840 CW",
+  "kind": "strobe",
+  "light": "840 x 0,5 W SMD 5730 kaltweiß (CW)",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   3,
+   5,
+   7,
+   17,
+   23
+  ],
+  "features": [
+   "battery/wireless",
+   "frost"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   305,
+   145,
+   345
+  ],
+  "weightKg": 5.5,
+  "url": "https://www.steinigke.de/mpn51842710-futurelight-pro-slim-strobe-smd-840-cw.html",
+  "manualUrl": "https://www.steinigke.de/download/51842710-Anleitung-149076-1.0000-futurelight-pro-slim-strobe-smd-840-cw-de_en.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Futurelight",
+  "model": "PRO Slim Strobe SMD 840 WW",
+  "kind": "strobe",
+  "light": "840 x 0,5 W SMD 5730 warmweiß (WW)",
+  "beamDeg": [
+   120.0,
+   120.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   3,
+   5,
+   7,
+   17,
+   23
+  ],
+  "features": [
+   "battery/wireless",
+   "frost"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   305,
+   145,
+   345
+  ],
+  "weightKg": 5.5,
+  "url": "https://www.steinigke.de/mpn51842715-futurelight-pro-slim-strobe-smd-840-ww.html",
+  "manualUrl": "https://www.steinigke.de/download/51842715-Anleitung-149076-1.0000-futurelight-pro-slim-strobe-smd-840-ww-de_en.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Futurelight",
+  "model": "Profile 200, 20-45°",
+  "kind": "ellipsoidal",
+  "light": "1 x 200 W COB (Chip-on-board) warmweiß (WW)",
+  "beamDeg": [
+   20.0,
+   45.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2
+  ],
+  "features": [
+   "focus",
+   "gobo",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   645,
+   276,
+   277
+  ],
+  "weightKg": 10.9,
+  "url": "https://www.steinigke.de/mpn51840915-futurelight-profile-200-20-45.html",
+  "manualUrl": "https://www.steinigke.de/download/51840915-Anleitung-117852-1.1000-futurelight-profile-200-20-45-de_en.pdf",
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ }
+]

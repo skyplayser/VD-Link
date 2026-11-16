@@ -1,0 +1,53 @@
+[
+ {
+  "man": "Tomshine",
+  "key": "30w-mini-spider-rgbw",
+  "model": "30W Mini Spider RGBW",
+  "kind": "spider",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   10,
+   14
+  ],
+  "url": "https://us.amazon.com/Tomshine-Rotatable-Lighting-Channels-Wedding/dp/B073S72B9Z",
+  "note": "Steckbrief aus Shop-Text (automatisch) (us.amazon.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Tomshine",
+  "key": "60w-6in1-moving-head-rgbwa-uv-4-12w",
+  "model": "60W 6in1 Moving Head RGBWA+UV (4×12W)",
+  "kind": "wash",
+  "leds": [
+   4,
+   "rgbwauv"
+  ],
+  "ch": [
+   16,
+   18
+  ],
+  "pixelFrom": 16,
+  "feat": [
+   "gobo:8"
+  ],
+  "url": "https://www.amazon.com/Tomshine-Channels-Lighting-Activated-Spotlight/dp/B071ZH8P8C",
+  "note": "Steckbrief aus Shop-Text (automatisch) (amazon.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Tomshine",
+  "key": "70w-rgbw-mini-beam-moving-head-1-cob-60w",
+  "model": "70W RGBW Mini Beam Moving Head (1 COB, 60W)",
+  "kind": "beam",
+  "ch": [
+   10,
+   13
+  ],
+  "url": "https://alltdu.com/index.php?route=product/product&product_id=521",
+  "note": "Steckbrief aus Shop-Text (automatisch) (alltdu.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

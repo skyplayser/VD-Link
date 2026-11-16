@@ -1,0 +1,1896 @@
+[
+ {
+  "manufacturer": "Ayrton",
+  "model": "Veloce Profile",
+  "kind": "profile",
+  "light": "LED weiß (58.000 lm Engine)",
+  "beamDeg": [
+   4,
+   52
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   44,
+   67
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:7+7",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   404,
+   757,
+   366
+  ],
+  "weightKg": 40.5,
+  "url": "https://www.ayrton.eu/produit/veloce-profile/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "ULTIMATE-Serie, IP65"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Veloce Wash",
+  "kind": "wash",
+  "light": "850 W LED-Modul 6500 K (58.000 lm Engine)",
+  "beamDeg": [
+   4,
+   57
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   60
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "frost",
+   "zoom",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   405,
+   757,
+   366
+  ],
+  "weightKg": 39,
+  "url": "https://www.ayrton.eu/produit/veloce-wash/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "ULTIMATE-Serie, IP65"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Rivale Profile",
+  "kind": "profile",
+  "light": "LED weiß (35.000 lm Engine)",
+  "beamDeg": [
+   4,
+   52
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   42,
+   65
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot",
+   "gobo-static:9",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   360,
+   676,
+   316
+  ],
+  "weightKg": 30.8,
+  "url": "https://www.ayrton.eu/produit/rivale-profile/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:ayrton/rivale-profile",
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Rivale Wash",
+  "kind": "wash",
+  "light": "LED weiß (35.000 lm Engine)",
+  "beamDeg": [
+   4,
+   57
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   60
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "frost",
+   "zoom",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   360,
+   676,
+   316
+  ],
+  "weightKg": 30.8,
+  "url": "https://www.ayrton.eu/produit/rivale-wash/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65, 170 mm Frontlinse"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Stradale Profile",
+  "kind": "profile",
+  "light": "LED weiß (26.000 lm Engine)",
+  "beamDeg": [
+   4,
+   52
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   42,
+   65
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot",
+   "gobo-static:10",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   339,
+   593,
+   298
+  ],
+  "weightKg": 23.5,
+  "url": "https://www.ayrton.eu/produit/stradale-profile/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "EagleStrike",
+  "kind": "profile",
+  "light": "LED weiß (82.000 lm Engine)",
+  "beamDeg": [
+   2.9,
+   43
+  ],
+  "pan": null,
+  "tilt": 270,
+  "channels": [
+   44,
+   66
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:5+5",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   450,
+   898,
+   413
+  ],
+  "weightKg": 54.7,
+  "url": "https://www.ayrton.eu/produit/eaglestrike/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Pan endlos lt. Hersteller"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Cobra",
+  "kind": "beam",
+  "light": "Phosphor-Laserquelle (weiß)",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   35,
+   45
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:12",
+   "gobo-static:80",
+   "prism",
+   "frost",
+   "zoom",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   422,
+   663,
+   280
+  ],
+  "weightKg": 33,
+  "url": "https://www.ayrton.eu/produit/cobra/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "vd:ayrton/cobra",
+  "notes": "IP65, 170 mm Frontlinse"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Cobra²",
+  "kind": "beam",
+  "light": "Laserquelle (weiß)",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   35,
+   45
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:12",
+   "gobo-static:80",
+   "prism",
+   "frost",
+   "zoom",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   360,
+   674,
+   319
+  ],
+  "weightKg": 30.7,
+  "url": "https://www.ayrton.eu/produit/cobra2/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Naja",
+  "kind": "beam",
+  "light": "Laserquelle (weiß)",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   49
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:12",
+   "gobo-static:80",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   360,
+   664,
+   315
+  ],
+  "weightKg": 31.5,
+  "url": "https://www.ayrton.eu/produit/naja/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Mamba",
+  "kind": "beam",
+  "light": "Laserquelle (weiß)",
+  "beamDeg": [
+   0.7,
+   15
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   47
+  ],
+  "features": [
+   "cmy",
+   "gobo-rot:12",
+   "gobo-static:80",
+   "prism",
+   "frost",
+   "zoom",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   405,
+   747,
+   369
+  ],
+  "weightKg": 41,
+  "url": "https://www.ayrton.eu/produit/mamba/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65, 250 mm Frontlinse"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Rawbeam 350",
+  "kind": "beam",
+  "light": "Weißlicht-Quelle (350er Klasse)",
+  "beamDeg": [
+   1.1,
+   45
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   43
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:10",
+   "gobo-static:25",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   339,
+   592,
+   297
+  ],
+  "weightKg": 25.4,
+  "url": "https://www.ayrton.eu/produit/rawbeam-350/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "160 mm Frontlinse, 40x Zoom"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Kyalami",
+  "kind": "beam",
+  "light": "Laserquelle",
+  "beamDeg": [
+   1,
+   1
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   33
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "gobo-static:29",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   265,
+   430,
+   265
+  ],
+  "weightKg": 14.5,
+  "url": "https://www.ayrton.eu/produit/kyalami/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:ayrton/kyalami",
+  "notes": "IP65, kugelförmiger Kopf, 126 mm Linse"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Karif LT",
+  "kind": "beam",
+  "light": "LED weiß 8000 K (20.000 lm Engine)",
+  "beamDeg": [
+   2.8,
+   47
+  ],
+  "pan": null,
+  "tilt": 263,
+  "channels": [
+   32,
+   46
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:9",
+   "gobo-static:39",
+   "prism",
+   "frost",
+   "zoom",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   365,
+   622,
+   212
+  ],
+  "weightKg": 27,
+  "url": "https://www.ayrton.eu/produit/karif-lt/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Pan endlos lt. Hersteller, 168 mm Linse"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Perseo Profile",
+  "kind": "profile",
+  "light": null,
+  "beamDeg": [
+   7,
+   58
+  ],
+  "pan": 540,
+  "tilt": 263,
+  "channels": [
+   38,
+   61
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:7",
+   "gobo-static:11",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   490,
+   710,
+   330
+  ],
+  "weightKg": 38.8,
+  "url": "https://www.ayrton.eu/produit/perseo-profile/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "vd:ayrton/perseo-s",
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Perseo Beam",
+  "kind": "beam",
+  "light": "LED weiß 9000 K (25.000 lm Engine)",
+  "beamDeg": [
+   2,
+   42
+  ],
+  "pan": null,
+  "tilt": 263,
+  "channels": [
+   29,
+   42
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "gobo-rot:9",
+   "gobo-static:39",
+   "prism",
+   "frost",
+   "zoom",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   490,
+   710,
+   330
+  ],
+  "weightKg": 41.5,
+  "url": "https://www.ayrton.eu/produit/perseo-beam/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65, Pan endlos lt. Hersteller"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Domino LT",
+  "kind": "profile",
+  "light": "LED weiß 8200 K (75.000 lm Engine)",
+  "beamDeg": [
+   3.5,
+   53
+  ],
+  "pan": 540,
+  "tilt": 263,
+  "channels": [
+   44,
+   70
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   490,
+   884,
+   330
+  ],
+  "weightKg": 60,
+  "url": "https://www.ayrton.eu/produit/domino-lt/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:ayrton/domino-lt",
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Domino Profile",
+  "kind": "profile",
+  "light": null,
+  "beamDeg": [
+   6,
+   60
+  ],
+  "pan": 540,
+  "tilt": 263,
+  "channels": [
+   44,
+   66
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:7+7",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   490,
+   841,
+   330
+  ],
+  "weightKg": 52,
+  "url": "https://www.ayrton.eu/produit/domino-profile/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Domino Wash",
+  "kind": "wash",
+  "light": null,
+  "beamDeg": [
+   6.2,
+   75
+  ],
+  "pan": 540,
+  "tilt": 262,
+  "channels": [
+   37,
+   61
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:7",
+   "frost",
+   "iris",
+   "zoom",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   490,
+   821,
+   330
+  ],
+  "weightKg": 52,
+  "url": "https://www.ayrton.eu/produit/domino-wash/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Huracán LT",
+  "kind": "profile",
+  "light": "LED weiß 8200 K (75.000 lm Engine)",
+  "beamDeg": [
+   3.5,
+   53
+  ],
+  "pan": 540,
+  "tilt": 262,
+  "channels": [
+   44,
+   70
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   494,
+   867,
+   280
+  ],
+  "weightKg": 53.8,
+  "url": "https://www.ayrton.eu/produit/huracan-lt/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "vd:ayrton/huracan-lt",
+  "notes": null
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Huracán Profile",
+  "kind": "profile",
+  "light": null,
+  "beamDeg": [
+   6,
+   60
+  ],
+  "pan": 540,
+  "tilt": 262,
+  "channels": [
+   44,
+   70
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:7",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   486,
+   811,
+   294
+  ],
+  "weightKg": 46,
+  "url": "https://www.ayrton.eu/produit/huracan-profile/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Huracán Wash",
+  "kind": "wash",
+  "light": "1000 W LED monochrom",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   39,
+   61
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:7",
+   "frost",
+   "iris",
+   "zoom",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   494,
+   788,
+   294
+  ],
+  "weightKg": 42.5,
+  "url": "https://www.ayrton.eu/produit/huracan-wash/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Khamsin",
+  "kind": "profile",
+  "light": null,
+  "beamDeg": [
+   7,
+   58
+  ],
+  "pan": 540,
+  "tilt": 262,
+  "channels": [
+   40,
+   64
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:6+6",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   494,
+   778,
+   280
+  ],
+  "weightKg": 39.8,
+  "url": "https://www.ayrton.eu/produit/khamsin/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "vd:ayrton/khamsin-s",
+  "notes": null
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Ghibli",
+  "kind": "profile",
+  "light": null,
+  "beamDeg": [
+   7,
+   56
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   36,
+   58
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:7",
+   "gobo-static:8",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   468,
+   734,
+   280
+  ],
+  "weightKg": 35.6,
+  "url": "https://www.ayrton.eu/produit/ghibli/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "vd:ayrton/ghibli",
+  "notes": null
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Bora",
+  "kind": "profile",
+  "light": null,
+  "beamDeg": [
+   8,
+   64
+  ],
+  "pan": 540,
+  "tilt": 262,
+  "channels": [
+   30,
+   52
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:6",
+   "frost",
+   "iris",
+   "zoom",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   494,
+   737,
+   280
+  ],
+  "weightKg": 37.8,
+  "url": "https://www.ayrton.eu/produit/bora/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "vd:ayrton/bora-s",
+  "notes": "Wash mit Framing"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Eurus Profile",
+  "kind": "profile",
+  "light": null,
+  "beamDeg": [
+   4.5,
+   50
+  ],
+  "pan": 540,
+  "tilt": 266,
+  "channels": [
+   39,
+   62
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:7",
+   "gobo-static:11",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   445,
+   743,
+   273
+  ],
+  "weightKg": 32.9,
+  "url": "https://www.ayrton.eu/produit/eurus/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "vd:ayrton/eurus-s",
+  "notes": null
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Diablo Profile",
+  "kind": "profile",
+  "light": null,
+  "beamDeg": [
+   7,
+   53
+  ],
+  "pan": 540,
+  "tilt": 263,
+  "channels": [
+   34,
+   56
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:7",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   365,
+   591,
+   208
+  ],
+  "weightKg": 22,
+  "url": "https://www.ayrton.eu/produit/diablo/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "ofl:ayrton/diablo-s",
+  "notes": null
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Levante",
+  "kind": "profile",
+  "light": null,
+  "beamDeg": [
+   6.9,
+   57
+  ],
+  "pan": 540,
+  "tilt": 263,
+  "channels": [
+   29,
+   50
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:7",
+   "frost",
+   "iris",
+   "zoom",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   365,
+   632,
+   212
+  ],
+  "weightKg": 22,
+  "url": "https://www.ayrton.eu/produit/levante/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "vd:ayrton/levante",
+  "notes": null
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Mistral",
+  "kind": "spot",
+  "light": null,
+  "beamDeg": [
+   6.7,
+   53
+  ],
+  "pan": 540,
+  "tilt": 263,
+  "channels": [
+   26,
+   39
+  ],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot:7",
+   "gobo-static:9",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   365,
+   591,
+   212
+  ],
+  "weightKg": 18.9,
+  "url": "https://www.ayrton.eu/produit/mistral/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:ayrton/mistral",
+  "notes": null
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Merak",
+  "kind": "wash",
+  "light": "1 x 250 W RGBW Multichip",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 263,
+  "channels": [
+   18,
+   28
+  ],
+  "features": [
+   "colorwheel",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   365,
+   555,
+   212
+  ],
+  "weightKg": 13.8,
+  "url": "https://www.ayrton.eu/produit/merak/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Argo 6 Wash",
+  "kind": "wash",
+  "light": "19 x 40 W RGBW",
+  "beamDeg": [
+   4,
+   56
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   26,
+   67
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   436,
+   536,
+   280
+  ],
+  "weightKg": 23.2,
+  "url": "https://www.ayrton.eu/produit/argo-6-wash/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Argo 6 FX",
+  "kind": "wash",
+  "light": "19 x 40 W RGBW",
+  "beamDeg": [
+   4,
+   56
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   26,
+   127
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "19 (Hex)",
+  "sizeMm": [
+   436,
+   536,
+   280
+  ],
+  "weightKg": 23.2,
+  "url": "https://www.ayrton.eu/produit/argo-6-fx/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65, Pan/Tilt endlos"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Zonda 3 Wash",
+  "kind": "wash",
+  "light": "7 x RGBW High-Power (je 1000 lm)",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 265,
+  "channels": [
+   26,
+   46
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   365,
+   404,
+   233
+  ],
+  "weightKg": 11.1,
+  "url": "https://www.ayrton.eu/produit/zonda-3-wash/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Zonda 3 FX",
+  "kind": "wash",
+  "light": "7 x RGBW High-Power (je 1000 lm)",
+  "beamDeg": [
+   4,
+   56
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   26,
+   79
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "7 (Hex)",
+  "sizeMm": [
+   365,
+   404,
+   233
+  ],
+  "weightKg": 11.1,
+  "url": "https://www.ayrton.eu/produit/zonda-3-fx/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Pan/Tilt endlos (I.R.S.)"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Zonda 9 Wash",
+  "kind": "wash",
+  "light": "37 x RGBW High-Power (je 1000 lm)",
+  "beamDeg": [
+   4,
+   56
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   26,
+   54
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   530,
+   625,
+   280
+  ],
+  "weightKg": 29.2,
+  "url": "https://www.ayrton.eu/produit/zonda-9-wash/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Zonda 9 FX",
+  "kind": "wash",
+  "light": "37 x RGBW High-Power (je 1000 lm)",
+  "beamDeg": [
+   4,
+   56
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   26,
+   199
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "37 (Hex)",
+  "sizeMm": [
+   530,
+   625,
+   280
+  ],
+  "weightKg": 29.2,
+  "url": "https://www.ayrton.eu/produit/zonda-9-fx/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "vd:ayrton/zonda-9-fx",
+  "notes": "Pan/Tilt endlos (I.R.S.)"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Nando 502 Wash",
+  "kind": "wash",
+  "light": "12 x RGBL High-Power (je 1000 lm)",
+  "beamDeg": [
+   3.5,
+   53
+  ],
+  "pan": 540,
+  "tilt": 232,
+  "channels": [
+   26,
+   86
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   342,
+   467,
+   268
+  ],
+  "weightKg": 15.6,
+  "url": "https://www.ayrton.eu/produit/nando-502-wash/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Nando 1202",
+  "kind": "wash",
+  "light": "28 x RGBL High-Power (je 1200 lm)",
+  "beamDeg": [
+   3.5,
+   53
+  ],
+  "pan": 540,
+  "tilt": 225,
+  "channels": [
+   26,
+   150
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   446,
+   562,
+   356
+  ],
+  "weightKg": 27.6,
+  "url": "https://www.ayrton.eu/produit/nando-1202/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "WildSun K9 Wash",
+  "kind": "wash",
+  "light": "217 Mono-Chip LEDs",
+  "beamDeg": [
+   10,
+   60
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   14,
+   30
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   530,
+   625,
+   280
+  ],
+  "weightKg": 26.9,
+  "url": "https://www.ayrton.eu/produit/wildsun-k9-wash/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "WildBeam-R",
+  "kind": "beam",
+  "light": "7 x 15 W Multichip",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   42
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   288,
+   379,
+   220
+  ],
+  "weightKg": 8.7,
+  "url": "https://www.ayrton.eu/produit/wildbeam-r/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "MagicPanel FX",
+  "kind": "matrixhead",
+  "light": "25 x RGBW High-Power (je 1000 lm, 900 W gesamt)",
+  "beamDeg": [
+   3.6,
+   53
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   19,
+   118
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "5x5",
+  "sizeMm": [
+   486,
+   641,
+   307
+  ],
+  "weightKg": 28.7,
+  "url": "https://www.ayrton.eu/produit/magicpanel-fx/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Pan/Tilt endlos"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "MiniPanel FX",
+  "kind": "matrixhead",
+  "light": "4 x 35 W RGBW",
+  "beamDeg": [
+   3.6,
+   53
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   19,
+   34
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "2x2",
+  "sizeMm": [
+   285,
+   397,
+   220
+  ],
+  "weightKg": 8.9,
+  "url": "https://www.ayrton.eu/produit/minipanel-fx/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:ayrton/minipanel-fx",
+  "notes": "Pan/Tilt endlos"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "MagicDot Neo",
+  "kind": "beam",
+  "light": "120 W RGBL Multichip (5.000 lm)",
+  "beamDeg": [
+   3,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   35
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   197,
+   353,
+   197
+  ],
+  "weightKg": 6.6,
+  "url": "https://www.ayrton.eu/produit/magicdot-neo/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Pan/Tilt endlos, 100 mm Linse"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "MagicBlade Neo",
+  "kind": "multihead",
+  "light": "5 x RGBL (je 5.000 lm)",
+  "beamDeg": [
+   3,
+   30
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   175,
+   184
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "5 Köpfe linear",
+  "sizeMm": [
+   1008,
+   200,
+   352
+  ],
+  "weightKg": 32.4,
+  "url": "https://www.ayrton.eu/produit/magicblade-neo/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "5 einzeln bewegliche Köpfe, Pan/Tilt endlos"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "MagicPanel 602",
+  "kind": "matrixhead",
+  "light": "36 x RGBW",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "6x6",
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:ayrton/magicpanel-602",
+  "notes": "Vorgänger MagicPanel FX, verbreitet im Verleih"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "MagicPanel-R",
+  "kind": "matrixhead",
+  "light": "36 x RGBW",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "6x6",
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Pan/Tilt endlos"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "MagicBlade-R",
+  "kind": "multihead",
+  "light": "7 x RGBW",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "1x7",
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:ayrton/magicblade-r",
+  "notes": "Tilt endlos"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "MagicBlade FX",
+  "kind": "multihead",
+  "light": "7 x RGBW",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "1x7",
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:ayrton/magicblade-fx",
+  "notes": null
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "MagicRing-R9",
+  "kind": "matrixhead",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "ringförmige Pixelanordnung, Pan/Tilt endlos"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "MagicDot-R",
+  "kind": "beam",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "vd:ayrton/magicdot-r",
+  "notes": null
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "MagicDot-SX",
+  "kind": "beam",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "NandoBeam S3",
+  "kind": "wash",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:ayrton/nandobeam-s3",
+  "notes": null
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "NandoBeam S6",
+  "kind": "wash",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "NandoBeam S9",
+  "kind": "wash",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "WildSun 500 C",
+  "kind": "wash",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "Diablo-TC",
+  "kind": "profile",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:ayrton/diablo-tc",
+  "notes": "Tungsten-Variante (warmweiß)"
+ },
+ {
+  "manufacturer": "Ayrton",
+  "model": "DreamPanel Twin",
+  "kind": "matrixhead",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": null,
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Doppelseitig: LED-Matrix + Videopanel"
+ }
+]

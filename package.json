@@ -1,0 +1,140 @@
+{
+  "name": "vd-link",
+  "version": "0.2.0",
+  "productName": "VD-Link",
+  "description": "VD-Link (Virtual-Demo Link): 3D-Lichtvisualisierer für Art-Net und sACN – Schwesterprojekt von VJ-Link und LJ-Link.",
+  "license": "EPL-2.0",
+  "private": true,
+  "type": "module",
+  "main": "dist-electron/main.cjs",
+  "author": {
+    "name": "Philipp Spruck / NEXTPHILM",
+    "email": "anfrage@nextphilm.de"
+  },
+  "homepage": "https://github.com/skyplayser/VD-Link",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skyplayser/VD-Link.git"
+  },
+  "bugs": {
+    "url": "https://github.com/skyplayser/VD-Link/issues"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "npm run build:main && vite build",
+    "build:main": "node scripts/build-main.mjs",
+    "build:native": "sh native/macos/build.sh",
+    "start": "npm run build && electron .",
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "check": "npm run typecheck && npm run build",
+    "fixtures": "sh tools/fetch-fixture-sources.sh && npm run import-fixtures && npm run vd-fixtures",
+    "vd-fixtures": "esbuild tools/build-vd-fixtures.ts --bundle --platform=node --format=esm --outfile=.tmp-vd-fixtures.mjs --log-level=warning && node .tmp-vd-fixtures.mjs && rm .tmp-vd-fixtures.mjs",
+    "import-fixtures": "node --experimental-strip-types tools/import-fixtures.ts vendor-src public/fixtures",
+    "dmx-sender": "node --experimental-strip-types tools/dmx-sender.ts",
+    "logo": "electron scripts/logo/render.cjs",
+    "dist:mac": "npm run build:native && npm run build && electron-builder --mac --publish never",
+    "dist:win": "npm run build && electron-builder --win --x64 --publish never"
+  },
+  "dependencies": {
+    "three": "0.187.0"
+  },
+  "devDependencies": {
+    "@types/node": "26.6.6",
+    "@types/three": "0.187.0",
+    "electron": "45.3.1",
+    "electron-builder": "26.17.0",
+    "esbuild": "0.28.2",
+    "fast-xml-parser": "5.12.0",
+    "typescript": "7.0.2",
+    "vite": "8.3.8"
+  },
+  "build": {
+    "appId": "de.nextphilm.vdlink",
+    "afterPack": "build/after-pack.cjs",
+    "productName": "VD-Link",
+    "copyright": "© 2026 Philipp Spruck / NEXTPHILM",
+    "directories": {
+      "output": "release",
+      "buildResources": "build"
+    },
+    "files": [
+      "dist/**/*",
+      "dist-electron/**/*",
+      "!dist-electron/*.map",
+      "package.json",
+      "LICENSE",
+      "THIRD_PARTY.md"
+    ],
+    "asar": true,
+    "mac": {
+      "category": "public.app-category.entertainment",
+      "icon": "build/icon.icns",
+      "target": [
+        {
+          "target": "dmg",
+          "arch": [
+            "arm64",
+            "x64"
+          ]
+        }
+      ],
+      "identity": "-",
+      "minimumSystemVersion": "13.0",
+      "extraResources": [
+        {
+          "from": "native/macos/build/vd-display-helper",
+          "to": "vd-display-helper"
+        }
+      ],
+      "extendInfo": {
+        "NSScreenCaptureUsageDescription": "VD-Link zeigt das Bild virtueller Monitore (z. B. von VJ-Link) auf den Videowänden der 3D-Ansicht.",
+        "NSLocalNetworkUsageDescription": "VD-Link empfängt Art-Net und sACN von Lichtpulten im lokalen Netzwerk."
+      },
+      "hardenedRuntime": false,
+      "artifactName": "VD-Link-macos-${arch}.${ext}"
+    },
+    "win": {
+      "icon": "build/icon.ico",
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "artifactName": "VD-Link-windows.${ext}"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "license": "LICENSE"
+    },
+    "dmg": {
+      "title": "VD-Link ${version}"
+    },
+    "fileAssociations": [
+      {
+        "ext": "vdlink",
+        "name": "VD-Link-Projekt",
+        "role": "Editor",
+        "icon": "build/icon"
+      },
+      {
+        "ext": "vdloc",
+        "name": "VD-Link-Location",
+        "role": "Editor",
+        "icon": "build/icon"
+      },
+      {
+        "ext": "vdfix",
+        "name": "VD-Link-Lampe",
+        "role": "Editor",
+        "icon": "build/icon"
+      }
+    ]
+  }
+}

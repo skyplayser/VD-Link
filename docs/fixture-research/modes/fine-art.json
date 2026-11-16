@@ -1,0 +1,1900 @@
+[
+ {
+  "man": "Fine Art",
+  "key": "fa-1507-ip-2-in-1-beam-wash-moving-head-light",
+  "model": "FA 1507 IP 2-in-1 Beam Wash Moving Head Light",
+  "kind": "wash",
+  "leds": [
+   7,
+   "rgbl"
+  ],
+  "deg": [
+   3.8,
+   45
+  ],
+  "pan": 540,
+  "tilt": 240,
+  "ch": [
+   20,
+   32,
+   41,
+   48
+  ],
+  "pixelFrom": 32,
+  "feat": [
+   "focus"
+  ],
+  "url": "https://www.fineart-light.com/fa-1507-ip",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fa-17-ispot",
+  "model": "FA 17 iSPOT",
+  "kind": "profile",
+  "deg": [
+   4.6,
+   55
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   35,
+   43,
+   47
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.fineart-light.com/fa-17-ispot",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fa-17",
+  "model": "FA 17",
+  "kind": "profile",
+  "deg": [
+   4.6,
+   55
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   35,
+   43,
+   47
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.fineart-light.com/fa-17",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fa-1700lb-bswf-ip",
+  "model": "FA 1700LB BSWF IP",
+  "kind": "profile",
+  "deg": [
+   5,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16,
+   34,
+   42,
+   46
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.fineart-light.com/fa-1700lb-bswf-ip",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fa-1700lh-bswf-ip",
+  "model": "FA 1700LH BSWF IP",
+  "kind": "profile",
+  "deg": [
+   5,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16,
+   34,
+   42,
+   46
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.fineart-light.com/fa-1700lh-bswf-ip",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fa-1700lh-ispot-ip",
+  "model": "FA 1700LH iSPOT IP",
+  "kind": "profile",
+  "deg": [
+   5,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16,
+   34,
+   42,
+   46
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.fineart-light.com/fa-1700lh-ispot-ip",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fa-1700zl-bswf",
+  "model": "FA 1700ZL BSWF",
+  "kind": "profile",
+  "deg": [
+   5,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16,
+   34,
+   41,
+   45
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.fineart-light.com/fa-1700zl-bswf",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fa-17c-ispot",
+  "model": "FA 17C iSPOT",
+  "kind": "profile",
+  "deg": [
+   4.6,
+   52
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   40,
+   50,
+   56
+  ],
+  "feat": [
+   "cmy",
+   "gobo:14",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.fineart-light.com/fa-17c-ispot",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fa-17c",
+  "model": "FA 17C",
+  "kind": "profile",
+  "deg": [
+   4.6,
+   52
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   40,
+   50,
+   56
+  ],
+  "feat": [
+   "cmy",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.fineart-light.com/fa-17c",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fa-300-beam-ip-outdoor-waterproof-moving-head-light",
+  "model": "FA 300 BEAM IP Outdoor Waterproof Moving Head Light",
+  "kind": "beam",
+  "deg": [
+   1,
+   1
+  ],
+  "ch": [
+   21,
+   23,
+   27
+  ],
+  "feat": [
+   "cmy",
+   "gobo:14",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://www.fineart-light.com/fa-300-beam-ip",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fa-500bsw-ip-3-in-1-beam-spot-wash-moving-head-light",
+  "model": "FA 500BSW IP 3-in-1 Beam Spot Wash Moving Head Light",
+  "kind": "hybrid",
+  "tilt": 270,
+  "ch": [
+   24,
+   29,
+   33
+  ],
+  "feat": [
+   "cmy",
+   "gobo:14",
+   "anim",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://www.fineart-light.com/fa-500-bsw-ip",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fa-6010-batten",
+  "model": "FA 6010 BATTEN",
+  "kind": "tiltbar",
+  "leds": [
+   10,
+   "rgbw"
+  ],
+  "grid": [
+   1,
+   10
+  ],
+  "deg": [
+   3,
+   45
+  ],
+  "tilt": 200,
+  "ch": [
+   25,
+   40,
+   91,
+   98,
+   148
+  ],
+  "pixelFrom": 40,
+  "url": "https://www.fineart-light.com/fa-6010-batten",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-1000c-strobe",
+  "model": "FINE 1000C STROBE",
+  "kind": "strobe",
+  "ch": [
+   12,
+   17,
+   167
+  ],
+  "size": [
+   391,
+   152,
+   291
+  ],
+  "url": "https://www.fineart-light.com/fine-1000c-strobe",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-1200c-strobe-ip",
+  "model": "FINE 1200C STROBE IP",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "cw"
+  ],
+  "deg": [
+   60,
+   60
+  ],
+  "ch": [
+   16,
+   23,
+   48,
+   61,
+   138
+  ],
+  "size": [
+   402,
+   194,
+   287
+  ],
+  "url": "https://www.fineart-light.com/fine-1200c-strobe-ip",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-1200c-strobe",
+  "model": "FINE 1200C STROBE",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "cw"
+  ],
+  "deg": [
+   60,
+   60
+  ],
+  "ch": [
+   16,
+   23,
+   61,
+   138
+  ],
+  "size": [
+   391,
+   152,
+   291
+  ],
+  "url": "https://www.fineart-light.com/fine-1200c-strobe",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-120ls-beam-ip",
+  "model": "FINE 120LS BEAM IP",
+  "kind": "beam",
+  "deg": [
+   0.9,
+   5
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   15,
+   17,
+   21
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "zoom"
+  ],
+  "url": "https://www.fineart-light.com/fine-120ls-beam-ip",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-1400-perf",
+  "model": "FINE 1400 PERF",
+  "kind": "profile",
+  "deg": [
+   8,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   32,
+   35,
+   42
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.fineart-light.com/fine-1400-perf",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-1400lb-bswf-ip",
+  "model": "FINE 1400LB BSWF IP",
+  "kind": "profile",
+  "deg": [
+   5,
+   52
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   32,
+   40,
+   44
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.fineart-light.com/fine-1400lb-bswf-ip",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-1400lh-bswf-ip",
+  "model": "FINE 1400LH BSWF IP",
+  "kind": "profile",
+  "deg": [
+   5,
+   52
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   32,
+   40,
+   44
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.fineart-light.com/fine-1400lh-bswf-ip",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-150-ft-ip",
+  "model": "FINE 150 FT IP",
+  "kind": "bar",
+  "leds": [
+   2,
+   "rgbl"
+  ],
+  "deg": [
+   50,
+   110
+  ],
+  "ch": [
+   7,
+   11,
+   20
+  ],
+  "pixelFrom": 11,
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   1003,
+   149,
+   130
+  ],
+  "url": "https://www.fineart-light.com/fine-150-ft-ip",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-150-ft",
+  "model": "FINE 150 FT",
+  "kind": "bar",
+  "leds": [
+   2,
+   "rgbl"
+  ],
+  "deg": [
+   40,
+   70
+  ],
+  "ch": [
+   10,
+   16,
+   20
+  ],
+  "pixelFrom": 10,
+  "size": [
+   984,
+   139,
+   119
+  ],
+  "url": "https://www.fineart-light.com/fine-150-ft",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-150w-ft-ip",
+  "model": "FINE 150W FT IP",
+  "kind": "bar",
+  "deg": [
+   80,
+   80
+  ],
+  "ch": [
+   7,
+   11,
+   20
+  ],
+  "size": [
+   1003,
+   149,
+   130
+  ],
+  "url": "https://www.fineart-light.com/fine-150w-ft-ip",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-150w-ft",
+  "model": "FINE 150W FT",
+  "kind": "bar",
+  "deg": [
+   40,
+   70
+  ],
+  "ch": [
+   7,
+   11,
+   20
+  ],
+  "size": [
+   984,
+   139,
+   102
+  ],
+  "url": "https://www.fineart-light.com/fine-150w-ft",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-1514-dg",
+  "model": "FINE 1514 DG",
+  "kind": "par",
+  "leds": [
+   14,
+   "rgbw"
+  ],
+  "deg": [
+   9,
+   24
+  ],
+  "ch": [
+   4,
+   5,
+   10
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   300,
+   240,
+   326
+  ],
+  "url": "https://www.fineart-light.com/fine-1514-dg",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-1514-zoom",
+  "model": "FINE 1514 ZOOM",
+  "kind": "par",
+  "leds": [
+   14,
+   "rgbw"
+  ],
+  "deg": [
+   12,
+   27
+  ],
+  "ch": [
+   5,
+   6,
+   11
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   300,
+   240,
+   326
+  ],
+  "url": "https://www.fineart-light.com/fine-1514-zoom",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-1700l-wash-perf",
+  "model": "FINE 1700L WASH PERF",
+  "kind": "wash",
+  "deg": [
+   7,
+   40
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   25,
+   29,
+   33
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.fineart-light.com/fine-1700l-wash-perf",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-1700lb-bswf-ip",
+  "model": "FINE 1700LB BSWF IP",
+  "kind": "profile",
+  "deg": [
+   5,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   34,
+   42,
+   46
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:6",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.fineart-light.com/fine-1700lb-bswf-ip",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-1700lc-ispot",
+  "model": "FINE 1700LC iSPOT",
+  "kind": "profile",
+  "deg": [
+   5,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   39,
+   48,
+   55
+  ],
+  "feat": [
+   "cto",
+   "gobo:6",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.fineart-light.com/fine-1700lc-ispot",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-1700lh-bswf-ip",
+  "model": "FINE 1700LH BSWF IP",
+  "kind": "profile",
+  "deg": [
+   5,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   34,
+   42,
+   46
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:6",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.fineart-light.com/fine-1700lh-bswf-ip",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-1700lh-ispot-ip",
+  "model": "FINE 1700LH iSPOT IP",
+  "kind": "profile",
+  "deg": [
+   5,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   34,
+   42,
+   46
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:6",
+   "anim",
+   "prism",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.fineart-light.com/fine-1700lh-ispot-ip",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-1700lh-ispot",
+  "model": "FINE 1700LH iSPOT",
+  "kind": "profile",
+  "deg": [
+   5,
+   50
+  ],
+  "ch": [
+   34,
+   41,
+   45
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:6",
+   "gobor",
+   "gobo2",
+   "anim",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.fineart-light.com/fine-1700lh-ispot",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-1700lite-bswf",
+  "model": "FINE 1700Lite BSWF",
+  "kind": "profile",
+  "deg": [
+   6,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   34,
+   41,
+   45
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:6",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.fineart-light.com/fine-1700lite-bswf",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-1700ultra-bswf",
+  "model": "FINE 1700Ultra BSWF",
+  "kind": "profile",
+  "deg": [
+   5,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   34,
+   41,
+   45
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:6",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.fineart-light.com/fine-1700ultra-bswf",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-1800-perf",
+  "model": "FINE 1800 PERF",
+  "kind": "profile",
+  "deg": [
+   5,
+   45
+  ],
+  "pan": 540,
+  "ch": [
+   32,
+   35,
+   42
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.fineart-light.com/fine-1800-perf",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-2000l-bswf",
+  "model": "FINE 2000L BSWF",
+  "kind": "profile",
+  "deg": [
+   5,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   32,
+   40,
+   44
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:6",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.fineart-light.com/fine-2000l-bswf",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-300d-400d-fs",
+  "model": "FINE 300D/400D FS",
+  "kind": "fresnel",
+  "deg": [
+   15,
+   60
+  ],
+  "ch": [
+   1,
+   3,
+   4
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   450,
+   310,
+   539
+  ],
+  "url": "https://www.fineart-light.com/fine-300d/400d-fs",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-300d-400d-leko",
+  "model": "FINE 300D/400D LEKO",
+  "kind": "ellipsoidal",
+  "ch": [
+   1,
+   3,
+   4
+  ],
+  "size": [
+   701,
+   292,
+   496
+  ],
+  "url": "https://www.fineart-light.com/fine-300d/400d-leko",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-300d-t-panel",
+  "model": "FINE 300D/T PANEL",
+  "kind": "panel",
+  "deg": [
+   73,
+   73
+  ],
+  "ch": [
+   3,
+   4
+  ],
+  "size": [
+   433,
+   404,
+   248
+  ],
+  "url": "https://www.fineart-light.com/fine-300d/t-panel",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-300t-400t-fs",
+  "model": "FINE 300T/400T FS",
+  "kind": "fresnel",
+  "deg": [
+   15,
+   60
+  ],
+  "ch": [
+   1,
+   3,
+   4
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   450,
+   310,
+   539
+  ],
+  "url": "https://www.fineart-light.com/fine-300t/400t-fs",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-300t-400t-leko",
+  "model": "FINE 300T/400T LEKO",
+  "kind": "ellipsoidal",
+  "ch": [
+   1,
+   3,
+   4
+  ],
+  "size": [
+   701,
+   292,
+   496
+  ],
+  "url": "https://www.fineart-light.com/fine-300t/400t-leko",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-320-beam",
+  "model": "FINE 320 BEAM",
+  "kind": "beam",
+  "deg": [
+   0.5,
+   2
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "ch": [
+   15,
+   17,
+   21
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "zoom"
+  ],
+  "url": "https://www.fineart-light.com/fine-320-beam",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-400c-fs",
+  "model": "FINE 400C FS",
+  "kind": "fresnel",
+  "deg": [
+   15,
+   60
+  ],
+  "ch": [
+   6,
+   8,
+   10,
+   11,
+   13
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   450,
+   310,
+   539
+  ],
+  "url": "https://www.fineart-light.com/fine-400c-fs",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-400cl7",
+  "model": "FINE 400CL7",
+  "kind": "flood",
+  "ch": [
+   4,
+   5,
+   7,
+   17
+  ],
+  "size": [
+   655,
+   364,
+   323
+  ],
+  "url": "https://www.fineart-light.com/fine-400cl7",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-400d-t-fs-ii",
+  "model": "FINE 400D/T FS II",
+  "kind": "fresnel",
+  "deg": [
+   9,
+   60
+  ],
+  "ch": [
+   1,
+   4,
+   5
+  ],
+  "feat": [
+   "cto",
+   "zoom"
+  ],
+  "size": [
+   576,
+   310,
+   353
+  ],
+  "url": "https://www.fineart-light.com/fine-400d/t-fs-ii",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-4019-pixie-ip",
+  "model": "FINE 4019 PIXIE IP",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   40
+  ],
+  "pan": 540,
+  "tilt": 240,
+  "ch": [
+   21,
+   35,
+   78,
+   97
+  ],
+  "pixelFrom": 78,
+  "url": "https://www.fineart-light.com/fine-4019-pixie-ip",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-4019-pixie-plus",
+  "model": "FINE 4019 PIXIE PLUS",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   60
+  ],
+  "pan": 540,
+  "tilt": 240,
+  "ch": [
+   21,
+   35,
+   78,
+   97
+  ],
+  "pixelFrom": 78,
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.fineart-light.com/fine-4019-pixie-plus",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-4019-wash-plus",
+  "model": "FINE 4019 WASH PLUS",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   60
+  ],
+  "pan": 540,
+  "tilt": 240,
+  "ch": [
+   21,
+   33,
+   35,
+   37
+  ],
+  "url": "https://www.fineart-light.com/fine-4019-wash-plus",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-4037-pixie-plus",
+  "model": "FINE 4037 PIXIE PLUS",
+  "kind": "wash",
+  "leds": [
+   37,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   60
+  ],
+  "pan": 540,
+  "tilt": 240,
+  "ch": [
+   21,
+   35,
+   132,
+   169
+  ],
+  "pixelFrom": 169,
+  "url": "https://www.fineart-light.com/fine-4037-pixie-plus",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-4037-wash-plus",
+  "model": "FINE 4037 WASH PLUS",
+  "kind": "wash",
+  "leds": [
+   37,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   60
+  ],
+  "pan": 540,
+  "tilt": 240,
+  "ch": [
+   21,
+   35,
+   36,
+   41
+  ],
+  "url": "https://www.fineart-light.com/fine-4037-wash-plus",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-407-wash-mini-moving-head-wash-light",
+  "model": "FINE 407 WASH Mini Moving Head Wash Light",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   60
+  ],
+  "ch": [
+   20
+  ],
+  "url": "https://www.fineart-light.com/fine-407-wash",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-420-beam-ip",
+  "model": "FINE 420 BEAM IP",
+  "kind": "beam",
+  "deg": [
+   1.8,
+   1.8
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "ch": [
+   15,
+   17,
+   21
+  ],
+  "feat": [
+   "gobo:17",
+   "prism",
+   "frost"
+  ],
+  "url": "https://www.fineart-light.com/fine-420-beam-ip",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-450-beam",
+  "model": "FINE 450 BEAM",
+  "kind": "beam",
+  "deg": [
+   1.3,
+   1.3
+  ],
+  "ch": [
+   17,
+   19,
+   23
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "focus"
+  ],
+  "url": "https://www.fineart-light.com/fine-450-beam",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine600-bsw-ii-light-in-weight-and-easy-to-operate-3-in",
+  "model": "FINE600 BSW II light in weight and easy to operate 3-in-1 Moving Head Beam Spot Wash Light Professional Stage Lighting",
+  "kind": "hybrid",
+  "ch": [
+   24,
+   28,
+   32
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:8",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://www.fineart-light.com/fine-600-bsw-ii",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-600-bsw-ip-3-in-1-moving-head",
+  "model": "FINE 600 BSW IP 3-in-1 Moving Head",
+  "kind": "hybrid",
+  "pan": 540,
+  "tilt": 250,
+  "ch": [
+   24,
+   28,
+   32
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:8",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://www.fineart-light.com/fine-600-bsw-ip",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-600c-panel",
+  "model": "FINE 600C PANEL",
+  "kind": "panel",
+  "deg": [
+   110,
+   110
+  ],
+  "ch": [
+   7,
+   9,
+   10,
+   12,
+   14,
+   16,
+   17,
+   20,
+   27,
+   33
+  ],
+  "size": [
+   808,
+   246,
+   538
+  ],
+  "url": "https://www.fineart-light.com/fine-600c-panel",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-600d-t-panel",
+  "model": "FINE 600D/T PANEL",
+  "kind": "panel",
+  "deg": [
+   73,
+   73
+  ],
+  "ch": [
+   3,
+   4
+  ],
+  "size": [
+   808,
+   246,
+   538
+  ],
+  "url": "https://www.fineart-light.com/fine-600d/t-panel",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-600l-bswf",
+  "model": "FINE 600L BSWF",
+  "kind": "profile",
+  "deg": [
+   6,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   32,
+   40,
+   44
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.fineart-light.com/fine-600l-bswf",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-600l-sl-plus",
+  "model": "FINE 600L SL PLUS",
+  "kind": "ellipsoidal",
+  "deg": [
+   10,
+   10
+  ],
+  "ch": [
+   1,
+   4,
+   5
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   412,
+   353,
+   382
+  ],
+  "url": "https://www.fineart-light.com/fine-600l-sl-plus",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-600lb-bswf-ip-3-in-1-moving-head-light",
+  "model": "FINE 600LB BSWF IP 3-in-1 Moving Head Light",
+  "kind": "profile",
+  "deg": [
+   4.2,
+   45
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   33,
+   41,
+   45
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:8",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.fineart-light.com/fine-600lb-bswf-ip",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-600lh-bswf-ip",
+  "model": "FINE 600LH BSWF IP",
+  "kind": "profile",
+  "deg": [
+   4.2,
+   45
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   33,
+   41,
+   45
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:8",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.fineart-light.com/fine-600lh-bswf-ip",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-6010-batten-ip",
+  "model": "FINE 6010 BATTEN IP",
+  "kind": "tiltbar",
+  "leds": [
+   10,
+   "rgbw"
+  ],
+  "grid": [
+   1,
+   10
+  ],
+  "deg": [
+   3,
+   45
+  ],
+  "tilt": 200,
+  "ch": [
+   25,
+   40,
+   91,
+   98,
+   148
+  ],
+  "pixelFrom": 40,
+  "url": "https://www.fineart-light.com/fine-6010-batten-ip",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-6019-pixie-ip",
+  "model": "FINE 6019 PIXIE IP",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   3.2,
+   65
+  ],
+  "pan": 540,
+  "tilt": 240,
+  "ch": [
+   21,
+   35,
+   78,
+   97
+  ],
+  "pixelFrom": 78,
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.fineart-light.com/fine-6019-pixie-ip",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-604-batten",
+  "model": "FINE 604 BATTEN",
+  "kind": "tiltbar",
+  "leds": [
+   4,
+   "rgbw"
+  ],
+  "grid": [
+   1,
+   4
+  ],
+  "deg": [
+   5,
+   50
+  ],
+  "tilt": 200,
+  "ch": [
+   14,
+   26,
+   30
+  ],
+  "pixelFrom": 26,
+  "url": "https://www.fineart-light.com/fine-604-batten",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-608-batten",
+  "model": "FINE 608 BATTEN",
+  "kind": "tiltbar",
+  "leds": [
+   8,
+   "rgbw"
+  ],
+  "grid": [
+   1,
+   8
+  ],
+  "deg": [
+   5,
+   50
+  ],
+  "tilt": 200,
+  "ch": [
+   15,
+   27,
+   39,
+   47
+  ],
+  "pixelFrom": 39,
+  "url": "https://www.fineart-light.com/fine-608-batten",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-75-ft-ip",
+  "model": "FINE 75 FT IP",
+  "kind": "bar",
+  "leds": [
+   24,
+   "rgbl"
+  ],
+  "deg": [
+   110,
+   110
+  ],
+  "ch": [
+   10,
+   16,
+   20
+  ],
+  "size": [
+   511,
+   149,
+   130
+  ],
+  "url": "https://www.fineart-light.com/fine-75-ft-ip",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-75-ft",
+  "model": "FINE 75 FT",
+  "kind": "bar",
+  "leds": [
+   24,
+   "rgbl"
+  ],
+  "deg": [
+   40,
+   70
+  ],
+  "ch": [
+   10,
+   12,
+   16
+  ],
+  "size": [
+   492,
+   139,
+   119
+  ],
+  "url": "https://www.fineart-light.com/fine-75-ft",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-75w-ft-ip",
+  "model": "FINE 75W FT IP",
+  "kind": "bar",
+  "deg": [
+   50,
+   80
+  ],
+  "ch": [
+   7,
+   11,
+   20
+  ],
+  "size": [
+   511,
+   149,
+   130
+  ],
+  "url": "https://www.fineart-light.com/fine-75w-ft-ip",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-75w-ft",
+  "model": "FINE 75W FT",
+  "kind": "bar",
+  "deg": [
+   40,
+   70
+  ],
+  "ch": [
+   7,
+   11,
+   12
+  ],
+  "size": [
+   492,
+   139,
+   102
+  ],
+  "url": "https://www.fineart-light.com/fine-75w-ft",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Fine Art",
+  "key": "fine-800c-strobe-pro-ip",
+  "model": "FINE 800C STROBE PRO IP",
+  "kind": "strobe",
+  "deg": [
+   115,
+   115
+  ],
+  "ch": [
+   12,
+   22,
+   66
+  ],
+  "size": [
+   992,
+   192,
+   180
+  ],
+  "url": "https://www.fineart-light.com/fine-800c-strobe-pro-ip",
+  "note": "Steckbrief aus Herstellerangaben (fineart-light.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

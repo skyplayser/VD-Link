@@ -1,0 +1,746 @@
+[
+ {
+  "man": "Involight",
+  "key": "blade2",
+  "model": "BLADE2",
+  "kind": "beam",
+  "deg": [
+   4.7,
+   40
+  ],
+  "pan": 180,
+  "tilt": 90,
+  "ch": [
+   24,
+   53,
+   59,
+   86
+  ],
+  "feat": [
+   "cmy",
+   "frost"
+  ],
+  "url": "https://involight.com/shop/movingheads/moving-head-beam/blade2/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Involight",
+  "key": "cobpar100hex",
+  "model": "COBPAR100HEX",
+  "kind": "cob",
+  "deg": [
+   100,
+   100
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   7,
+   8,
+   13
+  ],
+  "size": [
+   370,
+   250,
+   250
+  ],
+  "url": "https://involight.com/shop/ledpars/indoor-led-pars/1857-cobpar100hex-4052809267395/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Involight",
+  "key": "cobpar100w",
+  "model": "COBPAR100W",
+  "kind": "cob",
+  "deg": [
+   100,
+   100
+  ],
+  "ch": [
+   3
+  ],
+  "size": [
+   370,
+   250,
+   250
+  ],
+  "url": "https://involight.com/shop/ledpars/indoor-led-pars/76-cobpar100w-4052809266718/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Involight",
+  "key": "cobpar150w",
+  "model": "COBPAR150W",
+  "kind": "cob",
+  "deg": [
+   100,
+   100
+  ],
+  "ch": [
+   3
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   370,
+   250,
+   250
+  ],
+  "url": "https://involight.com/shop/ledpars/indoor-led-pars/cobpar150w/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Involight",
+  "key": "hive",
+  "model": "HIVE",
+  "kind": "effect",
+  "deg": [
+   26,
+   26
+  ],
+  "ch": [
+   14,
+   19
+  ],
+  "size": [
+   265,
+   117,
+   213
+  ],
+  "url": "https://involight.com/shop/ledpars/indoor-led-pars/hive-4052809268118/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Involight",
+  "key": "ip-par1818-v-2",
+  "model": "IP PAR1818 V.2",
+  "kind": "par",
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   1,
+   5,
+   6,
+   7,
+   13
+  ],
+  "url": "https://involight.com/shop/ledpars/outdoor-led-pars/involight-ip-par1818-v2/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Involight",
+  "key": "ipbar1818",
+  "model": "IPBAR1818",
+  "kind": "bar",
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   10,
+   28,
+   90,
+   100
+  ],
+  "size": [
+   1110,
+   180,
+   230
+  ],
+  "url": "https://involight.com/shop/led-bars/led-bars-outdoor/ipbar1818/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Involight",
+  "key": "led-fs150",
+  "model": "LED FS150",
+  "kind": "follow",
+  "deg": [
+   8,
+   11
+  ],
+  "ch": [
+   3
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom",
+   "blades"
+  ],
+  "size": [
+   280,
+   558,
+   340
+  ],
+  "url": "https://involight.com/shop/follow-spots/led-fs150271-led-fs150-4052809266602/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Involight",
+  "key": "led-fs75",
+  "model": "LED FS75",
+  "kind": "follow",
+  "deg": [
+   14,
+   20
+  ],
+  "ch": [
+   3
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom",
+   "blades"
+  ],
+  "size": [
+   279,
+   560,
+   284
+  ],
+  "url": "https://involight.com/shop/follow-spots/fs75/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Involight",
+  "key": "led-rx350",
+  "model": "LED RX350",
+  "kind": "effect",
+  "ch": [
+   2,
+   3
+  ],
+  "size": [
+   930,
+   150,
+   150
+  ],
+  "url": "https://involight.com/shop/led-effects/208-led-rx350-4052809265636/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Involight",
+  "key": "led-rx350-hp",
+  "model": "LED RX350 HP",
+  "kind": "effect",
+  "ch": [
+   3,
+   7,
+   16
+  ],
+  "size": [
+   755,
+   160,
+   167
+  ],
+  "url": "https://involight.com/shop/led-effects/led-rx350-hp/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Involight",
+  "key": "ledmh127b",
+  "model": "LEDMH127B",
+  "kind": "beam",
+  "deg": [
+   3.5,
+   3.5
+  ],
+  "pan": 540,
+  "tilt": 280,
+  "ch": [
+   15,
+   19
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://involight.com/shop/movingheads/moving-head-beam/1878-ledmh127b-4052809267166/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Involight",
+  "key": "ledmh127s",
+  "model": "LEDMH127S",
+  "kind": "spot",
+  "pan": 540,
+  "tilt": 280,
+  "ch": [
+   15,
+   19
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "focus",
+   "blades"
+  ],
+  "url": "https://involight.com/shop/movingheads/spot-movingheads/428-ledmh127s-4052809267159/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Involight",
+  "key": "ledmh50-dual",
+  "model": "LEDMH50 DUAL",
+  "kind": "beam",
+  "deg": [
+   2,
+   12
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   14,
+   20
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://involight.com/shop/movingheads/moving-head-beam/1913-ledmh50-dual-4052809267784/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Involight",
+  "key": "ledpar12hex",
+  "model": "LEDPAR12HEX",
+  "kind": "par",
+  "deg": [
+   26,
+   26
+  ],
+  "ch": [
+   6,
+   7,
+   9,
+   12,
+   24
+  ],
+  "size": [
+   265,
+   117,
+   214
+  ],
+  "url": "https://involight.com/shop/ledpars/ledpar12hex/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Involight",
+  "key": "ledpar35w",
+  "model": "LEDPAR35W",
+  "kind": "par",
+  "deg": [
+   28,
+   28
+  ],
+  "ch": [
+   5,
+   7,
+   9
+  ],
+  "size": [
+   220,
+   194,
+   113
+  ],
+  "url": "https://involight.com/shop/ledpars/outdoor-led-pars/ledpar35w/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Involight",
+  "key": "ledpar95w",
+  "model": "LEDPAR95W",
+  "kind": "par",
+  "deg": [
+   28,
+   28
+  ],
+  "ch": [
+   5,
+   7,
+   9
+  ],
+  "size": [
+   300,
+   271,
+   106
+  ],
+  "url": "https://involight.com/shop/ledpars/outdoor-led-pars/ledpar95w/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Involight",
+  "key": "liberty-50b",
+  "model": "LIBERTY 50B",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 360,
+  "ch": [
+   10,
+   12
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "focus"
+  ],
+  "url": "https://involight.com/shop/movingheads/moving-head-beam/1909-liberty-50b-4052809267807/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Involight",
+  "key": "liberty-50s",
+  "model": "LIBERTY 50S",
+  "kind": "spot",
+  "deg": [
+   12,
+   12
+  ],
+  "pan": 360,
+  "ch": [
+   11,
+   13
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "focus"
+  ],
+  "url": "https://involight.com/shop/movingheads/spot-movingheads/1910-liberty-50s-4052809267791/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Involight",
+  "key": "liberty-710w",
+  "model": "LIBERTY 710W",
+  "kind": "wash",
+  "deg": [
+   6,
+   60
+  ],
+  "pan": 360,
+  "ch": [
+   15,
+   17
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://involight.com/shop/movingheads/wash-movingheads/1911-liberty-710w-4052809267814/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Involight",
+  "key": "liberty-modpar",
+  "model": "LIBERTY MODPAR",
+  "kind": "par",
+  "leds": [
+   4,
+   "rgbwauv"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   6,
+   8,
+   10
+  ],
+  "size": [
+   125,
+   130,
+   100
+  ],
+  "url": "https://involight.com/shop/ledpars/outdoor-led-pars/liberty-modpar/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Involight",
+  "key": "liberty-par1810ip",
+  "model": "LIBERTY PAR1810IP",
+  "kind": "par",
+  "deg": [
+   28,
+   28
+  ],
+  "ch": [
+   9,
+   17
+  ],
+  "size": [
+   344,
+   156,
+   337
+  ],
+  "url": "https://involight.com/shop/ledpars/outdoor-led-pars/liberty-par1810ip/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Involight",
+  "key": "mh-fxwash1912",
+  "model": "MH FXWASH1912",
+  "kind": "wash",
+  "deg": [
+   4,
+   60
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   21,
+   23,
+   35,
+   78,
+   92,
+   97,
+   99
+  ],
+  "url": "https://involight.com/shop/movingheads/wash-movingheads/1874-mh-fxwash1912-4052809267647/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Involight",
+  "key": "ob200",
+  "model": "OB200",
+  "kind": "effect",
+  "ch": [
+   3
+  ],
+  "size": [
+   338,
+   235,
+   296
+  ],
+  "url": "https://involight.com/shop/led-effects/219-ob200-4052809266213/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Involight",
+  "key": "ob350",
+  "model": "OB350",
+  "kind": "effect",
+  "deg": [
+   45,
+   45
+  ],
+  "ch": [
+   7,
+   26
+  ],
+  "size": [
+   553,
+   170,
+   340
+  ],
+  "url": "https://involight.com/shop/led-effects/213-ob350-4052809266022/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Involight",
+  "key": "paintbar-uv12",
+  "model": "PAINTBAR UV12",
+  "kind": "bar",
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   1,
+   2,
+   4
+  ],
+  "size": [
+   1087,
+   87,
+   104
+  ],
+  "url": "https://involight.com/shop/led-bars/uv-bars/1846-paint-bar-uv12-4052809267562/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Involight",
+  "key": "probeam50",
+  "model": "PROBEAM50",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 360,
+  "tilt": 90,
+  "ch": [
+   10,
+   12
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "focus",
+   "blades"
+  ],
+  "url": "https://involight.com/shop/movingheads/moving-head-beam/426-probeam50-4052809267265/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Involight",
+  "key": "prospot50",
+  "model": "PROSPOT50",
+  "kind": "spot",
+  "deg": [
+   11.9,
+   11.9
+  ],
+  "pan": 360,
+  "tilt": 90,
+  "ch": [
+   11,
+   13
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "focus",
+   "blades"
+  ],
+  "url": "https://involight.com/shop/movingheads/spot-movingheads/prospot50425-prospot50-4052809267258/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Involight",
+  "key": "slimpar-710pro",
+  "model": "SLIMPAR 710PRO",
+  "kind": "par",
+  "deg": [
+   40,
+   40
+  ],
+  "ch": [
+   6,
+   7,
+   8,
+   9,
+   11
+  ],
+  "size": [
+   265,
+   245,
+   115
+  ],
+  "url": "https://involight.com/shop/ledpars/indoor-led-pars/slimpar-710pro/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Involight",
+  "key": "slimpar1266",
+  "model": "SLIMPAR1266",
+  "kind": "par",
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   2,
+   3,
+   4,
+   6,
+   10
+  ],
+  "size": [
+   255,
+   253,
+   117
+  ],
+  "url": "https://involight.com/shop/ledpars/indoor-led-pars/slimpar1266/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Involight",
+  "key": "trinity150led",
+  "model": "TRINITY150LED",
+  "kind": "beam",
+  "deg": [
+   2,
+   26
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   15,
+   20
+  ],
+  "feat": [
+   "gobo:14",
+   "prism"
+  ],
+  "url": "https://involight.com/shop/movingheads/moving-head-beam/1934-trinity150led-4052809268194/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Involight",
+  "key": "trinity200led",
+  "model": "TRINITY200LED",
+  "kind": "spot",
+  "deg": [
+   5,
+   42
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   25,
+   30
+  ],
+  "feat": [
+   "cmy",
+   "gobo:14",
+   "prism",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://involight.com/shop/movingheads/spot-movingheads/1875-trinity200led-4052809266381/",
+  "note": "Steckbrief aus Herstellerangaben (involight.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

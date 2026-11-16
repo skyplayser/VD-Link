@@ -1,0 +1,5755 @@
+[
+ {
+  "man": "ADJ",
+  "key": "12px-hex",
+  "model": "12PX HEX",
+  "kind": "par",
+  "leds": [
+   12,
+   "rgbwauv"
+  ],
+  "ch": [
+   6,
+   7,
+   8
+  ],
+  "size": [
+   136,
+   249,
+   298
+  ],
+  "url": "https://www.adj.com/products/12px-hex",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 12 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "15-hex-bar-ip",
+  "model": "15 HEX BAR IP",
+  "kind": "bar",
+  "leds": [
+   15,
+   "rgbwauv"
+  ],
+  "ch": [
+   15
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   915,
+   203,
+   200
+  ],
+  "url": "https://www.adj.com/products/15-hex-bar-ip",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "32-hex-panel-ip",
+  "model": "32 HEX Panel IP",
+  "kind": "bar",
+  "leds": [
+   32,
+   "rgbwauv"
+  ],
+  "ch": [
+   32
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   350,
+   230,
+   170
+  ],
+  "url": "https://www.adj.com/products/32-hex-panel-ip",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "cob-cannon-lp200stx",
+  "model": "COB Cannon LP200STX",
+  "kind": "cob",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "ch": [
+   5,
+   8,
+   9,
+   10,
+   12,
+   13,
+   16,
+   20
+  ],
+  "url": "https://www.adj.com/products/cob-cannon-lp200stx",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "cob-cannon-lp200x",
+  "model": "COB Cannon LP200X",
+  "kind": "cob",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "ch": [
+   5,
+   8,
+   9,
+   10,
+   12,
+   13,
+   16,
+   20
+  ],
+  "size": [
+   418,
+   262,
+   190
+  ],
+  "url": "https://www.adj.com/products/cob-cannon-lp200x",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "dotz-par-100",
+  "model": "Dotz Par 100",
+  "kind": "cob",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   3,
+   4,
+   5,
+   9
+  ],
+  "size": [
+   254,
+   146,
+   280
+  ],
+  "url": "https://www.adj.com/products/dotz-par-100",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "electrapix-bar-16",
+  "model": "ElectraPix Bar 16",
+  "kind": "bar",
+  "deg": [
+   17,
+   17
+  ],
+  "ch": [
+   5,
+   6,
+   7,
+   9,
+   12,
+   13,
+   22,
+   24,
+   96,
+   99,
+   114
+  ],
+  "size": [
+   1154,
+   166,
+   269
+  ],
+  "url": "https://www.adj.com/products/electrapix-bar-16",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "electrapix-bar-8",
+  "model": "ElectraPix Bar 8",
+  "kind": "bar",
+  "deg": [
+   17,
+   17
+  ],
+  "ch": [
+   5,
+   6,
+   7,
+   9,
+   12,
+   13,
+   22,
+   24,
+   48,
+   52,
+   66
+  ],
+  "size": [
+   587,
+   166,
+   269
+  ],
+  "url": "https://www.adj.com/products/electrapix-bar-8",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "electrapix-par-7",
+  "model": "ElectraPix Par 7",
+  "kind": "par",
+  "deg": [
+   17,
+   17
+  ],
+  "ch": [
+   5,
+   6,
+   7,
+   9,
+   12,
+   13,
+   22,
+   24,
+   42,
+   45,
+   60
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   308,
+   255,
+   190
+  ],
+  "url": "https://www.adj.com/products/electrapix-par-7",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "encore-fr-pro-color",
+  "model": "Encore FR Pro Color",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "rgbwauv"
+  ],
+  "deg": [
+   9,
+   37.5
+  ],
+  "ch": [
+   3,
+   4,
+   7,
+   10,
+   13,
+   14,
+   17,
+   19
+  ],
+  "feat": [
+   "cmy",
+   "zoom",
+   "blades"
+  ],
+  "size": [
+   422,
+   360,
+   490
+  ],
+  "url": "https://www.adj.com/products/encore-fr-pro-color",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "encore-lb15ip",
+  "model": "Encore LB15IP",
+  "kind": "par",
+  "leds": [
+   15,
+   "rgbl"
+  ],
+  "deg": [
+   11,
+   11
+  ],
+  "ch": [
+   4,
+   7,
+   8,
+   13,
+   16,
+   60,
+   63,
+   69,
+   72,
+   120
+  ],
+  "pixelFrom": 60,
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   152,
+   915,
+   212
+  ],
+  "url": "https://www.adj.com/products/encore-lb15ip",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "encore-lp12ip",
+  "model": "Encore LP12IP",
+  "kind": "par",
+  "leds": [
+   12,
+   "rgbl"
+  ],
+  "deg": [
+   10,
+   25
+  ],
+  "ch": [
+   4,
+   7,
+   8,
+   10,
+   13,
+   16
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   200,
+   300,
+   281
+  ],
+  "url": "https://www.adj.com/products/encore-lp12ip",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "encore-lp18ip",
+  "model": "Encore LP18IP",
+  "kind": "par",
+  "leds": [
+   18,
+   "rgbl"
+  ],
+  "deg": [
+   10,
+   25
+  ],
+  "ch": [
+   4,
+   7,
+   8,
+   10,
+   13,
+   16
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   233,
+   338,
+   294
+  ],
+  "url": "https://www.adj.com/products/encore-lp18ip",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "encore-lp5ip",
+  "model": "Encore LP5IP",
+  "kind": "par",
+  "leds": [
+   5,
+   "rgbl"
+  ],
+  "deg": [
+   9.7,
+   9.7
+  ],
+  "ch": [
+   4,
+   7,
+   8,
+   10,
+   13,
+   16
+  ],
+  "pixelFrom": 16,
+  "feat": [
+   "frost"
+  ],
+  "url": "https://www.adj.com/products/encore-lp5ip",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "encore-lp7ip",
+  "model": "Encore LP7IP",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbl"
+  ],
+  "deg": [
+   10,
+   25
+  ],
+  "ch": [
+   4,
+   8,
+   10,
+   13,
+   16
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   220,
+   160,
+   242
+  ],
+  "url": "https://www.adj.com/products/encore-lp7ip",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 7 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "encore-profile-1000-color",
+  "model": "Encore Profile 1000 Color",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   12,
+   30
+  ],
+  "ch": [
+   4,
+   5,
+   6,
+   10,
+   11
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "size": [
+   560,
+   250,
+   385
+  ],
+  "url": "https://www.adj.com/products/encore-profile-1000-color",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "encore-profile-mini-color",
+  "model": "Encore Profile Mini Color",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "rgbwa"
+  ],
+  "deg": [
+   15,
+   30
+  ],
+  "ch": [
+   2,
+   4,
+   5,
+   6,
+   13,
+   14,
+   16
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom"
+  ],
+  "size": [
+   224,
+   144,
+   276
+  ],
+  "url": "https://www.adj.com/products/encore-profile-mini-color",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "encore-profile-mini-ww",
+  "model": "Encore Profile Mini WW",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   15,
+   30
+  ],
+  "ch": [
+   2,
+   3,
+   6
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom"
+  ],
+  "size": [
+   224,
+   144,
+   276
+  ],
+  "url": "https://www.adj.com/products/encore-profile-mini-ww",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "encore-profile-pro-color",
+  "model": "Encore Profile Pro Color",
+  "kind": "ellipsoidal",
+  "deg": [
+   15,
+   30
+  ],
+  "ch": [
+   2,
+   4,
+   6,
+   13,
+   14,
+   16
+  ],
+  "feat": [
+   "gobo:8",
+   "iris",
+   "zoom"
+  ],
+  "size": [
+   688,
+   289,
+   450
+  ],
+  "url": "https://www.adj.com/products/encore-profile-pro-color",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "encore-profile-pro-ww",
+  "model": "Encore Profile Pro WW",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "ch": [
+   2,
+   3,
+   6
+  ],
+  "feat": [
+   "gobo:8",
+   "iris",
+   "zoom"
+  ],
+  "size": [
+   688,
+   287,
+   450
+  ],
+  "url": "https://www.adj.com/products/encore-profile-pro-ww",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "encore-z7lp",
+  "model": "Encore Z7LP",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbl"
+  ],
+  "deg": [
+   6,
+   50
+  ],
+  "ch": [
+   6,
+   9,
+   10,
+   12,
+   15,
+   18
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.adj.com/products/encore-z7lp",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "focus-beam-led",
+  "model": "Focus Beam LED",
+  "kind": "beam",
+  "deg": [
+   2.5,
+   2.5
+  ],
+  "pan": 630,
+  "tilt": 270,
+  "ch": [
+   16,
+   18
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://www.adj.com/products/focus-beam-led",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 2 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "focus-cmy-compact",
+  "model": "Focus CMY Compact",
+  "kind": "spot",
+  "deg": [
+   3,
+   52
+  ],
+  "tilt": 270,
+  "ch": [
+   26,
+   31,
+   40
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.adj.com/products/focus-cmy-compact",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "focus-flex-l19",
+  "model": "Focus Flex L19",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbl"
+  ],
+  "deg": [
+   4.3,
+   29
+  ],
+  "tilt": 250,
+  "ch": [
+   22,
+   31,
+   34,
+   40,
+   104
+  ],
+  "feat": [
+   "cmy",
+   "focus"
+  ],
+  "url": "https://www.adj.com/products/focus-flex-l19",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "focus-flex-l7",
+  "model": "Focus Flex L7",
+  "kind": "wash",
+  "leds": [
+   7,
+   "rgbl"
+  ],
+  "deg": [
+   4,
+   35
+  ],
+  "tilt": 265,
+  "ch": [
+   16,
+   25,
+   28,
+   34,
+   42,
+   50
+  ],
+  "pixelFrom": 28,
+  "feat": [
+   "cmy",
+   "focus"
+  ],
+  "url": "https://www.adj.com/products/focus-flex-l7",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "focus-hybrid",
+  "model": "Focus Hybrid",
+  "kind": "hybrid",
+  "deg": [
+   2,
+   24
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   19,
+   23,
+   25
+  ],
+  "feat": [
+   "cto",
+   "gobo:14",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.adj.com/products/focus-hybrid",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "focus-profile",
+  "model": "Focus Profile",
+  "kind": "profile",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   36,
+   40,
+   51
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.adj.com/products/focus-profile",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "focus-spot-4z-pearl",
+  "model": "Focus Spot 4Z Pearl",
+  "kind": "spot",
+  "tilt": 270,
+  "ch": [
+   16,
+   18,
+   22
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.adj.com/products/focus-spot-4z-pearl",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "focus-spot-6z",
+  "model": "Focus Spot 6Z",
+  "kind": "spot",
+  "pan": 630,
+  "tilt": 270,
+  "ch": [
+   21,
+   25,
+   29
+  ],
+  "feat": [
+   "cto",
+   "gobo:14",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.adj.com/products/focus-spot-6z",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "focus-spot-7z",
+  "model": "Focus Spot 7Z",
+  "kind": "spot",
+  "deg": [
+   6,
+   48
+  ],
+  "tilt": 270,
+  "ch": [
+   30,
+   34,
+   45
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.adj.com/products/focus-spot-7z",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "focus-wash-400",
+  "model": "Focus Wash 400",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbwauv"
+  ],
+  "deg": [
+   9,
+   43
+  ],
+  "ch": [
+   17,
+   18,
+   22,
+   24
+  ],
+  "feat": [
+   "cmy",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.adj.com/products/focus-wash-400",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "h2o-two",
+  "model": "H2O Two",
+  "kind": "effect",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   27,
+   37
+  ],
+  "ch": [
+   4,
+   9
+  ],
+  "feat": [
+   "focus"
+  ],
+  "size": [
+   315,
+   231,
+   234
+  ],
+  "url": "https://www.adj.com/products/h2o-two",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "hydro-beam-cmy",
+  "model": "Hydro Beam CMY",
+  "kind": "beam",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   20,
+   24
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://www.adj.com/products/hydro-beam-cmy",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "hydro-beam-x1",
+  "model": "Hydro Beam X1",
+  "kind": "beam",
+  "ch": [
+   11,
+   14
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost"
+  ],
+  "url": "https://www.adj.com/products/hydro-beam-x1",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "hydro-flex-l19",
+  "model": "Hydro Flex L19",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbl"
+  ],
+  "deg": [
+   5,
+   38
+  ],
+  "tilt": 243,
+  "ch": [
+   22,
+   31,
+   34,
+   40,
+   104
+  ],
+  "feat": [
+   "cmy",
+   "zoom"
+  ],
+  "url": "https://www.adj.com/products/hydro-flex-l19",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "hydro-flex-l7",
+  "model": "Hydro Flex L7",
+  "kind": "wash",
+  "leds": [
+   7,
+   "rgbl"
+  ],
+  "deg": [
+   4,
+   38
+  ],
+  "tilt": 243,
+  "ch": [
+   16,
+   25,
+   26,
+   28,
+   34,
+   42,
+   50
+  ],
+  "pixelFrom": 28,
+  "feat": [
+   "cmy",
+   "zoom"
+  ],
+  "url": "https://www.adj.com/products/hydro-flex-l7",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "hydro-hybrid",
+  "model": "Hydro Hybrid",
+  "kind": "hybrid",
+  "deg": [
+   1.6,
+   17.7
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   24,
+   27,
+   32
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.adj.com/products/hydro-hybrid",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 1 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "hydro-profile",
+  "model": "Hydro Profile",
+  "kind": "profile",
+  "deg": [
+   6,
+   45
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   36,
+   50,
+   57
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "prism",
+   "iris",
+   "frost",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.adj.com/products/hydro-profile",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "hydro-spot-1",
+  "model": "Hydro Spot 1",
+  "kind": "spot",
+  "deg": [
+   12,
+   23
+  ],
+  "pan": 630,
+  "tilt": 270,
+  "ch": [
+   17,
+   20,
+   22
+  ],
+  "feat": [
+   "cto",
+   "gobo:14",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.adj.com/products/hydro-spot-1",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "hydro-spot-2",
+  "model": "Hydro Spot 2",
+  "kind": "spot",
+  "deg": [
+   8,
+   41
+  ],
+  "pan": 630,
+  "tilt": 270,
+  "ch": [
+   24,
+   29,
+   36
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.adj.com/products/hydro-spot-2",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "jolt-mfx-360",
+  "model": "Jolt MFX 360",
+  "kind": "tiltbar",
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   16,
+   31,
+   36,
+   42,
+   79,
+   96,
+   99,
+   105,
+   203,
+   220,
+   223,
+   229
+  ],
+  "feat": [
+   "frost"
+  ],
+  "url": "https://www.adj.com/products/jolt-mfx-360",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "led-pixel-10c",
+  "model": "LED Pixel 10C",
+  "kind": "tube",
+  "ch": [
+   5,
+   7,
+   10,
+   32
+  ],
+  "size": [
+   318,
+   280,
+   80
+  ],
+  "url": "https://www.adj.com/products/led-pixel-10c",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "led-pixel-4c",
+  "model": "LED Pixel 4C",
+  "kind": "tube",
+  "ch": [
+   4,
+   5,
+   7,
+   14,
+   192
+  ],
+  "size": [
+   259,
+   200,
+   80
+  ],
+  "url": "https://www.adj.com/products/led-pixel-4c",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "led-pixel-tube-360-sys-10",
+  "model": "LED Pixel Tube 360 Sys 10",
+  "kind": "tube",
+  "ch": [
+   1,
+   10
+  ],
+  "url": "https://www.adj.com/products/led-pixel-tube-360-sys-10",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "mirage-par-h-ip",
+  "model": "Mirage Par H IP",
+  "kind": "par",
+  "deg": [
+   17,
+   17
+  ],
+  "ch": [
+   5,
+   6,
+   9,
+   15,
+   17
+  ],
+  "url": "https://www.adj.com/products/mirage-par-h-ip",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "mod-stq",
+  "model": "MOD STQ",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "ch": [
+   4,
+   5,
+   8,
+   9,
+   12,
+   13,
+   15
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   197,
+   188,
+   203
+  ],
+  "url": "https://www.adj.com/products/mod-stq",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 7 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "par-z100-3k2",
+  "model": "Par Z100 3K2",
+  "kind": "cob",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   9,
+   30
+  ],
+  "ch": [
+   1,
+   3,
+   4
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   272,
+   286,
+   489
+  ],
+  "url": "https://www.adj.com/products/par-z100-3k2",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "par-z100-5k2",
+  "model": "Par Z100 5K2",
+  "kind": "cob",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   9,
+   30
+  ],
+  "ch": [
+   1,
+   3,
+   4
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   272,
+   286,
+   489
+  ],
+  "url": "https://www.adj.com/products/par-z100-5k2",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "par-z150-rgba",
+  "model": "Par Z150 RGBA",
+  "kind": "cob",
+  "leds": [
+   1,
+   "rgba"
+  ],
+  "deg": [
+   7,
+   7
+  ],
+  "ch": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   272,
+   278,
+   487
+  ],
+  "url": "https://www.adj.com/products/par-z150-rgba",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "par-z150-rgba-plus",
+  "model": "Par Z150 RGBA Plus",
+  "kind": "par64",
+  "leds": [
+   1,
+   "rgba"
+  ],
+  "deg": [
+   7,
+   7
+  ],
+  "ch": [
+   4,
+   5,
+   9,
+   13,
+   15
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   493,
+   326,
+   271
+  ],
+  "url": "https://www.adj.com/products/par-z150-rgba-plus",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "par-z300-3k",
+  "model": "Par Z300 3K",
+  "kind": "par64",
+  "deg": [
+   9,
+   40
+  ],
+  "ch": [
+   1,
+   3,
+   4
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   510,
+   389,
+   258
+  ],
+  "url": "https://www.adj.com/products/par-z300-3k",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "par-z300-6k",
+  "model": "Par Z300 6K",
+  "kind": "cob",
+  "deg": [
+   9,
+   40
+  ],
+  "ch": [
+   1,
+   3,
+   4
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   510,
+   389,
+   258
+  ],
+  "url": "https://www.adj.com/products/par-z300-6k",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "par-z300-rgba",
+  "model": "Par Z300 RGBA",
+  "kind": "cob",
+  "leds": [
+   1,
+   "rgba"
+  ],
+  "deg": [
+   9,
+   9
+  ],
+  "ch": [
+   4,
+   5,
+   9,
+   13,
+   15
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   271,
+   328,
+   525
+  ],
+  "url": "https://www.adj.com/products/par-z300-rgba",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "prot-g-xm",
+  "model": "Protégé XM",
+  "kind": "spot",
+  "deg": [
+   3.7,
+   43
+  ],
+  "tilt": 270,
+  "ch": [
+   29
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.adj.com/products/protege-xm",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "saber-spot-dtw",
+  "model": "Saber Spot DTW",
+  "kind": "par",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "ch": [
+   1,
+   2,
+   4
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   88,
+   170,
+   87
+  ],
+  "url": "https://www.adj.com/products/saber-spot-dtw",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "saber-spot-rgbl",
+  "model": "Saber Spot RGBL",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   5.7,
+   5.7
+  ],
+  "ch": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   10,
+   12,
+   13
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   170,
+   135,
+   215
+  ],
+  "url": "https://www.adj.com/products/saber-spot-rgbl",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "saber-spot-uv",
+  "model": "Saber Spot UV",
+  "kind": "par",
+  "leds": [
+   1,
+   "uv"
+  ],
+  "deg": [
+   7,
+   7
+  ],
+  "ch": [
+   1,
+   2
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   170,
+   135,
+   215
+  ],
+  "url": "https://www.adj.com/products/saber-spot-uv",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "saber-spot-ww",
+  "model": "Saber Spot WW",
+  "kind": "par",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "ch": [
+   1,
+   2
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   88,
+   170,
+   87
+  ],
+  "url": "https://www.adj.com/products/saber-spot-ww",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "ubl12h",
+  "model": "UBL12H",
+  "kind": "bar",
+  "deg": [
+   17,
+   17
+  ],
+  "ch": [
+   2,
+   6,
+   11,
+   13,
+   16,
+   36,
+   43,
+   46
+  ],
+  "size": [
+   1082,
+   107,
+   75
+  ],
+  "url": "https://www.adj.com/products/ubl12h",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "ubl12hb",
+  "model": "UBL12HB",
+  "kind": "bar",
+  "deg": [
+   17,
+   17
+  ],
+  "ch": [
+   2,
+   6,
+   11,
+   13,
+   16,
+   36,
+   43,
+   46
+  ],
+  "size": [
+   1082,
+   87,
+   106
+  ],
+  "url": "https://www.adj.com/products/ubl12hb",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "ubl6h",
+  "model": "UBL6H",
+  "kind": "bar",
+  "deg": [
+   17,
+   17
+  ],
+  "ch": [
+   2,
+   3,
+   6,
+   11,
+   13,
+   16,
+   18,
+   25,
+   28
+  ],
+  "size": [
+   596,
+   107,
+   75
+  ],
+  "url": "https://www.adj.com/products/ubl6h",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "ubl9h",
+  "model": "UBL9H",
+  "kind": "par",
+  "deg": [
+   17,
+   17
+  ],
+  "ch": [
+   3,
+   6,
+   11,
+   13,
+   16,
+   18,
+   25,
+   28
+  ],
+  "size": [
+   75,
+   1082,
+   107
+  ],
+  "url": "https://www.adj.com/products/ubl9h",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "ultra-beam-bar-12cw",
+  "model": "Ultra Beam Bar 12CW",
+  "kind": "bar",
+  "deg": [
+   5,
+   5
+  ],
+  "ch": [
+   1,
+   3,
+   12,
+   14,
+   19
+  ],
+  "size": [
+   1082,
+   107,
+   75
+  ],
+  "url": "https://www.adj.com/products/ultra-beam-bar-12cw",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "uv-flood-36",
+  "model": "UV Flood 36",
+  "kind": "panel",
+  "leds": [
+   12,
+   "uv"
+  ],
+  "ch": [
+   1,
+   2,
+   3
+  ],
+  "size": [
+   300,
+   235,
+   115
+  ],
+  "url": "https://www.adj.com/products/uv-flood-36",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "uv-led-bar20-ir",
+  "model": "UV LED BAR20 IR",
+  "kind": "bar",
+  "leds": [
+   20,
+   "uv"
+  ],
+  "ch": [
+   1,
+   2,
+   3
+  ],
+  "size": [
+   334,
+   61,
+   175
+  ],
+  "url": "https://www.adj.com/products/uv-led-bar20-ir",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "uv-par-100ip",
+  "model": "UV Par 100IP",
+  "kind": "par",
+  "leds": [
+   1,
+   "uv"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   6
+  ],
+  "size": [
+   367,
+   316,
+   111
+  ],
+  "url": "https://www.adj.com/products/uv-par-100ip",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "vintage-bar",
+  "model": "Vintage Bar",
+  "kind": "par",
+  "leds": [
+   1,
+   "amber"
+  ],
+  "deg": [
+   160,
+   160
+  ],
+  "ch": [
+   5,
+   6,
+   8,
+   14,
+   17,
+   18,
+   84,
+   88,
+   90,
+   97
+  ],
+  "size": [
+   908,
+   392,
+   269
+  ],
+  "url": "https://www.adj.com/products/vintage-bar",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "vintage-x",
+  "model": "Vintage X",
+  "kind": "par",
+  "deg": [
+   140,
+   140
+  ],
+  "ch": [
+   10,
+   16,
+   25,
+   42,
+   47,
+   196,
+   203,
+   210,
+   214,
+   218
+  ],
+  "url": "https://www.adj.com/products/vintage-x",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "vizi-beam-cmy",
+  "model": "Vizi Beam CMY",
+  "kind": "beam",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   20,
+   24
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://www.adj.com/products/vizi-beam-cmy",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "vizi-beam-rx2",
+  "model": "Vizi Beam RX2",
+  "kind": "beam",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16,
+   20
+  ],
+  "feat": [
+   "cto",
+   "gobo:14",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://www.adj.com/products/vizi-beam-rx2",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "vizi-fx7",
+  "model": "Vizi FX7",
+  "kind": "beam",
+  "deg": [
+   8,
+   38
+  ],
+  "pan": 540,
+  "tilt": 190,
+  "ch": [
+   31,
+   55,
+   57,
+   60,
+   237
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.adj.com/products/vizi-fx7",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 1 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "vizi-pix-z19",
+  "model": "Vizi Pix Z19",
+  "kind": "wash",
+  "deg": [
+   7,
+   7
+  ],
+  "tilt": 270,
+  "ch": [
+   30,
+   32,
+   40,
+   43,
+   58,
+   123,
+   133,
+   203
+  ],
+  "feat": [
+   "cmy",
+   "zoom"
+  ],
+  "url": "https://www.adj.com/products/vizi-pix-z19",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 1, 2 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "vizi-xtreme",
+  "model": "VIZI XTREME",
+  "kind": "beam",
+  "deg": [
+   3,
+   45
+  ],
+  "ch": [
+   28,
+   40,
+   54,
+   63,
+   73
+  ],
+  "feat": [
+   "cmy",
+   "zoom"
+  ],
+  "url": "https://www.adj.com/products/vizi-xtreme",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "wmx-wing",
+  "model": "WMX WING",
+  "kind": "matrix",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   4,
+   96
+  ],
+  "feat": [
+   "gobo:8",
+   "prism",
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   290,
+   220,
+   57
+  ],
+  "url": "https://www.adj.com/products/wmx-wing",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "12p-hex",
+  "model": "12P HEX",
+  "kind": "par",
+  "leds": [
+   12,
+   "rgbwauv"
+  ],
+  "ch": [
+   6,
+   7,
+   8
+  ],
+  "size": [
+   298,
+   249,
+   136
+  ],
+  "url": "https://www.adj.com/products/12p-hex",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 12 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "12px-hex-pearl",
+  "model": "12PX HEX PEARL",
+  "kind": "par",
+  "leds": [
+   12,
+   "rgbwauv"
+  ],
+  "ch": [
+   6,
+   7,
+   8
+  ],
+  "size": [
+   136,
+   249,
+   298
+  ],
+  "url": "https://www.adj.com/products/12px-hex-pearl",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 12 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "32-hex-panel-ip-pearl",
+  "model": "32 HEX Panel IP Pearl",
+  "kind": "panel",
+  "leds": [
+   32,
+   "rgbwauv"
+  ],
+  "ch": [
+   32
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   350,
+   230,
+   170
+  ],
+  "url": "https://www.adj.com/products/32-hex-panel-ip-pearl",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "5p-hex-pearl",
+  "model": "5P Hex Pearl",
+  "kind": "par",
+  "leds": [
+   5,
+   "rgbwauv"
+  ],
+  "ch": [
+   6,
+   7,
+   8,
+   12
+  ],
+  "size": [
+   210,
+   100,
+   220
+  ],
+  "url": "https://www.adj.com/products/5p-hex-pearl",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "5px-hex-pearl",
+  "model": "5PX HEX Pearl",
+  "kind": "par",
+  "leds": [
+   5,
+   "rgbwauv"
+  ],
+  "ch": [
+   6,
+   7,
+   8,
+   12
+  ],
+  "size": [
+   114,
+   208,
+   222
+  ],
+  "url": "https://www.adj.com/products/5px-hex-pearl",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "accu-spot-250",
+  "model": "Accu Spot 250",
+  "kind": "spot",
+  "pan": 265,
+  "tilt": 265,
+  "ch": [
+   8
+  ],
+  "feat": [
+   "gobo:14"
+  ],
+  "url": "https://www.adj.com/products/accu-spot-250",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "accu-spot-250-hybrid",
+  "model": "Accu Spot 250 Hybrid",
+  "kind": "hybrid",
+  "pan": 265,
+  "tilt": 265,
+  "ch": [
+   11
+  ],
+  "feat": [
+   "gobo:14"
+  ],
+  "url": "https://www.adj.com/products/accu-spot-250-hybrid",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "accu-spot-300",
+  "model": "Accu Spot 300",
+  "kind": "par",
+  "ch": [
+   11
+  ],
+  "feat": [
+   "gobo:8",
+   "prism",
+   "focus"
+  ],
+  "size": [
+   343,
+   356,
+   495
+  ],
+  "url": "https://www.adj.com/products/accu-spot-300",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "accu-spot-575",
+  "model": "Accu Spot 575",
+  "kind": "par",
+  "ch": [
+   16
+  ],
+  "feat": [
+   "gobo:8",
+   "prism",
+   "iris",
+   "focus",
+   "blades"
+  ],
+  "size": [
+   480,
+   460,
+   630
+  ],
+  "url": "https://www.adj.com/products/accu-spot-575",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "accu-wash-250",
+  "model": "Accu Wash 250",
+  "kind": "wash",
+  "pan": 265,
+  "tilt": 265,
+  "ch": [
+   7
+  ],
+  "feat": [
+   "blades"
+  ],
+  "url": "https://www.adj.com/products/accu-wash-250",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "boom-box-fx1",
+  "model": "Boom Box FX1",
+  "kind": "effect",
+  "leds": [
+   6,
+   "rgbw"
+  ],
+  "ch": [
+   3,
+   22
+  ],
+  "size": [
+   239,
+   634,
+   319
+  ],
+  "url": "https://www.adj.com/products/boom-box-fx1",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "cob-cannon-wash-st-dw",
+  "model": "COB Cannon Wash ST DW",
+  "kind": "flood",
+  "leds": [
+   1,
+   "wwcw"
+  ],
+  "ch": [
+   1,
+   2,
+   4,
+   5,
+   6,
+   7
+  ],
+  "size": [
+   330,
+   256,
+   190
+  ],
+  "url": "https://www.adj.com/products/cob-cannon-wash-st-dw",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "crazy-8",
+  "model": "Crazy 8",
+  "kind": "spot",
+  "pan": 150,
+  "ch": [
+   9,
+   12,
+   15,
+   21
+  ],
+  "url": "https://www.adj.com/products/crazy-8",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 1 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "deco-250",
+  "model": "Deco 250",
+  "kind": "effect",
+  "ch": [
+   2
+  ],
+  "feat": [
+   "focus"
+  ],
+  "url": "https://www.adj.com/products/deco-250",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "dj-spot-led",
+  "model": "DJ Spot LED",
+  "kind": "spot",
+  "pan": 270,
+  "tilt": 270,
+  "ch": [
+   8
+  ],
+  "feat": [
+   "gobo:14",
+   "focus"
+  ],
+  "url": "https://www.adj.com/products/dj-spot-led",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "dotz-brick-3-3",
+  "model": "Dotz Brick 3.3",
+  "kind": "matrix",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   3,
+   6,
+   8,
+   27,
+   32
+  ],
+  "size": [
+   300,
+   259,
+   169
+  ],
+  "url": "https://www.adj.com/products/dotz-brick-3-3",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "electro-strip",
+  "model": "Electro Strip",
+  "kind": "bar",
+  "deg": [
+   37,
+   37
+  ],
+  "ch": [
+   4
+  ],
+  "size": [
+   480,
+   100,
+   50
+  ],
+  "url": "https://www.adj.com/products/electro-strip",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "element-hex",
+  "model": "Element Hex",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbwauv"
+  ],
+  "ch": [
+   6,
+   7,
+   8,
+   11,
+   12
+  ],
+  "size": [
+   144,
+   144,
+   194
+  ],
+  "url": "https://www.adj.com/products/element-hex",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "element-hex-ip-chrome",
+  "model": "Element Hex IP Chrome",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbwauv"
+  ],
+  "ch": [
+   6,
+   7,
+   8,
+   11,
+   12
+  ],
+  "size": [
+   140,
+   140,
+   190
+  ],
+  "url": "https://www.adj.com/products/element-hex-ip-chrome",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "element-hexip",
+  "model": "Element HEXIP",
+  "kind": "par",
+  "ch": [
+   6,
+   7,
+   8,
+   11,
+   12
+  ],
+  "size": [
+   144,
+   144,
+   194
+  ],
+  "url": "https://www.adj.com/products/element-hexip",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "element-hexip-pearl",
+  "model": "Element HEXIP Pearl",
+  "kind": "par",
+  "ch": [
+   6,
+   7,
+   8,
+   11,
+   12
+  ],
+  "size": [
+   140,
+   140,
+   190
+  ],
+  "url": "https://www.adj.com/products/element-hexip-pearl",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "element-qa",
+  "model": "Element QA",
+  "kind": "par",
+  "ch": [
+   4,
+   5,
+   6,
+   9,
+   10
+  ],
+  "size": [
+   144,
+   144,
+   194
+  ],
+  "url": "https://www.adj.com/products/element-qa",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "element-qaip",
+  "model": "Element QAIP",
+  "kind": "par",
+  "ch": [
+   4,
+   5,
+   6,
+   9,
+   10
+  ],
+  "size": [
+   144,
+   144,
+   194
+  ],
+  "url": "https://www.adj.com/products/element-qaip",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "element-st-hex",
+  "model": "Element ST HEX",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbwauv"
+  ],
+  "ch": [
+   6,
+   7,
+   8,
+   11,
+   12
+  ],
+  "size": [
+   130,
+   130,
+   143
+  ],
+  "url": "https://www.adj.com/products/element-st-hex",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "encore-2000",
+  "model": "Encore 2000",
+  "kind": "effect",
+  "ch": [
+   2,
+   3
+  ],
+  "size": [
+   450,
+   285,
+   110
+  ],
+  "url": "https://www.adj.com/products/encore-2000",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "encore-burst-100-ip",
+  "model": "Encore Burst 100 IP",
+  "kind": "blinder",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "size": [
+   308,
+   249,
+   234
+  ],
+  "url": "https://www.adj.com/products/encore-burst-100-ip",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "encore-burst-200",
+  "model": "Encore Burst 200",
+  "kind": "strobe",
+  "leds": [
+   2,
+   "ww"
+  ],
+  "ch": [
+   6
+  ],
+  "pixelFrom": 6,
+  "size": [
+   400,
+   216,
+   200
+  ],
+  "url": "https://www.adj.com/products/encore-burst-200",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "encore-burst-uv-ip",
+  "model": "Encore Burst UV IP",
+  "kind": "par",
+  "leds": [
+   1,
+   "uv"
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   6
+  ],
+  "size": [
+   234,
+   249,
+   308
+  ],
+  "url": "https://www.adj.com/products/encore-burst-uv-ip",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "event-bar-dmx",
+  "model": "Event Bar DMX",
+  "kind": "bar",
+  "leds": [
+   4,
+   "white"
+  ],
+  "deg": [
+   12,
+   12
+  ],
+  "ch": [
+   1,
+   17
+  ],
+  "pixelFrom": 17,
+  "feat": [
+   "blades"
+  ],
+  "size": [
+   1000,
+   80,
+   202
+  ],
+  "url": "https://www.adj.com/products/event-bar-dmx",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "flat-par-cwww18",
+  "model": "FLAT PAR CWWW18",
+  "kind": "par",
+  "leds": [
+   18,
+   "ww"
+  ],
+  "ch": [
+   3,
+   4,
+   5
+  ],
+  "size": [
+   328,
+   280,
+   105
+  ],
+  "url": "https://www.adj.com/products/flat-par-cwww18",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "flat-par-cwww9",
+  "model": "FLAT PAR CWWW9",
+  "kind": "par",
+  "leds": [
+   9,
+   "ww"
+  ],
+  "ch": [
+   3,
+   4,
+   5
+  ],
+  "size": [
+   272,
+   230,
+   105
+  ],
+  "url": "https://www.adj.com/products/flat-par-cwww9",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "flat-par-qa5",
+  "model": "Flat Par QA5",
+  "kind": "par",
+  "leds": [
+   5,
+   "rgba"
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "size": [
+   272,
+   230,
+   115
+  ],
+  "url": "https://www.adj.com/products/flat-par-qa5",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "flat-par-qa5x",
+  "model": "Flat Par QA5X",
+  "kind": "par",
+  "leds": [
+   5,
+   "rgba"
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "size": [
+   272,
+   230,
+   115
+  ],
+  "url": "https://www.adj.com/products/flat-par-qa5x",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "flat-par-qa5xs",
+  "model": "Flat Par QA5XS",
+  "kind": "par",
+  "leds": [
+   5,
+   "rgba"
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "size": [
+   272,
+   230,
+   115
+  ],
+  "url": "https://www.adj.com/products/flat-par-qa5xs",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "flat-par-qwh12",
+  "model": "Flat Par QWH12",
+  "kind": "par",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "size": [
+   328,
+   280,
+   115
+  ],
+  "url": "https://www.adj.com/products/flat-par-qwh12",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "flat-par-qwh12x",
+  "model": "Flat Par QWH12X",
+  "kind": "par",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "size": [
+   328,
+   280,
+   115
+  ],
+  "url": "https://www.adj.com/products/flat-par-qwh12x",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "flat-par-qwh12xs",
+  "model": "Flat Par QWH12XS",
+  "kind": "par",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "size": [
+   328,
+   280,
+   115
+  ],
+  "url": "https://www.adj.com/products/flat-par-qwh12xs",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "flat-par-qwh5",
+  "model": "Flat Par QWH5",
+  "kind": "par",
+  "leds": [
+   5,
+   "rgbw"
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "size": [
+   272,
+   230,
+   115
+  ],
+  "url": "https://www.adj.com/products/flat-par-qwh5",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "flat-par-qwh5x",
+  "model": "Flat Par QWH5X",
+  "kind": "par",
+  "leds": [
+   5,
+   "rgbw"
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "size": [
+   272,
+   230,
+   115
+  ],
+  "url": "https://www.adj.com/products/flat-par-qwh5x",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "flat-par-qwh5xs",
+  "model": "Flat Par QWH5XS",
+  "kind": "par",
+  "leds": [
+   5,
+   "rgbw"
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "size": [
+   272,
+   230,
+   115
+  ],
+  "url": "https://www.adj.com/products/flat-par-qwh5xs",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "flat-par-tri18",
+  "model": "FLAT PAR TRI18",
+  "kind": "par",
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "size": [
+   328,
+   280,
+   105
+  ],
+  "url": "https://www.adj.com/products/flat-par-tri18",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "flat-par-tri18x",
+  "model": "Flat Par TRI18X",
+  "kind": "par",
+  "leds": [
+   18,
+   "rgb"
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "size": [
+   328,
+   280,
+   105
+  ],
+  "url": "https://www.adj.com/products/flat-par-tri18x",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "flat-par-tri18xs",
+  "model": "Flat Par TRI18XS",
+  "kind": "par",
+  "leds": [
+   18,
+   "rgb"
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "size": [
+   328,
+   280,
+   105
+  ],
+  "url": "https://www.adj.com/products/flat-par-tri18xs",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "flat-par-tri7",
+  "model": "FLAT PAR TRI7",
+  "kind": "par",
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "size": [
+   272,
+   230,
+   105
+  ],
+  "url": "https://www.adj.com/products/flat-par-tri7",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "flat-par-tri7xs",
+  "model": "Flat Par TRI7XS",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgb"
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "size": [
+   272,
+   230,
+   115
+  ],
+  "url": "https://www.adj.com/products/flat-par-tri7xs",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 7 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "flat-par-tw5",
+  "model": "Flat Par TW5",
+  "kind": "par",
+  "leds": [
+   1,
+   "white"
+  ],
+  "ch": [
+   2,
+   3,
+   4,
+   5,
+   8,
+   9
+  ],
+  "size": [
+   272,
+   223,
+   105
+  ],
+  "url": "https://www.adj.com/products/flat-par-tw5",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "focus-spot-one",
+  "model": "Focus Spot One",
+  "kind": "spot",
+  "pan": 540,
+  "tilt": 240,
+  "ch": [
+   15,
+   17
+  ],
+  "feat": [
+   "gobo:14",
+   "focus"
+  ],
+  "url": "https://www.adj.com/products/focus-spot-one",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "focus-spot-three-z-pearl",
+  "model": "Focus Spot Three Z Pearl",
+  "kind": "spot",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   18,
+   21
+  ],
+  "feat": [
+   "gobo:14",
+   "focus"
+  ],
+  "url": "https://www.adj.com/products/focus-spot-three-z-pearl",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "freq-matrix",
+  "model": "FREQ Matrix",
+  "kind": "matrix",
+  "leds": [
+   16,
+   "white"
+  ],
+  "ch": [
+   1,
+   2,
+   16,
+   18
+  ],
+  "pixelFrom": 16,
+  "size": [
+   295,
+   291,
+   115
+  ],
+  "url": "https://www.adj.com/products/freq-matrix",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "fusion-tri-fx-bar",
+  "model": "Fusion Tri FX Bar",
+  "kind": "bar",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   8
+  ],
+  "size": [
+   538,
+   143,
+   263
+  ],
+  "url": "https://www.adj.com/products/fusion-tri-fx-bar",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "hydro-beam-x2",
+  "model": "Hydro Beam X2",
+  "kind": "beam",
+  "ch": [
+   15,
+   17
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://www.adj.com/products/hydro-beam-x2",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "ikon-profile-pearl",
+  "model": "Ikon Profile Pearl",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   15,
+   30
+  ],
+  "ch": [
+   3
+  ],
+  "feat": [
+   "gobo:8",
+   "focus",
+   "blades"
+  ],
+  "size": [
+   448,
+   150,
+   127
+  ],
+  "url": "https://www.adj.com/products/ikon-profile-pearl",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "ikon-profile-ww",
+  "model": "Ikon Profile WW",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   15,
+   30
+  ],
+  "ch": [
+   3
+  ],
+  "feat": [
+   "gobo:8",
+   "focus",
+   "blades"
+  ],
+  "size": [
+   448,
+   150,
+   127
+  ],
+  "url": "https://www.adj.com/products/ikon-profile-ww",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "indy-hex-par",
+  "model": "Indy Hex Par",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbwauv"
+  ],
+  "ch": [
+   4,
+   6,
+   7,
+   8,
+   11
+  ],
+  "size": [
+   240,
+   165,
+   280
+  ],
+  "url": "https://www.adj.com/products/indy-hex-par",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "inno-beam-led",
+  "model": "Inno Beam LED",
+  "kind": "beam",
+  "pan": 220,
+  "tilt": 220,
+  "ch": [
+   12,
+   14
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.adj.com/products/inno-beam-led",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "inno-color-beam-12",
+  "model": "Inno Color Beam 12",
+  "kind": "beam",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   9,
+   16
+  ],
+  "url": "https://www.adj.com/products/inno-color-beam-12",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "inno-color-beam-z19",
+  "model": "Inno Color Beam Z19",
+  "kind": "beam",
+  "pan": 540,
+  "tilt": 220,
+  "ch": [
+   14
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.adj.com/products/inno-color-beam-z19",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "inno-pocket-spot-lzr",
+  "model": "Inno Pocket Spot LZR",
+  "kind": "spot",
+  "pan": 230,
+  "tilt": 230,
+  "ch": [
+   12,
+   13,
+   15
+  ],
+  "feat": [
+   "gobo:14",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.adj.com/products/inno-pocket-spot-lzr",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "inno-pocket-spot-pearl",
+  "model": "Inno Pocket Spot Pearl",
+  "kind": "spot",
+  "pan": 230,
+  "tilt": 230,
+  "ch": [
+   9,
+   11
+  ],
+  "feat": [
+   "gobo:14",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.adj.com/products/inno-pocket-spot-pearl",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "inno-roll-hp",
+  "model": "Inno Roll HP",
+  "kind": "effect",
+  "leds": [
+   1,
+   "white"
+  ],
+  "ch": [
+   9
+  ],
+  "feat": [
+   "gobo:8",
+   "focus",
+   "blades"
+  ],
+  "size": [
+   578,
+   278,
+   209
+  ],
+  "url": "https://www.adj.com/products/inno-roll-hp",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "inno-roll-led",
+  "model": "Inno Roll LED",
+  "kind": "effect",
+  "ch": [
+   8
+  ],
+  "feat": [
+   "gobo:8",
+   "focus"
+  ],
+  "size": [
+   274,
+   208,
+   555
+  ],
+  "url": "https://www.adj.com/products/inno-roll-led",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "inno-scan-hp",
+  "model": "Inno Scan HP",
+  "kind": "effect",
+  "leds": [
+   1,
+   "white"
+  ],
+  "ch": [
+   9,
+   12
+  ],
+  "feat": [
+   "gobo:8",
+   "focus",
+   "blades"
+  ],
+  "size": [
+   578,
+   278,
+   209
+  ],
+  "url": "https://www.adj.com/products/inno-scan-hp",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "inno-spot-led-wifly",
+  "model": "Inno Spot LED WiFLY",
+  "kind": "spot",
+  "pan": 270,
+  "tilt": 270,
+  "ch": [
+   10
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.adj.com/products/inno-spot-led-wifly",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "inno-spot-pro-pearl",
+  "model": "Inno Spot Pro Pearl",
+  "kind": "spot",
+  "pan": 240,
+  "tilt": 240,
+  "ch": [
+   14
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.adj.com/products/inno-spot-pro-pearl",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "jelly-go-par64",
+  "model": "Jelly Go Par64",
+  "kind": "par64",
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "size": [
+   262,
+   260,
+   110
+  ],
+  "url": "https://www.adj.com/products/jelly-go-par64",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "jelly-go-par64-rgba",
+  "model": "Jelly Go Par64 RGBA",
+  "kind": "par64",
+  "ch": [
+   1,
+   2,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "size": [
+   262,
+   260,
+   110
+  ],
+  "url": "https://www.adj.com/products/jelly-go-par64-rgba",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "jelly-par-profile",
+  "model": "Jelly Par Profile",
+  "kind": "ellipsoidal",
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "size": [
+   225,
+   220,
+   85
+  ],
+  "url": "https://www.adj.com/products/jelly-par-profile",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "jellyfish",
+  "model": "Jellyfish",
+  "kind": "beam",
+  "ch": [
+   28
+  ],
+  "url": "https://www.adj.com/products/jellyfish",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 3 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "jellyfish-ir",
+  "model": "Jellyfish IR",
+  "kind": "beam",
+  "ch": [
+   28
+  ],
+  "url": "https://www.adj.com/products/jellyfish-ir",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 3 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "jolt-bar-fx",
+  "model": "Jolt Bar FX",
+  "kind": "bar",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "ch": [
+   6,
+   9,
+   13,
+   16,
+   18,
+   32,
+   38,
+   43,
+   64,
+   78,
+   112,
+   126
+  ],
+  "feat": [
+   "blades"
+  ],
+  "size": [
+   1000,
+   107,
+   123
+  ],
+  "url": "https://www.adj.com/products/jolt-bar-fx",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "jolt-panel-fx",
+  "model": "Jolt Panel FX",
+  "kind": "panel",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   6,
+   9,
+   13,
+   18,
+   36,
+   41,
+   51,
+   81,
+   126,
+   141
+  ],
+  "feat": [
+   "blades"
+  ],
+  "size": [
+   405,
+   250,
+   160
+  ],
+  "url": "https://www.adj.com/products/jolt-panel-fx",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "kaos",
+  "model": "Kaos",
+  "kind": "beam",
+  "pan": 540,
+  "tilt": 150,
+  "ch": [
+   6,
+   15,
+   23,
+   45
+  ],
+  "url": "https://www.adj.com/products/kaos",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 2 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "led-beam-scan",
+  "model": "LED Beam Scan",
+  "kind": "effect",
+  "ch": [
+   3,
+   5
+  ],
+  "size": [
+   172,
+   157,
+   182
+  ],
+  "url": "https://www.adj.com/products/led-beam-scan",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "led-matrix",
+  "model": "LED Matrix",
+  "kind": "matrix",
+  "ch": [
+   2,
+   25
+  ],
+  "url": "https://www.adj.com/products/led-matrix",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "led-moon-beam",
+  "model": "LED Moon Beam",
+  "kind": "effect",
+  "ch": [
+   3
+  ],
+  "feat": [
+   "focus"
+  ],
+  "url": "https://www.adj.com/products/led-moon-beam",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "matrix-beam-led",
+  "model": "Matrix Beam LED",
+  "kind": "matrix",
+  "leds": [
+   25,
+   "ww"
+  ],
+  "ch": [
+   1,
+   4,
+   25
+  ],
+  "pixelFrom": 25,
+  "size": [
+   600,
+   600,
+   114
+  ],
+  "url": "https://www.adj.com/products/matrix-beam-led",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "mega-24pro",
+  "model": "Mega 24PRO",
+  "kind": "spot",
+  "ch": [
+   6,
+   7,
+   10,
+   12,
+   16
+  ],
+  "url": "https://www.adj.com/products/mega-24pro",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 3 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "mega-64-profile-plus",
+  "model": "Mega 64 Profile Plus",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   4,
+   5,
+   6,
+   9,
+   10
+  ],
+  "size": [
+   261,
+   260,
+   110
+  ],
+  "url": "https://www.adj.com/products/mega-64-profile-plus",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "mega-bar-pro",
+  "model": "Mega Bar Pro",
+  "kind": "bar",
+  "leds": [
+   27,
+   "rgb"
+  ],
+  "ch": [
+   2,
+   3,
+   4,
+   6,
+   7,
+   11,
+   29
+  ],
+  "size": [
+   1025,
+   65,
+   88
+  ],
+  "url": "https://www.adj.com/products/mega-bar-pro",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 27 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "mega-bar-uv100",
+  "model": "Mega Bar UV100",
+  "kind": "bar",
+  "ch": [
+   2
+  ],
+  "size": [
+   1025,
+   65,
+   88
+  ],
+  "url": "https://www.adj.com/products/mega-bar-uv100",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "mega-bar-uv50",
+  "model": "Mega Bar UV50",
+  "kind": "bar",
+  "ch": [
+   2
+  ],
+  "size": [
+   530,
+   65,
+   88
+  ],
+  "url": "https://www.adj.com/products/mega-bar-uv50",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "mega-beam-bar",
+  "model": "Mega Beam Bar",
+  "kind": "bar",
+  "leds": [
+   16,
+   "rgbw"
+  ],
+  "ch": [
+   2,
+   4,
+   8,
+   10
+  ],
+  "size": [
+   894,
+   135,
+   158
+  ],
+  "url": "https://www.adj.com/products/mega-beam-bar",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "mega-flat-pak8-plus",
+  "model": "Mega Flat Pak8 PLUS",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   4,
+   5,
+   6,
+   9,
+   10
+  ],
+  "size": [
+   225,
+   220,
+   85
+  ],
+  "url": "https://www.adj.com/products/mega-flat-pak8-plus",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "mega-go-bar-50",
+  "model": "Mega Go Bar 50",
+  "kind": "bar",
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "size": [
+   625,
+   65,
+   88
+  ],
+  "url": "https://www.adj.com/products/mega-go-bar-50",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "mega-go-bar-50-rgba",
+  "model": "Mega Go Bar 50 RGBA",
+  "kind": "bar",
+  "leds": [
+   1,
+   "rgba"
+  ],
+  "ch": [
+   1,
+   2,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "size": [
+   625,
+   65,
+   88
+  ],
+  "url": "https://www.adj.com/products/mega-go-bar-50-rgba",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "mega-go-flood-bar",
+  "model": "Mega Go Flood Bar",
+  "kind": "bar",
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "size": [
+   500,
+   65,
+   88
+  ],
+  "url": "https://www.adj.com/products/mega-go-flood-bar",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "mega-go-flood-par",
+  "model": "Mega Go Flood Par",
+  "kind": "flood",
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "size": [
+   202,
+   195,
+   92
+  ],
+  "url": "https://www.adj.com/products/mega-go-flood-par",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "mega-go-flood-par-ho",
+  "model": "Mega Go Flood Par HO",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "size": [
+   202,
+   195,
+   92
+  ],
+  "url": "https://www.adj.com/products/mega-go-flood-par-ho",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "mega-go-par-64",
+  "model": "Mega Go Par 64",
+  "kind": "par64",
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "size": [
+   262,
+   260,
+   110
+  ],
+  "url": "https://www.adj.com/products/mega-go-par-64",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "mega-go-par64-plus",
+  "model": "Mega Go Par64 Plus",
+  "kind": "par64",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   4,
+   5,
+   6,
+   9,
+   10
+  ],
+  "size": [
+   261,
+   260,
+   110
+  ],
+  "url": "https://www.adj.com/products/mega-go-par64-plus",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "mega-go-par64-rgba",
+  "model": "Mega Go Par64 RGBA",
+  "kind": "par64",
+  "ch": [
+   1,
+   2,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "size": [
+   262,
+   260,
+   110
+  ],
+  "url": "https://www.adj.com/products/mega-go-par64-rgba",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "mega-pixel-arch",
+  "model": "Mega Pixel Arch",
+  "kind": "effect",
+  "ch": [
+   3,
+   4,
+   7,
+   10,
+   16,
+   24,
+   28
+  ],
+  "size": [
+   711,
+   195,
+   143
+  ],
+  "url": "https://www.adj.com/products/mega-pixel-arch",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "mega-pixel-led",
+  "model": "Mega Pixel LED",
+  "kind": "effect",
+  "ch": [
+   3,
+   4,
+   7,
+   10,
+   16,
+   24,
+   28
+  ],
+  "size": [
+   960,
+   64,
+   122
+  ],
+  "url": "https://www.adj.com/products/mega-pixel-led",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "mega-qa-go",
+  "model": "Mega QA Go",
+  "kind": "par",
+  "leds": [
+   5,
+   "rgba"
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "size": [
+   253,
+   227,
+   140
+  ],
+  "url": "https://www.adj.com/products/mega-qa-go",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "mega-qplus-go",
+  "model": "Mega QPlus Go",
+  "kind": "par",
+  "leds": [
+   5,
+   "rgbw"
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "size": [
+   253,
+   227,
+   140
+  ],
+  "url": "https://www.adj.com/products/mega-qplus-go",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "mega-tri-60",
+  "model": "Mega TRI 60",
+  "kind": "par",
+  "leds": [
+   9,
+   "rgb"
+  ],
+  "ch": [
+   3,
+   5,
+   6,
+   8,
+   11,
+   29
+  ],
+  "pixelFrom": 29,
+  "size": [
+   600,
+   70,
+   96
+  ],
+  "url": "https://www.adj.com/products/mega-tri-60",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "mega-tri64-profile",
+  "model": "Mega TRI64 Profile",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "size": [
+   261,
+   260,
+   110
+  ],
+  "url": "https://www.adj.com/products/mega-tri64-profile",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "mega-brite",
+  "model": "MEGA-BRITE",
+  "kind": "effect",
+  "ch": [
+   3,
+   6,
+   120,
+   250
+  ],
+  "url": "https://www.adj.com/products/mega-brite",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "micro-wash-wwcw",
+  "model": "Micro Wash WWCW",
+  "kind": "flood",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "ch": [
+   3,
+   5
+  ],
+  "size": [
+   175,
+   101,
+   66
+  ],
+  "url": "https://www.adj.com/products/micro-wash-wwcw",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "mini-par-uvw-led",
+  "model": "Mini Par UVW LED",
+  "kind": "par",
+  "leds": [
+   1,
+   "white"
+  ],
+  "ch": [
+   4,
+   6,
+   8
+  ],
+  "size": [
+   153,
+   145,
+   95
+  ],
+  "url": "https://www.adj.com/products/mini-par-uvw-led",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "monster-quad",
+  "model": "Monster Quad",
+  "kind": "par",
+  "leds": [
+   25,
+   "rgbwa"
+  ],
+  "ch": [
+   1
+  ],
+  "size": [
+   460,
+   285,
+   167
+  ],
+  "url": "https://www.adj.com/products/monster-quad",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "octo-beam-rgbw",
+  "model": "Octo Beam RGBW",
+  "kind": "effect",
+  "leds": [
+   8,
+   "rgbw"
+  ],
+  "ch": [
+   1,
+   10
+  ],
+  "size": [
+   633,
+   227,
+   199
+  ],
+  "url": "https://www.adj.com/products/octo-beam-rgbw",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 8 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "octo-beam-ww",
+  "model": "Octo Beam WW",
+  "kind": "panel",
+  "leds": [
+   8,
+   "ww"
+  ],
+  "ch": [
+   1,
+   8,
+   10
+  ],
+  "pixelFrom": 8,
+  "size": [
+   633,
+   227,
+   199
+  ],
+  "url": "https://www.adj.com/products/octo-beam-ww",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "p64-led-uv",
+  "model": "P64 LED UV",
+  "kind": "par",
+  "leds": [
+   64,
+   "uv"
+  ],
+  "ch": [
+   3
+  ],
+  "url": "https://www.adj.com/products/p64-led-uv",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "par-z-move",
+  "model": "PAR Z Move",
+  "kind": "par",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "ch": [
+   7,
+   9,
+   11
+  ],
+  "feat": [
+   "zoom",
+   "blades"
+  ],
+  "size": [
+   307,
+   221,
+   448
+  ],
+  "url": "https://www.adj.com/products/par-z-move",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "par-z-move-rgbw",
+  "model": "Par Z Move RGBW",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   13,
+   15,
+   16
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   307,
+   221,
+   448
+  ],
+  "url": "https://www.adj.com/products/par-z-move-rgbw",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "par-z100-3k",
+  "model": "PAR Z100 3K",
+  "kind": "par",
+  "ch": [
+   2
+  ],
+  "size": [
+   491,
+   275,
+   224
+  ],
+  "url": "https://www.adj.com/products/par-z100-3k",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "par-z100-5k",
+  "model": "PAR Z100 5K",
+  "kind": "par",
+  "ch": [
+   2
+  ],
+  "size": [
+   491,
+   275,
+   224
+  ],
+  "url": "https://www.adj.com/products/par-z100-5k",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "par-z120-rgbw",
+  "model": "PAR Z120 RGBW",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "size": [
+   491,
+   275,
+   224
+  ],
+  "url": "https://www.adj.com/products/par-z120-rgbw",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "par-zp100-3k",
+  "model": "PAR ZP100 3K",
+  "kind": "par",
+  "ch": [
+   2
+  ],
+  "size": [
+   491,
+   272,
+   273
+  ],
+  "url": "https://www.adj.com/products/par-zp100-3k",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "par-zp120-rgbw",
+  "model": "PAR ZP120 RGBW",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "size": [
+   491,
+   275,
+   224
+  ],
+  "url": "https://www.adj.com/products/par-zp120-rgbw",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "penta-beam",
+  "model": "Penta Beam",
+  "kind": "beam",
+  "ch": [
+   6
+  ],
+  "url": "https://www.adj.com/products/penta-beam",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "pixel-pulse-bar",
+  "model": "Pixel Pulse Bar",
+  "kind": "bar",
+  "leds": [
+   15,
+   "rgb"
+  ],
+  "ch": [
+   1,
+   4,
+   17
+  ],
+  "size": [
+   388,
+   178,
+   82
+  ],
+  "url": "https://www.adj.com/products/pixel-pulse-bar",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "profile-panel-rgba",
+  "model": "Profile Panel RGBA",
+  "kind": "ellipsoidal",
+  "ch": [
+   4,
+   7,
+   9,
+   32
+  ],
+  "size": [
+   425,
+   82,
+   275
+  ],
+  "url": "https://www.adj.com/products/profile-panel-rgba",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "quad-color",
+  "model": "Quad Color",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   4
+  ],
+  "url": "https://www.adj.com/products/quad-color",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "quad-phase-go",
+  "model": "Quad Phase GO",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   4
+  ],
+  "size": [
+   335,
+   196,
+   336
+  ],
+  "url": "https://www.adj.com/products/quad-phase-go",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "quad-scan-pro",
+  "model": "Quad Scan Pro",
+  "kind": "effect",
+  "leds": [
+   4,
+   "rgbw"
+  ],
+  "ch": [
+   1,
+   5,
+   32
+  ],
+  "feat": [
+   "gobo:8"
+  ],
+  "size": [
+   438,
+   356,
+   133
+  ],
+  "url": "https://www.adj.com/products/quad-scan-pro",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "revo-i",
+  "model": "Revo I",
+  "kind": "effect",
+  "leds": [
+   49,
+   "rgbw"
+  ],
+  "ch": [
+   4
+  ],
+  "feat": [
+   "focus"
+  ],
+  "size": [
+   229,
+   292,
+   203
+  ],
+  "url": "https://www.adj.com/products/revo-i",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "revo-ii",
+  "model": "Revo II",
+  "kind": "effect",
+  "leds": [
+   64,
+   "rgbw"
+  ],
+  "ch": [
+   4
+  ],
+  "size": [
+   312,
+   306,
+   334
+  ],
+  "url": "https://www.adj.com/products/revo-ii",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "revo-iii",
+  "model": "Revo III",
+  "kind": "effect",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "ch": [
+   4,
+   10
+  ],
+  "size": [
+   312,
+   306,
+   334
+  ],
+  "url": "https://www.adj.com/products/revo-iii",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "revo-rave",
+  "model": "Revo Rave",
+  "kind": "effect",
+  "leds": [
+   64,
+   "rgbw"
+  ],
+  "ch": [
+   5
+  ],
+  "size": [
+   312,
+   316,
+   239
+  ],
+  "url": "https://www.adj.com/products/revo-rave",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "revo-roll-led",
+  "model": "Revo Roll LED",
+  "kind": "effect",
+  "leds": [
+   52,
+   "rgbw"
+  ],
+  "ch": [
+   4
+  ],
+  "feat": [
+   "focus"
+  ],
+  "size": [
+   429,
+   154,
+   150
+  ],
+  "url": "https://www.adj.com/products/revo-roll-led",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "revo-scan-led",
+  "model": "Revo Scan LED",
+  "kind": "effect",
+  "leds": [
+   52,
+   "rgbw"
+  ],
+  "ch": [
+   4
+  ],
+  "feat": [
+   "focus"
+  ],
+  "size": [
+   429,
+   154,
+   150
+  ],
+  "url": "https://www.adj.com/products/revo-scan-led",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "revo-xpress",
+  "model": "Revo Xpress",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   4,
+   256
+  ],
+  "size": [
+   975,
+   213,
+   121
+  ],
+  "url": "https://www.adj.com/products/revo-xpress",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "starship",
+  "model": "Starship",
+  "kind": "effect",
+  "leds": [
+   24,
+   "rgbw"
+  ],
+  "ch": [
+   22,
+   120
+  ],
+  "size": [
+   632,
+   583,
+   186
+  ],
+  "url": "https://www.adj.com/products/starship",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "stinger-gobo",
+  "model": "Stinger Gobo",
+  "kind": "effect",
+  "leds": [
+   8,
+   "rgba"
+  ],
+  "ch": [
+   2,
+   14
+  ],
+  "feat": [
+   "gobo:8"
+  ],
+  "size": [
+   410,
+   210,
+   151
+  ],
+  "url": "https://www.adj.com/products/stinger-gobo",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "stinger-star",
+  "model": "Stinger Star",
+  "kind": "effect",
+  "leds": [
+   6,
+   "rgbwa"
+  ],
+  "ch": [
+   2,
+   14
+  ],
+  "size": [
+   410,
+   210,
+   238
+  ],
+  "url": "https://www.adj.com/products/stinger-star",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "sunray-tri-led-dmx",
+  "model": "Sunray Tri LED DMX",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   2
+  ],
+  "size": [
+   210,
+   210,
+   179
+  ],
+  "url": "https://www.adj.com/products/sunray-tri-led-dmx",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "super-spot-led",
+  "model": "Super Spot LED",
+  "kind": "par",
+  "leds": [
+   1,
+   "white"
+  ],
+  "ch": [
+   2
+  ],
+  "feat": [
+   "blades"
+  ],
+  "size": [
+   175,
+   189,
+   211
+  ],
+  "url": "https://www.adj.com/products/super-spot-led",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "theatrix-pro-48-led",
+  "model": "Theatrix Pro 48 LED",
+  "kind": "effect",
+  "leds": [
+   48,
+   "rgbw"
+  ],
+  "ch": [
+   4,
+   5,
+   7,
+   8,
+   11,
+   16,
+   19
+  ],
+  "size": [
+   422,
+   169,
+   174
+  ],
+  "url": "https://www.adj.com/products/theatrix-pro-48-led",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "tri-fecta",
+  "model": "Tri Fecta",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   3
+  ],
+  "url": "https://www.adj.com/products/tri-fecta",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "tri-pearl",
+  "model": "Tri Pearl",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   3
+  ],
+  "size": [
+   230,
+   298,
+   202
+  ],
+  "url": "https://www.adj.com/products/tri-pearl",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "tridisc-9-ir",
+  "model": "TRiDiSC 9 IR",
+  "kind": "strobe",
+  "deg": [
+   40,
+   40
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "size": [
+   263,
+   250,
+   88
+  ],
+  "url": "https://www.adj.com/products/tridisc-9-ir",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "tridisc-9-led",
+  "model": "TriDisc 9 LED",
+  "kind": "effect",
+  "leds": [
+   9,
+   "rgb"
+  ],
+  "ch": [
+   6,
+   8
+  ],
+  "size": [
+   270,
+   250,
+   80
+  ],
+  "url": "https://www.adj.com/products/tridisc-9-led",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "trio-par-led",
+  "model": "Trio Par LED",
+  "kind": "par",
+  "leds": [
+   9,
+   "rgbw"
+  ],
+  "ch": [
+   13,
+   22,
+   26
+  ],
+  "size": [
+   248,
+   89,
+   248
+  ],
+  "url": "https://www.adj.com/products/trio-par-led",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 9 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "trio-par-led-rg",
+  "model": "Trio Par LED RG",
+  "kind": "par",
+  "leds": [
+   6,
+   "rgbw"
+  ],
+  "ch": [
+   6,
+   10,
+   26,
+   30
+  ],
+  "pixelFrom": 26,
+  "size": [
+   248,
+   89,
+   248
+  ],
+  "url": "https://www.adj.com/products/trio-par-led-rg",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "tripleflex",
+  "model": "Tripleflex",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   4,
+   9
+  ],
+  "size": [
+   380,
+   380,
+   216
+  ],
+  "url": "https://www.adj.com/products/tripleflex",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "ultra-go-par7x",
+  "model": "Ultra Go Par7X",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgb"
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "size": [
+   265,
+   252,
+   134
+  ],
+  "url": "https://www.adj.com/products/ultra-go-par7x",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 7 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "ultra-hex-bar-6",
+  "model": "Ultra Hex Bar 6",
+  "kind": "bar",
+  "leds": [
+   6,
+   "rgbwauv"
+  ],
+  "ch": [
+   6,
+   7,
+   8,
+   12,
+   18
+  ],
+  "pixelFrom": 18,
+  "size": [
+   585,
+   110,
+   165
+  ],
+  "url": "https://www.adj.com/products/ultra-hex-bar-6",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "ultra-kling-bar-18",
+  "model": "Ultra Kling Bar 18",
+  "kind": "bar",
+  "leds": [
+   18,
+   "rgb"
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   7,
+   8,
+   9,
+   15,
+   54
+  ],
+  "pixelFrom": 54,
+  "feat": [
+   "blades"
+  ],
+  "url": "https://www.adj.com/products/ultra-kling-bar-18",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "ultra-scan-250",
+  "model": "Ultra Scan 250",
+  "kind": "effect",
+  "ch": [
+   6
+  ],
+  "feat": [
+   "gobo:8",
+   "blades"
+  ],
+  "url": "https://www.adj.com/products/ultra-scan-250",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "uv-72ip",
+  "model": "UV 72IP",
+  "kind": "par",
+  "leds": [
+   1,
+   "uv"
+  ],
+  "ch": [
+   1,
+   2,
+   3
+  ],
+  "size": [
+   270,
+   350,
+   380
+  ],
+  "url": "https://www.adj.com/products/uv-72ip",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "vizi-beam-12rx",
+  "model": "Vizi Beam 12RX",
+  "kind": "beam",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   14,
+   16
+  ],
+  "feat": [
+   "cto",
+   "gobo:14",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://www.adj.com/products/vizi-beam-12rx",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "vizi-beam-hybrid-2r",
+  "model": "Vizi Beam Hybrid 2R",
+  "kind": "hybrid",
+  "pan": 270,
+  "tilt": 270,
+  "ch": [
+   10,
+   12,
+   16
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost",
+   "blades"
+  ],
+  "url": "https://www.adj.com/products/vizi-beam-hybrid-2r",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "vizi-cmy-16rx",
+  "model": "Vizi CMY 16RX",
+  "kind": "wash",
+  "ch": [
+   22,
+   24
+  ],
+  "feat": [
+   "cmy",
+   "gobo:8",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.adj.com/products/vizi-cmy-16rx",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 1 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "vizi-hybrid-16rx",
+  "model": "Vizi Hybrid 16RX",
+  "kind": "hybrid",
+  "ch": [
+   19
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.adj.com/products/vizi-hybrid-16rx",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 1 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "vizi-scan-led-pro",
+  "model": "Vizi Scan LED Pro",
+  "kind": "wash",
+  "leds": [
+   1,
+   "white"
+  ],
+  "pan": 540,
+  "ch": [
+   12,
+   14
+  ],
+  "feat": [
+   "gobo:8",
+   "prism",
+   "frost",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.adj.com/products/vizi-scan-led-pro",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "vizi-spot-5r",
+  "model": "Vizi Spot 5R",
+  "kind": "spot",
+  "pan": 360,
+  "tilt": 270,
+  "ch": [
+   13
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "blades"
+  ],
+  "url": "https://www.adj.com/products/vizi-spot-5r",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "vizi-wash-z19",
+  "model": "Vizi Wash Z19",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   13,
+   14,
+   17,
+   18,
+   29,
+   30,
+   45,
+   46
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.adj.com/products/vizi-wash-z19",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "vizi-wash-z37",
+  "model": "Vizi Wash Z37",
+  "kind": "wash",
+  "leds": [
+   37,
+   "rgbw"
+  ],
+  "ch": [
+   6,
+   14,
+   16,
+   17,
+   64,
+   71
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.adj.com/products/vizi-wash-z37",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 4 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "wifly-bar-rgba",
+  "model": "WiFLY Bar RGBA",
+  "kind": "bar",
+  "leds": [
+   1,
+   "rgba"
+  ],
+  "ch": [
+   4,
+   6,
+   7,
+   8,
+   9,
+   10,
+   18,
+   34
+  ],
+  "size": [
+   1060,
+   73,
+   145
+  ],
+  "url": "https://www.adj.com/products/wifly-bar-rgba",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "wifly-exr-hex-par",
+  "model": "WiFLY EXR Hex Par",
+  "kind": "par",
+  "leds": [
+   5,
+   "rgbwauv"
+  ],
+  "ch": [
+   6,
+   7,
+   8,
+   11,
+   12
+  ],
+  "size": [
+   265,
+   240,
+   164
+  ],
+  "url": "https://www.adj.com/products/wifly-exr-hex-par",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "wifly-exr-qa12bar-ip",
+  "model": "WiFLY EXR QA12BAR IP",
+  "kind": "bar",
+  "leds": [
+   12,
+   "rgba"
+  ],
+  "ch": [
+   4,
+   6,
+   7,
+   8,
+   9,
+   14
+  ],
+  "size": [
+   1029,
+   140,
+   152
+  ],
+  "url": "https://www.adj.com/products/wifly-exr-qa12bar-ip",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 12 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "wifly-exr-qa5-ip",
+  "model": "WiFLY EXR QA5 IP",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   4,
+   5,
+   6,
+   10,
+   11
+  ],
+  "size": [
+   310,
+   280,
+   194
+  ],
+  "url": "https://www.adj.com/products/wifly-exr-qa5-ip",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "wifly-par-qa5-wh",
+  "model": "WiFLY Par QA5 WH",
+  "kind": "par",
+  "leds": [
+   5,
+   "rgba"
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "size": [
+   265,
+   240,
+   164
+  ],
+  "url": "https://www.adj.com/products/wifly-par-qa5-wh",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "wifly-qa5-ip",
+  "model": "WiFLY QA5 IP",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgba"
+  ],
+  "ch": [
+   4,
+   5,
+   6,
+   10,
+   11
+  ],
+  "size": [
+   250,
+   190,
+   300
+  ],
+  "url": "https://www.adj.com/products/wifly-qa5-ip",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "wifly-wash-bar",
+  "model": "WiFLY Wash Bar",
+  "kind": "bar",
+  "leds": [
+   15,
+   "rgb"
+  ],
+  "ch": [
+   3,
+   4,
+   6
+  ],
+  "size": [
+   513,
+   78,
+   107
+  ],
+  "url": "https://www.adj.com/products/wifly-wash-bar",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "x-move-laser",
+  "model": "X-Move Laser",
+  "kind": "lasermh",
+  "pan": 220,
+  "tilt": 220,
+  "ch": [
+   6
+  ],
+  "feat": [
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.adj.com/products/x-move-laser",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "x-move-led",
+  "model": "X-Move LED",
+  "kind": "beam",
+  "pan": 270,
+  "tilt": 270,
+  "ch": [
+   6
+  ],
+  "feat": [
+   "gobo:14",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.adj.com/products/x-move-led",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "x-move-led-25r",
+  "model": "X-MOVE LED 25R",
+  "kind": "beam",
+  "pan": 270,
+  "tilt": 270,
+  "ch": [
+   9
+  ],
+  "feat": [
+   "gobo:14",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.adj.com/products/x-move-led-25r",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "x-move-led-plus",
+  "model": "X-Move LED Plus",
+  "kind": "beam",
+  "pan": 220,
+  "tilt": 220,
+  "ch": [
+   8
+  ],
+  "feat": [
+   "gobo:14",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.adj.com/products/x-move-led-plus",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "x-move-led-plus-r",
+  "model": "X-Move LED Plus R",
+  "kind": "beam",
+  "pan": 270,
+  "tilt": 270,
+  "ch": [
+   9
+  ],
+  "feat": [
+   "gobo:14",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.adj.com/products/x-move-led-plus-r",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "ADJ",
+  "key": "xs-200",
+  "model": "XS 200",
+  "kind": "spot",
+  "ch": [
+   16,
+   18
+  ],
+  "url": "https://www.adj.com/products/xs-200",
+  "note": "Steckbrief aus Herstellerangaben (adj.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

@@ -1,0 +1,793 @@
+[
+ {
+  "man": "Showtec",
+  "key": "act-fresnel-150",
+  "model": "ACT Fresnel 150",
+  "kind": "fresnel",
+  "deg": [
+   14,
+   36
+  ],
+  "ch": [
+   5,
+   8,
+   12
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-act-fresnel-150-rgbal-compact-150w-theatre-led-fresnel",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "act-fresnel-50",
+  "model": "ACT Fresnel 50",
+  "kind": "fresnel",
+  "deg": [
+   15,
+   35
+  ],
+  "ch": [
+   5,
+   8,
+   12
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-act-fresnel-50-rgbal-compact-50-w-rgbal-theatre-led-fresnel",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "cameleon-spot-12q6-tour",
+  "model": "Cameleon Spot 12Q6 Tour",
+  "kind": "par",
+  "deg": [
+   15,
+   40
+  ],
+  "ch": [
+   6,
+   8,
+   13
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-cameleon-spot-12q6-tour-12x-12-w-rgbwa-uv-led-spot-power-pro-true",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "cameleon-spot-18q6-tour",
+  "model": "Cameleon Spot 18Q6 Tour",
+  "kind": "par",
+  "deg": [
+   15,
+   40
+  ],
+  "ch": [
+   6,
+   8,
+   13
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-cameleon-spot-18q6-tour-18x-12-w-rgbwa-uv-led-spot-power-pro-true",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "cameleon-spot-7q6-tour",
+  "model": "Cameleon Spot 7Q6 Tour",
+  "kind": "par",
+  "deg": [
+   15,
+   40
+  ],
+  "ch": [
+   6,
+   8,
+   13
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-cameleon-spot-7q6-tour-7x-12-w-rgbwa-uv-led-spot-power-pro-true",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "demon",
+  "model": "Demon",
+  "kind": "effect",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   22.6,
+   22.6
+  ],
+  "ch": [
+   3,
+   9,
+   12
+  ],
+  "feat": [
+   "gobo:8",
+   "focus"
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-demon-led-barrel-scan-effect-140w",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "dreammoon-led",
+  "model": "Dreammoon LED",
+  "kind": "effect",
+  "ch": [
+   5,
+   9
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-dreammoon",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "dreamwave",
+  "model": "Dreamwave",
+  "kind": "effect",
+  "ch": [
+   10,
+   34
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-dreamwave",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "edison-vintage-v1-dmx",
+  "model": "Edison Vintage V1 DMX",
+  "kind": "retro",
+  "ch": [
+   1,
+   2
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-edison-vintage-v1-dmx-light-bundle-of-2-inc-dimmable-filament-lamps",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "fireball-pro-dual-ball",
+  "model": "FireBall PRO Dual Ball",
+  "kind": "effect",
+  "deg": [
+   2,
+   2
+  ],
+  "ch": [
+   7,
+   10,
+   14,
+   22,
+   28
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-fireball-pro-dual-ball-rgbw-effect-light",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "firestorm",
+  "model": "Firestorm",
+  "kind": "effect",
+  "ch": [
+   2,
+   18
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-firestorm-led-light-effect-4-in-1-wash-led-strobe",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "galactic-txt-text",
+  "model": "Galactic Txt TEXT",
+  "kind": "effect",
+  "ch": [
+   17
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-galactic-txt-text-laser-with-dmx",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "goliath-retro",
+  "model": "Goliath Retro",
+  "kind": "retro",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "ch": [
+   4,
+   5,
+   14,
+   20,
+   21,
+   300
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-goliath-retro-led-light-effect-320w-vintage-blaze",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "hurricane-320",
+  "model": "Hurricane 320",
+  "kind": "effect",
+  "deg": [
+   14.8,
+   14.8
+  ],
+  "ch": [
+   4,
+   17,
+   32
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-hurricane-320-rgbw-moonflower-effect-with-spinning-arms",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "hydrogen-led",
+  "model": "Hydrogen LED",
+  "kind": "effect",
+  "ch": [
+   4
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-hydrogen-dmx-mkii-led-effect-light",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "kanjo-60",
+  "model": "Kanjo 60",
+  "kind": "effect",
+  "deg": [
+   18,
+   18
+  ],
+  "ch": [
+   8,
+   10
+  ],
+  "feat": [
+   "gobo:8",
+   "focus"
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-kanjo-scan-60",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "led-par-64-short-q4-18",
+  "model": "LED Par 64 Short Q4-18",
+  "kind": "par",
+  "deg": [
+   40,
+   40
+  ],
+  "ch": [
+   4,
+   5,
+   8
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-led-par-64-q4-18-black",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "par-56-cob",
+  "model": "PAR 56 COB",
+  "kind": "cob",
+  "deg": [
+   90,
+   90
+  ],
+  "ch": [
+   3,
+   6,
+   7
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-par-56-cob-rgb-90-w-rgb-cob-led-par",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "performer-profile-zoom-150-q6-150w",
+  "model": "Performer Profile Zoom 150 Q6, 150w",
+  "kind": "ellipsoidal",
+  "deg": [
+   25,
+   50
+  ],
+  "ch": [
+   3,
+   7,
+   8,
+   10,
+   13,
+   20
+  ],
+  "feat": [
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-performer-profile-zoom-150-q6-150w-rgbacl-theatre-led",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "phantom-120lsr-beam",
+  "model": "Phantom 120LSR Beam",
+  "kind": "beam",
+  "deg": [
+   1,
+   1
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   14,
+   20
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-phantom-120lsr-beam-120w-laser-moving-head-outdoor-ip65",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "phantom-180-washfx",
+  "model": "Phantom 180 WashFX",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   4.8,
+   27
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   26,
+   34,
+   95
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-phantom-180-washfx-180w-rgbl-led-wash-moving-head-pixel-effect-ip65-outdoor",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "phantom-280-hybrid",
+  "model": "Phantom 280 Hybrid",
+  "kind": "hybrid",
+  "deg": [
+   2.5,
+   39.9
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   21,
+   25
+  ],
+  "feat": [
+   "cmy",
+   "gobo:14",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-phantom-280-hybrid-280w-led-ip65-moving-head",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "phantom-350-spot-350w",
+  "model": "Phantom 350 Spot 350w",
+  "kind": "spot",
+  "deg": [
+   8.2,
+   32.8
+  ],
+  "pan": 540,
+  "tilt": 255,
+  "ch": [
+   22,
+   26
+  ],
+  "feat": [
+   "cmy",
+   "gobo:14",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-phantom-350-spot-350w-led-spot-moving-head-ip65",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "razor-blaze-12",
+  "model": "Razor Blaze 12",
+  "kind": "effect",
+  "leds": [
+   12,
+   "ww"
+  ],
+  "ch": [
+   4,
+   9,
+   12,
+   48,
+   300
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-razor-blaze-12",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "shark-beam-one-compact",
+  "model": "Shark Beam One Compact",
+  "kind": "beam",
+  "deg": [
+   3,
+   3
+  ],
+  "pan": 540,
+  "tilt": 210,
+  "ch": [
+   8,
+   15
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "iris",
+   "frost",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-shark-beam-one-compact-90w-led-beam-moving-head",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "shark-combi-spot-one",
+  "model": "Shark Combi Spot One",
+  "kind": "spot",
+  "deg": [
+   13,
+   13
+  ],
+  "pan": 540,
+  "tilt": 230,
+  "ch": [
+   7,
+   8,
+   11,
+   19,
+   25,
+   30
+  ],
+  "feat": [
+   "gobo:14",
+   "focus"
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-shark-combi-spot-one",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 1, 2 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "shark-spot-two",
+  "model": "Shark Spot Two",
+  "kind": "spot",
+  "deg": [
+   15,
+   15
+  ],
+  "pan": 540,
+  "tilt": 210,
+  "ch": [
+   8,
+   15
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-shark-spot-two-90w-led-spot-moving-head",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "shark-wash-zoom-two",
+  "model": "Shark Wash Zoom Two",
+  "kind": "wash",
+  "deg": [
+   6,
+   38
+  ],
+  "pan": 540,
+  "tilt": 210,
+  "ch": [
+   8,
+   15
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-shark-wash-zoom-two-7-x-30w-rgbw",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "shark-zoom-wash-one",
+  "model": "Shark Zoom Wash One",
+  "kind": "wash",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   6,
+   36
+  ],
+  "pan": 540,
+  "tilt": 230,
+  "ch": [
+   6,
+   8,
+   15,
+   36
+  ],
+  "pixelFrom": 36,
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-shark-wash-zoom-one",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "sonus-bar-8b",
+  "model": "Sonus Bar 8B",
+  "kind": "bar",
+  "leds": [
+   24,
+   "rgbw"
+  ],
+  "deg": [
+   11.3,
+   16.4
+  ],
+  "ch": [
+   4,
+   6,
+   10,
+   32,
+   34,
+   38
+  ],
+  "feat": [
+   "focus"
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-sonus-bar-8b-battery-rgbw-1m-led-light-bar",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "spectra-strobe",
+  "model": "Spectra Strobe",
+  "kind": "strobe",
+  "deg": [
+   10,
+   40
+  ],
+  "ch": [
+   3,
+   9,
+   21,
+   35,
+   49,
+   91
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-spectra-strobe-rgb-led-bar-ip65-outdoor-led-batten",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "swing-4",
+  "model": "Swing 4",
+  "kind": "effect",
+  "leds": [
+   2,
+   "rgb"
+  ],
+  "ch": [
+   6
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-swing-4-led-multi-effect",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "titan-strobe-100-fx",
+  "model": "Titan Strobe 100 FX",
+  "kind": "strobe",
+  "ch": [
+   4,
+   8,
+   11,
+   52
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-titan-strobe-100-fx-100w-led-12-x-rgbw-2w",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "titan-strobe-1000-fx",
+  "model": "Titan Strobe 1000 FX",
+  "kind": "strobe",
+  "ch": [
+   4,
+   7,
+   10,
+   12,
+   20,
+   73
+  ],
+  "feat": [
+   "frost"
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-titan-strobe-1000-fx-1000w-rgb-led-strobe-panel",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "titan-strobe-200-fx",
+  "model": "Titan Strobe 200 FX",
+  "kind": "strobe",
+  "ch": [
+   4,
+   8,
+   11,
+   52,
+   100
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-titan-strobe-200-fx-led-strobe-pod-with-rgbw-led-ring-effect",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "xpression",
+  "model": "Xpression",
+  "kind": "wash",
+  "deg": [
+   3.8,
+   35
+  ],
+  "pan": 540,
+  "tilt": 360,
+  "ch": [
+   13,
+   21
+  ],
+  "feat": [
+   "iris",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-xpression-2000w-led-wash-moving-head-7-x-40w",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "xpression-2000b",
+  "model": "Xpression 2000B",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "tilt": 360,
+  "ch": [
+   14,
+   18
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "iris",
+   "frost",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-xpression-2000b-led-beam-moving-head-150w",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Showtec",
+  "key": "xpression-2000s",
+  "model": "Xpression 2000S",
+  "kind": "spot",
+  "deg": [
+   17,
+   17
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   14,
+   18
+  ],
+  "feat": [
+   "gobo:14",
+   "prism",
+   "iris",
+   "frost",
+   "focus",
+   "blades"
+  ],
+  "url": "https://www.simplysoundandlighting.co.uk/products/showtec-xpression-2000s-led-spot-moving-head-200w",
+  "note": "Steckbrief aus Herstellerangaben (simplysoundandlighting.co.uk, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

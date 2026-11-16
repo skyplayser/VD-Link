@@ -1,0 +1,1443 @@
+[
+ {
+  "man": "VSHOW",
+  "key": "b1060",
+  "model": "B1060",
+  "kind": "tiltbar",
+  "leds": [
+   10,
+   "rgbw"
+  ],
+  "deg": [
+   5,
+   46
+  ],
+  "ch": [
+   17,
+   27,
+   99,
+   108,
+   168,
+   170
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://vshowlighting.com/product/b1060_outdoor_10pcs_60w/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "b1060s",
+  "model": "B1060S",
+  "kind": "tiltbar",
+  "leds": [
+   10,
+   "rgbw"
+  ],
+  "ch": [
+   17,
+   27,
+   99,
+   108,
+   168,
+   170
+  ],
+  "feat": [
+   "zoom",
+   "focus"
+  ],
+  "url": "https://vshowlighting.com/product/b1060s_10pcs_60w_rgbw_4in1/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "s128",
+  "model": "S128",
+  "kind": "strobe",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   4,
+   17,
+   145
+  ],
+  "size": [
+   420,
+   220,
+   195
+  ],
+  "url": "https://vshowlighting.com/product/indoor_strobe_light_s128_864pcs/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "ip1820",
+  "model": "IP1820",
+  "kind": "bar",
+  "leds": [
+   18,
+   "rgbw"
+  ],
+  "ch": [
+   6,
+   17,
+   108
+  ],
+  "size": [
+   1000,
+   94,
+   201
+  ],
+  "url": "https://vshowlighting.com/product/ip1820_18pcs_20w_rgbwa/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "ip760",
+  "model": "IP760",
+  "kind": "wash",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   60
+  ],
+  "ch": [
+   23,
+   35,
+   51
+  ],
+  "pixelFrom": 35,
+  "feat": [
+   "cto"
+  ],
+  "url": "https://vshowlighting.com/product/ip65_outdoor_led_zoom/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "kinetic-light-lifting-ball-combination",
+  "model": "Kinetic light lifting ball combination",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   7,
+   15,
+   17,
+   20,
+   22,
+   40,
+   42,
+   80,
+   83,
+   85,
+   128,
+   132
+  ],
+  "size": [
+   1000,
+   108,
+   125
+  ],
+  "url": "https://vshowlighting.com/product/kinetic_light_lifting_ball_combination/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "l8",
+  "model": "L8",
+  "kind": "blinder",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   25,
+   34,
+   59
+  ],
+  "size": [
+   413,
+   184,
+   300
+  ],
+  "url": "https://vshowlighting.com/product/l8_luna_6pcs_100w_rgbww/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "l9",
+  "model": "L9",
+  "kind": "bar",
+  "leds": [
+   10,
+   "rgbwa"
+  ],
+  "ch": [
+   14,
+   55
+  ],
+  "pixelFrom": 55,
+  "size": [
+   820,
+   102,
+   169
+  ],
+  "url": "https://vshowlighting.com/product/l9_10150w-_wall_washer/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "l3",
+  "model": "L3",
+  "kind": "blinder",
+  "leds": [
+   64,
+   "rgbwauv"
+  ],
+  "deg": [
+   35,
+   35
+  ],
+  "ch": [
+   17
+  ],
+  "size": [
+   301,
+   266,
+   151
+  ],
+  "url": "https://vshowlighting.com/product/outdoor_l3_1782w_rgbalc/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "q7",
+  "model": "Q7",
+  "kind": "matrix",
+  "leds": [
+   49,
+   "ww"
+  ],
+  "deg": [
+   3,
+   3
+  ],
+  "ch": [
+   1,
+   5,
+   7,
+   10,
+   12,
+   13,
+   16,
+   252
+  ],
+  "size": [
+   500,
+   500,
+   88
+  ],
+  "url": "https://vshowlighting.com/product/q7_magic_dot_ip65_4910w/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "t917",
+  "model": "T917",
+  "kind": "beam",
+  "deg": [
+   1.8,
+   1.8
+  ],
+  "ch": [
+   17
+  ],
+  "feat": [
+   "gobo:15",
+   "prism",
+   "frost"
+  ],
+  "url": "https://vshowlighting.com/product/t917_lang_professional_300w/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "tb5",
+  "model": "TB5",
+  "kind": "multihead",
+  "leds": [
+   5,
+   "rgbl"
+  ],
+  "deg": [
+   3,
+   30
+  ],
+  "ch": [
+   41,
+   71
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://vshowlighting.com/product/tb5_5pcs_120w_rgbl_led/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "v7",
+  "model": "V7",
+  "kind": "retro",
+  "ch": [
+   5,
+   13,
+   79,
+   151
+  ],
+  "size": [
+   100,
+   94,
+   114
+  ],
+  "url": "https://vshowlighting.com/product/v7_retroline_660w_led/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "v8",
+  "model": "V8",
+  "kind": "strobe",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   20,
+   120
+  ],
+  "size": [
+   413,
+   184,
+   300
+  ],
+  "url": "https://vshowlighting.com/product/v8_flasher_strobe_effect_light/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "v9",
+  "model": "V9",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "ch": [
+   12,
+   27,
+   44,
+   100,
+   138,
+   166,
+   269,
+   297
+  ],
+  "pixelFrom": 297,
+  "size": [
+   820,
+   102,
+   169
+  ],
+  "url": "https://vshowlighting.com/product/v9_ip66_outdoor_strobe_light/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "t911",
+  "model": "T911",
+  "kind": "beam",
+  "deg": [
+   0.6,
+   2
+  ],
+  "ch": [
+   18
+  ],
+  "feat": [
+   "gobo:16",
+   "prism"
+  ],
+  "url": "https://vshowlighting.com/product/vshow-beam-moving-head-light-t911-300w-with-fog-colorful-effect-wheel/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "t913",
+  "model": "T913",
+  "kind": "beam",
+  "deg": [
+   1.2,
+   1.2
+  ],
+  "ch": [
+   16,
+   21
+  ],
+  "feat": [
+   "gobo:18",
+   "prism"
+  ],
+  "url": "https://vshowlighting.com/product/vshow-beam-moving-head-light-t913-420w-ushio-nsl420s/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "g420e-wash",
+  "model": "G420E-Wash",
+  "kind": "par",
+  "leds": [
+   4,
+   "rgbwauv"
+  ],
+  "ch": [
+   6,
+   8,
+   10
+  ],
+  "size": [
+   186,
+   86,
+   209
+  ],
+  "url": "https://vshowlighting.com/product/vshow-g420e-wash-4x20w-hybrid-battery-uplighter-spot-ip65-with-rgbwauv-led-source/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "g45",
+  "model": "G45",
+  "kind": "beam",
+  "deg": [
+   1.3,
+   1.3
+  ],
+  "ch": [
+   24
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "prism"
+  ],
+  "url": "https://vshowlighting.com/product/vshow-g45-optic-420w-ip66-waterproof-beam-moving-head-light/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "g63",
+  "model": "G63",
+  "kind": "hybrid",
+  "ch": [
+   20,
+   28
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "prism"
+  ],
+  "url": "https://vshowlighting.com/product/vshow-g63-prime-450w-ip66-waterproof-beam-spot/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "t912",
+  "model": "T912",
+  "kind": "hybrid",
+  "deg": [
+   2,
+   50
+  ],
+  "ch": [
+   31
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:18",
+   "prism",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://vshowlighting.com/product/vshow-hybrid-moving-head-light-t912-380w-philips-msd-lamp/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "ip1940",
+  "model": "IP1940",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   60
+  ],
+  "ch": [
+   21,
+   23,
+   35,
+   78,
+   92,
+   97,
+   99
+  ],
+  "pixelFrom": 78,
+  "feat": [
+   "cto",
+   "zoom"
+  ],
+  "url": "https://vshowlighting.com/product/vshow-ip1940-ip65-wash-moving-wash-rgbw-led-beam-wash-big-eye-moving-head-dmx-stage-lights-stage-lighting-for-outdoor-event/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "l10",
+  "model": "L10",
+  "kind": "bar",
+  "leds": [
+   14,
+   "rgbw"
+  ],
+  "ch": [
+   5,
+   8,
+   18,
+   57,
+   74,
+   99,
+   116
+  ],
+  "pixelFrom": 57,
+  "size": [
+   820,
+   102,
+   169
+  ],
+  "url": "https://vshowlighting.com/product/vshow-l10-gamut-1425w-rgbwylp-7in1-wall-washer-outdoor-equipment-for-concert-dj-party/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "l0603",
+  "model": "L0603",
+  "kind": "laser",
+  "ch": [
+   12
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   300,
+   170,
+   220
+  ],
+  "url": "https://vshowlighting.com/product/vshow-laser-stage-lights-l0603-6w-rgb-animation-laser-20kpps-30kpps-scanner/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "t360",
+  "model": "T360",
+  "kind": "tube",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   7,
+   36,
+   48
+  ],
+  "size": [
+   1200,
+   610,
+   260
+  ],
+  "url": "https://vshowlighting.com/product/vshow-led-battery-outdoor-tube-light-t360-965050-rgb-3in1-wireless-control/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "t918",
+  "model": "T918",
+  "kind": "beam",
+  "deg": [
+   1.3,
+   1.3
+  ],
+  "ch": [
+   21
+  ],
+  "feat": [
+   "gobo:17",
+   "frost",
+   "focus"
+  ],
+  "url": "https://vshowlighting.com/product/vshow-led-beam-moving-head-light-t918-80w-with-pa6-nylon-casing/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "gt640",
+  "model": "GT640",
+  "kind": "matrix",
+  "leds": [
+   6,
+   "rgbw"
+  ],
+  "ch": [
+   17,
+   23,
+   38
+  ],
+  "pixelFrom": 38,
+  "feat": [
+   "cmy",
+   "zoom"
+  ],
+  "size": [
+   510,
+   85,
+   302
+  ],
+  "url": "https://vshowlighting.com/product/vshow-led-beam-wash-light-gt640-640w-rgbw-4in1-led-puzzle-matrix/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "s712",
+  "model": "S712",
+  "kind": "hybrid",
+  "deg": [
+   3,
+   50
+  ],
+  "ch": [
+   29
+  ],
+  "feat": [
+   "gobo:12",
+   "prism",
+   "frost"
+  ],
+  "url": "https://vshowlighting.com/product/vshow-led-hybrid-moving-head-s712-450w-3in1-led-light-with-cmy-cto/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "s718",
+  "model": "S718",
+  "kind": "hybrid",
+  "deg": [
+   15,
+   17
+  ],
+  "ch": [
+   17
+  ],
+  "feat": [
+   "gobo:7",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://vshowlighting.com/product/vshow-led-moving-head-light-s718-150w-with-folding-clamp/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "pz1806",
+  "model": "PZ1806",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbwauv"
+  ],
+  "ch": [
+   7,
+   12
+  ],
+  "size": [
+   275,
+   205,
+   235
+  ],
+  "url": "https://vshowlighting.com/product/vshow-led-par-light-pz1806-1818w-rgbwauv-6-in-1-indoor-zoom-led-par-7-12-channel/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "fwbr1206",
+  "model": "FWBR1206",
+  "kind": "par",
+  "ch": [
+   6,
+   10
+  ],
+  "size": [
+   220,
+   265,
+   215
+  ],
+  "url": "https://vshowlighting.com/product/vshow-led-par-lights-fwbr1206-1218w-6in1-ip65-battery-powered-wireless-ir-dmx-led-par/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "pl4003",
+  "model": "PL4003",
+  "kind": "tube",
+  "deg": [
+   180,
+   180
+  ],
+  "ch": [
+   7,
+   16,
+   48,
+   82
+  ],
+  "feat": [
+   "frost"
+  ],
+  "url": "https://vshowlighting.com/product/vshow-led-pixel-tube-pl4003-400-5w-smd5050-rgb-7-16-48-82-480ch-artnet/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 480 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "bl200",
+  "model": "BL200",
+  "kind": "blinder",
+  "ch": [
+   2,
+   6
+  ],
+  "size": [
+   400,
+   150,
+   220
+  ],
+  "url": "https://vshowlighting.com/product/vshow-led-studio-light-bl200-2100w-cw-ww-led-blinder-light-2-ra90-6ch/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "psp300p",
+  "model": "PSP300P",
+  "kind": "ellipsoidal",
+  "ch": [
+   2
+  ],
+  "size": [
+   610,
+   320,
+   175
+  ],
+  "url": "https://vshowlighting.com/product/vshow-led-studio-lights-psp300p-300w-profile-spotlight-pro-version-2/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "r740l",
+  "model": "R740L",
+  "kind": "wash",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   60
+  ],
+  "ch": [
+   23,
+   35,
+   51
+  ],
+  "pixelFrom": 35,
+  "url": "https://vshowlighting.com/product/vshow-led-zoom-moving-wash-light-r740l-740w-rgbw-4in1/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "lm10-mini-10w-full-color-animation-weddi",
+  "model": "LM10 mini 10w full color animation weddi",
+  "kind": "laser",
+  "ch": [
+   19,
+   32
+  ],
+  "feat": [
+   "anim"
+  ],
+  "url": "https://vshowlighting.com/product/vshow-lm10-mini-10w-full-color-animation-wedding-laser-show-beam-disco-stage-dj-laser-lights/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "s711",
+  "model": "S711",
+  "kind": "profile",
+  "deg": [
+   3,
+   55
+  ],
+  "ch": [
+   25,
+   29,
+   34
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:8",
+   "gobor",
+   "gobo2",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://vshowlighting.com/product/vshow-moving-head-led-light-s711-powerful-600w-led-module-engine-profile/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "lb06",
+  "model": "LB06",
+  "kind": "laser",
+  "ch": [
+   14,
+   35,
+   42
+  ],
+  "size": [
+   930,
+   150,
+   240
+  ],
+  "url": "https://vshowlighting.com/product/vshow-moving-laser-bar-lb06-3w-12w-rgb-beam-6-eyes-heads/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "p300f",
+  "model": "P300F",
+  "kind": "ellipsoidal",
+  "ch": [
+   2
+  ],
+  "size": [
+   680,
+   250,
+   250
+  ],
+  "url": "https://vshowlighting.com/product/vshow-outdoor-spotlights-p300f-300w-ra95-edison-led-source-profile/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "pz0740",
+  "model": "PZ0740",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   38
+  ],
+  "ch": [
+   5,
+   9
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   328,
+   287,
+   340
+  ],
+  "url": "https://vshowlighting.com/product/vshow-outdoor-zoom-par-light-pz0740-7x40w-rgbw-4-in-1-led-par-light-5-9-ch/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "p31-max",
+  "model": "P31 MAX",
+  "kind": "par",
+  "ch": [
+   3,
+   4
+  ],
+  "size": [
+   342,
+   337,
+   485
+  ],
+  "url": "https://vshowlighting.com/product/vshow-p31-max-ip66-waterproof-600w/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "p1806s",
+  "model": "P1806S",
+  "kind": "par",
+  "ch": [
+   6,
+   10
+  ],
+  "size": [
+   275,
+   205,
+   235
+  ],
+  "url": "https://vshowlighting.com/product/vshow-par-led-lights-p1806s-1818w-rgbwa-uv-6-in1-6-10-ch-25-lens-angle/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "q8",
+  "model": "Q8",
+  "kind": "panel",
+  "leds": [
+   28,
+   "rgbwauv"
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   12,
+   16,
+   24,
+   32
+  ],
+  "size": [
+   413,
+   184,
+   300
+  ],
+  "url": "https://vshowlighting.com/product/vshow-q8-queen-washer-led-panel-2820w-rgbwauv-for-dynamic-lightshows/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "s600",
+  "model": "S600",
+  "kind": "profile",
+  "deg": [
+   5,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   22,
+   30,
+   31,
+   39,
+   40
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "anim",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://vshowlighting.com/product/vshow-s600-1000w-led-waterproof-moving-head-cutting-light-beam-spot-wash-4in1-professional-stage-moving-head-led-with-cmyctocri-plate/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "s710",
+  "model": "S710",
+  "kind": "profile",
+  "deg": [
+   3,
+   55
+  ],
+  "ch": [
+   27,
+   29,
+   36
+  ],
+  "feat": [
+   "cto",
+   "gobo:14",
+   "anim",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://vshowlighting.com/product/vshow-s710-800w-image-profile-bswf-4-in-1-moving-head-stage-lighting/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "s716",
+  "model": "S716",
+  "kind": "hybrid",
+  "deg": [
+   3,
+   45
+  ],
+  "ch": [
+   20
+  ],
+  "feat": [
+   "gobo:8",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://vshowlighting.com/product/vshow-spot-moving-head-light-s716-200w-3in1-led-beam-wash-light/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "l1003",
+  "model": "L1003",
+  "kind": "laser",
+  "ch": [
+   12,
+   21
+  ],
+  "url": "https://vshowlighting.com/product/vshow-stage-laser-lighting-l1003-10w-rgb-laser-projector-35kpps-scanner-system-12-21ch/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "fsp200",
+  "model": "FSP200",
+  "kind": "fresnel",
+  "ch": [
+   2
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   520,
+   220,
+   420
+  ],
+  "url": "https://vshowlighting.com/product/vshow-studio-led-lighting-fsp200-200w-led-fresnel-spotlight-with-manual-zoom/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "fsp300",
+  "model": "FSP300",
+  "kind": "fresnel",
+  "deg": [
+   15,
+   55
+  ],
+  "ch": [
+   2,
+   3
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   430,
+   290,
+   260
+  ],
+  "url": "https://vshowlighting.com/product/vshow-studio-led-lights-fsp300-300w-edison-led-fresnel-spotlight-cri95-2-3ch-2/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "tb5f",
+  "model": "TB5F",
+  "kind": "multihead",
+  "leds": [
+   5,
+   "rgbl"
+  ],
+  "deg": [
+   3,
+   30
+  ],
+  "ch": [
+   41,
+   71,
+   75,
+   85,
+   170
+  ],
+  "url": "https://vshowlighting.com/product/vshow-tb5f-ip65-tornado-5pcs-120w-moving-lights-rgbw-4in1-beam-wash-strobe-rotating-effect-lighting/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "v12",
+  "model": "V12",
+  "kind": "strobe",
+  "ch": [
+   8,
+   11,
+   24,
+   30,
+   47,
+   74,
+   97
+  ],
+  "size": [
+   406,
+   202,
+   335
+  ],
+  "url": "https://vshowlighting.com/product/vshow-v12-outdoor-waterproof-moving-head-led-strobe-light-ip65/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "wbrf0606",
+  "model": "WBRF0606",
+  "kind": "par",
+  "leds": [
+   6,
+   "rgbwauv"
+  ],
+  "ch": [
+   6,
+   10
+  ],
+  "size": [
+   140,
+   140,
+   200
+  ],
+  "url": "https://vshowlighting.com/product/vshow-wbrf0606-618w-6in1-battery-wireless-dmx-wi-fi-remote-led-up-light/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "aura1915",
+  "model": "AURA1915",
+  "kind": "wash",
+  "deg": [
+   10,
+   60
+  ],
+  "ch": [
+   14,
+   25
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://vshowlighting.com/product/vshow-zoom-moving-head-light-aura1915-1915w-rgbw-4in1-mac-aura/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "r1940l",
+  "model": "R1940L",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   60
+  ],
+  "ch": [
+   21,
+   23,
+   35,
+   78,
+   92,
+   97,
+   99
+  ],
+  "pixelFrom": 78,
+  "feat": [
+   "cto"
+  ],
+  "url": "https://vshowlighting.com/product/vshow-zoom-moving-head-light-r1940l-1940w-rgbw-4in1/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "g18-e-wash",
+  "model": "G18 E-Wash",
+  "kind": "par",
+  "leds": [
+   18,
+   "rgbwauv"
+  ],
+  "ch": [
+   6,
+   8,
+   10
+  ],
+  "size": [
+   389,
+   120,
+   339
+  ],
+  "url": "https://vshowlighting.com/product/vshow_g18_e-wash_18x12w/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "w1060",
+  "model": "W1060",
+  "kind": "tiltbar",
+  "leds": [
+   10,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   40
+  ],
+  "ch": [
+   29,
+   56,
+   142,
+   216,
+   262,
+   282
+  ],
+  "pixelFrom": 56,
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://vshowlighting.com/product/w1060_wave_line_ip65_10pcs_60w/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "p7",
+  "model": "P7",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "ch": [
+   1,
+   4,
+   15
+  ],
+  "url": "https://vshowlighting.com/product/waterproof_10w_rgbw_4in1_led_ip65/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 7 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "p18",
+  "model": "P18",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbwauv"
+  ],
+  "ch": [
+   6,
+   8,
+   10
+  ],
+  "size": [
+   389,
+   120,
+   339
+  ],
+  "url": "https://vshowlighting.com/product/waterproof_par_light_p18/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "wp1220",
+  "model": "WP1220",
+  "kind": "par",
+  "leds": [
+   12,
+   "rgbwauv"
+  ],
+  "ch": [
+   7,
+   11
+  ],
+  "size": [
+   200,
+   245,
+   298
+  ],
+  "url": "https://vshowlighting.com/product/waterproof_par_light_wp1220/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "x1925",
+  "model": "X1925",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   60
+  ],
+  "ch": [
+   14,
+   22,
+   25,
+   27,
+   36,
+   84
+  ],
+  "pixelFrom": 84,
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://vshowlighting.com/product/x1925_19pcs_25w_rgbw_4in/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 369 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "x760",
+  "model": "X760",
+  "kind": "wash",
+  "deg": [
+   4,
+   60
+  ],
+  "ch": [
+   20,
+   36,
+   57,
+   93,
+   102,
+   214
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://vshowlighting.com/product/x760_760w_rgbw_4_in_1_zoom/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "VSHOW",
+  "key": "x760a",
+  "model": "X760A",
+  "kind": "wash",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "ch": [
+   20,
+   36,
+   57,
+   93,
+   102,
+   215
+  ],
+  "pixelFrom": 36,
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://vshowlighting.com/product/x760a_760w_rgbw_4_in_1_zoom/",
+  "note": "Steckbrief aus Herstellerangaben (vshowlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

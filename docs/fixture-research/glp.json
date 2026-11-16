@@ -1,0 +1,2314 @@
+[
+ {
+  "manufacturer": "GLP",
+  "model": "impression X5",
+  "kind": "wash",
+  "light": "19 x 40 W RGBL",
+  "beamDeg": [
+   3.5,
+   63
+  ],
+  "pan": 540,
+  "tilt": 240,
+  "channels": [
+   24,
+   35,
+   41,
+   89,
+   70,
+   89
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "19 (Hex)",
+  "sizeMm": [
+   415,
+   434,
+   290
+  ],
+  "weightKg": 13.3,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/impression-x5-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:glp/impression-x5",
+  "notes": "Pan erweitert 650°"
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "impression X5 Compact",
+  "kind": "wash",
+  "light": "7 x 40 W RGBL",
+  "beamDeg": [
+   3.6,
+   66
+  ],
+  "pan": 540,
+  "tilt": 236,
+  "channels": [
+   22,
+   33,
+   36,
+   51,
+   32,
+   39
+  ],
+  "features": [
+   "cmy",
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "7 (Hex)",
+  "sizeMm": [
+   250,
+   337,
+   183
+  ],
+  "weightKg": 7.5,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/impression-x5-compact-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "impression X5 IP",
+  "kind": "wash",
+  "light": "19 x 40 W RGBL",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 230,
+  "channels": [
+   24,
+   35,
+   41,
+   89,
+   70,
+   89
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "19 (Hex)",
+  "sizeMm": [
+   377,
+   530,
+   324
+  ],
+  "weightKg": 21,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/impression-x5-ip-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "impression X5 IP Maxx",
+  "kind": "wash",
+  "light": "37 x 40 W RGBL",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 240,
+  "channels": [
+   22,
+   33,
+   42,
+   141,
+   122,
+   159
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "37 (Hex)",
+  "sizeMm": [
+   483,
+   631,
+   358
+  ],
+  "weightKg": 30,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/impression-x5-ip-maxx-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "impression X5 Bar 1000",
+  "kind": "tiltbar",
+  "light": "18 x 40 W RGBL",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": 205,
+  "channels": [
+   20,
+   33,
+   48,
+   84,
+   63,
+   81
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "18 linear",
+  "sizeMm": null,
+  "weightKg": 20.2,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/impression-x5-bar-1000-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "impression X5 IP Bar 1000",
+  "kind": "tiltbar",
+  "light": "18 x 40 W RGBL",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": 195,
+  "channels": [
+   20,
+   33,
+   48,
+   84,
+   63,
+   81
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "18 linear",
+  "sizeMm": null,
+  "weightKg": 27,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/impression-x5-ip-bar-1000-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "IP65"
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "X5 atom",
+  "kind": "par",
+  "light": "1 x 40 W RGBL",
+  "beamDeg": [
+   3.5,
+   32
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   17,
+   60,
+   84
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 2.5,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/static-lights/x5-atom-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "X5 dot",
+  "kind": "par",
+  "light": "1 x RGBL (10-20 W)",
+  "beamDeg": [
+   16,
+   68
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   9,
+   12,
+   11
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/static-lights/x5-dot-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "impression FR1",
+  "kind": "wash",
+  "light": "1 x 60 W RGBW",
+  "beamDeg": [
+   3.7,
+   35
+  ],
+  "pan": 629,
+  "tilt": 210,
+  "channels": [
+   16
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   190,
+   264,
+   140
+  ],
+  "weightKg": 4,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/impression-fr1-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "ofl:glp/impression-fr1",
+  "notes": "Pan endlos"
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "impression FR1 TM",
+  "kind": "wash",
+  "light": "1 x 60 W RGB",
+  "beamDeg": [
+   3.7,
+   35
+  ],
+  "pan": 629,
+  "tilt": 210,
+  "channels": [
+   16
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   190,
+   264,
+   140
+  ],
+  "weightKg": 4,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/impression-fr1-tm-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:glp/impression-fr1-tm",
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "impression FR2",
+  "kind": "wash",
+  "light": "1 x 150 W RGBL + FX-Layer 32 RGBW in 3 Ringen",
+  "beamDeg": [
+   3,
+   34
+  ],
+  "pan": null,
+  "tilt": 230,
+  "channels": [
+   18,
+   28,
+   40,
+   52,
+   171,
+   427
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": "32 RGBW-LEDs in 3 Ringen",
+  "pixels": null,
+  "sizeMm": [
+   250,
+   311,
+   185
+  ],
+  "weightKg": 5.2,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/impression-fr2-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Pan endlos"
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "impression FR10 Bar",
+  "kind": "tiltbar",
+  "light": "10 x RGB",
+  "beamDeg": [
+   3.7,
+   34
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   25,
+   51,
+   57,
+   79
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "10 linear",
+  "sizeMm": null,
+  "weightKg": 24,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/impression-fr10-bar-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Einzelköpfe endlos drehbar"
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "impression S500 Profile",
+  "kind": "profile",
+  "light": "500 W LED weiß (HC 6000 K / HO 7000 K)",
+  "beamDeg": [
+   7.5,
+   40
+  ],
+  "pan": 540,
+  "tilt": 256,
+  "channels": [
+   35
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "gobo-rot",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "framing",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   472,
+   651,
+   230
+  ],
+  "weightKg": 26.9,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/impression-s500-profile-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "impression S500 Wash",
+  "kind": "wash",
+  "light": "500 W LED weiß (High-CRI)",
+  "beamDeg": [
+   7,
+   65
+  ],
+  "pan": 540,
+  "tilt": 256,
+  "channels": [
+   27
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "zoom",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   472,
+   652,
+   230
+  ],
+  "weightKg": 26.6,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/impression-s500-wash-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "Creos",
+  "kind": "wash",
+  "light": "18 x 40 W RGBL",
+  "beamDeg": [
+   4,
+   50
+  ],
+  "pan": null,
+  "tilt": 190,
+  "channels": [
+   22,
+   34,
+   42,
+   51,
+   87,
+   66,
+   84
+  ],
+  "features": [
+   "colorwheel",
+   "frost",
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "18",
+  "sizeMm": [
+   388,
+   375,
+   218
+  ],
+  "weightKg": 20.3,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/creos-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "MAD MAXX",
+  "kind": "beam",
+  "light": "19 x 90 W LED weiß (7000 K)",
+  "beamDeg": [
+   1.6,
+   1.6
+  ],
+  "pan": 540,
+  "tilt": 200,
+  "channels": [
+   15,
+   22,
+   70
+  ],
+  "features": [
+   "cto",
+   "colorwheel",
+   "gobo-static",
+   "focus",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "19 (Hex)",
+  "sizeMm": null,
+  "weightKg": 208,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/mad-maxx-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Großer Beam-Strahler, 208 kg"
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "WildWash 12",
+  "kind": "wash",
+  "light": "12 x 40 W RGBL",
+  "beamDeg": [
+   3.5,
+   54
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "12",
+  "sizeMm": [
+   345,
+   484,
+   264
+  ],
+  "weightKg": 18.7,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/wildwash-12-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "WildBar 8",
+  "kind": "tiltbar",
+  "light": "8 x 40 W RGBL",
+  "beamDeg": [
+   4,
+   44
+  ],
+  "pan": null,
+  "tilt": 200,
+  "channels": [],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "8 linear",
+  "sizeMm": [
+   500,
+   321,
+   113
+  ],
+  "weightKg": 13.5,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/wildbar-8-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "WildBar 16",
+  "kind": "tiltbar",
+  "light": "16 x 40 W RGBL",
+  "beamDeg": [
+   4,
+   44
+  ],
+  "pan": null,
+  "tilt": 200,
+  "channels": [
+   28,
+   79
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "16 linear",
+  "sizeMm": [
+   1000,
+   306,
+   113
+  ],
+  "weightKg": 23,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/wildbar-16-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "TWYN",
+  "kind": "matrixhead",
+  "light": "9 x 40 W RGBL (3x3) + 480 RGBW-LEDs in 24 Segmenten + 36 x 17 W Strobe weiß",
+  "beamDeg": [
+   80,
+   80
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "3x3 + 24 Segmente",
+  "sizeMm": [
+   331,
+   11,
+   219
+  ],
+  "weightKg": 16,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/twyn-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Pan/Tilt 360° endlos"
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "Agilio",
+  "kind": "spot",
+  "light": "1 x 100 W LED weiß",
+  "beamDeg": [
+   17,
+   36
+  ],
+  "pan": 450,
+  "tilt": 200,
+  "channels": [
+   7,
+   15
+  ],
+  "features": [
+   "zoom",
+   "gobo-static"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   278,
+   389,
+   125
+  ],
+  "weightKg": 4.9,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/agilio-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "Exo Beam 10",
+  "kind": "beam",
+  "light": "90 W LED weiß",
+  "beamDeg": [
+   1,
+   1
+  ],
+  "pan": 540,
+  "tilt": 244,
+  "channels": [
+   15,
+   10
+  ],
+  "features": [
+   "colorwheel",
+   "gobo-static",
+   "prism",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   380,
+   569,
+   279
+  ],
+  "weightKg": 25.5,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/fusion-exo-beam-10-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "Exo Hybrid 40",
+  "kind": "hybrid",
+  "light": "380 W LED weiß",
+  "beamDeg": [
+   3.8,
+   48
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "channels": [
+   27,
+   10,
+   22
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "gobo-rot",
+   "prism",
+   "frost",
+   "zoom",
+   "animation"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   429,
+   569,
+   314
+  ],
+  "weightKg": 25,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/fusion-exo-hybrid-40-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "Exo Spot 30",
+  "kind": "spot",
+  "light": "230 W LED weiß",
+  "beamDeg": [
+   7,
+   30
+  ],
+  "pan": 540,
+  "tilt": 249,
+  "channels": [
+   23,
+   30
+  ],
+  "features": [
+   "cmy",
+   "gobo-rot",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   380,
+   507,
+   368
+  ],
+  "weightKg": 26,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/fusion-exo-spot-30-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "Exo Wash 30",
+  "kind": "wash",
+  "light": "7 x 40 W RGBW",
+  "beamDeg": [
+   4,
+   54
+  ],
+  "pan": 540,
+  "tilt": 267,
+  "channels": [
+   13,
+   22,
+   37,
+   50
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   380,
+   521,
+   279
+  ],
+  "weightKg": 19.7,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/fusion-exo-wash-30-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "FUSION X-PAR 8Z",
+  "kind": "par",
+  "light": "1 x 80 W RGBL",
+  "beamDeg": [
+   7.5,
+   45
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   8,
+   11,
+   16
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   212,
+   172,
+   249
+  ],
+  "weightKg": 4.5,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/static-lights/fusion-x-par-8z-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "FUSION X-PAR 12Z",
+  "kind": "par",
+  "light": "1 x 120 W RGBL",
+  "beamDeg": [
+   8.5,
+   55
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   6,
+   6,
+   8,
+   11,
+   16
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   245,
+   245,
+   254
+  ],
+  "weightKg": 6.9,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/static-lights/fusion-x-par-12z-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "FUSION X-PAR 18Z",
+  "kind": "par",
+  "light": "1 x 180 W RGBL",
+  "beamDeg": [
+   8.5,
+   55
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   6,
+   6,
+   8,
+   11,
+   16
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   245,
+   245,
+   298
+  ],
+  "weightKg": 8.8,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/static-lights/fusion-x-par-18z-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "Matrix Eye 2",
+  "kind": "blinder",
+  "light": "2 Köpfe RGBAL (je max. 350 W)",
+  "beamDeg": [
+   60,
+   60
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   19,
+   38,
+   6
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "2 Köpfe",
+  "sizeMm": [
+   400,
+   200,
+   246
+  ],
+  "weightKg": 3,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/static-lights/matrix-eye-2-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:glp/matrix-eye-2",
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "Matrix Eye 4",
+  "kind": "blinder",
+  "light": "4 Köpfe RGBAL (je max. 350 W)",
+  "beamDeg": [
+   60,
+   60
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   19,
+   76,
+   12
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "2x2 Köpfe",
+  "sizeMm": [
+   400,
+   400,
+   246
+  ],
+  "weightKg": 5.6,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/static-lights/matrix-eye-4-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "qlc:glp/matrix-eye-4",
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "TW dot Pinspot",
+  "kind": "par",
+  "light": "1 x LED warm-/kaltweiß (10-20 W)",
+  "beamDeg": [
+   7,
+   7
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   7
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/static-lights/tw-dot-pinspot-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "TW dot Wash",
+  "kind": "par",
+  "light": "1 x LED warm-/kaltweiß (10-20 W)",
+  "beamDeg": [
+   16,
+   68
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   9,
+   12,
+   11
+  ],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/static-lights/tw-dot-wash-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "JDC Burst 1",
+  "kind": "strobe",
+  "light": "Beam 144 x LED weiß (700 W) + Plate 1200 x RGB (700 W)",
+  "beamDeg": [
+   150,
+   150
+  ],
+  "pan": null,
+  "tilt": 185,
+  "channels": [
+   19,
+   37,
+   87,
+   135,
+   231,
+   105,
+   153,
+   249,
+   68,
+   62
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   412,
+   305,
+   193
+  ],
+  "weightKg": 14,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/strobes/jdc-burst-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "JDC Line 1000",
+  "kind": "strobe",
+  "light": "200 x LED weiß + 400 x RGB (0,3 W)",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   32,
+   68,
+   168,
+   94,
+   196,
+   316,
+   78
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 12,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/strobes/jdc-line-1000-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "vd:glp/jdc-line-1000",
+  "notes": "Abstrahlwinkel 150°/64° (Halbwert)"
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "JDC Line 500",
+  "kind": "strobe",
+  "light": "100 x LED weiß + 200 x RGB (0,3 W)",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   16,
+   34,
+   84,
+   47,
+   98,
+   158,
+   38
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   507,
+   74,
+   202
+  ],
+  "weightKg": 6,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/strobes/jdc-line-500-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Abstrahlwinkel 150°/64° (Halbwert)"
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "JDC2 IP",
+  "kind": "strobe",
+  "light": "Beam 84 x LED weiß + Plate 1728 x RGB",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": 184,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   444,
+   452,
+   230
+  ],
+  "weightKg": 23.5,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/strobes/jdc2-ip-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "vd:glp/jdc2-ip",
+  "notes": "IP65, motorisiert kippbar"
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "Nexus Circle",
+  "kind": "matrix",
+  "light": "63 RGBW-Pixel",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "63 (Kreis)",
+  "sizeMm": [
+   167,
+   41,
+   167
+  ],
+  "weightKg": 0.43,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/nexus-lights/nexus-circle-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Akkubetrieb"
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "Nexus Square",
+  "kind": "matrix",
+  "light": "64 RGBW-Pixel",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "64 (Quadrat)",
+  "sizeMm": [
+   167,
+   41,
+   167
+  ],
+  "weightKg": 0.52,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/nexus-lights/nexus-square-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Akkubetrieb"
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "Nexus Line",
+  "kind": "bar",
+  "light": "48 RGBW-Pixel",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "48 linear",
+  "sizeMm": [
+   500,
+   41,
+   42
+  ],
+  "weightKg": 0.49,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/nexus-lights/nexus-line-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Akkubetrieb"
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "Nexus HiLite",
+  "kind": "bar",
+  "light": "62 LEDs weiß",
+  "beamDeg": [
+   90,
+   90
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   42,
+   41,
+   167
+  ],
+  "weightKg": 0.5,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/nexus-lights/nexus-hilite-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Akkubetrieb"
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "Nexus Uplight",
+  "kind": "par",
+  "light": "1 x RGBL",
+  "beamDeg": [
+   13,
+   66
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 1.6,
+  "url": "https://www.glp.de/en/products/entertainment-lighting/nexus-lights/nexus-uplight-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Akkubetrieb"
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "ArenaLED1 Touring",
+  "kind": "flood",
+  "light": "36 x 6 W weiß 5700 K (Color-Version 9 x RGB...)",
+  "beamDeg": [
+   15,
+   15
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   5,
+   7,
+   11,
+   34
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   209,
+   209,
+   200
+  ],
+  "weightKg": 7.5,
+  "url": "https://www.glp.de/en/products/glp-sports-lighting/sports-lighting/arenaled1-touring-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Sport/Arena-Fluter"
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "ArenaLED3",
+  "kind": "flood",
+  "light": "108 x 6 W weiß 5700 K (Color-Version 27 LEDs)",
+  "beamDeg": [
+   15,
+   15
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   5,
+   8
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   794,
+   301,
+   242
+  ],
+  "weightKg": 31,
+  "url": "https://www.glp.de/en/products/glp-sports-lighting/sports-lighting/arenaled3-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Sport/Arena-Fluter"
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "Force 120",
+  "kind": "effect",
+  "light": "interne RGB-LED-Beleuchtung",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   120
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 94,
+  "url": "https://www.glp.de/en/products/stage-effects-root/stage-effects/force-120-en",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": "ofl:glp/force-120",
+  "notes": "Hochleistungs-Windmaschine (Ventilator, Richtung variabel) mit RGB-LEDs"
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "impression X4",
+  "kind": "wash",
+  "light": "19 x 15 W (RGB-Mischung lt. Hersteller)",
+  "beamDeg": [
+   7,
+   50
+  ],
+  "pan": 623,
+  "tilt": 295,
+  "channels": [],
+  "features": [
+   "cto",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   340,
+   385,
+   242
+  ],
+  "weightKg": 7.5,
+  "url": "https://www.glp.de/en/products/discontinued/impression-x4-en",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:glp/impression-x4",
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "impression X4 S",
+  "kind": "wash",
+  "light": "7 x 15 W (RGB-Mischung lt. Hersteller)",
+  "beamDeg": [
+   7,
+   50
+  ],
+  "pan": 660,
+  "tilt": 230,
+  "channels": [],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   224,
+   324,
+   166
+  ],
+  "weightKg": 5.5,
+  "url": "https://www.glp.de/en/products/discontinued/impression-x4-s-en",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:glp/impression-x4-s",
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "impression X4 L",
+  "kind": "wash",
+  "light": "37 x 15 W (RGB-Mischung lt. Hersteller)",
+  "beamDeg": [
+   7,
+   50
+  ],
+  "pan": 608,
+  "tilt": 243,
+  "channels": [],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   185,
+   530,
+   430
+  ],
+  "weightKg": 17,
+  "url": "https://www.glp.de/en/products/discontinued/impression-x4-l-en",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "impression X4 XL",
+  "kind": "wash",
+  "light": "55 x 15 W (RGB-Mischung lt. Hersteller)",
+  "beamDeg": [
+   7,
+   50
+  ],
+  "pan": 643,
+  "tilt": 295,
+  "channels": [],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   493,
+   493,
+   293
+  ],
+  "weightKg": 24,
+  "url": "https://www.glp.de/en/products/discontinued/impression-x4-xl-en",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "vd:glp/impression-x4-xl",
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "impression X4 Bar 10",
+  "kind": "tiltbar",
+  "light": "10 x 15 W",
+  "beamDeg": [
+   7,
+   50
+  ],
+  "pan": null,
+  "tilt": 210,
+  "channels": [],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "10 linear",
+  "sizeMm": [
+   500,
+   240,
+   100
+  ],
+  "weightKg": 8,
+  "url": "https://www.glp.de/en/products/discontinued/impression-x4-bar-10-en",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:glp/impression-x4-bar-10",
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "impression X4 Bar 20",
+  "kind": "tiltbar",
+  "light": "20 x 15 W",
+  "beamDeg": [
+   7,
+   50
+  ],
+  "pan": null,
+  "tilt": 210,
+  "channels": [],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "20 linear",
+  "sizeMm": null,
+  "weightKg": 16,
+  "url": "https://www.glp.de/en/products/discontinued/impression-x4-bar-20-en",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "vd:glp/impression-x4-bar-20",
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "X4 atom",
+  "kind": "par",
+  "light": "1 x 15 W",
+  "beamDeg": [
+   3.5,
+   34
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   127,
+   196,
+   127
+  ],
+  "weightKg": 1.8,
+  "url": "https://www.glp.de/en/products/discontinued/x4-atom-en",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "impression S350",
+  "kind": "profile",
+  "light": "350 W LED weiß 6000 K",
+  "beamDeg": [
+   8,
+   42
+  ],
+  "pan": 565,
+  "tilt": 256,
+  "channels": [],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "gobo-rot",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   471,
+   642,
+   474
+  ],
+  "weightKg": 25.5,
+  "url": "https://www.glp.de/en/products/discontinued/impression-s350-en",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "vd:glp/impression-s350",
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "impression S350 Wash",
+  "kind": "wash",
+  "light": "350 W LED weiß 6000 K",
+  "beamDeg": [
+   7,
+   65
+  ],
+  "pan": 565,
+  "tilt": 256,
+  "channels": [
+   27
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "iris",
+   "zoom",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   474,
+   642,
+   650
+  ],
+  "weightKg": 25.5,
+  "url": "https://www.glp.de/en/products/discontinued/impression-s350-wash-en",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "impression E350",
+  "kind": "spot",
+  "light": "350 W LED weiß 7500 K",
+  "beamDeg": [
+   8,
+   42
+  ],
+  "pan": 565,
+  "tilt": 256,
+  "channels": [],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "gobo-rot",
+   "prism",
+   "frost",
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   471,
+   642,
+   474
+  ],
+  "weightKg": 25.5,
+  "url": "https://www.glp.de/en/products/discontinued/impression-e350-en",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "impression Spot One",
+  "kind": "spot",
+  "light": "RGB LED (400 W)",
+  "beamDeg": [
+   10,
+   32
+  ],
+  "pan": 540,
+  "tilt": 280,
+  "channels": [],
+  "features": [
+   "prism",
+   "iris",
+   "zoom",
+   "focus",
+   "gobo-rot"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   229,
+   618,
+   472
+  ],
+  "weightKg": 22,
+  "url": "https://www.glp.de/en/products/discontinued/impression-spot-one-en",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:glp/impression-spot-one",
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "impression Wash One",
+  "kind": "wash",
+  "light": "RGB LED",
+  "beamDeg": [
+   6,
+   60
+  ],
+  "pan": 540,
+  "tilt": 280,
+  "channels": [],
+  "features": [
+   "frost",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 22,
+  "url": "https://www.glp.de/en/products/discontinued/impression-wash-one-en",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "impression X1",
+  "kind": "beam",
+  "light": "4 x Osram Ostar",
+  "beamDeg": null,
+  "pan": 660,
+  "tilt": 300,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   140,
+   255,
+   195
+  ],
+  "weightKg": 3.1,
+  "url": "https://www.glp.de/en/products/discontinued/impression-x1-en",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": "Pan/Tilt auch endlos 360°"
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "impression Laser",
+  "kind": "laser",
+  "light": null,
+  "beamDeg": null,
+  "pan": 660,
+  "tilt": 280,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 8,
+  "url": "https://www.glp.de/en/products/discontinued/impression-laser-en",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:glp/impression-laser",
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "GT-1",
+  "kind": "hybrid",
+  "light": "Entladungslampe",
+  "beamDeg": [
+   3.5,
+   56.7
+  ],
+  "pan": 537,
+  "tilt": 270,
+  "channels": [],
+  "features": [
+   "cmy",
+   "cto",
+   "colorwheel",
+   "gobo-rot",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   472,
+   618,
+   229
+  ],
+  "weightKg": 25,
+  "url": "https://www.glp.de/en/products/discontinued/gt-1-fl-en",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "Highlander Wash",
+  "kind": "wash",
+  "light": "Entladungslampe 6000 K",
+  "beamDeg": [
+   4,
+   61
+  ],
+  "pan": 670,
+  "tilt": 264,
+  "channels": [
+   26,
+   12,
+   19
+  ],
+  "features": [
+   "cmy",
+   "colorwheel",
+   "frost",
+   "zoom",
+   "framing"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 29.5,
+  "url": "https://www.glp.de/en/products/discontinued/highlander-wash-en",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "JDC1",
+  "kind": "strobe",
+  "light": "216 x LED weiß + 1320 x RGB",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": 185,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   390,
+   251,
+   150
+  ],
+  "weightKg": 11.6,
+  "url": "https://www.glp.de/en/products/discontinued/jdc1-en",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:glp/jdc1",
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "XDC1 IP Hybrid",
+  "kind": "strobe",
+  "light": "120 x LED weiß (Flash) + 18 x RGBL Wash",
+  "beamDeg": [
+   10,
+   10
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   21,
+   50,
+   58,
+   113,
+   80,
+   92,
+   53
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   400,
+   300,
+   206
+  ],
+  "weightKg": 22.5,
+  "url": "https://www.glp.de/en/products/discontinued/xdc1-ip-hybrid-en",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "KNV Cube",
+  "kind": "matrix",
+  "light": "25 Power-Pixel (je 16 x RGB 0,25 W + 1 x 30 W weiß)",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "5x5",
+  "sizeMm": [
+   250,
+   250,
+   250
+  ],
+  "weightKg": 9.3,
+  "url": "https://www.glp.de/en/products/discontinued/knv-cube-en",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:glp/knv-cube",
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "KNV Arc",
+  "kind": "matrix",
+  "light": "25 Power-Pixel (je 16 x RGB + 1 x 30 W weiß)",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "25",
+  "sizeMm": [
+   250,
+   250,
+   250
+  ],
+  "weightKg": 9.3,
+  "url": "https://www.glp.de/en/products/discontinued/knv-arc-en",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "ofl:glp/knv-arc",
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "KNV Line",
+  "kind": "bar",
+  "light": "5 Power-Pixel (je 16 x RGB + 1 x 30 W weiß)",
+  "beamDeg": [
+   120,
+   120
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   8,
+   24
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "5 linear",
+  "sizeMm": [
+   249,
+   49,
+   162
+  ],
+  "weightKg": 2.17,
+  "url": "https://www.glp.de/en/products/discontinued/knv-line-en",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "KNV Dot",
+  "kind": "effect",
+  "light": "1 Power-Pixel (16 x RGB + 1 x 30 W weiß)",
+  "beamDeg": [
+   120,
+   120
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   8,
+   24
+  ],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   92,
+   92,
+   76
+  ],
+  "weightKg": 0.7,
+  "url": "https://www.glp.de/en/products/discontinued/knv-dot-en",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "FUSION Stick FS10",
+  "kind": "bar",
+  "light": "10 x 15 W RGBW",
+  "beamDeg": [
+   6,
+   6
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "10 linear",
+  "sizeMm": [
+   525,
+   231,
+   90
+  ],
+  "weightKg": 7.5,
+  "url": "https://www.glp.de/en/products/discontinued/fusion-stick-fs10-en",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "FUSION Stick FS20",
+  "kind": "bar",
+  "light": "20 x 15 W RGBW",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "20 linear",
+  "sizeMm": [
+   1019,
+   231,
+   90
+  ],
+  "weightKg": 12.5,
+  "url": "https://www.glp.de/en/products/discontinued/fusion-stick-fs20-en",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "FUSION Stick FS16 Z",
+  "kind": "bar",
+  "light": "16 x 20 W RGBW",
+  "beamDeg": [
+   10,
+   41
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   4,
+   14,
+   33,
+   79
+  ],
+  "features": [
+   "zoom",
+   "pixel"
+  ],
+  "ring": null,
+  "pixels": "16 linear",
+  "sizeMm": [
+   1023,
+   236,
+   90
+  ],
+  "weightKg": 13,
+  "url": "https://www.glp.de/en/products/discontinued/fusion-stick-fs16-z-en",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "FUSION PAR FP7",
+  "kind": "par",
+  "light": "7 x 30 W RGBW",
+  "beamDeg": [
+   6,
+   6
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   8
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   166,
+   287,
+   237
+  ],
+  "weightKg": 7.7,
+  "url": "https://www.glp.de/en/products/discontinued/fusion-par-fp7-en",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "FUSION Supernova SN70",
+  "kind": "flood",
+  "light": "1372 x RGBW",
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   484,
+   307,
+   250
+  ],
+  "weightKg": 13.5,
+  "url": "https://www.glp.de/en/products/discontinued/fusion-supernova-sn70-en",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "FUSION MBL 20",
+  "kind": "blinder",
+  "light": "27 x kaltweiß + 27 x warmweiß (5 W)",
+  "beamDeg": [
+   100,
+   100
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   5
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   250,
+   270,
+   170
+  ],
+  "weightKg": 5,
+  "url": "https://www.glp.de/en/products/discontinued/fusion-mbl-20-en",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "FUSION MBL 40",
+  "kind": "blinder",
+  "light": "55 x kaltweiß + 55 x warmweiß (5 W)",
+  "beamDeg": [
+   100,
+   100
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   5
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   320,
+   380,
+   217
+  ],
+  "weightKg": 10,
+  "url": "https://www.glp.de/en/products/discontinued/fusion-mbl-40-en",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "GLP",
+  "model": "VOLKS:LICHT Spot",
+  "kind": "spot",
+  "light": "RGB LED",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 280,
+  "channels": [],
+  "features": [
+   "gobo-rot",
+   "prism",
+   "iris",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   318,
+   538,
+   286
+  ],
+  "weightKg": null,
+  "url": "https://www.glp.de/en/products/discontinued/volks-licht-spot-en",
+  "manualUrl": null,
+  "status": "legacy",
+  "inLibrary": "qlc:glp/volkslicht",
+  "notes": null
+ }
+]

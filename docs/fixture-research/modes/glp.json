@@ -1,0 +1,1768 @@
+[
+ {
+  "man": "GLP",
+  "key": "impression-x5-compact",
+  "model": "impression X5 Compact",
+  "kind": "wash",
+  "leds": [
+   7,
+   "rgbl"
+  ],
+  "deg": [
+   3.6,
+   66
+  ],
+  "pan": 540,
+  "tilt": 236,
+  "ch": [
+   22,
+   32,
+   33,
+   36,
+   39,
+   51
+  ],
+  "pixelFrom": 32,
+  "feat": [
+   "pro",
+   "cmy",
+   "zoom"
+  ],
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/impression-x5-compact-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "impression-x5-ip",
+  "model": "impression X5 IP",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbl"
+  ],
+  "pan": 540,
+  "tilt": 230,
+  "ch": [
+   24,
+   35,
+   41,
+   70,
+   89
+  ],
+  "pixelFrom": 89,
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/impression-x5-ip-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "impression-x5-ip-maxx",
+  "model": "impression X5 IP Maxx",
+  "kind": "wash",
+  "leds": [
+   37,
+   "rgbl"
+  ],
+  "pan": 540,
+  "tilt": 240,
+  "ch": [
+   22,
+   33,
+   42,
+   122,
+   141,
+   159
+  ],
+  "pixelFrom": 159,
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/impression-x5-ip-maxx-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "impression-x5-bar-1000",
+  "model": "impression X5 Bar 1000",
+  "kind": "tiltbar",
+  "leds": [
+   18,
+   "rgbl"
+  ],
+  "tilt": 205,
+  "ch": [
+   20,
+   33,
+   48,
+   63,
+   81,
+   84
+  ],
+  "pixelFrom": 81,
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/impression-x5-bar-1000-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "impression-x5-ip-bar-1000",
+  "model": "impression X5 IP Bar 1000",
+  "kind": "tiltbar",
+  "leds": [
+   18,
+   "rgbl"
+  ],
+  "tilt": 195,
+  "ch": [
+   20,
+   33,
+   48,
+   63,
+   81,
+   84
+  ],
+  "pixelFrom": 81,
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/impression-x5-ip-bar-1000-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "x5-atom",
+  "model": "X5 atom",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   3.5,
+   32
+  ],
+  "ch": [
+   17,
+   60,
+   84
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.glp.de/en/products/entertainment-lighting/static-lights/x5-atom-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "x5-dot",
+  "model": "X5 dot",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   16,
+   68
+  ],
+  "ch": [
+   6,
+   9,
+   11,
+   12
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.glp.de/en/products/entertainment-lighting/static-lights/x5-dot-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "impression-fr2",
+  "model": "impression FR2",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "ring": [
+   32,
+   "rgbw"
+  ],
+  "deg": [
+   3,
+   34
+  ],
+  "tilt": 230,
+  "ch": [
+   18,
+   28,
+   40,
+   52,
+   171,
+   427
+  ],
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/impression-fr2-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "impression-fr10-bar",
+  "model": "impression FR10 Bar",
+  "kind": "tiltbar",
+  "leds": [
+   10,
+   "rgb"
+  ],
+  "deg": [
+   3.7,
+   34
+  ],
+  "ch": [
+   25,
+   51,
+   57,
+   79
+  ],
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/impression-fr10-bar-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "impression-s500-profile",
+  "model": "impression S500 Profile",
+  "kind": "profile",
+  "deg": [
+   7.5,
+   40
+  ],
+  "pan": 540,
+  "tilt": 256,
+  "ch": [
+   35
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "gobo:14",
+   "gobor",
+   "anim",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://glp.de/files/products/impression-s500-profile-product-data/GLP_impression_S500_Profile_DMX_Channel_Index_EN_Rev20250116-02.pdf",
+  "note": "Kanalfolge aus GLP DMX Channel Index impression S500 Profile HO/HC (Rev. 20250116-02, Firmware 0.4.3); einziger Modus.",
+  "verified": true,
+  "modes": [
+   {
+    "name": "35CH Normal",
+    "channels": [
+     {
+      "name": "Pan",
+      "attr": "pan",
+      "byte": 0
+     },
+     {
+      "name": "Pan fine",
+      "attr": "pan",
+      "byte": 1
+     },
+     {
+      "name": "Tilt",
+      "attr": "tilt",
+      "byte": 0
+     },
+     {
+      "name": "Tilt fine",
+      "attr": "tilt",
+      "byte": 1
+     },
+     {
+      "name": "Colour wheel",
+      "attr": "colorWheel",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 3,
+        "kind": "color",
+        "color": "#ffffff",
+        "label": "Open"
+       },
+       {
+        "from": 4,
+        "to": 7,
+        "kind": "color",
+        "color": "#3010a0",
+        "label": "Congo blue (UV)"
+       },
+       {
+        "from": 8,
+        "to": 11,
+        "kind": "color",
+        "color": "#20ff40",
+        "label": "Green"
+       },
+       {
+        "from": 12,
+        "to": 15,
+        "kind": "color",
+        "color": "#ff8000",
+        "label": "Orange"
+       },
+       {
+        "from": 16,
+        "to": 19,
+        "kind": "color",
+        "color": "#ff20c0",
+        "label": "Magenta"
+       },
+       {
+        "from": 20,
+        "to": 23,
+        "kind": "color",
+        "color": "#2040ff",
+        "label": "Blue"
+       },
+       {
+        "from": 24,
+        "to": 27,
+        "kind": "color",
+        "color": "#ffd0a0",
+        "label": "CTC 1"
+       },
+       {
+        "from": 28,
+        "to": 31,
+        "kind": "color",
+        "color": "#ffd0a0",
+        "label": "CTC 2"
+       },
+       {
+        "from": 32,
+        "to": 35,
+        "kind": "color",
+        "color": "#ffd0a0",
+        "label": "CTC 3 (high CRI)"
+       },
+       {
+        "from": 36,
+        "to": 39,
+        "kind": "color",
+        "color": "#ff90d0",
+        "label": "Minus green"
+       },
+       {
+        "from": 40,
+        "to": 43,
+        "kind": "color",
+        "color": "#ff2010",
+        "label": "Red"
+       },
+       {
+        "from": 44,
+        "to": 167,
+        "kind": "generic",
+        "label": "Colour wheel indexing"
+       },
+       {
+        "from": 168,
+        "to": 225,
+        "kind": "generic",
+        "label": "Colour wheel rotation"
+       }
+      ]
+     },
+     {
+      "name": "Cyan",
+      "attr": "cyan",
+      "byte": 0
+     },
+     {
+      "name": "Magenta",
+      "attr": "magenta",
+      "byte": 0
+     },
+     {
+      "name": "Yellow",
+      "attr": "yellow",
+      "byte": 0
+     },
+     {
+      "name": "CTC",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Gobo wheel 1 / gobo select",
+      "attr": "gobo",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 15,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 16,
+        "to": 31,
+        "kind": "gobo",
+        "gobo": 1,
+        "label": "Crazy loops"
+       },
+       {
+        "from": 32,
+        "to": 47,
+        "kind": "gobo",
+        "gobo": 2,
+        "label": "Block of lines"
+       },
+       {
+        "from": 48,
+        "to": 63,
+        "kind": "gobo",
+        "gobo": 3,
+        "label": "Crossed lines"
+       },
+       {
+        "from": 64,
+        "to": 79,
+        "kind": "gobo",
+        "gobo": 4,
+        "label": "Zigzag"
+       },
+       {
+        "from": 80,
+        "to": 95,
+        "kind": "gobo",
+        "gobo": 5,
+        "label": "Ornament"
+       },
+       {
+        "from": 96,
+        "to": 111,
+        "kind": "gobo",
+        "gobo": 6,
+        "label": "Zebra"
+       },
+       {
+        "from": 112,
+        "to": 127,
+        "kind": "gobo",
+        "gobo": 7,
+        "label": "Bad painter"
+       },
+       {
+        "from": 128,
+        "to": 255,
+        "kind": "generic",
+        "label": "Gobo wheel rotation"
+       }
+      ]
+     },
+     {
+      "name": "Gobo wheel 1 position",
+      "attr": "goboRotation",
+      "byte": 0
+     },
+     {
+      "name": "Gobo wheel 1 position fine",
+      "attr": "goboRotation",
+      "byte": 1
+     },
+     {
+      "name": "Gobo wheel 2 (fixed) / gobo select",
+      "attr": "gobo",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 7,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 8,
+        "to": 15,
+        "kind": "gobo",
+        "gobo": 1,
+        "label": "Dots in square"
+       },
+       {
+        "from": 16,
+        "to": 23,
+        "kind": "gobo",
+        "gobo": 2,
+        "label": "Three thirds line"
+       },
+       {
+        "from": 24,
+        "to": 31,
+        "kind": "gobo",
+        "gobo": 3,
+        "label": "Ants"
+       },
+       {
+        "from": 32,
+        "to": 39,
+        "kind": "gobo",
+        "gobo": 4,
+        "label": "Big dots"
+       },
+       {
+        "from": 40,
+        "to": 47,
+        "kind": "gobo",
+        "gobo": 5,
+        "label": "Wave lines"
+       },
+       {
+        "from": 48,
+        "to": 55,
+        "kind": "gobo",
+        "gobo": 6,
+        "label": "Three thirds circle"
+       }
+      ]
+     },
+     {
+      "name": "Shutter",
+      "attr": "shutter",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 15,
+        "kind": "closed",
+        "label": "Blackout"
+       },
+       {
+        "from": 16,
+        "to": 47,
+        "kind": "strobe",
+        "label": "Random strobe flashes"
+       },
+       {
+        "from": 48,
+        "to": 143,
+        "kind": "generic",
+        "label": "Fade / snap effects"
+       },
+       {
+        "from": 144,
+        "to": 199,
+        "kind": "generic",
+        "label": "Pulse 5 - 0.1 s"
+       },
+       {
+        "from": 200,
+        "to": 239,
+        "kind": "strobe",
+        "hz": [
+         1,
+         10
+        ],
+        "label": "Strobe 1 - 10 Hz"
+       },
+       {
+        "from": 240,
+        "to": 255,
+        "kind": "open",
+        "label": "Open"
+       }
+      ]
+     },
+     {
+      "name": "Intensity",
+      "attr": "dimmer",
+      "byte": 0
+     },
+     {
+      "name": "Intensity fine",
+      "attr": "dimmer",
+      "byte": 1
+     },
+     {
+      "name": "Focus",
+      "attr": "focus",
+      "byte": 0
+     },
+     {
+      "name": "Focus fine",
+      "attr": "focus",
+      "byte": 1
+     },
+     {
+      "name": "Zoom",
+      "attr": "zoom",
+      "byte": 0
+     },
+     {
+      "name": "Frost",
+      "attr": "frost",
+      "byte": 0
+     },
+     {
+      "name": "Prism",
+      "attr": "prism",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 7,
+        "kind": "open",
+        "label": "No prism"
+       },
+       {
+        "from": 8,
+        "to": 255,
+        "kind": "prism",
+        "label": "Prism (rotation fast - slow - fast)"
+       }
+      ]
+     },
+     {
+      "name": "Effect wheel position",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Effect wheel rotation",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Framing module position",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 1 (PI position / LR left)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 1 (PI index / LR right)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 2 (PI position / LR left)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 2 (PI index / LR right)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 3 (PI position / LR left)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 3 (PI index / LR right)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 4 (PI position / LR left)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 4 (PI index / LR right)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Control / special",
+      "attr": "control",
+      "byte": 0
+     },
+     {
+      "name": "FX1 selection",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "FX1 adjustment",
+      "attr": "other",
+      "byte": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "man": "GLP",
+  "key": "impression-s500-wash",
+  "model": "impression S500 Wash",
+  "kind": "wash",
+  "deg": [
+   7,
+   65
+  ],
+  "pan": 540,
+  "tilt": 256,
+  "ch": [
+   27
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://glp.de/files/products/impression-s500-wash-product-data/GLP_impression_S500_Wash_DMX_Channel_Index_EN_Rev20241209-02.pdf",
+  "note": "Kanalfolge aus GLP DMX Channel Index impression S500 Wash (Rev. 20241209-02); einziger Modus.",
+  "verified": true,
+  "modes": [
+   {
+    "name": "27CH Normal",
+    "channels": [
+     {
+      "name": "Pan",
+      "attr": "pan",
+      "byte": 0
+     },
+     {
+      "name": "Pan fine",
+      "attr": "pan",
+      "byte": 1
+     },
+     {
+      "name": "Tilt",
+      "attr": "tilt",
+      "byte": 0
+     },
+     {
+      "name": "Tilt fine",
+      "attr": "tilt",
+      "byte": 1
+     },
+     {
+      "name": "Colour wheel",
+      "attr": "colorWheel",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 3,
+        "kind": "color",
+        "color": "#ffffff",
+        "label": "Open"
+       },
+       {
+        "from": 4,
+        "to": 7,
+        "kind": "color",
+        "color": "#3010a0",
+        "label": "Congo blue (UV)"
+       },
+       {
+        "from": 8,
+        "to": 11,
+        "kind": "color",
+        "color": "#20ff40",
+        "label": "Green"
+       },
+       {
+        "from": 12,
+        "to": 15,
+        "kind": "color",
+        "color": "#ff8000",
+        "label": "Orange"
+       },
+       {
+        "from": 16,
+        "to": 19,
+        "kind": "color",
+        "color": "#ff20c0",
+        "label": "Magenta"
+       },
+       {
+        "from": 20,
+        "to": 23,
+        "kind": "color",
+        "color": "#2040ff",
+        "label": "Blue"
+       },
+       {
+        "from": 24,
+        "to": 27,
+        "kind": "color",
+        "color": "#ffd0a0",
+        "label": "CTC 1"
+       },
+       {
+        "from": 28,
+        "to": 31,
+        "kind": "color",
+        "color": "#ffd0a0",
+        "label": "CTC 2"
+       },
+       {
+        "from": 32,
+        "to": 35,
+        "kind": "color",
+        "color": "#ffd0a0",
+        "label": "CTC 3 (high CRI)"
+       },
+       {
+        "from": 36,
+        "to": 39,
+        "kind": "color",
+        "color": "#ff90d0",
+        "label": "Minus green"
+       },
+       {
+        "from": 40,
+        "to": 43,
+        "kind": "color",
+        "color": "#ff2010",
+        "label": "Red"
+       },
+       {
+        "from": 44,
+        "to": 167,
+        "kind": "generic",
+        "label": "Colour wheel indexing"
+       },
+       {
+        "from": 168,
+        "to": 225,
+        "kind": "generic",
+        "label": "Colour wheel rotation"
+       }
+      ]
+     },
+     {
+      "name": "Cyan",
+      "attr": "cyan",
+      "byte": 0
+     },
+     {
+      "name": "Magenta",
+      "attr": "magenta",
+      "byte": 0
+     },
+     {
+      "name": "Yellow",
+      "attr": "yellow",
+      "byte": 0
+     },
+     {
+      "name": "CTC",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Shutter",
+      "attr": "shutter",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 15,
+        "kind": "closed",
+        "label": "Blackout"
+       },
+       {
+        "from": 16,
+        "to": 47,
+        "kind": "strobe",
+        "label": "Random strobe flashes"
+       },
+       {
+        "from": 48,
+        "to": 143,
+        "kind": "generic",
+        "label": "Fade / snap effects"
+       },
+       {
+        "from": 144,
+        "to": 199,
+        "kind": "generic",
+        "label": "Pulse 5 - 0.1 s"
+       },
+       {
+        "from": 200,
+        "to": 239,
+        "kind": "strobe",
+        "hz": [
+         1,
+         10
+        ],
+        "label": "Strobe 1 - 10 Hz"
+       },
+       {
+        "from": 240,
+        "to": 255,
+        "kind": "open",
+        "label": "Open"
+       }
+      ]
+     },
+     {
+      "name": "Intensity",
+      "attr": "dimmer",
+      "byte": 0
+     },
+     {
+      "name": "Intensity fine",
+      "attr": "dimmer",
+      "byte": 1
+     },
+     {
+      "name": "Focus (beam softness)",
+      "attr": "focus",
+      "byte": 0
+     },
+     {
+      "name": "Zoom",
+      "attr": "zoom",
+      "byte": 0
+     },
+     {
+      "name": "Framing module position",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 1 (PI position / LR left)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 1 (PI index / LR right)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 2 (PI position / LR left)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 2 (PI index / LR right)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 3 (PI position / LR left)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 3 (PI index / LR right)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 4 (PI position / LR left)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Blade 4 (PI index / LR right)",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Iris",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Control / special",
+      "attr": "control",
+      "byte": 0
+     },
+     {
+      "name": "FX1 selection",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "FX1 adjustment",
+      "attr": "other",
+      "byte": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "man": "GLP",
+  "key": "creos",
+  "model": "Creos",
+  "kind": "wash",
+  "leds": [
+   18,
+   "rgbl"
+  ],
+  "deg": [
+   4,
+   50
+  ],
+  "tilt": 190,
+  "ch": [
+   22,
+   34,
+   42,
+   51,
+   66,
+   84,
+   87
+  ],
+  "pixelFrom": 84,
+  "feat": [
+   "pro",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/creos-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "mad-maxx",
+  "model": "MAD MAXX",
+  "kind": "beam",
+  "deg": [
+   1.6,
+   1.6
+  ],
+  "pan": 540,
+  "tilt": 200,
+  "ch": [
+   15,
+   22,
+   70
+  ],
+  "feat": [
+   "pro",
+   "cto",
+   "gobo:14",
+   "focus"
+  ],
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/mad-maxx-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "wildbar-16",
+  "model": "WildBar 16",
+  "kind": "tiltbar",
+  "leds": [
+   16,
+   "rgbl"
+  ],
+  "deg": [
+   4,
+   44
+  ],
+  "tilt": 200,
+  "ch": [
+   28,
+   79
+  ],
+  "pixelFrom": 79,
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/wildbar-16-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "agilio",
+  "model": "Agilio",
+  "kind": "spot",
+  "deg": [
+   17,
+   36
+  ],
+  "pan": 450,
+  "tilt": 200,
+  "ch": [
+   7,
+   15
+  ],
+  "feat": [
+   "pro",
+   "gobo:14",
+   "zoom"
+  ],
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/agilio-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "exo-beam-10",
+  "model": "Exo Beam 10",
+  "kind": "beam",
+  "deg": [
+   1,
+   1
+  ],
+  "pan": 540,
+  "tilt": 244,
+  "ch": [
+   10,
+   15
+  ],
+  "feat": [
+   "pro",
+   "gobo:14",
+   "prism",
+   "focus"
+  ],
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/fusion-exo-beam-10-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "exo-hybrid-40",
+  "model": "Exo Hybrid 40",
+  "kind": "hybrid",
+  "deg": [
+   3.8,
+   48
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "ch": [
+   10,
+   22,
+   27
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "gobo:14",
+   "gobor",
+   "anim",
+   "prism",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/fusion-exo-hybrid-40-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "exo-spot-30",
+  "model": "Exo Spot 30",
+  "kind": "spot",
+  "deg": [
+   7,
+   30
+  ],
+  "pan": 540,
+  "tilt": 249,
+  "ch": [
+   23,
+   30
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "gobo:14",
+   "gobor",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/fusion-exo-spot-30-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "exo-wash-30",
+  "model": "Exo Wash 30",
+  "kind": "wash",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   54
+  ],
+  "pan": 540,
+  "tilt": 267,
+  "ch": [
+   13,
+   22,
+   37,
+   50
+  ],
+  "pixelFrom": 37,
+  "feat": [
+   "pro",
+   "zoom"
+  ],
+  "url": "https://www.glp.de/en/products/entertainment-lighting/moving-lights/fusion-exo-wash-30-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "fusion-x-par-8z",
+  "model": "FUSION X-PAR 8Z",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   7.5,
+   45
+  ],
+  "ch": [
+   4,
+   8,
+   11,
+   16
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   212,
+   172,
+   249
+  ],
+  "url": "https://www.glp.de/en/products/entertainment-lighting/static-lights/fusion-x-par-8z-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "fusion-x-par-12z",
+  "model": "FUSION X-PAR 12Z",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   8.5,
+   55
+  ],
+  "ch": [
+   4,
+   6,
+   8,
+   11,
+   16
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   245,
+   245,
+   254
+  ],
+  "url": "https://www.glp.de/en/products/entertainment-lighting/static-lights/fusion-x-par-12z-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "fusion-x-par-18z",
+  "model": "FUSION X-PAR 18Z",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   8.5,
+   55
+  ],
+  "ch": [
+   4,
+   6,
+   8,
+   11,
+   16
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   245,
+   245,
+   298
+  ],
+  "url": "https://www.glp.de/en/products/entertainment-lighting/static-lights/fusion-x-par-18z-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "tw-dot-pinspot",
+  "model": "TW dot Pinspot",
+  "kind": "par",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   7,
+   7
+  ],
+  "ch": [
+   4,
+   7
+  ],
+  "url": "https://www.glp.de/en/products/entertainment-lighting/static-lights/tw-dot-pinspot-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "tw-dot-wash",
+  "model": "TW dot Wash",
+  "kind": "par",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   16,
+   68
+  ],
+  "ch": [
+   6,
+   9,
+   11,
+   12
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.glp.de/en/products/entertainment-lighting/static-lights/tw-dot-wash-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "jdc-burst-1",
+  "model": "JDC Burst 1",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "deg": [
+   150,
+   150
+  ],
+  "ch": [
+   19,
+   37,
+   62,
+   68,
+   87,
+   105,
+   135,
+   153,
+   231,
+   249
+  ],
+  "size": [
+   412,
+   305,
+   193
+  ],
+  "url": "https://www.glp.de/en/products/entertainment-lighting/strobes/jdc-burst-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "jdc-line-500",
+  "model": "JDC Line 500",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "ch": [
+   16,
+   34,
+   38,
+   47,
+   84,
+   98,
+   158
+  ],
+  "size": [
+   507,
+   74,
+   202
+  ],
+  "url": "https://www.glp.de/en/products/entertainment-lighting/strobes/jdc-line-500-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "arenaled1-touring",
+  "model": "ArenaLED1 Touring",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   15,
+   15
+  ],
+  "ch": [
+   2,
+   5,
+   7,
+   11,
+   34
+  ],
+  "size": [
+   209,
+   209,
+   200
+  ],
+  "url": "https://www.glp.de/en/products/glp-sports-lighting/sports-lighting/arenaled1-touring-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "arenaled3",
+  "model": "ArenaLED3",
+  "kind": "flood",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   15,
+   15
+  ],
+  "ch": [
+   2,
+   5,
+   8
+  ],
+  "size": [
+   794,
+   301,
+   242
+  ],
+  "url": "https://www.glp.de/en/products/glp-sports-lighting/sports-lighting/arenaled3-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "impression-s350-wash",
+  "model": "impression S350 Wash",
+  "kind": "wash",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   7,
+   65
+  ],
+  "pan": 565,
+  "tilt": 256,
+  "ch": [
+   27
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "iris",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.glp.de/en/products/discontinued/impression-s350-wash-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "highlander-wash",
+  "model": "Highlander Wash",
+  "kind": "wash",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   4,
+   61
+  ],
+  "pan": 670,
+  "tilt": 264,
+  "ch": [
+   12,
+   19,
+   26
+  ],
+  "feat": [
+   "pro",
+   "cmy",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://www.glp.de/en/products/discontinued/highlander-wash-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "xdc1-ip-hybrid",
+  "model": "XDC1 IP Hybrid",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "rgbl"
+  ],
+  "deg": [
+   10,
+   10
+  ],
+  "ch": [
+   21,
+   50,
+   53,
+   58,
+   80,
+   92,
+   113
+  ],
+  "size": [
+   400,
+   300,
+   206
+  ],
+  "url": "https://www.glp.de/en/products/discontinued/xdc1-ip-hybrid-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "knv-line",
+  "model": "KNV Line",
+  "kind": "bar",
+  "leds": [
+   5,
+   "rgb"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   8,
+   24
+  ],
+  "pixelFrom": 24,
+  "size": [
+   249,
+   49,
+   162
+  ],
+  "url": "https://www.glp.de/en/products/discontinued/knv-line-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "knv-dot",
+  "model": "KNV Dot",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   8,
+   24
+  ],
+  "size": [
+   92,
+   92,
+   76
+  ],
+  "url": "https://www.glp.de/en/products/discontinued/knv-dot-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "fusion-stick-fs16-z",
+  "model": "FUSION Stick FS16 Z",
+  "kind": "bar",
+  "leds": [
+   16,
+   "rgbw"
+  ],
+  "deg": [
+   10,
+   41
+  ],
+  "ch": [
+   4,
+   14,
+   33,
+   79
+  ],
+  "pixelFrom": 79,
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   1023,
+   236,
+   90
+  ],
+  "url": "https://www.glp.de/en/products/discontinued/fusion-stick-fs16-z-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "fusion-par-fp7",
+  "model": "FUSION PAR FP7",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   6,
+   6
+  ],
+  "ch": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   8
+  ],
+  "size": [
+   166,
+   287,
+   237
+  ],
+  "url": "https://www.glp.de/en/products/discontinued/fusion-par-fp7-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "fusion-mbl-20",
+  "model": "FUSION MBL 20",
+  "kind": "blinder",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   100,
+   100
+  ],
+  "ch": [
+   2,
+   5
+  ],
+  "size": [
+   270,
+   250,
+   170
+  ],
+  "url": "https://www.glp.de/en/products/discontinued/fusion-mbl-20-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "GLP",
+  "key": "fusion-mbl-40",
+  "model": "FUSION MBL 40",
+  "kind": "blinder",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   100,
+   100
+  ],
+  "ch": [
+   2,
+   5
+  ],
+  "size": [
+   380,
+   320,
+   217
+  ],
+  "url": "https://www.glp.de/en/products/discontinued/fusion-mbl-40-en",
+  "note": "Steckbrief aus Herstellerangaben (glp.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

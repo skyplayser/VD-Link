@@ -1,0 +1,524 @@
+[
+ {
+  "man": "KIMU",
+  "key": "14pcs-6w-stage-wash-par-light-stage",
+  "model": "14pcs*6W Stage Wash Par Light Stage",
+  "kind": "par",
+  "leds": [
+   14,
+   "rgbw"
+  ],
+  "ch": [
+   8
+  ],
+  "size": [
+   520,
+   460,
+   430
+  ],
+  "url": "https://www.kimulighting.com/14pcs-6w-stage-wash-par-disco-dj-light-for-stage-dj-club-disco-lighting-event-show.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (kimulighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "KIMU",
+  "key": "14x15w-aluminum-led-stage-par-light-rgbw-4in1-led-par-ca",
+  "model": "14x15W Aluminum Led Stage Par Light RGBW 4in1 Led Par Can Light",
+  "kind": "par",
+  "leds": [
+   14,
+   "rgbw"
+  ],
+  "ch": [
+   4,
+   8
+  ],
+  "url": "https://www.kimulighting.com/14x15w-dmx-512-full-color-aluminum-led-stage-par-light-disco-dj-show-concert-led-par-can-church-concert-wedding-light.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (kimulighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "KIMU",
+  "key": "14x20w-rgbwy-uv-full-color-waterproof-led-par-light-ligh",
+  "model": "14x20W RGBWY+UV Full Color Waterproof LED Par Light Light Wash",
+  "kind": "par",
+  "leds": [
+   14,
+   "rgbw"
+  ],
+  "ch": [
+   11
+  ],
+  "url": "https://www.kimulighting.com/14x20w-rgbwy-uv-full-color-waterproof-led-par-light-dmx512-wedding-party-light-wash-dj-disco-stage-lighting.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (kimulighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "KIMU",
+  "key": "150w-mini-beam-moving-head-light-18prism-high-brightness",
+  "model": "150W Mini Beam Moving Head Light 18Prism High Brightness LED Spot",
+  "kind": "beam",
+  "ch": [
+   12
+  ],
+  "feat": [
+   "prism"
+  ],
+  "url": "https://www.kimulighting.com/150w-mini-beam-moving-head-light-18prism-high-brightness-led-spot-club-dj-disco-stage-effect-light.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (kimulighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "KIMU",
+  "key": "150w-mini-sharpy-beam-led-spot-rainbow-effect-rgbw-luces",
+  "model": "150W Mini Sharpy Beam LED Spot Rainbow Effect RGBW Luces LED Beam",
+  "kind": "beam",
+  "deg": [
+   3,
+   3
+  ],
+  "ch": [
+   11,
+   13
+  ],
+  "feat": [
+   "prism"
+  ],
+  "url": "https://www.kimulighting.com/150w-mini-sharpy-beam-led-dmx-spot-rainbow-effect-rgbw-luces-dj-event-stage-light-led-beam-moving-head-light.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (kimulighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "KIMU",
+  "key": "18-10w-aluminum-luz-par-led-uplights-rgbw-4in1-par-can-l",
+  "model": "18*10W Aluminum Luz Par LED Uplights RGBW 4in1 Par Can Luces Para",
+  "kind": "par",
+  "leds": [
+   18,
+   "rgbw"
+  ],
+  "ch": [
+   8,
+   9
+  ],
+  "url": "https://www.kimulighting.com/18-10w-aluminum-luz-par-led-uplights-rgbw-4in1-par-can-dmx-dj-disco-lights-party-stage-effect-luces-para-discoteca-par-light.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (kimulighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "KIMU",
+  "key": "18x15w-rgbw-4in1-waterproof-led-par-light-light-wash",
+  "model": "18x15W RGBW 4in1 Waterproof LED Par Light Light Wash",
+  "kind": "par",
+  "leds": [
+   18,
+   "rgbw"
+  ],
+  "ch": [
+   9
+  ],
+  "url": "https://www.kimulighting.com/18x15w-rgbw-4in1-waterproof-led-par-light-dmx512-wedding-party-light-wash-dj-disco-stage-lighting.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (kimulighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "KIMU",
+  "key": "21led-x-12w-wash-rgbw-4in1-strobe-luces-light-led-wall-w",
+  "model": "21LED X 12W Wash RGBW 4in1 Strobe Luces Light LED Wall Washer",
+  "kind": "strobe",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   4,
+   8,
+   28,
+   32
+  ],
+  "url": "https://www.kimulighting.com/21led-x-12w-wash-lights-rgbw-4in1-disco-strobe-dmx512-luces-dj-light-led-wall-washer.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (kimulighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "KIMU",
+  "key": "260w-beam-moving-head-18-prisms-9r-sharpy-beam-16gobos-c",
+  "model": "260W Beam Moving Head 18 Prisms 9r Sharpy Beam 16Gobos Concer",
+  "kind": "beam",
+  "ch": [
+   14
+  ],
+  "feat": [
+   "gobo:15",
+   "prism"
+  ],
+  "url": "https://www.kimulighting.com/260w-beam-moving-head-18-prisms-9r-sharpy-beam-lights-16gobos-dj-disco-stage-lighting-for-wedding-concer-nightclubt.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (kimulighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "KIMU",
+  "key": "295w-moving-head-beam-light-with-strip-14r-double-prisms",
+  "model": "295W Moving Head Beam Light With Strip 14r Double Prisms Lyre Beam",
+  "kind": "beam",
+  "ch": [
+   16,
+   22
+  ],
+  "feat": [
+   "gobo:14",
+   "prism"
+  ],
+  "url": "https://www.kimulighting.com/295w-moving-head-beam-light-with-strip-14r-double-prisms-lyre-beam-light-15gobos-dmx512-stage-effect-lights-for-wedding-concert-disco.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (kimulighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "KIMU",
+  "key": "36pcs-10w-zoom-light-rgbw-4in1-led-moving-head",
+  "model": "36PCS*10W Zoom Light RGBW 4in1 LED Moving Head",
+  "kind": "effect",
+  "leds": [
+   36,
+   "rgbw"
+  ],
+  "deg": [
+   15,
+   60
+  ],
+  "ch": [
+   13
+  ],
+  "size": [
+   430,
+   290,
+   400
+  ],
+  "url": "https://www.kimulighting.com/36pcs-10w-dmx-zoom-light-rgbw-4in1-led-moving-head-lights-for-dj-disco-music-event-nightclub.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (kimulighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "KIMU",
+  "key": "4-5w-lezer-disco-laser-projector-light",
+  "model": "4.5W Lezer Disco Laser Projector Light",
+  "kind": "laser",
+  "ch": [
+   16
+  ],
+  "url": "https://www.kimulighting.com/4-5w-lezer-disco-laser-projector-light.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (kimulighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. 1 weitere Shop-Listings mit gleichen Daten zusammengefasst.",
+  "verified": false
+ },
+ {
+  "man": "KIMU",
+  "key": "48-segment-rgbw-led-strobe-light-with-letters-numbers-di",
+  "model": "48 Segment RGBW LED Strobe Light with Letters Numbers Display High",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "ch": [
+   4,
+   6,
+   16,
+   192,
+   194
+  ],
+  "url": "https://www.kimulighting.com/48-segment-rgbw-led-strobe-light-with-letters-numbers-display-dmx-high-bright-dj-wash-bar-strobe-lighting-effects.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (kimulighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "KIMU",
+  "key": "54-led-aluminum-rgb-3in1-led-par-180w-light",
+  "model": "54 LED Aluminum RGB 3in1 LED Par 180W Light",
+  "kind": "par",
+  "leds": [
+   54,
+   "rgb"
+  ],
+  "ch": [
+   8,
+   9
+  ],
+  "url": "https://www.kimulighting.com/54-led-aluminum-rgb-3in1-led-par-lights-dj-180w-dmx512-wedding-disco-light.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (kimulighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "KIMU",
+  "key": "6-eyes-moving-head-laser-light-laser-beam-bar-light-lase",
+  "model": "6 Eyes Moving Head Laser Light Laser Beam Bar Light Laser Beam",
+  "kind": "lasermh",
+  "ch": [
+   8
+  ],
+  "url": "https://www.kimulighting.com/6-eyes-moving-head-laser-light-laser-beam-bar-light-disco-laser-beam-shaking-head-light.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (kimulighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "KIMU",
+  "key": "6-eyes-rgb-laser-light-stage-laser-rgb-light",
+  "model": "6 Eyes Rgb Laser Light Stage Laser Rgb Light",
+  "kind": "laser",
+  "ch": [
+   8
+  ],
+  "url": "https://www.kimulighting.com/6-eyes-rgb-laser-light-dmx-stage-party-lighting-laser-rgb-light.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (kimulighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. 1 weitere Shop-Listings mit gleichen Daten zusammengefasst.",
+  "verified": false
+ },
+ {
+  "man": "KIMU",
+  "key": "7-40w-bee-eye-zoom-cabeza-movil-beam-280w-led-moving-hea",
+  "model": "7*40W Bee Eye Zoom Cabeza Movil Beam 280W LED Moving Head Light Luces",
+  "kind": "beeeye",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "ch": [
+   10,
+   16
+  ],
+  "url": "https://www.kimulighting.com/7-40w-bee-eye-zoom-cabeza-movil-beam-280w-dmx-led-moving-head-light-for-disco-luces-dj-lighting.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (kimulighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "KIMU",
+  "key": "72x1w-led-par-light-rgb-full-color-control-light-concert",
+  "model": "72X1W LED Par Light RGB Full Color Control Light Concerts",
+  "kind": "par",
+  "leds": [
+   64,
+   "rgb"
+  ],
+  "ch": [
+   7,
+   31
+  ],
+  "url": "https://www.kimulighting.com/72x1w-led-par-light-rgb-full-color-dmx512-control-wedding-disco-party-light-dj-stage-effect-for-concerts-bar-club.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (kimulighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "KIMU",
+  "key": "7-led-led-party-stage-par-light",
+  "model": "7 LED Led Party Stage Par Light",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "ch": [
+   6,
+   10
+  ],
+  "url": "https://www.kimulighting.com/7led-led-party-stage-par-light.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (kimulighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "KIMU",
+  "key": "7x20w-rgbwy-uv-full-color-waterproof-led-par-light-light",
+  "model": "7x20W RGBWY + UV Full Color Waterproof LED Par Light Light Wash",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "ch": [
+   6,
+   11
+  ],
+  "url": "https://www.kimulighting.com/7x20w-rgbwy-uv-full-color-waterproof-led-par-light-dmx512-wedding-party-light-wash-dj-disco-stage-lighting.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (kimulighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "KIMU",
+  "key": "7x30w-aluminum-par-light-rgbw-4in1",
+  "model": "7x30W Aluminum Par Light RGBW 4in1",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "ch": [
+   9
+  ],
+  "url": "https://www.kimulighting.com/7x30w-aluminum-easy-dancing-dj-led-studio-for-wedding-and-church-par-light.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (kimulighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "KIMU",
+  "key": "9x4w-led-wall-wash-light-rgbw-4in1-bar",
+  "model": "9X4W LED Wall Wash Light RGBW 4in1 Bar",
+  "kind": "bar",
+  "leds": [
+   9,
+   "rgbw"
+  ],
+  "deg": [
+   35,
+   35
+  ],
+  "ch": [
+   4,
+   8
+  ],
+  "url": "https://www.kimulighting.com/9x4w-led-wall-wash-light-rgbw-4in1-dmx-dj-disco-bar-stage-light-with-remote-control.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (kimulighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "KIMU",
+  "key": "beam-150w-led-equipment-18-prism-rainbow-moving-head-lig",
+  "model": "Beam 150W LED Equipment 18 Prism Rainbow Moving Head Light Gobo Spot",
+  "kind": "beam",
+  "deg": [
+   1.7,
+   1.7
+  ],
+  "ch": [
+   16
+  ],
+  "feat": [
+   "prism"
+  ],
+  "url": "https://www.kimulighting.com/beam-150w-led-dj-lighting-equipment-18-prism-disco-stage-lights-rainbow-moving-head-light-gobo-spot-150-dmx-cabeza-movil.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (kimulighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. 1 weitere Shop-Listings mit gleichen Daten zusammengefasst.",
+  "verified": false
+ },
+ {
+  "man": "KIMU",
+  "key": "beam-200w-led-sharpy-beam-24-prism-spot-moving-head-ligh",
+  "model": "Beam 200W LED Sharpy Beam 24 Prism Spot Moving Head Light",
+  "kind": "beam",
+  "deg": [
+   1.7,
+   1.7
+  ],
+  "ch": [
+   14,
+   20
+  ],
+  "url": "https://www.kimulighting.com/beam-200w-led-sharpy-beam-24-prism-spot-moving-head-light-party-club-stage-light-for-dj-party.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (kimulighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "KIMU",
+  "key": "cabezas-movile-295w-sharpy-light-moving-head-spot-beam-2",
+  "model": "Cabezas Movile 295W Sharpy Light Moving Head Spot Beam 295 14r Luces",
+  "kind": "beam",
+  "ch": [
+   16,
+   22
+  ],
+  "url": "https://www.kimulighting.com/cabezas-movile-295w-sharpy-light-moving-head-spot-beam-295-14r-luces-dj-stage-light-equipment-dmx-luce-beam-moving-light.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (kimulighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. 2 weitere Shop-Listings mit gleichen Daten zusammengefasst.",
+  "verified": false
+ },
+ {
+  "man": "KIMU",
+  "key": "equipment-19x15w-wash-zoom-led-moving-head-light-with-ri",
+  "model": "Equipment 19x15w Wash Zoom LED Moving Head Light With Ring",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   8,
+   58
+  ],
+  "ch": [
+   28
+  ],
+  "url": "https://www.kimulighting.com/dj-equipment-19x15w-dmx-wash-zoom-led-moving-head-light-with-ring.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (kimulighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. 1 weitere Shop-Listings mit gleichen Daten zusammengefasst.",
+  "verified": false
+ },
+ {
+  "man": "KIMU",
+  "key": "dmx-19-15w-bee-eye-zoom-moving-head-for-disco-for-night",
+  "model": "DMX 19*15W Bee Eye Zoom Moving Head for Disco for Night Club",
+  "kind": "beeeye",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   60
+  ],
+  "ch": [
+   17,
+   26,
+   86
+  ],
+  "url": "https://www.kimulighting.com/dmx-19-15w-bee-eye-zoom-moving-head-for-disco-for-night-club.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (kimulighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "KIMU",
+  "key": "mini-sharpy-beam-230w-7r-moving-head-light-high-brightne",
+  "model": "Mini Sharpy Beam 230W 7r Moving Head Light High Brightness Light",
+  "kind": "beam",
+  "ch": [
+   16
+  ],
+  "url": "https://www.kimulighting.com/mini-sharpy-beam-230w-7r-moving-head-light-dmx-dj-lights-high-brightness-stage-effect-light.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (kimulighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "KIMU",
+  "key": "professional-5w-10w-3d-cabeza-stage-laser-moving-light",
+  "model": "Professional 5W 10W 3D Cabeza Stage Laser Moving Light",
+  "kind": "laser",
+  "ch": [
+   32,
+   49
+  ],
+  "size": [
+   490,
+   385,
+   380
+  ],
+  "url": "https://www.kimulighting.com/professional-5w-10w-3d-dj-night-club-disco-cabeza-stage-disco-laser-light-for-club.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (kimulighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "KIMU",
+  "key": "professional-80-segment-rgb-strobe-light-800led-wall-was",
+  "model": "Professional 80 Segment RGB Strobe Light 800LED Wall Wash 160W Luces",
+  "kind": "strobe",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "ch": [
+   3,
+   4,
+   8,
+   12,
+   13,
+   24,
+   25,
+   60,
+   61
+  ],
+  "url": "https://www.kimulighting.com/professional-80-segment-rgb-strobe-light-800led-wall-wash-lighting-160w-dmx-disco-luces-dj-stage-strobe-led-bars.html",
+  "note": "Steckbrief aus Shop-Text (automatisch) (kimulighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 120, 121 verworfen (unplausibel).",
+  "verified": false
+ }
+]

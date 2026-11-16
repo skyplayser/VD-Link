@@ -1,0 +1,863 @@
+[
+ {
+  "man": "Topled",
+  "key": "ct-001p-0-5m",
+  "model": "CT-001P-0.5M",
+  "kind": "bar",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   4.5,
+   4.5
+  ],
+  "ch": [
+   4,
+   6,
+   8,
+   38
+  ],
+  "pixelFrom": 38,
+  "size": [
+   511,
+   150,
+   237
+  ],
+  "url": "https://www.topledlighting.com/product/ct-001p-0-5m/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "ct-001p-1m",
+  "model": "CT-001P-1M",
+  "kind": "bar",
+  "leds": [
+   14,
+   "rgbw"
+  ],
+  "deg": [
+   4.5,
+   4.5
+  ],
+  "ch": [
+   4,
+   6,
+   8,
+   56
+  ],
+  "pixelFrom": 56,
+  "size": [
+   1022,
+   150,
+   239
+  ],
+  "url": "https://www.topledlighting.com/product/ct-001p-1m/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "ct-002p",
+  "model": "CT-002P",
+  "kind": "bar",
+  "leds": [
+   14,
+   "rgbw"
+  ],
+  "deg": [
+   20,
+   20
+  ],
+  "ch": [
+   4,
+   6,
+   8,
+   56
+  ],
+  "pixelFrom": 56,
+  "size": [
+   978,
+   141,
+   179
+  ],
+  "url": "https://www.topledlighting.com/product/ct-002p/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "ct-020p-6c",
+  "model": "CT-020P-6C",
+  "kind": "bar",
+  "deg": [
+   30,
+   30
+  ],
+  "ch": [
+   6,
+   8,
+   12
+  ],
+  "size": [
+   1023,
+   154,
+   153
+  ],
+  "url": "https://www.topledlighting.com/product/ct-020p-6c/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "dc-100p",
+  "model": "DC-100P",
+  "kind": "par",
+  "deg": [
+   4.5,
+   4.5
+  ],
+  "ch": [
+   4,
+   6,
+   10
+  ],
+  "size": [
+   369,
+   126,
+   303
+  ],
+  "url": "https://www.topledlighting.com/product/dc-100p/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "fx-005p",
+  "model": "FX-005P",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   20,
+   20
+  ],
+  "ch": [
+   4,
+   6,
+   10
+  ],
+  "size": [
+   385,
+   101,
+   270
+  ],
+  "url": "https://www.topledlighting.com/product/fx-005p/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "fx-200p",
+  "model": "FX-200P",
+  "kind": "blinder",
+  "deg": [
+   50,
+   50
+  ],
+  "ch": [
+   5,
+   7,
+   10,
+   13,
+   17
+  ],
+  "size": [
+   398,
+   254,
+   218
+  ],
+  "url": "https://www.topledlighting.com/product/fx-200p/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "fx-300p",
+  "model": "FX-300P",
+  "kind": "blinder",
+  "deg": [
+   50,
+   50
+  ],
+  "ch": [
+   5,
+   7,
+   10,
+   13,
+   17
+  ],
+  "size": [
+   398,
+   254,
+   218
+  ],
+  "url": "https://www.topledlighting.com/product/fx-300p/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "fx-400p",
+  "model": "FX-400P",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   4,
+   6,
+   9,
+   20,
+   25
+  ],
+  "size": [
+   532,
+   319,
+   141
+  ],
+  "url": "https://www.topledlighting.com/product/fx-400p/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "ixq17c",
+  "model": "IXQ17C",
+  "kind": "bar",
+  "deg": [
+   20,
+   20
+  ],
+  "ch": [
+   4,
+   6,
+   7,
+   16
+  ],
+  "size": [
+   1000,
+   47,
+   63
+  ],
+  "url": "https://www.topledlighting.com/product/ixq17c/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "ixq17d",
+  "model": "IXQ17D",
+  "kind": "bar",
+  "deg": [
+   20,
+   20
+  ],
+  "ch": [
+   4,
+   6,
+   7,
+   16
+  ],
+  "size": [
+   1000,
+   52,
+   101
+  ],
+  "url": "https://www.topledlighting.com/product/ixq17d/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "ixq18a",
+  "model": "IXQ18A",
+  "kind": "bar",
+  "deg": [
+   20,
+   20
+  ],
+  "ch": [
+   4,
+   6,
+   7,
+   16
+  ],
+  "size": [
+   1000,
+   35,
+   63
+  ],
+  "url": "https://www.topledlighting.com/product/ixq18a/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "ixq18b",
+  "model": "IXQ18B",
+  "kind": "bar",
+  "deg": [
+   20,
+   20
+  ],
+  "ch": [
+   4,
+   6,
+   7,
+   16
+  ],
+  "size": [
+   1000,
+   52,
+   80
+  ],
+  "url": "https://www.topledlighting.com/product/ixq18b/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "myled-064",
+  "model": "MYLED-064",
+  "kind": "bar",
+  "leds": [
+   8,
+   "rgb"
+  ],
+  "deg": [
+   55,
+   55
+  ],
+  "ch": [
+   2,
+   3,
+   5,
+   6,
+   12,
+   24
+  ],
+  "pixelFrom": 24,
+  "size": [
+   770,
+   158,
+   120
+  ],
+  "url": "https://www.topledlighting.com/product/myled-064/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "myled-101",
+  "model": "MYLED-101",
+  "kind": "bar",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   18,
+   18
+  ],
+  "ch": [
+   3,
+   6,
+   24
+  ],
+  "size": [
+   1027,
+   170,
+   221
+  ],
+  "url": "https://www.topledlighting.com/product/myled-101/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "myled-131",
+  "model": "MYLED-131",
+  "kind": "par",
+  "deg": [
+   20,
+   20
+  ],
+  "ch": [
+   7,
+   11,
+   18,
+   28,
+   32,
+   39
+  ],
+  "size": [
+   310,
+   271,
+   200
+  ],
+  "url": "https://www.topledlighting.com/product/myled-131/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "myled-150",
+  "model": "MYLED-150",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   4,
+   6,
+   8
+  ],
+  "size": [
+   532,
+   319,
+   141
+  ],
+  "url": "https://www.topledlighting.com/product/myled-150-2/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "myled-150t",
+  "model": "MYLED-150T",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   20,
+   20
+  ],
+  "ch": [
+   8,
+   10,
+   12
+  ],
+  "size": [
+   617,
+   458,
+   370
+  ],
+  "url": "https://www.topledlighting.com/product/myled-150t/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "q12-bt-ip",
+  "model": "Q12 BT IP",
+  "kind": "bar",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "deg": [
+   9,
+   9
+  ],
+  "ch": [
+   4,
+   6,
+   10,
+   16,
+   32
+  ],
+  "url": "https://www.topledlighting.com/product/q12-bt-ip/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "q12-bt",
+  "model": "Q12 BT",
+  "kind": "bar",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "deg": [
+   9,
+   9
+  ],
+  "ch": [
+   4,
+   6,
+   11,
+   16,
+   23
+  ],
+  "url": "https://www.topledlighting.com/product/q12-bt/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "q24-bt-ip",
+  "model": "Q24 BT IP",
+  "kind": "bar",
+  "leds": [
+   2,
+   "rgbw"
+  ],
+  "deg": [
+   9,
+   9
+  ],
+  "ch": [
+   4,
+   6,
+   9,
+   32,
+   37
+  ],
+  "pixelFrom": 9,
+  "url": "https://www.topledlighting.com/product/q24-bt-ip/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "q24-bt",
+  "model": "Q24 BT",
+  "kind": "bar",
+  "leds": [
+   2,
+   "rgbw"
+  ],
+  "deg": [
+   9,
+   9
+  ],
+  "ch": [
+   4,
+   6,
+   9,
+   32,
+   37
+  ],
+  "pixelFrom": 9,
+  "url": "https://www.topledlighting.com/product/q24-bt/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "q24-dc",
+  "model": "Q24 DC",
+  "kind": "bar",
+  "leds": [
+   2,
+   "rgbw"
+  ],
+  "deg": [
+   9,
+   9
+  ],
+  "ch": [
+   4,
+   6,
+   9,
+   32,
+   37
+  ],
+  "pixelFrom": 9,
+  "url": "https://www.topledlighting.com/product/q24-dc/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "q24-ip",
+  "model": "Q24 IP",
+  "kind": "bar",
+  "leds": [
+   2,
+   "rgbw"
+  ],
+  "deg": [
+   9,
+   9
+  ],
+  "ch": [
+   4,
+   6,
+   9,
+   32,
+   37
+  ],
+  "pixelFrom": 9,
+  "url": "https://www.topledlighting.com/product/q24-ip/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "q24",
+  "model": "Q24",
+  "kind": "bar",
+  "leds": [
+   2,
+   "rgbw"
+  ],
+  "deg": [
+   9,
+   9
+  ],
+  "ch": [
+   4,
+   5,
+   6,
+   12,
+   40
+  ],
+  "pixelFrom": 12,
+  "url": "https://www.topledlighting.com/product/q24/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "q24ii",
+  "model": "Q24II",
+  "kind": "bar",
+  "leds": [
+   2,
+   "rgbw"
+  ],
+  "deg": [
+   9,
+   9
+  ],
+  "ch": [
+   4,
+   6,
+   10,
+   32,
+   38
+  ],
+  "pixelFrom": 10,
+  "url": "https://www.topledlighting.com/product/q24ii/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "tg-041",
+  "model": "TG-041",
+  "kind": "flood",
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   3
+  ],
+  "size": [
+   150,
+   90,
+   70
+  ],
+  "url": "https://www.topledlighting.com/product/tg-041/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "tg-046",
+  "model": "TG-046",
+  "kind": "par",
+  "deg": [
+   60,
+   60
+  ],
+  "ch": [
+   4,
+   6,
+   7
+  ],
+  "size": [
+   238,
+   127,
+   275
+  ],
+  "url": "https://www.topledlighting.com/product/tg-046/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "tg-110",
+  "model": "TG-110",
+  "kind": "par",
+  "deg": [
+   60,
+   60
+  ],
+  "ch": [
+   4,
+   6,
+   7
+  ],
+  "size": [
+   282,
+   199,
+   315
+  ],
+  "url": "https://www.topledlighting.com/product/tg-110/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "tpl-028te",
+  "model": "TPL-028TE",
+  "kind": "bar",
+  "leds": [
+   24,
+   "rgb"
+  ],
+  "deg": [
+   40,
+   40
+  ],
+  "ch": [
+   2,
+   4,
+   6,
+   8
+  ],
+  "size": [
+   1116,
+   120,
+   130
+  ],
+  "url": "https://www.topledlighting.com/product/tpl-028te/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "tpl-083c",
+  "model": "TPL-083C",
+  "kind": "par",
+  "deg": [
+   15,
+   15
+  ],
+  "ch": [
+   8
+  ],
+  "size": [
+   316,
+   198,
+   348
+  ],
+  "url": "https://www.topledlighting.com/product/tpl-083c/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "tpl-128",
+  "model": "TPL-128",
+  "kind": "bar",
+  "deg": [
+   40,
+   40
+  ],
+  "ch": [
+   4,
+   6,
+   9
+  ],
+  "size": [
+   1008,
+   145,
+   145
+  ],
+  "url": "https://www.topledlighting.com/product/tpl-128/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "xy-012a",
+  "model": "XY-012A",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   5,
+   60
+  ],
+  "ch": [
+   10,
+   20
+  ],
+  "url": "https://www.topledlighting.com/product/xy-012a/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "xy-037",
+  "model": "XY-037",
+  "kind": "wash",
+  "deg": [
+   5,
+   55
+  ],
+  "ch": [
+   9,
+   12,
+   29
+  ],
+  "url": "https://www.topledlighting.com/product/xy-037/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Topled",
+  "key": "xy-101beam",
+  "model": "XY-101BEAM",
+  "kind": "beam",
+  "deg": [
+   2.5,
+   2.5
+  ],
+  "ch": [
+   13,
+   16
+  ],
+  "feat": [
+   "gobo:1"
+  ],
+  "url": "https://www.topledlighting.com/product/xy-101beam/",
+  "note": "Steckbrief aus Herstellerangaben (topledlighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

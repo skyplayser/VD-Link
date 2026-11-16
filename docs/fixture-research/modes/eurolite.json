@@ -1,0 +1,9180 @@
+[
+ {
+  "man": "Eurolite",
+  "key": "akku-b-40-laser-strahleneffekt-air",
+  "model": "AKKU B-40 Laser Strahleneffekt AIR",
+  "kind": "laser",
+  "ch": [
+   3,
+   10,
+   22
+  ],
+  "size": [
+   320,
+   260,
+   390
+  ],
+  "url": "https://www.steinigke.de/mpn41700340-eurolite-akku-b-40-laser-strahleneffekt-air.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-b-40-laser-strahleneffekt-air-wei",
+  "model": "AKKU B-40 Laser Strahleneffekt AIR weiß",
+  "kind": "laser",
+  "ch": [
+   3,
+   10,
+   22
+  ],
+  "size": [
+   320,
+   260,
+   390
+  ],
+  "url": "https://www.steinigke.de/mpn41700341-eurolite-akku-b-40-laser-strahleneffekt-air-weiss.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-bar-3-glow-qcl-flex-quickdmx",
+  "model": "AKKU Bar-3 Glow QCL Flex QuickDMX",
+  "kind": "bar",
+  "leds": [
+   15,
+   "rgbw"
+  ],
+  "deg": [
+   11,
+   11
+  ],
+  "ch": [
+   3,
+   7,
+   8,
+   9,
+   11
+  ],
+  "size": [
+   246,
+   95,
+   105
+  ],
+  "url": "https://www.steinigke.de/mpn41700117-eurolite-akku-bar-3-glow-qcl-flex-quickdmx.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-bar-6-entry-qcl-rgbw-leiste",
+  "model": "AKKU Bar-6 Entry QCL RGBW Leiste",
+  "kind": "bar",
+  "leds": [
+   6,
+   "rgbw"
+  ],
+  "deg": [
+   18,
+   18
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   8
+  ],
+  "size": [
+   545,
+   138,
+   157
+  ],
+  "url": "https://www.steinigke.de/mpn41700101-eurolite-akku-bar-6-entry-qcl-rgbw-leiste.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-bar-6-glow-qcl-flex-quickdmx",
+  "model": "AKKU Bar-6 Glow QCL Flex QuickDMX",
+  "kind": "bar",
+  "leds": [
+   30,
+   "rgbw"
+  ],
+  "deg": [
+   15,
+   15
+  ],
+  "ch": [
+   3,
+   7,
+   8,
+   9,
+   11
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   411,
+   95,
+   105
+  ],
+  "url": "https://www.steinigke.de/mpn41700120-eurolite-akku-bar-6-glow-qcl-flex-quickdmx.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-flat-light-3-sw",
+  "model": "AKKU Flat Light 3 sw",
+  "kind": "par",
+  "leds": [
+   3,
+   "rgbw"
+  ],
+  "deg": [
+   12,
+   12
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   8,
+   10
+  ],
+  "pixelFrom": 10,
+  "size": [
+   168,
+   138,
+   62
+  ],
+  "url": "https://www.steinigke.de/mpn41700016-eurolite-akku-flat-light-3-sw.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-ip-bar-6-entry-qcl-quickdmx",
+  "model": "AKKU IP BAR-6 Entry QCL QuickDMX",
+  "kind": "bar",
+  "leds": [
+   6,
+   "rgbw"
+  ],
+  "deg": [
+   17,
+   17
+  ],
+  "ch": [
+   3,
+   4,
+   5,
+   6,
+   10
+  ],
+  "size": [
+   510,
+   160,
+   145
+  ],
+  "url": "https://www.steinigke.de/mpn41700105-eurolite-akku-ip-bar-6-entry-qcl-quickdmx.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-ip-flat-light-1-cr",
+  "model": "AKKU IP Flat Light 1 cr",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   8,
+   8
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   8,
+   10
+  ],
+  "size": [
+   172,
+   138,
+   64
+  ],
+  "url": "https://www.steinigke.de/mpn41700050-eurolite-akku-ip-flat-light-1-cr.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-ip-flat-light-3-sw",
+  "model": "AKKU IP Flat Light 3 sw",
+  "kind": "par",
+  "leds": [
+   3,
+   "rgbw"
+  ],
+  "deg": [
+   15,
+   15
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   8,
+   10
+  ],
+  "pixelFrom": 10,
+  "size": [
+   172,
+   138,
+   62
+  ],
+  "url": "https://www.steinigke.de/mpn41700020-eurolite-akku-ip-flat-light-3-sw.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-ip-flat-light-smd-sw",
+  "model": "AKKU IP Flat Light SMD sw",
+  "kind": "par",
+  "leds": [
+   64,
+   "rgbw"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   8,
+   10
+  ],
+  "size": [
+   172,
+   138,
+   64
+  ],
+  "url": "https://www.steinigke.de/mpn41700051-eurolite-akku-ip-flat-light-smd-sw.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-ip-par-14-hcl-quickdmx",
+  "model": "AKKU IP PAR 14 HCL QuickDMX",
+  "kind": "par",
+  "leds": [
+   14,
+   "rgbwauv"
+  ],
+  "deg": [
+   15,
+   15
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   6,
+   12
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   317,
+   227,
+   370
+  ],
+  "url": "https://www.steinigke.de/mpn41700800-eurolite-akku-ip-par-14-hcl-quickdmx.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-ip-par-7-qcl-crmx-mk2",
+  "model": "AKKU IP PAR 7 QCL CRMX MK2",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   6,
+   6
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   8,
+   11
+  ],
+  "feat": [
+   "frost"
+  ],
+  "url": "https://www.steinigke.de/mpn41700793-eurolite-akku-ip-par-7-qcl-crmx-mk2.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-ip-pixel-tube-360-pro-crmx",
+  "model": "AKKU IP Pixel Tube 360° PRO CRMX",
+  "kind": "tube",
+  "leds": [
+   96,
+   "rgbwa"
+  ],
+  "ch": [
+   1,
+   2,
+   4,
+   5,
+   7,
+   14,
+   16,
+   20,
+   22,
+   24,
+   120,
+   124
+  ],
+  "size": [
+   1090,
+   70,
+   70
+  ],
+  "url": "https://www.steinigke.de/mpn41700420-eurolite-akku-ip-pixel-tube-360-pro-crmx.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-ip-tl-3-qcl-trusslight-crmx",
+  "model": "AKKU IP TL-3 QCL Trusslight CRMX",
+  "kind": "par",
+  "leds": [
+   3,
+   "rgbw"
+  ],
+  "deg": [
+   8,
+   8
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   8,
+   11
+  ],
+  "pixelFrom": 11,
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   130,
+   115,
+   153
+  ],
+  "url": "https://www.steinigke.de/mpn41700515-eurolite-akku-ip-tl-3-qcl-trusslight-crmx.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-ip-tourlight-200-rgb-ww",
+  "model": "AKKU IP Tourlight 200 RGB+WW",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   30,
+   30
+  ],
+  "ch": [
+   3,
+   4,
+   5,
+   6,
+   10
+  ],
+  "size": [
+   251,
+   272,
+   327
+  ],
+  "url": "https://www.steinigke.de/mpn41700900-eurolite-akku-ip-tourlight-200-rgb+ww.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-ip-tourlight-200-ww",
+  "model": "AKKU IP Tourlight 200 WW",
+  "kind": "par",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   30,
+   30
+  ],
+  "ch": [
+   1,
+   2,
+   4
+  ],
+  "size": [
+   251,
+   272,
+   327
+  ],
+  "url": "https://www.steinigke.de/mpn41700910-eurolite-akku-ip-tourlight-200-ww.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-ip-up-4-entry-qcl-spot-quickdmx",
+  "model": "AKKU IP UP-4 Entry QCL Spot QuickDMX",
+  "kind": "par",
+  "leds": [
+   4,
+   "rgbw"
+  ],
+  "deg": [
+   16,
+   16
+  ],
+  "ch": [
+   3,
+   4,
+   5,
+   6,
+   9
+  ],
+  "size": [
+   190,
+   155,
+   232
+  ],
+  "url": "https://www.steinigke.de/mpn41700585-eurolite-akku-ip-up-4-entry-qcl-spot-quickdmx.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-ip-up-4-plus-hcl-spot-crmx-mk2",
+  "model": "AKKU IP UP-4 Plus HCL Spot CRMX MK2",
+  "kind": "par",
+  "leds": [
+   4,
+   "rgbwauv"
+  ],
+  "deg": [
+   10,
+   10
+  ],
+  "ch": [
+   6,
+   8,
+   12
+  ],
+  "pixelFrom": 12,
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   171,
+   138,
+   200
+  ],
+  "url": "https://www.steinigke.de/mpn41700583-eurolite-akku-ip-up-4-plus-hcl-spot-crmx-mk2.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-ip-up-4-qcl-spot-quickdmx-mk2",
+  "model": "AKKU IP UP-4 QCL Spot QuickDMX MK2",
+  "kind": "par",
+  "leds": [
+   4,
+   "rgbw"
+  ],
+  "deg": [
+   8,
+   8
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   8,
+   11
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   179,
+   150,
+   198
+  ],
+  "url": "https://www.steinigke.de/mpn41700548-eurolite-akku-ip-up-4-qcl-spot-quickdmx-mk2.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-mbt-3-spot-mk2",
+  "model": "AKKU MBT-3 Spot MK2",
+  "kind": "par",
+  "leds": [
+   3,
+   "rgbw"
+  ],
+  "deg": [
+   13,
+   13
+  ],
+  "ch": [
+   3,
+   4,
+   8,
+   12,
+   16
+  ],
+  "pixelFrom": 12,
+  "size": [
+   305,
+   95,
+   220
+  ],
+  "url": "https://www.steinigke.de/mpn41700150-eurolite-akku-mbt-3-spot-mk2.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-mini-party-rgbw-spot-mk2",
+  "model": "AKKU Mini PARty RGBW Spot MK2",
+  "kind": "par",
+  "leds": [
+   3,
+   "cw"
+  ],
+  "deg": [
+   7,
+   7
+  ],
+  "ch": [
+   4,
+   6
+  ],
+  "pixelFrom": 4,
+  "size": [
+   150,
+   90,
+   150
+  ],
+  "url": "https://www.steinigke.de/mpn42110205-eurolite-akku-mini-party-rgbw-spot-mk2.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-multiflood-ip-18x10w-rgbw-wash-crmx",
+  "model": "AKKU Multiflood IP 18x10W RGBW Wash CRMX",
+  "kind": "flood",
+  "deg": [
+   10,
+   10
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   8,
+   11
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   410,
+   184,
+   269
+  ],
+  "url": "https://www.steinigke.de/mpn41606265-eurolite-akku-multiflood-ip-18x10w-rgbw-wash-crmx.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-multiflood-ip-8x10w-rgbw-wash-crmx",
+  "model": "AKKU Multiflood IP 8x10W RGBW Wash CRMX",
+  "kind": "flood",
+  "deg": [
+   10,
+   10
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   8,
+   11
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   319,
+   140,
+   248
+  ],
+  "url": "https://www.steinigke.de/mpn41606258-eurolite-akku-multiflood-ip-8x10w-rgbw-wash-crmx.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-par-6-qcl",
+  "model": "AKKU PAR 6 QCL",
+  "kind": "par",
+  "leds": [
+   6,
+   "rgbw"
+  ],
+  "deg": [
+   18,
+   18
+  ],
+  "ch": [
+   6,
+   11
+  ],
+  "size": [
+   177,
+   143,
+   211
+  ],
+  "url": "https://www.steinigke.de/mpn41700700-eurolite-akku-par-6-qcl.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-pll-168-ww-cw-panel",
+  "model": "AKKU PLL-168 WW/CW Panel",
+  "kind": "panel",
+  "leds": [
+   64,
+   "ww"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   2,
+   4,
+   6
+  ],
+  "size": [
+   357,
+   117,
+   220
+  ],
+  "url": "https://www.steinigke.de/mpn40001845-eurolite-akku-pll-168-ww-cw-panel.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-pt-100-32-pixel-dmx-tube",
+  "model": "AKKU PT-100/32 Pixel DMX Tube",
+  "kind": "tube",
+  "leds": [
+   32,
+   "rgb"
+  ],
+  "ch": [
+   3,
+   5,
+   8,
+   48,
+   96
+  ],
+  "pixelFrom": 96,
+  "size": [
+   1000,
+   50,
+   127
+  ],
+  "url": "https://www.steinigke.de/mpn41700350-eurolite-akku-pt-100-32-pixel-dmx-tube.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-slim-tube-air",
+  "model": "AKKU Slim Tube AIR",
+  "kind": "tube",
+  "leds": [
+   32,
+   "rgb"
+  ],
+  "ch": [
+   4,
+   6,
+   10,
+   13,
+   19,
+   49
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   1510,
+   53,
+   60
+  ],
+  "url": "https://www.steinigke.de/mpn41700401-eurolite-akku-slim-tube-air.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-tl-3-qcl-rgb-uv-trusslight",
+  "model": "AKKU TL-3 QCL RGB+UV Trusslight",
+  "kind": "par",
+  "leds": [
+   3,
+   "rgbw"
+  ],
+  "deg": [
+   10,
+   10
+  ],
+  "ch": [
+   2,
+   4,
+   5,
+   6,
+   9
+  ],
+  "pixelFrom": 9,
+  "size": [
+   122,
+   108,
+   143
+  ],
+  "url": "https://www.steinigke.de/mpn41700510-eurolite-akku-tl-3-qcl-rgb+uv-trusslight.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-tl-3-tcl-trusslight-quickdmx",
+  "model": "AKKU TL-3 TCL Trusslight QuickDMX",
+  "kind": "par",
+  "leds": [
+   3,
+   "rgb"
+  ],
+  "deg": [
+   11,
+   11
+  ],
+  "ch": [
+   3,
+   5,
+   8
+  ],
+  "size": [
+   121,
+   108,
+   145
+  ],
+  "url": "https://www.steinigke.de/mpn41700501-eurolite-akku-tl-3-tcl-trusslight-quickdmx.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-tl-3-tcl-trusslight-quickdmx-ws",
+  "model": "AKKU TL-3 TCL Trusslight QuickDMX ws",
+  "kind": "par",
+  "leds": [
+   3,
+   "rgb"
+  ],
+  "deg": [
+   11,
+   11
+  ],
+  "ch": [
+   3,
+   5,
+   8
+  ],
+  "size": [
+   121,
+   108,
+   145
+  ],
+  "url": "https://www.steinigke.de/mpn41700503-eurolite-akku-tl-3-tcl-trusslight-quickdmx-ws.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-up-1-qcl-flex-spot-quickdmx",
+  "model": "AKKU UP-1 QCL Flex Spot QuickDMX",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   9,
+   9
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   8,
+   10
+  ],
+  "size": [
+   120,
+   120,
+   142
+  ],
+  "url": "https://www.steinigke.de/mpn41700505-eurolite-akku-up-1-qcl-flex-spot-quickdmx.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-up-4-entry-qcl-spot",
+  "model": "AKKU UP-4 Entry QCL Spot",
+  "kind": "par",
+  "leds": [
+   4,
+   "rgbw"
+  ],
+  "deg": [
+   17,
+   17
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   8
+  ],
+  "size": [
+   144,
+   144,
+   191
+  ],
+  "url": "https://www.steinigke.de/mpn41700575-eurolite-akku-up-4-entry-qcl-spot.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "akku-up-4-qcl-spot-quickdmx-mk2",
+  "model": "AKKU UP-4 QCL Spot QuickDMX MK2",
+  "kind": "par",
+  "leds": [
+   4,
+   "rgbw"
+  ],
+  "deg": [
+   7,
+   7
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   8,
+   11
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   154,
+   133,
+   158
+  ],
+  "url": "https://www.steinigke.de/mpn41700546-eurolite-akku-up-4-qcl-spot-quickdmx-mk2.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "audience-blinder-2x100w-led-cob-cw-ww",
+  "model": "Audience Blinder 2x100W LED COB CW/WW",
+  "kind": "blinder",
+  "leds": [
+   2,
+   "wwcw"
+  ],
+  "deg": [
+   30,
+   30
+  ],
+  "ch": [
+   4,
+   8
+  ],
+  "pixelFrom": 4,
+  "size": [
+   370,
+   150,
+   240
+  ],
+  "url": "https://www.steinigke.de/mpn41606122-eurolite-audience-blinder-2x100w-led-cob-cw-ww.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "audience-blinder-2x100w-led-cob-ww",
+  "model": "Audience Blinder 2x100W LED COB WW",
+  "kind": "blinder",
+  "leds": [
+   2,
+   "ww"
+  ],
+  "deg": [
+   70,
+   70
+  ],
+  "ch": [
+   2,
+   4,
+   6
+  ],
+  "pixelFrom": 2,
+  "size": [
+   410,
+   153,
+   224
+  ],
+  "url": "https://www.steinigke.de/mpn41604121-eurolite-audience-blinder-2x100w-led-cob-ww.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "audience-blinder-2xpar-36-dmx-sw",
+  "model": "Audience Blinder 2xPAR-36 DMX sw",
+  "kind": "blinder",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "ch": [
+   1
+  ],
+  "size": [
+   388,
+   170,
+   240
+  ],
+  "url": "https://www.steinigke.de/mpn42103413-eurolite-audience-blinder-2xpar-36-dmx-sw.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "audience-blinder-4x100w-led-cob-cw-ww",
+  "model": "Audience Blinder 4x100W LED COB CW/WW",
+  "kind": "blinder",
+  "leds": [
+   4,
+   "wwcw"
+  ],
+  "deg": [
+   45,
+   45
+  ],
+  "ch": [
+   2,
+   8,
+   12
+  ],
+  "pixelFrom": 8,
+  "size": [
+   495,
+   420,
+   125
+  ],
+  "url": "https://www.steinigke.de/mpn41606147-eurolite-audience-blinder-4x100w-led-cob-cw-ww.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "dmx-megastrobe-3000",
+  "model": "DMX Megastrobe 3000",
+  "kind": "strobe",
+  "ch": [
+   1,
+   3,
+   4
+  ],
+  "size": [
+   500,
+   160,
+   275
+  ],
+  "url": "https://www.steinigke.de/mpn52202179-eurolite-dmx-megastrobe-3000.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "ip-audience-blinder-2x100w-led-cob-rgb-ww",
+  "model": "IP Audience Blinder 2x100W LED COB RGB+WW",
+  "kind": "blinder",
+  "leds": [
+   2,
+   "rgbw"
+  ],
+  "deg": [
+   28,
+   28
+  ],
+  "ch": [
+   4,
+   6,
+   8,
+   12
+  ],
+  "pixelFrom": 8,
+  "size": [
+   403,
+   195,
+   298
+  ],
+  "url": "https://www.steinigke.de/mpn41604160-eurolite-ip-audience-blinder-2x100w-led-cob-rgb+ww.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "ip-audience-blinder-2x100w-led-cob-ww",
+  "model": "IP Audience Blinder 2x100W LED COB WW",
+  "kind": "blinder",
+  "leds": [
+   2,
+   "ww"
+  ],
+  "deg": [
+   28,
+   28
+  ],
+  "ch": [
+   2,
+   6
+  ],
+  "pixelFrom": 2,
+  "size": [
+   403,
+   195,
+   298
+  ],
+  "url": "https://www.steinigke.de/mpn41604170-eurolite-ip-audience-blinder-2x100w-led-cob-ww.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-4c-7-silent-slim-spot",
+  "model": "LED 4C-7 Silent Slim Spot",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   16,
+   16
+  ],
+  "ch": [
+   3,
+   4,
+   5,
+   6,
+   9
+  ],
+  "size": [
+   245,
+   110,
+   255
+  ],
+  "url": "https://www.steinigke.de/mpn51915315-eurolite-led-4c-7-silent-slim-spot.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-7c-12-silent-slim-spot",
+  "model": "LED 7C-12 Silent Slim Spot",
+  "kind": "par",
+  "leds": [
+   12,
+   "rgb"
+  ],
+  "deg": [
+   15,
+   15
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   9
+  ],
+  "size": [
+   280,
+   120,
+   295
+  ],
+  "url": "https://www.steinigke.de/mpn51915321-eurolite-led-7c-12-silent-slim-spot.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 12 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-b-100-hypno-single-ball-strahleneffekt",
+  "model": "LED B-100 Hypno Single Ball Strahleneffekt",
+  "kind": "effect",
+  "leds": [
+   8,
+   "rgbw"
+  ],
+  "ch": [
+   16
+  ],
+  "size": [
+   270,
+   210,
+   355
+  ],
+  "url": "https://www.steinigke.de/mpn51918825-eurolite-led-b-100-hypno-single-ball-strahleneffekt.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-b-200-hypno-double-ball-strahleneffekt",
+  "model": "LED B-200 Hypno Double Ball Strahleneffekt",
+  "kind": "effect",
+  "leds": [
+   8,
+   "rgbw"
+  ],
+  "ch": [
+   17,
+   24
+  ],
+  "size": [
+   400,
+   210,
+   320
+  ],
+  "url": "https://www.steinigke.de/mpn51918826-eurolite-led-b-200-hypno-double-ball-strahleneffekt.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-b-40-hcl-strahleneffekt-mk2",
+  "model": "LED B-40 HCL Strahleneffekt MK2",
+  "kind": "effect",
+  "leds": [
+   5,
+   "rgbwauv"
+  ],
+  "ch": [
+   3,
+   12,
+   23
+  ],
+  "size": [
+   320,
+   320,
+   390
+  ],
+  "url": "https://www.steinigke.de/mpn51918952-eurolite-led-b-40-hcl-strahleneffekt-mk2.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-b-40-hcl-strahleneffekt-mk2-ws",
+  "model": "LED B-40 HCL Strahleneffekt MK2 ws",
+  "kind": "effect",
+  "leds": [
+   5,
+   "rgbwauv"
+  ],
+  "ch": [
+   3,
+   12,
+   23
+  ],
+  "size": [
+   320,
+   320,
+   390
+  ],
+  "url": "https://www.steinigke.de/mpn51918953-eurolite-led-b-40-hcl-strahleneffekt-mk2-ws.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-b-40-laser-strahleneffekt",
+  "model": "LED B-40 Laser Strahleneffekt",
+  "kind": "laser",
+  "ch": [
+   3,
+   10,
+   22
+  ],
+  "size": [
+   310,
+   310,
+   390
+  ],
+  "url": "https://www.steinigke.de/mpn51741087-eurolite-led-b-40-laser-strahleneffekt.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-b-40-laser-strahleneffekt-ws",
+  "model": "LED B-40 Laser Strahleneffekt ws",
+  "kind": "laser",
+  "ch": [
+   3,
+   10,
+   22
+  ],
+  "size": [
+   310,
+   310,
+   390
+  ],
+  "url": "https://www.steinigke.de/mpn51741088-eurolite-led-b-40-laser-strahleneffekt-ws.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-bar-12-qcl-rgb-ww-leiste",
+  "model": "LED BAR-12 QCL RGB+WW Leiste",
+  "kind": "bar",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "deg": [
+   20,
+   20
+  ],
+  "ch": [
+   2,
+   4,
+   5,
+   6,
+   9
+  ],
+  "size": [
+   1060,
+   88,
+   109
+  ],
+  "url": "https://www.steinigke.de/mpn51930388-eurolite-led-bar-12-qcl-rgb+ww-leiste.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-bar-12-qcl-rgbw-leiste",
+  "model": "LED BAR-12 QCL RGBW Leiste",
+  "kind": "bar",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "deg": [
+   17,
+   17
+  ],
+  "ch": [
+   2,
+   4,
+   5,
+   6,
+   9
+  ],
+  "size": [
+   1100,
+   65,
+   100
+  ],
+  "url": "https://www.steinigke.de/mpn51930398-eurolite-led-bar-12-qcl-rgbw-leiste.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-bar-6-qcl-rgb-uv-leiste",
+  "model": "LED BAR-6 QCL RGB+UV Leiste",
+  "kind": "bar",
+  "leds": [
+   6,
+   "rgbw"
+  ],
+  "deg": [
+   20,
+   20
+  ],
+  "ch": [
+   2,
+   4,
+   5,
+   6,
+   9
+  ],
+  "size": [
+   600,
+   65,
+   103
+  ],
+  "url": "https://www.steinigke.de/mpn51930394-eurolite-led-bar-6-qcl-rgb+uv-leiste.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-bar-6-qcl-rgb-ww-leiste",
+  "model": "LED BAR-6 QCL RGB+WW Leiste",
+  "kind": "bar",
+  "leds": [
+   6,
+   "rgbw"
+  ],
+  "deg": [
+   20,
+   20
+  ],
+  "ch": [
+   2,
+   4,
+   5,
+   6,
+   9
+  ],
+  "size": [
+   566,
+   88,
+   109
+  ],
+  "url": "https://www.steinigke.de/mpn51930389-eurolite-led-bar-6-qcl-rgb+ww-leiste.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-bar-8-abl-swing-qcl-leiste",
+  "model": "LED BAR-8 ABL SWING QCL Leiste",
+  "kind": "bar",
+  "leds": [
+   8,
+   "rgbw"
+  ],
+  "deg": [
+   1,
+   1
+  ],
+  "ch": [
+   14,
+   19,
+   27,
+   58
+  ],
+  "pixelFrom": 27,
+  "size": [
+   1000,
+   119,
+   200
+  ],
+  "url": "https://www.steinigke.de/mpn51930384-eurolite-led-bar-8-abl-swing-qcl-leiste.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-bc-6-strahleneffekt",
+  "model": "LED BC-6 Strahleneffekt",
+  "kind": "effect",
+  "ch": [
+   9
+  ],
+  "size": [
+   185,
+   185,
+   150
+  ],
+  "url": "https://www.steinigke.de/mpn51918806-eurolite-led-bc-6-strahleneffekt.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-bp-9-panel-rgbw-cw",
+  "model": "LED BP-9 Panel RGBW+CW",
+  "kind": "panel",
+  "leds": [
+   9,
+   "rgbw"
+  ],
+  "deg": [
+   2,
+   2
+  ],
+  "ch": [
+   6,
+   12,
+   43
+  ],
+  "pixelFrom": 43,
+  "size": [
+   264,
+   261,
+   105
+  ],
+  "url": "https://www.steinigke.de/mpn51930261-eurolite-led-bp-9-panel-rgbw+cw.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-breakdance-strahleneffekt",
+  "model": "LED BREAKDANCE Strahleneffekt",
+  "kind": "effect",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "deg": [
+   1,
+   1
+  ],
+  "ch": [
+   32,
+   73
+  ],
+  "size": [
+   497,
+   497,
+   254
+  ],
+  "url": "https://www.steinigke.de/mpn50944324-eurolite-led-breakdance-strahleneffekt.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-cat-80-strahleneffekt",
+  "model": "LED CAT-80 Strahleneffekt",
+  "kind": "effect",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "ch": [
+   7
+  ],
+  "feat": [
+   "gobo:8",
+   "focus"
+  ],
+  "size": [
+   290,
+   185,
+   315
+  ],
+  "url": "https://www.steinigke.de/mpn51918595-eurolite-led-cat-80-strahleneffekt.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-cat-80-strahleneffekt-ws",
+  "model": "LED CAT-80 Strahleneffekt ws",
+  "kind": "effect",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "ch": [
+   7
+  ],
+  "feat": [
+   "gobo:8",
+   "focus"
+  ],
+  "size": [
+   290,
+   185,
+   315
+  ],
+  "url": "https://www.steinigke.de/mpn51918596-eurolite-led-cat-80-strahleneffekt-ws.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-cbb-2-cob-rgb-leiste",
+  "model": "LED CBB-2 COB RGB Leiste",
+  "kind": "bar",
+  "leds": [
+   2,
+   "rgb"
+  ],
+  "deg": [
+   38,
+   38
+  ],
+  "ch": [
+   3,
+   4,
+   5,
+   6,
+   11
+  ],
+  "pixelFrom": 6,
+  "size": [
+   240,
+   175,
+   155
+  ],
+  "url": "https://www.steinigke.de/mpn51930274-eurolite-led-cbb-2-cob-rgb-leiste.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-cbb-2-cob-ww-leiste",
+  "model": "LED CBB-2 COB WW Leiste",
+  "kind": "bar",
+  "leds": [
+   2,
+   "ww"
+  ],
+  "deg": [
+   37,
+   37
+  ],
+  "ch": [
+   2,
+   3,
+   5
+  ],
+  "pixelFrom": 2,
+  "size": [
+   240,
+   175,
+   155
+  ],
+  "url": "https://www.steinigke.de/mpn51930276-eurolite-led-cbb-2-cob-ww-leiste.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-cbb-2-ww-cw-fairlight",
+  "model": "LED CBB-2 WW/CW Fairlight",
+  "kind": "bar",
+  "leds": [
+   2,
+   "wwcw"
+  ],
+  "deg": [
+   40,
+   40
+  ],
+  "ch": [
+   2,
+   3,
+   4,
+   6
+  ],
+  "pixelFrom": 4,
+  "size": [
+   266,
+   170,
+   194
+  ],
+  "url": "https://www.steinigke.de/mpn51930272-eurolite-led-cbb-2-ww-cw-fairlight.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-cbb-4-cob-rgb-leiste",
+  "model": "LED CBB-4 COB RGB Leiste",
+  "kind": "bar",
+  "leds": [
+   4,
+   "rgb"
+  ],
+  "deg": [
+   39,
+   39
+  ],
+  "ch": [
+   3,
+   5,
+   12,
+   15,
+   19
+  ],
+  "pixelFrom": 12,
+  "size": [
+   460,
+   160,
+   160
+  ],
+  "url": "https://www.steinigke.de/mpn51930278-eurolite-led-cbb-4-cob-rgb-leiste.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-cls-18-qcl-rgb-ww-18x7w",
+  "model": "LED CLS-18 QCL RGB/WW 18x7W",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   11,
+   11
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   8,
+   11
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   396,
+   143,
+   213
+  ],
+  "url": "https://www.steinigke.de/mpn51913905-eurolite-led-cls-18-qcl-rgb-ww-18x7w.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-cls-6-pix-hcl",
+  "model": "LED CLS-6 PIX HCL",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgbwauv"
+  ],
+  "deg": [
+   30,
+   30
+  ],
+  "ch": [
+   1,
+   5,
+   6,
+   10,
+   26,
+   36
+  ],
+  "size": [
+   291,
+   157,
+   277
+  ],
+  "url": "https://www.steinigke.de/mpn51913909-eurolite-led-cls-6-pix-hcl.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-cls-9-qcl-rgb-ww-9x7w",
+  "model": "LED CLS-9 QCL RGB/WW 9x7W",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   10,
+   10
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   8,
+   11
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   271,
+   143,
+   213
+  ],
+  "url": "https://www.steinigke.de/mpn51913901-eurolite-led-cls-9-qcl-rgb-ww-9x7w.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-compact-multi-fx-laser-bar",
+  "model": "LED Compact Multi FX Laser Bar",
+  "kind": "laser",
+  "ch": [
+   2,
+   5,
+   8,
+   10
+  ],
+  "size": [
+   405,
+   148,
+   200
+  ],
+  "url": "https://www.steinigke.de/mpn51741098-eurolite-led-compact-multi-fx-laser-bar.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-d-2000-strahleneffekt",
+  "model": "LED D-2000 Strahleneffekt",
+  "kind": "effect",
+  "deg": [
+   70,
+   70
+  ],
+  "ch": [
+   5,
+   9
+  ],
+  "size": [
+   290,
+   285,
+   200
+  ],
+  "url": "https://www.steinigke.de/mpn51918317-eurolite-led-d-2000-strahleneffekt.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-d-30-hybrid-strahleneffekt",
+  "model": "LED D-30 Hybrid Strahleneffekt",
+  "kind": "effect",
+  "leds": [
+   6,
+   "rgbwauv"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   4,
+   13
+  ],
+  "size": [
+   280,
+   290,
+   190
+  ],
+  "url": "https://www.steinigke.de/mpn51918310-eurolite-led-d-30-hybrid-strahleneffekt.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-d-4000-strahleneffekt",
+  "model": "LED D-4000 Strahleneffekt",
+  "kind": "effect",
+  "deg": [
+   100,
+   100
+  ],
+  "ch": [
+   5,
+   12
+  ],
+  "size": [
+   289,
+   287,
+   199
+  ],
+  "url": "https://www.steinigke.de/mpn51917318-eurolite-led-d-4000-strahleneffekt.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-dmf-3-hybrid-flowereffekt",
+  "model": "LED DMF-3 Hybrid Flowereffekt",
+  "kind": "effect",
+  "leds": [
+   36,
+   "rgb"
+  ],
+  "deg": [
+   80,
+   80
+  ],
+  "ch": [
+   8,
+   22
+  ],
+  "size": [
+   250,
+   146,
+   179
+  ],
+  "url": "https://www.steinigke.de/mpn51918562-eurolite-led-dmf-3-hybrid-flowereffekt.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-dmf-4-hybrid-flowereffekt",
+  "model": "LED DMF-4 Hybrid Flowereffekt",
+  "kind": "effect",
+  "leds": [
+   12,
+   "cw"
+  ],
+  "deg": [
+   37,
+   37
+  ],
+  "ch": [
+   7
+  ],
+  "size": [
+   194,
+   202,
+   123
+  ],
+  "url": "https://www.steinigke.de/mpn51918563-eurolite-led-dmf-4-hybrid-flowereffekt.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-evo-120-qcl-multi-effekt-projektor",
+  "model": "LED EVO-120 QCL Multi-Effekt Projektor",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   35,
+   35
+  ],
+  "ch": [
+   6,
+   10,
+   17,
+   20
+  ],
+  "feat": [
+   "gobo:5",
+   "focus"
+  ],
+  "size": [
+   252,
+   300,
+   273
+  ],
+  "url": "https://www.steinigke.de/mpn51918551-eurolite-led-evo-120-qcl-multi-effekt-projektor.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-fe-1750-hybrid-laserflower",
+  "model": "LED FE-1750 Hybrid Laserflower",
+  "kind": "laser",
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   4,
+   13
+  ],
+  "size": [
+   315,
+   190,
+   330
+  ],
+  "url": "https://www.steinigke.de/mpn51741083-eurolite-led-fe-1750-hybrid-laserflower.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-fe-300-hybrid-flowereffekt",
+  "model": "LED FE-300 Hybrid Flowereffekt",
+  "kind": "effect",
+  "leds": [
+   6,
+   "uv"
+  ],
+  "deg": [
+   40,
+   40
+  ],
+  "ch": [
+   7
+  ],
+  "size": [
+   242,
+   183,
+   254
+  ],
+  "url": "https://www.steinigke.de/mpn51918569-eurolite-led-fe-300-hybrid-flowereffekt.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-flood-210-asym-rgbli",
+  "model": "LED Flood 210 asym RGBLI",
+  "kind": "flood",
+  "ch": [
+   1,
+   3,
+   5,
+   7
+  ],
+  "size": [
+   315,
+   220,
+   285
+  ],
+  "url": "https://www.steinigke.de/mpn40001020-eurolite-led-flood-210-asym-rgbli.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-gf-120-flowereffekt",
+  "model": "LED GF-120 Flowereffekt",
+  "kind": "effect",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   50,
+   50
+  ],
+  "ch": [
+   6
+  ],
+  "feat": [
+   "gobo:8"
+  ],
+  "size": [
+   320,
+   220,
+   190
+  ],
+  "url": "https://www.steinigke.de/mpn51918589-eurolite-led-gf-120-flowereffekt.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-atmo-bar-10",
+  "model": "LED IP Atmo Bar 10",
+  "kind": "bar",
+  "leds": [
+   10,
+   "rgb"
+  ],
+  "deg": [
+   28,
+   28
+  ],
+  "ch": [
+   14,
+   20,
+   50,
+   59
+  ],
+  "pixelFrom": 50,
+  "size": [
+   1010,
+   125,
+   240
+  ],
+  "url": "https://www.steinigke.de/mpn41606410-eurolite-led-ip-atmo-bar-10.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 10 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-atmo-blinder-9",
+  "model": "LED IP Atmo Blinder 9",
+  "kind": "blinder",
+  "leds": [
+   64,
+   "rgb"
+  ],
+  "deg": [
+   20,
+   20
+  ],
+  "ch": [
+   13,
+   18,
+   72,
+   85
+  ],
+  "size": [
+   384,
+   377,
+   205
+  ],
+  "url": "https://www.steinigke.de/mpn41606430-eurolite-led-ip-atmo-blinder-9.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-lp-120-logo-projektor",
+  "model": "LED IP LP-120 Logo-Projektor",
+  "kind": "effect",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   17,
+   17
+  ],
+  "ch": [
+   3,
+   5,
+   7
+  ],
+  "feat": [
+   "gobo:4",
+   "gobor"
+  ],
+  "size": [
+   300,
+   240,
+   256
+  ],
+  "url": "https://www.steinigke.de/mpn51799301-eurolite-led-ip-lp-120-logo-projektor.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-mega-pix-strobe-714-swing",
+  "model": "LED IP Mega PIX Strobe 714 SWING",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "rgbw"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   8,
+   9,
+   11,
+   12,
+   17,
+   18,
+   71
+  ],
+  "size": [
+   525,
+   140,
+   335
+  ],
+  "url": "https://www.steinigke.de/mpn52200943-eurolite-led-ip-mega-pix-strobe-714-swing.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-par-12x8w-qcl-spot",
+  "model": "LED IP PAR 12x8W QCL Spot",
+  "kind": "par",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "deg": [
+   15,
+   15
+  ],
+  "ch": [
+   3,
+   4,
+   5,
+   6,
+   10
+  ],
+  "size": [
+   285,
+   153,
+   314
+  ],
+  "url": "https://www.steinigke.de/mpn51914231-eurolite-led-ip-par-12x8w-qcl-spot.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-par-12x9w-scl-spot",
+  "model": "LED IP PAR 12x9W SCL Spot",
+  "kind": "par",
+  "leds": [
+   12,
+   "rgb"
+  ],
+  "deg": [
+   15,
+   15
+  ],
+  "ch": [
+   3,
+   5,
+   7,
+   9,
+   13
+  ],
+  "size": [
+   285,
+   153,
+   314
+  ],
+  "url": "https://www.steinigke.de/mpn51914233-eurolite-led-ip-par-12x9w-scl-spot.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-par-14x10w-hcl",
+  "model": "LED IP PAR 14x10W HCL",
+  "kind": "par",
+  "leds": [
+   14,
+   "rgbwauv"
+  ],
+  "deg": [
+   15,
+   15
+  ],
+  "ch": [
+   3,
+   5,
+   6,
+   8,
+   12
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   310,
+   225,
+   365
+  ],
+  "url": "https://www.steinigke.de/mpn51914172-eurolite-led-ip-par-14x10w-hcl.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-par-14x8w-qcl",
+  "model": "LED IP PAR 14x8W QCL",
+  "kind": "par",
+  "leds": [
+   14,
+   "rgbw"
+  ],
+  "deg": [
+   15,
+   15
+  ],
+  "ch": [
+   2,
+   3,
+   4,
+   8
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   310,
+   225,
+   365
+  ],
+  "url": "https://www.steinigke.de/mpn51914178-eurolite-led-ip-par-14x8w-qcl.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-par-3x8w-qcl-spot",
+  "model": "LED IP PAR 3x8W QCL Spot",
+  "kind": "par",
+  "leds": [
+   3,
+   "rgbw"
+  ],
+  "deg": [
+   15,
+   15
+  ],
+  "ch": [
+   3,
+   4,
+   5,
+   6,
+   10
+  ],
+  "pixelFrom": 10,
+  "size": [
+   215,
+   171,
+   244
+  ],
+  "url": "https://www.steinigke.de/mpn51914234-eurolite-led-ip-par-3x8w-qcl-spot.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-par-3x9w-scl-spot",
+  "model": "LED IP PAR 3x9W SCL Spot",
+  "kind": "par",
+  "leds": [
+   3,
+   "rgb"
+  ],
+  "deg": [
+   15,
+   15
+  ],
+  "ch": [
+   3,
+   5,
+   7,
+   9,
+   13
+  ],
+  "pixelFrom": 9,
+  "size": [
+   215,
+   171,
+   244
+  ],
+  "url": "https://www.steinigke.de/mpn51914235-eurolite-led-ip-par-3x9w-scl-spot.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-par-7x15w-rgbl-spot",
+  "model": "LED IP PAR 7x15W RGBL Spot",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbl"
+  ],
+  "deg": [
+   10,
+   10
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   8,
+   11
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   234,
+   280,
+   170
+  ],
+  "url": "https://www.steinigke.de/mpn51914227-eurolite-led-ip-par-7x15w-rgbl-spot.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-par-7x8w-qcl-spot",
+  "model": "LED IP PAR 7x8W QCL Spot",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   15,
+   15
+  ],
+  "ch": [
+   3,
+   4,
+   5,
+   6,
+   10
+  ],
+  "size": [
+   255,
+   153,
+   281
+  ],
+  "url": "https://www.steinigke.de/mpn51914230-eurolite-led-ip-par-7x8w-qcl-spot.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-par-7x9w-scl-spot",
+  "model": "LED IP PAR 7x9W SCL Spot",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgb"
+  ],
+  "deg": [
+   15,
+   15
+  ],
+  "ch": [
+   3,
+   5,
+   9,
+   13
+  ],
+  "size": [
+   255,
+   153,
+   281
+  ],
+  "url": "https://www.steinigke.de/mpn51914232-eurolite-led-ip-par-7x9w-scl-spot.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 7 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-par-9-uv-spot",
+  "model": "LED IP PAR 9 UV Spot",
+  "kind": "par",
+  "leds": [
+   9,
+   "uv"
+  ],
+  "deg": [
+   20,
+   20
+  ],
+  "ch": [
+   1,
+   2,
+   4
+  ],
+  "size": [
+   289,
+   152,
+   338
+  ],
+  "url": "https://www.steinigke.de/mpn51914255-eurolite-led-ip-par-9-uv-spot.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-par-64-cob-3000k-100w-zoom-sw",
+  "model": "LED IP PAR-64 COB 3000K 100W Zoom sw",
+  "kind": "cob",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   7,
+   53
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   360,
+   290,
+   350
+  ],
+  "url": "https://www.steinigke.de/mpn41603610-eurolite-led-ip-par-64-cob-3000k-100w-zoom-sw.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-pfe-40-cw-ww-15-30",
+  "model": "LED IP PFE-40 CW/WW 15-30°",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "wwcw"
+  ],
+  "deg": [
+   15,
+   30
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   6
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   345,
+   155,
+   285
+  ],
+  "url": "https://www.steinigke.de/mpn40001705-eurolite-led-ip-pfe-40-cw-ww-15-30.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-pfe-40-cw-ww-25-50",
+  "model": "LED IP PFE-40 CW/WW 25-50°",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "wwcw"
+  ],
+  "deg": [
+   25,
+   50
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   6
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   345,
+   155,
+   285
+  ],
+  "url": "https://www.steinigke.de/mpn40001706-eurolite-led-ip-pfe-40-cw-ww-25-50.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-pix-strobe-frost-5pol",
+  "model": "LED IP PIX Strobe FROST 5pol",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "deg": [
+   100,
+   100
+  ],
+  "ch": [
+   7,
+   11,
+   19,
+   25,
+   26,
+   32,
+   33,
+   34,
+   35
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   380,
+   108,
+   176
+  ],
+  "url": "https://www.steinigke.de/mpn52200938-eurolite-led-ip-pix-strobe-frost-5pol.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-pix-strobe-rgb-cw-ww-5pol-mk2",
+  "model": "LED IP PIX Strobe RGB CW+WW 5pol MK2",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   6,
+   10,
+   18,
+   24,
+   25,
+   32,
+   33,
+   34
+  ],
+  "size": [
+   380,
+   110,
+   176
+  ],
+  "url": "https://www.steinigke.de/mpn52200941-eurolite-led-ip-pix-strobe-rgb-cw+ww-5pol-mk2.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-pix-strobe-rgb-cw-ww-mk2",
+  "model": "LED IP PIX Strobe RGB CW+WW MK2",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   6,
+   10,
+   18,
+   24,
+   25,
+   32,
+   33,
+   34
+  ],
+  "size": [
+   380,
+   110,
+   176
+  ],
+  "url": "https://www.steinigke.de/mpn52200939-eurolite-led-ip-pix-strobe-rgb-cw+ww-mk2.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-pst-40-qcl-spot",
+  "model": "LED IP PST-40 QCL Spot",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   4
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   8,
+   11
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   110,
+   143,
+   196
+  ],
+  "url": "https://www.steinigke.de/mpn51916175-eurolite-led-ip-pst-40-qcl-spot.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-pt-100-34-rgb-ww-pixel-dmx-tube",
+  "model": "LED IP PT-100/34 RGB/WW Pixel DMX Tube",
+  "kind": "tube",
+  "leds": [
+   96,
+   "rgbw"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   9,
+   13,
+   20,
+   68,
+   136
+  ],
+  "size": [
+   1001,
+   70,
+   168
+  ],
+  "url": "https://www.steinigke.de/mpn51928619-eurolite-led-ip-pt-100-34-rgb-ww-pixel-dmx-tube.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-t-bar-16-qcl-leiste",
+  "model": "LED IP T-Bar 16 QCL Leiste",
+  "kind": "bar",
+  "leds": [
+   16,
+   "rgbw"
+  ],
+  "deg": [
+   20,
+   20
+  ],
+  "ch": [
+   3,
+   4,
+   5,
+   6,
+   9
+  ],
+  "size": [
+   1065,
+   100,
+   126
+  ],
+  "url": "https://www.steinigke.de/mpn51914107-eurolite-led-ip-t-bar-16-qcl-leiste.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-t-bar-8-qcl-leiste",
+  "model": "LED IP T-Bar 8 QCL Leiste",
+  "kind": "bar",
+  "leds": [
+   8,
+   "rgbw"
+  ],
+  "deg": [
+   20,
+   20
+  ],
+  "ch": [
+   3,
+   4,
+   5,
+   6,
+   9
+  ],
+  "size": [
+   584,
+   100,
+   126
+  ],
+  "url": "https://www.steinigke.de/mpn51914098-eurolite-led-ip-t-bar-8-qcl-leiste.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-t-pix-12-hcl-leiste",
+  "model": "LED IP T-PIX 12 HCL Leiste",
+  "kind": "bar",
+  "leds": [
+   12,
+   "rgbwauv"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   6,
+   11,
+   24,
+   41,
+   77
+  ],
+  "pixelFrom": 77,
+  "size": [
+   990,
+   160,
+   140
+  ],
+  "url": "https://www.steinigke.de/mpn51914111-eurolite-led-ip-t-pix-12-hcl-leiste.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-t-pix-18-qcl-leiste",
+  "model": "LED IP T-PIX 18 QCL Leiste",
+  "kind": "bar",
+  "leds": [
+   18,
+   "rgbw"
+  ],
+  "deg": [
+   18,
+   18
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   9,
+   22,
+   24,
+   36,
+   72
+  ],
+  "pixelFrom": 72,
+  "size": [
+   1065,
+   133,
+   210
+  ],
+  "url": "https://www.steinigke.de/mpn51914129-eurolite-led-ip-t-pix-18-qcl-leiste.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-tl-3-qcl-trusslight",
+  "model": "LED IP TL-3 QCL Trusslight",
+  "kind": "par",
+  "leds": [
+   3,
+   "rgbw"
+  ],
+  "deg": [
+   10,
+   10
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   8,
+   11
+  ],
+  "pixelFrom": 11,
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   131,
+   118,
+   153
+  ],
+  "url": "https://www.steinigke.de/mpn51914270-eurolite-led-ip-tl-3-qcl-trusslight.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-tmh-b250-moving-head-beam",
+  "model": "LED IP TMH-B250 Moving-Head Beam",
+  "kind": "beam",
+  "deg": [
+   1,
+   1
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "ch": [
+   14,
+   16
+  ],
+  "feat": [
+   "gobo:13",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://www.steinigke.de/mpn51782205-eurolite-led-ip-tmh-b250-moving-head-beam.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-tmh-h420-beam-wash-flowereffekt",
+  "model": "LED IP TMH-H420 Beam/Wash/Flowereffekt",
+  "kind": "beeeye",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   2,
+   55
+  ],
+  "pan": 540,
+  "tilt": 205,
+  "ch": [
+   18,
+   26,
+   46
+  ],
+  "pixelFrom": 46,
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.steinigke.de/mpn51785940-eurolite-led-ip-tmh-h420-beam-wash-flowereffekt.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-tmh-h760-beam-wash-flowereffekt",
+  "model": "LED IP TMH-H760 Beam/Wash/Flowereffekt",
+  "kind": "beeeye",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   2,
+   30
+  ],
+  "pan": 540,
+  "tilt": 210,
+  "ch": [
+   18,
+   30,
+   94
+  ],
+  "pixelFrom": 94,
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.steinigke.de/mpn51785944-eurolite-led-ip-tmh-h760-beam-wash-flowereffekt.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-tmh-s250-moving-head-beam-spot-wash",
+  "model": "LED IP TMH-S250 Moving-Head Beam/Spot/Wash",
+  "kind": "hybrid",
+  "deg": [
+   4,
+   35
+  ],
+  "pan": 540,
+  "tilt": 240,
+  "ch": [
+   18,
+   19,
+   23
+  ],
+  "feat": [
+   "gobo:8",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.steinigke.de/mpn51782200-eurolite-led-ip-tmh-s250-moving-head-beam-spot-wash.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-tmh-w285-hypno-moving-head-wash",
+  "model": "LED IP TMH-W285 Hypno Moving-Head Wash",
+  "kind": "beeeye",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   2,
+   48
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "ch": [
+   18,
+   26
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.steinigke.de/mpn51785932-eurolite-led-ip-tmh-w285-hypno-moving-head-wash.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-tourlight-200-rgb-ww",
+  "model": "LED IP Tourlight 200 RGB+WW",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   30,
+   30
+  ],
+  "ch": [
+   3,
+   4,
+   5,
+   6,
+   10
+  ],
+  "size": [
+   251,
+   272,
+   327
+  ],
+  "url": "https://www.steinigke.de/mpn51914252-eurolite-led-ip-tourlight-200-rgb+ww.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-tourlight-200-ww",
+  "model": "LED IP Tourlight 200 WW",
+  "kind": "par",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   30,
+   30
+  ],
+  "ch": [
+   1,
+   2,
+   4
+  ],
+  "size": [
+   251,
+   272,
+   327
+  ],
+  "url": "https://www.steinigke.de/mpn51914253-eurolite-led-ip-tourlight-200-ww.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-tourlight-80-rgb-ww",
+  "model": "LED IP Tourlight 80 RGB+WW",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   22,
+   22
+  ],
+  "ch": [
+   3,
+   4,
+   7,
+   12,
+   27
+  ],
+  "size": [
+   193,
+   149,
+   267
+  ],
+  "url": "https://www.steinigke.de/mpn51914246-eurolite-led-ip-tourlight-80-rgb+ww.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-ip-triple-eye-hybrid",
+  "model": "LED IP Triple Eye Hybrid",
+  "kind": "blinder",
+  "leds": [
+   3,
+   "rgbw"
+  ],
+  "deg": [
+   22,
+   22
+  ],
+  "ch": [
+   1,
+   2,
+   5,
+   10,
+   12,
+   18,
+   36
+  ],
+  "pixelFrom": 12,
+  "size": [
+   404,
+   200,
+   240
+  ],
+  "url": "https://www.steinigke.de/mpn51914211-eurolite-led-ip-triple-eye-hybrid.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-kls-laser-bar-fx-air",
+  "model": "LED KLS Laser Bar FX AIR",
+  "kind": "bar",
+  "leds": [
+   4,
+   "rgbw"
+  ],
+  "deg": [
+   12,
+   12
+  ],
+  "ch": [
+   3,
+   8,
+   11,
+   24,
+   27
+  ],
+  "pixelFrom": 24,
+  "size": [
+   1030,
+   82,
+   336
+  ],
+  "url": "https://www.steinigke.de/mpn51741099-eurolite-led-kls-laser-bar-fx-air.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-laser-derby-mk3-air",
+  "model": "LED Laser Derby MK3 AIR",
+  "kind": "laser",
+  "ch": [
+   2,
+   4,
+   5,
+   7,
+   8,
+   9,
+   10,
+   14
+  ],
+  "size": [
+   260,
+   190,
+   190
+  ],
+  "url": "https://www.steinigke.de/mpn51741068-eurolite-led-laser-derby-mk3-air.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-lp-100-logo-projektor-mk2",
+  "model": "LED LP-100 Logo-Projektor MK2",
+  "kind": "effect",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   12,
+   25
+  ],
+  "ch": [
+   5
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   310,
+   200,
+   290
+  ],
+  "url": "https://www.steinigke.de/mpn51799326-eurolite-led-lp-100-logo-projektor-mk2.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-lp-30-logo-projektor",
+  "model": "LED LP-30 Logo-Projektor",
+  "kind": "effect",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   11,
+   16
+  ],
+  "ch": [
+   2,
+   3,
+   4
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   252,
+   120,
+   248
+  ],
+  "url": "https://www.steinigke.de/mpn51799329-eurolite-led-lp-30-logo-projektor.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-mini-d-20-hybrid-strahleneffekt",
+  "model": "LED Mini D-20 Hybrid Strahleneffekt",
+  "kind": "effect",
+  "leds": [
+   16,
+   "rgbw"
+  ],
+  "ch": [
+   1,
+   4
+  ],
+  "size": [
+   260,
+   187,
+   187
+  ],
+  "url": "https://www.steinigke.de/mpn51918202-eurolite-led-mini-d-20-hybrid-strahleneffekt.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-mini-strobe-abl",
+  "model": "LED Mini Strobe ABL",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "deg": [
+   65,
+   65
+  ],
+  "ch": [
+   11
+  ],
+  "size": [
+   262,
+   60,
+   160
+  ],
+  "url": "https://www.steinigke.de/mpn52201081-eurolite-led-mini-strobe-abl.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-par-56-hcl-short-sw",
+  "model": "LED PAR-56 HCL Short sw",
+  "kind": "par",
+  "leds": [
+   9,
+   "rgbwauv"
+  ],
+  "deg": [
+   20,
+   20
+  ],
+  "ch": [
+   4,
+   6,
+   10
+  ],
+  "size": [
+   205,
+   175,
+   230
+  ],
+  "url": "https://www.steinigke.de/mpn51913591-eurolite-led-par-56-hcl-short-sw.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-par-56-qcl-short-sw",
+  "model": "LED PAR-56 QCL Short sw",
+  "kind": "par",
+  "leds": [
+   9,
+   "rgbw"
+  ],
+  "deg": [
+   8,
+   8
+  ],
+  "ch": [
+   4,
+   6,
+   8
+  ],
+  "size": [
+   205,
+   175,
+   230
+  ],
+  "url": "https://www.steinigke.de/mpn51913593-eurolite-led-par-56-qcl-short-sw.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-par-64-cob-3000k-100w-zoom-sw",
+  "model": "LED PAR-64 COB 3000K 100W Zoom sw",
+  "kind": "cob",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   11,
+   48
+  ],
+  "ch": [
+   1,
+   2,
+   3
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   260,
+   435,
+   375
+  ],
+  "url": "https://www.steinigke.de/mpn41603600-eurolite-led-par-64-cob-3000k-100w-zoom-sw.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-par-64-cob-3000k-100w-zoom-ws",
+  "model": "LED PAR-64 COB 3000K 100W Zoom ws",
+  "kind": "cob",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   15,
+   48
+  ],
+  "ch": [
+   1,
+   2,
+   3
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   260,
+   435,
+   375
+  ],
+  "url": "https://www.steinigke.de/mpn41603602-eurolite-led-par-64-cob-3000k-100w-zoom-ws.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-par-64-cob-rgbw-120w-zoom-sw-mk2",
+  "model": "LED PAR-64 COB RGBW 120W Zoom sw MK2",
+  "kind": "cob",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   11,
+   48
+  ],
+  "ch": [
+   2,
+   4,
+   5,
+   6,
+   9
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   260,
+   435,
+   375
+  ],
+  "url": "https://www.steinigke.de/mpn41603606-eurolite-led-par-64-cob-rgbw-120w-zoom-sw-mk2.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-party-spot-cob",
+  "model": "LED PARty Spot COB",
+  "kind": "cob",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   33,
+   33
+  ],
+  "ch": [
+   2,
+   3,
+   4,
+   5,
+   7
+  ],
+  "size": [
+   155,
+   90,
+   190
+  ],
+  "url": "https://www.steinigke.de/mpn42110201-eurolite-led-party-spot-cob.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-party-spot-silent-rgb-ww",
+  "model": "LED PARty Spot Silent RGB/WW",
+  "kind": "par",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "deg": [
+   12,
+   12
+  ],
+  "ch": [
+   4,
+   6,
+   8
+  ],
+  "size": [
+   90,
+   155,
+   190
+  ],
+  "url": "https://www.steinigke.de/mpn42110203-eurolite-led-party-spot-silent-rgb-ww.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pfe-100-rgbw-profile-spot",
+  "model": "LED PFE-100 RGBW Profile Spot",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   14,
+   41
+  ],
+  "ch": [
+   9
+  ],
+  "feat": [
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   615,
+   280,
+   420
+  ],
+  "url": "https://www.steinigke.de/mpn40001982-eurolite-led-pfe-100-rgbw-profile-spot.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pfe-200-3000k-profile-spot",
+  "model": "LED PFE-200 3000K Profile Spot",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   14,
+   41
+  ],
+  "ch": [
+   3
+  ],
+  "feat": [
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   618,
+   331,
+   362
+  ],
+  "url": "https://www.steinigke.de/mpn40001975-eurolite-led-pfe-200-3000k-profile-spot.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pfe-250-3000k-profile-spot",
+  "model": "LED PFE-250 3000K Profile Spot",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   14,
+   41
+  ],
+  "ch": [
+   3
+  ],
+  "feat": [
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   645,
+   270,
+   375
+  ],
+  "url": "https://www.steinigke.de/mpn40001970-eurolite-led-pfe-250-3000k-profile-spot.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pfe-60-rgbw-profile-spot-20-50",
+  "model": "LED PFE-60 RGBW Profile Spot 20-50°",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   20,
+   50
+  ],
+  "ch": [
+   5,
+   6,
+   9
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   350,
+   160,
+   255
+  ],
+  "url": "https://www.steinigke.de/mpn40001732-eurolite-led-pfe-60-rgbw-profile-spot-20-50.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pfe-60-rgbw-profile-spot-9-25",
+  "model": "LED PFE-60 RGBW Profile Spot 9-25°",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   9,
+   25
+  ],
+  "ch": [
+   5,
+   6,
+   9
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   425,
+   160,
+   255
+  ],
+  "url": "https://www.steinigke.de/mpn40001731-eurolite-led-pfe-60-rgbw-profile-spot-9-25.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pfe-60-ww-profile-spot-20-50",
+  "model": "LED PFE-60 WW Profile Spot 20-50°",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   20,
+   50
+  ],
+  "ch": [
+   1,
+   2
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   350,
+   160,
+   255
+  ],
+  "url": "https://www.steinigke.de/mpn40001712-eurolite-led-pfe-60-ww-profile-spot-20-50.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pfe-60-ww-profile-spot-9-25",
+  "model": "LED PFE-60 WW Profile Spot 9-25°",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   9,
+   25
+  ],
+  "ch": [
+   1,
+   2
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   425,
+   160,
+   255
+  ],
+  "url": "https://www.steinigke.de/mpn40001711-eurolite-led-pfe-60-ww-profile-spot-9-25.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pfe-60-ww-cw-profile-spot-20-50",
+  "model": "LED PFE-60 WW/CW Profile Spot 20-50°",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "wwcw"
+  ],
+  "deg": [
+   20,
+   50
+  ],
+  "ch": [
+   2,
+   5
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   350,
+   160,
+   255
+  ],
+  "url": "https://www.steinigke.de/mpn40001722-eurolite-led-pfe-60-ww-cw-profile-spot-20-50.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pfe-60-ww-cw-profile-spot-9-25",
+  "model": "LED PFE-60 WW/CW Profile Spot 9-25°",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "wwcw"
+  ],
+  "deg": [
+   9,
+   25
+  ],
+  "ch": [
+   2,
+   5
+  ],
+  "feat": [
+   "gobo:8",
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   425,
+   160,
+   255
+  ],
+  "url": "https://www.steinigke.de/mpn40001721-eurolite-led-pfe-60-ww-cw-profile-spot-9-25.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pix-12-swing-qcl-zoom-leiste",
+  "model": "LED PIX-12 SWING QCL Zoom Leiste",
+  "kind": "bar",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "deg": [
+   2,
+   28
+  ],
+  "ch": [
+   28,
+   34,
+   67
+  ],
+  "pixelFrom": 67,
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   1000,
+   120,
+   285
+  ],
+  "url": "https://www.steinigke.de/mpn51930386-eurolite-led-pix-12-swing-qcl-zoom-leiste.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pix-144-rgb-leiste",
+  "model": "LED PIX-144 RGB Leiste",
+  "kind": "bar",
+  "leds": [
+   8,
+   "rgb"
+  ],
+  "ch": [
+   3,
+   5,
+   6,
+   12,
+   24,
+   48
+  ],
+  "pixelFrom": 24,
+  "size": [
+   1020,
+   65,
+   80
+  ],
+  "url": "https://www.steinigke.de/mpn51930439-eurolite-led-pix-144-rgb-leiste.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pix-144-rgbw-leiste",
+  "model": "LED PIX-144 RGBW Leiste",
+  "kind": "bar",
+  "leds": [
+   96,
+   "rgbw"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   6,
+   9,
+   16,
+   30,
+   58
+  ],
+  "size": [
+   1085,
+   65,
+   90
+  ],
+  "url": "https://www.steinigke.de/mpn51930351-eurolite-led-pix-144-rgbw-leiste.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pix-144-rgbw-leiste-ws",
+  "model": "LED PIX-144 RGBW Leiste ws",
+  "kind": "bar",
+  "leds": [
+   96,
+   "rgbw"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   6,
+   9,
+   16,
+   30,
+   58
+  ],
+  "size": [
+   1085,
+   65,
+   90
+  ],
+  "url": "https://www.steinigke.de/mpn51930349-eurolite-led-pix-144-rgbw-leiste-ws.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pix-40-rgb-leiste",
+  "model": "LED PIX-40 RGB Leiste",
+  "kind": "bar",
+  "leds": [
+   40,
+   "rgb"
+  ],
+  "deg": [
+   2,
+   2
+  ],
+  "ch": [
+   3,
+   11,
+   120
+  ],
+  "pixelFrom": 120,
+  "size": [
+   1005,
+   80,
+   115
+  ],
+  "url": "https://www.steinigke.de/mpn51930436-eurolite-led-pix-40-rgb-leiste.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pix-72-rgb-leiste",
+  "model": "LED PIX-72 RGB Leiste",
+  "kind": "bar",
+  "leds": [
+   4,
+   "rgb"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   3,
+   5,
+   6,
+   12
+  ],
+  "pixelFrom": 12,
+  "size": [
+   565,
+   70,
+   90
+  ],
+  "url": "https://www.steinigke.de/mpn51930434-eurolite-led-pix-72-rgb-leiste.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pixel-matrix-bar-10-rgb-ww",
+  "model": "LED Pixel Matrix Bar 10 RGB/WW",
+  "kind": "matrix",
+  "leds": [
+   10,
+   "rgbw"
+  ],
+  "deg": [
+   45,
+   45
+  ],
+  "ch": [
+   4,
+   15,
+   40,
+   42
+  ],
+  "pixelFrom": 40,
+  "size": [
+   900,
+   135,
+   149
+  ],
+  "url": "https://www.steinigke.de/mpn41606360-eurolite-led-pixel-matrix-bar-10-rgb-ww.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 10 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pixel-matrix-panel-2x5-rgb-ww",
+  "model": "LED Pixel Matrix Panel 2x5 RGB/WW",
+  "kind": "matrix",
+  "leds": [
+   10,
+   "rgbw"
+  ],
+  "deg": [
+   45,
+   45
+  ],
+  "ch": [
+   4,
+   15,
+   40,
+   42
+  ],
+  "pixelFrom": 40,
+  "size": [
+   450,
+   135,
+   203
+  ],
+  "url": "https://www.steinigke.de/mpn41606355-eurolite-led-pixel-matrix-panel-2x5-rgb-ww.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 10 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pixel-matrix-panel-5x5-rgb-ww",
+  "model": "LED Pixel Matrix Panel 5x5 RGB/WW",
+  "kind": "matrix",
+  "leds": [
+   25,
+   "rgbw"
+  ],
+  "deg": [
+   45,
+   45
+  ],
+  "ch": [
+   4,
+   10,
+   15,
+   100,
+   102
+  ],
+  "pixelFrom": 100,
+  "size": [
+   450,
+   106,
+   450
+  ],
+  "url": "https://www.steinigke.de/mpn41606350-eurolite-led-pixel-matrix-panel-5x5-rgb-ww.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pll-2000-rgbalc-panel",
+  "model": "LED PLL-2000 RGBALC Panel",
+  "kind": "panel",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   5,
+   8,
+   9,
+   11
+  ],
+  "size": [
+   645,
+   140,
+   345
+  ],
+  "url": "https://www.steinigke.de/mpn40001905-eurolite-led-pll-2000-rgbalc-panel.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pll-360-6000k-panel",
+  "model": "LED PLL-360 6000K Panel",
+  "kind": "panel",
+  "leds": [
+   64,
+   "cw"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   3
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   570,
+   120,
+   310
+  ],
+  "url": "https://www.steinigke.de/mpn40001891-eurolite-led-pll-360-6000k-panel.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pll-384-cw-ww-panel",
+  "model": "LED PLL-384 CW/WW Panel",
+  "kind": "panel",
+  "leds": [
+   64,
+   "ww"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   347,
+   138,
+   211
+  ],
+  "url": "https://www.steinigke.de/mpn40001892-eurolite-led-pll-384-cw-ww-panel.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pll-384-rgb-ww-panel",
+  "model": "LED PLL-384 RGB/WW Panel",
+  "kind": "panel",
+  "leds": [
+   64,
+   "ww"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   8,
+   11
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   347,
+   131,
+   211
+  ],
+  "url": "https://www.steinigke.de/mpn40001893-eurolite-led-pll-384-rgb-ww-panel.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pll-480-qcl-panel",
+  "model": "LED PLL-480 QCL Panel",
+  "kind": "panel",
+  "leds": [
+   64,
+   "rgbw"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   4,
+   6
+  ],
+  "size": [
+   640,
+   130,
+   335
+  ],
+  "url": "https://www.steinigke.de/mpn40001898-eurolite-led-pll-480-qcl-panel.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pll-576-cw-ww-panel",
+  "model": "LED PLL-576 CW/WW Panel",
+  "kind": "panel",
+  "leds": [
+   64,
+   "ww"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "size": [
+   440,
+   198,
+   223
+  ],
+  "url": "https://www.steinigke.de/mpn40001899-eurolite-led-pll-576-cw-ww-panel.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pll-704-6000k-panel",
+  "model": "LED PLL-704 6000K Panel",
+  "kind": "panel",
+  "leds": [
+   64,
+   "cw"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   1,
+   2,
+   3
+  ],
+  "size": [
+   565,
+   255,
+   422
+  ],
+  "url": "https://www.steinigke.de/mpn40001835-eurolite-led-pll-704-6000k-panel.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pmb-4-cob-qcl-30w-leiste",
+  "model": "LED PMB-4 COB QCL 30W Leiste",
+  "kind": "bar",
+  "leds": [
+   4,
+   "rgbw"
+  ],
+  "deg": [
+   45,
+   45
+  ],
+  "ch": [
+   3,
+   4,
+   5,
+   6,
+   8,
+   16,
+   20
+  ],
+  "pixelFrom": 16,
+  "size": [
+   490,
+   163,
+   206
+  ],
+  "url": "https://www.steinigke.de/mpn51930287-eurolite-led-pmb-4-cob-qcl-30w-leiste.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pr-100-32-pixel-dmx-rail",
+  "model": "LED PR-100/32 Pixel DMX Rail",
+  "kind": "tube",
+  "leds": [
+   32,
+   "rgb"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   3,
+   5,
+   8,
+   48,
+   96
+  ],
+  "pixelFrom": 96,
+  "size": [
+   999,
+   60,
+   132
+  ],
+  "url": "https://www.steinigke.de/mpn51928609-eurolite-led-pr-100-32-pixel-dmx-rail.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pr-100-32-pixel-dmx-rail-sw",
+  "model": "LED PR-100/32 Pixel DMX Rail sw",
+  "kind": "tube",
+  "leds": [
+   32,
+   "rgb"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   3,
+   5,
+   8,
+   48,
+   96
+  ],
+  "pixelFrom": 96,
+  "size": [
+   999,
+   60,
+   132
+  ],
+  "url": "https://www.steinigke.de/mpn51928608-eurolite-led-pr-100-32-pixel-dmx-rail-sw.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pst-10-qcl-spot",
+  "model": "LED PST-10 QCL Spot",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   4
+  ],
+  "ch": [
+   3,
+   4,
+   5,
+   6,
+   9
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   202,
+   163,
+   203
+  ],
+  "url": "https://www.steinigke.de/mpn51916152-eurolite-led-pst-10-qcl-spot.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pst-10-qcl-spot-ws",
+  "model": "LED PST-10 QCL Spot ws",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   4
+  ],
+  "ch": [
+   3,
+   4,
+   5,
+   6,
+   9
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   202,
+   163,
+   203
+  ],
+  "url": "https://www.steinigke.de/mpn51916153-eurolite-led-pst-10-qcl-spot-ws.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pst-15w-mk2-cob-rgbw-floor-spot-wash",
+  "model": "LED PST-15W MK2 COB RGBW Floor Spot/Wash",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   4
+  ],
+  "ch": [
+   4,
+   6,
+   7
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   135,
+   190,
+   220
+  ],
+  "url": "https://www.steinigke.de/mpn51916251-eurolite-led-pst-15w-mk2-cob-rgbw-floor-spot-wash.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pst-15w-mk2-ww-floor-spot-wash",
+  "model": "LED PST-15W MK2 WW Floor Spot/Wash",
+  "kind": "par",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   4,
+   4
+  ],
+  "ch": [
+   1,
+   2
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   135,
+   175,
+   205
+  ],
+  "url": "https://www.steinigke.de/mpn51916252-eurolite-led-pst-15w-mk2-ww-floor-spot-wash.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-pst-40-qcl-spot",
+  "model": "LED PST-40 QCL Spot",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   4,
+   4
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   8,
+   11
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   120,
+   170,
+   225
+  ],
+  "url": "https://www.steinigke.de/mpn51916170-eurolite-led-pst-40-qcl-spot.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-retro-6-bar-abl",
+  "model": "LED RETRO 6 Bar ABL",
+  "kind": "bar",
+  "leds": [
+   6,
+   "rgb"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   12,
+   16,
+   43
+  ],
+  "size": [
+   1000,
+   140,
+   150
+  ],
+  "url": "https://www.steinigke.de/mpn51916645-eurolite-led-retro-6-bar-abl.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-retro-6-spot-abl",
+  "model": "LED RETRO 6 Spot ABL",
+  "kind": "retro",
+  "leds": [
+   6,
+   "rgb"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   6,
+   10,
+   12,
+   16,
+   49
+  ],
+  "size": [
+   360,
+   110,
+   375
+  ],
+  "url": "https://www.steinigke.de/mpn51916605-eurolite-led-retro-6-spot-abl.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-silent-bar-16x4w-rgb-ww",
+  "model": "LED Silent Bar 16x4W RGB/WW",
+  "kind": "bar",
+  "leds": [
+   16,
+   "rgbw"
+  ],
+  "deg": [
+   20,
+   20
+  ],
+  "ch": [
+   4,
+   6,
+   8,
+   18,
+   20
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   330,
+   170,
+   170
+  ],
+  "url": "https://www.steinigke.de/mpn51930370-eurolite-led-silent-bar-16x4w-rgb-ww.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 16 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-silent-par-12x10w-rgbl",
+  "model": "LED Silent Par 12x10W RGBL",
+  "kind": "par",
+  "leds": [
+   12,
+   "rgbl"
+  ],
+  "deg": [
+   15,
+   15
+  ],
+  "ch": [
+   4,
+   6,
+   9
+  ],
+  "size": [
+   264,
+   141,
+   272
+  ],
+  "url": "https://www.steinigke.de/mpn51915345-eurolite-led-silent-par-12x10w-rgbl.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-silent-par-6-qcl-floor-sw",
+  "model": "LED Silent Par 6 QCL Floor sw",
+  "kind": "par",
+  "leds": [
+   6,
+   "rgbw"
+  ],
+  "deg": [
+   16,
+   16
+  ],
+  "ch": [
+   6,
+   11
+  ],
+  "size": [
+   143,
+   177,
+   211
+  ],
+  "url": "https://www.steinigke.de/mpn51915340-eurolite-led-silent-par-6-qcl-floor-sw.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-silent-par-6-qcl-floor-ws",
+  "model": "LED Silent Par 6 QCL Floor ws",
+  "kind": "par",
+  "leds": [
+   6,
+   "rgbw"
+  ],
+  "deg": [
+   16,
+   16
+  ],
+  "ch": [
+   6,
+   11
+  ],
+  "size": [
+   145,
+   180,
+   205
+  ],
+  "url": "https://www.steinigke.de/mpn51915341-eurolite-led-silent-par-6-qcl-floor-ws.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-sl-350-dmx-search-light",
+  "model": "LED SL-350 DMX Search Light",
+  "kind": "follow",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   10,
+   10
+  ],
+  "ch": [
+   6
+  ],
+  "feat": [
+   "cto",
+   "iris",
+   "focus"
+  ],
+  "size": [
+   600,
+   275,
+   300
+  ],
+  "url": "https://www.steinigke.de/mpn51787316-eurolite-led-sl-350-dmx-search-light.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-sl-400-dmx-search-light",
+  "model": "LED SL-400 DMX Search Light",
+  "kind": "follow",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   7,
+   17
+  ],
+  "ch": [
+   6
+  ],
+  "feat": [
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   770,
+   270,
+   290
+  ],
+  "url": "https://www.steinigke.de/mpn51787320-eurolite-led-sl-400-dmx-search-light.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-sl-600-dmx-search-light",
+  "model": "LED SL-600 DMX Search Light",
+  "kind": "follow",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   7,
+   13
+  ],
+  "ch": [
+   5
+  ],
+  "feat": [
+   "iris",
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   1050,
+   230,
+   340
+  ],
+  "url": "https://www.steinigke.de/mpn51787330-eurolite-led-sl-600-dmx-search-light.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-sls-12-hcl-mk2-floor",
+  "model": "LED SLS-12 HCL MK2 Floor",
+  "kind": "par",
+  "leds": [
+   12,
+   "rgbwauv"
+  ],
+  "deg": [
+   17,
+   17
+  ],
+  "ch": [
+   2,
+   3,
+   4,
+   6,
+   10
+  ],
+  "size": [
+   265,
+   125,
+   285
+  ],
+  "url": "https://www.steinigke.de/mpn51915381-eurolite-led-sls-12-hcl-mk2-floor.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-sls-12-qcl-floor",
+  "model": "LED SLS-12 QCL Floor",
+  "kind": "par",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "deg": [
+   16,
+   16
+  ],
+  "ch": [
+   4,
+   6,
+   8
+  ],
+  "size": [
+   260,
+   125,
+   233
+  ],
+  "url": "https://www.steinigke.de/mpn51915383-eurolite-led-sls-12-qcl-floor.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-sls-12-uv-floor",
+  "model": "LED SLS-12 UV Floor",
+  "kind": "par",
+  "leds": [
+   12,
+   "uv"
+  ],
+  "deg": [
+   12,
+   12
+  ],
+  "ch": [
+   1,
+   3,
+   4
+  ],
+  "size": [
+   182,
+   98,
+   178
+  ],
+  "url": "https://www.steinigke.de/mpn51915283-eurolite-led-sls-12-uv-floor.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-sls-30-cob-qcl-floor",
+  "model": "LED SLS-30 COB QCL Floor",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   18,
+   18
+  ],
+  "ch": [
+   3,
+   4,
+   5,
+   6,
+   9
+  ],
+  "size": [
+   215,
+   127,
+   228
+  ],
+  "url": "https://www.steinigke.de/mpn51915301-eurolite-led-sls-30-cob-qcl-floor.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-sls-30-cob-rgbal-floor",
+  "model": "LED SLS-30 COB RGBAL Floor",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   3,
+   5,
+   7,
+   10
+  ],
+  "size": [
+   215,
+   127,
+   228
+  ],
+  "url": "https://www.steinigke.de/mpn51915304-eurolite-led-sls-30-cob-rgbal-floor.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-sls-30-cob-uv-floor",
+  "model": "LED SLS-30 COB UV Floor",
+  "kind": "par",
+  "leds": [
+   1,
+   "uv"
+  ],
+  "deg": [
+   18,
+   18
+  ],
+  "ch": [
+   1,
+   2,
+   4
+  ],
+  "size": [
+   215,
+   127,
+   228
+  ],
+  "url": "https://www.steinigke.de/mpn51915303-eurolite-led-sls-30-cob-uv-floor.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-sls-30-cob-ww-floor",
+  "model": "LED SLS-30 COB WW Floor",
+  "kind": "par",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   18,
+   18
+  ],
+  "ch": [
+   1,
+   2,
+   4
+  ],
+  "size": [
+   215,
+   127,
+   228
+  ],
+  "url": "https://www.steinigke.de/mpn51915302-eurolite-led-sls-30-cob-ww-floor.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-sls-6-tcl-spot",
+  "model": "LED SLS-6 TCL Spot",
+  "kind": "par",
+  "leds": [
+   6,
+   "rgb"
+  ],
+  "deg": [
+   16,
+   16
+  ],
+  "ch": [
+   2,
+   3,
+   4,
+   5,
+   7
+  ],
+  "size": [
+   220,
+   110,
+   210
+  ],
+  "url": "https://www.steinigke.de/mpn51915361-eurolite-led-sls-6-tcl-spot.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-sls-603-tcl-uv-floor",
+  "model": "LED SLS-603 TCL + UV Floor",
+  "kind": "par",
+  "leds": [
+   6,
+   "rgbw"
+  ],
+  "deg": [
+   11,
+   11
+  ],
+  "ch": [
+   4,
+   8
+  ],
+  "size": [
+   230,
+   110,
+   230
+  ],
+  "url": "https://www.steinigke.de/mpn51915358-eurolite-led-sls-603-tcl-+-uv-floor.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-sls-98-strobe-smd",
+  "model": "LED SLS-98 Strobe SMD",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "cw"
+  ],
+  "ch": [
+   4,
+   9
+  ],
+  "size": [
+   245,
+   215,
+   120
+  ],
+  "url": "https://www.steinigke.de/mpn52201092-eurolite-led-sls-98-strobe-smd.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-stp-10-sunbar-3200k-10x5w-lichtleiste-6",
+  "model": "LED STP-10 Sunbar 3200K 10x5W Lichtleiste 6°",
+  "kind": "bar",
+  "leds": [
+   10,
+   "ww"
+  ],
+  "deg": [
+   6,
+   6
+  ],
+  "ch": [
+   1,
+   3,
+   5,
+   10,
+   15
+  ],
+  "pixelFrom": 10,
+  "size": [
+   995,
+   150,
+   800
+  ],
+  "url": "https://www.steinigke.de/mpn42103491-eurolite-led-stp-10-sunbar-3200k-10x5w-lichtleiste-6.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-stp-14-sunbar",
+  "model": "LED STP-14 Sunbar",
+  "kind": "bar",
+  "leds": [
+   14,
+   "rgb"
+  ],
+  "deg": [
+   6.5,
+   6.5
+  ],
+  "ch": [
+   2,
+   6,
+   34,
+   37
+  ],
+  "size": [
+   1000,
+   90,
+   85
+  ],
+  "url": "https://www.steinigke.de/mpn42103493-eurolite-led-stp-14-sunbar.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-stp-15-qcl-leiste",
+  "model": "LED STP-15 QCL Leiste",
+  "kind": "bar",
+  "leds": [
+   14,
+   "rgbw"
+  ],
+  "deg": [
+   10,
+   10
+  ],
+  "ch": [
+   9,
+   11,
+   17,
+   19
+  ],
+  "size": [
+   1000,
+   67,
+   120
+  ],
+  "url": "https://www.steinigke.de/mpn42103494-eurolite-led-stp-15-qcl-leiste.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-stp-7-beam-wash-bar",
+  "model": "LED STP-7 Beam/Wash Bar",
+  "kind": "bar",
+  "leds": [
+   7,
+   "rgb"
+  ],
+  "deg": [
+   2,
+   40
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   10,
+   12,
+   15
+  ],
+  "size": [
+   1000,
+   120,
+   140
+  ],
+  "url": "https://www.steinigke.de/mpn51930390-eurolite-led-stp-7-beam-wash-bar.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-strobe-cob-pro-8x20w-dmx",
+  "model": "LED Strobe COB PRO 8x20W DMX",
+  "kind": "strobe",
+  "leds": [
+   8,
+   "cw"
+  ],
+  "ch": [
+   5
+  ],
+  "size": [
+   345,
+   110,
+   180
+  ],
+  "url": "https://www.steinigke.de/mpn52200870-eurolite-led-strobe-cob-pro-8x20w-dmx.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-strobe-smd-pro-540-dmx-rgb",
+  "model": "LED Strobe SMD PRO 540 DMX RGB",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "ch": [
+   2,
+   3,
+   4,
+   5,
+   7,
+   9,
+   18,
+   22
+  ],
+  "size": [
+   430,
+   60,
+   255
+  ],
+  "url": "https://www.steinigke.de/mpn52200915-eurolite-led-strobe-smd-pro-540-dmx-rgb.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-strobe-smd-pro-864-dmx-rgb",
+  "model": "LED Strobe SMD PRO 864 DMX RGB",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   5,
+   13,
+   54
+  ],
+  "size": [
+   460,
+   135,
+   225
+  ],
+  "url": "https://www.steinigke.de/mpn52200918-eurolite-led-strobe-smd-pro-864-dmx-rgb.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-super-pix-strobe-864-panel",
+  "model": "LED Super PIX Strobe 864 Panel",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "rgb"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   4,
+   6,
+   7,
+   9,
+   16,
+   32
+  ],
+  "size": [
+   467,
+   120,
+   324
+  ],
+  "url": "https://www.steinigke.de/mpn52200922-eurolite-led-super-pix-strobe-864-panel.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tcl-150-color-changer-cob",
+  "model": "LED TCL-150 Color Changer COB",
+  "kind": "par",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   12,
+   12
+  ],
+  "ch": [
+   6
+  ],
+  "feat": [
+   "gobo:4",
+   "focus"
+  ],
+  "size": [
+   175,
+   160,
+   215
+  ],
+  "url": "https://www.steinigke.de/mpn51786110-eurolite-led-tcl-150-color-changer-cob.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tcl-450-color-changer-cob",
+  "model": "LED TCL-450 Color Changer COB",
+  "kind": "par",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   11,
+   11
+  ],
+  "ch": [
+   6
+  ],
+  "feat": [
+   "gobo:4",
+   "focus"
+  ],
+  "size": [
+   175,
+   160,
+   210
+  ],
+  "url": "https://www.steinigke.de/mpn51786114-eurolite-led-tcl-450-color-changer-cob.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tha-100f-mk3-theater-spot",
+  "model": "LED THA-100F MK3 Theater-Spot",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   8,
+   55
+  ],
+  "ch": [
+   1,
+   3
+  ],
+  "size": [
+   350,
+   315,
+   395
+  ],
+  "url": "https://www.steinigke.de/mpn41602127-eurolite-led-tha-100f-mk3-theater-spot.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tha-120f-mk2-theater-spot",
+  "model": "LED THA-120F MK2 Theater-Spot",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   3,
+   48
+  ],
+  "ch": [
+   1,
+   2,
+   4,
+   6,
+   16
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   350,
+   315,
+   395
+  ],
+  "url": "https://www.steinigke.de/mpn41602131-eurolite-led-tha-120f-mk2-theater-spot.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tha-150f-theater-spot",
+  "model": "LED THA-150F Theater-Spot",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   8,
+   55
+  ],
+  "ch": [
+   2,
+   6,
+   7
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   457,
+   336,
+   398
+  ],
+  "url": "https://www.steinigke.de/mpn41602133-eurolite-led-tha-150f-theater-spot.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tha-230f-theater-spot",
+  "model": "LED THA-230F Theater-Spot",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   3,
+   56
+  ],
+  "ch": [
+   1,
+   2,
+   4,
+   7,
+   18
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   370,
+   350,
+   395
+  ],
+  "url": "https://www.steinigke.de/mpn41602170-eurolite-led-tha-230f-theater-spot.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tha-250f-p-o-theater-spot",
+  "model": "LED THA-250F P.O. Theater-Spot",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   5,
+   28
+  ],
+  "ch": [
+   3
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   455,
+   335,
+   615
+  ],
+  "url": "https://www.steinigke.de/mpn41602138-eurolite-led-tha-250f-po-theater-spot.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tha-40pc-theater-spot-sw",
+  "model": "LED THA-40PC Theater-Spot sw",
+  "kind": "pc",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   11,
+   48
+  ],
+  "ch": [
+   1,
+   2
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   275,
+   205,
+   250
+  ],
+  "url": "https://www.steinigke.de/mpn41602080-eurolite-led-tha-40pc-theater-spot-sw.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tha-40pc-theater-spot-ws",
+  "model": "LED THA-40PC Theater-Spot ws",
+  "kind": "pc",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   11,
+   48
+  ],
+  "ch": [
+   1,
+   2
+  ],
+  "size": [
+   275,
+   205,
+   250
+  ],
+  "url": "https://www.steinigke.de/mpn41602081-eurolite-led-tha-40pc-theater-spot-ws.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tha-450f-theater-spot",
+  "model": "LED THA-450F Theater-Spot",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   5,
+   50
+  ],
+  "ch": [
+   1,
+   2,
+   4,
+   7,
+   18
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   370,
+   339,
+   399
+  ],
+  "url": "https://www.steinigke.de/mpn41602200-eurolite-led-tha-450f-theater-spot.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tha-500f-theater-spot",
+  "model": "LED THA-500F Theater-Spot",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   8,
+   56
+  ],
+  "ch": [
+   1,
+   2,
+   4,
+   8
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   440,
+   340,
+   435
+  ],
+  "url": "https://www.steinigke.de/mpn41602180-eurolite-led-tha-500f-theater-spot.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-theatre-cob-100-rgb-ww",
+  "model": "LED Theatre COB 100 RGB+WW",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   41,
+   41
+  ],
+  "ch": [
+   4,
+   5,
+   6,
+   9
+  ],
+  "size": [
+   250,
+   320,
+   290
+  ],
+  "url": "https://www.steinigke.de/mpn41602018-eurolite-led-theatre-cob-100-rgb+ww.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-theatre-cob-100-rgbal",
+  "model": "LED Theatre COB 100 RGBAL",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   42,
+   42
+  ],
+  "ch": [
+   3,
+   5,
+   7,
+   10
+  ],
+  "size": [
+   243,
+   311,
+   320
+  ],
+  "url": "https://www.steinigke.de/mpn41602016-eurolite-led-theatre-cob-100-rgbal.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-theatre-cob-100-ww",
+  "model": "LED Theatre COB 100 WW",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   40,
+   40
+  ],
+  "ch": [
+   1,
+   4
+  ],
+  "size": [
+   243,
+   311,
+   320
+  ],
+  "url": "https://www.steinigke.de/mpn41602010-eurolite-led-theatre-cob-100-ww.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-theatre-cob-100-ww-cw",
+  "model": "LED Theatre COB 100 WW/CW",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "wwcw"
+  ],
+  "deg": [
+   41,
+   41
+  ],
+  "ch": [
+   2,
+   4,
+   5,
+   7
+  ],
+  "size": [
+   243,
+   311,
+   320
+  ],
+  "url": "https://www.steinigke.de/mpn41602014-eurolite-led-theatre-cob-100-ww-cw.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-theatre-cob-200-rgbal",
+  "model": "LED Theatre COB 200 RGBAL",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "rgbal"
+  ],
+  "deg": [
+   15,
+   15
+  ],
+  "ch": [
+   3,
+   5,
+   7,
+   11
+  ],
+  "url": "https://www.steinigke.de/mpn41602036-eurolite-led-theatre-cob-200-rgbal.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-theatre-cob-200-ww",
+  "model": "LED Theatre COB 200 WW",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   17,
+   17
+  ],
+  "ch": [
+   1,
+   2,
+   4
+  ],
+  "size": [
+   260,
+   200,
+   376
+  ],
+  "url": "https://www.steinigke.de/mpn41602030-eurolite-led-theatre-cob-200-ww.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-theatre-cob-200-ww-cw",
+  "model": "LED Theatre COB 200 WW/CW",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "wwcw"
+  ],
+  "deg": [
+   17,
+   17
+  ],
+  "ch": [
+   2,
+   4,
+   5,
+   7
+  ],
+  "size": [
+   260,
+   200,
+   376
+  ],
+  "url": "https://www.steinigke.de/mpn41602034-eurolite-led-theatre-cob-200-ww-cw.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tl-4-qcl-rgb-uv-trusslight",
+  "model": "LED TL-4 QCL RGB+UV Trusslight",
+  "kind": "par",
+  "leds": [
+   4,
+   "rgbw"
+  ],
+  "deg": [
+   13,
+   13
+  ],
+  "ch": [
+   3,
+   4,
+   8
+  ],
+  "size": [
+   155,
+   145,
+   130
+  ],
+  "url": "https://www.steinigke.de/mpn51915448-eurolite-led-tl-4-qcl-rgb+uv-trusslight.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tmh-bar-b240-moving-head-beam",
+  "model": "LED TMH Bar B240 Moving-Head Beam",
+  "kind": "tiltbar",
+  "leds": [
+   4,
+   "rgbw"
+  ],
+  "deg": [
+   2,
+   2
+  ],
+  "tilt": 180,
+  "ch": [
+   8,
+   13,
+   15,
+   23,
+   27,
+   40,
+   48
+  ],
+  "pixelFrom": 23,
+  "url": "https://www.steinigke.de/mpn51786059-eurolite-led-tmh-bar-b240-moving-head-beam.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 4 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tmh-bar-h240-moving-head-beam-flower",
+  "model": "LED TMH Bar H240 Moving-Head Beam/Flower",
+  "kind": "tiltbar",
+  "leds": [
+   16,
+   "rgbw"
+  ],
+  "deg": [
+   2,
+   2
+  ],
+  "tilt": 180,
+  "ch": [
+   5,
+   9,
+   14,
+   25,
+   29,
+   44,
+   52
+  ],
+  "pixelFrom": 52,
+  "url": "https://www.steinigke.de/mpn51786057-eurolite-led-tmh-bar-h240-moving-head-beam-flower.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 16 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tmh-bar-s120-moving-head-spots",
+  "model": "LED TMH Bar S120 Moving-Head Spots",
+  "kind": "tiltbar",
+  "deg": [
+   13,
+   13
+  ],
+  "tilt": 180,
+  "ch": [
+   5,
+   9,
+   11,
+   17,
+   21,
+   30,
+   38
+  ],
+  "feat": [
+   "gobo:7",
+   "focus"
+  ],
+  "url": "https://www.steinigke.de/mpn51786055-eurolite-led-tmh-bar-s120-moving-head-spots.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 3 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tmh-41-hypno-moving-head-spot",
+  "model": "LED TMH-41 Hypno Moving-Head Spot",
+  "kind": "beeeye",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   4.7,
+   4.7
+  ],
+  "pan": 540,
+  "tilt": 210,
+  "ch": [
+   12,
+   23
+  ],
+  "feat": [
+   "gobo:9",
+   "focus"
+  ],
+  "url": "https://www.steinigke.de/mpn51785895-eurolite-led-tmh-41-hypno-moving-head-spot.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tmh-b120-hypno-moving-head-beam",
+  "model": "LED TMH-B120 Hypno Moving-Head Beam",
+  "kind": "beeeye",
+  "leds": [
+   1,
+   "rgb"
+  ],
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "tilt": 240,
+  "ch": [
+   21
+  ],
+  "feat": [
+   "gobo:13",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://www.steinigke.de/mpn51786081-eurolite-led-tmh-b120-hypno-moving-head-beam.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tmh-b60-moving-head-beam",
+  "model": "LED TMH-B60 Moving-Head Beam",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "tilt": 180,
+  "ch": [
+   12,
+   14
+  ],
+  "url": "https://www.steinigke.de/mpn51786082-eurolite-led-tmh-b60-moving-head-beam.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tmh-b90-moving-head-beam",
+  "model": "LED TMH-B90 Moving-Head Beam",
+  "kind": "beam",
+  "deg": [
+   3,
+   3
+  ],
+  "pan": 540,
+  "tilt": 200,
+  "ch": [
+   14
+  ],
+  "feat": [
+   "gobo:13",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://www.steinigke.de/mpn51786080-eurolite-led-tmh-b90-moving-head-beam.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tmh-h180-hybrid-moving-head-spot-wash-cob",
+  "model": "LED TMH-H180 Hybrid Moving-Head Spot/Wash COB",
+  "kind": "hybrid",
+  "deg": [
+   10,
+   10
+  ],
+  "pan": 540,
+  "tilt": 220,
+  "ch": [
+   21,
+   23
+  ],
+  "feat": [
+   "gobo:7",
+   "gobor",
+   "prism",
+   "focus"
+  ],
+  "url": "https://www.steinigke.de/mpn51786085-eurolite-led-tmh-h180-hybrid-moving-head-spot-wash-cob.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tmh-h240-beam-wash-flowereffekt",
+  "model": "LED TMH-H240 Beam/Wash/Flowereffekt",
+  "kind": "beeeye",
+  "leds": [
+   6,
+   "rgbw"
+  ],
+  "deg": [
+   2,
+   40
+  ],
+  "pan": 540,
+  "tilt": 240,
+  "ch": [
+   16,
+   21,
+   24,
+   32,
+   56
+  ],
+  "pixelFrom": 24,
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.steinigke.de/mpn51785925-eurolite-led-tmh-h240-beam-wash-flowereffekt.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tmh-h380-beam-wash-flowereffekt",
+  "model": "LED TMH-H380 Beam/Wash/Flowereffekt",
+  "kind": "beeeye",
+  "leds": [
+   19,
+   "rgbl"
+  ],
+  "deg": [
+   1,
+   35
+  ],
+  "pan": 540,
+  "tilt": 215,
+  "ch": [
+   18,
+   30,
+   94
+  ],
+  "pixelFrom": 94,
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.steinigke.de/mpn51785923-eurolite-led-tmh-h380-beam-wash-flowereffekt.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tmh-h60-hybrid-moving-head-spot-flower",
+  "model": "LED TMH-H60 Hybrid Moving-Head Spot/Flower",
+  "kind": "beeeye",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   14,
+   14
+  ],
+  "pan": 540,
+  "tilt": 180,
+  "ch": [
+   16,
+   26
+  ],
+  "feat": [
+   "gobo:7"
+  ],
+  "url": "https://www.steinigke.de/mpn51786071-eurolite-led-tmh-h60-hybrid-moving-head-spot-flower.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tmh-h90-hybrid-moving-head-spot-wash-cob",
+  "model": "LED TMH-H90 Hybrid Moving-Head Spot/Wash COB",
+  "kind": "hybrid",
+  "deg": [
+   13,
+   13
+  ],
+  "pan": 540,
+  "tilt": 200,
+  "ch": [
+   25
+  ],
+  "feat": [
+   "gobo:6",
+   "gobor",
+   "gobo2",
+   "prism",
+   "focus"
+  ],
+  "url": "https://www.steinigke.de/mpn51786077-eurolite-led-tmh-h90-hybrid-moving-head-spot-wash-cob.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tmh-h90-hybrid-moving-head-spot-wash-cob-ws",
+  "model": "LED TMH-H90 Hybrid Moving-Head Spot/Wash COB ws",
+  "kind": "hybrid",
+  "deg": [
+   13,
+   13
+  ],
+  "pan": 540,
+  "tilt": 200,
+  "ch": [
+   25
+  ],
+  "feat": [
+   "gobo:6",
+   "gobor",
+   "gobo2",
+   "prism",
+   "focus"
+  ],
+  "url": "https://www.steinigke.de/mpn51786078-eurolite-led-tmh-h90-hybrid-moving-head-spot-wash-cob-ws.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tmh-s180-moving-head-spot",
+  "model": "LED TMH-S180 Moving-Head Spot",
+  "kind": "spot",
+  "deg": [
+   10,
+   10
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   13,
+   15
+  ],
+  "feat": [
+   "gobo:7",
+   "gobor",
+   "prism",
+   "focus"
+  ],
+  "url": "https://www.steinigke.de/download/51786086-Anleitung-138075-1.0000-eurolite-led-tmh-s180-moving-head-spot-de_en.pdf",
+  "note": "Kanalfolge und Bereiche aus der Eurolite-Bedienungsanleitung (DMX-Protokoll, 51786086-Anleitung-138075-1.0000-eurolite-led-tmh-s180-moving-head-spot-de_en.pdf).",
+  "verified": true,
+  "modes": [
+   {
+    "name": "13CH",
+    "channels": [
+     {
+      "name": "Horizontal movement (PAN)",
+      "attr": "pan",
+      "byte": 0
+     },
+     {
+      "name": "Vertical movement (TILT)",
+      "attr": "tilt",
+      "byte": 0
+     },
+     {
+      "name": "PAN/TILT speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Shutter, Strobe",
+      "attr": "shutter",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 3,
+        "kind": "generic",
+        "label": "Neutral"
+       },
+       {
+        "from": 4,
+        "to": 209,
+        "kind": "strobe",
+        "label": "Strobe-effect with increasing speed"
+       },
+       {
+        "from": 210,
+        "to": 251,
+        "kind": "strobe",
+        "label": "Random strobe-effect with increasing speed"
+       },
+       {
+        "from": 252,
+        "to": 255,
+        "kind": "open",
+        "label": "Shutter open"
+       }
+      ]
+     },
+     {
+      "name": "Dimmer intensity",
+      "attr": "dimmer",
+      "byte": 0
+     },
+     {
+      "name": "Color Wheel",
+      "attr": "colorWheel",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 8,
+        "kind": "color",
+        "color": "#ffffff",
+        "label": "White + red"
+       },
+       {
+        "from": 9,
+        "to": 10,
+        "kind": "color",
+        "color": "#ff2010",
+        "label": "Red"
+       },
+       {
+        "from": 11,
+        "to": 18,
+        "kind": "color",
+        "color": "#ff8000",
+        "label": "Red + orange"
+       },
+       {
+        "from": 19,
+        "to": 20,
+        "kind": "color",
+        "color": "#ff8000",
+        "label": "Orange"
+       },
+       {
+        "from": 21,
+        "to": 28,
+        "kind": "color",
+        "color": "#ff8000",
+        "label": "Orange + green"
+       },
+       {
+        "from": 29,
+        "to": 30,
+        "kind": "color",
+        "color": "#20ff40",
+        "label": "Green"
+       },
+       {
+        "from": 31,
+        "to": 38,
+        "kind": "color",
+        "color": "#80c0ff",
+        "label": "Green + light blue"
+       },
+       {
+        "from": 39,
+        "to": 40,
+        "kind": "color",
+        "color": "#80c0ff",
+        "label": "Light blue"
+       },
+       {
+        "from": 41,
+        "to": 48,
+        "kind": "color",
+        "color": "#80c0ff",
+        "label": "Light blue + purple"
+       },
+       {
+        "from": 49,
+        "to": 50,
+        "kind": "color",
+        "color": "#a020ff",
+        "label": "Purple"
+       },
+       {
+        "from": 51,
+        "to": 58,
+        "kind": "color",
+        "color": "#ffe000",
+        "label": "Purple + yellow"
+       },
+       {
+        "from": 59,
+        "to": 60,
+        "kind": "color",
+        "color": "#ffe000",
+        "label": "Yellow"
+       },
+       {
+        "from": 61,
+        "to": 68,
+        "kind": "color",
+        "color": "#ffe000",
+        "label": "Yellow + blue"
+       },
+       {
+        "from": 69,
+        "to": 70,
+        "kind": "color",
+        "color": "#2040ff",
+        "label": "Blue"
+       },
+       {
+        "from": 71,
+        "to": 78,
+        "kind": "color",
+        "color": "#2040ff",
+        "label": "Blue + pink"
+       },
+       {
+        "from": 79,
+        "to": 80,
+        "kind": "color",
+        "color": "#ff80b0",
+        "label": "Pink"
+       },
+       {
+        "from": 81,
+        "to": 88,
+        "kind": "color",
+        "color": "#ffffff",
+        "label": "Pink + white"
+       },
+       {
+        "from": 89,
+        "to": 90,
+        "kind": "color",
+        "color": "#ffffff",
+        "label": "White"
+       },
+       {
+        "from": 91,
+        "to": 255,
+        "kind": "generic",
+        "label": "Rainbow effect with increasing speed"
+       }
+      ]
+     },
+     {
+      "name": "Rotating gobo-wheel, gobo shake",
+      "attr": "gobo",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 4,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 5,
+        "to": 9,
+        "kind": "gobo",
+        "gobo": 1,
+        "label": "Gobo 1"
+       },
+       {
+        "from": 10,
+        "to": 14,
+        "kind": "gobo",
+        "gobo": 2,
+        "label": "Gobo 2"
+       },
+       {
+        "from": 15,
+        "to": 19,
+        "kind": "gobo",
+        "gobo": 3,
+        "label": "Gobo 3"
+       },
+       {
+        "from": 20,
+        "to": 24,
+        "kind": "gobo",
+        "gobo": 4,
+        "label": "Gobo 4"
+       },
+       {
+        "from": 25,
+        "to": 29,
+        "kind": "gobo",
+        "gobo": 5,
+        "label": "Gobo 5"
+       },
+       {
+        "from": 30,
+        "to": 34,
+        "kind": "gobo",
+        "gobo": 6,
+        "label": "Gobo 6"
+       },
+       {
+        "from": 35,
+        "to": 39,
+        "kind": "gobo",
+        "gobo": 7,
+        "label": "Gobo 7"
+       },
+       {
+        "from": 40,
+        "to": 129,
+        "kind": "generic",
+        "label": "Backwards gobo rotation with decreasing speed"
+       },
+       {
+        "from": 130,
+        "to": 134,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 135,
+        "to": 220,
+        "kind": "generic",
+        "label": "Forwards gobo rotation with increasing speed"
+       },
+       {
+        "from": 221,
+        "to": 225,
+        "kind": "generic",
+        "label": "Gobo 1 shake"
+       },
+       {
+        "from": 226,
+        "to": 230,
+        "kind": "generic",
+        "label": "Gobo 2 shake"
+       },
+       {
+        "from": 231,
+        "to": 235,
+        "kind": "generic",
+        "label": "Gobo 3 shake"
+       },
+       {
+        "from": 236,
+        "to": 240,
+        "kind": "generic",
+        "label": "Gobo 4 shake"
+       },
+       {
+        "from": 241,
+        "to": 245,
+        "kind": "generic",
+        "label": "Gobo 5 shake"
+       },
+       {
+        "from": 246,
+        "to": 250,
+        "kind": "generic",
+        "label": "Gobo 6 shake"
+       },
+       {
+        "from": 251,
+        "to": 255,
+        "kind": "generic",
+        "label": "Gobo 7 shake"
+       }
+      ]
+     },
+     {
+      "name": "Gobo rotation",
+      "attr": "goboRotation",
+      "byte": 0
+     },
+     {
+      "name": "Focus",
+      "attr": "focus",
+      "byte": 0
+     },
+     {
+      "name": "3-facet prism",
+      "attr": "prism",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 127,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 128,
+        "to": 255,
+        "kind": "prism",
+        "label": "3-facet prism"
+       }
+      ]
+     },
+     {
+      "name": "Rotating 3-facet prism",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Internal programs / step response",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Reset",
+      "attr": "control",
+      "byte": 0
+     }
+    ]
+   },
+   {
+    "name": "15CH",
+    "channels": [
+     {
+      "name": "Horizontal movement (PAN)",
+      "attr": "pan",
+      "byte": 0
+     },
+     {
+      "name": "Vertical movement (TILT)",
+      "attr": "tilt",
+      "byte": 0
+     },
+     {
+      "name": "PAN/TILT speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Shutter, Strobe",
+      "attr": "shutter",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 3,
+        "kind": "generic",
+        "label": "Neutral"
+       },
+       {
+        "from": 4,
+        "to": 209,
+        "kind": "strobe",
+        "label": "Strobe-effect with increasing speed"
+       },
+       {
+        "from": 210,
+        "to": 251,
+        "kind": "strobe",
+        "label": "Random strobe-effect with increasing speed"
+       },
+       {
+        "from": 252,
+        "to": 255,
+        "kind": "open",
+        "label": "Shutter open"
+       }
+      ]
+     },
+     {
+      "name": "Dimmer intensity",
+      "attr": "dimmer",
+      "byte": 0
+     },
+     {
+      "name": "Color Wheel",
+      "attr": "colorWheel",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 8,
+        "kind": "color",
+        "color": "#ffffff",
+        "label": "White + red"
+       },
+       {
+        "from": 9,
+        "to": 10,
+        "kind": "color",
+        "color": "#ff2010",
+        "label": "Red"
+       },
+       {
+        "from": 11,
+        "to": 18,
+        "kind": "color",
+        "color": "#ff8000",
+        "label": "Red + orange"
+       },
+       {
+        "from": 19,
+        "to": 20,
+        "kind": "color",
+        "color": "#ff8000",
+        "label": "Orange"
+       },
+       {
+        "from": 21,
+        "to": 28,
+        "kind": "color",
+        "color": "#ff8000",
+        "label": "Orange + green"
+       },
+       {
+        "from": 29,
+        "to": 30,
+        "kind": "color",
+        "color": "#20ff40",
+        "label": "Green"
+       },
+       {
+        "from": 31,
+        "to": 38,
+        "kind": "color",
+        "color": "#80c0ff",
+        "label": "Green + light blue"
+       },
+       {
+        "from": 39,
+        "to": 40,
+        "kind": "color",
+        "color": "#80c0ff",
+        "label": "Light blue"
+       },
+       {
+        "from": 41,
+        "to": 48,
+        "kind": "color",
+        "color": "#80c0ff",
+        "label": "Light blue + purple"
+       },
+       {
+        "from": 49,
+        "to": 50,
+        "kind": "color",
+        "color": "#a020ff",
+        "label": "Purple"
+       },
+       {
+        "from": 51,
+        "to": 58,
+        "kind": "color",
+        "color": "#ffe000",
+        "label": "Purple + yellow"
+       },
+       {
+        "from": 59,
+        "to": 60,
+        "kind": "color",
+        "color": "#ffe000",
+        "label": "Yellow"
+       },
+       {
+        "from": 61,
+        "to": 68,
+        "kind": "color",
+        "color": "#ffe000",
+        "label": "Yellow + blue"
+       },
+       {
+        "from": 69,
+        "to": 70,
+        "kind": "color",
+        "color": "#2040ff",
+        "label": "Blue"
+       },
+       {
+        "from": 71,
+        "to": 78,
+        "kind": "color",
+        "color": "#2040ff",
+        "label": "Blue + pink"
+       },
+       {
+        "from": 79,
+        "to": 80,
+        "kind": "color",
+        "color": "#ff80b0",
+        "label": "Pink"
+       },
+       {
+        "from": 81,
+        "to": 88,
+        "kind": "color",
+        "color": "#ffffff",
+        "label": "Pink + white"
+       },
+       {
+        "from": 89,
+        "to": 90,
+        "kind": "color",
+        "color": "#ffffff",
+        "label": "White"
+       },
+       {
+        "from": 91,
+        "to": 255,
+        "kind": "generic",
+        "label": "Rainbow effect with increasing speed"
+       }
+      ]
+     },
+     {
+      "name": "Rotating gobo-wheel, gobo shake",
+      "attr": "gobo",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 4,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 5,
+        "to": 9,
+        "kind": "gobo",
+        "gobo": 1,
+        "label": "Gobo 1"
+       },
+       {
+        "from": 10,
+        "to": 14,
+        "kind": "gobo",
+        "gobo": 2,
+        "label": "Gobo 2"
+       },
+       {
+        "from": 15,
+        "to": 19,
+        "kind": "gobo",
+        "gobo": 3,
+        "label": "Gobo 3"
+       },
+       {
+        "from": 20,
+        "to": 24,
+        "kind": "gobo",
+        "gobo": 4,
+        "label": "Gobo 4"
+       },
+       {
+        "from": 25,
+        "to": 29,
+        "kind": "gobo",
+        "gobo": 5,
+        "label": "Gobo 5"
+       },
+       {
+        "from": 30,
+        "to": 34,
+        "kind": "gobo",
+        "gobo": 6,
+        "label": "Gobo 6"
+       },
+       {
+        "from": 35,
+        "to": 39,
+        "kind": "gobo",
+        "gobo": 7,
+        "label": "Gobo 7"
+       },
+       {
+        "from": 40,
+        "to": 129,
+        "kind": "generic",
+        "label": "Backwards gobo rotation with decreasing speed"
+       },
+       {
+        "from": 130,
+        "to": 134,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 135,
+        "to": 220,
+        "kind": "generic",
+        "label": "Forwards gobo rotation with increasing speed"
+       },
+       {
+        "from": 221,
+        "to": 225,
+        "kind": "generic",
+        "label": "Gobo 1 shake"
+       },
+       {
+        "from": 226,
+        "to": 230,
+        "kind": "generic",
+        "label": "Gobo 2 shake"
+       },
+       {
+        "from": 231,
+        "to": 235,
+        "kind": "generic",
+        "label": "Gobo 3 shake"
+       },
+       {
+        "from": 236,
+        "to": 240,
+        "kind": "generic",
+        "label": "Gobo 4 shake"
+       },
+       {
+        "from": 241,
+        "to": 245,
+        "kind": "generic",
+        "label": "Gobo 5 shake"
+       },
+       {
+        "from": 246,
+        "to": 250,
+        "kind": "generic",
+        "label": "Gobo 6 shake"
+       },
+       {
+        "from": 251,
+        "to": 255,
+        "kind": "generic",
+        "label": "Gobo 7 shake"
+       }
+      ]
+     },
+     {
+      "name": "Gobo rotation",
+      "attr": "goboRotation",
+      "byte": 0
+     },
+     {
+      "name": "Focus",
+      "attr": "focus",
+      "byte": 0
+     },
+     {
+      "name": "3-facet prism",
+      "attr": "prism",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 127,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 128,
+        "to": 255,
+        "kind": "prism",
+        "label": "3-facet prism"
+       }
+      ]
+     },
+     {
+      "name": "Rotating 3-facet prism",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Internal programs / step response",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Reset",
+      "attr": "control",
+      "byte": 0
+     },
+     {
+      "name": "PAN-movement with 16-bit resolution",
+      "attr": "pan",
+      "byte": 1
+     },
+     {
+      "name": "TILT-movement with 16-bit resolution",
+      "attr": "tilt",
+      "byte": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tmh-s200-cmy-moving-head-beam-spot-wash",
+  "model": "LED TMH-S200 CMY Moving-Head Beam/Spot/Wash",
+  "kind": "hybrid",
+  "deg": [
+   4,
+   32
+  ],
+  "pan": 540,
+  "tilt": 220,
+  "ch": [
+   22
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.steinigke.de/mpn51786087-eurolite-led-tmh-s200-cmy-moving-head-beam-spot-wash.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tmh-s30-moving-head-spot",
+  "model": "LED TMH-S30 Moving-Head Spot",
+  "kind": "spot",
+  "deg": [
+   8,
+   8
+  ],
+  "pan": 540,
+  "tilt": 170,
+  "ch": [
+   10,
+   12
+  ],
+  "feat": [
+   "gobo:7",
+   "gobor",
+   "focus"
+  ],
+  "url": "https://www.steinigke.de/mpn51786070-eurolite-led-tmh-s30-moving-head-spot.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tmh-s400-cmy-moving-head-beam-spot-wash",
+  "model": "LED TMH-S400 CMY Moving-Head Beam/Spot/Wash",
+  "kind": "hybrid",
+  "deg": [
+   6,
+   32
+  ],
+  "pan": 540,
+  "tilt": 220,
+  "ch": [
+   22,
+   25
+  ],
+  "feat": [
+   "cmy",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://www.steinigke.de/download/51786089-Anleitung-170920-1.2000-eurolite-led-tmh-s400-cmy-moving-head-beam-spot-wash-de_en.pdf",
+  "note": "Kanalfolge und Bereiche aus der Eurolite-Bedienungsanleitung (DMX-Protokoll, 51786089-Anleitung-170920-1.2000-eurolite-led-tmh-s400-cmy-moving-head-beam-spot-wash-de_en.pdf).",
+  "verified": true,
+  "modes": [
+   {
+    "name": "22CH",
+    "channels": [
+     {
+      "name": "Horizontal movement (PAN)",
+      "attr": "pan",
+      "byte": 0
+     },
+     {
+      "name": "PAN-movement with 16-bit resolution",
+      "attr": "pan",
+      "byte": 1
+     },
+     {
+      "name": "Vertical movement (TILT)",
+      "attr": "tilt",
+      "byte": 0
+     },
+     {
+      "name": "TILT-movement with 16-bit resolution",
+      "attr": "tilt",
+      "byte": 1
+     },
+     {
+      "name": "PAN/TILT speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Dimmer intensity",
+      "attr": "dimmer",
+      "byte": 0
+     },
+     {
+      "name": "Shutter, Strobe",
+      "attr": "shutter",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 3,
+        "kind": "open",
+        "label": "LED on / no function"
+       },
+       {
+        "from": 4,
+        "to": 103,
+        "kind": "strobe",
+        "label": "Strobe-effect with increasing speed"
+       },
+       {
+        "from": 104,
+        "to": 107,
+        "kind": "open",
+        "label": "No function (shutter open)"
+       },
+       {
+        "from": 108,
+        "to": 207,
+        "kind": "strobe",
+        "label": "Pulse-effect with increasing speed"
+       },
+       {
+        "from": 208,
+        "to": 212,
+        "kind": "open",
+        "label": "No function (shutter open)"
+       },
+       {
+        "from": 213,
+        "to": 251,
+        "kind": "strobe",
+        "label": "Random strobe-effect with increasing speed"
+       },
+       {
+        "from": 252,
+        "to": 255,
+        "kind": "open",
+        "label": "No function (shutter open)"
+       }
+      ]
+     },
+     {
+      "name": "Color Wheel",
+      "attr": "colorWheel",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 4,
+        "kind": "color",
+        "color": "#ffffff",
+        "label": "White"
+       },
+       {
+        "from": 5,
+        "to": 9,
+        "kind": "color",
+        "color": "#ffffff",
+        "label": "White + red"
+       },
+       {
+        "from": 10,
+        "to": 14,
+        "kind": "color",
+        "color": "#ff2010",
+        "label": "Red"
+       },
+       {
+        "from": 15,
+        "to": 19,
+        "kind": "color",
+        "color": "#20ff40",
+        "label": "Red + green"
+       },
+       {
+        "from": 20,
+        "to": 24,
+        "kind": "color",
+        "color": "#20ff40",
+        "label": "Green"
+       },
+       {
+        "from": 25,
+        "to": 29,
+        "kind": "color",
+        "color": "#20ff40",
+        "label": "Green + blue"
+       },
+       {
+        "from": 30,
+        "to": 34,
+        "kind": "color",
+        "color": "#2040ff",
+        "label": "Blue"
+       },
+       {
+        "from": 35,
+        "to": 39,
+        "kind": "color",
+        "color": "#ffe000",
+        "label": "Blue + yellow"
+       },
+       {
+        "from": 40,
+        "to": 44,
+        "kind": "color",
+        "color": "#ffe000",
+        "label": "Yellow"
+       },
+       {
+        "from": 45,
+        "to": 49,
+        "kind": "color",
+        "color": "#ff8000",
+        "label": "Yellow + orange"
+       },
+       {
+        "from": 50,
+        "to": 54,
+        "kind": "color",
+        "color": "#ff8000",
+        "label": "Orange"
+       },
+       {
+        "from": 55,
+        "to": 59,
+        "kind": "color",
+        "color": "#ff8000",
+        "label": "Orange + purple"
+       },
+       {
+        "from": 60,
+        "to": 64,
+        "kind": "color",
+        "color": "#a020ff",
+        "label": "Purple"
+       },
+       {
+        "from": 65,
+        "to": 69,
+        "kind": "color",
+        "color": "#80c0ff",
+        "label": "Purple + light blue"
+       },
+       {
+        "from": 70,
+        "to": 74,
+        "kind": "color",
+        "color": "#80c0ff",
+        "label": "Light blue"
+       },
+       {
+        "from": 75,
+        "to": 79,
+        "kind": "color",
+        "color": "#80c0ff",
+        "label": "Light blue + magenta"
+       },
+       {
+        "from": 80,
+        "to": 84,
+        "kind": "color",
+        "color": "#ff20c0",
+        "label": "Magenta"
+       },
+       {
+        "from": 85,
+        "to": 89,
+        "kind": "color",
+        "color": "#00a030",
+        "label": "Magenta + dark green"
+       },
+       {
+        "from": 90,
+        "to": 94,
+        "kind": "color",
+        "color": "#00a030",
+        "label": "Dark green"
+       },
+       {
+        "from": 95,
+        "to": 99,
+        "kind": "color",
+        "color": "#00a030",
+        "label": "Dark green + deep purple"
+       },
+       {
+        "from": 100,
+        "to": 104,
+        "kind": "color",
+        "color": "#a020ff",
+        "label": "Deep purple"
+       },
+       {
+        "from": 105,
+        "to": 109,
+        "kind": "color",
+        "color": "#a020ff",
+        "label": "Deep purple + deep amber"
+       },
+       {
+        "from": 110,
+        "to": 114,
+        "kind": "color",
+        "color": "#ffb000",
+        "label": "Deep amber"
+       },
+       {
+        "from": 115,
+        "to": 119,
+        "kind": "color",
+        "color": "#ffd8a0",
+        "label": "Deep amber + warm white"
+       },
+       {
+        "from": 120,
+        "to": 124,
+        "kind": "color",
+        "color": "#ffd8a0",
+        "label": "Warm white"
+       },
+       {
+        "from": 125,
+        "to": 187,
+        "kind": "generic",
+        "label": "Backwards rainbow effect with decreasing speed"
+       },
+       {
+        "from": 188,
+        "to": 190,
+        "kind": "generic",
+        "label": "Rainbow effect with fast rotation"
+       },
+       {
+        "from": 191,
+        "to": 191,
+        "kind": "generic",
+        "label": "Stop"
+       },
+       {
+        "from": 192,
+        "to": 255,
+        "kind": "generic",
+        "label": "Forwards rainbow effect with increasing speed"
+       }
+      ]
+     },
+     {
+      "name": "Cyan",
+      "attr": "cyan",
+      "byte": 0
+     },
+     {
+      "name": "Magenta",
+      "attr": "magenta",
+      "byte": 0
+     },
+     {
+      "name": "Yellow",
+      "attr": "yellow",
+      "byte": 0
+     },
+     {
+      "name": "Static gobo-wheel, gobo shake",
+      "attr": "gobo",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 4,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 5,
+        "to": 9,
+        "kind": "gobo",
+        "gobo": 1,
+        "label": "Gobo 1"
+       },
+       {
+        "from": 10,
+        "to": 14,
+        "kind": "gobo",
+        "gobo": 2,
+        "label": "Gobo 2"
+       },
+       {
+        "from": 15,
+        "to": 19,
+        "kind": "gobo",
+        "gobo": 3,
+        "label": "Gobo 3"
+       },
+       {
+        "from": 20,
+        "to": 24,
+        "kind": "gobo",
+        "gobo": 4,
+        "label": "Gobo 4"
+       },
+       {
+        "from": 25,
+        "to": 29,
+        "kind": "gobo",
+        "gobo": 5,
+        "label": "Gobo 5"
+       },
+       {
+        "from": 30,
+        "to": 34,
+        "kind": "gobo",
+        "gobo": 6,
+        "label": "Gobo 6"
+       },
+       {
+        "from": 35,
+        "to": 39,
+        "kind": "gobo",
+        "gobo": 7,
+        "label": "Gobo 7"
+       },
+       {
+        "from": 40,
+        "to": 44,
+        "kind": "gobo",
+        "gobo": 8,
+        "label": "Gobo 8"
+       },
+       {
+        "from": 45,
+        "to": 49,
+        "kind": "gobo",
+        "gobo": 9,
+        "label": "Gobo 9"
+       },
+       {
+        "from": 50,
+        "to": 54,
+        "kind": "gobo",
+        "gobo": 10,
+        "label": "Gobo 10"
+       },
+       {
+        "from": 55,
+        "to": 59,
+        "kind": "gobo",
+        "gobo": 11,
+        "label": "Gobo 11"
+       },
+       {
+        "from": 60,
+        "to": 64,
+        "kind": "gobo",
+        "gobo": 12,
+        "label": "Gobo 12"
+       },
+       {
+        "from": 65,
+        "to": 69,
+        "kind": "generic",
+        "label": "Gobo 1 shake with increasing speed"
+       },
+       {
+        "from": 70,
+        "to": 74,
+        "kind": "generic",
+        "label": "Gobo 2 shake with increasing speed"
+       },
+       {
+        "from": 75,
+        "to": 79,
+        "kind": "generic",
+        "label": "Gobo 3 shake with increasing speed"
+       },
+       {
+        "from": 80,
+        "to": 84,
+        "kind": "generic",
+        "label": "Gobo 4 shake with increasing speed"
+       },
+       {
+        "from": 85,
+        "to": 89,
+        "kind": "generic",
+        "label": "Gobo 5 shake with increasing speed"
+       },
+       {
+        "from": 90,
+        "to": 94,
+        "kind": "generic",
+        "label": "Gobo 6 shake with increasing speed"
+       },
+       {
+        "from": 95,
+        "to": 99,
+        "kind": "generic",
+        "label": "Gobo 7 shake with increasing speed"
+       },
+       {
+        "from": 100,
+        "to": 104,
+        "kind": "generic",
+        "label": "Gobo 8 shake with increasing speed"
+       },
+       {
+        "from": 105,
+        "to": 109,
+        "kind": "generic",
+        "label": "Gobo 9 shake with increasing speed"
+       },
+       {
+        "from": 110,
+        "to": 114,
+        "kind": "generic",
+        "label": "Gobo 10 shake with increasing speed"
+       },
+       {
+        "from": 115,
+        "to": 119,
+        "kind": "generic",
+        "label": "Gobo 11 shake with increasing speed"
+       },
+       {
+        "from": 120,
+        "to": 124,
+        "kind": "generic",
+        "label": "Gobo 12 shake with increasing speed"
+       },
+       {
+        "from": 125,
+        "to": 187,
+        "kind": "generic",
+        "label": "Gobo-wheel rotation backwards with decreasing speed"
+       },
+       {
+        "from": 188,
+        "to": 255,
+        "kind": "generic",
+        "label": "Gobo-wheel rotation forwards with increasing speed"
+       }
+      ]
+     },
+     {
+      "name": "Rotating gobo-wheel, gobo shake",
+      "attr": "gobo",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 9,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 10,
+        "to": 19,
+        "kind": "gobo",
+        "gobo": 1,
+        "label": "Gobo 1"
+       },
+       {
+        "from": 20,
+        "to": 29,
+        "kind": "gobo",
+        "gobo": 2,
+        "label": "Gobo 2"
+       },
+       {
+        "from": 30,
+        "to": 39,
+        "kind": "gobo",
+        "gobo": 3,
+        "label": "Gobo 3"
+       },
+       {
+        "from": 40,
+        "to": 49,
+        "kind": "gobo",
+        "gobo": 4,
+        "label": "Gobo 4"
+       },
+       {
+        "from": 50,
+        "to": 59,
+        "kind": "gobo",
+        "gobo": 5,
+        "label": "Gobo 5"
+       },
+       {
+        "from": 60,
+        "to": 69,
+        "kind": "gobo",
+        "gobo": 6,
+        "label": "Gobo 6"
+       },
+       {
+        "from": 70,
+        "to": 79,
+        "kind": "gobo",
+        "gobo": 7,
+        "label": "Gobo 7"
+       },
+       {
+        "from": 80,
+        "to": 89,
+        "kind": "generic",
+        "label": "Gobo 1 shake with increasing speed"
+       },
+       {
+        "from": 90,
+        "to": 99,
+        "kind": "generic",
+        "label": "Gobo 2 shake with increasing speed"
+       },
+       {
+        "from": 100,
+        "to": 109,
+        "kind": "generic",
+        "label": "Gobo 3 shake with increasing speed"
+       },
+       {
+        "from": 110,
+        "to": 119,
+        "kind": "generic",
+        "label": "Gobo 4 shake with increasing speed"
+       },
+       {
+        "from": 120,
+        "to": 129,
+        "kind": "generic",
+        "label": "Gobo 5 shake with increasing speed"
+       },
+       {
+        "from": 130,
+        "to": 139,
+        "kind": "generic",
+        "label": "Gobo 6 shake with increasing speed"
+       },
+       {
+        "from": 140,
+        "to": 149,
+        "kind": "generic",
+        "label": "Gobo 7 shake with increasing speed"
+       },
+       {
+        "from": 150,
+        "to": 200,
+        "kind": "generic",
+        "label": "Forwards gobo rotation with decreasing speed"
+       },
+       {
+        "from": 201,
+        "to": 255,
+        "kind": "generic",
+        "label": "Backwards gobo rotation with increasing speed"
+       }
+      ]
+     },
+     {
+      "name": "Gobo rotation",
+      "attr": "goboRotation",
+      "byte": 0
+     },
+     {
+      "name": "Frost",
+      "attr": "frost",
+      "byte": 0
+     },
+     {
+      "name": "Focus",
+      "attr": "focus",
+      "byte": 0
+     },
+     {
+      "name": "Zoom",
+      "attr": "zoom",
+      "byte": 0
+     },
+     {
+      "name": "Prism 8-fold",
+      "attr": "prism",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 127,
+        "kind": "open",
+        "label": "No function"
+       },
+       {
+        "from": 128,
+        "to": 255,
+        "kind": "prism",
+        "label": "Prism"
+       }
+      ]
+     },
+     {
+      "name": "Rotating prism 8-fold position, prism rotation",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Prism 6-fold linear",
+      "attr": "prism",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 127,
+        "kind": "open",
+        "label": "No function"
+       },
+       {
+        "from": 128,
+        "to": 255,
+        "kind": "prism",
+        "label": "Prism"
+       }
+      ]
+     },
+     {
+      "name": "Rotating prism 6-fold position, prism rotation",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Reset",
+      "attr": "control",
+      "byte": 0
+     }
+    ]
+   },
+   {
+    "name": "25CH",
+    "channels": [
+     {
+      "name": "Horizontal movement (PAN)",
+      "attr": "pan",
+      "byte": 0
+     },
+     {
+      "name": "PAN-movement with 16-bit resolution",
+      "attr": "pan",
+      "byte": 1
+     },
+     {
+      "name": "Vertical movement (TILT)",
+      "attr": "tilt",
+      "byte": 0
+     },
+     {
+      "name": "TILT-movement with 16-bit resolution",
+      "attr": "tilt",
+      "byte": 1
+     },
+     {
+      "name": "PAN/TILT speed",
+      "attr": "speed",
+      "byte": 0
+     },
+     {
+      "name": "Dimmer intensity",
+      "attr": "dimmer",
+      "byte": 0
+     },
+     {
+      "name": "Shutter, Strobe",
+      "attr": "shutter",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 3,
+        "kind": "open",
+        "label": "LED on / no function"
+       },
+       {
+        "from": 4,
+        "to": 103,
+        "kind": "strobe",
+        "label": "Strobe-effect with increasing speed"
+       },
+       {
+        "from": 104,
+        "to": 107,
+        "kind": "open",
+        "label": "No function (shutter open)"
+       },
+       {
+        "from": 108,
+        "to": 207,
+        "kind": "strobe",
+        "label": "Pulse-effect with increasing speed"
+       },
+       {
+        "from": 208,
+        "to": 212,
+        "kind": "open",
+        "label": "No function (shutter open)"
+       },
+       {
+        "from": 213,
+        "to": 251,
+        "kind": "strobe",
+        "label": "Random strobe-effect with increasing speed"
+       },
+       {
+        "from": 252,
+        "to": 255,
+        "kind": "open",
+        "label": "No function (shutter open)"
+       }
+      ]
+     },
+     {
+      "name": "Color Wheel",
+      "attr": "colorWheel",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 4,
+        "kind": "color",
+        "color": "#ffffff",
+        "label": "White"
+       },
+       {
+        "from": 5,
+        "to": 9,
+        "kind": "color",
+        "color": "#ffffff",
+        "label": "White + red"
+       },
+       {
+        "from": 10,
+        "to": 14,
+        "kind": "color",
+        "color": "#ff2010",
+        "label": "Red"
+       },
+       {
+        "from": 15,
+        "to": 19,
+        "kind": "color",
+        "color": "#20ff40",
+        "label": "Red + green"
+       },
+       {
+        "from": 20,
+        "to": 24,
+        "kind": "color",
+        "color": "#20ff40",
+        "label": "Green"
+       },
+       {
+        "from": 25,
+        "to": 29,
+        "kind": "color",
+        "color": "#20ff40",
+        "label": "Green + blue"
+       },
+       {
+        "from": 30,
+        "to": 34,
+        "kind": "color",
+        "color": "#2040ff",
+        "label": "Blue"
+       },
+       {
+        "from": 35,
+        "to": 39,
+        "kind": "color",
+        "color": "#ffe000",
+        "label": "Blue + yellow"
+       },
+       {
+        "from": 40,
+        "to": 44,
+        "kind": "color",
+        "color": "#ffe000",
+        "label": "Yellow"
+       },
+       {
+        "from": 45,
+        "to": 49,
+        "kind": "color",
+        "color": "#ff8000",
+        "label": "Yellow + orange"
+       },
+       {
+        "from": 50,
+        "to": 54,
+        "kind": "color",
+        "color": "#ff8000",
+        "label": "Orange"
+       },
+       {
+        "from": 55,
+        "to": 59,
+        "kind": "color",
+        "color": "#ff8000",
+        "label": "Orange + purple"
+       },
+       {
+        "from": 60,
+        "to": 64,
+        "kind": "color",
+        "color": "#a020ff",
+        "label": "Purple"
+       },
+       {
+        "from": 65,
+        "to": 69,
+        "kind": "color",
+        "color": "#80c0ff",
+        "label": "Purple + light blue"
+       },
+       {
+        "from": 70,
+        "to": 74,
+        "kind": "color",
+        "color": "#80c0ff",
+        "label": "Light blue"
+       },
+       {
+        "from": 75,
+        "to": 79,
+        "kind": "color",
+        "color": "#80c0ff",
+        "label": "Light blue + magenta"
+       },
+       {
+        "from": 80,
+        "to": 84,
+        "kind": "color",
+        "color": "#ff20c0",
+        "label": "Magenta"
+       },
+       {
+        "from": 85,
+        "to": 89,
+        "kind": "color",
+        "color": "#00a030",
+        "label": "Magenta + dark green"
+       },
+       {
+        "from": 90,
+        "to": 94,
+        "kind": "color",
+        "color": "#00a030",
+        "label": "Dark green"
+       },
+       {
+        "from": 95,
+        "to": 99,
+        "kind": "color",
+        "color": "#00a030",
+        "label": "Dark green + deep purple"
+       },
+       {
+        "from": 100,
+        "to": 104,
+        "kind": "color",
+        "color": "#a020ff",
+        "label": "Deep purple"
+       },
+       {
+        "from": 105,
+        "to": 109,
+        "kind": "color",
+        "color": "#a020ff",
+        "label": "Deep purple + deep amber"
+       },
+       {
+        "from": 110,
+        "to": 114,
+        "kind": "color",
+        "color": "#ffb000",
+        "label": "Deep amber"
+       },
+       {
+        "from": 115,
+        "to": 119,
+        "kind": "color",
+        "color": "#ffd8a0",
+        "label": "Deep amber + warm white"
+       },
+       {
+        "from": 120,
+        "to": 124,
+        "kind": "color",
+        "color": "#ffd8a0",
+        "label": "Warm white"
+       },
+       {
+        "from": 125,
+        "to": 187,
+        "kind": "generic",
+        "label": "Backwards rainbow effect with decreasing speed"
+       },
+       {
+        "from": 188,
+        "to": 190,
+        "kind": "generic",
+        "label": "Rainbow effect with fast rotation"
+       },
+       {
+        "from": 191,
+        "to": 191,
+        "kind": "generic",
+        "label": "Stop"
+       },
+       {
+        "from": 192,
+        "to": 255,
+        "kind": "generic",
+        "label": "Forwards rainbow effect with increasing speed"
+       }
+      ]
+     },
+     {
+      "name": "Cyan",
+      "attr": "cyan",
+      "byte": 0
+     },
+     {
+      "name": "Magenta",
+      "attr": "magenta",
+      "byte": 0
+     },
+     {
+      "name": "Yellow",
+      "attr": "yellow",
+      "byte": 0
+     },
+     {
+      "name": "Static gobo-wheel, gobo shake",
+      "attr": "gobo",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 4,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 5,
+        "to": 9,
+        "kind": "gobo",
+        "gobo": 1,
+        "label": "Gobo 1"
+       },
+       {
+        "from": 10,
+        "to": 14,
+        "kind": "gobo",
+        "gobo": 2,
+        "label": "Gobo 2"
+       },
+       {
+        "from": 15,
+        "to": 19,
+        "kind": "gobo",
+        "gobo": 3,
+        "label": "Gobo 3"
+       },
+       {
+        "from": 20,
+        "to": 24,
+        "kind": "gobo",
+        "gobo": 4,
+        "label": "Gobo 4"
+       },
+       {
+        "from": 25,
+        "to": 29,
+        "kind": "gobo",
+        "gobo": 5,
+        "label": "Gobo 5"
+       },
+       {
+        "from": 30,
+        "to": 34,
+        "kind": "gobo",
+        "gobo": 6,
+        "label": "Gobo 6"
+       },
+       {
+        "from": 35,
+        "to": 39,
+        "kind": "gobo",
+        "gobo": 7,
+        "label": "Gobo 7"
+       },
+       {
+        "from": 40,
+        "to": 44,
+        "kind": "gobo",
+        "gobo": 8,
+        "label": "Gobo 8"
+       },
+       {
+        "from": 45,
+        "to": 49,
+        "kind": "gobo",
+        "gobo": 9,
+        "label": "Gobo 9"
+       },
+       {
+        "from": 50,
+        "to": 54,
+        "kind": "gobo",
+        "gobo": 10,
+        "label": "Gobo 10"
+       },
+       {
+        "from": 55,
+        "to": 59,
+        "kind": "gobo",
+        "gobo": 11,
+        "label": "Gobo 11"
+       },
+       {
+        "from": 60,
+        "to": 64,
+        "kind": "gobo",
+        "gobo": 12,
+        "label": "Gobo 12"
+       },
+       {
+        "from": 65,
+        "to": 69,
+        "kind": "generic",
+        "label": "Gobo 1 shake with increasing speed"
+       },
+       {
+        "from": 70,
+        "to": 74,
+        "kind": "generic",
+        "label": "Gobo 2 shake with increasing speed"
+       },
+       {
+        "from": 75,
+        "to": 79,
+        "kind": "generic",
+        "label": "Gobo 3 shake with increasing speed"
+       },
+       {
+        "from": 80,
+        "to": 84,
+        "kind": "generic",
+        "label": "Gobo 4 shake with increasing speed"
+       },
+       {
+        "from": 85,
+        "to": 89,
+        "kind": "generic",
+        "label": "Gobo 5 shake with increasing speed"
+       },
+       {
+        "from": 90,
+        "to": 94,
+        "kind": "generic",
+        "label": "Gobo 6 shake with increasing speed"
+       },
+       {
+        "from": 95,
+        "to": 99,
+        "kind": "generic",
+        "label": "Gobo 7 shake with increasing speed"
+       },
+       {
+        "from": 100,
+        "to": 104,
+        "kind": "generic",
+        "label": "Gobo 8 shake with increasing speed"
+       },
+       {
+        "from": 105,
+        "to": 109,
+        "kind": "generic",
+        "label": "Gobo 9 shake with increasing speed"
+       },
+       {
+        "from": 110,
+        "to": 114,
+        "kind": "generic",
+        "label": "Gobo 10 shake with increasing speed"
+       },
+       {
+        "from": 115,
+        "to": 119,
+        "kind": "generic",
+        "label": "Gobo 11 shake with increasing speed"
+       },
+       {
+        "from": 120,
+        "to": 124,
+        "kind": "generic",
+        "label": "Gobo 12 shake with increasing speed"
+       },
+       {
+        "from": 125,
+        "to": 187,
+        "kind": "generic",
+        "label": "Gobo-wheel rotation backwards with decreasing speed"
+       },
+       {
+        "from": 188,
+        "to": 255,
+        "kind": "generic",
+        "label": "Gobo-wheel rotation forwards with increasing speed"
+       }
+      ]
+     },
+     {
+      "name": "Rotating gobo-wheel, gobo shake",
+      "attr": "gobo",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 9,
+        "kind": "open",
+        "label": "Open"
+       },
+       {
+        "from": 10,
+        "to": 19,
+        "kind": "gobo",
+        "gobo": 1,
+        "label": "Gobo 1"
+       },
+       {
+        "from": 20,
+        "to": 29,
+        "kind": "gobo",
+        "gobo": 2,
+        "label": "Gobo 2"
+       },
+       {
+        "from": 30,
+        "to": 39,
+        "kind": "gobo",
+        "gobo": 3,
+        "label": "Gobo 3"
+       },
+       {
+        "from": 40,
+        "to": 49,
+        "kind": "gobo",
+        "gobo": 4,
+        "label": "Gobo 4"
+       },
+       {
+        "from": 50,
+        "to": 59,
+        "kind": "gobo",
+        "gobo": 5,
+        "label": "Gobo 5"
+       },
+       {
+        "from": 60,
+        "to": 69,
+        "kind": "gobo",
+        "gobo": 6,
+        "label": "Gobo 6"
+       },
+       {
+        "from": 70,
+        "to": 79,
+        "kind": "gobo",
+        "gobo": 7,
+        "label": "Gobo 7"
+       },
+       {
+        "from": 80,
+        "to": 89,
+        "kind": "generic",
+        "label": "Gobo 1 shake with increasing speed"
+       },
+       {
+        "from": 90,
+        "to": 99,
+        "kind": "generic",
+        "label": "Gobo 2 shake with increasing speed"
+       },
+       {
+        "from": 100,
+        "to": 109,
+        "kind": "generic",
+        "label": "Gobo 3 shake with increasing speed"
+       },
+       {
+        "from": 110,
+        "to": 119,
+        "kind": "generic",
+        "label": "Gobo 4 shake with increasing speed"
+       },
+       {
+        "from": 120,
+        "to": 129,
+        "kind": "generic",
+        "label": "Gobo 5 shake with increasing speed"
+       },
+       {
+        "from": 130,
+        "to": 139,
+        "kind": "generic",
+        "label": "Gobo 6 shake with increasing speed"
+       },
+       {
+        "from": 140,
+        "to": 149,
+        "kind": "generic",
+        "label": "Gobo 7 shake with increasing speed"
+       },
+       {
+        "from": 150,
+        "to": 200,
+        "kind": "generic",
+        "label": "Forwards gobo rotation with decreasing speed"
+       },
+       {
+        "from": 201,
+        "to": 255,
+        "kind": "generic",
+        "label": "Backwards gobo rotation with increasing speed"
+       }
+      ]
+     },
+     {
+      "name": "Gobo rotation",
+      "attr": "goboRotation",
+      "byte": 0
+     },
+     {
+      "name": "Gobo rotation fine",
+      "attr": "goboRotation",
+      "byte": 1
+     },
+     {
+      "name": "Frost",
+      "attr": "frost",
+      "byte": 0
+     },
+     {
+      "name": "Focus",
+      "attr": "focus",
+      "byte": 0
+     },
+     {
+      "name": "Focus with 16-bit resolution",
+      "attr": "focus",
+      "byte": 1
+     },
+     {
+      "name": "Zoom",
+      "attr": "zoom",
+      "byte": 0
+     },
+     {
+      "name": "Zoom with 16-bit resolution",
+      "attr": "zoom",
+      "byte": 1
+     },
+     {
+      "name": "Prism 8-fold",
+      "attr": "prism",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 127,
+        "kind": "open",
+        "label": "No function"
+       },
+       {
+        "from": 128,
+        "to": 255,
+        "kind": "prism",
+        "label": "Prism"
+       }
+      ]
+     },
+     {
+      "name": "Rotating prism 8-fold position, prism rotation",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Prism 6-fold linear",
+      "attr": "prism",
+      "byte": 0,
+      "caps": [
+       {
+        "from": 0,
+        "to": 127,
+        "kind": "open",
+        "label": "No function"
+       },
+       {
+        "from": 128,
+        "to": 255,
+        "kind": "prism",
+        "label": "Prism"
+       }
+      ]
+     },
+     {
+      "name": "Rotating prism 6-fold position, prism rotation",
+      "attr": "other",
+      "byte": 0
+     },
+     {
+      "name": "Reset",
+      "attr": "control",
+      "byte": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tmh-s60-moving-head-spot",
+  "model": "LED TMH-S60 Moving-Head Spot",
+  "kind": "spot",
+  "deg": [
+   12,
+   12
+  ],
+  "pan": 540,
+  "tilt": 180,
+  "ch": [
+   10,
+   12
+  ],
+  "feat": [
+   "gobo:7",
+   "gobor",
+   "focus"
+  ],
+  "url": "https://www.steinigke.de/mpn51786072-eurolite-led-tmh-s60-moving-head-spot.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tmh-s60-moving-head-spot-ws",
+  "model": "LED TMH-S60 Moving-Head Spot ws",
+  "kind": "spot",
+  "deg": [
+   12,
+   12
+  ],
+  "pan": 540,
+  "tilt": 180,
+  "ch": [
+   10,
+   12
+  ],
+  "feat": [
+   "gobo:7",
+   "gobor",
+   "focus"
+  ],
+  "url": "https://www.steinigke.de/mpn51786073-eurolite-led-tmh-s60-moving-head-spot-ws.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tmh-w120-hypno-moving-head-wash",
+  "model": "LED TMH-W120 Hypno Moving-Head Wash",
+  "kind": "beeeye",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   11,
+   11
+  ],
+  "pan": 540,
+  "tilt": 200,
+  "ch": [
+   23
+  ],
+  "url": "https://www.steinigke.de/mpn51785928-eurolite-led-tmh-w120-hypno-moving-head-wash.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tmh-w375-matrix-moving-head-wash-zoom",
+  "model": "LED TMH-W375 Matrix Moving-Head Wash Zoom",
+  "kind": "matrixhead",
+  "leds": [
+   25,
+   "rgbw"
+  ],
+  "deg": [
+   2,
+   42
+  ],
+  "pan": 540,
+  "tilt": 215,
+  "ch": [
+   11,
+   22,
+   109,
+   122
+  ],
+  "pixelFrom": 109,
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.steinigke.de/mpn51785931-eurolite-led-tmh-w375-matrix-moving-head-wash-zoom.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tmh-w400-moving-head-wash-zoom",
+  "model": "LED TMH-W400 Moving-Head Wash Zoom",
+  "kind": "wash",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   9,
+   48
+  ],
+  "pan": 540,
+  "tilt": 230,
+  "ch": [
+   13
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.steinigke.de/mpn51785930-eurolite-led-tmh-w400-moving-head-wash-zoom.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tmh-w480-moving-head-wash-zoom",
+  "model": "LED TMH-W480 Moving-Head Wash Zoom",
+  "kind": "wash",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "deg": [
+   1,
+   35
+  ],
+  "pan": 540,
+  "tilt": 215,
+  "ch": [
+   11,
+   16,
+   18,
+   58
+  ],
+  "pixelFrom": 58,
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.steinigke.de/mpn51785935-eurolite-led-tmh-w480-moving-head-wash-zoom.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tmh-w555-moving-head-wash-zoom",
+  "model": "LED TMH-W555 Moving-Head Wash Zoom",
+  "kind": "wash",
+  "leds": [
+   37,
+   "rgbw"
+  ],
+  "deg": [
+   1,
+   38
+  ],
+  "pan": 540,
+  "tilt": 205,
+  "ch": [
+   24,
+   36,
+   48
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.steinigke.de/mpn51785920-eurolite-led-tmh-w555-moving-head-wash-zoom.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tmh-w63-moving-head-zoom-wash",
+  "model": "LED TMH-W63 Moving-Head Zoom Wash",
+  "kind": "wash",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   6,
+   29
+  ],
+  "pan": 540,
+  "tilt": 195,
+  "ch": [
+   15
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://www.steinigke.de/mpn51785885-eurolite-led-tmh-w63-moving-head-zoom-wash.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tmh-x1-moving-head-beam",
+  "model": "LED TMH-X1 Moving-Head Beam",
+  "kind": "beam",
+  "deg": [
+   3,
+   3
+  ],
+  "pan": 540,
+  "tilt": 220,
+  "ch": [
+   14
+  ],
+  "url": "https://www.steinigke.de/mpn51785988-eurolite-led-tmh-x1-moving-head-beam.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tsl-150-scan-cob",
+  "model": "LED TSL-150 Scan COB",
+  "kind": "effect",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   12,
+   12
+  ],
+  "ch": [
+   9
+  ],
+  "feat": [
+   "gobo:7",
+   "focus"
+  ],
+  "size": [
+   165,
+   330,
+   195
+  ],
+  "url": "https://www.steinigke.de/mpn51786119-eurolite-led-tsl-150-scan-cob.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tsl-1500-scan",
+  "model": "LED TSL-1500 Scan",
+  "kind": "effect",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   11,
+   11
+  ],
+  "ch": [
+   13
+  ],
+  "feat": [
+   "gobo:7",
+   "gobor",
+   "prism",
+   "focus"
+  ],
+  "size": [
+   335,
+   165,
+   470
+  ],
+  "url": "https://www.steinigke.de/mpn51786127-eurolite-led-tsl-1500-scan.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tsl-350-scan-cob",
+  "model": "LED TSL-350 Scan COB",
+  "kind": "effect",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   11,
+   11
+  ],
+  "ch": [
+   10
+  ],
+  "feat": [
+   "gobo:7",
+   "gobor",
+   "focus"
+  ],
+  "size": [
+   160,
+   150,
+   330
+  ],
+  "url": "https://www.steinigke.de/mpn51786150-eurolite-led-tsl-350-scan-cob.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-tsl-350-scan-cob-ws",
+  "model": "LED TSL-350 Scan COB ws",
+  "kind": "effect",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   11,
+   11
+  ],
+  "ch": [
+   10
+  ],
+  "feat": [
+   "gobo:7",
+   "gobor",
+   "focus"
+  ],
+  "size": [
+   160,
+   150,
+   330
+  ],
+  "url": "https://www.steinigke.de/mpn51786151-eurolite-led-tsl-350-scan-cob-ws.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-wf-100-wassereffekt",
+  "model": "LED WF-100 Wassereffekt",
+  "kind": "effect",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   45,
+   45
+  ],
+  "ch": [
+   5
+  ],
+  "feat": [
+   "focus"
+  ],
+  "size": [
+   320,
+   235,
+   195
+  ],
+  "url": "https://www.steinigke.de/mpn51918547-eurolite-led-wf-100-wassereffekt.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-wf-40-wassereffekt",
+  "model": "LED WF-40 Wassereffekt",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   30,
+   30
+  ],
+  "ch": [
+   9
+  ],
+  "feat": [
+   "focus"
+  ],
+  "size": [
+   277,
+   252,
+   187
+  ],
+  "url": "https://www.steinigke.de/mpn51918544-eurolite-led-wf-40-wassereffekt.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-z-2000-strahleneffekt",
+  "model": "LED Z-2000 Strahleneffekt",
+  "kind": "effect",
+  "deg": [
+   115,
+   115
+  ],
+  "ch": [
+   5,
+   9
+  ],
+  "size": [
+   320,
+   279,
+   279
+  ],
+  "url": "https://www.steinigke.de/mpn51918222-eurolite-led-z-2000-strahleneffekt.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-z-4000-strahleneffekt",
+  "model": "LED Z-4000 Strahleneffekt",
+  "kind": "effect",
+  "deg": [
+   100,
+   100
+  ],
+  "ch": [
+   5,
+   12
+  ],
+  "size": [
+   282,
+   320,
+   282
+  ],
+  "url": "https://www.steinigke.de/mpn51918223-eurolite-led-z-4000-strahleneffekt.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "led-z-par-18x8w-qcl-zoom",
+  "model": "LED Z-PAR 18x8W QCL Zoom",
+  "kind": "par",
+  "leds": [
+   18,
+   "rgbw"
+  ],
+  "deg": [
+   12,
+   72
+  ],
+  "ch": [
+   7,
+   11
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   282,
+   158,
+   295
+  ],
+  "url": "https://www.steinigke.de/mpn51916505-eurolite-led-z-par-18x8w-qcl-zoom.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "mdm-50-moving-double-mirror",
+  "model": "MDM-50 MOVING DOUBLE MIRROR",
+  "kind": "spot",
+  "deg": [
+   120,
+   120
+  ],
+  "pan": 540,
+  "tilt": 360,
+  "ch": [
+   10,
+   14,
+   16,
+   25,
+   88
+  ],
+  "url": "https://www.steinigke.de/mpn51918900-eurolite-mdm-50-moving-double-mirror.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "multiflood-ip-18x10w-rgbw-wash-crmx",
+  "model": "Multiflood IP 18x10W RGBW Wash CRMX",
+  "kind": "flood",
+  "deg": [
+   10,
+   10
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   8,
+   11
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   410,
+   184,
+   269
+  ],
+  "url": "https://www.steinigke.de/mpn41606260-eurolite-multiflood-ip-18x10w-rgbw-wash-crmx.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "multiflood-ip-24x40w-rgbl-swing-frost",
+  "model": "Multiflood IP 24x40W RGBL SWING FROST",
+  "kind": "flood",
+  "deg": [
+   2,
+   35
+  ],
+  "ch": [
+   1,
+   2,
+   6,
+   7,
+   10,
+   13,
+   16,
+   28,
+   100,
+   106
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   528,
+   195,
+   326
+  ],
+  "url": "https://www.steinigke.de/mpn52200946-eurolite-multiflood-ip-24x40w-rgbl-swing-frost.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "multiflood-ip-8x10w-rgbw-wash",
+  "model": "Multiflood IP 8x10W RGBW Wash",
+  "kind": "flood",
+  "deg": [
+   10,
+   10
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   8,
+   11
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   319,
+   140,
+   248
+  ],
+  "url": "https://www.steinigke.de/mpn41606250-eurolite-multiflood-ip-8x10w-rgbw-wash.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "multiflood-ip-8x10w-rgbw-wash-crmx",
+  "model": "Multiflood IP 8x10W RGBW Wash CRMX",
+  "kind": "flood",
+  "deg": [
+   10,
+   10
+  ],
+  "ch": [
+   3,
+   4,
+   6,
+   8,
+   11
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   319,
+   140,
+   248
+  ],
+  "url": "https://www.steinigke.de/mpn41606255-eurolite-multiflood-ip-8x10w-rgbw-wash-crmx.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "multiflood-pro-ip-smd-rgbw-strobe-wash-mk2",
+  "model": "Multiflood Pro IP SMD RGBW Strobe/Wash MK2",
+  "kind": "strobe",
+  "leds": [
+   96,
+   "rgbw"
+  ],
+  "deg": [
+   120,
+   120
+  ],
+  "ch": [
+   7,
+   11,
+   12,
+   20,
+   25,
+   56,
+   66
+  ],
+  "size": [
+   490,
+   160,
+   285
+  ],
+  "url": "https://www.steinigke.de/mpn52200928-eurolite-multiflood-pro-ip-smd-rgbw-strobe-wash-mk2.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "polarstar-rgb-laser",
+  "model": "PolarStar RGB Laser",
+  "kind": "laser",
+  "deg": [
+   23,
+   23
+  ],
+  "ch": [
+   8
+  ],
+  "size": [
+   240,
+   205,
+   165
+  ],
+  "url": "https://www.steinigke.de/mpn51741069-eurolite-polarstar-rgb-laser.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "powerdome-200-rgbw",
+  "model": "PowerDome 200 RGBW",
+  "kind": "effect",
+  "leds": [
+   20,
+   "ww"
+  ],
+  "ch": [
+   2,
+   3,
+   4,
+   5,
+   10
+  ],
+  "size": [
+   266,
+   140,
+   35
+  ],
+  "url": "https://www.steinigke.de/mpn51918860-eurolite-powerdome-200-rgbw.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "retro-bowl-1",
+  "model": "RETRO BOWL 1",
+  "kind": "retro",
+  "deg": [
+   40,
+   40
+  ],
+  "ch": [
+   7,
+   13,
+   15
+  ],
+  "size": [
+   400,
+   230,
+   360
+  ],
+  "url": "https://www.steinigke.de/mpn51916650-eurolite-retro-bowl-1.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "stage-panel-16-hcl-led",
+  "model": "Stage Panel 16 HCL LED",
+  "kind": "panel",
+  "leds": [
+   16,
+   "rgbwauv"
+  ],
+  "deg": [
+   23,
+   23
+  ],
+  "ch": [
+   2,
+   3,
+   5,
+   6,
+   8,
+   11,
+   24,
+   32
+  ],
+  "size": [
+   591,
+   199,
+   303
+  ],
+  "url": "https://www.steinigke.de/mpn51913891-eurolite-stage-panel-16-hcl-led.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "sunset-ip-bar-12-blinder-dim2warm",
+  "model": "SUNSET IP BAR 12 Blinder dim2warm",
+  "kind": "blinder",
+  "leds": [
+   36,
+   "ww"
+  ],
+  "ch": [
+   1,
+   4,
+   6,
+   12,
+   16,
+   21,
+   24,
+   34
+  ],
+  "size": [
+   1005,
+   140,
+   180
+  ],
+  "url": "https://www.steinigke.de/mpn41604100-eurolite-sunset-ip-bar-12-blinder-dim2warm.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "sunset-ip-eye-1-blinder-dim2warm",
+  "model": "SUNSET IP EYE 1 Blinder dim2warm",
+  "kind": "blinder",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   73,
+   73
+  ],
+  "ch": [
+   1,
+   4,
+   8,
+   10,
+   12
+  ],
+  "size": [
+   287,
+   255,
+   223
+  ],
+  "url": "https://www.steinigke.de/mpn41604105-eurolite-sunset-ip-eye-1-blinder-dim2warm.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "tmh-xb-280-moving-head-beam",
+  "model": "TMH XB-280 Moving-Head-Beam",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16,
+   19
+  ],
+  "feat": [
+   "gobo:13",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://www.steinigke.de/mpn51786825-eurolite-tmh-xb-280-moving-head-beam.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Eurolite",
+  "key": "zoom4bar-qcl-leiste",
+  "model": "Zoom4Bar QCL Leiste",
+  "kind": "bar",
+  "leds": [
+   16,
+   "rgbw"
+  ],
+  "deg": [
+   5,
+   80
+  ],
+  "ch": [
+   5,
+   7,
+   9,
+   20,
+   26
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   575,
+   195,
+   230
+  ],
+  "url": "https://www.steinigke.de/mpn51913896-eurolite-zoom4bar-qcl-leiste.html",
+  "note": "Steckbrief aus Herstellerangaben (steinigke.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

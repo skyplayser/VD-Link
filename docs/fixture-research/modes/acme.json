@@ -1,0 +1,3584 @@
+[
+ {
+  "man": "Acme",
+  "key": "aeco-15",
+  "model": "AECO 15",
+  "kind": "profile",
+  "deg": [
+   5,
+   52
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   22,
+   29,
+   31,
+   38
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:8",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://en.acmelighting.com/item/AECO-15",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "aeco-30-ip",
+  "model": "AECO 30 IP",
+  "kind": "profile",
+  "deg": [
+   4,
+   48
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   23,
+   32,
+   34,
+   43
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:6",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://en.acmelighting.com/item/AECO-30-IP",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "aeco-5",
+  "model": "AECO 5",
+  "kind": "profile",
+  "deg": [
+   6.5,
+   54
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   24,
+   28,
+   33
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:8",
+   "gobor",
+   "gobo2",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://en.acmelighting.com/item/AECO-5",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "ares-ip",
+  "model": "ARES IP",
+  "kind": "beam",
+  "deg": [
+   1.3,
+   1.3
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "ch": [
+   24
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:10",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost"
+  ],
+  "url": "https://en.acmelighting.com/item/ARES-IP",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "ares",
+  "model": "ARES",
+  "kind": "beam",
+  "deg": [
+   1.3,
+   1.3
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "ch": [
+   17,
+   21
+  ],
+  "feat": [
+   "cto",
+   "gobo:10",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://en.acmelighting.com/item/ARES",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "autolux",
+  "model": "AUTOLUX",
+  "kind": "wash",
+  "deg": [
+   11,
+   42
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   25
+  ],
+  "feat": [
+   "cto",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://en.acmelighting.com/item/AUTOLUX",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "beamone-pro",
+  "model": "BEAMONE PRO",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   25
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:10",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://en.acmelighting.com/item/BEAMONE-PRO",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "blinder-line-10-ip",
+  "model": "BLINDER LINE 10 IP",
+  "kind": "blinder",
+  "leds": [
+   10,
+   "rgbwa"
+  ],
+  "grid": [
+   1,
+   10
+  ],
+  "deg": [
+   23,
+   23
+  ],
+  "ch": [
+   14,
+   55
+  ],
+  "pixelFrom": 55,
+  "size": [
+   1000,
+   103,
+   158
+  ],
+  "url": "https://en.acmelighting.com/item/BLINDER-LINE-10-IP",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "blinder-line-5-ip",
+  "model": "BLINDER LINE 5 IP",
+  "kind": "blinder",
+  "leds": [
+   5,
+   "rgbwa"
+  ],
+  "grid": [
+   1,
+   5
+  ],
+  "deg": [
+   23,
+   23
+  ],
+  "ch": [
+   14,
+   30
+  ],
+  "pixelFrom": 30,
+  "size": [
+   500,
+   103,
+   160
+  ],
+  "url": "https://en.acmelighting.com/item/BLINDER-LINE-5-IP",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "comet",
+  "model": "COMET",
+  "kind": "follow",
+  "deg": [
+   5,
+   15
+  ],
+  "ch": [
+   7
+  ],
+  "feat": [
+   "iris",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   493,
+   1052,
+   369
+  ],
+  "url": "https://en.acmelighting.com/item/COMET",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "coolie-186",
+  "model": "COOLIE 186",
+  "kind": "par",
+  "leds": [
+   18,
+   "rgbw"
+  ],
+  "deg": [
+   18,
+   18
+  ],
+  "ch": [
+   4,
+   5,
+   8,
+   10
+  ],
+  "size": [
+   172,
+   113,
+   200
+  ],
+  "url": "https://en.acmelighting.com/item/COOLIE-186",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "cyclone",
+  "model": "CYCLONE",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   4,
+   30
+  ],
+  "ch": [
+   27,
+   50,
+   58
+  ],
+  "feat": [
+   "cto",
+   "focus"
+  ],
+  "size": [
+   235,
+   192,
+   363
+  ],
+  "url": "https://en.acmelighting.com/item/CYCLONE",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "ellipsoidal-300-ww",
+  "model": "ELLIPSOIDAL 300 WW",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   5,
+   5
+  ],
+  "ch": [
+   1,
+   2
+  ],
+  "feat": [
+   "gobo:8",
+   "blades"
+  ],
+  "size": [
+   276,
+   712,
+   524
+  ],
+  "url": "https://en.acmelighting.com/item/ELLIPSOIDAL-300-WW",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "ellipsoidal-40-dmx-ww",
+  "model": "ELLIPSOIDAL 40 DMX WW",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   19,
+   19
+  ],
+  "ch": [
+   1,
+   2
+  ],
+  "size": [
+   158,
+   273,
+   100
+  ],
+  "url": "https://en.acmelighting.com/item/ELLIPSOIDAL-40-DMX-WW",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "geist-bswf",
+  "model": "GEIST BSWF",
+  "kind": "profile",
+  "deg": [
+   6.5,
+   54
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "ch": [
+   25,
+   29,
+   34
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:8",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://en.acmelighting.com/item/GEIST-BSWF",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "gemini",
+  "model": "GEMINI",
+  "kind": "tiltbar",
+  "leds": [
+   5,
+   "rgbw"
+  ],
+  "grid": [
+   1,
+   5
+  ],
+  "deg": [
+   2.8,
+   31
+  ],
+  "ch": [
+   23,
+   25,
+   27,
+   35,
+   55,
+   58,
+   70
+  ],
+  "pixelFrom": 23,
+  "feat": [
+   "iris",
+   "zoom"
+  ],
+  "url": "https://en.acmelighting.com/item/GEMINI",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "hue-6-ip",
+  "model": "HUE 6 IP",
+  "kind": "profile",
+  "deg": [
+   6,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   43,
+   45,
+   46,
+   50
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:7",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://en.acmelighting.com/item/HUE-6-IP",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "hueline-16-ip",
+  "model": "HUELINE 16 IP",
+  "kind": "bar",
+  "leds": [
+   16,
+   "rgbwa"
+  ],
+  "deg": [
+   21,
+   49
+  ],
+  "ch": [
+   16,
+   18,
+   133,
+   136
+  ],
+  "feat": [
+   "cto",
+   "frost"
+  ],
+  "size": [
+   998,
+   78,
+   130
+  ],
+  "url": "https://en.acmelighting.com/item/HUELINE-16-IP",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "hyperzone",
+  "model": "HYPERZONE",
+  "kind": "wash",
+  "leds": [
+   7,
+   "rgbl"
+  ],
+  "deg": [
+   3,
+   32
+  ],
+  "pan": 540,
+  "tilt": 210,
+  "ch": [
+   19,
+   20,
+   21,
+   41,
+   42,
+   43
+  ],
+  "pixelFrom": 41,
+  "feat": [
+   "cto",
+   "zoom"
+  ],
+  "url": "https://en.acmelighting.com/item/HYPERZONE",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "lightning-x",
+  "model": "LIGHTNING X",
+  "kind": "strobe",
+  "leds": [
+   30,
+   "rgbw"
+  ],
+  "deg": [
+   2.6,
+   2.6
+  ],
+  "ch": [
+   31,
+   43,
+   100,
+   230
+  ],
+  "pixelFrom": 100,
+  "size": [
+   500,
+   180,
+   327
+  ],
+  "url": "https://en.acmelighting.com/item/LIGHTNING-X",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "lightning",
+  "model": "LIGHTNING",
+  "kind": "strobe",
+  "leds": [
+   30,
+   "rgbw"
+  ],
+  "deg": [
+   102,
+   102
+  ],
+  "ch": [
+   10,
+   17,
+   21,
+   24,
+   26,
+   36,
+   41,
+   61,
+   150,
+   158
+  ],
+  "pixelFrom": 150,
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   483,
+   212,
+   224
+  ],
+  "url": "https://en.acmelighting.com/item/LIGHTNING",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "lineforce-10-ip",
+  "model": "LINEFORCE 10 IP",
+  "kind": "bar",
+  "leds": [
+   10,
+   "rgbwa"
+  ],
+  "deg": [
+   14,
+   57
+  ],
+  "ch": [
+   10,
+   12,
+   16,
+   18,
+   19,
+   21,
+   79,
+   82
+  ],
+  "feat": [
+   "cto",
+   "frost"
+  ],
+  "size": [
+   1000,
+   100,
+   162
+  ],
+  "url": "https://en.acmelighting.com/item/LINEFORCE-10-IP",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "lineforce-5-ip",
+  "model": "LINEFORCE 5 IP",
+  "kind": "bar",
+  "leds": [
+   5,
+   "rgbwa"
+  ],
+  "deg": [
+   14,
+   55
+  ],
+  "ch": [
+   10,
+   12,
+   16,
+   18,
+   19,
+   21,
+   44,
+   47
+  ],
+  "pixelFrom": 44,
+  "feat": [
+   "cto",
+   "frost"
+  ],
+  "size": [
+   500,
+   100,
+   162
+  ],
+  "url": "https://en.acmelighting.com/item/LINEFORCE-5-IP",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "lyra-bw",
+  "model": "LYRA BW",
+  "kind": "beam",
+  "deg": [
+   4.5,
+   40
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "ch": [
+   18,
+   30
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:14",
+   "frost",
+   "blades"
+  ],
+  "url": "https://en.acmelighting.com/item/LYRA-BW",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "mana-hybrid",
+  "model": "MANA HYBRID",
+  "kind": "hybrid",
+  "deg": [
+   2,
+   45
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "ch": [
+   24,
+   30
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:13",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "frost",
+   "zoom"
+  ],
+  "url": "https://en.acmelighting.com/item/MANA-HYBRID",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "mana-profile",
+  "model": "MANA PROFILE",
+  "kind": "profile",
+  "deg": [
+   3.5,
+   45
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "ch": [
+   22,
+   30,
+   31,
+   40
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:9",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://en.acmelighting.com/item/MANA-PROFILE",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "neozone",
+  "model": "NEOZONE",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   3.5,
+   28.5
+  ],
+  "pan": 540,
+  "tilt": 220,
+  "ch": [
+   10,
+   17,
+   21,
+   86
+  ],
+  "pixelFrom": 86,
+  "feat": [
+   "cto",
+   "zoom"
+  ],
+  "url": "https://en.acmelighting.com/item/NEOZONE",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "nova-beam",
+  "model": "NOVA BEAM",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   18
+  ],
+  "feat": [
+   "gobo:7",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://en.acmelighting.com/item/NOVA-BEAM",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "pasodoble",
+  "model": "PASODOBLE",
+  "kind": "par",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "deg": [
+   16,
+   16
+  ],
+  "ch": [
+   4,
+   5,
+   8,
+   10
+  ],
+  "size": [
+   257,
+   88,
+   239
+  ],
+  "url": "https://en.acmelighting.com/item/PASODOBLE",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "photon-hybrid-500",
+  "model": "PHOTON HYBRID 500",
+  "kind": "hybrid",
+  "deg": [
+   0.9,
+   22
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   28,
+   31
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:21",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://en.acmelighting.com/item/PHOTON-HYBRID-500",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "pixel-line-ip-500",
+  "model": "PIXEL LINE IP 500",
+  "kind": "strobe",
+  "leds": [
+   16,
+   "rgb"
+  ],
+  "grid": [
+   1,
+   16
+  ],
+  "deg": [
+   102,
+   102
+  ],
+  "ch": [
+   8,
+   10,
+   16,
+   18,
+   22,
+   26,
+   34,
+   37,
+   38,
+   39,
+   56,
+   62,
+   63,
+   68,
+   69
+  ],
+  "pixelFrom": 56,
+  "size": [
+   500,
+   113,
+   124
+  ],
+  "url": "https://en.acmelighting.com/item/PIXEL-LINE-IP-500",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "pixel-line-slim-500",
+  "model": "PIXEL LINE SLIM 500",
+  "kind": "bar",
+  "leds": [
+   24,
+   "rgb"
+  ],
+  "deg": [
+   66,
+   66
+  ],
+  "ch": [
+   14,
+   19,
+   24,
+   29,
+   39,
+   49,
+   69,
+   124,
+   129
+  ],
+  "size": [
+   500,
+   82,
+   42
+  ],
+  "url": "https://en.acmelighting.com/item/PIXEL-LINE-SLIM-500",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "pixel-line-slim",
+  "model": "PIXEL LINE SLIM",
+  "kind": "bar",
+  "leds": [
+   48,
+   "rgb"
+  ],
+  "deg": [
+   74,
+   74
+  ],
+  "ch": [
+   14,
+   19,
+   24,
+   29,
+   39,
+   49,
+   69,
+   89,
+   129,
+   244,
+   249
+  ],
+  "size": [
+   1000,
+   82,
+   45
+  ],
+  "url": "https://en.acmelighting.com/item/PIXEL-LINE-SLIM",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "pulsar-plus-s2",
+  "model": "PULSAR PLUS S2",
+  "kind": "effect",
+  "leds": [
+   4,
+   "rgbl"
+  ],
+  "deg": [
+   3.5,
+   24
+  ],
+  "ch": [
+   43,
+   153,
+   163,
+   195
+  ],
+  "feat": [
+   "cto",
+   "zoom"
+  ],
+  "size": [
+   310,
+   228,
+   496
+  ],
+  "url": "https://en.acmelighting.com/item/PULSAR-PLUS-S2",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "pulsar-s2",
+  "model": "PULSAR S2",
+  "kind": "effect",
+  "leds": [
+   4,
+   "rgbw"
+  ],
+  "deg": [
+   2.5,
+   28
+  ],
+  "ch": [
+   21,
+   24,
+   39,
+   97
+  ],
+  "feat": [
+   "cto",
+   "zoom"
+  ],
+  "size": [
+   237,
+   176,
+   383
+  ],
+  "url": "https://en.acmelighting.com/item/PULSAR-S2",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "sagitta-ip",
+  "model": "SAGITTA IP",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16,
+   19,
+   20
+  ],
+  "feat": [
+   "cto",
+   "gobo:10",
+   "prism",
+   "frost",
+   "focus"
+  ],
+  "url": "https://en.acmelighting.com/item/SAGITTA-IP",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "sana-beam",
+  "model": "SANA BEAM",
+  "kind": "beam",
+  "deg": [
+   1.9,
+   8
+  ],
+  "ch": [
+   16,
+   27,
+   29
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:17",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://en.acmelighting.com/item/SANA-BEAM",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "sana-profile",
+  "model": "SANA PROFILE",
+  "kind": "profile",
+  "deg": [
+   3.9,
+   50
+  ],
+  "ch": [
+   27,
+   36,
+   45
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:9",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "focus",
+   "blades"
+  ],
+  "url": "https://en.acmelighting.com/item/SANA-PROFILE",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "sandane-frost",
+  "model": "SANDANE FROST",
+  "kind": "par",
+  "leds": [
+   55,
+   "rgbl"
+  ],
+  "deg": [
+   18,
+   18
+  ],
+  "ch": [
+   6,
+   7,
+   8,
+   9,
+   11
+  ],
+  "feat": [
+   "frost"
+  ],
+  "size": [
+   266,
+   158,
+   320
+  ],
+  "url": "https://en.acmelighting.com/item/SANDANE-FROST",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "skytrk",
+  "model": "SKYTRK",
+  "kind": "lasermh",
+  "deg": [
+   0.5,
+   0.5
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   23
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "prism",
+   "focus"
+  ],
+  "url": "https://en.acmelighting.com/item/SKYTRK",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "solar-wind",
+  "model": "SOLAR WIND",
+  "kind": "hybrid",
+  "deg": [
+   3,
+   50
+  ],
+  "pan": 540,
+  "tilt": 260,
+  "ch": [
+   24,
+   30
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:13",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://en.acmelighting.com/item/SOLAR-WIND",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "stage-par-100-colour-ip",
+  "model": "STAGE PAR 100 COLOUR IP",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgba"
+  ],
+  "deg": [
+   7,
+   7
+  ],
+  "ch": [
+   4,
+   6,
+   7,
+   8
+  ],
+  "size": [
+   283,
+   256,
+   564
+  ],
+  "url": "https://en.acmelighting.com/item/STAGE-PAR-100-COLOUR-IP",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "stage-par-100-ip-cw",
+  "model": "STAGE PAR 100 IP CW",
+  "kind": "par",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   9,
+   9
+  ],
+  "ch": [
+   1,
+   2,
+   3
+  ],
+  "size": [
+   283,
+   256,
+   564
+  ],
+  "url": "https://en.acmelighting.com/item/STAGE-PAR-100-IP-CW",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "stage-par-100-ip-ww",
+  "model": "STAGE PAR 100 IP WW",
+  "kind": "par",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   9,
+   9
+  ],
+  "ch": [
+   1,
+   2,
+   3
+  ],
+  "size": [
+   283,
+   256,
+   564
+  ],
+  "url": "https://en.acmelighting.com/item/STAGE-PAR-100-IP-WW",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "stage-par-400-zoom-ip",
+  "model": "STAGE PAR 400 ZOOM IP",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   6,
+   38
+  ],
+  "ch": [
+   5,
+   9
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   318,
+   295,
+   316
+  ],
+  "url": "https://en.acmelighting.com/item/STAGE-PAR-400-ZOOM-IP",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 7 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "supernova-lt",
+  "model": "SUPERNOVA LT",
+  "kind": "profile",
+  "deg": [
+   3.6,
+   52.5
+  ],
+  "pan": 540,
+  "tilt": 246,
+  "ch": [
+   23,
+   32,
+   35,
+   44
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:5",
+   "gobor",
+   "gobo2",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://en.acmelighting.com/item/SUPERNOVA-LT",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "supernova",
+  "model": "SUPERNOVA",
+  "kind": "profile",
+  "deg": [
+   4,
+   48
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   23,
+   32,
+   34,
+   43
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:6",
+   "anim",
+   "prism",
+   "iris",
+   "frost",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://en.acmelighting.com/item/SUPERNOVA",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "tango",
+  "model": "TANGO",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   6,
+   6
+  ],
+  "ch": [
+   4,
+   5,
+   8,
+   10
+  ],
+  "size": [
+   197,
+   206,
+   104
+  ],
+  "url": "https://en.acmelighting.com/item/TANGO",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "theatre-spot-300-ww",
+  "model": "THEATRE SPOT 300 WW",
+  "kind": "pc",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   15,
+   53
+  ],
+  "ch": [
+   2,
+   3
+  ],
+  "feat": [
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   278,
+   473,
+   264
+  ],
+  "url": "https://en.acmelighting.com/item/THEATRE-SPOT-300-WW",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "theatre-spot-500-cw",
+  "model": "THEATRE SPOT 500 CW",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   14,
+   74
+  ],
+  "ch": [
+   4,
+   6
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   320,
+   569,
+   462
+  ],
+  "url": "https://en.acmelighting.com/item/THEATRE-SPOT-500-CW",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "theatre-spot-500-rgbww",
+  "model": "THEATRE SPOT 500 RGBWW",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   14,
+   64
+  ],
+  "ch": [
+   10,
+   12
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   320,
+   569,
+   462
+  ],
+  "url": "https://en.acmelighting.com/item/THEATRE-SPOT-500-RGBWW",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "theatre-spot-500-ww",
+  "model": "THEATRE SPOT 500 WW",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   14,
+   74
+  ],
+  "ch": [
+   4,
+   6
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "size": [
+   320,
+   569,
+   462
+  ],
+  "url": "https://en.acmelighting.com/item/THEATRE-SPOT-500-WW",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "theta",
+  "model": "THETA",
+  "kind": "effect",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   4,
+   51
+  ],
+  "ch": [
+   19,
+   27,
+   29,
+   139,
+   141
+  ],
+  "feat": [
+   "cto",
+   "gobo:6",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "size": [
+   454,
+   341,
+   590
+  ],
+  "url": "https://en.acmelighting.com/item/THETA",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "thunder-ip",
+  "model": "THUNDER IP",
+  "kind": "blinder",
+  "leds": [
+   3,
+   "rgbw"
+  ],
+  "deg": [
+   110,
+   110
+  ],
+  "ch": [
+   4,
+   8,
+   9,
+   16
+  ],
+  "pixelFrom": 16,
+  "feat": [
+   "cto"
+  ],
+  "size": [
+   503,
+   183,
+   318
+  ],
+  "url": "https://en.acmelighting.com/item/THUNDER-IP",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "thunderbolt",
+  "model": "THUNDERBOLT",
+  "kind": "strobe",
+  "leds": [
+   12,
+   "rgbw"
+  ],
+  "deg": [
+   22,
+   22
+  ],
+  "ch": [
+   4,
+   8,
+   9,
+   52
+  ],
+  "pixelFrom": 52,
+  "size": [
+   623,
+   133,
+   397
+  ],
+  "url": "https://en.acmelighting.com/item/THUNDERBOLT",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "tornado",
+  "model": "TORNADO",
+  "kind": "multihead",
+  "leds": [
+   5,
+   "rgbl"
+  ],
+  "deg": [
+   3,
+   30
+  ],
+  "tilt": 221,
+  "ch": [
+   41,
+   71,
+   75,
+   85,
+   170
+  ],
+  "feat": [
+   "cto",
+   "focus"
+  ],
+  "url": "https://en.acmelighting.com/item/TORNADO",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "tv-light-panel-1000-ww",
+  "model": "TV LIGHT PANEL 1000 WW",
+  "kind": "panel",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   113,
+   113
+  ],
+  "ch": [
+   1,
+   2,
+   3
+  ],
+  "size": [
+   661,
+   301,
+   151
+  ],
+  "url": "https://en.acmelighting.com/item/TV-LIGHT-PANEL-1000-WW",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "tv-light-panel-3000",
+  "model": "TV LIGHT PANEL 3000",
+  "kind": "panel",
+  "leds": [
+   64,
+   "rgb"
+  ],
+  "deg": [
+   110,
+   110
+  ],
+  "ch": [
+   10,
+   28
+  ],
+  "feat": [
+   "cto"
+  ],
+  "size": [
+   668,
+   149,
+   492
+  ],
+  "url": "https://en.acmelighting.com/item/TV-LIGHT-PANEL-3000",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "ultra-blinder-ip",
+  "model": "ULTRA BLINDER IP",
+  "kind": "blinder",
+  "leds": [
+   2,
+   "rgba"
+  ],
+  "deg": [
+   49,
+   49
+  ],
+  "ch": [
+   1,
+   2,
+   4,
+   6,
+   7,
+   9,
+   10,
+   11,
+   14,
+   16
+  ],
+  "pixelFrom": 9,
+  "feat": [
+   "cto"
+  ],
+  "size": [
+   400,
+   201,
+   263
+  ],
+  "url": "https://en.acmelighting.com/item/ULTRA-BLINDER-IP",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "ultra-par-ip",
+  "model": "ULTRA PAR IP",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgba"
+  ],
+  "deg": [
+   50,
+   50
+  ],
+  "ch": [
+   1,
+   2,
+   4,
+   6,
+   7,
+   9,
+   11
+  ],
+  "feat": [
+   "cto"
+  ],
+  "size": [
+   234,
+   251,
+   307
+  ],
+  "url": "https://en.acmelighting.com/item/ULTRA-PAR-IP",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "voltka",
+  "model": "VOLTKA",
+  "kind": "strobe",
+  "leds": [
+   50,
+   "rgb"
+  ],
+  "deg": [
+   116,
+   116
+  ],
+  "ch": [
+   5,
+   12,
+   35,
+   150
+  ],
+  "pixelFrom": 150,
+  "size": [
+   410,
+   120,
+   253
+  ],
+  "url": "https://en.acmelighting.com/item/VOLTKA",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "willow-200",
+  "model": "WILLOW 200",
+  "kind": "hybrid",
+  "deg": [
+   9.5,
+   9.5
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   17
+  ],
+  "feat": [
+   "gobo:6",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://en.acmelighting.com/item/WILLOW-200",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "willow-500",
+  "model": "WILLOW 500",
+  "kind": "hybrid",
+  "deg": [
+   1,
+   1
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   18
+  ],
+  "feat": [
+   "gobo:9",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://en.acmelighting.com/item/WILLOW-500",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "zeus",
+  "model": "ZEUS",
+  "kind": "hybrid",
+  "deg": [
+   1.6,
+   27
+  ],
+  "pan": 540,
+  "tilt": 265,
+  "ch": [
+   20,
+   28
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:16",
+   "gobor",
+   "gobo2",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://en.acmelighting.com/item/ZEUS",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "saber-beam-fx",
+  "model": "SABER BEAM FX",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   14,
+   17
+  ],
+  "feat": [
+   "gobo:1",
+   "gobor",
+   "gobo2"
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=120",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "solar-flare",
+  "model": "SOLAR FLARE",
+  "kind": "profile",
+  "deg": [
+   5,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   20,
+   25,
+   29,
+   34
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:1",
+   "gobor",
+   "gobo2",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=1809",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "spartan-hybrid-c",
+  "model": "SPARTAN HYBRID C",
+  "kind": "hybrid",
+  "tilt": 540,
+  "ch": [
+   20,
+   21,
+   24,
+   28
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=1826",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "rayzor-hybrid",
+  "model": "RAYZOR HYBRID",
+  "kind": "hybrid",
+  "deg": [
+   15,
+   28
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   17,
+   20
+  ],
+  "feat": [
+   "gobo:1",
+   "gobor",
+   "gobo2",
+   "zoom"
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=1829",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "saber-performance-ii",
+  "model": "SABER PERFORMANCE II",
+  "kind": "beam",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   15,
+   17
+  ],
+  "feat": [
+   "gobo:1",
+   "gobor",
+   "gobo2"
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=1830",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "color-bar-16fc",
+  "model": "COLOR BAR 16FC",
+  "kind": "bar",
+  "leds": [
+   16,
+   "rgbw"
+  ],
+  "deg": [
+   45,
+   45
+  ],
+  "ch": [
+   1,
+   3,
+   4,
+   7,
+   8,
+   32,
+   67
+  ],
+  "pixelFrom": 67,
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=1841",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 16 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "color-par-54",
+  "model": "COLOR PAR 54",
+  "kind": "par",
+  "deg": [
+   24,
+   24
+  ],
+  "ch": [
+   3,
+   5,
+   6
+  ],
+  "size": [
+   268,
+   400,
+   362
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=1844",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "color-par-36",
+  "model": "COLOR PAR 36",
+  "kind": "par",
+  "deg": [
+   17,
+   17
+  ],
+  "ch": [
+   3,
+   5,
+   6
+  ],
+  "size": [
+   400,
+   268,
+   362
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=1845",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "glamour-350z-iii",
+  "model": "GLAMOUR 350Z III",
+  "kind": "wash",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   5,
+   50
+  ],
+  "pan": 540,
+  "tilt": 225,
+  "ch": [
+   11,
+   14,
+   15
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=1846",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "ellipsoidal",
+  "model": "ELLIPSOIDAL",
+  "kind": "ellipsoidal",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "ch": [
+   1,
+   2
+  ],
+  "size": [
+   712,
+   276,
+   245
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=196&id=1852",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "theatre-led-colour-flood",
+  "model": "THEATRE LED COLOUR FLOOD",
+  "kind": "flood",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   90,
+   90
+  ],
+  "ch": [
+   4,
+   9
+  ],
+  "size": [
+   315,
+   295,
+   275
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=196&id=1853",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "sapphire",
+  "model": "SAPPHIRE",
+  "kind": "laser",
+  "ch": [
+   17
+  ],
+  "size": [
+   370,
+   317,
+   193
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=1854",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "lp-324adb-cw-ww-vw",
+  "model": "LP-324ADB CW/WW/VW",
+  "kind": "panel",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   10,
+   10
+  ],
+  "ch": [
+   1
+  ],
+  "size": [
+   317,
+   220,
+   222
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=196&id=1855",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 324 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "theatre-led-flood-cw",
+  "model": "THEATRE LED FLOOD CW",
+  "kind": "flood",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "deg": [
+   90,
+   90
+  ],
+  "ch": [
+   2,
+   3
+  ],
+  "size": [
+   315,
+   295,
+   275
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=196&id=1856",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "infinity-matrix",
+  "model": "INFINITY MATRIX",
+  "kind": "matrix",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   6,
+   6
+  ],
+  "ch": [
+   3,
+   4,
+   36,
+   40
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=1865",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "glory-wash-1000",
+  "model": "GLORY WASH 1000",
+  "kind": "wash",
+  "deg": [
+   10,
+   70
+  ],
+  "tilt": 540,
+  "ch": [
+   16,
+   21
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=1866",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "whack-beam-spot",
+  "model": "WHACK BEAM SPOT",
+  "kind": "hybrid",
+  "tilt": 540,
+  "ch": [
+   15,
+   21
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=20",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "ultra-strobe",
+  "model": "ULTRA STROBE",
+  "kind": "strobe",
+  "leds": [
+   1,
+   "cw"
+  ],
+  "ch": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=2086",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "theatre-spot-100-cw",
+  "model": "THEATRE SPOT 100 CW",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "ch": [
+   2
+  ],
+  "size": [
+   429,
+   377,
+   283
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=196&id=2163",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "stage-par-300-zoom-ii",
+  "model": "STAGE PAR 300 ZOOM II",
+  "kind": "par",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   10,
+   60
+  ],
+  "ch": [
+   5,
+   6,
+   8
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=2165",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "saber",
+  "model": "SABER",
+  "kind": "beam",
+  "deg": [
+   1,
+   1
+  ],
+  "tilt": 540,
+  "ch": [
+   16,
+   19,
+   20
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=2166",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "glamour-700z-rgby",
+  "model": "GLAMOUR 700Z RGBY",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   5,
+   50
+  ],
+  "tilt": 540,
+  "ch": [
+   14,
+   16,
+   26
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=2177",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "saber-beam-spot",
+  "model": "SABER BEAM SPOT",
+  "kind": "hybrid",
+  "pan": 540,
+  "tilt": 250,
+  "ch": [
+   17,
+   20
+  ],
+  "feat": [
+   "gobo:1",
+   "gobor",
+   "gobo2",
+   "frost"
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=2178",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "coolie-545",
+  "model": "COOLIE 545",
+  "kind": "par",
+  "leds": [
+   54,
+   "rgbw"
+  ],
+  "deg": [
+   19,
+   19
+  ],
+  "ch": [
+   4,
+   5,
+   7
+  ],
+  "size": [
+   302,
+   230,
+   350
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=2180",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "solar-impulse",
+  "model": "SOLAR IMPULSE",
+  "kind": "profile",
+  "deg": [
+   5,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   29,
+   34
+  ],
+  "feat": [
+   "gobo:6",
+   "anim",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=2637",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "chiron",
+  "model": "CHIRON",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   14,
+   17
+  ],
+  "feat": [
+   "gobo:16"
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=3087",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "theatre-led-flood-ww",
+  "model": "THEATRE LED FLOOD WW",
+  "kind": "flood",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   90,
+   90
+  ],
+  "ch": [
+   2,
+   3
+  ],
+  "size": [
+   315,
+   295,
+   275
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=196&id=3120",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "pageant-300zr-ii",
+  "model": "PAGEANT 300ZR II",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   10,
+   60
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   14,
+   26,
+   30
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=3213",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "super-geist-framing",
+  "model": "SUPER GEIST FRAMING",
+  "kind": "profile",
+  "deg": [
+   7,
+   42
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   30,
+   32
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:6",
+   "gobor",
+   "gobo2",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=334",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "energy-spot",
+  "model": "ENERGY SPOT",
+  "kind": "spot",
+  "deg": [
+   7,
+   31
+  ],
+  "tilt": 540,
+  "ch": [
+   19,
+   22
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=335",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "solaris",
+  "model": "SOLARIS",
+  "kind": "effect",
+  "leds": [
+   36,
+   "rgbw"
+  ],
+  "deg": [
+   6,
+   6
+  ],
+  "ch": [
+   21,
+   166,
+   206
+  ],
+  "size": [
+   466,
+   246,
+   575
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=336",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "infinity-matrix-hex",
+  "model": "INFINITY MATRIX HEX",
+  "kind": "matrix",
+  "leds": [
+   1,
+   "rgbwauv"
+  ],
+  "deg": [
+   45,
+   45
+  ],
+  "ch": [
+   3,
+   4,
+   36
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=340",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "laser-bar-rgb",
+  "model": "LASER BAR RGB",
+  "kind": "laser",
+  "ch": [
+   5,
+   20
+  ],
+  "size": [
+   249,
+   915,
+   226
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=345",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "diamonds",
+  "model": "DIAMONDS",
+  "kind": "laser",
+  "ch": [
+   17
+  ],
+  "size": [
+   370,
+   317,
+   193
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=346",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "saber-mini",
+  "model": "SABER MINI",
+  "kind": "beam",
+  "deg": [
+   3,
+   3
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   12
+  ],
+  "feat": [
+   "gobo:1",
+   "gobor",
+   "gobo2"
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=357",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "led-br30",
+  "model": "LED-BR30",
+  "kind": "effect",
+  "deg": [
+   8,
+   8
+  ],
+  "ch": [
+   9
+  ],
+  "size": [
+   331,
+   170,
+   233
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=358",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "pageant-600z-ii",
+  "model": "PAGEANT 600Z II",
+  "kind": "wash",
+  "leds": [
+   37,
+   "rgbw"
+  ],
+  "deg": [
+   10,
+   60
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   14,
+   26
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=3632",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "glamour-700z",
+  "model": "GLAMOUR 700Z",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   5,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   15,
+   17,
+   27
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=3639",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "whack-231",
+  "model": "WHACK 231",
+  "kind": "beam",
+  "deg": [
+   1,
+   1
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "ch": [
+   15,
+   16,
+   19,
+   20
+  ],
+  "feat": [
+   "gobo:1",
+   "gobor",
+   "gobo2"
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=370",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "whack",
+  "model": "WHACK",
+  "kind": "beam",
+  "deg": [
+   1,
+   1
+  ],
+  "pan": 540,
+  "tilt": 250,
+  "ch": [
+   15,
+   16,
+   19,
+   20
+  ],
+  "feat": [
+   "gobo:1",
+   "gobor",
+   "gobo2"
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=372",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "spartan-hybrid",
+  "model": "SPARTAN HYBRID",
+  "kind": "hybrid",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   24,
+   27,
+   30,
+   34
+  ],
+  "feat": [
+   "cmy",
+   "gobo:7",
+   "gobor",
+   "gobo2",
+   "zoom"
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=373",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "glory-profile-t",
+  "model": "GLORY PROFILE T",
+  "kind": "profile",
+  "deg": [
+   9,
+   61
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   21,
+   24,
+   26,
+   28,
+   34
+  ],
+  "feat": [
+   "cmy",
+   "cto",
+   "gobo:5",
+   "gobor",
+   "gobo2",
+   "zoom"
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=378",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "geist-spot",
+  "model": "GEIST SPOT",
+  "kind": "spot",
+  "deg": [
+   14,
+   35
+  ],
+  "tilt": 540,
+  "ch": [
+   20,
+   22
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=385",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "geist-framing",
+  "model": "GEIST FRAMING",
+  "kind": "profile",
+  "deg": [
+   14,
+   35
+  ],
+  "tilt": 540,
+  "ch": [
+   29,
+   31
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=386",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "cetus",
+  "model": "CETUS",
+  "kind": "beam",
+  "deg": [
+   2.5,
+   2.5
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   16,
+   18
+  ],
+  "feat": [
+   "gobo:10"
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=3867",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "energy-hybrid",
+  "model": "ENERGY HYBRID",
+  "kind": "hybrid",
+  "deg": [
+   12,
+   23
+  ],
+  "pan": 540,
+  "tilt": 240,
+  "ch": [
+   16,
+   19
+  ],
+  "feat": [
+   "gobo:1",
+   "gobor",
+   "gobo2",
+   "zoom"
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=387",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "stage-par-600-zoom-ip",
+  "model": "STAGE PAR 600 ZOOM IP",
+  "kind": "par",
+  "leds": [
+   22,
+   "rgbw"
+  ],
+  "deg": [
+   7,
+   35
+  ],
+  "ch": [
+   5,
+   7,
+   9
+  ],
+  "size": [
+   370,
+   425,
+   370
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=3875",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "tour-pixel-bar-1010-ii",
+  "model": "TOUR PIXEL BAR 1010 II",
+  "kind": "bar",
+  "leds": [
+   10,
+   "rgbw"
+  ],
+  "deg": [
+   10,
+   10
+  ],
+  "ch": [
+   4,
+   5,
+   7,
+   40
+  ],
+  "pixelFrom": 40,
+  "size": [
+   953,
+   112,
+   104
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=3884",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "coolie-14fc",
+  "model": "COOLIE 14FC",
+  "kind": "par",
+  "leds": [
+   14,
+   "rgbw"
+  ],
+  "deg": [
+   13.5,
+   13.5
+  ],
+  "ch": [
+   4,
+   5,
+   7
+  ],
+  "size": [
+   301,
+   230,
+   350
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=3888",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "farandole",
+  "model": "FARANDOLE",
+  "kind": "bar",
+  "leds": [
+   18,
+   "rgbw"
+  ],
+  "deg": [
+   16,
+   16
+  ],
+  "ch": [
+   6,
+   9
+  ],
+  "size": [
+   990,
+   150,
+   144
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=3957",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "glamour-350z",
+  "model": "GLAMOUR 350Z",
+  "kind": "wash",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "deg": [
+   5,
+   50
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   11,
+   15
+  ],
+  "feat": [
+   "zoom"
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=4649",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "10w-led-color-spot",
+  "model": "10W LED COLOR SPOT",
+  "kind": "pc",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   9,
+   9
+  ],
+  "ch": [
+   3,
+   4
+  ],
+  "size": [
+   156,
+   187,
+   115
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=4650",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "led-wave-100",
+  "model": "LED WAVE 100",
+  "kind": "flood",
+  "leds": [
+   1,
+   "white"
+  ],
+  "deg": [
+   44,
+   44
+  ],
+  "ch": [
+   3
+  ],
+  "size": [
+   271,
+   309,
+   210
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=4651",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "astro-dmx-rgbw",
+  "model": "ASTRO DMX RGBW",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "ch": [
+   3
+  ],
+  "size": [
+   210,
+   210,
+   179
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=4652",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "pageant-300",
+  "model": "PAGEANT 300",
+  "kind": "wash",
+  "leds": [
+   19,
+   "rgbw"
+  ],
+  "deg": [
+   10,
+   60
+  ],
+  "tilt": 540,
+  "ch": [
+   14
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=4662",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "theatre-spot-100-ww",
+  "model": "THEATRE SPOT 100 WW",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "ch": [
+   2
+  ],
+  "size": [
+   429,
+   377,
+   283
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=196&id=5278",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "davy",
+  "model": "DAVY",
+  "kind": "fresnel",
+  "leds": [
+   1,
+   "ww"
+  ],
+  "deg": [
+   30,
+   30
+  ],
+  "ch": [
+   1,
+   2,
+   3
+  ],
+  "size": [
+   217,
+   269,
+   159
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=263&id=5415",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "thunder-roar",
+  "model": "THUNDER ROAR",
+  "kind": "blinder",
+  "leds": [
+   1,
+   "rgbw"
+  ],
+  "deg": [
+   16,
+   16
+  ],
+  "ch": [
+   5,
+   8,
+   9,
+   10,
+   68
+  ],
+  "size": [
+   503,
+   183,
+   318
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=5435",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "aeco-10",
+  "model": "AECO 10",
+  "kind": "profile",
+  "deg": [
+   5,
+   52
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   20,
+   26,
+   29,
+   35
+  ],
+  "feat": [
+   "gobo:1",
+   "gobor",
+   "gobo2",
+   "anim",
+   "blades"
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=196&id=5558",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "aeco-8",
+  "model": "AECO 8",
+  "kind": "profile",
+  "deg": [
+   7,
+   45
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   28,
+   33
+  ],
+  "feat": [
+   "gobo:1",
+   "gobor",
+   "gobo2",
+   "zoom",
+   "blades"
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=196&id=5786",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "stage-par-zoom-colour",
+  "model": "STAGE PAR ZOOM COLOUR",
+  "kind": "par",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   2.2,
+   21
+  ],
+  "ch": [
+   13,
+   19,
+   42
+  ],
+  "size": [
+   238,
+   150,
+   368
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=5857",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "sandane",
+  "model": "SANDANE",
+  "kind": "par",
+  "leds": [
+   54,
+   "rgbw"
+  ],
+  "deg": [
+   19,
+   19
+  ],
+  "ch": [
+   4,
+   5,
+   6,
+   8,
+   10
+  ],
+  "size": [
+   272,
+   128,
+   300
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=5871",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "pixel-100-pixel-power-8",
+  "model": "PIXEL 100/PIXEL POWER 8",
+  "kind": "effect",
+  "leds": [
+   1,
+   "rgbl"
+  ],
+  "deg": [
+   2.7,
+   21
+  ],
+  "ch": [
+   19,
+   103,
+   152
+  ],
+  "size": [
+   182,
+   174,
+   254
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=195&id=5890",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "andromeda",
+  "model": "ANDROMEDA",
+  "kind": "hybrid",
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   19,
+   26
+  ],
+  "feat": [
+   "gobo:16",
+   "anim",
+   "zoom"
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=5991",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "hygiea",
+  "model": "HYGIEA",
+  "kind": "beam",
+  "deg": [
+   3,
+   3
+  ],
+  "pan": 540,
+  "ch": [
+   12,
+   14
+  ],
+  "feat": [
+   "gobo:1",
+   "gobor",
+   "gobo2"
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=6007",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "dotus",
+  "model": "DOTUS",
+  "kind": "beam",
+  "deg": [
+   4,
+   4
+  ],
+  "ch": [
+   7
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=263&id=6012",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "aquarius",
+  "model": "AQUARIUS",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   13,
+   18
+  ],
+  "feat": [
+   "gobo:1",
+   "gobor",
+   "gobo2"
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=6025",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "shakan",
+  "model": "SHAKAN",
+  "kind": "beam",
+  "deg": [
+   2,
+   2
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   12,
+   15
+  ],
+  "feat": [
+   "gobo:14",
+   "prism"
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=193&id=6552",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Acme",
+  "key": "bonzai-200",
+  "model": "BONZAI 200",
+  "kind": "beam",
+  "deg": [
+   1.7,
+   1.7
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "ch": [
+   18
+  ],
+  "feat": [
+   "gobo:14"
+  ],
+  "url": "https://en.acmelighting.com/cms/old/productdetailold?cat_id=194&id=9461",
+  "note": "Steckbrief aus Herstellerangaben (en.acmelighting.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

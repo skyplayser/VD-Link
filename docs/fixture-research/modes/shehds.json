@@ -1,0 +1,263 @@
+[
+ {
+  "man": "Shehds",
+  "key": "16x3w-led-football-beam-laser-strobe-3in1-moving-head-li",
+  "model": "16X3W LED Football Beam & Laser & Strobe 3in1 Moving head light",
+  "kind": "effect",
+  "leds": [
+   16,
+   "rgb"
+  ],
+  "ch": [
+   18
+  ],
+  "url": "https://shehds.com/products/flash-sale-shehds-16x3w-led-football-beam-laser-strobe-3in1-moving-head-light-with-red-green-laser",
+  "note": "Steckbrief aus Shop-Text (automatisch) (shehds.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 16 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Shehds",
+  "key": "jms-webb-6x15w-laser-rgbw-beam-moving-head-light",
+  "model": "JMS WEBB 6x15W Laser & RGBW Beam Moving Head Light",
+  "kind": "multihead",
+  "leds": [
+   6,
+   "rgbw"
+  ],
+  "pan": 540,
+  "tilt": 180,
+  "ch": [
+   13
+  ],
+  "url": "https://shehds.com/products/big-sale-jms-webb-6x15w-laser-rgbw-beam-moving-head-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (shehds.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Shehds",
+  "key": "jms-webb-led-bee-eye-4x40w-rgbw-4in1-zoom-beam-wash-movi",
+  "model": "JMS WEBB LED Bee Eye 4x40W RGBW 4in1 Zoom & Beam & Wash Moving Head",
+  "kind": "beeeye",
+  "leds": [
+   4,
+   "rgbw"
+  ],
+  "deg": [
+   2.5,
+   75
+  ],
+  "pan": 540,
+  "tilt": 210,
+  "ch": [
+   16
+  ],
+  "pixelFrom": 16,
+  "feat": [
+   "cto",
+   "zoom",
+   "focus",
+   "rainbow"
+  ],
+  "url": "https://shehds.com/products/jms-webb-mirror-rotation-led-zoom-beam-wash-bee-eye-4x40w-rgbw-4in1-light-for-stage-performance-dj-club",
+  "note": "Steckbrief aus Shop-Text (automatisch) (shehds.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Shehds",
+  "key": "waterproof-led-par-light-7x12w-rgbw-7x18-rgbwa-uv",
+  "model": "Waterproof LED Par Light 7x12W RGBW / 7x18 RGBWA+UV",
+  "kind": "par",
+  "leds": [
+   7,
+   "rgbw"
+  ],
+  "ch": [
+   3,
+   4,
+   5,
+   6,
+   8,
+   9,
+   11
+  ],
+  "url": "https://shehds.com/products/shehds-led-waterproof-led-par-7x12w-rgbwlighting-lighting-for-stage-effect",
+  "note": "Steckbrief aus Shop-Text (automatisch) (shehds.com, Recherche 11/2026); Kanalbelegung nach typischem Schema. Kanalzahl 7 verworfen (unplausibel).",
+  "verified": false
+ },
+ {
+  "man": "Shehds",
+  "key": "mini-led-rgbw-beam-8x6w-spider-light-moving-head-laser",
+  "model": "Mini LED RGBW Beam 8x6W Spider Light Moving Head Laser",
+  "kind": "spider",
+  "leds": [
+   8,
+   "rgbw"
+  ],
+  "ch": [
+   7,
+   15
+  ],
+  "url": "https://shehds.com/products/free-shipping-rgbw-mini-led-spider-beam-light-led-8x6w-bar-beam-moving-head-beam-led-spider-light-rgbw-good-for-dj-disco-party",
+  "note": "Steckbrief aus Shop-Text (automatisch) (shehds.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Shehds",
+  "key": "led-bee-eye-beam-wash-6x15w-rgbw-4in1-moving-head-light",
+  "model": "LED Bee Eye Beam & Wash 6x15W RGBW 4in1 Moving Head Light",
+  "kind": "beeeye",
+  "leds": [
+   6,
+   "rgbw"
+  ],
+  "ch": [
+   10,
+   14,
+   15
+  ],
+  "url": "https://shehds.com/products/high-quality-fast-shipping-led-beamwash-6x12w-rgbw-4in1-bees-eyes-led-moving-head-light-with-excellent-pragrams-11-14-channels",
+  "note": "Steckbrief aus Shop-Text (automatisch) (shehds.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Shehds",
+  "key": "4x25w-rgbw-beam-moving-head-light",
+  "model": "4x25W RGBW Beam Moving Head Light",
+  "kind": "beam",
+  "pan": 540,
+  "tilt": 190,
+  "ch": [
+   14,
+   16
+  ],
+  "feat": [
+   "cw:3",
+   "rainbow"
+  ],
+  "url": "https://shehds.com/products/led-super-beam-4x25w-rgbw-moving-head-stage-lighting",
+  "note": "Steckbrief aus Shop-Text (automatisch) (shehds.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Shehds",
+  "key": "4x10w-rgbw-led-spot-beam-moving-head-light",
+  "model": "4x10W RGBW LED Spot & Beam Moving Head Light",
+  "kind": "spot",
+  "tilt": 270,
+  "ch": [
+   9,
+   28
+  ],
+  "url": "https://shehds.com/products/led-spot-4x10w-rgbw-beam-moving-head-lighting",
+  "note": "Steckbrief aus Shop-Text (automatisch) (shehds.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Shehds",
+  "key": "380w-3in1-beam-gobo-wash-moving-head-light",
+  "model": "380W 3in1 Beam & GOBO & Wash Moving Head Light",
+  "kind": "hybrid",
+  "deg": [
+   5,
+   55
+  ],
+  "tilt": 540,
+  "ch": [
+   19
+  ],
+  "feat": [
+   "cw:14",
+   "gobo:14",
+   "gobor",
+   "prism",
+   "frost",
+   "zoom",
+   "focus"
+  ],
+  "url": "https://shehds.com/products/bulb-380w-beamampspotampwash-3in1-moving-head-lighting-professional-stage-dj-light",
+  "note": "Steckbrief aus Shop-Text (automatisch) (shehds.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Shehds",
+  "key": "mini-led-beam-spider-9x10w-rgbw-moving-head-light",
+  "model": "Mini LED Beam Spider 9x10W RGBW Moving Head Light",
+  "kind": "spider",
+  "leds": [
+   9,
+   "rgbw"
+  ],
+  "ch": [
+   16,
+   48
+  ],
+  "pixelFrom": 48,
+  "url": "https://shehds.com/products/new-arrival-mini-led-9x10w-led-spider-light-rgbw-16-48ch-dmx-stage-lights-dj-led-spider-moving-head-beam-lights",
+  "note": "Steckbrief aus Shop-Text (automatisch) (shehds.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Shehds",
+  "key": "4-eyes-led-blinder-4x100w-cob-light-with-2-channels",
+  "model": "4 Eyes LED Blinder 4x100W COB Light With 2 Channels",
+  "kind": "blinder",
+  "ch": [
+   2
+  ],
+  "size": [
+   376,
+   360,
+   122
+  ],
+  "url": "https://shehds.com/products/led-blinder-light-4x100w-led-cob-light-with-2-channels-4-eyes-blinder-stage-effect-lighting-for-events-show-fast-free-shipping",
+  "note": "Steckbrief aus Shop-Text (automatisch) (shehds.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Shehds",
+  "key": "cob-blinder-2eyes-led-2x100w-rgbwa-uv-6in1-par-light",
+  "model": "COB Blinder 2Eyes LED 2x100W RGBWA+UV 6in1 Par Light",
+  "kind": "blinder",
+  "leds": [
+   2,
+   "rgbw"
+  ],
+  "ch": [
+   4,
+   8
+  ],
+  "pixelFrom": 8,
+  "url": "https://shehds.com/products/fashional-2eyes-2x100w-led-blinder-200w-cob-par-rgbw-4in1-and-rgbwauv-6in1-dmx-stage-lighting-effect-audience-lighting-dj-equipment-disco",
+  "note": "Steckbrief aus Shop-Text (automatisch) (shehds.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Shehds",
+  "key": "mini-led-spot-beam-10w-moving-head-light",
+  "model": "Mini LED Spot Beam 10W Moving Head Light",
+  "kind": "spot",
+  "ch": [
+   7,
+   15
+  ],
+  "url": "https://shehds.com/products/mini-led-spot-beam-10w-lighting",
+  "note": "Steckbrief aus Shop-Text (automatisch) (shehds.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Shehds",
+  "key": "led-7x12w-7x18w-wash-moving-head-light",
+  "model": "LED 7x12W / 7x18W Wash Moving Head Light",
+  "kind": "wash",
+  "leds": [
+   7,
+   "rgbwa"
+  ],
+  "ch": [
+   15
+  ],
+  "url": "https://shehds.com/products/fast-shipping-led-moving-head-wash-7x12w-rgbw-lighting-quad-with-advanced-dmx-10-15-channels-dmx512-good-for-dj-night-club-show",
+  "note": "Steckbrief aus Shop-Text (automatisch) (shehds.com, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

@@ -1,0 +1,3658 @@
+[
+  {
+    "manufacturer": "Light Sky",
+    "model": "6800-C34",
+    "kind": "ellipsoidal",
+    "light": "Light Source: 200W 6-color LED (Red, Orange-Red, Lemon Green, Green, Blue, Indigo)",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      11,
+      1,
+      2,
+      6,
+      13,
+      7,
+      14
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      725,
+      305,
+      482
+    ],
+    "weightKg": 7.3,
+    "url": "https://en.lightsky.com.cn/product/6800-c34/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Profilscheinwerfer 200 W 6-Farben-LED (Theater). Leistung 280 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "6800-D34",
+    "kind": "ellipsoidal",
+    "light": "Power : 220W",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      11
+    ],
+    "features": [
+      "gobo",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      725,
+      305,
+      482
+    ],
+    "weightKg": 7.3,
+    "url": "https://en.lightsky.com.cn/product/6800-d34/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Profilscheinwerfer 220 W Tageslicht (D). Leistung 220 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "6800-T34",
+    "kind": "ellipsoidal",
+    "light": "Power : 220W",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      11
+    ],
+    "features": [
+      "gobo",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      725,
+      305,
+      482
+    ],
+    "weightKg": 7.3,
+    "url": "https://en.lightsky.com.cn/product/6800-t34/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Profilscheinwerfer 220 W Kunstlicht (T). Leistung 220 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "8800-C42",
+    "kind": "ellipsoidal",
+    "light": "Light Source: 200W 6-color LED (Red, Orange-Red, Lemon Green, Green, Blue, Indigo)",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      11,
+      1,
+      2,
+      6,
+      13,
+      7,
+      14
+    ],
+    "features": [
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      725,
+      305,
+      482
+    ],
+    "weightKg": 7.3,
+    "url": "https://en.lightsky.com.cn/product/8800-c42/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Profilscheinwerfer 200 W 6-Farben. Leistung 300 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "9800 D48",
+    "kind": "fresnel",
+    "light": "Power : 210W",
+    "beamDeg": [
+      10,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4
+    ],
+    "features": [
+      "gobo",
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      535,
+      310,
+      470
+    ],
+    "weightKg": 7.6,
+    "url": "https://en.lightsky.com.cn/product/9800-d48/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Fresnel 210 W Tageslicht, Zoom 10-60°. Leistung 210 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "9800 T48",
+    "kind": "fresnel",
+    "light": "Max Power Consumption: 210W",
+    "beamDeg": [
+      10,
+      60
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      4
+    ],
+    "features": [
+      "zoom"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      535,
+      310,
+      470
+    ],
+    "weightKg": 7.6,
+    "url": "https://en.lightsky.com.cn/product/9800-t48/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Fresnel 210 W Kunstlicht, Zoom 10-60°. Leistung 210 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "AQUA MIRROR",
+    "kind": "effect",
+    "light": null,
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": "infinite",
+    "channels": [
+      8
+    ],
+    "features": [
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      397,
+      262,
+      623
+    ],
+    "weightKg": 13.7,
+    "url": "https://en.lightsky.com.cn/product/aqua-mirror/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 Spiegel-Moving-Head aus mehreren Glasspiegeln (ohne eigene Lichtquelle, reflektiert fremde Beams), Pan 540°, Tilt endlos. Leistung 42 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "AQUABEAM230 (IP1000E)",
+    "kind": "beam",
+    "light": "Power : 302W",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      15
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "focus",
+      "animation"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      390,
+      300,
+      602
+    ],
+    "weightKg": 23,
+    "url": "https://en.lightsky.com.cn/product/aquabeam230-ip1000e/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP-Beam 230 W-Klasse (Entladungslampe). Leistung 302 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "AQUABEAM330(IP2000)",
+    "kind": "beam",
+    "light": "Power : 495W",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": 240,
+    "channels": [
+      20,
+      24
+    ],
+    "features": [
+      "cmy",
+      "gobo",
+      "prism",
+      "frost",
+      "focus",
+      "animation"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      390,
+      300,
+      602
+    ],
+    "weightKg": 23,
+    "url": "https://en.lightsky.com.cn/product/aquabeam330ip2000/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP-Beam 330 W-Klasse. Leistung 495 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "AQUABEAM400LL-E",
+    "kind": "beam",
+    "light": "Power : 530W， PF0.98；",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      14
+    ],
+    "features": [
+      "cto",
+      "gobo",
+      "prism",
+      "frost",
+      "focus",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      410,
+      300,
+      635
+    ],
+    "weightKg": 27.5,
+    "url": "https://en.lightsky.com.cn/product/aquabeam400ll-e/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP-Beam 400 W-Klasse; Tilt-Wert online nicht eindeutig. Leistung 530 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "AQUABEAM400LL",
+    "kind": "beam",
+    "light": "Power : 550W， PF0.98；",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      17
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "gobo",
+      "prism",
+      "frost",
+      "focus",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      410,
+      300,
+      635
+    ],
+    "weightKg": 27.5,
+    "url": "https://en.lightsky.com.cn/product/aquabeam400ll/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP-Beam 400 W-Klasse, CMY. Leistung 550 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "AQUABEAM440 (IP3000)",
+    "kind": "beam",
+    "light": "Power : 628W",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": 240,
+    "channels": [
+      20,
+      24
+    ],
+    "features": [
+      "cmy",
+      "gobo",
+      "prism",
+      "frost",
+      "focus",
+      "animation"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      390,
+      300,
+      602
+    ],
+    "weightKg": 23,
+    "url": "https://en.lightsky.com.cn/product/aquabeam440-ip3000/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP-Beam 440 W-Klasse, CMY. Leistung 628 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "AQUAPEARL-MINI",
+    "kind": "wash",
+    "light": "7pcs x 60W RGBW 4 in 1 LED",
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": 540,
+    "tilt": 250,
+    "channels": [
+      31,
+      55,
+      21,
+      35,
+      28
+    ],
+    "features": [
+      "zoom",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "7 LEDs",
+    "sizeMm": [
+      329,
+      245,
+      454
+    ],
+    "weightKg": 12.3,
+    "url": "https://en.lightsky.com.cn/product/aquapearl-mini/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 Wash/Beam 7 x 60 W RGBW, Zoom 5-50°. Leistung 480 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "AQUAPEARL-PRO II",
+    "kind": "wash",
+    "light": "19x40W RGBW LED",
+    "beamDeg": [
+      7,
+      45
+    ],
+    "pan": 540,
+    "tilt": 218,
+    "channels": [
+      26,
+      98,
+      28,
+      100,
+      35
+    ],
+    "features": [
+      "zoom",
+      "pixel",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "19 LEDs",
+    "sizeMm": [
+      440,
+      333,
+      567
+    ],
+    "weightKg": 25,
+    "url": "https://en.lightsky.com.cn/product/aquapearl-pro-ii/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 Wash/Beam 19 x 40 W RGBW, Einzel-LED-Steuerung. Leistung 730 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "AQUAPEARL-PRO",
+    "kind": "wash",
+    "light": "OSRAM 19X40W RGBW LED",
+    "beamDeg": [
+      5,
+      25
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      26,
+      45,
+      98,
+      79,
+      22,
+      16,
+      39,
+      35
+    ],
+    "features": [
+      "zoom",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "19 LEDs",
+    "sizeMm": [
+      470,
+      333,
+      563
+    ],
+    "weightKg": 29,
+    "url": "https://en.lightsky.com.cn/product/aquapearl-pro/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 Wash 19 x 40 W RGBW (Osram). Leistung 800 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "AQUAPEARL-SMART",
+    "kind": "wash",
+    "light": "12pcs x 40W RGBW 4 in 1 LED",
+    "beamDeg": [
+      5,
+      50
+    ],
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      28,
+      40,
+      72,
+      35
+    ],
+    "features": [
+      "zoom",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "12 LEDs",
+    "sizeMm": [
+      397,
+      280,
+      539
+    ],
+    "weightKg": 21.1,
+    "url": "https://en.lightsky.com.cn/product/aquapearl-smart/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 Wash 12 x 40 W RGBW. Leistung 560 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "AURORA AQUA",
+    "kind": "hybrid",
+    "light": "USHIO NSL U8 lamp",
+    "beamDeg": [
+      1.8,
+      24
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      33,
+      35,
+      36,
+      39
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:13+9",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      401,
+      272,
+      691
+    ],
+    "weightKg": 31.1,
+    "url": "https://en.lightsky.com.cn/product/aurora-aqua/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 BSW mit Ushio NSL U8 Lampe. Leistung 700 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "AURORA TIDE",
+    "kind": "hybrid",
+    "light": "350W white LED module",
+    "beamDeg": [
+      4.1,
+      42
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      30,
+      39,
+      42
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:8+8",
+      "prism",
+      "frost",
+      "zoom",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      365,
+      232,
+      600
+    ],
+    "weightKg": 22.1,
+    "url": "https://en.lightsky.com.cn/product/aurora-tide/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 LED-BSW 350 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "AURORA",
+    "kind": "hybrid",
+    "light": "Power : 620W; PF : 0.988",
+    "beamDeg": [
+      3,
+      42
+    ],
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      33
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      380,
+      300,
+      654
+    ],
+    "weightKg": 29,
+    "url": "https://en.lightsky.com.cn/product/aurora/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": "ofl:light-sky/aurora",
+    "notes": "BSW mit Entladungslampe (620 W Aufnahme). Leistung 620 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "Budg Beam 300",
+    "kind": "beam",
+    "light": "Beam angle : 2.18°(φ6mm white circle)",
+    "beamDeg": [
+      2.18,
+      2.18
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      16
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "focus",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      355,
+      259,
+      606
+    ],
+    "weightKg": 23.3,
+    "url": "https://en.lightsky.com.cn/product/budg-beam-300/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 Beam 2,18°. Leistung 450 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "BUMBLEBEE",
+    "kind": "beam",
+    "light": "Osram Sirius HRI 230 W",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      16
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "focus"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      450,
+      430,
+      530
+    ],
+    "weightKg": 17.5,
+    "url": "https://en.lightsky.com.cn/product/bumblebee/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kompakter Beam (Zoom laut Spec bis 3,8°)."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "DOLPHIN SMART",
+    "kind": "beam",
+    "light": "Light source: 300W white LED module",
+    "beamDeg": [
+      1.77,
+      1.77
+    ],
+    "pan": 540,
+    "tilt": "infinite",
+    "channels": [
+      23
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:7",
+      "prism",
+      "frost",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      353,
+      232,
+      621
+    ],
+    "weightKg": 22,
+    "url": "https://en.lightsky.com.cn/product/dolphin-smart/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 LED-Beam 300 W, Endlos-Tilt. Leistung 562 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "E280BEAM",
+    "kind": "beam",
+    "light": "Power : 216W，PF 0.986",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      14,
+      16
+    ],
+    "features": [
+      "gobo",
+      "prism",
+      "focus",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      380,
+      280,
+      480.5
+    ],
+    "weightKg": 17.8,
+    "url": "https://en.lightsky.com.cn/product/e280beam/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Beam (Entladungslampe, 216 W Aufnahme). Leistung 216 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "Economic AURORA",
+    "kind": "hybrid",
+    "light": "Rated Power : 620W",
+    "beamDeg": [
+      2,
+      21
+    ],
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      28
+    ],
+    "features": [
+      "gobo:14+9",
+      "prism",
+      "frost",
+      "focus",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      380,
+      300,
+      654
+    ],
+    "weightKg": 29,
+    "url": "https://en.lightsky.com.cn/product/economic-aurora/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "BSW, Economy-Version. Leistung 620 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "F1700WB-E",
+    "kind": "wash",
+    "light": "Power : 2000W, power factor PF ≥0.98",
+    "beamDeg": [
+      4,
+      45
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      17
+    ],
+    "features": [
+      "cto",
+      "gobo",
+      "frost",
+      "iris",
+      "zoom",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      503,
+      324,
+      878
+    ],
+    "weightKg": 41,
+    "url": "https://en.lightsky.com.cn/product/f1700wb-e/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Wash/Beam 1700 W-Klasse (2000 W Aufnahme), Economy. Leistung 2000 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "F1700WB-P",
+    "kind": "profile",
+    "light": "Power : 2000W, power factor PF ≥0.98",
+    "beamDeg": [
+      4,
+      45
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      32
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "gobo",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      503,
+      324,
+      878
+    ],
+    "weightKg": 41,
+    "url": "https://en.lightsky.com.cn/product/f1700wb-p/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Wash/Beam mit Framing (P), CMY. Leistung 2000 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "F1700WB-PS",
+    "kind": "profile",
+    "light": "Power : 2000W, power factor PF ≥0.98",
+    "beamDeg": [
+      4,
+      45
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      32
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "gobo",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      503,
+      324,
+      878
+    ],
+    "weightKg": 41,
+    "url": "https://en.lightsky.com.cn/product/f1700wb-ps/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Wash/Beam mit Framing (PS), CMY. Leistung 2000 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "F1700WB",
+    "kind": "wash",
+    "light": "Power : 2000W, power factor PF ≥0.98",
+    "beamDeg": [
+      4,
+      45
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      25
+    ],
+    "features": [
+      "cto",
+      "colorwheel",
+      "gobo",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      503,
+      324,
+      878
+    ],
+    "weightKg": 41,
+    "url": "https://en.lightsky.com.cn/product/f1700wb/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Wash/Beam 1700 W-Klasse mit Farbrad. Leistung 2000 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "F230II",
+    "kind": "beam",
+    "light": "Power : 345W",
+    "beamDeg": [
+      2.5,
+      2.5
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      14,
+      16
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      380,
+      280,
+      477
+    ],
+    "weightKg": 17.5,
+    "url": "https://en.lightsky.com.cn/product/f230ii/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Beam (Entladungslampe), Version II. Leistung 345 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "F260PLUS",
+    "kind": "beam",
+    "light": "Power : 360W",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      16,
+      14
+    ],
+    "features": [
+      "gobo",
+      "prism",
+      "focus",
+      "animation"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      380,
+      280,
+      480.5
+    ],
+    "weightKg": 17.8,
+    "url": "https://en.lightsky.com.cn/product/f260plus/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Beam 260 W-Klasse. Leistung 360 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "F330 FOLLOW SPOT",
+    "kind": "follow",
+    "light": "Power : 400W",
+    "beamDeg": [
+      4,
+      12
+    ],
+    "pan": 360,
+    "tilt": 90,
+    "channels": null,
+    "features": [
+      "gobo",
+      "frost",
+      "iris"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      866,
+      400,
+      404
+    ],
+    "weightKg": 9.18,
+    "url": "https://en.lightsky.com.cn/product/f330-follow-spot/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Verfolger, Zoom 4-12°, Pan 360°, Tilt 90°. Leistung 400 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "F330II",
+    "kind": "beam",
+    "light": "Power : 450W",
+    "beamDeg": [
+      2.3,
+      2.3
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      14,
+      16
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      380,
+      280,
+      529
+    ],
+    "weightKg": 18.8,
+    "url": "https://en.lightsky.com.cn/product/f330ii/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Beam 330 W-Klasse. Leistung 450 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "F350II",
+    "kind": "beam",
+    "light": "Power : 460W",
+    "beamDeg": [
+      2.3,
+      2.3
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      14,
+      16
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      380,
+      280,
+      529
+    ],
+    "weightKg": 18.8,
+    "url": "https://en.lightsky.com.cn/product/f350ii/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Beam 350 W-Klasse. Leistung 460 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "F400BSW",
+    "kind": "hybrid",
+    "light": "Power : 495W",
+    "beamDeg": [
+      10,
+      20
+    ],
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      20,
+      18
+    ],
+    "features": [
+      "gobo:11+7",
+      "prism",
+      "zoom",
+      "focus",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      380,
+      300,
+      616
+    ],
+    "weightKg": 22.5,
+    "url": "https://en.lightsky.com.cn/product/f400bsw/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "BSW 400 W-Klasse. Leistung 495 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "F450 FOLLOW SPOT",
+    "kind": "follow",
+    "light": "Power: 485W",
+    "beamDeg": [
+      4,
+      12
+    ],
+    "pan": 360,
+    "tilt": 90,
+    "channels": null,
+    "features": [],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      978,
+      512,
+      475
+    ],
+    "weightKg": 22.5,
+    "url": "https://en.lightsky.com.cn/product/f450-follow-spot/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Verfolger, Zoom 4-12°, Pan 360°, Tilt 90°. Leistung 485 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "HS520",
+    "kind": "profile",
+    "light": null,
+    "beamDeg": [
+      3.8,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": null,
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      442,
+      262,
+      656
+    ],
+    "weightKg": 28.1,
+    "url": "https://en.lightsky.com.cn/product/hs520for-south-korean-only/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Profil, laut Seite nur für Südkorea. Leistung 960 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "HS880",
+    "kind": "profile",
+    "light": "880W white LED module",
+    "beamDeg": [
+      5.5,
+      52
+    ],
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      43,
+      55
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      442,
+      282,
+      788
+    ],
+    "weightKg": 37.5,
+    "url": "https://en.lightsky.com.cn/product/hs880for-south-korean-only/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Profil 880 W, laut Seite nur für Südkorea. Leistung 1280 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "IPL715N",
+    "kind": "par",
+    "light": "Power : 80W",
+    "beamDeg": [
+      33,
+      33
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      7
+    ],
+    "features": [
+      "gobo"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      250,
+      228,
+      303
+    ],
+    "weightKg": 3.7,
+    "url": "https://en.lightsky.com.cn/product/ipl715n/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP-LED-Par (80 W), 33°. Leistung 80 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "IPL715P",
+    "kind": "par",
+    "light": "Power : 80W",
+    "beamDeg": [
+      33,
+      33
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      7
+    ],
+    "features": [
+      "gobo"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      250,
+      228,
+      303
+    ],
+    "weightKg": 4.3,
+    "url": "https://en.lightsky.com.cn/product/ipl715p/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP-LED-Par (80 W), 33°. Leistung 80 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "LOTUS MINI",
+    "kind": "effect",
+    "light": "Power consumption : 25Wx4",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      9
+    ],
+    "features": [
+      "gobo"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 1.4,
+    "url": "https://en.lightsky.com.cn/product/lotus-mini/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Effektleuchte in Lotusform, 4 x 25 W. Leistung 25 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "LOTUS",
+    "kind": "effect",
+    "light": "Power consumption : 25Wx4",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      9
+    ],
+    "features": [
+      "gobo"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": null,
+    "weightKg": 1.4,
+    "url": "https://en.lightsky.com.cn/product/lotus/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Effektleuchte in Lotusform, 4 x 25 W. Leistung 25 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "LUNAR BEAM",
+    "kind": "beam",
+    "light": "Ushio NSL421M 421 W",
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": 540,
+    "tilt": 250,
+    "channels": [
+      16,
+      14
+    ],
+    "features": [
+      "colorwheel",
+      "gobo:11",
+      "prism",
+      "frost",
+      "focus",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      380,
+      300,
+      591
+    ],
+    "weightKg": 20.8,
+    "url": "https://en.lightsky.com.cn/product/lunar-beam/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Beam. Leistung 565 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "LUNAR BSW",
+    "kind": "hybrid",
+    "light": "Zoom range : Beam mode 2.3-12°, Spot mode 9-36°, Wash mode 15-53°",
+    "beamDeg": [
+      2.3,
+      12
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      21,
+      24
+    ],
+    "features": [
+      "cto",
+      "colorwheel",
+      "gobo:7+11",
+      "prism",
+      "zoom",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      380,
+      300,
+      646
+    ],
+    "weightKg": 22.5,
+    "url": "https://en.lightsky.com.cn/product/lunar-bsw/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "BSW; Beam-Modus 2,3-12°, Spot-Modus 9-36°. Leistung 550 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "LUNAR MAX",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": [
+      1.6,
+      1.6
+    ],
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      14,
+      16
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      380,
+      300,
+      623
+    ],
+    "weightKg": 22.5,
+    "url": "https://en.lightsky.com.cn/product/lunar-max/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Beam 1,6°. Leistung 535 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "MAMBA",
+    "kind": "tiltbar",
+    "light": "12x40W LED chip RGBW 4 in 1",
+    "beamDeg": [
+      3.6,
+      38
+    ],
+    "pan": null,
+    "tilt": 185,
+    "channels": [
+      19,
+      64
+    ],
+    "features": [
+      "zoom",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "1x12",
+    "sizeMm": [
+      1003,
+      126,
+      308
+    ],
+    "weightKg": 20.7,
+    "url": "https://en.lightsky.com.cn/product/mamba/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Motorisierte Tilt-Bar 1 m (Tilt 185°), 12 x 40 W RGBW mit Zoom 3,6-38°. Leistung 425 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "MINI LASER AQUA",
+    "kind": "beam",
+    "light": "100W white laser",
+    "beamDeg": [
+      1.1,
+      1.1
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      17,
+      19
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "focus",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      329,
+      222,
+      508
+    ],
+    "weightKg": 13.7,
+    "url": "https://en.lightsky.com.cn/product/mini-laser-aqua/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 Beam mit 100 W weißer Laserquelle. Leistung 212 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "MINI LUNAR AQUA",
+    "kind": "beam",
+    "light": "OSRAM 140W",
+    "beamDeg": [
+      1.7,
+      1.7
+    ],
+    "pan": 540,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "focus",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      329,
+      222,
+      516
+    ],
+    "weightKg": 14.6,
+    "url": "https://en.lightsky.com.cn/product/mini-lunar-aqua/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 Mini-Beam (Osram 140 W). Leistung 320 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "MINI LUNAR",
+    "kind": "beam",
+    "light": "Power rating : 400W； PF : 0.987",
+    "beamDeg": [
+      0.6,
+      0.6
+    ],
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      14,
+      16
+    ],
+    "features": [
+      "cto",
+      "colorwheel",
+      "gobo:11",
+      "prism",
+      "frost",
+      "focus",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      335,
+      210,
+      477
+    ],
+    "weightKg": 15.4,
+    "url": "https://en.lightsky.com.cn/product/mini-lunar/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Mini-Beam 0,6°. Leistung 300 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "MINI WHALE",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": [
+      1.3,
+      1.3
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      15
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "focus",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      344,
+      238,
+      601
+    ],
+    "weightKg": 22.1,
+    "url": "https://en.lightsky.com.cn/product/mini-whale/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 Beam 1,3°. Leistung 460 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "PEARL WASH MAX",
+    "kind": "wash",
+    "light": "37x60W RGBWLA LED",
+    "beamDeg": [
+      5,
+      42
+    ],
+    "pan": 540,
+    "tilt": 215,
+    "channels": [
+      26,
+      44,
+      56,
+      39
+    ],
+    "features": [
+      "zoom",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "37 LEDs",
+    "sizeMm": [
+      502,
+      384,
+      624
+    ],
+    "weightKg": 28.6,
+    "url": "https://en.lightsky.com.cn/product/pearl-wash-max/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Wash 37 x 60 W RGBWLA, Zoom 5-42°. Leistung 1500 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "PEARL WASH",
+    "kind": "wash",
+    "light": "Power : 500W, PF 0.985；",
+    "beamDeg": [
+      7,
+      55
+    ],
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      26,
+      38
+    ],
+    "features": [
+      "gobo",
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      334,
+      218.5,
+      479
+    ],
+    "weightKg": 15.3,
+    "url": "https://en.lightsky.com.cn/product/pearl-wash/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Wash (500 W Aufnahme), Zoom 7-55°. Leistung 500 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "PIKE",
+    "kind": "strobe",
+    "light": "Light source : 672pcs x 0.5W RGB LED and 112 x 3W Cold White LED",
+    "beamDeg": [
+      71.5,
+      71.5
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": null,
+    "features": [
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "RGB-Pixel + 112 CW-Zellen",
+    "sizeMm": [
+      1000,
+      93,
+      225
+    ],
+    "weightKg": 8.8,
+    "url": "https://en.lightsky.com.cn/product/pike/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 LED-Strobe/Pixel-Bar 1 m: 672 x 0,5 W RGB plus 112 x 3 W kaltweiß; viele Kanalmodi (u. a. 15/70/117). Leistung 450 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "PL1015B",
+    "kind": "bar",
+    "light": "Tianxin 4-in-1 LED, 15W per LED",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      9,
+      45,
+      25,
+      18
+    ],
+    "features": [
+      "pixel",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "1x10",
+    "sizeMm": [
+      1000,
+      86,
+      190
+    ],
+    "weightKg": 7.3,
+    "url": "https://en.lightsky.com.cn/product/pl1015b/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Bar 1 m, 10 x 15 W RGBW, Einzelpixel. Leistung 100 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "PL1015W",
+    "kind": "bar",
+    "light": "Power : 100W",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      9,
+      45,
+      25,
+      18,
+      40
+    ],
+    "features": [
+      "gobo",
+      "pixel",
+      "IP65",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "1x10",
+    "sizeMm": [
+      1000,
+      86,
+      190
+    ],
+    "weightKg": 7.3,
+    "url": "https://en.lightsky.com.cn/product/pl1015w/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 LED-Bar 1 m, 10 Zellen, Pixelsteuerung. Leistung 100 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "PL1215-HC",
+    "kind": "par",
+    "light": "Power : 157W PF0.96",
+    "beamDeg": [
+      7,
+      55
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      7
+    ],
+    "features": [
+      "gobo",
+      "zoom",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      334,
+      242,
+      432
+    ],
+    "weightKg": 7.2,
+    "url": "https://en.lightsky.com.cn/product/pl1215-hc/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 Zoom-Par 12 x 15 W, High-CRI. Leistung 157 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "PL1215II",
+    "kind": "par",
+    "light": "12x15W RGBW LED",
+    "beamDeg": [
+      7,
+      55
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      10,
+      5
+    ],
+    "features": [
+      "zoom",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      334,
+      242,
+      432
+    ],
+    "weightKg": 7.2,
+    "url": "https://en.lightsky.com.cn/product/pl1215ii/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 Zoom-Par 12 x 15 W RGBW. Leistung 157 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "PL6103",
+    "kind": "par",
+    "light": "Power Consumption: 190W",
+    "beamDeg": [
+      10,
+      50
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      12,
+      5
+    ],
+    "features": [
+      "zoom",
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      258,
+      335,
+      291
+    ],
+    "weightKg": 8.7,
+    "url": "https://en.lightsky.com.cn/product/pl6103/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 Par 61 LEDs (R/G/B je 17, W 10), Zoom 10-50°. Leistung 190 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "PL61W3",
+    "kind": "par",
+    "light": "Power Consumption : 190W",
+    "beamDeg": [
+      10,
+      50
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5
+    ],
+    "features": [
+      "gobo",
+      "zoom",
+      "IP65"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      258,
+      335,
+      291
+    ],
+    "weightKg": 8.7,
+    "url": "https://en.lightsky.com.cn/product/pl61w3/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP65 Par 61 LEDs weiß, Zoom 10-50°. Leistung 190 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "SCOPE-Ⅱ",
+    "kind": "profile",
+    "light": "Power : 630W",
+    "beamDeg": [
+      5,
+      40
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      27,
+      33
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      510,
+      300,
+      731
+    ],
+    "weightKg": 31.5,
+    "url": "https://en.lightsky.com.cn/product/scope-2/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Spot/Profil. Leistung 630 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "SCOPE BEAM",
+    "kind": "beam",
+    "light": "Light source power : 230W",
+    "beamDeg": [
+      0.8,
+      0.8
+    ],
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      14,
+      16
+    ],
+    "features": [
+      "cto",
+      "colorwheel",
+      "gobo:11",
+      "prism",
+      "frost",
+      "focus",
+      "animation",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      380,
+      280,
+      529
+    ],
+    "weightKg": 18.8,
+    "url": "https://en.lightsky.com.cn/product/scope-beam/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Beam 230 W, 0,8°. Leistung 230 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "SCOPE",
+    "kind": "profile",
+    "light": "Power : 690W",
+    "beamDeg": [
+      5,
+      40
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      39,
+      54
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      510,
+      300,
+      731
+    ],
+    "weightKg": 33.2,
+    "url": "https://en.lightsky.com.cn/product/scope/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Profil. Leistung 690 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "SEA ANGEL-BATT",
+    "kind": "par",
+    "light": "Light source: 7x18W RGBALC LED",
+    "beamDeg": [
+      14,
+      14
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      13,
+      5
+    ],
+    "features": [
+      "frost",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      158,
+      141,
+      215
+    ],
+    "weightKg": 4.3,
+    "url": "https://en.lightsky.com.cn/product/sea-angel-batt/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 Akku-Uplight 7 x 18 W RGBALC. Leistung 70 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "SEA ANGEL-DUAL",
+    "kind": "par",
+    "light": "Light source: 7x18W RGBALC LED",
+    "beamDeg": [
+      14,
+      14
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      13,
+      5
+    ],
+    "features": [
+      "frost",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      158,
+      141,
+      215
+    ],
+    "weightKg": 3.6,
+    "url": "https://en.lightsky.com.cn/product/sea-angel-dual/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 Uplight 7 x 18 W RGBALC (Akku/Netz). Leistung 93 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "SEA LION",
+    "kind": "effect",
+    "light": "Light source: 2 x 120W RGBW LED + 216 x 0.3W RGB LED",
+    "beamDeg": [
+      3.2,
+      29.1
+    ],
+    "pan": null,
+    "tilt": 50,
+    "channels": [
+      26,
+      48
+    ],
+    "features": [
+      "frost",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": "Front-Aura aus 216 x 0,3 W RGB",
+    "pixels": "2 Zellen + Aura",
+    "sizeMm": [
+      438,
+      265,
+      242
+    ],
+    "weightKg": 13.8,
+    "url": "https://en.lightsky.com.cn/product/sea-lion/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 Beam/Wash-Effekt: 2 x 120 W RGBW Zellen mit Zoom, umgebende RGB-Aura (einzeln steuerbar), motorischer Tilt ±25°. Leistung 320 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "SEAGUL",
+    "kind": "strobe",
+    "light": "Light source:180x5W CW+1200 x 0.5W RGB",
+    "beamDeg": [
+      68,
+      68
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      21,
+      168
+    ],
+    "features": [
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "40 Zonen RGB",
+    "sizeMm": [
+      438,
+      216,
+      249
+    ],
+    "weightKg": 13.1,
+    "url": "https://en.lightsky.com.cn/product/seagul/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 Strobe/Wash: 180 x 5 W CW plus 1200 x 0,5 W RGB in 40 Zonen. Leistung 620 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "SEAL",
+    "kind": "blinder",
+    "light": "Light source: 2 x 230W WRA (warm white, red, amber) COB",
+    "beamDeg": [
+      50,
+      50
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      8,
+      14
+    ],
+    "features": [
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "2 Zellen",
+    "sizeMm": [
+      438,
+      248,
+      242
+    ],
+    "weightKg": 11.3,
+    "url": "https://en.lightsky.com.cn/product/seal/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP Publikums-Blinder 2 x 230 W WRA (Warmweiß/Rot/Amber), manueller Tilt +25°. Leistung 464 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "SHARK LASER (Economic)",
+    "kind": "beam",
+    "light": "Power : 370W",
+    "beamDeg": [
+      0.88,
+      0.88
+    ],
+    "pan": 540,
+    "tilt": 240,
+    "channels": [
+      14
+    ],
+    "features": [
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "focus",
+      "animation",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      509,
+      320,
+      742
+    ],
+    "weightKg": 35.1,
+    "url": "https://en.lightsky.com.cn/product/shark-laser-economic/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 Laser-Beam, Economy. Leistung 370 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "SHARK LASER",
+    "kind": "beam",
+    "light": "Light Source: 260W White Laser module",
+    "beamDeg": [
+      0.88,
+      0.88
+    ],
+    "pan": 540,
+    "tilt": 240,
+    "channels": [
+      17
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:11",
+      "prism",
+      "frost",
+      "focus",
+      "animation",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      509,
+      320,
+      742
+    ],
+    "weightKg": 36,
+    "url": "https://en.lightsky.com.cn/product/shark-laser/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 Beam mit 260 W weißer Laserquelle. Leistung 380 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "SHARK PROFILE HC",
+    "kind": "profile",
+    "light": "Light Source: 1200W white LED module",
+    "beamDeg": [
+      6,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      44,
+      56
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "animation",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      509,
+      303,
+      844
+    ],
+    "weightKg": 55,
+    "url": "https://en.lightsky.com.cn/product/shark-profile-hc/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 LED-Profil 1200 W, High-CRI. Leistung 1530 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "SHARK PROFILE",
+    "kind": "profile",
+    "light": "Light Source: 1200W LED light engine",
+    "beamDeg": [
+      6,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      44,
+      56
+    ],
+    "features": [
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      509,
+      303,
+      844
+    ],
+    "weightKg": 55,
+    "url": "https://en.lightsky.com.cn/product/shark-profile/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 LED-Profil 1200 W. Leistung 1530 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "SHARK400",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": [
+      2,
+      2
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      17
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "prism",
+      "focus",
+      "animation",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      509,
+      320,
+      711
+    ],
+    "weightKg": 34.5,
+    "url": "https://en.lightsky.com.cn/product/shark400/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 Beam (580 W max. Aufnahme). Leistung 580 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "SHARK400BSW",
+    "kind": "hybrid",
+    "light": "Rated : 630W PF : 0.987",
+    "beamDeg": [
+      3,
+      42
+    ],
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      28
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:8",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "animation",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      509,
+      320,
+      754
+    ],
+    "weightKg": 38.5,
+    "url": "https://en.lightsky.com.cn/product/shark400bsw/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 BSW. Leistung 380 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "SHARK450",
+    "kind": "beam",
+    "light": null,
+    "beamDeg": [
+      1.8,
+      1.8
+    ],
+    "pan": 540,
+    "tilt": 240,
+    "channels": [
+      17
+    ],
+    "features": [
+      "cmy",
+      "colorwheel",
+      "gobo:11",
+      "prism",
+      "focus",
+      "animation",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      509,
+      320,
+      742
+    ],
+    "weightKg": 34.5,
+    "url": "https://en.lightsky.com.cn/product/shark450/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 Beam (650 W max. Aufnahme). Leistung 650 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "SHARK450BSW",
+    "kind": "hybrid",
+    "light": "Rated : 700W PF : 0.985",
+    "beamDeg": [
+      3,
+      42
+    ],
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      28
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:8",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "animation",
+      "IP66",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      509,
+      320,
+      754
+    ],
+    "weightKg": 38.5,
+    "url": "https://en.lightsky.com.cn/product/shark450bsw/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 BSW. Leistung 450 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "SIRENA BAR",
+    "kind": "bar",
+    "light": "14 x 20W RGBA LEDs",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      16,
+      68
+    ],
+    "features": [
+      "frost",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "1x14",
+    "sizeMm": [
+      1008,
+      191,
+      211
+    ],
+    "weightKg": 12,
+    "url": "https://en.lightsky.com.cn/product/sirena-bar/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 Fußrampe/Bar 1 m, 14 x 20 W RGBA, Frost, manueller Tilt 0-180°. Leistung 356 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "SOUSA",
+    "kind": "strobe",
+    "light": "Light source: 160x5W CW + 800x0.5W RGB",
+    "beamDeg": [
+      74,
+      74
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      21,
+      15,
+      158
+    ],
+    "features": [
+      "frost",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": "Zonen",
+    "sizeMm": [
+      867,
+      125,
+      213
+    ],
+    "weightKg": 14,
+    "url": "https://en.lightsky.com.cn/product/sousa/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 Strobe-Leiste 867 mm: 160 x 5 W CW plus 800 x 0,5 W RGB, Zonensteuerung."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "SUPER SCOPE-Ⅱ",
+    "kind": "profile",
+    "light": "Power : 850W",
+    "beamDeg": [
+      6,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      27,
+      33
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "zoom",
+      "focus",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      510,
+      300,
+      731
+    ],
+    "weightKg": 31.5,
+    "url": "https://en.lightsky.com.cn/product/super-scope-2/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Profil 850 W Aufnahme. Leistung 850 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "SUPER SCOPE AQUA",
+    "kind": "profile",
+    "light": "Light Source: 520W White LED module",
+    "beamDeg": [
+      3.8,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      41,
+      53,
+      42
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:7+7",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "animation",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      397,
+      272,
+      676
+    ],
+    "weightKg": 29.6,
+    "url": "https://en.lightsky.com.cn/product/super-scope-aqua/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 LED-Profil 520 W. Leistung 847 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "SUPER SCOPE COLOR",
+    "kind": "profile",
+    "light": "600W five color LED module (RGBAL)",
+    "beamDeg": [
+      5.9,
+      52
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      60,
+      35,
+      64,
+      49
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      442,
+      282,
+      788
+    ],
+    "weightKg": 37.5,
+    "url": "https://en.lightsky.com.cn/product/super-scope-color/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Profil 600 W RGBAL (5-Farben), 2 rotierende Goboräder. Leistung 1050 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "SUPER SCOPE HYBRID PRO",
+    "kind": "hybrid",
+    "light": "520W White LED Module",
+    "beamDeg": [
+      3.8,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      30,
+      34
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:7",
+      "prism",
+      "frost",
+      "zoom",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      410,
+      300,
+      635
+    ],
+    "weightKg": 27.5,
+    "url": "https://en.lightsky.com.cn/product/super-scope-hybrid-pro/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-BSW 520 W. Leistung 840 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "SUPER SCOPE HYBRID",
+    "kind": "hybrid",
+    "light": "450W White LED Module",
+    "beamDeg": [
+      4,
+      53
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      22,
+      25
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:7",
+      "prism",
+      "zoom",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      442,
+      262,
+      648
+    ],
+    "weightKg": 23.8,
+    "url": "https://en.lightsky.com.cn/product/super-scope-hybrid/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-BSW 450 W. Leistung 602 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "SUPER SCOPE II",
+    "kind": "profile",
+    "light": "520W White LED module",
+    "beamDeg": [
+      3.8,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      42,
+      54
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      442,
+      267,
+      656
+    ],
+    "weightKg": 28.3,
+    "url": "https://en.lightsky.com.cn/product/super-scope-ii/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Profil 520 W. Leistung 960 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "SUPER SCOPE MAX",
+    "kind": "profile",
+    "light": "1200W white LED module",
+    "beamDeg": [
+      6,
+      50
+    ],
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      90
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "focus",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      502,
+      300,
+      846
+    ],
+    "weightKg": 44,
+    "url": "https://en.lightsky.com.cn/product/super-scope-max/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Profil 1200 W. Leistung 1430 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "SUPER SCOPE PLUS",
+    "kind": "profile",
+    "light": "880W white LED module",
+    "beamDeg": [
+      5.5,
+      52
+    ],
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      43,
+      55
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      442,
+      282,
+      788
+    ],
+    "weightKg": 37.5,
+    "url": "https://en.lightsky.com.cn/product/super-scope-plus/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Profil 880 W. Leistung 1400 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "SUPER SCOPE PRO",
+    "kind": "profile",
+    "light": "450W white LED module",
+    "beamDeg": [
+      4,
+      53
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      33,
+      36
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "iris",
+      "zoom",
+      "blades",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      442,
+      262,
+      648
+    ],
+    "weightKg": 26.3,
+    "url": "https://en.lightsky.com.cn/product/super-scope-pro/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Profil 450 W. Leistung 620 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "SUPER SCOPE WASH",
+    "kind": "wash",
+    "light": "1400W White LED module",
+    "beamDeg": [
+      15,
+      50
+    ],
+    "pan": 540,
+    "tilt": 270,
+    "channels": [
+      44,
+      32
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      502,
+      300,
+      851
+    ],
+    "weightKg": 45,
+    "url": "https://en.lightsky.com.cn/product/super-scope-wash/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Wash 1400 W mit Framing. Leistung 1550 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "SUPER SCOPE",
+    "kind": "profile",
+    "light": "Power : 910W",
+    "beamDeg": [
+      6,
+      50
+    ],
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      39,
+      54
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo",
+      "prism",
+      "frost",
+      "iris",
+      "zoom",
+      "blades",
+      "animation",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      510,
+      300,
+      731
+    ],
+    "weightKg": 33.2,
+    "url": "https://en.lightsky.com.cn/product/super-scope/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Profil (910 W Aufnahme). Leistung 910 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "SUPER SHARK BEAM",
+    "kind": "beam",
+    "light": "OSRAM 550W LAMP",
+    "beamDeg": [
+      1.6,
+      1.6
+    ],
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      18
+    ],
+    "features": [
+      "cmy",
+      "cto",
+      "colorwheel",
+      "gobo:9",
+      "prism",
+      "frost",
+      "focus",
+      "IP66",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      486,
+      257,
+      825
+    ],
+    "weightKg": 41.5,
+    "url": "https://en.lightsky.com.cn/product/super-shark-beam/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "IP66 Beam mit Osram 550 W. Leistung 770 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "TH-346",
+    "kind": "ellipsoidal",
+    "light": "LED POWER: 200W/300W",
+    "beamDeg": [
+      12,
+      30
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      1,
+      2,
+      4,
+      7
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      955,
+      330,
+      315
+    ],
+    "weightKg": 11.46,
+    "url": "https://en.lightsky.com.cn/product/th-346/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Profilscheinwerfer 200/300 W, manueller Zoom 12-30° oder 25-50°. Leistung 200 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "TH-347",
+    "kind": "ellipsoidal",
+    "light": "LED POWER: 600W",
+    "beamDeg": null,
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      2
+    ],
+    "features": [
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      720,
+      330,
+      315
+    ],
+    "weightKg": 10.5,
+    "url": "https://en.lightsky.com.cn/product/th-347/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Bi-Color-LED-Profilscheinwerfer 600 W. Leistung 600 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "TH-353",
+    "kind": "fresnel",
+    "light": "LED Power: 300W / 350W",
+    "beamDeg": [
+      15,
+      50
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      5,
+      9,
+      6,
+      12,
+      4,
+      7,
+      5,
+      10
+    ],
+    "features": [
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      580,
+      325,
+      320
+    ],
+    "weightKg": 9,
+    "url": "https://en.lightsky.com.cn/product/th-353/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Fresnel RGBW/RGBAL COB 300/350 W, Zoom 15-50°. Leistung 300 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "TX0610 BEAM",
+    "kind": "beam",
+    "light": "Power : 91W",
+    "beamDeg": [
+      1.5,
+      1.5
+    ],
+    "pan": 540,
+    "tilt": 180,
+    "channels": [
+      11,
+      17
+    ],
+    "features": [
+      "gobo",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      270,
+      260,
+      350
+    ],
+    "weightKg": 3.8,
+    "url": "https://en.lightsky.com.cn/product/tx0610-beam/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kleiner LED-Beam. Leistung 91 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "TX0710 WASH",
+    "kind": "wash",
+    "light": "Power : 118W",
+    "beamDeg": [
+      12,
+      12
+    ],
+    "pan": 540,
+    "tilt": 180,
+    "channels": [
+      9,
+      15
+    ],
+    "features": [
+      "gobo",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      270,
+      260,
+      350
+    ],
+    "weightKg": 3.8,
+    "url": "https://en.lightsky.com.cn/product/tx0710-wash/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "Kleiner LED-Wash. Leistung 118 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "TX1810 ZOOM",
+    "kind": "wash",
+    "light": "Power : 246W.",
+    "beamDeg": [
+      7,
+      7
+    ],
+    "pan": 540,
+    "tilt": 180,
+    "channels": [
+      10,
+      16,
+      20,
+      24
+    ],
+    "features": [
+      "gobo",
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      322,
+      242,
+      336
+    ],
+    "weightKg": 8.5,
+    "url": "https://en.lightsky.com.cn/product/tx1810-zoom/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Wash mit Zoom. Leistung 246 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "TX1810BEAM",
+    "kind": "beam",
+    "light": "Power : 264W",
+    "beamDeg": [
+      1.5,
+      1.5
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      11,
+      17,
+      21,
+      25
+    ],
+    "features": [
+      "gobo",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      322,
+      242,
+      336
+    ],
+    "weightKg": 8.5,
+    "url": "https://en.lightsky.com.cn/product/tx1810beam/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Beam. Leistung 264 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "TX1910 WASH",
+    "kind": "wash",
+    "light": "Power : 270W",
+    "beamDeg": [
+      10,
+      10
+    ],
+    "pan": 540,
+    "tilt": 180,
+    "channels": [
+      15,
+      9,
+      23,
+      27
+    ],
+    "features": [
+      "gobo",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      322,
+      242,
+      345.5
+    ],
+    "weightKg": 8.5,
+    "url": "https://en.lightsky.com.cn/product/tx1910-wash/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Wash. Leistung 270 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "TX1920-HC",
+    "kind": "wash",
+    "light": "Power : 410W，PF0.98",
+    "beamDeg": [
+      7,
+      55
+    ],
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      13
+    ],
+    "features": [
+      "gobo",
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      338,
+      216,
+      422
+    ],
+    "weightKg": 10.6,
+    "url": "https://en.lightsky.com.cn/product/tx1920-hc/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Wash High-CRI, Zoom 7-55°. Leistung 410 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "TX1920 ZOOM",
+    "kind": "wash",
+    "light": "Power : 403W，PF0.98",
+    "beamDeg": [
+      7,
+      55
+    ],
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      15,
+      24,
+      25
+    ],
+    "features": [
+      "gobo",
+      "zoom",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      338,
+      216,
+      422
+    ],
+    "weightKg": 10.6,
+    "url": "https://en.lightsky.com.cn/product/tx1920-zoom/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Wash mit Zoom 7-55°. Leistung 403 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "TX1940 ZOOM",
+    "kind": "wash",
+    "light": "Power : 632W",
+    "beamDeg": null,
+    "pan": 540,
+    "tilt": null,
+    "channels": [
+      13,
+      23,
+      9,
+      12
+    ],
+    "features": [
+      "gobo",
+      "zoom",
+      "focus",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      425,
+      300,
+      506
+    ],
+    "weightKg": 21,
+    "url": "https://en.lightsky.com.cn/product/tx1940-zoom/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Wash mit Zoom. Leistung 632 W."
+  },
+  {
+    "manufacturer": "Light Sky",
+    "model": "TX1940D",
+    "kind": "wash",
+    "light": "Power : 632W, Power factor : PF0.985",
+    "beamDeg": [
+      5,
+      55
+    ],
+    "pan": null,
+    "tilt": null,
+    "channels": [
+      21,
+      40,
+      93,
+      74,
+      17,
+      11
+    ],
+    "features": [
+      "gobo",
+      "zoom",
+      "artnet",
+      "rdm"
+    ],
+    "ring": null,
+    "pixels": null,
+    "sizeMm": [
+      425,
+      300,
+      506
+    ],
+    "weightKg": 21,
+    "url": "https://en.lightsky.com.cn/product/tx1940d/",
+    "manualUrl": null,
+    "status": "aktuell",
+    "inLibrary": null,
+    "notes": "LED-Wash mit Zoom 5-55°, Pixel-Modi. Leistung 632 W."
+  }
+]

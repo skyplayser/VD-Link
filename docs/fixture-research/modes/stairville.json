@@ -1,0 +1,127 @@
+[
+ {
+  "man": "Stairville",
+  "key": "bsw-100-led-beamspotwash",
+  "model": "BSW-100 LED BeamSpotWash",
+  "kind": "hybrid",
+  "ch": [
+   17,
+   20
+  ],
+  "feat": [
+   "prism",
+   "focus"
+  ],
+  "url": "https://www.thomann.de/de/stairville_bsw_100_led_beamspotwash.htm",
+  "note": "Steckbrief aus Herstellerangaben (thomann.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Stairville",
+  "key": "quad-par-profile-5x8w-rgb-ww",
+  "model": "Quad Par Profile 5x8W RGB WW",
+  "kind": "par",
+  "leds": [
+   5,
+   "rgb"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   4,
+   6,
+   8
+  ],
+  "size": [
+   164,
+   164,
+   105
+  ],
+  "url": "https://www.thomann.de/de/stairville_quad_par_profile_5x8w_rgb_ww.htm",
+  "note": "Steckbrief aus Herstellerangaben (thomann.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Stairville",
+  "key": "quad-par-profile-5x8w-rgb-ww-45",
+  "model": "Quad Par Profile 5x8W RGB WW 45°",
+  "kind": "par",
+  "leds": [
+   5,
+   "rgb"
+  ],
+  "deg": [
+   45,
+   45
+  ],
+  "ch": [
+   4,
+   6,
+   8
+  ],
+  "size": [
+   164,
+   164,
+   105
+  ],
+  "url": "https://www.thomann.de/de/stairville_quad_par_profile_5x8w_rgb_ww_414497.htm",
+  "note": "Steckbrief aus Herstellerangaben (thomann.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Stairville",
+  "key": "quad-par-profile-5x8w-rgbw-25",
+  "model": "Quad Par Profile 5x8W RGBW 25°",
+  "kind": "par",
+  "leds": [
+   5,
+   "rgbw"
+  ],
+  "deg": [
+   25,
+   25
+  ],
+  "ch": [
+   4,
+   6,
+   8
+  ],
+  "size": [
+   164,
+   164,
+   105
+  ],
+  "url": "https://www.thomann.de/de/stairville_quad_par_profile_5x8w_rgbw.htm",
+  "note": "Steckbrief aus Herstellerangaben (thomann.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ },
+ {
+  "man": "Stairville",
+  "key": "quad-par-profile-5x8w-rgbw-45",
+  "model": "Quad Par Profile 5x8W RGBW 45°",
+  "kind": "par",
+  "leds": [
+   5,
+   "rgbw"
+  ],
+  "deg": [
+   45,
+   45
+  ],
+  "ch": [
+   4,
+   6,
+   8
+  ],
+  "size": [
+   164,
+   164,
+   105
+  ],
+  "url": "https://www.thomann.de/de/stairville_quad_par_profile_5x8w_rgbw_40.htm",
+  "note": "Steckbrief aus Herstellerangaben (thomann.de, Recherche 11/2026); Kanalbelegung nach typischem Schema.",
+  "verified": false
+ }
+]

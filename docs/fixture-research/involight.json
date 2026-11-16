@@ -1,0 +1,1478 @@
+[
+ {
+  "manufacturer": "Involight",
+  "model": "Aura Plus",
+  "kind": "wash",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://involight.com/shop/movingheads/wash-movingheads/aura-plus/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "Barndoor COBPAR-Series",
+  "kind": "cob",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://involight.com/shop/ledpars/indoor-led-pars/barndoor-cobpar-series/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "BEAMFINITY-X",
+  "kind": "beam",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "colorwheel",
+   "focus",
+   "frost",
+   "gobo",
+   "prism"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://involight.com/shop/movingheads/moving-head-beam/beamfinity-x/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "BLADE2",
+  "kind": "beam",
+  "light": "6 x RGBW 4-in-1 multi-chip LEDs",
+  "beamDeg": [
+   4.7,
+   40.0
+  ],
+  "pan": 180,
+  "tilt": 90,
+  "channels": [
+   24,
+   53,
+   59,
+   86
+  ],
+  "features": [
+   "cmy",
+   "frost",
+   "pixel-control"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   322,
+   223,
+   510
+  ],
+  "weightKg": 13.0,
+  "url": "https://involight.com/shop/movingheads/moving-head-beam/blade2/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Produkttyp: Moving Head"
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "COBPAR100HEX",
+  "kind": "cob",
+  "light": null,
+  "beamDeg": [
+   100.0,
+   100.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   4,
+   6,
+   7,
+   8,
+   13
+  ],
+  "features": [
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   370,
+   250,
+   250
+  ],
+  "weightKg": 3.8,
+  "url": "https://involight.com/shop/ledpars/indoor-led-pars/1857-cobpar100hex-4052809267395/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Produkttyp: LED COB PAR spotlight"
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "COBPAR100W",
+  "kind": "cob",
+  "light": null,
+  "beamDeg": [
+   100.0,
+   100.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   370,
+   250,
+   250
+  ],
+  "weightKg": 2.7,
+  "url": "https://involight.com/shop/ledpars/indoor-led-pars/76-cobpar100w-4052809266718/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Produkttyp: LED COB PAR spotlight"
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "COBPAR150W",
+  "kind": "cob",
+  "light": null,
+  "beamDeg": [
+   100.0,
+   100.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3
+  ],
+  "features": [
+   "frost"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   370,
+   250,
+   250
+  ],
+  "weightKg": 2.9,
+  "url": "https://involight.com/shop/ledpars/indoor-led-pars/cobpar150w/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Produkttyp: LED COB PAR spotlight"
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "HIVE",
+  "kind": null,
+  "light": null,
+  "beamDeg": [
+   26.0,
+   26.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   14,
+   19
+  ],
+  "features": [
+   "pixel-control",
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   265,
+   117,
+   213
+  ],
+  "weightKg": 2.18,
+  "url": "https://involight.com/shop/ledpars/indoor-led-pars/hive-4052809268118/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Produkttyp: LED PAR spotlight"
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "IP PAR1818 V.2",
+  "kind": "par",
+  "light": null,
+  "beamDeg": [
+   25.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   5,
+   6,
+   7,
+   13
+  ],
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 6.5,
+  "url": "https://involight.com/shop/ledpars/outdoor-led-pars/involight-ip-par1818-v2/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Produkttyp: outdoor LED headlight"
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "IPBAR1818",
+  "kind": "bar",
+  "light": null,
+  "beamDeg": [
+   25.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   10,
+   28,
+   90,
+   100
+  ],
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1110,
+   180,
+   230
+  ],
+  "weightKg": 6.7,
+  "url": "https://involight.com/shop/led-bars/led-bars-outdoor/ipbar1818/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Produkttyp: Outdoor LED Wallwasher"
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "LED FS150",
+  "kind": "follow",
+  "light": null,
+  "beamDeg": [
+   8.0,
+   11.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3
+  ],
+  "features": [
+   "framing",
+   "gobo",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   280,
+   558,
+   340
+  ],
+  "weightKg": 7.5,
+  "url": "https://involight.com/shop/follow-spots/led-fs150271-led-fs150-4052809266602/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "LED FS75",
+  "kind": "follow",
+  "light": null,
+  "beamDeg": [
+   14.0,
+   20.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3
+  ],
+  "features": [
+   "framing",
+   "gobo",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   279,
+   560,
+   284
+  ],
+  "weightKg": 6.6,
+  "url": "https://involight.com/shop/follow-spots/fs75/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "LED RX350",
+  "kind": "effect",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   3
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   930,
+   150,
+   150
+  ],
+  "weightKg": 5.7,
+  "url": "https://involight.com/shop/led-effects/208-led-rx350-4052809265636/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Produkttyp: LED beam effect"
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "LED RX350 HP",
+  "kind": "effect",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3,
+   7,
+   16
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   755,
+   160,
+   167
+  ],
+  "weightKg": 3.9,
+  "url": "https://involight.com/shop/led-effects/led-rx350-hp/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Produkttyp: LED beam effect"
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "LEDBARFX103",
+  "kind": "bar",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "pixel-control"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://involight.com/shop/led-bars/led-bars-indoor/ledbarfx103/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "LEDMH127B",
+  "kind": "beam",
+  "light": "120W LED, white",
+  "beamDeg": [
+   3.5,
+   3.5
+  ],
+  "pan": 540,
+  "tilt": 280,
+  "channels": [
+   15,
+   19
+  ],
+  "features": [
+   "colorwheel",
+   "focus",
+   "frost",
+   "gobo",
+   "prism"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": 9.8,
+  "url": "https://involight.com/shop/movingheads/moving-head-beam/1878-ledmh127b-4052809267166/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "LEDMH127S",
+  "kind": "spot",
+  "light": null,
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 280,
+  "channels": [
+   15,
+   19
+  ],
+  "features": [
+   "colorwheel",
+   "focus",
+   "framing",
+   "gobo",
+   "prism"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   330,
+   320,
+   455
+  ],
+  "weightKg": 10.5,
+  "url": "https://involight.com/shop/movingheads/spot-movingheads/428-ledmh127s-4052809267159/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Produkttyp: LED Moving Light"
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "LEDMH368ZW",
+  "kind": "wash",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://involight.com/shop/movingheads/wash-movingheads/437-ledmh368zw-4052809266732/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "LEDMH50 DUAL",
+  "kind": "beam",
+  "light": null,
+  "beamDeg": [
+   2.0,
+   12.0
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   14,
+   20
+  ],
+  "features": [
+   "colorwheel",
+   "focus",
+   "gobo",
+   "prism",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   292,
+   390,
+   193
+  ],
+  "weightKg": 8.5,
+  "url": "https://involight.com/shop/movingheads/moving-head-beam/1913-ledmh50-dual-4052809267784/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Produkttyp: LED Moving Head"
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "LEDPAR12HEX",
+  "kind": "par",
+  "light": null,
+  "beamDeg": [
+   26.0,
+   26.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   7,
+   9,
+   12,
+   24
+  ],
+  "features": [
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   265,
+   117,
+   214
+  ],
+  "weightKg": null,
+  "url": "https://involight.com/shop/ledpars/ledpar12hex/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Produkttyp: LED PAR spotlight"
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "LEDPAR35W",
+  "kind": "par",
+  "light": null,
+  "beamDeg": [
+   28.0,
+   28.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   7,
+   9
+  ],
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   220,
+   194,
+   113
+  ],
+  "weightKg": 1.9,
+  "url": "https://involight.com/shop/ledpars/outdoor-led-pars/ledpar35w/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Produkttyp: Outdoor LED Spotlight"
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "LEDPAR95W",
+  "kind": "par",
+  "light": "9 LED",
+  "beamDeg": [
+   28.0,
+   28.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   5,
+   7,
+   9
+  ],
+  "features": [
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   300,
+   271,
+   106
+  ],
+  "weightKg": 3.6,
+  "url": "https://involight.com/shop/ledpars/outdoor-led-pars/ledpar95w/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Produkttyp: Outdoor LED floodlight"
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "LIBERTY 50B",
+  "kind": "beam",
+  "light": null,
+  "beamDeg": [
+   2.0,
+   2.0
+  ],
+  "pan": 360,
+  "tilt": null,
+  "channels": [
+   10,
+   12
+  ],
+  "features": [
+   "battery/wireless",
+   "colorwheel",
+   "focus",
+   "gobo",
+   "pixel-control",
+   "prism",
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://involight.com/shop/movingheads/moving-head-beam/1909-liberty-50b-4052809267807/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Produkttyp: LED Moving Head"
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "LIBERTY 50S",
+  "kind": "spot",
+  "light": null,
+  "beamDeg": [
+   12.0,
+   12.0
+  ],
+  "pan": 360,
+  "tilt": null,
+  "channels": [
+   11,
+   13
+  ],
+  "features": [
+   "battery/wireless",
+   "colorwheel",
+   "focus",
+   "gobo",
+   "pixel-control",
+   "prism"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   306,
+   383,
+   220
+  ],
+  "weightKg": 8.7,
+  "url": "https://involight.com/shop/movingheads/spot-movingheads/1910-liberty-50s-4052809267791/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Produkttyp: LED Moving Head"
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "LIBERTY 710W",
+  "kind": "wash",
+  "light": null,
+  "beamDeg": [
+   6.0,
+   60.0
+  ],
+  "pan": 360,
+  "tilt": null,
+  "channels": [
+   15,
+   17
+  ],
+  "features": [
+   "battery/wireless",
+   "pixel-control",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   306,
+   358,
+   220
+  ],
+  "weightKg": 8.5,
+  "url": "https://involight.com/shop/movingheads/wash-movingheads/1911-liberty-710w-4052809267814/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Produkttyp: LED Moving Head"
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "LIBERTY MODPAR",
+  "kind": "par",
+  "light": "4 x RGBWA+UV 6 in 1 LED",
+  "beamDeg": [
+   25.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   8,
+   10
+  ],
+  "features": [
+   "battery/wireless",
+   "ip65",
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   125,
+   130,
+   100
+  ],
+  "weightKg": 1.8,
+  "url": "https://involight.com/shop/ledpars/outdoor-led-pars/liberty-modpar/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Produkttyp: Battery powered outdoor PAR with W-DMX"
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "LIBERTY PAR1810IP",
+  "kind": "par",
+  "light": null,
+  "beamDeg": [
+   28.0,
+   28.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   9,
+   17
+  ],
+  "features": [
+   "battery/wireless",
+   "ip65"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   344,
+   156,
+   337
+  ],
+  "weightKg": 8.0,
+  "url": "https://involight.com/shop/ledpars/outdoor-led-pars/liberty-par1810ip/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Produkttyp: LED headlights"
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "LIGHTBALL",
+  "kind": "effect",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://involight.com/shop/led-effects/lightball/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "MH FXWASH1912",
+  "kind": "wash",
+  "light": null,
+  "beamDeg": [
+   4.0,
+   60.0
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   21,
+   23,
+   35,
+   78,
+   92,
+   97,
+   99
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   415,
+   275,
+   425
+  ],
+  "weightKg": 15.0,
+  "url": "https://involight.com/shop/movingheads/wash-movingheads/1874-mh-fxwash1912-4052809267647/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Produkttyp: LED Moving Head"
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "MLS FX2",
+  "kind": null,
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://involight.com/shop/mobile-lighting-systems/mls-fx2/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "OB200",
+  "kind": "effect",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   3
+  ],
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   338,
+   235,
+   296
+  ],
+  "weightKg": 4.1,
+  "url": "https://involight.com/shop/led-effects/219-ob200-4052809266213/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Produkttyp: LED beam effect"
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "OB350",
+  "kind": "effect",
+  "light": null,
+  "beamDeg": [
+   45.0,
+   45.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   7,
+   26
+  ],
+  "features": [
+   "pixel-control"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   553,
+   170,
+   340
+  ],
+  "weightKg": 5.5,
+  "url": "https://involight.com/shop/led-effects/213-ob350-4052809266022/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Produkttyp: LED beam effect"
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "PAINTBAR FX4",
+  "kind": "bar",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "pixel-control"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://involight.com/shop/led-bars/led-bars-indoor/paintbar-fx4/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "PAINTBAR UV12",
+  "kind": "bar",
+  "light": null,
+  "beamDeg": [
+   25.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   1,
+   2,
+   4
+  ],
+  "features": [
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   1087,
+   87,
+   104
+  ],
+  "weightKg": 2.6,
+  "url": "https://involight.com/shop/led-bars/uv-bars/1846-paint-bar-uv12-4052809267562/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Produkttyp: LED bar"
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "PAINTBAR UV6",
+  "kind": "bar",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://involight.com/shop/led-bars/uv-bars/1845-paint-bar-uv6-4052809267555/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "PROBEAM150",
+  "kind": "beam",
+  "light": "White LED, 7500K LED",
+  "beamDeg": null,
+  "pan": 360,
+  "tilt": 90,
+  "channels": null,
+  "features": [
+   "focus",
+   "gobo",
+   "prism"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   362,
+   177,
+   362
+  ],
+  "weightKg": 7.1,
+  "url": "https://involight.com/shop/movingheads/moving-head-beam/probeam150/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Produkttyp: Moving Head beam"
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "PROBEAM50",
+  "kind": "beam",
+  "light": null,
+  "beamDeg": [
+   2.0,
+   2.0
+  ],
+  "pan": 360,
+  "tilt": 90,
+  "channels": [
+   10,
+   12
+  ],
+  "features": [
+   "colorwheel",
+   "focus",
+   "framing",
+   "gobo",
+   "prism"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   149,
+   270,
+   364
+  ],
+  "weightKg": 6.8,
+  "url": "https://involight.com/shop/movingheads/moving-head-beam/426-probeam50-4052809267265/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Produkttyp: LED Moving Head"
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "PROSPOT150",
+  "kind": "spot",
+  "light": null,
+  "beamDeg": [
+   13.0,
+   13.0
+  ],
+  "pan": 360,
+  "tilt": 90,
+  "channels": null,
+  "features": [
+   "colorwheel",
+   "focus",
+   "gobo",
+   "prism"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   266,
+   177,
+   362
+  ],
+  "weightKg": 6.6,
+  "url": "https://involight.com/shop/movingheads/spot-movingheads/prospot150/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Produkttyp: Moving Head Spot"
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "PROSPOT50",
+  "kind": "spot",
+  "light": "50 W",
+  "beamDeg": [
+   11.9,
+   11.9
+  ],
+  "pan": 360,
+  "tilt": 90,
+  "channels": [
+   11,
+   13
+  ],
+  "features": [
+   "colorwheel",
+   "focus",
+   "framing",
+   "gobo",
+   "prism"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   149,
+   270,
+   366
+  ],
+  "weightKg": 6.6,
+  "url": "https://involight.com/shop/movingheads/spot-movingheads/prospot50425-prospot50-4052809267258/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Produkttyp: LED Moving Head"
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "PROWASH740Z",
+  "kind": "wash",
+  "light": "7 x RGBW LEDs",
+  "beamDeg": null,
+  "pan": 540,
+  "tilt": 280,
+  "channels": null,
+  "features": [
+   "cmy",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://involight.com/shop/movingheads/wash-movingheads/prowash740z-2/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "Prozoom715",
+  "kind": "wash",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "pixel-control",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://involight.com/shop/movingheads/wash-movingheads/prozoom715/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "SLIMPAR 710PRO",
+  "kind": "par",
+  "light": null,
+  "beamDeg": [
+   40.0,
+   40.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   6,
+   7,
+   8,
+   9,
+   11
+  ],
+  "features": [
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   265,
+   245,
+   115
+  ],
+  "weightKg": 2.7,
+  "url": "https://involight.com/shop/ledpars/indoor-led-pars/slimpar-710pro/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Produkttyp: LED PAR spotlight"
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "SLIMPAR1266",
+  "kind": "par",
+  "light": null,
+  "beamDeg": [
+   25.0,
+   25.0
+  ],
+  "pan": null,
+  "tilt": null,
+  "channels": [
+   2,
+   3,
+   4,
+   6,
+   10
+  ],
+  "features": [
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   255,
+   253,
+   117
+  ],
+  "weightKg": 1.6,
+  "url": "https://involight.com/shop/ledpars/indoor-led-pars/slimpar1266/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Produkttyp: LED PAR spotlight"
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "SLIMPAR9HEX",
+  "kind": "par",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://involight.com/shop/ledpars/indoor-led-pars/slimpar9hex/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "SPOT-X",
+  "kind": "spot",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "colorwheel",
+   "focus",
+   "frost",
+   "gobo",
+   "prism",
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://involight.com/shop/movingheads/spot-movingheads/spot-x/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "TRINITY150LED",
+  "kind": "beam",
+  "light": null,
+  "beamDeg": [
+   2.0,
+   26.0
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   15,
+   20
+  ],
+  "features": [
+   "gobo",
+   "prism"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   382,
+   581,
+   237
+  ],
+  "weightKg": 18.0,
+  "url": "https://involight.com/shop/movingheads/moving-head-beam/1934-trinity150led-4052809268194/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Produkttyp: LED Moving Head"
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "TRINITY200LED",
+  "kind": "spot",
+  "light": "LED",
+  "beamDeg": [
+   5.0,
+   42.0
+  ],
+  "pan": 540,
+  "tilt": 270,
+  "channels": [
+   25,
+   30
+  ],
+  "features": [
+   "cmy",
+   "frost",
+   "gobo",
+   "prism",
+   "zoom"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": [
+   419,
+   648,
+   288
+  ],
+  "weightKg": 22.0,
+  "url": "https://involight.com/shop/movingheads/spot-movingheads/1875-trinity200led-4052809266381/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": "Produkttyp: LED Moving Head"
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "UVFX24",
+  "kind": "flood",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://involight.com/shop/ledpars/indoor-led-pars/uvfx24/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "VENTUS II",
+  "kind": "effect",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://involight.com/shop/led-effects/ventus-ii/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ },
+ {
+  "manufacturer": "Involight",
+  "model": "VENTUS IV",
+  "kind": "effect",
+  "light": null,
+  "beamDeg": null,
+  "pan": null,
+  "tilt": null,
+  "channels": null,
+  "features": [
+   "uv"
+  ],
+  "ring": null,
+  "pixels": null,
+  "sizeMm": null,
+  "weightKg": null,
+  "url": "https://involight.com/shop/led-effects/ventus-iv/",
+  "manualUrl": null,
+  "status": "current",
+  "inLibrary": null,
+  "notes": null
+ }
+]
