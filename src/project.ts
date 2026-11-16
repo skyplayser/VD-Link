@@ -85,6 +85,8 @@ export interface AppSettings {
   universes: number;
   /** Frame-rate limit of the 3D view: 60 (default) or 0 = display refresh rate. */
   fpsCap: 60 | 0;
+  /** Start animation: like the Link-Suite (suite.json → intro), or the own value of VD-Link. */
+  intro?: 'suite' | 'on' | 'off';
 }
 
 const APP_KEY = 'vdlink.app';

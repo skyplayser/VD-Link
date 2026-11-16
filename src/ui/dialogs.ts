@@ -243,6 +243,15 @@ export function settingsDialog(ctx: Ctx, section: SettingsSection = 'net') {
       content.append(
         el('h3', '', t('set.ui')),
         line(
+          t('set.intro'),
+          seg<'suite' | 'on' | 'off'>(
+            (['suite', 'on', 'off'] as const).map((id) => ({ id, label: t(`set.intro.${id}`) })),
+            app.intro ?? 'suite',
+            (v) => ((app.intro = v), ctx.saveApp()),
+          ),
+          t('set.intro.hint'),
+        ),
+        line(
           t('start.lang'),
           seg(LANGS.map((l) => ({ id: l.id, label: l.label })), getLang(), (l) => {
             setLang(l);

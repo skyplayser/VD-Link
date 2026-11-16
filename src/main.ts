@@ -500,7 +500,23 @@ renderProjectButton();
 await library.ready;
 log(`started version=${appInfo.version} library=${library.count}`);
 
+// Start animation: the cover layer (#lsi in index.html) hides the boot; it plays only when the
+// start screen is the first thing shown. Safety net: never leave the cover over a stuck boot.
+const introGuard = setTimeout(() => document.getElementById('lsi')?.remove(), 8000);
+const introInfo = await window.vd.introInfo().catch(() => null);
+const introOn = (() => {
+  const force = params.get('intro');
+  if (force === '1' || force === '0') return force === '1';
+  if (!introInfo?.allowed) return false;
+  const own = app.intro ?? 'suite';
+  return own === 'suite' ? (introInfo.suite ?? true) : own === 'on';
+})();
 const pending = await window.vd.projectPending();
+const bootToStart = !pending && !params.get('project');
+if (!bootToStart) {
+  clearTimeout(introGuard);
+  void start.intro(false);
+}
 if (pending) await command('openPath', pending);
 else if (params.get('project') === 'new') await openProject(newProject(params.get('name') ?? 'Test', (params.get('scenario') as ScenarioId) ?? 'club'), null, true);
 else if (params.get('project') === 'demo') {
@@ -523,7 +539,19 @@ else if (params.get('project') === 'demo') {
   const cp = params.get('campos')?.split(',').map(Number);
   const ct = params.get('camtarget')?.split(',').map(Number);
   if (cp?.length === 3 && ct?.length === 3) (viz as Viz | null)?.setCameraRaw(cp as [number, number, number], ct as [number, number, number]);
-} else await start.show();
+} else {
+  await start.show(!introOn);
+  clearTimeout(introGuard);
+  // Development: ?intro=1&introspeed=0.1 (slow motion), &introreduced=1 (reduced motion),
+  // &introskip=key|click&introskipat=ms (skip test) – for screenshots and checks.
+  if (params.get('introskip'))
+    setTimeout(() => {
+      if (params.get('introskip') === 'click') document.getElementById('lsi')?.dispatchEvent(new PointerEvent('pointerdown', { bubbles: true }));
+      else dispatchEvent(new KeyboardEvent('keydown', { key: 'x' }));
+      console.log('[vd] intro skip sent: ' + params.get('introskip'));
+    }, Number(params.get('introskipat') ?? 800));
+  void start.intro(introOn, { speed: Number(params.get('introspeed')) || 1, reduced: params.get('introreduced') === '1' || undefined }).then(() => introOn && start.visible && start.focusFirst());
+}
 // Development only: handle for automated UI tests in the browser.
 if (import.meta.env.DEV) (window as unknown as { __vd: unknown }).__vd = { locBuilder, fixBuilder, library, ctx };
 

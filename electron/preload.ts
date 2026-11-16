@@ -69,6 +69,8 @@ const api = {
   removeUserFixture: (id: string) => ipcRenderer.invoke('fixtures:remove', id),
   projectRecent: () => ipcRenderer.invoke('project:recent') as Promise<RecentProject[]>,
   projectClearRecent: () => ipcRenderer.invoke('project:clearRecent'),
+  /** Start animation: allowed = first load of this app start (main process decides); suite = suite.json → intro. */
+  introInfo: () => ipcRenderer.invoke('intro:info') as Promise<{ allowed: boolean; suite: boolean | null }>,
   projectPending: () => ipcRenderer.invoke('project:pending') as Promise<string | null>,
   projectState: (st: { path: string | null; dirty: boolean; data: unknown }) => ipcRenderer.send('project:state', st),
   setLang: (l: 'de' | 'en') => ipcRenderer.invoke('app:lang', l),

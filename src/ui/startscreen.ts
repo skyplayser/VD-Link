@@ -7,6 +7,7 @@ import { loadAutosave } from '../project.ts';
 import type { Ctx } from './ctx.ts';
 import { el, icon, logoSlots, seg } from './dom.ts';
 import { getLang, LANGS, setLang, t } from './i18n.ts';
+import { defaultImages, playProgramIntro } from './intro/program-intro.js';
 
 export const REPO = 'skyplayser/VD-Link';
 
@@ -33,11 +34,45 @@ export class StartScreen {
     return !this.root.hidden;
   }
 
-  async show() {
+  async show(focus = true) {
     await this.render();
     this.root.hidden = false;
-    this.root.querySelector<HTMLButtonElement>('.start-btn')?.focus();
+    if (focus) this.focusFirst();
     void this.tick();
+  }
+
+  focusFirst() {
+    this.root.querySelector<HTMLButtonElement>('.start-btn')?.focus();
+  }
+
+  /**
+   * Link-Suite start animation over the rendered start screen (shared module from the
+   * Suite-Launcher, src/ui/intro/). The VD icon lands on the logo sign, the name wipes in,
+   * then the tiles fade in. enabled = false only removes the cover layer.
+   */
+  async intro(enabled: boolean, dev: { speed?: number; reduced?: boolean } = {}) {
+    const layer = document.getElementById('lsi');
+    if (!layer) return;
+    if (enabled) {
+      await document.fonts.ready;
+      await new Promise((r) => requestAnimationFrame(() => requestAnimationFrame(r)));
+    }
+    const t0 = performance.now();
+    const run = playProgramIntro({
+      layer,
+      app: 'vd',
+      logoTarget: () => this.root.querySelector('.start-logo'),
+      signTarget: () => this.root.querySelector('.start-logo .slots'),
+      revealTargets: () => [...this.root.querySelectorAll('.start-tag, .start-grid .start-btn, .start-right > *')],
+      images: defaultImages('./intro/icons/', 'dark', 'vd'),
+      theme: 'dark',
+      enabled,
+      speed: dev.speed ?? 1,
+      reduced: dev.reduced,
+      text: (k) => t(`intro.${k}`),
+    });
+    const r = await run.done;
+    if (r.shown) console.log(`[vd] intro done skipped=${r.skipped} t=${Math.round(performance.now() - t0)}ms`);
   }
 
   hide() {

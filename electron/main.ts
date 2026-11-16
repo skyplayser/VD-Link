@@ -5,7 +5,7 @@
 import { app, BrowserWindow, desktopCapturer, dialog, ipcMain, screen, session, shell, systemPreferences } from 'electron';
 import os from 'node:os';
 import { spawn, type ChildProcess } from 'node:child_process';
-import { writeFileSync, existsSync } from 'node:fs';
+import { writeFileSync, existsSync, readFileSync, unlinkSync } from 'node:fs';
 import path from 'node:path';
 import readline from 'node:readline';
 import { ArtNetReceiver } from './dmx/artnet.ts';
@@ -244,6 +244,27 @@ ipcMain.handle('pattern:close', (_e, displayId?: string) => {
 
 // ----------------------------------------------------------------- app info
 
+// Link-Suite start animation (shared module from the Suite-Launcher, see src/ui/intro/).
+// The main process decides: only the first load of the main window per app start, not after a
+// crash (running.lock still there), not in automated runs; the suite-wide switch comes from
+// Link-Suite/suite.json → "intro". The window only gets the result, it never reads files itself.
+const runningLock = () => path.join(app.getPath('userData'), 'running.lock');
+let crashedLastRun = false;
+let introAsked = false;
+const autoRun = !!(process.env.VD_QUERY || process.env.VD_SCREENSHOT || process.argv.includes('--no-anim') || process.argv.includes('--shot'));
+function suiteIntro(): boolean | null {
+  try {
+    const v = JSON.parse(readFileSync(path.join(app.getPath('appData'), 'Link-Suite', 'suite.json'), 'utf8')).intro;
+    return typeof v === 'boolean' ? v : null;
+  } catch {
+    return null;
+  }
+}
+ipcMain.handle('intro:info', () => {
+  const allowed = !introAsked && !crashedLastRun && !autoRun;
+  introAsked = true;
+  return { allowed, suite: suiteIntro() };
+});
 ipcMain.handle('app:info', () => ({ version: app.getVersion(), platform: process.platform, arch: process.arch }));
 
 ipcMain.handle('net:info', () => {
@@ -424,6 +445,12 @@ app.whenReady().then(() => {
     if (src) callback({ video: src });
     else callback(null);
   });
+  crashedLastRun = existsSync(runningLock());
+  try {
+    writeFileSync(runningLock(), String(process.pid));
+  } catch {
+    /* read-only profile: no crash detection */
+  }
   startDmx();
   buildMenu(() => win);
   createWindow();
@@ -432,6 +459,11 @@ app.whenReady().then(() => {
 
 app.on('window-all-closed', () => app.quit());
 app.on('will-quit', () => {
+  try {
+    unlinkSync(runningLock());
+  } catch {
+    /* already gone */
+  }
   for (const vd of virtualDisplays.values()) vd.proc.kill();
   artnet.stop();
   sacn.stop();
