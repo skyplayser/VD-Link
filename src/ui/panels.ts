@@ -427,6 +427,9 @@ export class WallsPanel implements Panel {
   private sources: Awaited<ReturnType<typeof window.vd.listCaptureSources>> = [];
   private permDenied = false;
   private virtual = new Map<number, number>(); // wall index → displayID
+  private ndi: Awaited<ReturnType<typeof window.vd.ndiStatus>> | null = null;
+  private ndiSources: Awaited<ReturnType<typeof window.vd.ndiSources>> = [];
+  private ndiSearching = false;
 
   constructor(private root: HTMLElement, private ctx: Ctx) {}
 
@@ -438,6 +441,47 @@ export class WallsPanel implements Panel {
       this.sources = [];
       this.permDenied = window.vd.platform === 'darwin' && (await window.vd.capturePermission()) !== 'granted';
     }
+    // NDI®: the receiver process starts here, discovery runs in the background.
+    if (!this.ndi?.ok) this.ndi = await window.vd.ndiStatus().catch(() => null);
+    if (this.ndi?.ok) void this.findNdi();
+  }
+
+  private async findNdi() {
+    if (this.ndiSearching) return;
+    this.ndiSearching = true;
+    if (this.root.isConnected) this.render();
+    const list = await window.vd.ndiSources().catch(() => []);
+    this.ndiSearching = false;
+    this.ndiSources = list.sort((a, b) => a.name.localeCompare(b.name));
+    this.render();
+  }
+
+  /** NDI® block: sources found, runtime hint, trademark and the ndi.video link (NDI SDK terms). */
+  private ndiNote(): HTMLElement {
+    const n = el('div', 'note ndi');
+    const s = this.ndi;
+    const p = el('p');
+    if (s?.ok) {
+      p.append(
+        document.createTextNode(this.ndiSearching ? t('walls.ndi.searching') : t('walls.ndi.found', { n: String(this.ndiSources.length) }) + ' '),
+      );
+      if (!this.ndiSearching) p.append(button(t('walls.ndi.search'), () => void this.findNdi(), 'btn small'));
+    } else if (s && s.error === 'runtime-missing') {
+      p.append(document.createTextNode(t('walls.ndi.missing') + ' '), button(t('walls.ndi.get'), () => void window.vd.ndiLink('runtime'), 'btn small primary'));
+    } else if (s && s.error !== 'browser') {
+      p.append(document.createTextNode(t('walls.ndi.failed', { e: s.error ?? '?' })));
+    } else p.append(document.createTextNode(t('walls.ndi.unavailable')));
+    const tm = el('p', 'muted small');
+    const link = el('a', '', 'ndi.video');
+    link.href = 'https://ndi.video/';
+    link.onclick = (e) => {
+      e.preventDefault();
+      void window.vd.ndiLink('home');
+    };
+    tm.append(document.createTextNode(t('walls.ndi.tm') + ' '), link);
+    if (s?.ok && s.version) tm.append(document.createTextNode(` · ${s.version}`));
+    n.append(p, tm);
+    return n;
   }
 
   render() {
@@ -448,7 +492,7 @@ export class WallsPanel implements Panel {
     const cards = el('div', 'cards');
     this.statusEls = [];
     this.ctx.walls().forEach((wall, i) => {
-      const c = el('div', `card ${wall.source.kind === 'capture' ? 'ok' : ''}`);
+      const c = el('div', `card ${wall.source.kind !== 'test' ? 'ok' : ''}`);
       const h = el('div', 'head');
       h.append(
         el('b', '', wall.name),
@@ -457,11 +501,38 @@ export class WallsPanel implements Panel {
       const st = el('div', 'muted small', wall.status);
       this.statusEls.push(st);
       const src = el('select');
-      src.innerHTML = `<option value="">${t('walls.test')}</option>` + this.sources.map((s) => `<option value="${s.id}">${s.virtual ? '★ ' : ''}${s.name} (${s.width}×${s.height})</option>`).join('');
-      src.value = wall.source.kind === 'capture' ? wall.source.sourceId : '';
+      const opt = (value: string, label: string) => {
+        const o = el('option', '', label);
+        o.value = value;
+        return o;
+      };
+      src.append(opt('', t('walls.test')));
+      if (this.sources.length) {
+        const g = el('optgroup');
+        g.label = t('walls.screens');
+        g.append(...this.sources.map((s) => opt(s.id, `${s.virtual ? '★ ' : ''}${s.name} (${s.width}×${s.height})`)));
+        src.append(g);
+      }
+      const cur = wall.source;
+      const ndiList = [...this.ndiSources];
+      if (cur.kind === 'ndi' && !ndiList.some((x) => x.name === cur.name)) ndiList.push({ name: cur.name, url: cur.url });
+      if (ndiList.length) {
+        const g = el('optgroup');
+        g.label = 'NDI®';
+        g.append(...ndiList.map((s) => opt('ndi:' + s.name, s.name)));
+        src.append(g);
+      }
+      src.value = cur.kind === 'capture' ? cur.sourceId : cur.kind === 'ndi' ? 'ndi:' + cur.name : '';
       src.onchange = async () => {
-        const s = this.sources.find((x) => x.id === src.value);
-        await wall.setSource(s ? { kind: 'capture', sourceId: s.id, label: s.name } : { kind: 'test' }).catch((e) => (wall.status = String(e)));
+        const v = src.value;
+        const n = v.startsWith('ndi:') ? ndiList.find((x) => 'ndi:' + x.name === v) : undefined;
+        const s = this.sources.find((x) => x.id === v);
+        const next = n
+          ? { kind: 'ndi' as const, name: n.name, url: n.url, low: cur.kind === 'ndi' && cur.low }
+          : s
+            ? { kind: 'capture' as const, sourceId: s.id, label: s.name }
+            : { kind: 'test' as const };
+        await wall.setSource(next).catch((e) => (wall.status = String(e)));
         this.render();
       };
       const row1 = el('div', 'row');
@@ -480,11 +551,24 @@ export class WallsPanel implements Panel {
       row2.append(el('span', 'muted small', t('walls.brightness')), bright);
       c.append(h);
       if (wall.shared) c.append(el('div', 'muted small', `${t('walls.sharedHint')}: ${wall.members.join(', ')}`));
-      c.append(row1, row2, create, st);
+      c.append(row1, row2);
+      if (cur.kind === 'ndi') {
+        const low = el('input');
+        low.type = 'checkbox';
+        low.checked = cur.low;
+        low.onchange = async () => {
+          await wall.setSource({ ...cur, low: low.checked }).catch((e) => (wall.status = String(e)));
+          this.render();
+        };
+        const lab = el('label', 'row muted small');
+        lab.append(el('span', '', t('walls.ndi.low')), low);
+        c.append(lab);
+      }
+      c.append(create, st);
       if (vd) c.append(el('div', 'muted small', t('walls.howto', { n: `VD-Link ${wall.name}` })));
       cards.append(c);
     });
-    w.append(cards);
+    w.append(cards, this.ndiNote());
     this.root.replaceChildren(w);
   }
 

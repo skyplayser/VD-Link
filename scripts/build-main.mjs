@@ -3,14 +3,15 @@ import { build, context } from 'esbuild';
 
 const watch = process.argv.includes('--watch');
 const options = {
-  entryPoints: { main: 'electron/main.ts', preload: 'electron/preload.ts' },
+  entryPoints: { main: 'electron/main.ts', preload: 'electron/preload.ts', 'ndi-worker': 'electron/ndi/ndi-worker.ts' },
   outdir: 'dist-electron',
   outExtension: { '.js': '.cjs' },
   bundle: true,
   platform: 'node',
   format: 'cjs',
   target: 'node22',
-  external: ['electron'],
+  // koffi loads its native module at run time from node_modules.
+  external: ['electron', 'koffi'],
   sourcemap: true,
   logLevel: 'info',
 };

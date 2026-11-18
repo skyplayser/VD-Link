@@ -75,7 +75,7 @@ Der **Location-Builder** baut Clubs und Festivals nach: Wände, Podeste, runde B
 <td valign="top">
 
 ### 📺 Videowände mit VJ-Link
-Jede Wand kann ein **virtueller Monitor** sein: [VJ-Link](https://skyplayser.github.io/VJ-LINK/) gibt im Vollbild darauf aus, VD-Link zeigt das Bild auf der Wand (macOS). Mehrere Wände teilen sich einen HDMI-Ausgang – wie echte LED-Prozessoren.
+Jede Wand kann ein **virtueller Monitor** sein: [VJ-Link](https://skyplayser.github.io/VJ-LINK/) gibt im Vollbild darauf aus, VD-Link zeigt das Bild auf der Wand (macOS). Oder die Wand zeigt einen **NDI®-Stream**¹ aus dem Netzwerk (macOS und Windows, [Anleitung](docs/NDI.md)). Mehrere Wände teilen sich einen HDMI-Ausgang – wie echte LED-Prozessoren.
 
 </td>
 </tr>
@@ -197,5 +197,7 @@ VD-Link zeigt nur an, es steuert nichts. Strobe-Effekte in der Vorschau können 
 ## 📜 Lizenz
 
 [Eclipse Public License 2.0](LICENSE) · Drittanbieter-Bausteine: [`THIRD_PARTY.md`](THIRD_PARTY.md) · Fixture-Daten: Open Fixture Library (MIT) und QLC+ (Apache-2.0), Lizenztexte in `public/fixtures/NOTICE.md` (wird von `npm run fixtures` erzeugt).
+
+¹ NDI® ist eine eingetragene Marke der Vizrt NDI AB ([ndi.video](https://ndi.video/)). VD-Link ist kein Produkt von NDI, liefert keine NDI-Software mit und nutzt die vom Nutzer installierte NDI-Laufzeit. Bedingungen für die NDI-Teile: [`docs/NDI.md`](docs/NDI.md).
 
 <sub>Art-Net™ Designed by and Copyright Artistic Licence Holdings Ltd. VD-Link ist ein unabhängiges Projekt und kein offizielles Produkt der genannten Hersteller; alle Marken gehören ihren Inhabern. © 2026 Philipp Spruck / NEXTPHILM</sub>

@@ -13,6 +13,7 @@ import { SacnReceiver } from './dmx/sacn.ts';
 import { DmxMerger } from './dmx/merger.ts';
 import { buildMenu } from './menu.ts';
 import { detectLauncher, type LauncherInfo } from './suite/launcher-detect.ts';
+import { registerNdi, stopNdi } from './ndi/ndi.ts';
 import { clearRecent, kindOf, listRecent, listUserFixtures, openDialog, openFileDialog, readFile, readProject, removeUserFixture, saveFile, saveProject, storeUserFixture, type FileKind } from './projects.ts';
 
 const UNIVERSES = 32;
@@ -447,7 +448,11 @@ app.setAboutPanelOptions({
   applicationVersion: app.getVersion(),
   copyright: '© 2026 Philipp Spruck / NEXTPHILM · EPL-2.0',
   website: 'https://github.com/skyplayser/VD-Link',
+  // NDI SDK documentation: the About box names the trademark owner.
+  credits: 'NDI® is a registered trademark of Vizrt NDI AB.',
 });
+
+registerNdi();
 
 app.whenReady().then(() => {
   // Packaged builds get the dock icon from the bundle; in development set it here.
@@ -474,6 +479,7 @@ app.whenReady().then(() => {
 
 app.on('window-all-closed', () => app.quit());
 app.on('will-quit', () => {
+  stopNdi();
   try {
     unlinkSync(runningLock());
   } catch {

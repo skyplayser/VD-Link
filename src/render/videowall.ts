@@ -1,5 +1,5 @@
 // A video screen = one picture source (internal test image, captured (virtual) monitor,
-// later Syphon/Spout) shown on one or more LED surfaces.
+// NDI® stream, later Syphon/Spout) shown on one or more LED surfaces.
 // - Single wall: the whole picture, never stretched (letterbox if the format differs).
 // - Shared output (one HDMI → several walls): each surface shows its pixel rect of the
 //   output, exactly like an LED processor mapping.
@@ -8,8 +8,15 @@
 import * as THREE from 'three/webgpu';
 import { float, select, texture, uniform, uv, vec2, vec3 } from 'three/tsl';
 import { drawTestPattern } from './testpattern-draw.ts';
+import { ndiSubscribe, ndiUnsubscribe, type NdiState } from './ndi-client.ts';
 
-export type WallSource = { kind: 'test' } | { kind: 'capture'; sourceId: string; label: string };
+export type WallSource =
+  | { kind: 'test' }
+  | { kind: 'capture'; sourceId: string; label: string }
+  /** NDI® source by its network name; `low` = NDI's low-bandwidth preview stream. */
+  | { kind: 'ndi'; name: string; url: string; low: boolean };
+
+let wallSerial = 0;
 
 export interface SurfaceSpec {
   name: string;
@@ -38,6 +45,10 @@ export class VideoWall {
   private videoTex: THREE.VideoTexture | null = null;
   private video: HTMLVideoElement | null = null;
   private stream: MediaStream | null = null;
+  private ndiTex: THREE.DataTexture | null = null;
+  private ndiSpill: Uint8Array | null = null;
+  private ndiKey = '';
+  private readonly key = `wall${++wallSerial}`;
   private surfaces: Surface[] = [];
   private sample = document.createElement('canvas');
   private sampleCtx: CanvasRenderingContext2D;
@@ -121,6 +132,7 @@ export class VideoWall {
       return;
     }
     this.status = 'verbinde…';
+    if (src.kind === 'ndi') return this.startNdi(src);
     await window.vd.selectCaptureSource(src.sourceId);
     const stream = await navigator.mediaDevices.getDisplayMedia({ video: { frameRate: 60 }, audio: false });
     const video = document.createElement('video');
@@ -142,7 +154,52 @@ export class VideoWall {
     this.canvasTex.dispose();
   }
 
+  private async startNdi(src: Extract<WallSource, { kind: 'ndi' }>) {
+    // A fresh key per connection: late frames of the previous source are ignored.
+    const key = `${this.key}-${Date.now()}`;
+    this.ndiKey = key;
+    const label = src.name + (src.low ? ' · Vorschau' : '');
+    await ndiSubscribe(key, {
+      frame: (f) => {
+        if (this.ndiKey !== key) return;
+        let tex = this.ndiTex;
+        if (!tex || tex.image.width !== f.w || tex.image.height !== f.h) {
+          tex?.dispose();
+          tex = new THREE.DataTexture(f.data, f.w, f.h, THREE.RGBAFormat);
+          tex.colorSpace = THREE.SRGBColorSpace;
+          tex.minFilter = THREE.LinearFilter;
+          tex.magFilter = THREE.LinearFilter;
+          tex.generateMipmaps = false;
+          this.ndiTex = tex;
+          for (const s of this.surfaces) s.tex.value = tex;
+        } else tex.image.data = f.data;
+        tex.needsUpdate = true;
+        this.ndiSpill = f.spill;
+      },
+      status: (st: NdiState) => {
+        if (this.ndiKey !== key) return;
+        this.status =
+          st.state === 'live'
+            ? `NDI®: ${label} (${st.w}×${st.h} @ ${st.fps} fps)`
+            : st.state === 'error'
+              ? `NDI®: ${label} – Fehler (${st.error ?? '?'})`
+              : st.state === 'lost'
+                ? `NDI®: ${label} – Verbindung verloren`
+                : `NDI®: ${label} – warte auf Bild…`;
+      },
+    });
+    await window.vd.ndiOpen(key, { name: src.name, url: src.url }, src.low);
+  }
+
   private stopCapture() {
+    if (this.ndiKey) {
+      void window.vd.ndiClose(this.ndiKey);
+      ndiUnsubscribe(this.ndiKey);
+      this.ndiKey = '';
+    }
+    this.ndiTex?.dispose();
+    this.ndiTex = null;
+    this.ndiSpill = null;
     this.stream?.getTracks().forEach((t) => t.stop());
     this.stream = null;
     this.video = null;
@@ -154,8 +211,9 @@ export class VideoWall {
   private updateFit() {
     if (this.shared) return;
     const v = this.video;
-    const cw = this.source.kind === 'test' ? this.canvas.width : v?.videoWidth || 0;
-    const ch = this.source.kind === 'test' ? this.canvas.height : v?.videoHeight || 0;
+    const n = this.ndiTex?.image;
+    const cw = this.source.kind === 'test' ? this.canvas.width : n ? n.width : v?.videoWidth || 0;
+    const ch = this.source.kind === 'test' ? this.canvas.height : n ? n.height : v?.videoHeight || 0;
     if (!cw || !ch) return;
     const content = cw / ch;
     for (const s of this.surfaces) {
@@ -175,9 +233,14 @@ export class VideoWall {
     if (t - this.lastSample > 0.15) {
       this.lastSample = t;
       const src: CanvasImageSource | null = this.source.kind === 'test' ? this.canvas : this.video;
-      if (src && (!(src instanceof HTMLVideoElement) || src.readyState >= 2)) {
-        this.sampleCtx.drawImage(src, 0, 0, 16, 16);
-        const d = this.sampleCtx.getImageData(0, 0, 16, 16).data;
+      const ready = this.ndiSpill || (src && (!(src instanceof HTMLVideoElement) || src.readyState >= 2));
+      if (ready) {
+        let d: Uint8Array | Uint8ClampedArray;
+        if (this.ndiSpill) d = this.ndiSpill;
+        else {
+          this.sampleCtx.drawImage(src!, 0, 0, 16, 16);
+          d = this.sampleCtx.getImageData(0, 0, 16, 16).data;
+        }
         for (const s of this.surfaces) {
           const [x, y, w, h] = s.spec.rect ?? [0, 0, this.pixels[0], this.pixels[1]];
           const x0 = Math.floor((x / this.pixels[0]) * 16);

@@ -1,6 +1,6 @@
 {
   "name": "vd-link",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "productName": "VD-Link",
   "description": "VD-Link (Virtual-Demo Link): 3D-Lichtvisualisierer für Art-Net und sACN – Schwesterprojekt von VJ-Link und LJ-Link.",
   "license": "EPL-2.0",
@@ -35,10 +35,11 @@
     "import-fixtures": "node --experimental-strip-types tools/import-fixtures.ts vendor-src public/fixtures",
     "dmx-sender": "node --experimental-strip-types tools/dmx-sender.ts",
     "logo": "electron scripts/logo/render.cjs",
-    "dist:mac": "npm run build:native && npm run build && electron-builder --mac --publish never",
+    "dist:mac": "npm run build:native && node scripts/koffi-mac.mjs && npm run build && electron-builder --mac --publish never",
     "dist:win": "npm run build && electron-builder --win --x64 --publish never"
   },
   "dependencies": {
+    "koffi": "3.3.8",
     "three": "0.187.0"
   },
   "devDependencies": {
@@ -135,6 +136,7 @@
         "role": "Editor",
         "icon": "build/icon"
       }
-    ]
+    ],
+    "npmRebuild": false
   }
 }

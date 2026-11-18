@@ -93,7 +93,30 @@ const api = {
   capturePermission: () => ipcRenderer.invoke('capture:permission') as Promise<string>,
   openTestPattern: (displayId: string) => ipcRenderer.invoke('pattern:open', displayId) as Promise<boolean>,
   closeTestPattern: (displayId?: string) => ipcRenderer.invoke('pattern:close', displayId),
+  // NDI® (Vizrt NDI AB) – receive only, via the user's NDI runtime.
+  ndiStatus: () => ipcRenderer.invoke('ndi:status') as Promise<NdiStatus>,
+  ndiSources: () => ipcRenderer.invoke('ndi:sources') as Promise<NdiSource[]>,
+  /** Asks for the frame channel; it arrives as window message {vdNdiPort: true} with the port. */
+  ndiConnect: () => ipcRenderer.invoke('ndi:connect'),
+  ndiOpen: (key: string, src: NdiSource, low: boolean) => ipcRenderer.invoke('ndi:open', key, src.name, src.url, low),
+  ndiClose: (key: string) => ipcRenderer.invoke('ndi:close', key),
+  ndiLink: (which: 'home' | 'runtime') => ipcRenderer.invoke('ndi:link', which),
 };
+
+// MessagePorts cannot cross the context bridge – hand them over as a window message.
+ipcRenderer.on('ndi:port', (e) => window.postMessage({ vdNdiPort: true }, '*', e.ports));
+
+export interface NdiSource {
+  name: string;
+  url: string;
+}
+export interface NdiStatus {
+  ok: boolean;
+  version?: string;
+  error?: string;
+  runtimeUrl: string;
+  homeUrl: string;
+}
 
 export type VdApi = typeof api;
 

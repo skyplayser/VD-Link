@@ -59,6 +59,8 @@ if (!window.vd) {
       fileSave: async () => null,
       projectSave: async () => null,
       listCaptureSources: async () => [],
+      ndiStatus: async () => ({ ok: false, error: 'browser', runtimeUrl: '', homeUrl: 'https://ndi.video/' }),
+      ndiSources: async () => [],
       openUrl: async (u: string) => void window.open(u, '_blank'),
     } as Record<string, unknown>,
     { get: (o, k: string) => (k in o ? o[k] : k.startsWith('on') || k === 'projectState' ? () => {} : noop) },
@@ -598,6 +600,13 @@ if (params.get('dialog') === 'new') void command('new');
 if (params.get('dialog') === 'locwizard') void command('locationBuilder');
 if (params.get('dialog') === 'settings') void command('settings', params.get('section') ?? 'net');
 if (params.get('autowall') === '1') setTimeout(() => void wallsPanel.createVirtual(0), 1500);
+// Test runs: ndiwall=<NDI source name>[&ndilow=1] puts that NDI® stream on the first wall.
+if (params.get('ndiwall'))
+  setTimeout(() => {
+    const w = viz?.walls[0];
+    if (w) void w.setSource({ kind: 'ndi', name: params.get('ndiwall')!, url: '', low: params.get('ndilow') === '1' }).then(() => console.log('[vd] ndi wall: ' + params.get('ndiwall')));
+    setInterval(() => console.log('[vd] wall status: ' + viz?.walls[0]?.status), 2000);
+  }, 1500);
 
 // Automated tests: save the opened project to a given path without a dialog.
 if (params.get('testsave'))

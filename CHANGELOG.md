@@ -1,5 +1,9 @@
 # Änderungen
 
+## 0.4.0
+
+- **NDI®-Streams auf den Videowänden:** Unter VIDEOWÄNDE stehen NDI-Quellen aus dem Netzwerk in der Auswahl „Quelle“ (z. B. VJ-Link, Resolume, OBS). Unverzerrt, bei geteilten Ausgängen mit Pixel-Ausschnitt je Fläche, Raumlicht aus dem Bild, wahlweise NDI-Vorschauqualität. Nutzt die vom Nutzer installierte NDI-Laufzeit (NDI Tools), VD-Link liefert keine NDI-Dateien mit. Fehlt sie, zeigt VD-Link einen Download-Knopf. Anleitung und Lizenzbedingungen: `docs/NDI.md`. NDI® ist eine eingetragene Marke der Vizrt NDI AB
+
 ## 0.3.0
 
 - Startanimation der Link-Suite (gemeinsamer Baustein aus dem Suite-Launcher): alle Programme fächern aus dem Suite-Zeichen auf, VD-Link fliegt auf sein Logo im Startbildschirm, die Kacheln blenden ein (≤ 2,5 s). Überspringen mit Taste oder Klick, „Bewegung reduzieren“ wird beachtet, einmal je Programmstart, nicht nach einem Absturz und nicht über der 3D-Ansicht. Schalter: Einstellungen → Oberfläche → Startanimation (Wie die Suite / An / Aus)
