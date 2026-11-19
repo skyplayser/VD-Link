@@ -109,6 +109,21 @@ const api = {
   /** Ask connected VDM headsets to record the show (seconds); returns how many got it. */
   vrRecord: (seconds: number) => ipcRenderer.invoke('vr:record', seconds) as Promise<number>,
   vrScene: (json: string) => ipcRenderer.send('vr:scene', json),
+  /** VD VR headsets (id, or all with null) download the open project as a world to walk without a computer. */
+  vrSendWorld: (target: string | null) => ipcRenderer.invoke('vr:sendWorld', target) as Promise<number>,
+  /** Club scans from VD VR (userData/scans) – a location is built from them in src/shared/scan.ts. */
+  vrScans: () => ipcRenderer.invoke('vr:scans') as Promise<VrScanInfo[]>,
+  vrReadScan: (id: string) => ipcRenderer.invoke('vr:readScan', id) as Promise<unknown>,
+  onVrScan: (cb: (s: VrScanInfo) => void) => {
+    ipcRenderer.on('vr:scan', (_e, s: VrScanInfo) => cb(s));
+  },
+  /** The club studio's drawing, live while you draw in the headset. */
+  onVrScanLive: (cb: (device: string, data: unknown) => void) => {
+    ipcRenderer.on('vr:scanLive', (_e, device: string, data: unknown) => cb(device, data));
+  },
+  onVrWorldStatus: (cb: (s: VrWorldStatus) => void) => {
+    ipcRenderer.on('vr:worldStatus', (_e, s: VrWorldStatus) => cb(s));
+  },
   vrDmx: (data: Uint8Array) => ipcRenderer.send('vr:dmx', data),
   vrView: (v: { haze: number; day: boolean }) => ipcRenderer.send('vr:view', v),
   /** Picture of video screen i (JPEG) and the state of all screens (JSON). */
@@ -137,8 +152,8 @@ const api = {
 // MessagePorts cannot cross the context bridge – hand them over as a window message.
 ipcRenderer.on('ndi:port', (e) => window.postMessage({ vdNdiPort: true }, '*', e.ports));
 
-import type { VrInfo, VrPose } from './vr-server.ts';
-export type { VrInfo };
+import type { VrInfo, VrPose, VrScanInfo, VrWorldStatus } from './vr-server.ts';
+export type { VrInfo, VrScanInfo, VrWorldStatus };
 
 export interface NdiSource {
   name: string;

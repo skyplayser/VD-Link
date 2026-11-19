@@ -84,5 +84,6 @@ jobs:
         run: |
           ls -la out
           NOTES=docs/release-notes/$TAG.md; [ -f "$NOTES" ] || NOTES=docs/INSTALLATION.md
-          gh release view "$TAG" >/dev/null 2>&1 || gh release create "$TAG" --target "$GITHUB_SHA" --title "VD-Link $TAG" --notes-file "$NOTES"
+          PRE=""; case "$TAG" in *-*) PRE="--prerelease";; esac   # v0.5.0-alpha, -beta … → Vorabversion
+          gh release view "$TAG" >/dev/null 2>&1 || gh release create "$TAG" --target "$GITHUB_SHA" --title "VD-Link $TAG" --notes-file "$NOTES" $PRE
           gh release upload "$TAG" out/* --clobber

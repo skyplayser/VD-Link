@@ -15,26 +15,11 @@ VD-Link selbst steht unter der Eclipse Public License 2.0 (`LICENSE`).
 | [selfsigned](https://github.com/jfromaniello/selfsigned) 5.5.0 mit [@peculiar/x509](https://github.com/PeculiarVentures/x509), `@peculiar/asn1-*`, [pkijs](https://github.com/PeculiarVentures/PKI.js), asn1js, bytestreamjs, pvtsutils, pvutils, tsyringe, @noble/hashes, tslib, reflect-metadata | MIT; pkijs, asn1js, bytestreamjs: BSD-3-Clause; tslib: 0BSD; reflect-metadata: Apache-2.0 | Eigenes Zertifikat für den VR-Server im WLAN (HTTPS, WebXR verlangt eine sichere Verbindung) |
 | [IWER](https://github.com/meta-quest/immersive-web-emulation-runtime) 2.8.0 mit [gl-matrix](https://github.com/toji/gl-matrix) | MIT | Nur im VR-Viewer mit `?emulate=quest2/quest3`: emulierte VR-Brille zum Testen ohne Brille (wird nur dann nachgeladen) |
 
-## VDM (VD-Mobile) – App für Pico und Meta Quest (`vr-app/`, in Arbeit)
+## VD VR – App für VR-Brillen
 
-Eigene Android-App, getrennt von der Desktop-App gebaut. Sie spricht nur mit dem VR-Server von VD-Link (HTTP/SSE,
-UDP-Suche im WLAN), NDI kommt in der Brille nicht vor. Die mitgelieferte Demo (`vr-app/demo/`) ist eine Aufnahme der
-VD-Link-Vorlage „Club“ mit der Demo-Show von VD-Link. Der Raum darin (`venue.bin`) ist die Geometrie, die VD-Link
-selbst zeichnet (`src/render/vr-export.ts`). Gobo-Bilder, Demo-Bilder der Videowände, die Lounge des Startbildschirms
-(`scripts/home.gd`) und alle Shader sind eigene Arbeit. Schrift im Menü und in der Neon-Schrift ist Godots eingebaute
-Schrift (Open Sans, SIL Open Font License 1.1, in Godots `COPYRIGHT.txt`).
-
-| Baustein | Lizenz | Wofür |
-|---|---|---|
-| [Godot Engine](https://github.com/godotengine/godot) 4.7.2 (Android-Vorlage, `libgodot_android.so`) | MIT; die mitgebauten Bibliotheken stehen in Godots `COPYRIGHT.txt` (u. a. MIT, BSD, zlib, Apache-2.0) | Laufzeit der App, Darstellung (OpenGL ES 3) |
-| [Godot OpenXR Vendors](https://github.com/GodotVR/godot_openxr_vendors) 5.1.0 (`libgodotopenxrvendors.so`, Plugin-AARs) | MIT | OpenXR-Anbindung je Hersteller |
-| — darin Pico-Teil (`addons/godotopenxrvendors/pico/`, `godotopenxr-pico-release.aar`) | Apache-2.0 (`pico/LICENSE`) | Pico-Erweiterungen; enthält nur den Plugin-Code, kein Pico-SDK |
-| [Khronos OpenXR Loader für Android](https://github.com/KhronosGroup/OpenXR-SDK) (`libopenxr_loader.so`) | Apache-2.0 | Verbindung zur OpenXR-Laufzeit der Brille |
-| LLVM `libc++_shared.so` (Android NDK) | Apache-2.0 mit LLVM-Ausnahme | C++-Laufzeit |
-
-Für eine Quest-Version kämen Teile von Meta dazu: der Loader steht unter Apache-2.0 (`meta/LICENSE-LOADER`), die
-SDK-Teile unter der proprietären Oculus SDK License (`meta/LICENSE-SDK`). Die Quest-Version wird erst nach Prüfung
-durch die Rechts-Session gebaut. Vor jeder Store-Veröffentlichung fragt die Entwicklung ebenfalls die Rechts-Session.
+Die VR-App VD VR hat ein eigenes Repository mit eigener Liste der Bausteine:
+[github.com/skyplayser/VD-VR](https://github.com/skyplayser/VD-VR) (`THIRD_PARTY.md`). VD-Link selbst enthält davon
+nichts; es schickt der Brille nur Raum, Licht und Bilder über den VR-Server (`electron/vr-server.ts`).
 
 ## NDI®
 

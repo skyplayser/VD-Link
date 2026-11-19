@@ -354,5 +354,8 @@ tr:last-child td{border-bottom:0}
 .vr-hs .btn{margin-left:12px}.vr-hs .btn + .btn{margin-left:0}
 .vr-hs .btn.on{border-color:var(--accent);color:var(--accent)}
 .vr-pop-actions{display:flex;gap:6px;flex-wrap:wrap;margin-top:6px}
+.vr-btn .vr-scan-dot{color:var(--accent);font-size:10px}
+.vr-hs .dot.new{color:var(--accent)}
+.ws-title .chip.live{background:var(--live);color:#fff;border-color:var(--live)}
 .linkbtn{background:none;border:0;padding:2px 0;color:var(--dim);cursor:pointer;text-align:left;text-decoration:underline;text-underline-offset:2px}
 .linkbtn:hover{color:var(--text)}

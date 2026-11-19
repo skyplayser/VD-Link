@@ -12,3 +12,4 @@ public/fixtures/
 # local tooling and material that is not part of the project
 .claude/
 docs/intern/
+vr-app/

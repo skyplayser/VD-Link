@@ -130,7 +130,32 @@ export class LocationBuilder {
     return !this.root.hidden;
   }
 
+  /** Shows a club studio drawing live from VD VR (liveUpdate). */
+  live = false;
+
+  /**
+   * Live from the club studio in the headset: the first call opens the builder, later ones swap
+   * room and objects without moving the camera. Paused once something was changed here (returns false).
+   */
+  async liveUpdate(loc: LocationData): Promise<boolean> {
+    if (this.root.hidden || !this.live) {
+      await this.open(loc);
+      this.live = true;
+      this.root.querySelector('.ws-title')?.append(el('span', 'chip live', tr('LIVE aus VD VR', 'LIVE from VD VR')));
+      return true;
+    }
+    if (this.dirty) return false;
+    const next = normalizeLocation(structuredClone(loc));
+    this.loc.room = next.room;
+    this.loc.objects = next.objects;
+    this.selected = null;
+    this.rebuildAll();
+    this.renderPanels();
+    return true;
+  }
+
   async open(loc: LocationData, filePath: string | null = null, fromProject = false) {
+    this.live = false;
     this.loc = normalizeLocation(structuredClone(loc));
     // Older files: lamp types from the placed lamps.
     if (!this.loc.fixtureTypes) {
@@ -1032,7 +1057,7 @@ export class LocationBuilder {
         'Objekt links in der Palette anklicken – es erscheint in der Mitte der Ansicht. Anklicken zum Auswählen, Pfeile ziehen zum Bewegen. W/E/R: Verschieben/Drehen/Größe · ⌘D duplizieren · Entf löschen · ⌘Z rückgängig.',
         'Click an object in the palette – it appears in the middle of the view. Click to select, drag the arrows to move. W/E/R: move/rotate/scale · ⌘D duplicate · Del delete · ⌘Z undo.',
       )),
-      el('div', 'note', tr('3D-Scans (z. B. vom iPhone) einbinden ist vorbereitet und kommt in einer späteren Version.', 'Importing 3D scans (e.g. from an iPhone) is planned for a later version.')),
+      el('div', 'note', tr('Echten Club einzeichnen: in VD VR (Pico) „Club-Studio“ – oben rechts VR → „Live ansehen“ verfolgt es live, „Als Location öffnen“ nach dem Senden.', 'Draw a real club: in VD VR (Pico) “Club studio” – top right VR → “Watch live” follows it live, “Open as location” after sending.')),
     );
   }
 

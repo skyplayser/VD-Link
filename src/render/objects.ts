@@ -250,6 +250,9 @@ export function buildObjectMesh(o: LocObject, mat: MaterialMaker): THREE.Object3
     case 'scan':
       g.add(mesh(new THREE.BoxGeometry(w, h, d), mat('grey'), h / 2));
       break;
+    case 'slab':
+      g.add(mesh(slabGeometry(o.poly, w, h, d), m));
+      break;
   }
   return g;
 }
@@ -271,6 +274,23 @@ function arcOutline(a: number, b: number, A: number, n: number): [number, number
  * filled (thickness 0 → pie / D shape) or as a band of the given thickness. Bottom at
  * y = 0, height h.
  */
+/** Plate with any outline (gallery): the outline scaled to w × d, h thick, from 0 up. Without one: a box. */
+export function slabGeometry(poly: [number, number][] | undefined, w: number, h: number, d: number): THREE.BufferGeometry {
+  if (!poly || poly.length < 3) return new THREE.BoxGeometry(w, h, d).translate(0, h / 2, 0);
+  const xs = poly.map((p) => p[0]);
+  const zs = poly.map((p) => p[1]);
+  const bw = Math.max(...xs) - Math.min(...xs) || 1;
+  const bd = Math.max(...zs) - Math.min(...zs) || 1;
+  const sx = w / bw;
+  const sz = d / bd;
+  // Shape lives in x/y; after rotateX(-90°) shape-y becomes -z, so store -z.
+  const shape = new THREE.Shape(poly.map(([x, z]) => new THREE.Vector2(x * sx, -z * sz)));
+  const geo = new THREE.ExtrudeGeometry(shape, { depth: Math.max(0.01, h), bevelEnabled: false, curveSegments: 1 });
+  geo.rotateX(-Math.PI / 2);
+  geo.computeVertexNormals();
+  return geo;
+}
+
 export function arcGeometry(a: number, b: number, angleDeg: number, thickness: number, h: number): THREE.BufferGeometry {
   const A = THREE.MathUtils.degToRad(Math.min(360, Math.max(1, angleDeg)));
   const full = A >= Math.PI * 2 - 1e-3;

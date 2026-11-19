@@ -1,6 +1,6 @@
 {
   "name": "vd-link",
-  "version": "0.4.0",
+  "version": "0.5.0-alpha",
   "productName": "VD-Link",
   "description": "VD-Link (Virtual-Demo Link): 3D-Lichtvisualisierer für Art-Net und sACN – Schwesterprojekt von VJ-Link und LJ-Link.",
   "license": "EPL-2.0",

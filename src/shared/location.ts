@@ -26,7 +26,8 @@ export type ObjType =
   | 'aquarium'
   | 'crowd'
   | 'fixture'
-  | 'scan';
+  | 'scan'
+  | 'slab';
 
 export type MatPreset =
   | 'black'
@@ -83,6 +84,8 @@ export interface LocObject {
    * how far a round sofa reaches around. The arc is centred on the local +z side.
    */
   arc?: ArcSpec;
+  /** Slab (gallery, platform): outline in metres around `pos` (x, z), scaled to `size` – drawn in the club studio. */
+  poly?: [number, number][];
 }
 
 export interface ArcSpec {

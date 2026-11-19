@@ -130,6 +130,13 @@ Drei fertige Szenarien – **Club**, **Großraumdisko** und **Festival mit Tag/N
 
 </details>
 
+## 🥽 In der VR-Brille: VD VR <sup>alpha</sup>
+
+Mit **[VD VR](https://github.com/skyplayser/VD-VR)** stehst du mitten in deiner Show: Die App für Standalone-Brillen
+(zuerst Pico 4 Ultra) zeigt den Club aus VD-Link live, lädt ihn als **Welt** zum Begehen ohne Computer und hat ein
+**Club-Studio**, in dem du den echten Club mit Stockwerken, Emporen und Treppen einzeichnest – VD-Link öffnet ihn als
+Location, auf Wunsch live mitverfolgt. In VD-Link: oben rechts **VR**. Anleitung: [`docs/VD-VR.md`](docs/VD-VR.md).
+
 ## 🧩 Teil der Link-Suite
 
 <p align="center">

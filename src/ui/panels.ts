@@ -757,13 +757,14 @@ export class ConnectPanel implements Panel {
     }, 'btn'));
     if (window.vd.platform === 'win32') row.append(button(t('vr.pcvr'), () => void window.vd.vrOpenPcvr(), 'btn'));
     box.append(row);
-    // VDM app: save the running show on the headsets (plays there without a computer).
+    // VD VR app: the open project as a world on the headsets (walk around in it without a computer).
     const note = el('div', 'muted small');
-    const rec = button(t('vr.record'), async () => {
-      const n = await window.vd.vrRecord(60);
-      note.textContent = n > 0 ? t('vr.recordSent', { n: String(n) }) : t('vr.recordNone');
+    const world = button(t('vr.world'), async () => {
+      const n = await window.vd.vrSendWorld(null);
+      note.textContent = n > 0 ? t('vr.worldSent', { n: String(n) }) : t('vr.recordNone');
     }, 'btn');
-    box.append(el('div', 'muted small', t('vr.vdm')), rec, note);
+    world.title = t('vr.worldTitle');
+    box.append(el('div', 'muted small', t('vr.vdm')), world, note);
   }
 
   render() {

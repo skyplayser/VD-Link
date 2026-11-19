@@ -2,12 +2,16 @@
 // - http://localhost:7700/<Code>/  nur dieser Rechner bzw. per USB (adb reverse) – „sicher“ für WebXR ohne Zertifikat
 // - https://<IP>:7701/<Code>/       im WLAN, mit eigenem Zertifikat (in der Brille einmal bestätigen)
 // Die Brille ist nur Zuschauer: Sie holt die Szene (/api/scene) und bekommt DMX und Ansicht als Server-Sent Events.
+// Club-Scans aus VD VR (POST api/scan): Flächen des echten Raums, gespeichert in userData/scans, VD-Link baut daraus
+// eine Location (src/shared/scan.ts).
+// Welt für VD VR (GET api/world.vdworld, Event `world`, POST api/world-status): das offene Projekt als ein Paket –
+// Szene, Raum, Gobos, Videowände und das Licht dieses Moments –, damit man ohne Computer darin herumlaufen kann.
 // Ohne den 4-stelligen Code gibt es nur eine Seite zum Eingeben des Codes.
 
 import { randomInt } from 'node:crypto';
 import dgram from 'node:dgram';
 import { gzipSync } from 'node:zlib';
-import { appendFileSync, existsSync, readFileSync, writeFileSync } from 'node:fs';
+import { appendFileSync, existsSync, mkdirSync, readdirSync, readFileSync, statSync, writeFileSync } from 'node:fs';
 import http from 'node:http';
 import https from 'node:https';
 import { hostname, networkInterfaces } from 'node:os';
@@ -72,6 +76,25 @@ export function parsePose(body: string, from: string): VrPose | null {
   };
 }
 
+/** A stored club scan (userData/scans/<id>.json). */
+export interface VrScanInfo {
+  id: string;
+  name: string;
+  device: string;
+  created: number;
+  /** Walls and objects (version 3) or found surfaces (older scans). */
+  planes: number;
+  rooms: number;
+}
+
+/** How far a headset is with loading the world. */
+export interface VrWorldStatus {
+  headset: string;
+  name: string;
+  state: 'loading' | 'saved' | 'failed';
+  progress: number;
+}
+
 export class VrServer {
   private http: http.Server | null = null;
   private https: https.Server | null = null;
@@ -81,6 +104,14 @@ export class VrServer {
   onNative: (n: number) => void = () => {};
   /** Pose of a headset (POST api/pose from VDM or the browser viewer). */
   onPose: (p: VrPose) => void = () => {};
+  /** A VD VR headset reports how loading the world goes (POST api/world-status). */
+  onWorldStatus: (s: VrWorldStatus) => void = () => {};
+  /** A club scan arrived from VD VR (stored in userData/scans). */
+  onScan: (s: VrScanInfo) => void = () => {};
+  /** The club studio sends its drawing live while you draw (POST api/scan-live). */
+  onScanLive: (device: string, data: unknown) => void = () => {};
+  /** Latest beams of the native frame stream: the light of the world package. */
+  private lastFrame: Buffer | null = null;
   private scene: string | null = null;
   private lastView = '';
   private lastWalls = '';
@@ -256,6 +287,7 @@ export class VrServer {
   /** Raw DMX of all used universes (decoded in the headset with the same codec). */
   /** Beams + surface spots of one frame (Float32 little endian, see Viz.vrFrame) – native apps only. */
   pushFrame(data: Uint8Array) {
+    this.lastFrame = Buffer.from(data.buffer, data.byteOffset, data.byteLength);
     if (!this.native.size) return;
     const msg = `event: frame\ndata: ${Buffer.from(data.buffer, data.byteOffset, data.byteLength).toString('base64')}\n\n`;
     for (const c of this.native) c.write(msg);
@@ -265,6 +297,135 @@ export class VrServer {
   requestRecord(seconds: number): number {
     const s = Math.max(5, Math.min(300, Math.round(seconds)));
     for (const c of this.native) c.write(`event: record\ndata: {"seconds":${s}}\n\n`);
+    return this.native.size;
+  }
+
+  /**
+   * The open project as one file for VD VR („VDS1“, u32 header length, JSON header, parts):
+   * scene (as api/scene), venue (api/venue.bin), gobos (PNG), frame (f32 × n, Viz.vrFrame – the light
+   * of this moment, standing still), pics (per screen: i32 index, f32 0, i32 length, JPEG).
+   * Offsets in header.parts count from the end of the header.
+   */
+  worldPackage(): Buffer | null {
+    if (!this.scene) return null;
+    let project: { name?: string; view?: unknown } = {};
+    try {
+      project = (JSON.parse(this.scene) as { project?: typeof project }).project ?? {};
+    } catch {
+      /* name stays empty */
+    }
+    const pics: Buffer[] = [];
+    for (const [i, jpg] of this.wallJpeg) {
+      const h = Buffer.alloc(12);
+      h.writeInt32LE(i, 0);
+      h.writeFloatLE(0, 4);
+      h.writeInt32LE(jpg.length, 8);
+      pics.push(h, jpg);
+    }
+    const order: [string, Buffer | null][] = [
+      ['scene', Buffer.from(this.scene, 'utf8')],
+      ['venue', this.venue?.raw ?? null],
+      ['gobos', this.gobos?.png ?? null],
+      ['frame', this.lastFrame],
+      ['pics', pics.length ? Buffer.concat(pics) : null],
+    ];
+    const parts: Record<string, [number, number]> = {};
+    const bodies: Buffer[] = [];
+    let off = 0;
+    for (const [name, b] of order) {
+      if (!b?.length) continue;
+      parts[name] = [off, b.length];
+      bodies.push(b);
+      off += b.length;
+    }
+    let walls: unknown = [];
+    try {
+      walls = this.lastWalls ? JSON.parse(this.lastWalls) : [];
+    } catch {
+      walls = [];
+    }
+    const header = Buffer.from(
+      JSON.stringify({
+        format: 'vd-link-world',
+        version: 1,
+        name: project.name || 'Club',
+        created: Math.floor(Date.now() / 1000),
+        view: project.view ?? {},
+        walls,
+        gobo_cols: this.gobos?.cols ?? 0,
+        gobo_rows: this.gobos?.rows ?? 0,
+        parts,
+      }),
+      'utf8',
+    );
+    const head = Buffer.alloc(8);
+    head.write('VDS1', 0, 'latin1');
+    head.writeUInt32LE(header.length, 4);
+    return Buffer.concat([head, header, ...bodies]);
+  }
+
+  private scanDir() {
+    return path.join(this.dataDir, 'scans');
+  }
+
+  /** Checks and stores a club scan; null if it is none. */
+  private storeScan(body: string): VrScanInfo | null {
+    let j: { format?: string; name?: unknown; device?: unknown; created?: unknown; planes?: unknown; rooms?: unknown };
+    try {
+      j = JSON.parse(body);
+    } catch {
+      return null;
+    }
+    if (j?.format !== 'vd-vr-scan' || !(Array.isArray(j.planes) || Array.isArray(j.rooms)) || (Array.isArray(j.planes) && j.planes.length > 5000) || (Array.isArray(j.rooms) && j.rooms.length > 200)) return null;
+    const id = `${Date.now().toString(36)}`;
+    try {
+      mkdirSync(this.scanDir(), { recursive: true });
+      writeFileSync(path.join(this.scanDir(), `${id}.json`), body);
+    } catch {
+      return null;
+    }
+    return this.scanInfo(id, j);
+  }
+
+  private scanInfo(id: string, j: { name?: unknown; device?: unknown; created?: unknown; planes?: unknown; rooms?: unknown }): VrScanInfo {
+    const s = (v: unknown, max: number) => (typeof v === 'string' ? v.slice(0, max) : '');
+    const rooms = Array.isArray(j.rooms) ? (j.rooms as { walls?: unknown[]; objects?: unknown[] }[]) : [];
+    const parts = rooms.reduce((n, r) => n + (Array.isArray(r?.walls) ? r.walls.length : 0) + (Array.isArray(r?.objects) ? r.objects.length : 0), 0);
+    return { id, name: s(j.name, 80) || 'Scan', device: s(j.device, 40) || 'VR-Brille', created: typeof j.created === 'number' ? j.created : 0, planes: rooms.length ? parts : Array.isArray(j.planes) ? j.planes.length : 0, rooms: rooms.length || 1 };
+  }
+
+  /** Stored club scans, newest first. */
+  listScans(): VrScanInfo[] {
+    try {
+      return readdirSync(this.scanDir())
+        .filter((f) => /^[a-z0-9]+\.json$/.test(f))
+        .map((f) => {
+          try {
+            return this.scanInfo(f.slice(0, -5), JSON.parse(readFileSync(path.join(this.scanDir(), f), 'utf8')));
+          } catch {
+            return null;
+          }
+        })
+        .filter((x): x is VrScanInfo => !!x)
+        .sort((a, b) => b.created - a.created || (statSync(path.join(this.scanDir(), `${b.id}.json`)).mtimeMs - statSync(path.join(this.scanDir(), `${a.id}.json`)).mtimeMs));
+    } catch {
+      return [];
+    }
+  }
+
+  readScan(id: string): unknown {
+    if (!/^[a-z0-9]+$/.test(id)) return null;
+    try {
+      return JSON.parse(readFileSync(path.join(this.scanDir(), `${id}.json`), 'utf8'));
+    } catch {
+      return null;
+    }
+  }
+
+  /** VD VR headsets (id, or all with null) download the open project as a world (event `world`). */
+  sendWorld(target: string | null): number {
+    if (!this.scene) return 0;
+    for (const c of this.native) c.write(`event: world\ndata: ${JSON.stringify({ to: target })}\n\n`);
     return this.native.size;
   }
 
@@ -355,6 +516,80 @@ export class VrServer {
         const p = parsePose(body, req.socket.remoteAddress ?? '');
         if (p) this.onPose(p);
         res.writeHead(p ? 204 : 400);
+        res.end();
+      });
+      return;
+    }
+    if (rest === 'api/scan-live' && req.method === 'POST') {
+      const chunks: Buffer[] = [];
+      let size = 0;
+      req.on('data', (d: Buffer) => {
+        size += d.length;
+        if (size <= 8e6) chunks.push(d);
+      });
+      req.on('end', () => {
+        let j: { format?: string; device?: unknown } | null = null;
+        try {
+          j = size <= 8e6 ? JSON.parse(Buffer.concat(chunks).toString('utf8')) : null;
+        } catch {
+          j = null;
+        }
+        const ok = !!j && j.format === 'vd-vr-scan';
+        res.writeHead(ok ? 204 : 400);
+        res.end();
+        if (ok) {
+          // Kept on disk too: nothing is lost if VD-Link closes meanwhile.
+          try {
+            mkdirSync(this.scanDir(), { recursive: true });
+            writeFileSync(path.join(this.scanDir(), 'live.json'), Buffer.concat(chunks));
+          } catch {
+            /* read-only profile */
+          }
+          this.onScanLive(typeof j!.device === 'string' ? j!.device.slice(0, 40) : 'VR-Brille', j);
+        }
+      });
+      return;
+    }
+    if (rest === 'api/scan' && req.method === 'POST') {
+      const chunks: Buffer[] = [];
+      let size = 0;
+      req.on('data', (d: Buffer) => {
+        size += d.length;
+        if (size <= 8e6) chunks.push(d);
+      });
+      req.on('end', () => {
+        const info = size <= 8e6 ? this.storeScan(Buffer.concat(chunks).toString('utf8')) : null;
+        res.writeHead(info ? 204 : 400);
+        res.end();
+        if (info) this.onScan(info);
+      });
+      return;
+    }
+    if (rest === 'api/world.vdworld') {
+      const w = this.worldPackage();
+      if (!w) {
+        res.writeHead(503, { 'Content-Type': 'application/json' });
+        return res.end('{"error":"no-project"}');
+      }
+      res.writeHead(200, { 'Content-Type': 'application/octet-stream', 'Content-Length': w.length });
+      return res.end(w);
+    }
+    if (rest === 'api/world-status' && req.method === 'POST') {
+      let body = '';
+      req.on('data', (d: Buffer) => {
+        if (body.length < 2000) body += d.toString('utf8');
+      });
+      req.on('end', () => {
+        try {
+          const j = JSON.parse(body) as Record<string, unknown>;
+          const clean = (v: unknown, max: number) => (typeof v === 'string' ? v.replace(/[^\p{L}\p{N} ._:·-]/gu, '').slice(0, max) : '');
+          const state = j.state === 'saved' || j.state === 'failed' ? j.state : 'loading';
+          const progress = typeof j.progress === 'number' && isFinite(j.progress) ? Math.max(0, Math.min(1, j.progress)) : 0;
+          this.onWorldStatus({ headset: clean(j.headset, 40) || 'VR-Brille', name: clean(j.name, 80), state, progress });
+          res.writeHead(204);
+        } catch {
+          res.writeHead(400);
+        }
         res.end();
       });
       return;
@@ -493,5 +728,11 @@ export function registerVr(getWin: () => BrowserWindow | null) {
   ipcMain.on('vr:walls', (_e, json: unknown) => {
     if (typeof json === 'string') server.pushWalls(json);
   });
+  ipcMain.handle('vr:sendWorld', (_e, target: unknown) => server.sendWorld(typeof target === 'string' ? target.slice(0, 64) : null));
+  server.onWorldStatus = (s) => getWin()?.webContents.send('vr:worldStatus', s);
+  server.onScan = (s) => getWin()?.webContents.send('vr:scan', s);
+  server.onScanLive = (device, data) => getWin()?.webContents.send('vr:scanLive', device, data);
+  ipcMain.handle('vr:scans', () => server.listScans());
+  ipcMain.handle('vr:readScan', (_e, id: unknown) => (typeof id === 'string' ? server.readScan(id) : null));
   app.on('will-quit', () => server.stop());
 }

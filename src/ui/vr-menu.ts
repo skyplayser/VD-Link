@@ -1,7 +1,9 @@
 // VR button in the header (between the status pills and the settings): switch the VR server on,
 // show the code, list the connected headsets – look along with one (the 3D view shows what it
-// sees) or bring it to the spot the 3D view looks at. The CONNECT tab keeps the full card.
+// sees) or bring it to the spot the 3D view looks at, and send the open project to VD VR headsets as
+// a world to walk around in without a computer. The CONNECT tab keeps the full card.
 
+import type { VrScanInfo, VrWorldStatus } from '../../electron/preload.ts';
 import type { Viz } from '../viz.ts';
 import type { Ctx } from './ctx.ts';
 import { el, icon } from './dom.ts';
@@ -14,13 +16,43 @@ export class VrMenu {
   private running = false;
   private note = '';
   private rendering = false;
+  /** Loading the world, newest per headset. */
+  private worlds = new Map<string, VrWorldStatus>();
+  /** Club scans from VD VR; the newest one gets a dot on the button until the menu was opened. */
+  private scans: VrScanInfo[] = [];
+  private newScan: VrScanInfo | null = null;
+
+  /** Club studio drawing live from this headset (latest). */
+  private live: { device: string; at: number } | null = null;
+
+  liveChanged(device: string) {
+    const first = !this.live;
+    this.live = { device, at: Date.now() };
+    if (first) this.paintButton();
+    if (!this.pop.hidden && first) void this.render();
+  }
+
+  private async loadScans() {
+    this.scans = (await window.vd.vrScans?.().catch(() => [])) ?? [];
+    if (!this.pop.hidden) void this.render();
+  }
 
   constructor(
     private ctx: Ctx,
     private viz: () => Viz | null,
     /** Called after switching the server on/off here (CONNECT card refreshes). */
     private onToggle: () => void,
+    /** Open a club scan from VD VR as a new location in the builder. */
+    private openScan: (id: string) => void = () => {},
+    /** Follow the club studio live in the builder. */
+    private openLive: () => void = () => {},
   ) {
+    window.vd.onVrScan?.((s) => {
+      this.newScan = s;
+      void this.loadScans();
+      this.paintButton();
+    });
+    void this.loadScans();
     this.btn.onclick = (e) => {
       e.stopPropagation();
       this.pop.hidden = !this.pop.hidden;
@@ -31,6 +63,10 @@ export class VrMenu {
     addEventListener('click', () => (this.pop.hidden = true));
     addEventListener('keydown', (e) => {
       if (e.key === 'Escape') this.pop.hidden = true;
+    });
+    window.vd.onVrWorldStatus?.((s) => {
+      this.worlds.set(s.headset, s);
+      if (!this.pop.hidden) void this.render();
     });
     void this.refresh();
   }
@@ -61,6 +97,7 @@ export class VrMenu {
     b.title = t('vr.btnTitle');
     b.replaceChildren(icon('vr'), document.createTextNode(t('vr.btn')));
     if (this.running) b.append(el('span', 'vr-n', n ? String(n) : '·'));
+    if (this.newScan) b.append(el('span', 'vr-scan-dot', '●'));
     if (this.viz()?.following) b.classList.add('follow');
   }
 
@@ -148,14 +185,55 @@ export class VrMenu {
     }
     if (this.note) out.push(el('div', 'muted small', this.note));
 
+    for (const w of this.worlds.values())
+      out.push(
+        el(
+          'div',
+          `small ${w.state === 'failed' ? 'note warn' : 'muted'}`,
+          w.state === 'saved' ? t('vr.worldSaved', { h: w.headset, name: w.name }) : w.state === 'failed' ? t('vr.worldFailed', { h: w.headset }) : t('vr.worldLoading', { h: w.headset, p: String(Math.round(w.progress * 100)) }),
+        ),
+      );
+
+    // Club scans from VD VR → new location; the drawing live while it is made.
+    out.push(el('div', 'menu-label', t('vr.scans')));
+    if (this.live && Date.now() - this.live.at < 10 * 60 * 1000) {
+      const row = el('div', 'vr-hs');
+      row.append(el('span', 'dot new'), el('span', 'vr-hs-name', t('vr.liveRow', { h: this.live.device })));
+      const watch = el('button', 'btn small primary', t('vr.liveWatch'));
+      watch.onclick = () => {
+        this.pop.hidden = true;
+        this.openLive();
+      };
+      row.append(watch);
+      out.push(row);
+    }
+    if (!this.scans.length) out.push(el('div', 'muted small', t('vr.scansNone')));
+    for (const s of this.scans.slice(0, 5)) {
+      const row = el('div', 'vr-hs');
+      const when = s.created ? new Date(s.created * 1000).toLocaleString(undefined, { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' }) : '';
+      row.append(el('span', `dot ${this.newScan?.id === s.id ? 'new' : ''}`), el('span', 'vr-hs-name', `${s.device} · ${when} · ${s.rooms > 1 ? t('vr.scanRooms', { n: String(s.rooms) }) + ' · ' : ''}${t('vr.scanPlanes', { n: String(s.planes) })}`));
+      const open = el('button', 'btn small', t('vr.scanOpen'));
+      open.title = t('vr.scanOpenTitle');
+      open.onclick = () => {
+        this.pop.hidden = true;
+        this.newScan = null;
+        this.paintButton();
+        this.openScan(s.id);
+      };
+      row.append(open);
+      out.push(row);
+    }
+
     const actions = el('div', 'vr-pop-actions');
-    const rec = el('button', 'btn small', t('vr.record'));
-    rec.onclick = async () => {
-      const n = await window.vd.vrRecord(60);
-      this.note = n > 0 ? t('vr.recordSent', { n: String(n) }) : t('vr.recordNone');
+    const world = el('button', 'btn small', t('vr.world'));
+    world.title = t('vr.worldTitle');
+    world.onclick = async () => {
+      this.worlds.clear();
+      const n = await window.vd.vrSendWorld(null);
+      this.note = n > 0 ? t('vr.worldSent', { n: String(n) }) : t('vr.recordNone');
       void this.render();
     };
-    actions.append(rec);
+    actions.append(world);
     if (window.vd.platform === 'win32') {
       const pc = el('button', 'btn small', t('vr.pcvr'));
       pc.onclick = () => void window.vd.vrOpenPcvr();

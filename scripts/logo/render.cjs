@@ -4,6 +4,8 @@
 // perspective (front row full colour, back row dimmed) = 3D. Same geometry as
 // src/ui/dom.ts logoSlots().
 // Run: npx electron scripts/logo/render.cjs
+// VD VR (../VD-VR, own repo): npx electron scripts/logo/render.cjs --vr → the same icon with „VR“ (../VD-VR/icon.png,
+// ../VD-VR/intro/vr-icon.png for the start animation).
 const { app, BrowserWindow } = require('electron');
 const fs = require('fs');
 const path = require('path');
@@ -33,10 +35,10 @@ window.logo=(fill)=>{const c=document.getElementById('c');c.width=640;c.height=1
   g.fillStyle=fill;g.font='800 92px IDX';g.textBaseline='alphabetic';g.letterSpacing='-1px';g.fillText('VD-Link',218,97);
   const w=Math.ceil(218+g.measureText('VD-Link').width+28);const o=document.createElement('canvas');o.width=w;o.height=144;
   o.getContext('2d').drawImage(c,0,0);return o.toDataURL('image/png')};
-window.icon=(n)=>{const c=document.getElementById('c');c.width=c.height=n;const g=c.getContext('2d');const s=n/1024;g.setTransform(s,0,0,s,0,0);
+window.icon=(n,text='VD')=>{const c=document.getElementById('c');c.width=c.height=n;const g=c.getContext('2d');const s=n/1024;g.setTransform(s,0,0,s,0,0);
   g.clearRect(0,0,1024,1024);const gr=g.createLinearGradient(100,100,924,924);gr.addColorStop(0,'#1A1E2A');gr.addColorStop(1,'#0D1016');
   g.fillStyle=gr;rr(g,101.5,101.5,821,821,196);g.strokeStyle='#2A2F3D';g.lineWidth=3;g.beginPath();g.roundRect(101.5,101.5,821,821,196);g.stroke();
-  g.fillStyle='#F2F4F8';g.font='800 330px IDX';g.textAlign='center';g.letterSpacing='-4px';g.fillText('VD',512,560);
+  g.fillStyle='#F2F4F8';g.font='800 330px IDX';g.textAlign='center';g.letterSpacing='-4px';g.fillText(text,512,560);
   floor(g,214,650,596,150);
   return c.toDataURL('image/png')};
 </script></body></html>`;
@@ -66,6 +68,12 @@ app.whenReady().then(async () => {
   await win.loadURL('data:text/html;base64,' + Buffer.from(PAGE).toString('base64'));
   await win.webContents.executeJavaScript('document.fonts.load("800 92px IDX")');
   const png = async (js) => Buffer.from((await win.webContents.executeJavaScript(js)).split(',')[1], 'base64');
+  if (process.argv.includes('--vr')) {
+    fs.writeFileSync(path.join(ROOT, '../VD-VR/icon.png'), await png(`icon(1024,'VR')`));
+    fs.writeFileSync(path.join(ROOT, '../VD-VR/intro/vr-icon.png'), await png(`icon(512,'VR')`));
+    console.log('VD-VR-Icons geschrieben');
+    return app.quit();
+  }
   fs.mkdirSync(path.join(ROOT, 'assets'), { recursive: true });
   fs.writeFileSync(path.join(ROOT, 'assets/logo-for-dark.png'), await png(`logo('#F2F3F7')`));
   fs.writeFileSync(path.join(ROOT, 'assets/logo-for-light.png'), await png(`logo('#141821')`));

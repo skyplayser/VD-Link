@@ -29,6 +29,7 @@ import { openGallery, pickFromGallery } from './ui/gallery.ts';
 import { newLocation, normalizeLocation, scenarioToLocation, type LocationData } from './shared/location.ts';
 import { SCENARIOS } from './shared/scenarios.ts';
 import { drawGoboAtlas, GOBO_COLS, GOBO_ROWS } from './render/gobos.ts';
+import { isScan, scanToLocation } from './shared/scan.ts';
 import { exportVenue } from './render/vr-export.ts';
 import { VrMenu } from './ui/vr-menu.ts';
 import { projectFromLocation, projectScenario } from './project.ts';
@@ -162,7 +163,39 @@ const panels: Partial<Record<TabId, Panel>> = {
   connect: connectPanel,
 };
 const start = new StartScreen(ctx);
-const vrMenu = new VrMenu(ctx, () => viz, () => connectPanel.vrChanged(vrClients));
+const vrMenu = new VrMenu(ctx, () => viz, () => connectPanel.vrChanged(vrClients), (id) => void openScan(id), () => {
+  liveFollow = true;
+  void showLive();
+});
+// Club scans from VD VR: a note when one arrives, „Als Location öffnen“ builds the location.
+window.vd.onVrScan?.((s) => toast(t('vr.scanReceived', { h: s.device })));
+// Club studio live: the drawing follows the headset in the location builder.
+let liveScan: { device: string; data: unknown } | null = null;
+let liveFollow = false;
+let liveHinted = false;
+window.vd.onVrScanLive?.((device, data) => {
+  liveScan = { device, data };
+  vrMenu.liveChanged(device);
+  if (liveFollow) void showLive();
+  else if (!liveHinted) {
+    liveHinted = true;
+    toast(t('vr.liveReceived', { h: device }));
+  }
+});
+async function showLive() {
+  if (!liveScan || !isScan(liveScan.data)) return;
+  const d = liveScan.data;
+  const loc = scanToLocation(d, `Club-Studio live · ${liveScan.device}`);
+  if (!liveFollow) start.hide();
+  liveFollow = (await locBuilder.liveUpdate(loc)) || false;
+  if (!liveFollow) toast(t('vr.livePaused'));
+}
+async function openScan(id: string) {
+  const data = await window.vd.vrReadScan(id);
+  if (!isScan(data)) return toast(t('proj.error', { e: 'Scan' }), true);
+  start.hide();
+  await locBuilder.open(scanToLocation(data, `Club-Scan ${new Date((data.created || Date.now() / 1000) * 1000).toLocaleDateString()}`));
+}
 addEventListener('vd-vr', () => void vrMenu.refresh());
 const shell = document.getElementById('shell')!;
 
@@ -424,6 +457,8 @@ const locBuilder = new LocationBuilder({
   gallery: (onAdd) => openGallery(ctx, onAdd),
   fixtureName: (id) => library.fetchDef(id),
   onClose: () => {
+    // Closed by hand: stop following the club studio live.
+    liveFollow = false;
     if (!project) void start.show();
   },
 });
