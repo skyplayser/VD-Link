@@ -19,6 +19,22 @@ oder einer NDI-Kamera. VD-Link **empfängt** dabei nur und sendet selbst keine S
    Ausgängen bekommt jede Fläche ihren Pixel-Ausschnitt, wie bei einem HDMI-Ausgang.
 4. **NDI-Vorschauqualität** nimmt den kleineren Vorschau-Stream der Quelle. Das spart Netz und Rechenleistung, etwa im
    WLAN oder bei vielen Wänden.
+5. **Bild auf Ausgang** legt fest, was passiert, wenn das NDI-Bild eine andere Größe hat als der Ausgang:
+   - **Einpassen** (Standard): Das ganze Bild ist zu sehen, unverzerrt, mit schwarzen Rändern.
+   - **1:1 Pixel ab Position**: Der Ausgang nimmt seine Pixel ab der Position x/y aus dem NDI-Bild, wie ein
+     LED-Prozessor, der einen Teil eines größeren Signals zeigt.
+   - **Strecken**: Das Bild füllt den Ausgang und wird dabei verzerrt.
+
+   Am besten sendet die Quelle genau in der Größe des Ausgangs, etwa 2816 × 640 für eine Reihe LED-Wände an einem
+   HDMI-Ausgang. In VJ-Link geht das unter **AUSGABE → NDI®-Ausgang → Eigene Größe**. Passt die Größe nicht, zeigt
+   VD-Link einen Hinweis.
+6. **Bei Signalverlust**: Kommt 1,5 Sekunden lang kein Bild, zeigt der Status „Verbindung verloren“. Die Wand zeigt
+   dann wahlweise Schwarz (Standard), das letzte Bild oder das Testbild. Sobald die Quelle wieder sendet, verbindet
+   VD-Link von selbst.
+
+Quelle, Bild auf Ausgang, Signalverlust und Helligkeit werden im Projekt gespeichert. Beim Öffnen verbindet sich jede
+Wand wieder mit ihrer NDI-Quelle, sobald diese im Netz ist. Zeigen mehrere Wände dieselbe Quelle, empfängt VD-Link
+sie nur einmal.
 
 Die Firewall muss NDI durchlassen. NDI findet Quellen per mDNS (Bonjour) und überträgt über TCP/UDP. Windows fragt beim
 ersten Mal nach. Unter macOS braucht VD-Link die Freigabe „Lokales Netzwerk“.

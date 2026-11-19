@@ -14,6 +14,7 @@ import { DmxMerger } from './dmx/merger.ts';
 import { buildMenu } from './menu.ts';
 import { detectLauncher, type LauncherInfo } from './suite/launcher-detect.ts';
 import { registerNdi, stopNdi } from './ndi/ndi.ts';
+import { registerVr } from './vr-server.ts';
 import { clearRecent, kindOf, listRecent, listUserFixtures, openDialog, openFileDialog, readFile, readProject, removeUserFixture, saveFile, saveProject, storeUserFixture, type FileKind } from './projects.ts';
 
 const UNIVERSES = 32;
@@ -453,6 +454,39 @@ app.setAboutPanelOptions({
 });
 
 registerNdi();
+registerVr(() => win);
+
+// Intel build on a Mac with Apple chip (Rosetta): V8 runs translated there, the first frames
+// alone take about a minute. Point to the Apple-chip build – once per start, until switched off.
+const ARM_RELEASE_URL = 'https://github.com/skyplayser/VD-Link/releases/latest';
+async function rosettaHint() {
+  const off = path.join(app.getPath('userData'), 'rosetta-hint-off');
+  const forced = process.env.VD_ROSETTA_HINT === '1';
+  if (!forced && (process.platform !== 'darwin' || !app.runningUnderARM64Translation || autoRun || existsSync(off))) return;
+  // As a sheet on the main window: a free-standing alert would run modally and hold up
+  // the app start until it is answered.
+  if (!win) return;
+  console.log('[vd] rosetta hint');
+  const de = app.getLocale().startsWith('de');
+  const { response, checkboxChecked } = await dialog.showMessageBox(win, {
+    type: 'info',
+    buttons: de ? ['Apple-Chip-Version laden', 'Weiter'] : ['Get the Apple chip version', 'Continue'],
+    defaultId: 0,
+    cancelId: 1,
+    message: de ? 'Das ist die VD-Link-Version für Intel-Macs.' : 'This is the VD-Link version for Intel Macs.',
+    detail: de
+      ? 'Dein Mac hat einen Apple-Chip. Über Rosetta startet VD-Link deutlich langsamer, bis zum ersten Bild kann es etwa eine Minute dauern. Die Version für Apple-Chip (VD-Link-macos-arm64.dmg) gibt es kostenlos auf der Download-Seite.'
+      : 'Your Mac has an Apple chip. Under Rosetta VD-Link starts much more slowly; the first picture can take about a minute. The Apple chip version (VD-Link-macos-arm64.dmg) is free on the download page.',
+    checkboxLabel: de ? 'Nicht mehr anzeigen' : "Don't show again",
+  });
+  if (checkboxChecked)
+    try {
+      writeFileSync(off, '1');
+    } catch {
+      /* read-only profile: ask again next time */
+    }
+  if (response === 0) void shell.openExternal(ARM_RELEASE_URL);
+}
 
 app.whenReady().then(() => {
   // Packaged builds get the dock icon from the bundle; in development set it here.
@@ -474,6 +508,7 @@ app.whenReady().then(() => {
   startDmx();
   buildMenu(() => win);
   createWindow();
+  void rosettaHint();
   if (process.platform === 'darwin') console.log('[vd] screen capture permission:', systemPreferences.getMediaAccessStatus('screen'));
 });
 

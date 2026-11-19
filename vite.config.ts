@@ -12,6 +12,7 @@ export default defineConfig({
       input: {
         main: root + 'index.html',
         testpattern: root + 'testpattern.html',
+        vr: root + 'vr.html',
       },
     },
   },

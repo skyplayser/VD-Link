@@ -45,6 +45,14 @@ export const beamGlobals = {
   soft: uniform(1),
 };
 
+/**
+ * Build-time features of the beam shader. `depthSoft` reads the scene depth for soft edges
+ * where beams meet geometry – that needs a copy of the depth buffer every frame, which is
+ * expensive on mobile (tile-based) GPUs. VR headsets switch it off and fade near the floor
+ * instead; set before the rig is built.
+ */
+export const beamFeatures = { depthSoft: true };
+
 export class InstancedBeams {
   readonly mesh: THREE.Mesh;
   private geo: THREE.InstancedBufferGeometry;
@@ -114,9 +122,15 @@ export class InstancedBeams {
     const n = texture3D(noiseTex, positionWorld.mul(0.045).add(vec3(time.mul(0.012), time.mul(-0.004), time.mul(0.006)))).r.sub(0.5);
     const hazeNoise = float(1).add(n.mul(2.2).mul(beamGlobals.noise));
     // Soft intersection with floor/walls/people (depth difference in metres).
-    const sceneDepth = linearDepth(viewportDepthTexture());
-    const diff = sceneDepth.sub(linearDepth()).mul(cameraFar.sub(cameraNear));
-    const soft = smoothstep(0, 0.8, diff).mul(beamGlobals.soft).add(float(1).sub(beamGlobals.soft));
+    let soft;
+    if (beamFeatures.depthSoft) {
+      const sceneDepth = linearDepth(viewportDepthTexture());
+      const diff = sceneDepth.sub(linearDepth()).mul(cameraFar.sub(cameraNear));
+      soft = smoothstep(0, 0.8, diff).mul(beamGlobals.soft).add(float(1).sub(beamGlobals.soft));
+    } else {
+      // Cheap: fade out the last 60 cm above the floor (where most beams end).
+      soft = smoothstep(0.02, 0.6, positionWorld.y);
+    }
     const alpha = edge.mul(falloff).mul(narrow).mul(clamp(hazeNoise, 0.15, 2)).mul(soft).mul(beamGlobals.haze).mul(0.9);
     m.colorNode = vColor.mul(alpha);
     m.opacityNode = float(1);
@@ -128,6 +142,17 @@ export class InstancedBeams {
 
   get count() {
     return this.n;
+  }
+
+  /**
+   * The current beams for another renderer (native VR app): 16 floats per beam –
+   * origin.xyz, tanHalf | dir.xyz, 0 | right.xyz, lens | colour.rgb, softness.
+   */
+  pack(out: Float32Array, at: number, max: number): number {
+    const n = Math.min(this.n, max);
+    const src = [this.a0.array, this.a1.array, this.a2.array, this.a3.array] as Float32Array[];
+    for (let i = 0; i < n; i++) for (let k = 0; k < 4; k++) out.set(src[k].subarray(i * 4, i * 4 + 4), at + i * 16 + k * 4);
+    return n;
   }
 
   begin() {

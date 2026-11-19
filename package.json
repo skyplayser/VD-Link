@@ -40,6 +40,7 @@
   },
   "dependencies": {
     "koffi": "3.3.8",
+    "selfsigned": "5.5.0",
     "three": "0.187.0"
   },
   "devDependencies": {
@@ -49,6 +50,7 @@
     "electron-builder": "26.17.0",
     "esbuild": "0.28.2",
     "fast-xml-parser": "5.12.0",
+    "iwer": "2.8.0",
     "typescript": "7.0.2",
     "vite": "8.3.8"
   },
@@ -92,7 +94,10 @@
       ],
       "extendInfo": {
         "NSScreenCaptureUsageDescription": "VD-Link zeigt das Bild virtueller Monitore (z. B. von VJ-Link) auf den Videowänden der 3D-Ansicht.",
-        "NSLocalNetworkUsageDescription": "VD-Link empfängt Art-Net und sACN von Lichtpulten im lokalen Netzwerk."
+        "NSLocalNetworkUsageDescription": "VD-Link empfängt Art-Net, sACN und NDI®-Streams im lokalen Netzwerk.",
+        "NSBonjourServices": [
+          "_ndi._tcp"
+        ]
       },
       "hardenedRuntime": false,
       "artifactName": "VD-Link-macos-${arch}.${ext}"

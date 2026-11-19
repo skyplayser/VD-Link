@@ -8,6 +8,7 @@ import type { FixtureDef } from './shared/fixture-types.ts';
 import { locationToScenario, normalizeLocation, type LocationData } from './shared/location.ts';
 import type { Scenario } from './shared/scenarios.ts';
 import type { CamId, DmxMode, Quality } from './ui/ctx.ts';
+import type { ScreenSettings } from './render/videowall.ts';
 
 export interface ProjectData {
   format: 'vd-link-project';
@@ -23,6 +24,8 @@ export interface ProjectData {
   notes: string;
   /** Own lamps used in this project – embedded so the file works on every computer. */
   customFixtures: FixtureDef[];
+  /** Video screens by name: source (NDI®), fit, behaviour on signal loss, brightness. */
+  screens?: Record<string, Partial<ScreenSettings>>;
 }
 
 export function newProject(name: string, template: ScenarioId): ProjectData {
@@ -69,6 +72,7 @@ export function normalize(raw: unknown): ProjectData {
         ? { template: 'custom', location: normalizeLocation(r.venue.location) }
         : { template: base.venue.template },
     customFixtures: Array.isArray(r.customFixtures) ? r.customFixtures : [],
+    screens: r.screens && typeof r.screens === 'object' && !Array.isArray(r.screens) ? r.screens : {},
     fixture: { ...base.fixture, ...r.fixture },
     view: { ...base.view, ...r.view },
     dmx: { ...base.dmx, ...r.dmx },
@@ -89,6 +93,8 @@ export interface AppSettings {
   intro?: 'suite' | 'on' | 'off';
   /** „Nicht mehr zeigen“ on the Link-Suite launcher hint of the start screen. */
   hideLauncherHint?: boolean;
+  /** VR-Brille: viewer server for headsets switched on. */
+  vr?: boolean;
 }
 
 const APP_KEY = 'vdlink.app';

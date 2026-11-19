@@ -15,6 +15,7 @@ import { RigRenderer } from './render/fixture.ts';
 import { createGoboAtlas } from './render/gobos.ts';
 import { BeamLightBuffer } from './render/lighting.ts';
 import { buildVenue, type Venue } from './render/venue.ts';
+import { Headsets, type HeadsetPose } from './render/headsets.ts';
 import { VideoWall } from './render/videowall.ts';
 import type { AppSettings, ProjectData } from './project.ts';
 import type { CamId } from './ui/ctx.ts';
@@ -35,6 +36,8 @@ export class Viz {
   /** Debug switches (?nosurf=1, ?nobeams=1). */
   debug = { nosurf: false, nobeams: false };
   onSecond: (fps: number, t: number) => void = () => {};
+  /** VR headsets connected to the VR server: where they are and where they look. */
+  readonly headsets = new Headsets();
 
   private scene = new THREE.Scene();
   private camera = new THREE.PerspectiveCamera(55, 1, 0.1, 1500);
@@ -61,9 +64,11 @@ export class Viz {
   ) {
     this.backend = (renderer.backend as { isWebGPUBackend?: boolean }).isWebGPUBackend ? 'WebGPU' : 'WebGL2';
     this.scene.background = new THREE.Color(0x020203);
-    this.scene.add(new THREE.HemisphereLight(0x8090b0, 0x101014, 0.25), this.rigGroup);
+    this.scene.add(new THREE.HemisphereLight(0x8090b0, 0x101014, 0.25), this.rigGroup, this.headsets.group);
     this.controls = new OrbitControls(this.camera, renderer.domElement);
     this.controls.enableDamping = true;
+    // Dragging the view ends following a headset.
+    this.controls.addEventListener('start', () => this.followHeadset(null));
     this.pipeline = new THREE.RenderPipeline(renderer);
     const scenePass = pass(this.scene, this.camera);
     this.sceneColor = scenePass.getTextureNode('output');
@@ -80,6 +85,81 @@ export class Viz {
     container.appendChild(renderer.domElement);
     await renderer.init();
     return new Viz(renderer, container, app);
+  }
+
+  /** Root of the room meshes (for the VDM export). */
+  get venueGroup() {
+    return this.venue?.group ?? null;
+  }
+
+  /** Pose of a VR headset (from the VR server). */
+  setHeadsetPose(p: HeadsetPose) {
+    this.headsets.set(p);
+  }
+
+  /** Camera follows a headset: VD-Link shows what the headset sees (null = normal camera). */
+  private follow: string | null = null;
+  private fovBefore = 55;
+  onFollowEnd: () => void = () => {};
+
+  followHeadset(id: string | null) {
+    if (id === this.follow) return;
+    if (id && !this.follow) this.fovBefore = this.camera.fov;
+    this.follow = id;
+    this.headsets.hide(id);
+    // About the field of view of the headsets (vertical).
+    this.camera.fov = id ? 90 : this.fovBefore;
+    this.camera.updateProjectionMatrix();
+    if (!id) this.onFollowEnd();
+  }
+
+  get following() {
+    return this.follow;
+  }
+
+  /** Where the 3D view stands and which way it looks (yaw in degrees, Godot/three.js convention) – a
+   *  headset put there sees what the view shows. y is the camera height (VDM finds the floor below). */
+  viewPoint(): { pos: [number, number, number]; yaw: number } {
+    const c = this.camera.position;
+    const d = this.controls.target.clone().sub(c);
+    const yaw = THREE.MathUtils.radToDeg(Math.atan2(-d.x, -d.z));
+    return { pos: [c.x, c.y, c.z], yaw };
+  }
+
+  private followTick() {
+    if (!this.follow) return;
+    const h = this.headsets.list().find((x) => x.id === this.follow);
+    if (!h) return this.followHeadset(null);
+    this.camera.position.copy(h.pos);
+    const fwd = new THREE.Vector3(0, 0, -1).applyQuaternion(h.quat);
+    this.controls.target.copy(h.pos).addScaledVector(fwd, 0.5);
+  }
+
+  /** Keep simulating the rig while the 3D tab is hidden (native VR app connected). */
+  vrSim = false;
+
+  /**
+   * Beams and surface spots of the current frame for a native VR app:
+   * header [beams, spots, time, 0], then 16 floats per beam (see InstancedBeams.pack),
+   * then 16 floats per spot (BeamLightBuffer layout), brightest spots first.
+   */
+  vrFrame(maxBeams = 512, maxSpots = 64): Float32Array | null {
+    if (!this.rigRenderer) return null;
+    const beams = this.rigRenderer.beams;
+    const nb = Math.min(beams.count, maxBeams);
+    const L = this.lights;
+    const d = L.data;
+    const ns = Math.min(L.size, maxSpots);
+    const out = new Float32Array(4 + nb * 16 + ns * 16);
+    out[0] = beams.pack(out, 4, nb);
+    out[1] = ns;
+    out[2] = (performance.now() - this.tStart) / 1000;
+    const idx = Array.from({ length: L.size }, (_, i) => i);
+    const lum = (i: number) => d[i * 16 + 8] + d[i * 16 + 9] + d[i * 16 + 10];
+    if (L.size > ns) idx.sort((a, b) => lum(b) - lum(a));
+    const base = 4 + nb * 16;
+    for (let k = 0; k < ns; k++) out.set(d.subarray(idx[k] * 16, idx[k] * 16 + 16), base + k * 16);
+    return out;
   }
 
   setTimeOffset(seconds: number) {
@@ -118,12 +198,14 @@ export class Viz {
 
   /** Free camera (development screenshots). */
   setCameraRaw(p: [number, number, number], t: [number, number, number]) {
+    this.followHeadset(null);
     this.camera.position.set(...p);
     this.controls.target.set(...t);
     this.controls.update();
   }
 
   setCamera(id: CamId) {
+    this.followHeadset(null);
     const [p, tg] = this.rig.scenario.cameras[id];
     this.camera.position.set(...p);
     this.controls.target.set(...tg);
@@ -210,6 +292,7 @@ export class Viz {
     const dt = Math.min(0.1, (now - this.last) / 1000);
     this.last = now;
     const tt = (now - this.tStart) / 1000;
+    this.headsets.tick(dt);
     const rig = this.rig;
     if (rig) {
       const net = this.useNetwork();
@@ -225,6 +308,12 @@ export class Viz {
         const f = rig.fixtures[i];
         decode(f.cm, dmx, (f.universe - 1) * 512 + f.address - 1, this.looks[i]);
       }
+      if (!this.isVisible() && this.vrSim) {
+        // A native VR app needs the beams even while the 3D tab is hidden.
+        this.lights.begin();
+        this.rigRenderer!.update(this.looks, dt, tt, this.lights);
+        this.lights.end();
+      }
       if (this.isVisible()) {
         this.lights.begin();
         this.rigRenderer!.update(this.looks, dt, tt, this.lights);
@@ -233,6 +322,7 @@ export class Viz {
         if (this.debug.nobeams) this.rigRenderer!.beams.mesh.visible = false;
         this.venue?.update(tt);
         for (const w of this.walls) w.update(tt);
+        this.followTick();
         this.controls.update();
         this.pipeline.render();
         this.frames++;

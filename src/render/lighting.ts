@@ -94,20 +94,37 @@ export class BeamLightBuffer {
     this.tex.needsUpdate = true;
   }
 
+  /**
+   * Keep only the `max` brightest beams for the surfaces (VR on mobile chips): they are moved
+   * to the front, the shader loops over those only. Dim beams barely show on surfaces anyway.
+   */
+  limit(max: number) {
+    if (this.n <= max) return;
+    const d = this.data;
+    const idx = Array.from({ length: this.n }, (_, i) => i);
+    const lum = (i: number) => d[i * 16 + 8] + d[i * 16 + 9] + d[i * 16 + 10];
+    idx.sort((a, b) => lum(b) - lum(a));
+    const copy = d.slice(0, this.n * 16);
+    for (let k = 0; k < max; k++) d.set(copy.subarray(idx[k] * 16, idx[k] * 16 + 16), k * 16);
+    this.n = max;
+    this.count.value = max;
+  }
+
   /** Accumulated beam light arriving at world position P with normal N. */
   readonly light = Fn(([P, N]: [any, any]) => {
     const sum: any = vec3(0).toVar();
     Loop({ start: int(0), end: this.count, type: 'int', condition: '<' }, ({ i }: { i: any }) => {
+      // Only the cone (texels 0 and 1) for the early out; colour and gobo axis when inside.
       const t0 = textureLoad(this.tex, ivec2(int(0), i));
       const t1 = textureLoad(this.tex, ivec2(int(1), i));
-      const t2 = textureLoad(this.tex, ivec2(int(2), i));
-      const t3 = textureLoad(this.tex, ivec2(int(3), i));
       const toP = P.sub(t0.xyz);
       const dist = max(length(toP), 0.001);
       const L = toP.div(dist);
       const cosT = dot(L, t1.xyz);
       // Early out: most pixels are outside most cones.
       If(cosT.greaterThan(t0.w), () => {
+      const t2 = textureLoad(this.tex, ivec2(int(2), i));
+      const t3 = textureLoad(this.tex, ivec2(int(3), i));
       const cone = smoothstep(t0.w, t1.w, cosT);
       const lambert = max(dot(N, L.negate()), 0.0);
       // Gobo: coordinates of P on the beam's cross-section, -1..1 at the cone edge.
@@ -152,6 +169,8 @@ export class BeamLightBuffer {
     const tint = mix(base, vec3(1, 1, 1), 0.55);
     const beams = tint.mul(this.light(positionWorld, normalWorld)).mul(this.surfaceGain).mul(o.receive ?? 0.35);
     m.emissiveNode = o.emissive ? beams.add(o.emissive) : beams;
+    // Description for the native VDM app (src/render/vr-export.ts); patterns are added by the caller.
+    m.userData.vr = { kind: 'lit', color: `#${new THREE.Color(o.color).getHexString()}`, rough: o.roughness ?? 0.7, metal: o.metalness ?? 0, recv: o.receive ?? 0.35 };
     return m;
   }
 

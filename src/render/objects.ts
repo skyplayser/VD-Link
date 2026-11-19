@@ -45,10 +45,12 @@ export function litMaterials(lights: BeamLightBuffer): MaterialMaker {
         break;
       case 'marble':
         m = lights.surface({ color: c, roughness: 0.22, metalness: 0.1, receive: 0.45, colorNode: marbleNode() });
+        m.userData.vr.pattern = 'marble';
         break;
       case 'velvet-petrol':
       case 'velvet-violet':
         m = lights.surface({ color: c, roughness: 0.95, receive: 0.45, emissive: sheen(c, 0.5) });
+        Object.assign(m.userData.vr, { pattern: 'sheen', sheen: 0.5 });
         break;
       case 'metal':
         m = lights.surface({ color: c, roughness: 0.35, metalness: 0.85, receive: 0.35 });
@@ -213,6 +215,7 @@ export function buildObjectMesh(o: LocObject, mat: MaterialMaker): THREE.Object3
     case 'videowall': {
       const scr = mesh(new THREE.PlaneGeometry(w, h), glow(0x2a4a8a, 0.8), h / 2);
       scr.position.z = 0.07;
+      scr.userData.vrSkip = true; // VDM draws the picture itself
       g.add(mesh(new THREE.BoxGeometry(w + 0.12, h + 0.12, 0.12), mat('black'), h / 2), scr);
       break;
     }

@@ -6,6 +6,7 @@ import { patchCsv } from '../shared/demo-rig.ts';
 import type { FixtureDef, FixtureIndexEntry } from '../shared/fixture-types.ts';
 import { VD_GENERIC_MH } from '../shared/fixtures/vd-generic-mh.ts';
 import { FixturePreview } from '../render/fixture-preview.ts';
+import type { VideoWall } from '../render/videowall.ts';
 import type { Ctx, DmxMode } from './ctx.ts';
 import { el, icon, seg } from './dom.ts';
 import { getLang, t } from './i18n.ts';
@@ -424,6 +425,7 @@ export class LibraryPanel implements Panel {
 
 export class WallsPanel implements Panel {
   private statusEls: HTMLElement[] = [];
+  private hintEls: HTMLElement[] = [];
   private sources: Awaited<ReturnType<typeof window.vd.listCaptureSources>> = [];
   private permDenied = false;
   private virtual = new Map<number, number>(); // wall index → displayID
@@ -432,6 +434,23 @@ export class WallsPanel implements Panel {
   private ndiSearching = false;
 
   constructor(private root: HTMLElement, private ctx: Ctx) {}
+
+  /** Remember the screen's settings in the project (source, fit, loss behaviour, brightness). */
+  private store(wall: VideoWall) {
+    const p = this.ctx.project();
+    if (!p) return;
+    (p.screens ??= {})[wall.name] = wall.settings();
+    this.ctx.changed();
+  }
+
+  /** Hint when source and output have different pixel sizes. */
+  private mismatch(wall: VideoWall): string {
+    if (wall.source.kind === 'test') return '';
+    const [sw, sh] = wall.sourceSize;
+    const [ow, oh] = wall.pixels;
+    if (!sw || !sh || (sw === ow && sh === oh)) return '';
+    return t(`walls.mismatch.${wall.fit}`, { s: `${sw}×${sh}`, o: `${ow}×${oh}` });
+  }
 
   async refresh() {
     try {
@@ -491,6 +510,7 @@ export class WallsPanel implements Panel {
     if (window.vd.platform === 'win32') w.append(el('div', 'note', t('walls.win')));
     const cards = el('div', 'cards');
     this.statusEls = [];
+    this.hintEls = [];
     this.ctx.walls().forEach((wall, i) => {
       const c = el('div', `card ${wall.source.kind !== 'test' ? 'ok' : ''}`);
       const h = el('div', 'head');
@@ -533,6 +553,7 @@ export class WallsPanel implements Panel {
             ? { kind: 'capture' as const, sourceId: s.id, label: s.name }
             : { kind: 'test' as const };
         await wall.setSource(next).catch((e) => (wall.status = String(e)));
+        this.store(wall);
         this.render();
       };
       const row1 = el('div', 'row');
@@ -547,6 +568,7 @@ export class WallsPanel implements Panel {
       bright.step = '0.05';
       bright.value = String(wall.brightness.value);
       bright.oninput = () => (wall.brightness.value = Number(bright.value));
+      bright.onchange = () => this.store(wall);
       const row2 = el('div', 'row');
       row2.append(el('span', 'muted small', t('walls.brightness')), bright);
       c.append(h);
@@ -558,12 +580,64 @@ export class WallsPanel implements Panel {
         low.checked = cur.low;
         low.onchange = async () => {
           await wall.setSource({ ...cur, low: low.checked }).catch((e) => (wall.status = String(e)));
+          this.store(wall);
           this.render();
         };
         const lab = el('label', 'row muted small');
         lab.append(el('span', '', t('walls.ndi.low')), low);
         c.append(lab);
       }
+      if (cur.kind !== 'test') {
+        // How the source lands on the output when the sizes differ.
+        const fit = el('select');
+        fit.dataset.k = 'fit';
+        for (const m of ['fit', 'pixel', 'stretch'] as const) fit.append(opt(m, t(`walls.fit.${m}`)));
+        fit.value = wall.fit;
+        fit.onchange = () => {
+          wall.fit = fit.value as typeof wall.fit;
+          this.store(wall);
+          this.render();
+        };
+        const rowF = el('div', 'row');
+        rowF.append(el('span', 'muted small', t('walls.fit')), fit);
+        c.append(rowF);
+        if (wall.fit === 'pixel') {
+          const num = (i: 0 | 1) => {
+            const n = el('input');
+            n.type = 'number';
+            n.min = '0';
+            n.step = '1';
+            n.value = String(wall.offset[i]);
+            n.style.width = '6em';
+            n.onchange = () => {
+              wall.offset[i] = Math.max(0, Math.round(Number(n.value) || 0));
+              n.value = String(wall.offset[i]);
+              this.store(wall);
+            };
+            return n;
+          };
+          const rowO = el('div', 'row');
+          rowO.append(el('span', 'muted small', t('walls.offset')), num(0), num(1));
+          c.append(rowO);
+        }
+        if (cur.kind === 'ndi') {
+          const loss = el('select');
+          loss.dataset.k = 'loss';
+          for (const m of ['black', 'freeze', 'test'] as const) loss.append(opt(m, t(`walls.loss.${m}`)));
+          loss.value = wall.onLoss;
+          loss.onchange = () => {
+            wall.onLoss = loss.value as typeof wall.onLoss;
+            this.store(wall);
+          };
+          const rowL = el('div', 'row');
+          rowL.append(el('span', 'muted small', t('walls.loss')), loss);
+          c.append(rowL);
+        }
+      }
+      const hint = el('div', 'note warn small', this.mismatch(wall));
+      hint.hidden = !hint.textContent;
+      this.hintEls.push(hint);
+      c.append(hint);
       c.append(create, st);
       if (vd) c.append(el('div', 'muted small', t('walls.howto', { n: `VD-Link ${wall.name}` })));
       cards.append(c);
@@ -576,6 +650,12 @@ export class WallsPanel implements Panel {
     this.ctx.walls().forEach((wall, i) => {
       const s = this.statusEls[i];
       if (s && s.textContent !== wall.status) s.textContent = wall.status;
+      const h = this.hintEls[i];
+      const m = h ? this.mismatch(wall) : '';
+      if (h && h.textContent !== m) {
+        h.textContent = m;
+        h.hidden = !m;
+      }
     });
   }
 
@@ -627,7 +707,64 @@ export class ConnectPanel implements Panel {
   private uni = 1;
   private ma2: ReturnType<typeof ma2Assistant> | null = null;
 
+  private vrBox = el('div', 'card vr');
+  private vrClients = 0;
+
   constructor(private root: HTMLElement, private ctx: Ctx) {}
+
+  /** Number of connected headsets changed. */
+  vrChanged(n: number) {
+    this.vrClients = n;
+    if (this.vrBox.isConnected) void this.renderVr();
+  }
+
+  /** VR-Brille: switch on, address + code to type into the headset, connected headsets. */
+  private async renderVr() {
+    const box = this.vrBox;
+    const info = await window.vd.vrInfo?.().catch(() => null);
+    box.className = `card vr ${info?.running ? 'ok' : ''}`;
+    const h = el('div', 'head');
+    h.append(el('b', '', t('vr.title')), el('em', '', info?.running ? t('vr.clients', { n: String(this.vrClients) }) : t('vr.off')));
+    box.replaceChildren(h);
+    if (!info) {
+      box.append(el('div', 'muted small', t('vr.unavailable')));
+      return;
+    }
+    const toggle = button(info.running ? t('vr.stop') : t('vr.start'), async () => {
+      this.ctx.app.vr = !info.running;
+      this.ctx.saveApp();
+      await window.vd.vrEnable(!info.running);
+      dispatchEvent(new Event('vd-vr'));
+      void this.renderVr();
+    }, info.running ? 'btn' : 'btn primary');
+    if (!info.running) {
+      box.append(el('div', 'muted small', t('vr.text')), toggle);
+      return;
+    }
+    const big = (label: string, url: string, hint: string) => {
+      const r = el('div', 'vr-url');
+      r.append(el('div', 'muted small', label), el('div', 'ipl', url.replace(/^https?:\/\//, '').replace(/\/$/, '')), el('div', 'muted small', hint));
+      return r;
+    };
+    box.append(el('div', 'vr-code', info.code), el('div', 'muted small', t('vr.codeHint')));
+    info.lan.forEach((u, i) => box.append(big(i ? '' : t('vr.lan'), u, i === info.lan.length - 1 ? t('vr.lanHint') : '')));
+    box.append(big(t('vr.local'), info.local, t('vr.localHint')));
+    if (info.error) box.append(el('div', 'note warn small', info.error));
+    const row = el('div', 'row');
+    row.append(toggle, button(t('vr.newCode'), async () => {
+      await window.vd.vrNewCode();
+      void this.renderVr();
+    }, 'btn'));
+    if (window.vd.platform === 'win32') row.append(button(t('vr.pcvr'), () => void window.vd.vrOpenPcvr(), 'btn'));
+    box.append(row);
+    // VDM app: save the running show on the headsets (plays there without a computer).
+    const note = el('div', 'muted small');
+    const rec = button(t('vr.record'), async () => {
+      const n = await window.vd.vrRecord(60);
+      note.textContent = n > 0 ? t('vr.recordSent', { n: String(n) }) : t('vr.recordNone');
+    }, 'btn');
+    box.append(el('div', 'muted small', t('vr.vdm')), rec, note);
+  }
 
   render() {
     const p = this.ctx.project()!;
@@ -649,7 +786,8 @@ export class ConnectPanel implements Panel {
       for (const ip of ips) ipCard.append(el('div', 'ipl', `${ip.address}`), el('div', 'muted small', ip.name));
       if (!ips.length) ipCard.append(el('div', 'ipl', '127.0.0.1'));
     });
-    cards.append(ipCard);
+    cards.append(ipCard, this.vrBox);
+    void this.renderVr();
     w.append(cards);
 
     const opt = el('div', 'form');

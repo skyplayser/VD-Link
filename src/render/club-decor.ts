@@ -52,6 +52,7 @@ export function glow(color: THREE.ColorRepresentation, intensity: number) {
   const m = new THREE.MeshBasicNodeMaterial();
   const c = new THREE.Color(color);
   m.colorNode = vec3(c.r, c.g, c.b).mul(intensity);
+  m.userData.vr = { kind: 'glow', color: `#${c.getHexString()}`, intensity };
   return m;
 }
 
@@ -90,6 +91,7 @@ function neonSign(text: string, color: string, width: number) {
   const m = new THREE.MeshBasicNodeMaterial({ map: tex, transparent: true, depthWrite: false, blending: THREE.AdditiveBlending });
   const mesh = new THREE.Mesh(new THREE.PlaneGeometry(width, width / 4), m);
   m.color.setScalar(3.2);
+  m.userData.vr = { kind: 'add', color: '#ffffff', intensity: 3.2, map: c };
   return mesh;
 }
 
@@ -112,6 +114,7 @@ export function aquariumMaterial() {
   }
   // Darker bottom, brighter top.
   m.colorNode = col.mul(float(0.45).add(st.y.mul(0.7))).mul(1.05);
+  m.userData.vr = { kind: 'aqua' };
   return m;
 }
 
@@ -122,11 +125,14 @@ export function buildClubDecor(lights: BeamLightBuffer) {
 
   // Shared materials
   const marble = lights.surface({ color: 0x050506, roughness: 0.22, metalness: 0.1, receive: 0.45, colorNode: marbleNode() });
+  marble.userData.vr.pattern = 'marble';
   const blackTop = lights.surface({ color: 0x08080a, roughness: 0.18, metalness: 0.2, receive: 0.4 });
   const velvetColor = new THREE.Color(0x0f5d70);
   const velvet = lights.surface({ color: velvetColor, roughness: 0.95, receive: 0.45, emissive: sheen(velvetColor, 0.5) });
+  Object.assign(velvet.userData.vr, { pattern: 'sheen', sheen: 0.5 });
   const violetVelvet = new THREE.Color(0x3a1e46);
   const velvet2 = lights.surface({ color: violetVelvet, roughness: 0.95, receive: 0.45, emissive: sheen(violetVelvet, 0.45) });
+  Object.assign(velvet2.userData.vr, { pattern: 'sheen', sheen: 0.45 });
   const darkMetal = lights.surface({ color: 0x1b1c20, roughness: 0.45, metalness: 0.6, receive: 0.35 });
   const riser = lights.surface({ color: 0x141418, roughness: 0.6, receive: 0.5 });
   const warmLed = glow(0xffd9a8, 3.2);
@@ -157,6 +163,7 @@ export function buildClubDecor(lights: BeamLightBuffer) {
       const m = new THREE.MeshBasicNodeMaterial({ transparent: true, depthWrite: false, blending: THREE.AdditiveBlending });
       const st = uv();
       m.colorNode = vec3(1, 0.78, 0.5).mul(smoothstep(1, 0, st.x).pow(2).mul(0.35));
+      m.userData.vr = { kind: 'add', color: `#${new THREE.Color(1, 0.78, 0.5).getHexString()}`, intensity: 0.35, pattern: 'fade' };
       return m;
     })(),
   );
@@ -306,6 +313,7 @@ export function buildClubDecor(lights: BeamLightBuffer) {
   // Ventilation duct with ribs (stripes on the surface)
   const ductMat = new THREE.MeshStandardNodeMaterial({ color: 0x2a2b30, roughness: 0.4, metalness: 0.7 });
   ductMat.colorNode = vec3(0.16, 0.165, 0.18).mul(float(0.7).add(smoothstep(0.75, 0.85, fract(positionLocal.y.mul(4))).mul(0.6)));
+  ductMat.userData.vr = { kind: 'lit', color: `#${new THREE.Color(0.16, 0.165, 0.18).getHexString()}`, rough: 0.4, metal: 0.7, recv: 0, pattern: 'duct' };
   const duct = new THREE.Mesh(new THREE.CylinderGeometry(0.32, 0.32, 15, 24, 1, true), ductMat);
   duct.rotation.x = Math.PI / 2;
   duct.position.set(-6.4, 6.95, 0);

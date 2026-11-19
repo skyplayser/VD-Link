@@ -20,6 +20,8 @@ interface Recv {
 }
 
 const parent = process.parentPort;
+const debug = !!process.env.VD_NDI_DEBUG;
+const dbg = (...a: unknown[]) => debug && console.log('[vd-ndi]', ...a);
 const loaded = loadNdi();
 let initialized = false;
 let finder: unknown = null;
@@ -28,7 +30,10 @@ const recvs = new Map<string, Recv>();
 
 function init(): boolean {
   if (!loaded.ok) return false;
-  if (!initialized) initialized = loaded.lib.initialize();
+  if (!initialized) {
+    initialized = loaded.lib.initialize();
+    dbg('initialize', initialized, loaded.lib.path, loaded.lib.version);
+  }
   return initialized;
 }
 
@@ -51,7 +56,9 @@ parent.on('message', async (e) => {
         // First look: give mDNS a moment to answer.
         await lib.findWait(finder, 1500).catch(() => false);
       }
-      reply(m.id!, finder ? lib.findSources(finder) : []);
+      const found = finder ? lib.findSources(finder) : [];
+      dbg('sources', found.length, JSON.stringify(found));
+      reply(m.id!, found);
       break;
     }
     case 'port':
@@ -119,6 +126,7 @@ async function loop(r: Recv) {
       send({ t: 'status', key: r.key, state: 'error', error: String(err) });
       break;
     }
+    if (debug && type !== FRAME.none) dbg('capture', r.key, type);
     if (type === FRAME.video) {
       const f = frame as VideoFrame;
       count++;

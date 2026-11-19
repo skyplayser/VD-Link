@@ -101,10 +101,44 @@ const api = {
   ndiOpen: (key: string, src: NdiSource, low: boolean) => ipcRenderer.invoke('ndi:open', key, src.name, src.url, low),
   ndiClose: (key: string) => ipcRenderer.invoke('ndi:close', key),
   ndiLink: (which: 'home' | 'runtime') => ipcRenderer.invoke('ndi:link', which),
+  // VR-Brille: viewer server for headsets on the network.
+  vrInfo: () => ipcRenderer.invoke('vr:info') as Promise<VrInfo>,
+  vrEnable: (on: boolean) => ipcRenderer.invoke('vr:enable', on) as Promise<VrInfo>,
+  vrNewCode: () => ipcRenderer.invoke('vr:newCode') as Promise<VrInfo>,
+  vrOpenPcvr: () => ipcRenderer.invoke('vr:openPcvr'),
+  /** Ask connected VDM headsets to record the show (seconds); returns how many got it. */
+  vrRecord: (seconds: number) => ipcRenderer.invoke('vr:record', seconds) as Promise<number>,
+  vrScene: (json: string) => ipcRenderer.send('vr:scene', json),
+  vrDmx: (data: Uint8Array) => ipcRenderer.send('vr:dmx', data),
+  vrView: (v: { haze: number; day: boolean }) => ipcRenderer.send('vr:view', v),
+  /** Picture of video screen i (JPEG) and the state of all screens (JSON). */
+  vrWall: (i: number, jpeg: Uint8Array) => ipcRenderer.send('vr:wall', i, jpeg),
+  vrWalls: (json: string) => ipcRenderer.send('vr:walls', json),
+  /** Native VR apps: ready-made beams per frame, and how many such apps are connected. */
+  vrFrame: (data: Uint8Array) => ipcRenderer.send('vr:frame', data),
+  /** Gobo atlas (PNG, cols × rows tiles) for native VR apps. */
+  vrGobos: (png: Uint8Array, cols: number, rows: number) => ipcRenderer.send('vr:gobos', png, cols, rows),
+  /** The room as VD-Link draws it, for VDM (src/render/vr-export.ts). */
+  vrVenue: (bytes: Uint8Array) => ipcRenderer.send('vr:venue', bytes),
+  /** Put a VDM headset (id, or all with null) at a place, looking along yaw (degrees). Returns how many. */
+  vrGoto: (id: string | null, pos: [number, number, number], yaw: number) => ipcRenderer.invoke('vr:goto', id, pos, yaw) as Promise<number>,
+  onVrNative: (cb: (n: number) => void) => {
+    ipcRenderer.on('vr:native', (_e, n: number) => cb(n));
+  },
+  /** Where a connected headset is and where it looks (~10×/s per headset). */
+  onVrPose: (cb: (p: VrPose) => void) => {
+    ipcRenderer.on('vr:pose', (_e, p: VrPose) => cb(p));
+  },
+  onVrClients: (cb: (n: number) => void) => {
+    ipcRenderer.on('vr:clients', (_e, n: number) => cb(n));
+  },
 };
 
 // MessagePorts cannot cross the context bridge – hand them over as a window message.
 ipcRenderer.on('ndi:port', (e) => window.postMessage({ vdNdiPort: true }, '*', e.ports));
+
+import type { VrInfo, VrPose } from './vr-server.ts';
+export type { VrInfo };
 
 export interface NdiSource {
   name: string;

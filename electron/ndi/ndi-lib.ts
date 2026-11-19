@@ -13,6 +13,11 @@ import { existsSync } from 'node:fs';
 import path from 'node:path';
 import koffi from 'koffi';
 
+// koffi gives .async calls only 128 KiB of stack by default. NDI's send path overran that
+// on Intel/Rosetta (SIGBUS, seen in VJ-Link); receive stayed below it in our tests, but
+// 2 MiB costs nothing and keeps both apps on the same safe setting.
+koffi.config({ ...koffi.config(), async_stack_size: 2 * 1024 * 1024 });
+
 /** Official download pages of the NDI runtime (NDI SDK documentation). */
 export const NDI_RUNTIME_URL = process.platform === 'darwin' ? 'https://ndi.link/NDIRedistV6Apple' : 'https://ndi.link/NDIRedistV6';
 export const NDI_HOME_URL = 'https://ndi.video/';

@@ -28,6 +28,9 @@ import { fixturePicker, locationWizard } from './ui/dialogs.ts';
 import { openGallery, pickFromGallery } from './ui/gallery.ts';
 import { newLocation, normalizeLocation, scenarioToLocation, type LocationData } from './shared/location.ts';
 import { SCENARIOS } from './shared/scenarios.ts';
+import { drawGoboAtlas, GOBO_COLS, GOBO_ROWS } from './render/gobos.ts';
+import { exportVenue } from './render/vr-export.ts';
+import { VrMenu } from './ui/vr-menu.ts';
 import { projectFromLocation, projectScenario } from './project.ts';
 import type { DmxStatus } from '../electron/preload.ts';
 
@@ -151,13 +154,16 @@ const ctx: Ctx = {
 
 const library = new LibraryPanel(document.getElementById('tab-library')!, ctx);
 const wallsPanel = new WallsPanel(document.getElementById('tab-walls')!, ctx);
+const connectPanel = new ConnectPanel(document.getElementById('tab-connect')!, ctx);
 const panels: Partial<Record<TabId, Panel>> = {
   patch: new PatchPanel(document.getElementById('tab-patch')!, ctx),
   library,
   walls: wallsPanel,
-  connect: new ConnectPanel(document.getElementById('tab-connect')!, ctx),
+  connect: connectPanel,
 };
 const start = new StartScreen(ctx);
+const vrMenu = new VrMenu(ctx, () => viz, () => connectPanel.vrChanged(vrClients));
+addEventListener('vd-vr', () => void vrMenu.refresh());
 const shell = document.getElementById('shell')!;
 
 // ----------------------------------------------------------- project flow
@@ -166,6 +172,8 @@ async function ensureViz() {
   if (viz) return viz;
   viz = await Viz.create(document.getElementById('view')!, app, params.get('webgl') === '1');
   viz.useNetwork = usingNetwork;
+  viz.headsets.onChange = () => vrMenu.headsetsChanged();
+  viz.onFollowEnd = () => vrMenu.headsetsChanged();
   viz.isVisible = () => windowVisible && currentTab === 'view' && !start.visible && !document.hidden && !locBuilder.visible && !fixBuilder.visible;
   viz.debug = { nosurf: params.get('nosurf') === '1', nobeams: params.get('nobeams') === '1' };
   if (params.get('t')) viz.setTimeOffset(Number(params.get('t')));
@@ -191,10 +199,103 @@ async function reload() {
     if (d) defs.set(id, d);
   }
   v.load(def, project, sc, (id) => defs.get(id));
+  // VR headsets get the same scene (they build it with the same code).
+  // `loc`: the room as a location also for the ready-made templates (native VDM app builds from it).
+  const loc = project.venue.location ?? scenarioToLocation(sc, project.name, project.fixture);
+  window.vd.vrScene?.(JSON.stringify({ project, def, defs: Object.fromEntries(defs), loc }));
+  if (app.vr) void sendVrVenue();
+  // Screens remember their source (NDI®), fit and loss behaviour in the project.
+  for (const w of v.walls) {
+    const cfg = project.screens?.[w.name];
+    if (cfg) void w.applySettings(cfg).catch((e) => (w.status = String(e)));
+  }
   renderToolbar();
   for (const p of Object.values(panels)) p?.render();
   log(`load ${project.venue.template}: ${def.manufacturer} ${def.model} ×${v.rig.fixtures.length}, ${v.rig.universes} universes`);
 }
+
+// ------------------------------------------------------------------ VR-Brille
+// Raw DMX of the used universes to the headsets (~40×/s, only while one is connected).
+let vrClients = 0;
+let vrTimer = 0;
+let vrWallTimer = 0;
+const vrWallBusy = new Set<number>();
+window.vd.onVrClients?.((n) => {
+  vrClients = n;
+  vrMenu.clientsChanged(n);
+  clearInterval(vrTimer);
+  clearInterval(vrWallTimer);
+  if (n > 0) {
+    vrTimer = window.setInterval(() => {
+      const r = viz?.rig;
+      if (!r || !viz) return;
+      window.vd.vrDmx(viz.currentDmx().slice(0, Math.max(1, r.universes) * 512));
+    }, 25);
+    // Video screens: state (~4×/s) and the live picture as JPEG (~15×/s, at most 1600 px wide).
+    let tick = 0;
+    vrWallTimer = window.setInterval(() => {
+      const walls = viz?.walls ?? [];
+      if (tick++ % 4 === 0)
+        window.vd.vrWalls(JSON.stringify(walls.map((w) => ({ name: w.name, state: w.mirrorState, fit: w.fit, offset: w.offset, brightness: w.brightness.value }))));
+      walls.forEach((w, i) => {
+        if (vrWallBusy.has(i)) return;
+        const c = w.snapshot(1600);
+        if (!c) return;
+        vrWallBusy.add(i);
+        c.toBlob(
+          (b) => {
+            if (!b) return void vrWallBusy.delete(i);
+            void b.arrayBuffer().then((buf) => {
+              window.vd.vrWall(i, new Uint8Array(buf));
+              vrWallBusy.delete(i);
+            });
+          },
+          'image/jpeg',
+          0.72,
+        );
+      });
+    }, 66);
+  }
+  connectPanel.vrChanged(n);
+});
+// The room as drawn here (bar, lounge, trusses …) for VDM – once per built venue.
+let vrVenueOf: object | null = null;
+async function sendVrVenue() {
+  const g = viz?.venueGroup;
+  if (!g || vrVenueOf === g) return;
+  vrVenueOf = g;
+  const t0 = performance.now();
+  try {
+    const r = await exportVenue(g);
+    if (viz?.venueGroup !== g) return;
+    window.vd.vrVenue?.(r.bytes);
+    log(`vr venue: ${r.triangles} triangles, ${r.meshes} meshes, ${(r.bytes.length / 1e6).toFixed(1)} MB, ${Math.round(performance.now() - t0)} ms`);
+  } catch (e) {
+    vrVenueOf = null;
+    log(`vr venue failed: ${String(e)}`);
+  }
+}
+// Native VR apps (Pico/Quest): beams and spots ready-made, ~60×/s, also while the 3D tab is hidden.
+let vrNativeTimer = 0;
+window.vd.onVrNative?.((n) => {
+  clearInterval(vrNativeTimer);
+  if (viz) viz.vrSim = n > 0;
+  if (n > 0) void sendVrVenue();
+  if (n > 0)
+    vrNativeTimer = window.setInterval(() => {
+      const f = viz?.vrFrame();
+      if (f) window.vd.vrFrame(new Uint8Array(f.buffer));
+    }, 16);
+});
+// Gobo atlas for the native VDM app (api/gobos.png) – the same pictures as on the desktop.
+{
+  const c = document.createElement('canvas');
+  drawGoboAtlas(c);
+  c.toBlob((b) => void b?.arrayBuffer().then((buf) => window.vd.vrGobos?.(new Uint8Array(buf), GOBO_COLS, GOBO_ROWS)), 'image/png');
+}
+// Headsets show up in the 3D view (position and view direction).
+window.vd.onVrPose?.((p) => viz?.setHeadsetPose(p));
+if (app.vr) void window.vd.vrEnable?.(true);
 
 async function openProject(p: ProjectData, path: string | null, isDirty = false) {
   await wallsPanel.resetVirtual();

@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>VD-Link VR</title>
+    <style>
+      :root { --bg: #0b0b10; --panel: rgba(16, 16, 23, 0.9); --line: rgba(255, 255, 255, 0.1); --text: #f2f2f6; --dim: #9a9aab; --accent: #ff4f8b; --ok: #5dffa8; }
+      * { box-sizing: border-box; }
+      html, body { margin: 0; height: 100%; background: var(--bg); color: var(--text); font: 16px/1.4 system-ui, -apple-system, 'Segoe UI', sans-serif; overflow: hidden; }
+      #view, #view canvas { position: fixed; inset: 0; width: 100%; height: 100%; display: block; }
+      #ui { position: fixed; left: 50%; bottom: 28px; transform: translateX(-50%); width: min(560px, calc(100% - 32px)); background: var(--panel); border: 1px solid var(--line); border-radius: 22px; padding: 22px 24px; backdrop-filter: blur(14px); }
+      .top { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+      .brand { font-weight: 800; letter-spacing: 0.02em; }
+      .brand b { color: var(--accent); }
+      #proj { color: var(--dim); }
+      #fps { margin-left: auto; color: var(--dim); font: 12px ui-monospace, monospace; }
+      #status { margin: 10px 0 0; color: var(--dim); }
+      #status.err { color: #ff8a8a; }
+      #enter { width: 100%; margin: 16px 0 6px; height: 64px; border: 0; border-radius: 16px; background: var(--accent); color: #fff; font-size: 22px; font-weight: 700; cursor: pointer; }
+      #enter:disabled { background: #2a2a36; color: var(--dim); cursor: default; }
+      #xrnote { color: var(--dim); font-size: 14px; margin: 6px 0 0; }
+      details { margin-top: 10px; }
+      summary { cursor: pointer; color: var(--dim); padding: 6px 0; }
+      .row { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin: 8px 0; }
+      .row span { color: var(--dim); }
+      .seg { display: flex; background: #1b1b24; border-radius: 12px; padding: 3px; }
+      .seg button { border: 0; background: transparent; color: var(--text); padding: 9px 12px; border-radius: 9px; font-size: 14px; cursor: pointer; }
+      .seg button.on { background: var(--accent); }
+      .help { color: var(--dim); font-size: 14px; margin: 10px 0 0; padding-left: 18px; }
+      .help li { margin: 3px 0; }
+      #device { color: var(--dim); font-size: 12px; }
+      body.in-vr #ui { display: none; }
+      @media (max-width: 480px) { #ui { padding: 18px 16px; } .row { flex-direction: column; align-items: stretch; } }
+    </style>
+  </head>
+  <body>
+    <div id="view"></div>
+    <div id="ui">
+      <div class="top"><span class="brand">VD-Link <b>VR</b></span><span id="proj"></span><span id="fps"></span></div>
+      <p id="status">Lade …</p>
+      <button id="enter" disabled>Lädt …</button>
+      <p id="xrnote" hidden></p>
+      <details>
+        <summary>Einstellungen und Steuerung</summary>
+        <div id="settings"></div>
+        <ul class="help">
+          <li><b>Rechter Stick nach vorn</b>: Ziel zeigen, loslassen = hinspringen (auch auf Bühne und Podeste)</li>
+          <li><b>Rechter Stick zur Seite</b>: drehen</li>
+          <li><b>Linker Stick</b>: laufen (abschaltbar)</li>
+          <li><b>Taste B oder Y</b>: Menü mit Standorten, Haze und Einstellungen · <b>Abzug</b>: auswählen</li>
+          <li>Hier vorab: Maus ziehen = umsehen</li>
+        </ul>
+        <div id="device"></div>
+      </details>
+    </div>
+    <script type="module" src="./src/vr/vr-app.ts"></script>
+  </body>
+</html>

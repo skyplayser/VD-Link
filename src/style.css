@@ -322,3 +322,37 @@ tr:last-child td{border-bottom:0}
 .note.ndi p{margin:0;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
 .note.ndi p + p{margin-top:6px}
 .note.ndi a{color:var(--accent)}
+
+/* VR-Brille (VERBINDEN) */
+.card.vr .vr-code { font: 700 40px/1.1 ui-monospace, 'JetBrains Mono', monospace; letter-spacing: 0.3em; margin: 10px 0 2px; }
+.card.vr .vr-url { margin-top: 10px; }
+.card.vr .vr-url .ipl { word-break: break-all; }
+.card.vr .row { margin-top: 12px; gap: 8px; flex-wrap: wrap; }
+
+/* VR button in the header and its pop-up */
+.vr-btn svg{width:16px;height:16px}
+.vr-btn .vr-n{font:600 11px var(--mono);min-width:16px;text-align:center;padding:0 4px;border-radius:8px;background:var(--bg)}
+.vr-btn.ok{color:var(--ok)}
+.vr-btn.live .vr-n{background:var(--ok);color:#06140c}
+.vr-btn.follow{box-shadow:0 0 0 1px var(--accent) inset;color:var(--accent)}
+.vr-pop{position:absolute;top:calc(100% + 6px);right:0;z-index:50;width:340px;grid-template-columns:minmax(0,1fr);max-width:calc(100vw - 32px);background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:14px;box-shadow:0 16px 40px rgba(0,0,0,.5);display:grid;gap:8px}
+.vr-pop[hidden]{display:none}
+.vr-pop .menu-label{font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--dim)}
+.vr-pop-head{display:flex;align-items:center;gap:10px}
+.vr-pop-head em{font-style:normal;color:var(--dim);font-size:11.5px}
+.vr-switch{margin-left:auto;width:36px;height:20px;border-radius:10px;border:1px solid var(--line);background:var(--raise);position:relative;cursor:pointer;padding:0}
+.vr-switch::after{content:'';position:absolute;top:2px;left:2px;width:14px;height:14px;border-radius:50%;background:var(--dim);transition:left .15s}
+.vr-switch.on{background:var(--ok);border-color:var(--ok)}
+.vr-switch.on::after{left:18px;background:#fff}
+.vr-pop .vr-code{font:700 34px/1.1 ui-monospace,'JetBrains Mono',monospace;letter-spacing:.3em}
+.vr-pop-url{display:grid;gap:2px}
+.vr-pop-url .ipl{font:12px var(--mono);word-break:break-all}
+.vr-pop .menu-label{padding:8px 0 0}
+.vr-hs{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
+.vr-hs .dot{color:#ff4f8b}
+.vr-hs-name{flex:1 1 calc(100% - 20px);min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-weight:600}
+.vr-hs .btn{margin-left:12px}.vr-hs .btn + .btn{margin-left:0}
+.vr-hs .btn.on{border-color:var(--accent);color:var(--accent)}
+.vr-pop-actions{display:flex;gap:6px;flex-wrap:wrap;margin-top:6px}
+.linkbtn{background:none;border:0;padding:2px 0;color:var(--dim);cursor:pointer;text-align:left;text-decoration:underline;text-underline-offset:2px}
+.linkbtn:hover{color:var(--text)}

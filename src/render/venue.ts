@@ -106,6 +106,7 @@ export function buildVenue(sc: Scenario, rig: Rig, lights: BeamLightBuffer): Ven
     const wallMat = club
       ? lights.surface({ color: 0x1d1d22, roughness: 0.85, receive: 0.5, colorNode: quilt(0x1d1d22) })
       : lights.material(0x24242a, 0.9, 0, 0.5);
+    if (club) wallMat.userData.vr.pattern = 'quilt';
     const ceilMat = lights.material(0x0c0c0e, 0.95, 0, 0.2);
     const floor = new THREE.Mesh(new THREE.PlaneGeometry(W, D), floorMat);
     floor.rotation.x = -Math.PI / 2;
@@ -249,6 +250,7 @@ export function buildVenue(sc: Scenario, rig: Rig, lights: BeamLightBuffer): Ven
     people.push({ x, z, h: 0.85 + rnd() * 0.25, ph: rnd() * 6.28 });
   }
   crowd.count = people.length;
+  crowd.userData.vrCrowd = people; // VDM draws the crowd itself (same people, same bobbing)
   group.add(crowd);
   const o = new THREE.Object3D();
 

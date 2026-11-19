@@ -1,0 +1,8 @@
+.godot/
+android/
+*.apk
+*.aab
+server.txt
+export_credentials.cfg
+addons/godotopenxrvendors/
+build/
